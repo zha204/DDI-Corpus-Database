@@ -1,12 +1,13 @@
 
 ## Introduction
-
+---------------
 
 **DDI Corpus Database** is a knowledgebase that provides users published annotated DDI corpus used for text mining. 
 
 
 ## Table of Contents
-**`DDI Corpus`**
+--------------------
+`**DDI Corpus**`
 
   * **PK Corpus**
   * **DDI Corpus**
@@ -14,11 +15,11 @@
   * **Drug Synergy Corpus**
   * **DDI Extraction 2013 Challenge**
  
-**`Drug Nutrition Interaction`**
+`**Drug Nutrition Interaction**`
 
-**`Drug Gene Interaction`**
+`**Drug Gene Interaction**`
 
-**`Phenotype Corpus`**
+`**Phenotype Corpus**`
 
   * **Phenotye Definition**
   * **Phenotype Corpus**
