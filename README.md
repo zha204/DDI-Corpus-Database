@@ -6,22 +6,22 @@
 
 
 ## Table of Contents
-[**DDI Corpus**]
+**'DDI Corpus'**
 
-  * [**1 - PK Corpus**]
-  * [**2 - DDI Corpus**]
-  * [**3 - Clinical Safety Corpus**]
-  * [**4 - Drug Synergy Corpus**]
-  * [**5 - DDI Extraction 2013 Challenge**]
+  * **1 - PK Corpus**
+  * **2 - DDI Corpus**
+  * **3 - Clinical Safety Corpus**
+  * **4 - Drug Synergy Corpus**
+  * **5 - DDI Extraction 2013 Challenge**
  
-[**Drug Nutrition Interaction**]
+**'Drug Nutrition Interaction'**
 
-[**Drug Gene Interaction**]
+**'Drug Gene Interaction'**
 
-[**Phenotype Corpus**]
+**'Phenotype Corpus'**
 
-  * [**1 - Phenotye Definition**]
-  * [**2 - Phenotype Corpus**]
-  * [**3 - 2017 n2c2 Annotation for ADE**]
+  * **1 - Phenotye Definition**
+  * **2 - Phenotype Corpus**
+  * **3 - 2017 n2c2 Annotation for ADE**
 
 
