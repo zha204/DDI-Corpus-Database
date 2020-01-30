@@ -7,14 +7,13 @@
 
 ## Table of Contents
 --------------------
-###DDI Corpus
+_###DDI Corpus
 
   * **PK Corpus**
   * **DDI Corpus**
   * **Clinical Safety Corpus**
   * **Drug Synergy Corpus**
   * **DDI Extraction 2013 Challenge**
- 
 ###Drug Nutrition Interaction
 
 ###Drug Gene Interaction
