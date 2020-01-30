@@ -7,18 +7,18 @@
 
 ## Table of Contents
 --------------------
-_###DDI Corpus
+### DDI Corpus
 
   * **PK Corpus**
   * **DDI Corpus**
   * **Clinical Safety Corpus**
   * **Drug Synergy Corpus**
   * **DDI Extraction 2013 Challenge**
-###Drug Nutrition Interaction
+### Drug Nutrition Interaction
 
-###Drug Gene Interaction
+### Drug Gene Interaction
 
-###Phenotype Corpus
+### Phenotype Corpus
 
   * **Phenotye Definition**
   * **Phenotype Corpus**
