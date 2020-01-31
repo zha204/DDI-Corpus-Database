@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="gpml.css"?>
+<set>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11317475</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_CYP">Cytochrome P450</cons> isoforms involved in melatonin <cons sem="G_MECHANISM">metabolism</cons> in human liver microsomes.</sentence>
+</title>
+<abstract>
+<sentence>The present study was carried out to identify the <cons sem="G_CYP">cytochrome P450 enzyme(s)</cons> involved in the 6-hydroxylation and O-demethylation of melatonin.</sentence>
+<sentence>The <cons sem="G_MECHANISM">formation</cons> kinetics of 6-hydroxymelatonin and N-acetylserotonin were determined using human liver microsomes and cDNA yeast-expressed human enzymes (<cons sem="G_CYP">CYP1A2</cons>, <cons sem="G_CYP">2C9</cons> and <cons sem="G_CYP">2C19</cons>) over the substrate concentration range <cons sem="G_NUMBER">1-1000 microM</cons>.</sentence>
+<sentence>Selective <cons sem="G_MECHANISM">inhibits</cons> and substrates of various cytochrome P450 enzymes were also employed.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Fluvoxamine, melatonin,DDI)">
+<sentence><cons sem="G_DRUG">Fluvoxamine</cons> was a potent <cons sem="G_MECHANISM">inhibitor</cons> of 6-hydroxymelatonin <cons sem="G_MECHANISM">formation</cons>, giving <cons sem="G_NUMBER">50 +/- 5%</cons> and <cons sem="G_NUMBER">69 +/- 9%</cons> <cons sem="G_MECHANISM">inhibition</cons> at concentrations of <cons sem="G_NUMBER">1 microM</cons> and <cons sem="G_NUMBER">10 microM</cons>, respectively, after incubation with <cons sem="G_NUMBER">50 microM</cons> <cons sem="G_DRUG">melatonin</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(Furafylline, melatonin,DDI)(sulphaphenazole, melatonin,DDI)(omeprazole, melatonin,DDI)">
+<sentence><cons sem="G_DRUG">Furafylline</cons>, <cons sem="G_DRUG">sulphaphenazole</cons> and <cons sem="G_DRUG">omeprazole</cons> used at low and high concentrations substantially <cons sem="G_MECHANISM">inhibited</cons> both metabolic pathways.</sentence>
+</annotation>
+<sentence>cDNA yeast-expressed <cons sem="G_CYP">CYP1A2</cons>, <cons sem="G_CYP">CYP2C9</cons> and <cons sem="G_CYP">CYP2C19</cons> <cons sem="G_MECHANISM">catalysed</cons> the <cons sem="G_MECHANISM">formation</cons> of the two metabolites, confirming the data obtained with specific <cons sem="G_MECHANISM">inhibitors</cons> and substrates.</sentence>
+<sentence>Our results strongly suggest that 6-hydroxylation, the main metabolic pathway of <cons sem="G_DRUG">melatonin</cons>, is mediated mainly, but <cons sem="G_NEGATIVEEFFECT">not</cons> exclusively, by <cons sem="G_CYP">CYP1A2</cons>, the high-affinity enzyme involved in <cons sem="G_DRUG">melatonin</cons> <cons sem="G_MECHANISM">metabolism</cons>, confirming the observation that a single oral dose of <cons sem="G_DRUG">fluvoxamine</cons> <cons sem="G_CHANGE">increases</cons> nocturnal serum <cons sem="G_DRUG">melatonin</cons> levels in healthy subjects.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(melatonin, CYP1A2,DEI)">
+<sentence>Furthermore, the results indicate that there is a potential for interaction with drugs metabolised by <cons sem="G_CYP">CYP1A2</cons> both at physiological levels and after oral administration of melatonin, while <cons sem="G_CYP">CYP2C19</cons> and <cons sem="G_CYP">CYP2C9</cons>are assumed to be less important.</sentence>
+</annotation>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11298076</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Involvement of human liver <cons sem="G_CYP">cytochrome P4502B6</cons> in the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">propofol</cons>.</sentence>
+</title>
+<abstract>
+<sentence>To determine the <cons sem="G_CYP">cytochrome P450 (CYP)</cons> isoforms involved in the oxidation of <cons sem="G_DRUG">propofol</cons> by human liver microsomes.</sentence>
+<sentence>The rate constant calculated from the disappearance of <cons sem="G_DRUG">propofol</cons> in an incubation mixture with human liver microsomes and recombinant human CYP isoforms was used as a measure of the rate of <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">propofol</cons>.</sentence>
+<sentence>The correlation of these rate constants with rates of <cons sem="G_MECHANISM">metabolism</cons> of CYP isoform-selective substrates by liver microsomes, the effect of CYP isoform-selective chemical <cons sem="G_MECHANISM">inhibitors</cons> and monoclonal antibodies on <cons sem="G_DRUG">propofol</cons> <cons sem="G_MECHANISM">metabolism</cons> by liver microsomes, and its <cons sem="G_MECHANISM">metabolism</cons> by recombinant human CYP isoforms were examined.</sentence>
+<sentence>The mean rate constant of propofol <cons sem="G_MECHANISM">metabolism</cons> by liver microsomes obtained from six individuals was <cons sem="G_NUMBER">4.2 (95% confidence intervals 2.7, 5.7) nmol min(-1) mg(-1)</cons> protein.</sentence>
+<sentence>The rate constants of <cons sem="G_DRUG">propofol</cons> by microsomes were <cons sem="G_CHANGE">significantly</cons> correlated with <cons sem="G_DRUG">S-mephenytoin</cons> N-demethylation, a marker of <cons sem="G_CYP">CYP2B6</cons> <cons sem="G_NUMBER">(r = 0.93, P &lt; 0.0001)</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> with the metabolic activities of other CYP isoform-selective substrates.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(orphenadrine, propofol,ADDI)">
+<sentence>Of the chemical <cons sem="G_MECHANISM">inhibitors</cons> of CYP isoforms tested, <cons sem="G_DRUG">orphenadrine</cons>, a <cons sem="G_CYP">CYP2B6</cons> <cons sem="G_MECHANISM">inhibitor</cons>, <cons sem="G_CHANGE">reduced</cons> the rate constant of <cons sem="G_DRUG">propofol</cons> by liver microsomes by <cons sem="G_NUMBER">38% (P &lt; 0.05)</cons>, while other CYP isoform-selective <cons sem="G_MECHANISM">inhibitors</cons> had <cons sem="G_NEGATIVEEFFECT">no</cons> effects.</sentence>
+</annotation>
+<sentence>Of the recombinant CYP isoforms screened, <cons sem="G_CYP">CYP2B6</cons> produced the highest rate constant for <cons sem="G_DRUG">propofol</cons> <cons sem="G_MECHANISM">metabolism</cons> (<cons sem="G_NUMBER">197 nmol min-1 nmol</cons> P450-1).</sentence>
+<annotation sem="INVITROCDDIS" ddi="(An antibody against CYP2B6, propofol,DDI)">   
+<sentence>An antibody against <cons sem="G_CYP">CYP2B6</cons> <cons sem="G_MECHANISM">inhibited</cons> the disappearance of <cons sem="G_DRUG">propofol</cons> in liver microsomes by <cons sem="G_NUMBER">74%</cons>.</sentence>
+</annotation>   
+<sentence>Antibodies raised against other CYP isoforms had <cons sem="G_NEGATIVERELATIONSHIP">no</cons> effect on the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">propofol</cons>.</sentence>
+<sentence><cons sem="G_CYP">CYP2B6</cons> is predominantly involved in the oxidation of <cons sem="G_DRUG">propofol</cons> by human liver microsomes.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11298070</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Identification of the <cons sem="G_CYP">cytochrome P450 enzymes</cons> involved in the N-demethylation of <cons sem="G_DRUG">sildenafil</cons>.</sentence>
+</title>
+<abstract>
+<sentence>To characterize the cytochrome P450 (CYP) enzymes responsible for the N-demethylation of <cons sem="G_DRUG">sildenafil</cons> to its main metabolite, UK-103 320, to investigate the potential <cons sem="G_MECHANISM">inhibitory</cons> effects of <cons sem="G_DRUG">sildenafil</cons> on CYP enzymes and to evaluate the potential of selected drugs to affect <cons sem="G_DRUG">sildenafil</cons> <cons sem="G_MECHANISM">metabolism</cons>.</sentence>
+<sentence>The metabolic pathways of <cons sem="G_DRUG">sildenafil</cons> N-demethylation were studied using human liver microsomes, as well as microsomes expressing individual human CYP enzymes.</sentence>
+<sentence>Further studies to identify the individual enzymes were performed at <cons sem="G_NUMBER">2.5 and 250 microM</cons> <cons sem="G_DRUG">sildenafil</cons>, and employed a combination of chemical <cons sem="G_MECHANISM">inhibition</cons>, correlation analysis, and <cons sem="G_MECHANISM">metabolism</cons> by expressed recombinant CYP enzymes.</sentence>
+<sentence>In addition, the effect of <cons sem="G_DRUG">sildenafil</cons> on the activity of the six major drug metabolizing enzymes was investigated.</sentence>
+<sentence><cons sem="G_DRUG">Sildenafil</cons> conversion was found to be mediated by at least two CYP enzymes, for which the mean kinetic parameters were <cons sem="G_IVITPARA">Km1</cons> = <cons sem="G_NUMBER">6(+/-3 microM)</cons>, <cons sem="G_IVITPARA">Km2</cons> = <cons sem="G_NUMBER">81(+/-45 microM)</cons>, <cons sem="G_IVITPARA">Vmax1</cons> = <cons sem="G_NUMBER">22(+/-9 pmol)</cons> and <cons sem="G_IVITPARA">Vmax2</cons> = <cons sem="G_NUMBER">138(+/-77 pmol)</cons> UK-103 320 <cons sem="G_MECHANISM">formed</cons> min(-1) mg(-1).</sentence>
+<sentence>At <cons sem="G_NUMBER">250 microM</cons> <cons sem="G_DRUG">sildenafil</cons>, N-demethylation was primarily mediated through the low-affinity, high-<cons sem="G_IVITPARA">Km</cons> enzyme (approximately <cons sem="G_NUMBER">83%</cons>), whilst at <cons sem="G_NUMBER">2.5 microM</cons> there was a <cons sem="G_CHANGE">greater</cons> role for the high-affinity, low-<cons sem="G_IVITPARA">Km</cons> enzyme (approximately <cons sem="G_NUMBER">61%</cons>).</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Ketoconazole, sildenafil,DDI)">
+<sentence><cons sem="G_DRUG">Ketoconazole</cons> <cons sem="G_CHANGE">strongly</cons> <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_MECHANISM">metabolism</cons> at both <cons sem="G_DRUG">sildenafil</cons> concentrations and was the only <cons sem="G_CHANGE"><cons sem="G_CHANGE">significant</cons></cons> <cons sem="G_MECHANISM">inhibitor</cons> at <cons sem="G_NUMBER">250 microM</cons> <cons sem="G_DRUG">sildenafil</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(sulphaphenazole, sildenafil,DDI)(quinidine, sildenafil,DDI)">
+<sentence>At the lower <cons sem="G_DRUG">sildenafil</cons> concentration, <cons sem="G_DRUG">sulphaphenazole</cons> and <cons sem="G_DRUG">quinidine</cons> also <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_MECHANISM">formation</cons> of UK-103 320.</sentence>
+</annotation>
+<sentence>Overall, <cons sem="G_NUMBER">75%</cons> or more of the N-demethylation of <cons sem="G_DRUG">sildenafil</cons> at any concentration is <cons sem="G_CHANGE">probably</cons> attributable to <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+<sentence>These results were supported by experiments using expressed human CYP enzymes, in which only <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP3A4</cons> exhibited <cons sem="G_CHANGE">substantial</cons> <cons sem="G_DRUG">sildenafil</cons> N-demethylase activity (respective <cons sem="G_IVITPARA">Km</cons> values of <cons sem="G_NUMBER">221 microM</cons> and <cons sem="G_NUMBER">27 microM</cons>).</sentence>
+<annotation sem="INVITROVDDIS" ddi="(CYP3A4 inhibitors, sildenafil,ADEI)">
+<sentence><cons sem="G_DRUG">Sildenafil</cons> <cons sem="G_MECHANISM">metabolism</cons> was <cons sem="G_MECHANISM">inhibited</cons> by potent <cons sem="G_CYP">CYP3A4</cons> <cons sem="G_MECHANISM">inhibitors</cons> which are used clinically, but was found to be only a <cons sem="G_NEGATIVEEFFECT">weak</cons> <cons sem="G_MECHANISM">inhibitor</cons> of drug <cons sem="G_MECHANISM">metabolizing</cons> enzymes itself, the <cons sem="G_CHANGE">strongest</cons> <cons sem="G_MECHANISM">inhibition</cons> occurring against <cons sem="G_CYP">CYP2C9</cons> (<cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">80 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(CYP3A4 inhibitors, sildenafil,ADEI)">   
+<sentence>Evidence is provided for <cons sem="G_CYP">CYP3A4</cons> and to a <cons sem="G_NEGATIVEEFFECT">lesser</cons> extent <cons sem="G_CYP">CYP2C9</cons>-mediated <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">sildenafil</cons>.</sentence>
+</annotation>  
+<annotation sem="INVITROVDDIS" ddi="(CYP3A4 inhibitors, sildenafil,ADEI)(CYP2C9 inhibitors, sildenafil,ADEI)">  
+<sentence>There is the possibility that <cons sem="G_CHANGE">elevated</cons> <cons sem="G_IVITPARA">plasma concentrations</cons> of <cons sem="G_CYP">sildenafil</cons> could occur with coadministration of known <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_CYP">CYP2C9</cons> or <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</annotation>  
+<sentence>Since <cons sem="G_IVITPARA">peak plasma concentrations</cons> of clinical doses of <cons sem="G_DRUG">sildenafil</cons> are only <cons sem="G_NUMBER">200 ng ml(-1)</cons> ( approximately <cons sem="G_NUMBER">0.4 microM</cons>) it is very <cons sem="G_NEGATIVEEFFECT">unlikely</cons> that <cons sem="G_DRUG">sildenafil</cons> will <cons sem="G_CHANGE">significantly</cons> <cons sem="G_CHANGE">alter</cons> the <cons sem="G_IVITPARA">plasma concentration</cons> of other compounds <cons sem="G_MECHANISM">metabolized</cons> by <cons sem="G_CYP">cytochrome P450 enzymes</cons>.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11259331</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_DRUG">Flunitrazepam</cons> <cons sem="G_MECHANISM">metabolism</cons> by cytochrome P450S 2C19 and 3A4.</sentence>
+</title>
+<abstract>
+<sentence>We have identified <cons sem="G_CYP">CYP2C19</cons> and <cons sem="G_CYP">CYP3A4</cons> as the principal <cons sem="G_CYP">cytochrome P450s</cons> involved in the <cons sem="G_MECHANISM">metabolism</cons> of  <cons sem="G_DRUG">flunitrazepam</cons> to its major metabolites  <cons sem="G_DRUG">desmethylflunitrazepam</cons> and <cons sem="G_DRUG">3-hydroxyflunitrazepam</cons>.</sentence>
+<sentence>Human <cons sem="G_CYP">CYP2C19</cons> and <cons sem="G_CYP">CYP3A4</cons> mediated the <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">desmethylflunitrazepam</cons> with <cons sem="G_IVITPARA">Km</cons> values of <cons sem="G_NUMBER">11.1 and 108 microM</cons>, respectively, and <cons sem="G_DRUG">3-hydroxyflunitrazepam</cons> with <cons sem="G_IVITPARA">Km</cons> values of <cons sem="G_NUMBER">642 and 34.0 microM</cons>, respectively.</sentence>
+<sentence>In human liver microsomes (n = 4) <cons sem="G_MECHANISM">formation</cons> of both metabolites followed biphasic kinetics.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(S-mephenytoin, Desmethylflunitrazepam,ADDI)(ketoconazole, Desmethylflunitrazepam,DDI)">
+<sentence><cons sem="G_DRUG">Desmethylflunitrazepam</cons> <cons sem="G_MECHANISM">formation</cons> was <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_NUMBER">31%</cons> by <cons sem="G_DRUG">S-mephenytoin</cons> and <cons sem="G_NUMBER">78%</cons> by <cons sem="G_DRUG">ketoconazole</cons>, suggesting involvement of both <cons sem="G_CYP">CYP2C19</cons> and <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(S-mephenytoin, 3-hydroxyflunitrazepam,ADDI)(ketoconazole, 3-hydroxyflunitrazepam,DDI)">
+<sentence><cons sem="G_MECHANISM">Formation</cons> of <cons sem="G_DRUG">3-hydroxyflunitrazepam</cons> was also <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_DRUG">ketoconazole</cons> (<cons sem="G_NUMBER">94%</cons>) and <cons sem="G_DRUG">S-mephenytoin</cons> (<cons sem="G_NUMBER">18%</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(anti-CYP2C19 antibodies, 3-hydroxyflunitrazepam,ADDI)(anti-CYP3A4 antibodies, 3-hydroxyflunitrazepam,ADDI)(anti-CYP3A4 antibodies, 3-hydroxyflunitrazepam,DDI)">
+<sentence>In support of these chemical <cons sem="G_MECHANISM">inhibition</cons> data, antibodies directed against <cons sem="G_CYP">CYP2C19</cons> and  <cons sem="G_CYP">CYP3A4</cons> selectively <cons sem="G_MECHANISM"> inhibited</cons> <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">desmethylflunitrazepam</cons> by <cons sem="G_NUMBER">26 and 45%</cons>, respectively, while <cons sem="G_CYP">anti-CYP3A4</cons> antibodies <cons sem="G_CHANGE">reduced</cons> <cons sem="G_DRUG">3-hydroxyflunitrazepam</cons> <cons sem="G_MECHANISM">formation</cons> by <cons sem="G_NUMBER">80%</cons>.</sentence>
+</annotation>
+<sentence>Our data also suggest that <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">-2B6</cons>,<cons sem="G_CYP">-2C8</cons>,<cons sem="G_CYP">-2C9</cons>,<cons sem="G_CYP">-2D6</cons>, and <cons sem="G_CYP">-2E1</cons> are <cons sem="G_NEGATIVEEFFECT">not</cons> involved in either of these metabolic pathways.</sentence>
+<sentence>We estimate that the relative contributions of <cons sem="G_CYP">CYP2C19</cons> and <cons sem="G_CYP">CYP3A4</cons> to the <cons sem="G_MECHANISM">formation</cons> of desmethylflunitrazepam in vivo are <cons sem="G_NUMBER">63 and 37%</cons>, respectively, at therapeutic <cons sem="G_DRUG">flunitrazepam</cons> concentrations (<cons sem="G_NUMBER">0.03 microM</cons>).</sentence>
+<sentence>We conclude that the polymorphic enzyme <cons sem="G_CYP">CYP2C19</cons> importantly mediates <cons sem="G_DRUG">flunitrazepam</cons> demethylation, which <cons sem="G_CHANGE">may</cons> alter the efficacy and safety of the drug, while <cons sem="G_CYP">CYP3A4</cons> catalyzes the <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">3-hydroxyflunitrazepam</cons>.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11225565</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Inhibition</cons> of human <cons sem="G_CYP">cytochrome P450</cons> isoforms by nonnucleoside reverse transcriptase <cons sem="G_MECHANISM">inhibitors</cons>.</sentence>
+</title>
+<abstract>
+<sentence>The capacity of three clinically available nonnucleoside reverse transcriptase <cons sem="G_MECHANISM">inhibitors</cons> (NNRTIs) to <cons sem="G_MECHANISM">inhibit</cons> the activity of <cons sem="G_CYP">human cytochromes P450 (CYPs)</cons> was studied in vitro using human liver microsomes.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Delavirdine, phenacetin,NDDI)(nevirapine, phenacetin,NDDI)(efavirenz, phenacetin,NDDI)(Delavirdine, dextromethorphan O-demethylation,NDDI)(nevirapine, dextromethorphan O-demethylation,NDDI)(efavirenz, dextromethorphan O-demethylation,NDDI)">
+<sentence><cons sem="G_DRUG">Delavirdine</cons>,<cons sem="G_DRUG">nevirapine</cons>, and <cons sem="G_DRUG">efavirenz</cons> produced <cons sem="G_CHANGE">negligible</cons> <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_DRUG">phenacetin</cons> O-deethylation (<cons sem="G_CYP">CYP1A2</cons>) or dextromethorphan O-demethylation (<cons sem="G_CYP">CYP2D6</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Nevirapine, tolbutamide,NDDI)(Nevirapine, S-mephenytoin,NDDI)(delavirdine, tolbutamide,DDI)(delavirdine, S-mephenytoin,DDI)(efavirenz, tolbutamide,DDI)(efavirenz, S-mephenytoin,DDI)">
+<sentence><cons sem="G_DRUG">Nevirapine</cons> did <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_MECHANISM">inhibit</cons> hydroxylation of <cons sem="G_DRUG">tolbutamide</cons> <cons sem="G_CYP">(CYP2C9)</cons> or <cons sem="G_DRUG">S-mephenytoin</cons>  <cons sem="G_CYP">(CYP2C19)</cons>, but these CYP  isoforms were importantly <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_DRUG">delavirdine</cons> and <cons sem="G_DRUG">efavirenz</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(delavirdine, phenytoin,DDI)(delavirdine, tolbutamide,DDI)(delavirdine, warfarin,DDI)(efavirenz, phenytoin,DDI)(efavirenz, tolbutamide,DDI)(efavirenz, warfarin,DDI)">
+<sentence>This indicates the likelihood of <cons sem="G_CHANGE">significantly</cons> impaired clearance of <cons sem="G_CYP">CYP2C</cons> substrate drugs (such as <cons sem="G_DRUG">phenytoin</cons>, <cons sem="G_DRUG">tolbutamide</cons>, and <cons sem="G_DRUG">warfarin</cons>) upon initial exposure to these two NNRTIs.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Delavirdine, CYP3A,DEI)(efavirenz, CYP3A,DEI)(nevirapine, CYP3A,NDEI)">
+<sentence><cons sem="G_DRUG">Delavirdine</cons> and <cons sem="G_DRUG">efavirenz</cons> (but <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_DRUG">nevirapine</cons>) also were strong <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_CYP">CYP3A</cons>, consistent with clinical hazards of initial cotreatment with either of these drugs and substrates of <cons sem="G_CYP">CYP3A</cons>.</sentence>
+</annotation>
+<sentence>The in vitro microsomal model provides relevant predictive data on <cons sem="G_CHANGE">probable</cons> drug interactions with NNRTIs when the mechanism is <cons sem="G_MECHANISM">inhibition</cons> of CYP-mediated drug biotransformation.</sentence>
+<sentence>However, the model does <cons sem="G_NEGATIVEEFFECT">not</cons> incorporate interactions attributable to enzyme induction.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11159797</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_DRUG">Ritonavir</cons>,<cons sem="G_DRUG">efavirenz</cons>, and <cons sem="G_DRUG">nelfinavir</cons> <cons sem="G_MECHANISM">inhibit</cons> <cons sem="G_CYP">CYP2B6</cons> activity in vitro: potential drug interactions with <cons sem="G_DRUG">bupropion</cons>.</sentence>
+</title>
+<abstract>
+<sentence>Since antiretroviral drugs are known to <cons sem="G_MECHANISM">inhibit</cons> many <cons sem="G_CYP">cytochrome P450</cons> isoforms, the <cons sem="G_MECHANISM">inhibition</cons> of<cons sem="G_CYP">CYP2B6</cons> by non-nucleoside reverse transcriptase <cons sem="G_MECHANISM">inhibitors</cons> and viral protease <cons sem="G_MECHANISM">inhibitors</cons> was studied in vitro in human liver microsomes using <cons sem="G_DRUG">bupropion</cons> hydroxylation as the <cons sem="G_CYP">CYP2B6</cons> index reaction.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(nelfinavir, bupropion,DDI)(ritonavir, bupropion,DDI)(efavirenz, bupropion,DDI)">
+<sentence>Mean <cons sem="G_IVITPARA">IC(50)</cons> values (microM) for <cons sem="G_DRUG">inhibition</cons> of <cons sem="G_DRUG">bupropion</cons> hydroxylation were: <cons sem="G_DRUG">nelfinavir</cons> (2.5),<cons sem="G_DRUG">ritonavir</cons> (2.2), and <cons sem="G_DRUG">efavirenz</cons> (5.5).</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(indinavir, bupropion,DDI)(saquinavir, bupropion,DDI)(amprenavir, bupropion,DDI)(delavirdine, bupropion,DDI)(nevirapine, bupropion,DDI)">
+<sentence>The reaction was only weakly <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_DRUG">indinavir</cons>, <cons sem="G_DRUG">saquinavir</cons>,<cons sem="G_DRUG">amprenavir</cons>, <cons sem="G_DRUG">delavirdine</cons>, and  <cons sem="G_DRUG">nevirapine</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(nelfinavir, bupropion,DDI)(ritonavir, bupropion,DDI)(efavirenz, bupropion,DDI)">
+<sentence>The <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_DRUG">bupropion</cons> hydroxylation in vitro by <cons sem="G_DRUG">nelfinavir</cons>,<cons sem="G_DRUG">ritonavir</cons>, and <cons sem="G_DRUG">efavirenz</cons> indicates <cons sem="G_MECHANISM">inhibitory</cons> potency versus <cons sem="G_CYP">CYP2B6</cons> and suggests the potential for clinical drug interactions.</sentence>
+</annotation>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11136295</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Identification of the human <cons sem="G_CYP">cytochrome P450</cons> isoforms mediating in vitro N-dealkylation of <cons sem="G_DRUG">perphenazine</cons>.</sentence>
+</title>
+<abstract>
+<sentence>To identify the human cytochrome P450 (CYP)  isoforms mediating the N-dealkylation of the antipsychotic drug <cons sem="G_DRUG">perphenazine</cons> in vitro and estimate the relative contributions of the CYP isoforms involved.</sentence>
+<sentence>cDNA-expressed CYP isoforms were used to identify the isoforms that are able to mediate the N-dealkylation of <cons sem="G_DRUG">perphenazine</cons>, which is considered a major metabolic pathway for the drug.</sentence>
+<sentence>Using human liver microsomal preparations (HLM),<cons sem="G_MECHANISM">inhibition</cons> studies were carried out to establish the relative contributions of the CYP isoforms involved in the N-dealkylation reaction.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(1A2, perphenazine,DEI)(3A4, perphenazine,DEI)(2C8, perphenazine,DEI)(2C9, perphenazine,DEI)(2C18, perphenazine,DEI)(2C19, perphenazine,DEI)(2D6, perphenazine,DEI)">
+<sentence>CYP isoforms <cons sem="G_CYP">1A2</cons>,<cons sem="G_CYP">3A4</cons>,<cons sem="G_CYP">2C8</cons>,<cons sem="G_CYP">2C9</cons>, <cons sem="G_CYP">2C18</cons>,<cons sem="G_CYP">2C19</cons> and <cons sem="G_CYP">2D6</cons> were able to mediate the N-dealkylation of <cons sem="G_DRUG">perphenazine</cons>.</sentence>
+</annotation>
+<sentence>Reaction velocities and their relative abundance in HLM suggested that <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">3A4</cons>, <cons sem="G_CYP">2C19</cons> and <cons sem="G_CYP">2D6</cons> were the most important contributors to N-dealkylation.</sentence>
+<sentence>Apparent <cons sem="G_IVITPARA">Km</cons> values of <cons sem="G_CYP">CYP1A2</cons> and <cons sem="G_CYP">CYP2D6</cons> were in the range <cons sem="G_NUMBER">1-2 microM</cons>, and <cons sem="G_IVITPARA">Km</cons> values of <cons sem="G_CYP">CYP2C19</cons> and <cons sem="G_CYP">CYP3A4</cons> were <cons sem="G_NUMBER">14 microM</cons> and <cons sem="G_NUMBER">7.9 microM</cons>, respectively.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Ketoconazole, perphenazine,ADDI)">
+<sentence><cons sem="G_DRUG">Ketoconazole</cons> <cons sem="G_MECHANISM">inhibition</cons> of N-dealkylation mediated by a mixed HLM indicated that <cons sem="G_CYP">CYP3A4</cons> accounted for about <cons sem="G_NUMBER">40%</cons> of <cons sem="G_DRUG">perphenazine</cons> N-dealkylation at therapeutically relevant concentrations.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(furafylline, perphenazine,ADDI)(fluvoxamine, perphenazine,ADDI)(quinidine, perphenazine,ADDI)">
+<sentence>The contribution of the CYP isoforms <cons sem="G_CYP">1A2</cons>,<cons sem="G_CYP">2C19</cons> and <cons sem="G_CYP">2D6</cons> amounted to <cons sem="G_NUMBER">20-25%</cons> each as measured by the percentage <cons sem="G_MECHANISM">inhibition</cons> obtained by addition of <cons sem="G_DRUG">furafylline</cons>,<cons sem="G_DRUG">fluvoxamine</cons> or <cons sem="G_DRUG">quinidine</cons>, respectively.</sentence>
+</annotation>
+<sentence>HLM-mediated N-dealkylation of <cons sem="G_DRUG">perphenazine</cons> accounted for <cons sem="G_NUMBER">57%</cons> of the total amount of substrate consumed during incubation.</sentence>
+<sentence>The present in vitro study suggests that CYP isoforms <cons sem="G_CYP">1A2</cons>,<cons sem="G_CYP">3A4</cons>,<cons sem="G_CYP">2C19</cons> and <cons sem="G_CYP">2CD6</cons> are primarily involved in the N-dealkylation of <cons sem="G_DRUG">perphenazine</cons>.</sentence>
+<sentence>The relatively <cons sem="G_CHANGE">modest</cons> role of <cons sem="G_CYP">CYP2D6</cons> is at variance with in vivo studies, which indicate a <cons sem="G_CHANGE">greater</cons> contribution of this isoform.</sentence>
+<sentence>Alternative metabolic pathways, corresponding to <cons sem="G_NUMBER">43%</cons> of the HLM-mediated <cons sem="G_MECHANISM">metabolism</cons> of the drug, <cons sem="G_CHANGE">may</cons> depend more strongly on <cons sem="G_CYP">CYP2D6</cons>.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11124228</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Interaction of <cons sem="G_DRUG">delavirdine</cons> with human liver microsomal <cons sem="G_CYP">cytochrome P450</cons>: <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2C</cons>,<cons sem="G_CYP">CYP2C19</cons>, and <cons sem="G_CYP">CYP2D6</cons>.</sentence>
+</title>
+<abstract>
+<annotation sem="INVITROCDDIS" ddi="(CYP3A4, Delavirdine,DEI)(CYP2D6, Delavirdine,DEI)">
+<sentence><cons sem="G_DRUG">Delavirdine</cons>, a non-nucleoside <cons sem="G_MECHANISM">inhibitor</cons> of HIV-1 reverse transcriptase, is <cons sem="G_MECHANISM">metabolized</cons> primarily through desalkylation <cons sem="G_MECHANISM">catalyzed</cons> by <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP2D6</cons> and by pyridine hydroxylation <cons sem="G_MECHANISM">catalyzed</cons> by <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</annotation>
+<sentence>It is also an irreversible <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+<sentence>The interaction of <cons sem="G_DRUG">delavirdine</cons> with <cons sem="G_CYP">CYP2C9</cons> was examined with pooled human liver microsomes using <cons sem="G_DRUG">diclofenac</cons> 4'-hydroxylation as a reporter of <cons sem="G_CYP">CYP2C9</cons> catalytic activity.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Delavirdine, diclofenac,DDI)">
+<sentence>As <cons sem="G_DRUG">delavirdine</cons> concentration was <cons sem="G_CHANGE">increased</cons> from <cons sem="G_NUMBER">0 to 100 microM</cons>, the <cons sem="G_IVITPARA">K(M)</cons> for <cons sem="G_DRUG">diclofenac</cons> <cons sem="G_MECHANISM">metabolism</cons> rose from <cons sem="G_NUMBER">4.5+/-0.5 to 21+/-6 microM, and V(max) declined from 4.2+/-0.1 to 0.54+/-0.08 nmol/min/mg</cons> of protein, characteristic of mixed-type <cons sem="G_MECHANISM">inhibition</cons>.</sentence>
+</annotation>
+<sentence>Nonlinear regression analysis revealed an apparent <cons sem="G_IVITPARA">K(i)</cons> of <cons sem="G_NUMBER">2.6+/-0.4 microM</cons>.</sentence>
+<sentence>There was <cons sem="G_NEGATIVEEFFECT">no</cons> evidence for bioactivation as prerequisite to <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2C9</cons>.</sentence>
+<sentence><cons sem="G_DRUG">Desalkyl delavirdine</cons>, the major circulating metabolite of <cons sem="G_DRUG">delavirdine</cons>, had <cons sem="G_NEGATIVEEFFECT">no</cons> apparent effect on microsomal <cons sem="G_CYP">CYP2C9</cons>activity at concentrations up to <cons sem="G_NUMBER">20 microM</cons>.</sentence>
+<sentence>Several analogs of <cons sem="G_DRUG">delavirdine</cons> showed similar <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2C9</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Delavirdine, (S)-mephenytoin,ADDI)">
+<sentence><cons sem="G_DRUG">Delavirdine</cons> <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons> cDNA-expressed <cons sem="G_CYP">CYP2C19-catalyzed</cons> <cons sem="G_DRUG">(S)-mephenytoin</cons> 4'-hydroxylation in a noncompetitive manner, with an apparent <cons sem="G_IVITPARA">K(i)</cons> of <cons sem="G_NUMBER">24+/-3 microM</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Delavirdine, CYP1A2,NDEI)">
+<sentence><cons sem="G_DRUG">Delavirdine</cons> at concentrations up to <cons sem="G_NUMBER">100 microM</cons> did <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_MECHANISM">inhibit</cons> the activity of <cons sem="G_CYP">CYP1A2</cons> or <cons sem="G_CYP">-2E1</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Delavirdine, CYP2D6,ADEI)">
+<sentence><cons sem="G_DRUG">Delavirdine</cons> competitively <cons sem="G_MECHANISM">inhibited</cons> recombinant <cons sem="G_CYP">CYP2D6</cons> activity with a <cons sem="G_IVITPARA">K(i)</cons> of <cons sem="G_NUMBER">12.8+/-1.8 microM</cons>, similar to the observed <cons sem="G_IVITPARA">K(M)</cons> for <cons sem="G_DRUG">delavirdine</cons> desalkylation.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Delavirdine, CYP2C9,DEI)(Delavirdine, CYP2C19,DEI)(Delavirdine, CYP2D6,DEI)(Delavirdine, CYP3C4,DEI)">
+<sentence>These results, along with previously reported experiments, indicate that <cons sem="G_DRUG">delavirdine</cons> can partially <cons sem="G_MECHANISM">inhibit</cons> <cons sem="G_CYP">CYP2C9</cons>, -<cons sem="G_CYP">2C19</cons>,<cons sem="G_CYP">-2D6</cons>, and <cons sem="G_CYP">-3A4</cons>, although the degree of <cons sem="G_MECHANISM">inhibition</cons> in vivo would be subject to a variety of additional factors.</sentence>
+</annotation>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11095582</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Identification of the human liver <cons sem="G_CYP">cytochrome P450</cons> isoenzyme responsible for the 6-methylhydroxylation of the novel anticancer drug <cons sem="G_DRUG">5,6-dimethylxanthenone-4-acetic acid</cons>.</sentence>
+</title>
+<abstract>
+<sentence>In vitro studies were conducted to identify the hepatic cytochrome P450 (CYP)  isoenzyme involved in the 6-methylhydroxylation of <cons sem="G_DRUG">5, 6-dimethylxanthenone-4-acetic acid (DMXAA)</cons> by using a human liver library (n = 14).</sentence>
+<sentence>The metabolite <cons sem="G_DRUG">6-hydroxymethyl-5-methylxanthenone-4-acetic acid (6-OH-MXAA)</cons> was determined by HPLC with fluorescence detection.</sentence>
+<sentence>The metabolite <cons sem="G_MECHANISM">formed</cons> in human liver microsomes and by cDNA-expressed CYP isoform was identified by liquid chromatography mass spectrometry as <cons sem="G_DRUG">6-OH-MXAA.</cons></sentence>
+<sentence>In human liver microsomes (n = 14), 6-methylhydroxylation of <cons sem="G_DRUG">DMXAA</cons> followed monophasic Michaelis-Menten kinetics, with a mean apparent <cons sem="G_IVITPARA">K(m)</cons> of <cons sem="G_NUMBER">21 +/- 5 microM</cons> and <cons sem="G_IVITPARA">V(max)</cons> of <cons sem="G_NUMBER">0.043 +/- 0.019 nmol/min/mg</cons>.</sentence>
+<sentence>An approximate 10-fold interindividual variation in the intrinsic clearance (<cons sem="G_IVITPARA">V(max)/K(m)</cons>) of <cons sem="G_DRUG">DMXAA</cons> 6-methylhydroxylation in human liver microsomes was observed.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(furafylline, DMXAA,DDI)(alpha-naphthoflavone, DMXAA,DDI)(cimetidine, DMXAA,NDDI)(ketoconazole, DMXAA,NDDI)(tolbutamide, DMXAA,NDDI)(quinidine, DMXAA,NDDI)(chlorzoxazone, DMXAA,NDDI)(diethyldithiocarbamate, DMXAA,NDDI)(troleandomycin, DMXAA,NDDI)(sulfaphenazole, DMXAA,NDDI)">
+<sentence>The involvement of <cons sem="G_CYP">CYP1A2</cons> in <cons sem="G_DRUG">DMXAA</cons> <cons sem="G_MECHANISM">metabolism</cons> by human livers was demonstrated by the following: 1) the potent <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_DRUG">DMXAA</cons> <cons sem="G_MECHANISM">metabolism</cons> by <cons sem="G_DRUG">furafylline</cons> (<cons sem="G_IVITPARA">k(inact)</cons> = 0.23 +/- 0.04 min(-1), <cons sem="G_IVITPARA">K'(app)</cons> = <cons sem="G_NUMBER">15.6 +/- 6.7 microM</cons>) and alpha-naphthoflavone (<cons sem="G_IVITPARA">K(i)</cons> = <cons sem="G_NUMBER">0.036 microM</cons>), but <cons sem="G_NEGATIVEEFFECT">not</cons> by <cons sem="G_DRUG">cimetidine</cons>,<cons sem="G_DRUG">ketoconazole</cons>,<cons sem="G_DRUG">tolbutamide</cons>,<cons sem="G_DRUG">quinidine</cons>,<cons sem="G_DRUG">chlorzoxazone</cons>,<cons sem="G_DRUG">diethyldithiocarbamate</cons>,<cons sem="G_DRUG">troleandomycin</cons>, and <cons sem="G_DRUG">sulfaphenazole</cons>;  2) when incubated with human lymphoblastoid cell microsomes containing cDNA-expressed CYP isoenzymes, <cons sem="G_DRUG">DMXAA</cons> was <cons sem="G_MECHANISM">metabolized</cons> only by <cons sem="G_CYP">CYP1A2</cons>, with an apparent <cons sem="G_IVITPARA">K(m)</cons> of <cons sem="G_NUMBER">6.2 +/- 1.5 microM</cons> and <cons sem="G_IVITPARA">V(max)</cons> of <cons sem="G_NUMBER">0.014 +/- 0.001 nmol/min/mg</cons> 
+        , but <cons sem="G_NEGATIVEEFFECT">not</cons> by <cons sem="G_CYP">CYP2A6</cons>,<cons sem="G_CYP">CYP2B6</cons>,<cons sem="G_CYP">CYP2C9(Arg(144))</cons>,<cons sem="G_CYP">CYP2C19</cons>,<cons sem="G_CYP">CYP2D6 (Val(374))</cons>, <cons sem="G_CYP">CYP2E1</cons>, and <cons sem="G_CYP">CYP3A4</cons>; 3) a <cons sem="G_CHANGE">significant</cons> correlation (<cons sem="G_NUMBER">r = 0.90; P &lt;.001</cons>) between 6-methylhydroxylation of <cons sem="G_DRUG">DMXAA</cons> and 7-ethoxyresorufin O-deethylation; and 4) a <cons sem="G_CHANGE">significant</cons> correlation (<cons sem="G_NUMBER">r = 0.75; P &lt;.01</cons>) between the <cons sem="G_CYP">CYP1A</cons> protein level determined by Western blots and <cons sem="G_DRUG">DMXAA</cons> 6-methylhydroxylation.</sentence>
+</annotation>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11095572</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Effects of macrolide antibiotics on <cons sem="G_CYP">CYP3A</cons> expression in human and rat hepatocytes: interspecies differences in response to <cons sem="G_DRUG">troleandomycin</cons>.</sentence>
+</title>
+<abstract>
+<sentence>The effects of various macrolide antibiotics <cons sem="G_DRUG">[triacetyloleandomycin (TAO)</cons>,<cons sem="G_DRUG">clarithromycin</cons>, <cons sem="G_DRUG">azithromycin</cons>,<cons sem="G_DRUG">roxithromycin</cons>, <cons sem="G_DRUG">erythromycin</cons> base] and the new ketolide <cons sem="G_DRUG">HMR3004</cons> on <cons sem="G_CYP">CYP3A</cons> expression were evaluated in human and rat hepatocytes.</sentence>
+<sentence>Cells were treated for 3 days with nontoxic concentrations of the drugs, and <cons sem="G_CYP">CYP3A</cons> induction was assessed through <cons sem="G_DRUG">midazolam</cons> hydroxylase activity and Western and Northern blot analyses.</sentence>
+<sentence>In rat hepatocytes, <cons sem="G_NEGATIVEEFFECT">no</cons> induction of <cons sem="G_CYP">CYP3A1</cons> expression was observed following exposure to macrolides, even to <cons sem="G_DRUG">erythromycin</cons> base and <cons sem="G_DRUG">TAO</cons> (well known in vivo <cons sem="G_CYP">CYP3A1</cons> inducers), whereas <cons sem="G_DRUG">dexamethasone</cons> and <cons sem="G_DRUG">phenobarbital</cons> were confirmed to <cons sem="G_MECHANISM">induce</cons>this enzyme.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(TAO, midazolam,DDI)">
+<sentence>In contrast, treatment of fresh and thawed human hepatocytes with TAO, produced an <cons sem="G_CHANGE">increase</cons> of <cons sem="G_DRUG">midazolam</cons> hydroxylation (4-fold over control).</sentence>
+</annotation>
+<sentence>This result was in agreement with the high amount of <cons sem="G_CYP">CYP3A4</cons> protein and mRNA revealed by Western and Northern blot analyses.</sentence>
+<sentence>Other tested macrolides had <cons sem="G_NEGATIVEEFFECT">no</cons> <cons sem="G_MECHANISM">induction</cons> effect on <cons sem="G_CYP">CYP3A</cons> expression.</sentence>
+<sentence>These results confirmed the interspecies variability of <cons sem="G_CYP">CYP3A</cons> regulation in hepatocytes and raised the question of its mechanism of <cons sem="G_MECHANISM">induction</cons> by macrolides in human liver.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:11038155</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_CYP">CYP3A4</cons> is a major isoform responsible for oxidation of 7-hydroxy-Delta(8)-tetrahydrocannabinol to 7-oxo-delta(8)-tetrahydrocannabinol in human liver microsomes.</sentence>
+</title>
+<abstract>
+<sentence>The human liver enzyme microsomal alcohol oxygenase was able to oxidize both 7alpha- and 7beta-hydroxy-Delta(8)-tetrahydrocannabinol (7alpha- and 7beta-hydroxy-Delta(8)-THC) to 7-oxo-Delta(8)-THC.</sentence>
+<sentence>The oxidative activity was determined by using a panel of 12 individual cDNA-expressed <cons sem="G_CYP">human cytochrome P450s (CYPs)</cons> (<cons sem="G_CYP">1A1</cons>,<cons sem="G_CYP">1A2</cons>,<cons sem="G_CYP">2A6</cons>,<cons sem="G_CYP">2B6</cons>,<cons sem="G_CYP">2C8</cons>,<cons sem="G_CYP">2C9-Arg</cons>,<cons sem="G_CYP">2C9-Cys</cons>,<cons sem="G_CYP">2C19</cons>,<cons sem="G_CYP">2D6-Met</cons>, <cons sem="G_CYP">2D6-Val</cons>,<cons sem="G_CYP">2E1</cons> and <cons sem="G_CYP">3A4</cons>).</sentence>
+<sentence>Among the CYP isoforms examined,<cons sem="G_CYP">CYP3A4</cons> showed the highest activity for both of substrates.</sentence>
+<sentence>The <cons sem="G_MECHANISM">metabolism</cons> of 7alpha- and 7beta-hydroxy-Delta(8)-THC to 7-oxo-Delta(8)-THC was also detected for <cons sem="G_CYP">CYPs 1A1</cons> (<cons sem="G_NUMBER">4.8%</cons> of <cons sem="G_CYP">CYP3A4</cons>),<cons sem="G_CYP">1A2</cons> (<cons sem="G_NUMBER">4.7%</cons>), <cons sem="G_CYP">2A6</cons> (<cons sem="G_NUMBER">2.3%</cons>),<cons sem="G_CYP">2C8</cons> (<cons sem="G_NUMBER">16.6%</cons>), and <cons sem="G_CYP">2C9-Cys</cons> (<cons sem="G_NUMBER">5.4%</cons>), and <cons sem="G_CYP">CYPs 1A1</cons> (<cons sem="G_NUMBER">0.4%</cons>), <cons sem="G_CYP">2C8</cons> (<cons sem="G_NUMBER">1.3%</cons>), <cons sem="G_CYP">2C9-Arg</cons> (<cons sem="G_NUMBER">4.3%</cons>), and <cons sem="G_CYP">2C9-Cys</cons> (<cons sem="G_NUMBER">0.9%</cons>), respectively.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(troleandomycin, 7alpha-and 7beta-hydroxy-Delta(8)-THC,DDI)(ketoconazole, 7alpha-and 7beta-hydroxy-Delta(8)-THC,DDI)(anti-CYP3A antibody, 7alpha-and 7beta-hydroxy-Delta(8)-THC,DDI)(7, 8-benzoflavone, 7alpha-and 7beta-hydroxy-Delta(8)-THC,NDDI)(sulfaphenazole, 7alpha-and 7beta-hydroxy-Delta(8)-THC,NDDI)">
+<sentence>The 7alpha- and 7beta-hydroxy-Delta(8)-THC microsomal alcohol oxygenase activities in human liver were <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons> by addition of <cons sem="G_NUMBER">100 microM</cons>  <cons sem="G_DRUG">troleandomycin</cons>, 1 microM <cons sem="G_DRUG">ketoconazole</cons>, and anti-<cons sem="G_CYP">CYP3A</cons> antibody, although these activities were <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_NUMBER">1 microM 7</cons>, 8-benzoflavone and <cons sem="G_NUMBER">50 microM</cons> <cons sem="G_DRUG">sulfaphenazole</cons>.</sentence>
+</annotation>
+<sentence>When the substrates were incubated with the <cons sem="G_CYP">CYP3A4-expressed</cons> microsomes under oxygen-18 gas phase, atmospheric oxygen was incorporated into <cons sem="G_NUMBER">35%</cons> of 7-oxo-Delta(8)-THC <cons sem="G_MECHANISM">formed</cons> from 7alpha-OH-Delta(8)-THC, but only <cons sem="G_NUMBER">12%</cons> of 7-oxo-Delta(8)-THC <cons sem="G_MECHANISM">formed</cons> from 7beta-OH-Delta(8)-THC.</sentence>
+<sentence>These results indicate that <cons sem="G_CYP">CYP3A4</cons> is a major isoform responsible for the oxidation of 7alpha- and 7beta-hydroxy-Delta(8)-THC to 7-oxo-Delta(8)-THC in liver microsomes of humans, although the oxidation mechanisms for 7alpha- and 7beta-hydroxy-Delta(8)-THC <cons sem="G_CHANGE">might</cons> be different.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10923859</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Identification of enzymes responsible for <cons sem="G_DRUG">rifalazil</cons> <cons sem="G_MECHANISM">metabolism</cons> in human liver microsomes.</sentence>
+</title>
+<abstract>
+<sentence>1.</sentence>
+<sentence>The major metabolites of <cons sem="G_DRUG">rifalazil</cons> in human are 25-deacetyl-rifalazil and 32-hydroxy-rifalazil.</sentence>
+<sentence><cons sem="G_MECHANISM">Biotransformation</cons> to these metabolites in pooled human liver microsomes, cytosol and supernatant 9000g (S9) fractions was studied, and the enzymes responsible for <cons sem="G_DRUG">rifalazil</cons> <cons sem="G_MECHANISM">metabolism</cons> were identified using <cons sem="G_MECHANISM">inhibitors</cons> of esterases and cytochromes P450 (CYP) .</sentence>
+<sentence>2.</sentence>
+<sentence>The 25-deacetylation and 32-hydroxylation of <cons sem="G_DRUG">rifalazil</cons>occurred in incubations with microsomes or S9 but <cons sem="G_NEGATIVEEFFECT">not</cons> with cytosol, indicating that both the enzymes responsible for <cons sem="G_DRUG">rifalazil</cons> <cons sem="G_MECHANISM">metabolism</cons> were microsomal.</sentence>
+<sentence><cons sem="G_IVITPARA">Km</cons> and <cons sem="G_IVITPARA">Vmax</cons> of the rifalazil-25-deacetylation in microsomes were <cons sem="G_NUMBER">6.5 microM and 11.9 pmol/min/mg</cons> with NADPH, and <cons sem="G_NUMBER">2.6 microM and 6.0 pmol/min/mg</cons> without NADPH, indicating that, although <cons sem="G_DRUG">rifalazil</cons>-25-deacetylation did <cons sem="G_NEGATIVEEFFECT">not</cons> require NADPH, NADPH <cons sem="G_MECHANISM">activated</cons> it.</sentence>
+<sentence>Rifalazil-32-hydroxylation was NADPH dependent, and its <cons sem="G_IVITPARA">Km</cons> and <cons sem="G_IVITPARA">Vmax</cons> were <cons sem="G_NUMBER">3.3 microM and 11.0 pmol/min/mg</cons> respectively.</sentence>
+<sentence>3.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(diisopropyl fluorophosphate, Rifalazil-25-deacetylation,DDI)(diethyl p-nitrophenyl phosphate, Rifalazil-25-deacetylation,DDI)(eserine, Rifalazil-25-deacetylation,DDI)">
+<sentence>Rifalazil-25-deacetylation in microsomes was completely <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_DRUG">diisopropyl fluorophosphate</cons>, <cons sem="G_DRUG">diethyl p-nitrophenyl phosphate</cons> and <cons sem="G_DRUG">eserine</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> by <cons sem="G_DRUG">p-chloromercuribenzoate</cons> or <cons sem="G_DRUG">5,5'-dithio-bis(2-nitrobenzoic acid)</cons>, indicating that the enzyme responsible for the rifalazil-25-deacetylation is a B-esterase .</sentence>
+</annotation>
+<sentence>4.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(fluconazole, Rifalazil-32-deacetylation,DDI)(ketoconazole, Rifalazil-32-deacetylation,DDI)(miconazole, Rifalazil-32-deacetylation,DDI)(troleandomycin, Rifalazil-32-deacetylation,DDI)(cyclosporin A, Rifalazil-32-deacetylation,DDI)(clarithromycin, Rifalazil-32-deacetylation,DDI)">
+<sentence>Rifalazil-32-hydroxylation in microsomes was completely <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_CYP">CYP3A4-specific</cons> <cons sem="G_MECHANISM">inhibitors</cons> (<cons sem="G_DRUG">fluconazole</cons>,<cons sem="G_DRUG">ketoconazole</cons>,<cons sem="G_DRUG">miconazole</cons>, <cons sem="G_DRUG">troleandomycin</cons>) and drugs <cons sem="G_MECHANISM">metabolized</cons> by <cons sem="G_CYP">CYP3A4</cons> such as <cons sem="G_DRUG">cyclosporin A</cons> and <cons sem="G_DRUG">clarithromycin</cons>, indicating that the enzyme responsible for the rifalazil-32-hydroxylation is <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</annotation>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10901692</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_CYP">CYP2C8/9</cons> mediate <cons sem="G_DRUG">dapsone</cons> N-hydroxylation at clinical concentrations of  <cons sem="G_DRUG">dapsone</cons>.</sentence>
+</title>
+<abstract>
+<annotation sem="INVITROCDDIS" ddi="(dapsone, CYP2C9,DEI)(dapsone, CYP3A4,ADEI)(dapsone, CYP2E1,ADEI)">
+<sentence>Using selective cytochrome P450 (CYP) <cons sem="G_MECHANISM">inhibitors</cons> and clinical concentrations (<cons sem="G_NUMBER">4 microM</cons>) of <cons sem="G_DRUG">dapsone</cons> (DDS), we found a major contribution of <cons sem="G_CYP">CYP2C9</cons> and <cons sem="G_CHANGE">little</cons> or <cons sem="G_NEGATIVEEFFECT">no</cons> contribution (<cons sem="G_NUMBER">&lt; or = 10%</cons>) of <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP2E1</cons> to dapsone N-hydroxylation (DDS-NHY) in human liver microsomes.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Sulfaphenazole, DDS-NHY,ADDI)(tolbutamide, DDS-NHY,ADDI)">
+<sentence><cons sem="G_DRUG">Sulfaphenazole</cons> (<cons sem="G_NUMBER">2.16 microM</cons>) and <cons sem="G_DRUG">tolbutamide</cons> (<cons sem="G_NUMBER">500 microM</cons>), selective <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_CYP">CYP2C9</cons> <cons sem="G_CYP">(or 2C8/9)</cons>,<cons sem="G_MECHANISM">inhibited</cons> DDS-NHY by <cons sem="G_NUMBER">48 +/- 14 and 41 +/- 15%</cons>, respectively.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(CYP2C8, DDS-NHY,DEI)(CYP2C9, DDS-NHY,DEI)(CYP2C18, DDS-NHY,DEI)(CYP2C19, DDS-NHY,DEI)">
+<sentence>The apparent Michaelis-Menten <cons sem="G_IVITPARA">Km</cons> values for DDS-NHY by cloned <cons sem="G_CYP">CYP2C8</cons>,<cons sem="G_CYP">CYP2C9</cons>,<cons sem="G_CYP">CYP2C18</cons>, and <cons sem="G_CYP">CYP2C19</cons> were <cons sem="G_NUMBER">75 microM, 31 microM, 25 microM</cons>, and <cons sem="G_CHANGE">greater</cons> than <cons sem="G_NUMBER">1 mM</cons>, respectively.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(CYP3A4, DDS-NHY,NDEI)(CYP2E1, DDS-NHY,NDEI)">
+<sentence><cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP2E1</cons> were incapable of DDS-NHY at <cons sem="G_NUMBER">4 microM</cons> <cons sem="G_DRUG">DDS</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(S-mephenytoin, DDS-NHY,ADDI)">
+<sentence><cons sem="G_DRUG">S-mephenytoin</cons> (<cons sem="G_NUMBER">360 microM</cons>) <cons sem="G_MECHANISM">activated</cons> DDS-NHY by human liver microsomes and by <cons sem="G_CYP">CYP2C8</cons> by <cons sem="G_NUMBER">43 +/- 36 and 193 +/- 16%</cons>, respectively.</sentence>
+</annotation>
+<sentence>This <cons sem="G_MECHANISM">activation</cons> was cytochrome b5-dependent.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(S-mephenytoin, DDS-NHY,ADDI)">
+<sentence>In contrast,<cons sem="G_DRUG">S-mephenytoin</cons> <cons sem="G_MECHANISM">inhibited</cons> DDS-NHY by <cons sem="G_CYP">CYP2C9</cons>,<cons sem="G_CYP">CYP2C18</cons>, and <cons sem="G_CYP">CYP2C19</cons> by <cons sem="G_NUMBER">27 +/- 2, 49 +/- 1, and 32 +/- 4%</cons>, respectively.</sentence>
+</annotation>
+<sentence>Because <cons sem="G_CYP">CYP2C18</cons> and <cons sem="G_CYP">CYP19</cons> are expressed at low concentrations in the human liver, these observations indicate that at clinical DDS concentrations,<cons sem="G_CYP">CYP2C9</cons> is a major and <cons sem="G_CYP">CYP2C8</cons> is a likely <cons sem="G_CHANGE">minor</cons> contributor to DDS-NHY in human liver microsomes.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10877007</bibliomisc>
+</articleinfo>
+<title>
+<sentence>In vitro <cons sem="G_MECHANISM">inhibition</cons> screening of human hepatic P450 enzymes by five angiotensin-II receptor antagonists.</sentence>
+</title>
+<abstract>
+<sentence>Metabolic interactions at the level of drug-metabolising enzymes are important for drug therapy.</sentence>
+<sentence>We investigated potential interactions of <cons sem="G_DRUG">losartan</cons>, <cons sem="G_DRUG">irbesartan</cons>, <cons sem="G_DRUG">valsartan</cons>,<cons sem="G_DRUG">eprosartan</cons> and <cons sem="G_DRUG">candesartan</cons> with cytochrome P450 (CYP)  enzymes in human liver microsomes.</sentence>
+<sentence>In incubations with human liver microsomes in vitro, the <cons sem="G_MECHANISM">inhibitory</cons> potency of angiotensin-II receptor antagonists (sartans) on CYP-specific  model activities were compared by measuring the <cons sem="G_IVITPARA">IC50</cons> and, with respect to more potent <cons sem="G_MECHANISM">inhibition</cons>, <cons sem="G_IVITPARA">Ki</cons> values.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(losartan, coumarin 7-hydroxylation,NDDI)(irbesartan, coumarin 7-hydroxylation,NDDI)(valsartan, coumarin 7-hydroxylation,NDDI)(eprosartan, coumarin 7-hydroxylation,NDDI)(candesartan, coumarin 7-hydroxylation,NDDI)(losartan, dextromethorphan O-demethylation,NDDI)(irbesartan, dextromethorphan O-demethylation,NDDI)(valsartan, dextromethorphan O-demethylation,NDDI)(eprosartan, dextromethorphan O-demethylation,NDDI)(candesartan, dextromethorphan O-demethylation,NDDI)(losartan, chlorzoxazone 6-hydroxylation,NDDI)(irbesartan, chlorzoxazone 6-hydroxylation,NDDI)(valsartan, chlorzoxazone 6-hydroxylation,NDDI)(eprosartan, chlorzoxazone 6-hydroxylation,NDDI)(candesartan, chlorzoxazone 6-hydroxylation,NDDI)">
+<sentence>None of the five sartans <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_CYP">CYP2A6</cons>-,<cons sem="G_CYP">CYP2D6</cons>- or <cons sem="G_CYP">CYP2E1-associated</cons> activities (<cons sem="G_DRUG">coumarin</cons> 7-hydroxylation, <cons sem="G_DRUG">dextromethorphan</cons> O-demethylation and <cons sem="G_DRUG">chlorzoxazone</cons> 6-hydroxylation, respectively) to any <cons sem="G_CHANGE">significant</cons> extent.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Losartan, tolbutamide methylhydroxylation,DDI)(irbesartan, tolbutamide methylhydroxylation,ADDI)(valsartan, tolbutamide methylhydroxylation,NDDI)(candesartan, tolbutamide methylhydroxylation,NDDI)(eprosartan, tolbutamide methylhydroxylation,NDDI)">
+<sentence><cons sem="G_DRUG">Losartan</cons> and <cons sem="G_DRUG">irbesartan</cons> inhibited the <cons sem="G_CYP">CYP2C9-associated</cons> <cons sem="G_DRUG">tolbutamide</cons> methylhydroxylation more potently (<cons sem="G_IVITPARA">Ki</cons> values <cons sem="G_NUMBER">4.1 microM and 24.5 microM</cons>), than <cons sem="G_DRUG">valsartan</cons>,<cons sem="G_DRUG">candesartan</cons> or <cons sem="G_DRUG">eprosartan</cons> (<cons sem="G_IVITPARA">Ki</cons> values <cons sem="G_NUMBER">135 microM, 155 microM and &gt; 1000 microM</cons>, respectively).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Losartan, ethoxyresorufin O-deethylation,NDDI)(irbesartan, ethoxyresorufin O-deethylation,NDDI)(Losartan, testosterone 6beta-hydroxylation,NDDI)(irbesartan, testosterone 6beta-hydroxylation,NDDI)">
+<sentence><cons sem="G_DRUG">Losartan</cons> and <cons sem="G_DRUG">irbesartan</cons> <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_CYP">CYP1A2-</cons> and <cons sem="G_CYP">CYP3A4-associated</cons> activities (<cons sem="G_DRUG">ethoxyresorufin</cons> O-deethylation and <cons sem="G_DRUG">testosterone</cons> 6beta-hydroxylation) with relatively weak affinities (<cons sem="G_IVITPARA">IC50</cons> values between <cons sem="G_NUMBER">200 microM</cons> and <cons sem="G_NUMBER">500 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Losartan, S-mephenytoin 4'-hydroxylation,DDI)">
+<sentence>CYP2C1OFF <cons sem="G_DRUG">S-mephenytoin</cons> 4'-hydroxylation activity was <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_DRUG">losartan</cons> (<cons sem="G_IVITPARA">IC50</cons> value <cons sem="G_NUMBER">138 microM</cons>) and much less or <cons sem="G_NEGATIVEEFFECT">not</cons> at all by the other sartans tested.</sentence>
+</annotation>
+<sentence>All sartans except <cons sem="G_DRUG">eprosartan</cons> have at least some affinity for <cons sem="G_CYP">CYP2C9</cons>, but only <cons sem="G_DRUG">losartan</cons> has an affinity for <cons sem="G_CYP">CYP2C19</cons>.</sentence>
+<sentence><cons sem="G_DRUG">Losartan</cons> and <cons sem="G_DRUG">irbesartan</cons> have <cons sem="G_CHANGE">modest</cons> affinity for <cons sem="G_CYP">CYP1A2</cons> and <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+<sentence>This would suggest that the theoretical potential for drug interactions is likely to be quite low, with the possible exceptions of <cons sem="G_DRUG">losartan</cons> and <cons sem="G_DRUG">irbesartan</cons> for <cons sem="G_CYP">CYP2C9</cons>.</sentence>
+<sentence>Based on these findings, further studies on the interaction potential of <cons sem="G_DRUG">losartan</cons> and <cons sem="G_DRUG">irbesartan</cons> are warranted.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10870095</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Inhibition</cons> of <cons sem="G_CYP">human cytochrome P450</cons> isoforms in vitro by <cons sem="G_DRUG">zafirlukast</cons>.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_DRUG">Zafirlukast</cons> is a cysteinyl leukotriene antagonist used to treat allergic and exercise-induced asthma.</sentence>
+<sentence>This in vitro study used human liver microsomes to evaluate the <cons sem="G_MECHANISM">inhibitory</cons> activity of <cons sem="G_DRUG">zafirlukast</cons> versus six human cytochrome P450  (CYP) isoforms.</sentence>
+<sentence><cons sem="G_DRUG">Zafirlukast</cons> (<cons sem="G_NUMBER">0-250 microM</cons>) was co-incubated with fixed concentrations of index substrates.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Zafirlukast, tolbutamide,DDI)(Zafirlukast, triazolam,DDI)(Zafirlukast, S-mephenytoin,DDI)(Zafirlukast, phenacetin O-deethylation,ADDI)(Zafirlukast dextromethorphan O-demethylation,ADDI)">
+<sentence>Zafirlukast <cons sem="G_MECHANISM">inhibited</cons> the hydroxylation of tolbutamide (<cons sem="G_CYP">CYP2C9</cons>; mean <cons sem="G_IVITPARA">IC(50)</cons>=<cons sem="G_NUMBER">7.0 microM</cons>), <cons sem="G_DRUG">triazolam</cons> (<cons sem="G_CYP">CYP3A</cons>; <cons sem="G_IVITPARA">IC(50)</cons>=<cons sem="G_NUMBER">20.9 microM</cons>) and <cons sem="G_DRUG">S-mephenytoin</cons> (<cons sem="G_CYP">CYP2C19</cons>; <cons sem="G_IVITPARA">IC(50)</cons>=<cons sem="G_NUMBER">32.7 microM</cons>), and was a less potent <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_DRUG">phenacetin</cons> O-deethylation (<cons sem="G_CYP">CYP1A2</cons>; <cons sem="G_IVITPARA">IC(50)</cons>=<cons sem="G_NUMBER">56 microM</cons>) and <cons sem="G_DRUG">dextromethorphan</cons> O-demethylation (<cons sem="G_CYP">CYP2D6</cons>; <cons sem="G_IVITPARA">IC(50)</cons>=<cons sem="G_NUMBER">116 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Zafirlukast, CYP2E1,DEI)">
+<sentence><cons sem="G_DRUG">Zafirlukast</cons> produced <cons sem="G_CHANGE">negligible</cons> <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2E1</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(zafirlukast, S-warfarin,DDI)">
+<sentence>In vitro <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2C9</cons> by <cons sem="G_DRUG">zafirlukast</cons> is consistent with clinical studies showing impaired clearance of  <cons sem="G_DRUG">S-warfarin</cons> and enhanced anti-thrombotic effects, although the in vitro <cons sem="G_IVITPARA">IC(50)</cons> value is higher than the usual range of clinically relevant plasma concentrations.</sentence>
+</annotation>
+<sentence><cons sem="G_DRUG">Zafirlukast</cons> deserves further clinical study as an <cons sem="G_MECHANISM">inhibitor</cons> of other <cons sem="G_CYP">CYP2C9</cons> substrates such as nonsteroidal anti-inflammatory agents,<cons sem="G_DRUG">tolbutamide</cons>,<cons sem="G_DRUG">phenytoin </cons> and mestranol.</sentence>
+<sentence>Clinically important <cons sem="G_MECHANISM">inhibition</cons> by <cons sem="G_DRUG">zafirlukast</cons> of other CYP isoforms is <cons sem="G_NEGATIVEEFFECT">not</cons> established.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10859153</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Interaction of <cons sem="G_DRUG">cisapride</cons> with the <cons sem="G_CYP">human cytochrome P450</cons> system: <cons sem="G_MECHANISM">metabolism</cons> and <cons sem="G_MECHANISM">inhibition</cons> studies.</sentence>
+</title>
+<abstract>
+<sentence>Using human liver microsomes (HLMs) and recombinant <cons sem="G_CYP">cytochrome P450s (CYP450s)</cons>, we characterized the <cons sem="G_CYP">CYP450</cons> isoforms involved in the primary metabolic pathways of cisapride and documented the ability of <cons sem="G_DRUG">cisapride</cons> to <cons sem="G_MECHANISM">inhibit</cons> the <cons sem="G_CYP">CYP450</cons> system.</sentence>
+<sentence>In HLMs,<cons sem="G_DRUG">cisapride</cons> was N-dealkylated to <cons sem="G_DRUG">norcisapride</cons> (NORCIS) and hydroxylated to <cons sem="G_DRUG">3-fluoro-4-hydroxycisapride</cons> (3-F-4-OHCIS) and to <cons sem="G_DRUG">4-fluoro-2-hydroxycisapride</cons> (4-F-2-OHCIS).</sentence>
+<sentence><cons sem="G_MECHANISM">Formation</cons> of NORCIS, 3-F-4-OHCIS, and 4-F-2-OHCIS in HLMs exhibited Michaelis-Menten kinetics (<cons sem="G_IVITPARA">K(m)</cons>: <cons sem="G_NUMBER">23.4 +/- 8.6, 32 +/- 11, and 31 +/- 23 microM</cons>; <cons sem="G_IVITPARA">V(max)</cons>: <cons sem="G_NUMBER">155 +/- 91, 52 +/- 23</cons>, and <cons sem="G_NUMBER">31 +/- 23 pmol/min/mg</cons> of protein, respectively).</sentence>
+<sentence>The average in vitro intrinsic clearance (<cons sem="G_IVITPARA">V(max)/K(m)</cons>) revealed that the <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">NORCIS</cons> was <cons sem="G_NUMBER">3.9- to 5</cons>.</sentence>
+<sentence>9-fold higher than that of the two hydroxylated metabolites.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(cisapride, CYP3A,DEI)(cisapride, CYP2C19,DEI)(cisapride, CYP1A2,DEI)">
+<sentence><cons sem="G_MECHANISM">Formation</cons> rate of <cons sem="G_DRUG">NORCIS</cons> from <cons sem="G_NUMBER">10 microM</cons> <cons sem="G_DRUG">cisapride</cons> in 14 HLMs was highly variable (range, <cons sem="G_NUMBER">4.9-133.6 pmol/min/mg</cons> of protein) and <cons sem="G_CHANGE">significantly</cons> correlated with the activities of <cons sem="G_CYP">CYP3A</cons> (<cons sem="G_NUMBER">r = 0.86, P =.0001</cons>),<cons sem="G_CYP">CYP2C19</cons>, and <cons sem="G_CYP">1A2</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(ketoconazole, cisapride,DDI)(troleandomycin, cisapride,DDI)">
+<sentence>Of isoform-specific <cons sem="G_MECHANISM">inhibitors</cons>, <cons sem="G_NUMBER">1 microM</cons> <cons sem="G_DRUG">ketoconazole</cons> and <cons sem="G_NUMBER">50 microM</cons> <cons sem="G_DRUG">troleandomycin</cons> were potent <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_DRUG">NORCIS</cons> <cons sem="G_MECHANISM">formation</cons> from <cons sem="G_NUMBER">10 microM</cons> <cons sem="G_DRUG">cisapride</cons> (by <cons sem="G_NUMBER">51 +/- 9</cons> and <cons sem="G_NUMBER">44 +/- 17%</cons>, respectively), whereas the effect of other <cons sem="G_MECHANISM">inhibitors</cons> was minimal.</sentence>
+</annotation>
+<sentence>Of 10 recombinant human <cons sem="G_CYP">CYP450s</cons> tested,<cons sem="G_CYP">CYP3A4</cons> <cons sem="G_MECHANISM">formed</cons> <cons sem="G_DRUG">NORCIS</cons> from <cons sem="G_NUMBER">10 microM</cons> <cons sem="G_DRUG">cisapride</cons> at the highest rate (<cons sem="G_IVITPARA">V</cons> = <cons sem="G_NUMBER">0.56 +/- 0.13 pmol/min/pmol</cons> of P450) followed by <cons sem="G_CYP">CYP2C8</cons> (<cons sem="G_IVITPARA">V</cons> = <cons sem="G_NUMBER">0.29 +/- 0.08 pmol/min/pmol</cons> of P450) and <cons sem="G_CYP">CYP2B6</cons> <cons sem="G_NUMBER">(0.15 +/- 0.04 pmol/min/pmol of P450)</cons>.</sentence>
+<sentence>The <cons sem="G_MECHANISM">formation</cons> of 3-F-4-OHCIS was mainly catalyzed by <cons sem="G_CYP">CYP2C8</cons> (<cons sem="G_NUMBER">V = 0.71 +/- 0.24 pmol/min/pmol</cons> of P450) and that of 4-F-2-OHCIS by <cons sem="G_CYP">CYP3A4</cons> (<cons sem="G_NUMBER">0.16 +/- 0.03 pmol/min/pmol</cons> of <cons sem="G_CYP">P450</cons>).</sentence>
+<sentence>Clearly, recombinant <cons sem="G_CYP">CYP2C8</cons> participates in <cons sem="G_DRUG">cisapride</cons> <cons sem="G_MECHANISM">metabolism</cons>, but when the in vitro intrinsic clearances obtained were corrected for abundance of each <cons sem="G_CYP">CYP450</cons> in the liver, <cons sem="G_CYP">CYP3A4</cons> is the dominant isoform.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Cisapride, CYP2D6,ADEI)">
+<sentence><cons sem="G_DRUG">Cisapride</cons> was a relatively potent <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP2D6</cons>, with <cons sem="G_NEGATIVEEFFECT">no</cons> <cons sem="G_CHANGE">significant</cons> effect on other isoforms tested, but the <cons sem="G_IVITPARA">K(i)</cons> value derived (<cons sem="G_NUMBER">14 +/- 16 microM</cons>) was much higher than the clinically expected concentration of <cons sem="G_DRUG">cisapride</cons> (<cons sem="G_NUMBER">&lt;1 microM</cons>).</sentence>
+</annotation>
+<sentence>Our data suggest that <cons sem="G_CYP">CYP3A</cons> is the main isoform involved in the overall metabolic clearance of <cons sem="G_DRUG">cisapride</cons>.</sentence>
+<sentence><cons sem="G_DRUG">Cisapride</cons> <cons sem="G_MECHANISM">metabolism</cons> is likely to be subject to interindividual variability in <cons sem="G_CYP">CYP3A</cons> expression and to drug interactions involving this isoform.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10801247</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Lack of correlation between in vitro and in vivo studies on the effects of tangeretin and tangerine juice on <cons sem="G_DRUG">midazolam</cons> hydroxylation.</sentence>
+</title>
+<abstract>
+<sentence>Tangeretin is a flavonoid that <cons sem="G_MECHANISM">stimulates</cons> the catalytic activity of <cons sem="G_CYP">cytochrome P450 3A4</cons> (<cons sem="G_CYP">CYP3A4</cons>) and is found in high levels in tangerine juice.</sentence>
+<sentence>The effect of tangeretin on hydroxylation of <cons sem="G_DRUG">midazolam</cons> , a <cons sem="G_CYP">CYP3A4</cons> probe, was examined in vitro with human liver microsomes and recombinant <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+<sentence>In addition, the effect of tangerine juice on the pharmacokinetics and pharmacodynamics of orally administered <cons sem="G_DRUG">midazolam</cons> (<cons sem="G_NUMBER">15 mg</cons>) and its active 1'-hydroxymetabolite was studied in a randomized crossover study in eight healthy volunteers.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(tangeretin, 1'-ydroxymidazolam,DDI)">
+<sentence>In microsomes from three human livers, <cons sem="G_DRUG">tangeretin</cons> (<cons sem="G_NUMBER">1 to 100 micromol/L</cons>) <cons sem="G_CHANGE">increased</cons> <cons sem="G_DRUG">1'-hydroxymidazolam</cons> <cons sem="G_MECHANISM">formation</cons> (<cons sem="G_NUMBER">12.5 micromol/L</cons> <cons sem="G_DRUG">midazolam</cons>) by up to <cons sem="G_NUMBER">212%</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(tangeretin, midazolam 1'-hydroxylation,NDDI)">
+<sentence>In complementary deoxyribonucleic acid-expressed <cons sem="G_CYP">CYP3A4</cons>, a <cons sem="G_NUMBER">52%</cons> stimulation of <cons sem="G_DRUG">midazolam</cons> 1'-hydroxylation was reached at <cons sem="G_NUMBER">50 micromol/L</cons> <cons sem="G_DRUG">tangeretin</cons> with <cons sem="G_NEGATIVEEFFECT">no</cons> effect on <cons sem="G_DRUG">midazolam</cons> 4-hydroxylation.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(tangerine juice, midazolam 1'-hydroxylation,ADDI)(tangerine juice, midazolam,ADDI)">
+<sentence>In the pharmacokinetic-pharmacodynamic study, <cons sem="G_NUMBER">200 mL</cons> <cons sem="G_DRUG">tangerine juice</cons> <cons sem="G_CHANGE">reduced</cons> the <cons sem="G_IVITPARA">area under the concentration versus time curve</cons> to 1.5 hours [<cons sem="G_IVITPARA">AUC(O-1.5h)</cons>] of <cons sem="G_DRUG">midazolam</cons> and 1'-hydroxymidazolam by <cons sem="G_NUMBER">39%</cons> and <cons sem="G_NUMBER">46%</cons>, respectively, and prolonged the time to reach peak concentration (<cons sem="G_NUMBER">P &lt; .05</cons>) without affecting the total <cons sem="G_IVITPARA">AUC</cons> values, <cons sem="G_IVITPARA">elimination half-life</cons> values, or <cons sem="G_IVITPARA">AUC</cons> ratios (<cons sem="G_DRUG">1'-hydroxymidazolam/midazolam</cons>).</sentence>
+</annotation>
+<sentence>These findings are consistent with a small delay in the absorption of <cons sem="G_DRUG">midazolam</cons> and lack of effect on <cons sem="G_DRUG">midazolam</cons> 1'-hydroxylation.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(tangerine juice, midazolam,NDDI)">
+<sentence>Accordingly, tangerine juice slightly postponed the maximum pharmacodynamic effects of <cons sem="G_DRUG">midazolam</cons> (<cons sem="G_NUMBER">P &lt; .05</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Tangeretin, midazolam 1'-hydroxylation,NDDI)">
+<sentence>Tangeretin is a potent regioselective <cons sem="G_MECHANISM">stimulator</cons> of <cons sem="G_DRUG">midazolam</cons>1'-hydroxylation by human liver microsomes and complementary deoxyribonucleic acid-expressed <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</annotation>
+<sentence>However, tangerine juice is unlikely to have any appreciable effect on <cons sem="G_CYP">CYP3A4</cons> in humans.</sentence>
+<sentence>Further studies are required to assess whether in vitro <cons sem="G_MECHANISM">stimulators</cons> of <cons sem="G_CYP">CYP3A4</cons> can influence drug <cons sem="G_MECHANISM">metabolism</cons> in vivo.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10681383</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_CYP">Human cytochrome  P-450 3A4</cons>: in vitro drug-drug interaction patterns are substrate-dependent.</sentence>
+</title>
+<abstract>
+<sentence>Testosterone,<cons sem="G_DRUG">terfenadine</cons>,<cons sem="G_DRUG">midazolam</cons>, and <cons sem="G_DRUG">nifedipine</cons>, four commonly used substrates for human cytochrome P-450 <cons sem="G_CYP">3A4</cons> (<cons sem="G_CYP">CYP3A4</cons>), were studied in pairs in human liver microsomes and in microsomes from cells containing recombinant human <cons sem="G_CYP">CYP3A4</cons> and P-450 reductase, to investigate in vitro substrate-substrate interaction with <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+<sentence>The interaction patterns between compounds with <cons sem="G_CYP">CYP3A4</cons> were found to be substrate-dependent.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(testosterone, terfenadine,DDI)(testosterone, midazolam,DDI)(terfenadine, midazolam,DDI)">
+<sentence>Mutual <cons sem="G_MECHANISM">inhibition</cons>, partial <cons sem="G_MECHANISM">inhibition</cons>, and <cons sem="G_MECHANISM">activation</cons> were observed in the <cons sem="G_DRUG">testosterone</cons>-<cons sem="G_DRUG">terfenadine</cons>, <cons sem="G_DRUG">testosterone</cons>-<cons sem="G_DRUG">midazolam</cons>, or <cons sem="G_DRUG">terfenadine</cons>-<cons sem="G_DRUG">midazolam</cons> interactions.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(testosterone, nifedipine,DDI)">
+<sentence>However, the most unusual result was the interaction between <cons sem="G_DRUG">testosterone</cons> and <cons sem="G_DRUG">nifedipine</cons>.</sentence>
+   </annotation>
+<annotation sem="INVITROCDDIS" ddi="(nifedipine, testosterone 6beta-hydroxylation,DDI)(testosterone, nifedipine oxidation,DDI)">
+<sentence>Although <cons sem="G_DRUG">nifedipine</cons> inhibited <cons sem="G_DRUG">testosterone</cons> 6beta-hydroxylation in a concentration-dependent manner, <cons sem="G_DRUG">testosterone</cons> did <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_MECHANISM">inhibit</cons> <cons sem="G_DRUG">nifedipine</cons> oxidation.</sentence>
+</annotation>
+<sentence>Furthermore, the effect of <cons sem="G_DRUG">testosterone</cons> and <cons sem="G_DRUG">7,8-benzoflavone</cons> on <cons sem="G_DRUG">midazolam</cons> 1'-hydroxylation and 4-hydroxylation demonstrated different regiospecificities.</sentence>
+<sentence>These results <cons sem="G_CHANGE">may</cons> be explained by a model in which multiple substrates or ligands can bind concurrently to the active site of a single <cons sem="G_CYP">CYP3A4</cons> molecule.</sentence>
+<sentence>However, the contribution of separate allosteric sites and conformational heterogeneity to the atypical kinetics of <cons sem="G_CYP">CYP3A4</cons> can <cons sem="G_NEGATIVEEFFECT">not</cons> be ruled out in this model.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10640508</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Drug interactions with calcium channel blockers: possible involvement of metabolite-intermediate complexation with <cons sem="G_CYP">CYP3A</cons> .</sentence>
+</title>
+<abstract>
+<sentence>The <cons sem="G_MECHANISM">inhibitory</cons> effects of six commonly used calcium channel blockers on three major cytochrome P-450 activities were examined and characterized in human liver microsomes.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(nifedipine, bufuralol1'-hydroxylation,DDI)(verapamil, bufuralol1'-hydroxylation,DDI)(diltiazem, bufuralol1'-hydroxylation,DDI)(amlodipine, bufuralol1'-hydroxylation,DDI)(felodipine, bufuralol1'-hydroxylation,DDI)(nifedipine, tolbutamide methyl hydroxylation,DDI)(verapamil, tolbutamide methyl hydroxylation,DDI)(diltiazem, tolbutamide methyl hydroxylation,DDI)(amlodipine, tolbutamide methyl hydroxylation,DDI)(felodipine, tolbutamide methyl hydroxylation,DDI)">
+<sentence>All six compounds reversibly <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_CYP">CYP2D6</cons> (bufuralol 1'-hydroxylation) and <cons sem="G_CYP">CYP2C9</cons> (tolbutamide methyl hydroxylation) activities.</sentence>
+</annotation>
+<sentence>The <cons sem="G_IVITPARA">IC(50)</cons> values for the <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2D6</cons> and <cons sem="G_CYP">CYP2C9</cons> for <cons sem="G_DRUG">nicardipine</cons> were <cons sem="G_NUMBER">3 to 9 microM</cons>, whereas those for all others ranged from <cons sem="G_NUMBER">14 to &gt;150 microM</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(verapamil, testosterone 6beta-hydroxylation,DDI)(diltiazem, testosterone 6beta-hydroxylation,DDI)(amlodipine, testosterone 6beta-hydroxylation,DDI)(felodipine, testosterone 6beta-hydroxylation,DDI)(verapamil, midazolam 1'-hydroxylation,DDI)(diltiazem, midazolam 1'-hydroxylation,DDI)(amlodipine, midazolam 1'-hydroxylation,DDI)(felodipine, midazolam 1'-hydroxylation,DDI)">
+<sentence>Except for <cons sem="G_DRUG">nifedipine</cons>, all calcium channel blockers showed <cons sem="G_CHANGE">increased</cons> <cons sem="G_MECHANISM">inhibitory</cons> potency toward <cons sem="G_CYP">CYP3A</cons> activities (<cons sem="G_DRUG">testosterone</cons> 6beta-hydroxylation and <cons sem="G_DRUG">midazolam</cons> 1'-hydroxylation) after 30-min preincubation with NADPH.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(nicardipine, testosterone 6beta-hydroxylation,DDI)(verapamil, testosterone 6beta-hydroxylation,DDI)(diltiazem, testosterone 6beta-hydroxylation,DDI)(amlodipine, testosterone 6beta-hydroxylation,DDI)(felodipine, testosterone 6beta-hydroxylation,DDI)">
+<sentence><cons sem="G_IVITPARA">IC(50)</cons> values for the <cons sem="G_MECHANISM">inhibition</cons> of testosterone 6beta-hydroxylase obtained in the NADPH-preincubation experiment for nicardipine (<cons sem="G_NUMBER">1 microM</cons>), <cons sem="G_DRUG">verapamil</cons> (<cons sem="G_NUMBER">2 microM</cons>), and <cons sem="G_DRUG">diltiazem</cons> (<cons sem="G_NUMBER">5 microM</cons>) were within <cons sem="G_NUMBER">10-fold</cons>, whereas those for <cons sem="G_DRUG">amlodipine</cons> (<cons sem="G_NUMBER">5 microM</cons>) and <cons sem="G_DRUG">felodipine</cons> (<cons sem="G_NUMBER">13 microM</cons>) were <cons sem="G_NUMBER">&gt;200-fold</cons> of their respective plasma concentrations reported after therapeutic doses.</sentence>
+</annotation>
+<sentence>Similar results also were obtained based on <cons sem="G_DRUG">midazolam</cons> 1'-hydroxylase activity.</sentence>
+<sentence>Unlike the observations with <cons sem="G_DRUG">mibefradil</cons>, a potent irreversible <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP3A</cons>, the NADPH-dependent <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP3A</cons> activity by <cons sem="G_DRUG">nicardipine</cons> and <cons sem="G_DRUG">verapamil</cons> was completely reversible on dialysis, whereas that by diltiazem was partially restored (<cons sem="G_NUMBER">80%</cons>).</sentence>
+<sentence>Additional experiments revealed that <cons sem="G_DRUG">nicardipine</cons>, <cons sem="G_DRUG">verapamil</cons>, and <cons sem="G_DRUG">diltiazem</cons> <cons sem="G_MECHANISM">formed</cons> <cons sem="G_CYP">cytochrome P-450-iron (II)</cons>-metabolite complex in both human liver microsomes and recombinant <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+<sentence><cons sem="G_DRUG">Nicardipine</cons> yielded a higher extent of complex <cons sem="G_MECHANISM">formation</cons> ( <cons sem="G_NUMBER">approximately 30% at 100 microM</cons>), and was a much faster-acting <cons sem="G_MECHANISM">inhibitor</cons> (maximal <cons sem="G_MECHANISM">inhibition</cons> rate constant approximately <cons sem="G_NUMBER">2 min(-1)</cons>) as compared with <cons sem="G_DRUG">verapamil</cons> and <cons sem="G_DRUG">diltiazem</cons>.</sentence>
+<sentence>These present findings that the <cons sem="G_CYP">CYP3A</cons> <cons sem="G_MECHANISM">inhibition</cons> caused by <cons sem="G_DRUG">nicardipine</cons>, <cons sem="G_DRUG">verapamil</cons>, and <cons sem="G_DRUG">diltiazem</cons> is, at least in part, quasi-irreversible provide a rational basis for pharmacokinetically <cons sem="G_CHANGE">significant</cons> interactions reported when they were coadministered with agents that are cleared primarily by <cons sem="G_CYP">CYP3A-mediated</cons> pathways.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10628907</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Inhibitory</cons> effects of <cons sem="G_DRUG">trospium chloride</cons> on cytochrome P450 enzymes in human liver microsomes.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_DRUG">Trospium chloride</cons>, an atropine derivative used for the treatment of urge incontinence, was tested for <cons sem="G_MECHANISM">inhibitory</cons> effects on human cytochrome P450 enzymes.</sentence>
+<sentence>Metabolic activities were determined in liver microsomes from two donors using the following selective substrates:<cons sem="G_DRUG">dextromethorphan</cons> <cons sem="G_CYP">(CYP2D6)</cons>,<cons sem="G_DRUG"> denitronifedipine</cons> <cons sem="G_CYP">(CYP3A4)</cons>, caffeine <cons sem="G_CYP">(CYP1A2)</cons>,<cons sem="G_DRUG">chlorzoxazone</cons> <cons sem="G_CYP">(CYP2E1)</cons>,<cons sem="G_DRUG">S-(+)-mephenytoin</cons> <cons sem="G_CYP">(CYP2C19)</cons>,<cons sem="G_DRUG">S-(-)-warfarin</cons> <cons sem="G_CYP">(CYP2C9)</cons> and <cons sem="G_DRUG">coumarin</cons> <cons sem="G_CYP">(CYP2A6)</cons>.</sentence>
+<sentence>Incubations with each substrate were carried out without a possible <cons sem="G_MECHANISM">inhibitor</cons> and in the presence of <cons sem="G_DRUG">trospium chloride</cons> at varying concentrations (<cons sem="G_NUMBER">37-3000 microM</cons>) at 37 degrees in <cons sem="G_NUMBER">0.1 M</cons> KH2PO4 buffer containing up to <cons sem="G_NUMBER">3%</cons> DMSO.</sentence>
+<sentence>Metabolite concentrations were determined by high-performance liquid chromatography (HPLC) in all cases except <cons sem="G_CYP">CYP2A6</cons> where direct fluorescence spectroscopy was used.</sentence>
+<sentence>First, trospium chloride <cons sem="G_IVITPARA">IC50</cons> values were determined for each substrate at respective <cons sem="G_IVITPARA">K(M)</cons> concentrations.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(Trospium chloride, dextromethorphan,NDDI)(Trospium chloride, denitronifedipine,NDDI)(Trospium chloride, caffeine,NDDI)(Trospium chloride, chlorzoxazone,NDDI)(Trospium chloride, S-(+)-mephenytoin,NDDI)(Trospium chloride, S-(-)-warfarin,NDDI)(Trospium chloride, coumarin,NDDI)">
+<sentence>Trospium chloride did <cons sem="G_NEGATIVEEFFECT">not</cons> show relevant <cons sem="G_MECHANISM">inhibitory</cons> effects on the <cons sem="G_MECHANISM">metabolism</cons> of most substrates (<cons sem="G_IVITPARA">IC50</cons> values considerably higher than <cons sem="G_NUMBER">1 mM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(Trospium chloride, CYP2D6,DEI)">
+<sentence>The only clear <cons sem="G_MECHANISM">inhibition</cons> was seen for the <cons sem="G_CYP">CYP2D6-dependent</cons> high-affinity O-demethylation of dextromethorphan, where <cons sem="G_IVITPARA">IC50</cons> values of <cons sem="G_NUMBER">27 microM</cons> and <cons sem="G_NUMBER">44 microM</cons> were observed.</sentence>
+</annotation>
+<sentence>Therefore,ADDItional <cons sem="G_DRUG">dextromethorphan</cons> concentrations (<cons sem="G_NUMBER">0.4-2000 microM</cons>) were tested.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(Trospium chloride, CYP2D6,ADEI)">
+<sentence>Trospium chloride was a competitive <cons sem="G_MECHANISM">inhibitor</cons> of the reaction with <cons sem="G_IVITPARA">Ki</cons> values of <cons sem="G_NUMBER">20 and 51 microM</cons>, respectively.</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(Trospium chloride, CYP3A4,NDEI)(Trospium chloride, CYP1A2,NDEI)(Trospium chloride, CYP2E1,NDEI)(Trospium chloride, CYP2C19,NDEI)(Trospium chloride, CYP2C9,NDEI)(Trospium chloride, CYP2A6,NDEI)(Trospium chloride, CYP2D6,DEI)">
+<sentence>Thus, trospium chloride has <cons sem="G_CHANGE">negligible</cons> <cons sem="G_MECHANISM">inhibitory</cons> effects on <cons sem="G_CYP">CYP3A4</cons>,<cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">CYP2E1</cons>,<cons sem="G_CYP">CYP2C19</cons>,<cons sem="G_CYP">CYP2C9</cons> and <cons sem="G_CYP">CYP2A6</cons> activity but is a reasonably potent <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP2D6</cons> in vitro.</sentence>
+</annotation>
+<sentence>Compared to therapeutic <cons sem="G_DRUG">trospium chloride</cons> peak plasma concentrations below <cons sem="G_NUMBER">50 nM</cons>, the 1000-times higher competitive <cons sem="G_MECHANISM">inhibition</cons> constant <cons sem="G_IVITPARA">Ki</cons> however suggests that <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2D6</cons> by <cons sem="G_DRUG">trospium chloride</cons> is without any clinical relevance.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10608481</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_DRUG">Fluvoxamine</cons> is a more potent <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_DRUG">lidocaine</cons> <cons sem="G_MECHANISM">metabolism</cons> than <cons sem="G_DRUG">ketoconazole</cons> and <cons sem="G_DRUG">erythromycin</cons> in vitro.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_CYP">CYP3A4</cons> is generally believed to be the major CYP enzyme involved in the <cons sem="G_MECHANISM">biotransformation</cons> of <cons sem="G_DRUG">lidocaine</cons> in man; however, recent in vivo studies suggest that this <cons sem="G_CHANGE">may</cons> <cons sem="G_NEGATIVEEFFECT">not</cons> be the case.</sentence>
+<sentence>We have examined the effects of the <cons sem="G_CYP">CYP3A4</cons> <cons sem="G_MECHANISM">inhibitors</cons> <cons sem="G_DRUG">erythromycin</cons> and <cons sem="G_DRUG">ketoconazole</cons> and the <cons sem="G_CYP">CYP1A2</cons> <cons sem="G_MECHANISM">inhibitor</cons> <cons sem="G_DRUG">fluvoxamine</cons> on the N-deethylation, i.e. <cons sem="G_MECHANISM">formation</cons> of monoethylglycinexylidide (<cons sem="G_DRUG">MEGX</cons>), and 3-hydroxylation of <cons sem="G_DRUG">lidocaine</cons> by human liver microsomes.</sentence>
+<sentence>The experiments were carried out at <cons sem="G_DRUG">lidocaine</cons> concentrations of <cons sem="G_NUMBER">5 microM</cons> (clinically relevant concentration) and <cons sem="G_NUMBER">800 microM</cons>.</sentence>
+<sentence>The <cons sem="G_MECHANISM">formation</cons> of both <cons sem="G_DRUG">MEGX</cons> and <cons sem="G_DRUG">3-hydroxylidocaine</cons> was best described by a two-enzyme model.</sentence>
+<sentence>At <cons sem="G_NUMBER">5 microM</cons> of <cons sem="G_DRUG">lidocaine</cons>,<cons sem="G_DRUG">fluvoxamine</cons> was a potent <cons sem="G_MECHANISM">inhibitor</cons> of the <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">MEGX</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">1.2 microM</cons>).</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Ketoconazole, MEGX,DDI)(erythromycin, MEGX,DDI)">
+<sentence><cons sem="G_DRUG">Ketoconazole</cons> and <cons sem="G_DRUG">erythromycin</cons> also showed an <cons sem="G_MECHANISM">inhibitory</cons> effect on <cons sem="G_DRUG">MEGX</cons> <cons sem="G_MECHANISM">formation</cons>, but <cons sem="G_DRUG">ketoconazole</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">8.5 microM</cons>) was a much more potent <cons sem="G_MECHANISM">inhibitor</cons> than <cons sem="G_DRUG">erythromycin</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">200 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(fluvoxamine, MEGX,ADDI)(ketoconazole, MEGX,ADDI)(erythromycin, MEGX,NDDI)">
+<sentence>At <cons sem="G_NUMBER">800 microM</cons> of <cons sem="G_DRUG">lidocaine</cons>,<cons sem="G_DRUG">fluvoxamine</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">20.7 microM</cons>) and <cons sem="G_DRUG">ketoconazole</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">20.4 microM</cons>) displayed a <cons sem="G_CHANGE">modest</cons> <cons sem="G_MECHANISM">inhibitory</cons> effect on <cons sem="G_DRUG">MEGX</cons> <cons sem="G_MECHANISM">formation</cons>, whereas <cons sem="G_DRUG">erythromycin</cons> was a weak <cons sem="G_MECHANISM">inhibitor</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">&gt;250 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(fluvoxamine, lidocaine,DDI)">
+<sentence>The 3-hydroxylation of <cons sem="G_DRUG">lidocaine</cons> was potently <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_DRUG">fluvoxamine</cons> at both <cons sem="G_DRUG">lidocaine</cons>concentrations (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">0.16 microM</cons> at <cons sem="G_NUMBER">5 microM</cons> and <cons sem="G_NUMBER">1.8 microM</cons> at <cons sem="G_NUMBER">800 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Erythromycin, lidocaine,ADDI)(ketoconazole, lidocaine,ADDI)">
+<sentence><cons sem="G_DRUG">Erythromycin</cons> and <cons sem="G_DRUG">ketoconazole</cons> showed a clear <cons sem="G_MECHANISM">inhibitory</cons> effect on the 3-hydroxylation of <cons sem="G_DRUG">lidocaine</cons> at <cons sem="G_NUMBER">5 microM</cons> of <cons sem="G_DRUG">lidocaine</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">9.9 microM</cons> and <cons sem="G_NUMBER">13.9 microM</cons>, respectively), but did <cons sem="G_NEGATIVEEFFECT">not</cons> show a consistent effect at <cons sem="G_NUMBER">800 microM</cons> of <cons sem="G_DRUG">lidocaine</cons> (<cons sem="G_IVITPARA">IC50</cons> <cons sem="G_NUMBER">&gt;250 microM and 75.0 microM</cons>, respectively).</sentence>
+</annotation>
+<sentence>Although further studies are needed to elucidate the role of distinct CYP enzymes in the <cons sem="G_MECHANISM">biotransformation</cons> of <cons sem="G_DRUG">lidocaine</cons> in humans, the findings of this study suggest that while both <cons sem="G_CYP">CYP1A2</cons> and <cons sem="G_CYP">CYP3A4</cons> are involved in the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">lidocaine</cons> by human liver microsomes,<cons sem="G_CYP">CYP1A2</cons> is the more important isoform at clinically relevant <cons sem="G_DRUG">lidocaine</cons> concentrations.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10597902</bibliomisc>
+</articleinfo>
+<title>
+<sentence>In vitro <cons sem="G_MECHANISM">inhibition</cons> of human liver drug metabolizing enzymes by second generation antihistamines.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_DRUG">Cetirizine</cons>,<cons sem="G_DRUG">terfenadine</cons>, <cons sem="G_DRUG">loratadine</cons>,<cons sem="G_DRUG">astemizole</cons> and <cons sem="G_DRUG">mizolastine</cons> were compared for their ability to <cons sem="G_MECHANISM">inhibit</cons>marker activities for<cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">CYP2C9</cons>,<cons sem="G_CYP">CYP2C19</cons>,<cons sem="G_CYP">CYP2D6</cons>,<cons sem="G_CYP">CYP3A4</cons> and for some glucuronidation isoenzymes in human liver microsomes.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(terfenadine, testosterone 6beta-hydroxylation,DDI)(astemizole, testosterone 6beta-hydroxylation,DDI)(loratadine, testosterone 6beta-hydroxylation,DDI)">
+<sentence>The most <cons sem="G_CHANGE">pronounced</cons> effects were observed with <cons sem="G_DRUG">terfenadine</cons> ,<cons sem="G_DRUG">astemizole</cons> and <cons sem="G_DRUG">loratadine</cons> which <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_CYP">CYP3A4-mediated</cons> testosterone 6beta-hydroxylation (<cons sem="G_IVITPARA">IC50</cons> of <cons sem="G_NUMBER">23, 21 and 32 microM</cons>, respectively) and <cons sem="G_CYP">CYP2D6-mediated</cons> <cons sem="G_DRUG">dextromethorphan</cons> O-demethylation (<cons sem="G_IVITPARA">IC50</cons> of <cons sem="G_NUMBER">18, 36 and 15 microM</cons>, respectively).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(loratadine, (S)-mephenytoin 4-hydroxylation,DDI)">
+<sentence>In addition,<cons sem="G_DRUG">loratadine</cons> <cons sem="G_CHANGE">markedly</cons> <cons sem="G_MECHANISM">inhibited</cons> the <cons sem="G_CYP">CYP2C19</cons> marker activity,<cons sem="G_DRUG">(S)-mephenytoin</cons> 4-hydroxylation (<cons sem="G_IVITPARA">Ki</cons> of <cons sem="G_NUMBER">0.17 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(loratadine, tolbutamide   hydroxylation,DDI)">
+<sentence>Furthermore,<cons sem="G_DRUG">loratadine</cons> <cons sem="G_MECHANISM">activated</cons> the <cons sem="G_CYP">CYP2C9-catalyzed</cons> <cons sem="G_DRUG">tolbutamide</cons> hydroxylation (ca. <cons sem="G_NUMBER">3-fold</cons> <cons sem="G_CHANGE">increase</cons> at <cons sem="G_NUMBER">30 microM</cons>) and <cons sem="G_MECHANISM">inhibited</cons> some glucuronidation enzymes.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Mizolastine, CYP2E1,ADEI)(Mizolastine, CYP2C9,ADEI)(Mizolastine, CYP2D6,ADEI)(Mizolastine, CYP3A4,ADEI)">
+<sentence><cons sem="G_DRUG">Mizolastine</cons> appeared to be a relatively weak and unspecific <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP2E1</cons>,<cons sem="G_CYP">CYP2C9</cons>, <cons sem="G_CYP">CYP2D6</cons> and <cons sem="G_CYP">CYP3A4</cons> (<cons sem="G_IVITPARA">IC50Ss</cons> in the <cons sem="G_NUMBER">100 micromolar</cons> range).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Cetirizine, CYP2E1,NDEI)(Cetirizine, CYP2C9,NDEI)(Cetirizine, CYP2D6,NDEI)(Cetirizine, CYP3A4,NDEI)">
+<sentence><cons sem="G_DRUG">Cetirizine</cons> demonstrated <cons sem="G_NEGATIVEEFFECT">no</cons> effect on the investigated activities.</sentence>
+</annotation>
+<sentence>A comparison of the <cons sem="G_MECHANISM">inhibitory</cons> potencies of <cons sem="G_DRUG">cetirizine</cons>, <cons sem="G_DRUG">terfenadine</cons>,<cons sem="G_DRUG">loratidine</cons>,<cons sem="G_DRUG">astemizole</cons> and <cons sem="G_DRUG">mizolastine</cons> with their corresponding plasma concentrations in humans suggests that these antihistamines are <cons sem="G_NEGATIVEEFFECT">not</cons> likely to interfere with the metabolic clearance of coadministered drugs, with the exception of <cons sem="G_DRUG">loratidine</cons>, which appears to <cons sem="G_MECHANISM">inhibit</cons> <cons sem="G_CYP">CYP2C19</cons> with sufficient potency to warrant additional investigation.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10570031</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Characterization of the in vitro biotransformation of the HIV-1 reverse transcriptase <cons sem="G_MECHANISM">inhibitor</cons> <cons sem="G_DRUG">nevirapine</cons> by human hepatic <cons sem="G_CYP">cytochromes P-450</cons>.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_DRUG">Nevirapine</cons> (NVP), a non-nucleoside <cons sem="G_MECHANISM">inhibitor</cons> of HIV-1 reverse transcriptase, is concomitantly administered to patients with a variety of medications.</sentence>
+<sentence>To assess the potential for its involvement in drug interactions, cytochrome P-450 (CYP) reaction phenotyping of <cons sem="G_DRUG">NVP</cons> to its four oxidative metabolites, <cons sem="G_DRUG">2-, 3-, 8-, and 12-hydroxyNVP</cons>, was performed.</sentence>
+<sentence>The <cons sem="G_DRUG">NVP</cons> metabolite <cons sem="G_MECHANISM">formation</cons> rates by characterized human hepatic microsomes were best correlated with probe activities for either <cons sem="G_CYP">CYP3A4</cons> (<cons sem="G_DRUG">2- and 12-hydroxyNVP</cons>) or <cons sem="G_CYP">CYP2B6</cons> (<cons sem="G_DRUG">3-and 8-hydroxyNVP</cons>).</sentence>
+<sentence>In studies with cDNA-expressed human hepatic CYPs, <cons sem="G_DRUG">2- and 3-hydroxyNVP</cons> were exclusively <cons sem="G_MECHANISM">formed</cons> by <cons sem="G_CYP">CYP3A</cons> and <cons sem="G_CYP">CYP2B6</cons>, respectively.</sentence>
+<sentence>Multiple cDNA-expressed CYPs produced <cons sem="G_DRUG">8- and 12-hydroxyNVP</cons>, although they were produced predominantly by <cons sem="G_CYP">CYP2D6</cons> and <cons sem="G_CYP">CYP3A4</cons>, respectively.</sentence>
+<sentence>Antibody to <cons sem="G_CYP">CYP3A4</cons> inhibited the rates of <cons sem="G_DRUG">2-, 8-, and 12-hydroxyNVP</cons> <cons sem="G_MECHANISM">formation</cons> by human hepatic microsomes, whereas antibody to <cons sem="G_CYP">CYP2B6</cons> <cons sem="G_MECHANISM">inhibited</cons> the <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">3- and 8-hydroxyNVP</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(ketoconazole, 2-, 8-, and 12-hydroxyNVP,DDI)(troleandomycin, 2-, 8-, and 12-hydroxyNVP,DDI)(erythromycin, 2-, 8-, and 12-hydroxyNVP,DDI)">
+<sentence>Studies using the <cons sem="G_CYP">CYP3A4</cons> inhibitors <cons sem="G_DRUG">ketoconazole</cons>,<cons sem="G_DRUG">troleandomycin</cons>, and <cons sem="G_DRUG">erythromycin</cons> suggested a role for <cons sem="G_CYP">CYP3A4</cons> in the <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">2-, 8-, and 12-hydroxyNVP</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(ketoconazole, 3-hydroxyNVP,NDDI)(troleandomycin, 3-hydroxyNVP,NDDI)(erythromycin, 3-hydroxyNVP,NDDI)">
+<sentence>These <cons sem="G_MECHANISM">inhibitors</cons> were less effective or ineffective against the <cons sem="G_MECHANISM">biotransformation</cons> of <cons sem="G_DRUG">NVP</cons> to <cons sem="G_DRUG">3-hydroxyNVP</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Quinidine, 8-hydroxyNVP,NDDI)">
+<sentence><cons sem="G_DRUG">Quinidine</cons> very weakly <cons sem="G_MECHANISM">inhibited</cons> only <cons sem="G_DRUG">8-hydroxyNVP</cons> <cons sem="G_MECHANISM">formation</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(NVP, CYP3A4,NDEI)">
+<sentence><cons sem="G_DRUG">NVP</cons> itself was an <cons sem="G_MECHANISM">inhibitor</cons> of only <cons sem="G_CYP">CYP3A4</cons> at concentrations that were well above those of therapeutic relevance (<cons sem="G_IVITPARA">K(i)</cons> = <cons sem="G_NUMBER">270 microM</cons>).</sentence>
+</annotation>
+<sentence>Collectively, these data indicate that <cons sem="G_DRUG">NVP</cons> is principally <cons sem="G_MECHANISM">metabolized</cons> by <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP2B6</cons> and that it has <cons sem="G_CHANGE">little</cons> potential to be involved in <cons sem="G_MECHANISM">inhibitory</cons> drug interactions.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10562786</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_DRUG">Fentanyl</cons> <cons sem="G_MECHANISM">inhibits</cons> <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">midazolam</cons>: competitive <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP3A4</cons> in vitro.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_DRUG">Fentanyl</cons> <cons sem="G_CHANGE">decreases</cons> clearance of <cons sem="G_DRUG">midazolam</cons> administered i.v., but the mechanism remains unclear.</sentence>
+<sentence>To elucidate this mechanism, we have investigated the effect of fentanyl on <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">midazolam</cons> using human hepatic microsomes and recombinant <cons sem="G_CYP">cytochrome P450</cons> isoforms (n = 6).</sentence>
+<sentence><cons sem="G_DRUG">Midazolam</cons> was <cons sem="G_MECHANISM">metabolized</cons> to <cons sem="G_DRUG">l'-hydroxymidazolam</cons> (<cons sem="G_DRUG">l'-OH MDZ</cons>) by human hepatic microsomes, with a Michaelis-Menten constant (<cons sem="G_IVITPARA">K(m)</cons>) of <cons sem="G_NUMBER">5.0 (SD 2.7) mumol litre-1</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Fentanyl, midazolam,ADDI)">
+<sentence><cons sem="G_DRUG">Fentanyl</cons> competitively <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">midazolam</cons>  in human hepatic microsomes, with an <cons sem="G_MECHANISM">inhibition</cons> constant (<cons sem="G_IVITPARA">Ki</cons>) of <cons sem="G_NUMBER">26.8 (12.4) mumol litre-1</cons>.</sentence>
+</annotation>
+<sentence>Of the seven representative human hepatic P450 isoforms,<cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">2A6</cons>,<cons sem="G_CYP">2C9</cons>,<cons sem="G_CYP">2C19</cons>,<cons sem="G_CYP">2D6</cons>,<cons sem="G_CYP">2E1</cons> and <cons sem="G_CYP">3A4</cons>, only <cons sem="G_CYP">CYP3A4</cons> <cons sem="G_MECHANISM">catalysed</cons>hydroxylation of <cons sem="G_DRUG">midazolam</cons>, with a <cons sem="G_IVITPARA">K(m)</cons> of <cons sem="G_NUMBER">3.6 (0.8) mumol liter-1</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Fentanyl, midazolam,ADDI)">
+<sentence><cons sem="G_DRUG">Fentanyl</cons> competitively <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">midazolam</cons> to <cons sem="G_DRUG">l'-OH MDZ</cons> by <cons sem="G_CYP">CYP3A4</cons>, with a <cons sem="G_IVITPARA">Ki</cons> of <cons sem="G_NUMBER">24.2 (6.8) mumol litre-1</cons>, comparable with the Ki obtained in human hepatic microsomes.</sentence>
+</annotation>
+<sentence>These findings indicate that <cons sem="G_DRUG">fentanyl</cons> competitively <cons sem="G_MECHANISM">inhibits</cons> <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">midazolam</cons> by <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10548453</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Biotransformation</cons> of <cons sem="G_DRUG">alprazolam</cons> by members of the human <cons sem="G_CYP">cytochrome P4503A</cons> subfamily.</sentence>
+</title>
+<abstract>
+<sentence>1.</sentence>
+<sentence>To aid in the prediction of drug interactions with <cons sem="G_DRUG">alprazolam</cons>, the human CYP involved in the 1'- and 4-hydroxylation of <cons sem="G_DRUG">alprazolam</cons> were characterized using human liver microsomes, expressed enzymes and selective chemical <cons sem="G_MECHANISM">inhibitors</cons>.</sentence>
+<sentence>2.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(troleandomycin, alprazolam,DDI)">
+<sentence>The <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">4-hydroxyalprazolam</cons> and <cons sem="G_DRUG">1'-hydroxyalprazolam</cons> at an <cons sem="G_DRUG">alprazolam</cons> concentration of <cons sem="G_NUMBER">62.5 microM</cons> were <cons sem="G_CHANGE">reduced</cons> by the prototypic <cons sem="G_CYP">CYP3A</cons> <cons sem="G_MECHANISM">inhibitor</cons>,<cons sem="G_DRUG">troleandomycin</cons> (<cons sem="G_NUMBER">50 microM</cons>), by <cons sem="G_NUMBER">97</cons> and <cons sem="G_NUMBER">9900</cons> respectively.</sentence>
+</annotation>
+<sentence>Only microsomes from B-lymphoblastoid cells expressing <cons sem="G_CYP">CYP3A4</cons> were capable of catalysing the 1'- and 4-hydroxylation of <cons sem="G_DRUG">alprazolam</cons>.</sentence>
+<sentence>3.</sentence>
+<sentence>The <cons sem="G_MECHANISM">formation</cons> rates of <cons sem="G_DRUG">1'-hydroxyalprazolam</cons> and <cons sem="G_DRUG">4-hydroxyalprazolam</cons> at an <cons sem="G_DRUG">alprazolam</cons> concentration of <cons sem="G_NUMBER">1 mM</cons> were <cons sem="G_CHANGE">significantly</cons> correlated (<cons sem="G_NUMBER">n = 19, r = 0.95, p&lt;0.01</cons>) indicating that the same enzyme(s) mediated these <cons sem="G_MECHANISM">biotransformations</cons>.</sentence>
+<sentence>A <cons sem="G_CHANGE">significant</cons> (<cons sem="G_NUMBER">p&lt;0.01</cons>) correlation was observed between <cons sem="G_DRUG">alprazolam</cons> 4- and 1'-hydroxylase activity and <cons sem="G_CYP">CYP3A-mediated</cons>midazolam 4-hydroxylase, midazolam 1'-hydroxylase,<cons sem="G_DRUG">dextromethorphan</cons> N-demethylase and erythromycin N-demethylase activities.</sentence>
+<sentence>4.</sentence>
+<sentence>In conclusion, in adult human liver the <cons sem="G_CYP">CYP3A</cons> subfamily members are the principal enzymes involved in the 1'- and 4-hydroxylation of <cons sem="G_DRUG">alprazolam</cons>.</sentence>
+<sentence>Thus, clinically <cons sem="G_CHANGE">significant</cons> drug drug interactions between <cons sem="G_DRUG">alprazolam</cons> and other <cons sem="G_CYP">CYP3A</cons> substrates are to be expected.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10548449</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Activation</cons> of phenacetin O-deethylase activity by <cons sem="G_DRUG">alpha-naphthoflavone</cons> in human liver microsomes.</sentence>
+</title>
+<abstract>
+<sentence>1.</sentence>
+<sentence>The roles of different human cytochrome P450s (CYP) in <cons sem="G_DRUG">phenacetin</cons> O-deethylation were investigated using human liver microsomes and recombinant proteins.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(alpha-naphthoflavone, POD,ADDI)">
+<sentence><cons sem="G_DRUG">Phenacetin O-deethylase (POD)</cons> activities in human liver microsomes at substrate concentrations of <cons sem="G_NUMBER">10 and 500 microM</cons> were <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_NUMBER">0.1 and 1 microM</cons> <cons sem="G_DRUG">alpha-naphthoflavone</cons> and <cons sem="G_MECHANISM">activated</cons> by <cons sem="G_NUMBER">10 and 100 microM</cons> <cons sem="G_DRUG">alpha-naphthoflavone</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(aniline, POD,DDI)(anti-CYP2E1 antibody, POD,DDI)(ketoconazole, POD,DDI)(anti-CYP3A4 antibody, POD,DDI)">
+<sentence>The <cons sem="G_MECHANISM">activation</cons> of <cons sem="G_DRUG">POD</cons> activity in human liver microsomes by <cons sem="G_DRUG">alphanaphthoflavone</cons> was <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_NUMBER">100 microM</cons> <cons sem="G_DRUG">aniline</cons>,<cons sem="G_CYP">anti-CYP2E1</cons>antibody, <cons sem="G_NUMBER">1 microM</cons> <cons sem="G_DRUG">ketoconazole</cons> and anti-<cons sem="G_CYP">CYP3A4</cons> antibody.</sentence>
+</annotation>
+<sentence>2.</sentence>
+<sentence>In recombinant CYP from human B-lymphoblast cells, <cons sem="G_DRUG">POD</cons> activities at a <cons sem="G_DRUG">phenacetin</cons> concentration of <cons sem="G_NUMBER">500 microM</cons> were detected for <cons sem="G_CYP">CYP2E1</cons> and <cons sem="G_CYP">CYP3A4</cons>, as well as <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">CYP1A1</cons>,<cons sem="G_CYP">CYP2C19</cons>,<cons sem="G_CYP">CYP2C9</cons> and <cons sem="G_CYP">CYP2A6</cons>.</sentence>
+<sentence>In recombinant CYP from human B-lymphoblast cells or baculovirus-infected insect cells and in reconstituted systems, a requirement of cytochrome b5 (b5) for <cons sem="G_DRUG">POD</cons> activities catalysed by <cons sem="G_CYP">CYP2E1</cons> and <cons sem="G_CYP">CYP3A4</cons> was observed.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(alpha-naphthoflavone, POD,DDI)">
+<sentence>The <cons sem="G_MECHANISM">activation</cons> of <cons sem="G_DRUG">POD</cons> activity by <cons sem="G_DRUG">alpha-naphthoflavone</cons> was observed for <cons sem="G_CYP">CYP3A4</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> for <cons sem="G_CYP">CYP2E1</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(alpha-naphthoflavone, POD,DDI)">
+<sentence>Co-expression of b5 with <cons sem="G_CYP">CYP3A4</cons> enhanced the <cons sem="G_MECHANISM">activation</cons> of <cons sem="G_DRUG">POD</cons> activity by <cons sem="G_DRUG">alpha-naphthoflavone</cons>.</sentence>
+</annotation>
+<sentence>3.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(fluvoxamine, POD,DDI)(ketoconazole, POD,NDDI)">
+<sentence>In the absence of <cons sem="G_DRUG">alpha-naphthoflavone</cons>, the <cons sem="G_DRUG">POD</cons> activity in pooled human liver microsomes at <cons sem="G_NUMBER">500 microM</cons> <cons sem="G_DRUG">phenacetin</cons> was <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons> (<cons sem="G_NUMBER">p&lt;0.0001</cons>) by <cons sem="G_NUMBER">10 microM</cons> <cons sem="G_DRUG">fluvoxamine</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> by <cons sem="G_NUMBER">1 microM</cons> <cons sem="G_DRUG">ketoconazole</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(fluvoxamine, POD,NDDI)(ketoconazole, POD,DDI)">
+<sentence>In the presence of <cons sem="G_DRUG">alpha-naphthoflavone</cons>, the activity was <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons><cons sem="G_NUMBER">(p&lt;0.0001)</cons> by <cons sem="G_NUMBER">1 microM</cons> <cons sem="G_DRUG">ketoconazole</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> by <cons sem="G_NUMBER">10 microM</cons> <cons sem="G_DRUG">fluvoxamine</cons>.</sentence>
+</annotation>
+<sentence>4.</sentence>
+<sentence>Inter-individual differences in the effects of <cons sem="G_DRUG">alpha-naphthoflavone</cons> on POD activity in human liver microsomes were observed, and the involvement of <cons sem="G_CYP">CYP3A4</cons> as well as <cons sem="G_CYP">CYP1A2</cons> in <cons sem="G_DRUG">POD</cons> activity in human liver was identified even at a low <cons sem="G_MECHANISM">substrate</cons> concentration.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10525281</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Mechanism-based <cons sem="G_MECHANISM">inactivation</cons> of <cons sem="G_CYP">cytochrome P450s 1A2</cons> and <cons sem="G_CYP">3A4</cons> by <cons sem="G_DRUG">dihydralazine</cons> in human liver microsomes.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_DRUG">Dihydralazine</cons> is known to <cons sem="G_MECHANISM">induce</cons> immunoallergic hepatitis.</sentence>
+<sentence>Since anti-liver microsome (anti-LM) autoantibodies found in the serum of the patients react with <cons sem="G_CYP">P450 1A2</cons>, it is suggested that <cons sem="G_DRUG">dihydralazine</cons> is biotransformed into a reactive metabolite, which covalently binds to <cons sem="G_CYP">cytochrome P450 1A2</cons> and triggers an immunological response as a neoantigen.</sentence>
+<sentence>We investigated <cons sem="G_MECHANISM">inactivation</cons> of P450 enzymes, including <cons sem="G_CYP">P450 1A2</cons>, during the <cons sem="G_MECHANISM"><cons sem="G_MECHANISM">metabolism</cons></cons> of <cons sem="G_DRUG">dihydralazine</cons> to evaluate the selectivity of <cons sem="G_CYP">P450 1A2</cons> as a catalyst and a target of <cons sem="G_DRUG">dihydralazine</cons>.</sentence>
+<sentence>Human liver microsomes or microsomes from lymphoblastoid cells expressing <cons sem="G_CYP">P450</cons> enzymes were preincubated with <cons sem="G_MECHANISM">dihydralazine</cons> in the presence of NADPH, followed by an assay of several monooxygenase activities.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(dihydralazine, phenacetin O-deethylase,DDI)(dihydralazine, testosterone 6beta-hydroxylase,DDI)(dihydralazine, diclofenac 4'-hydroxylase,NDDI)">
+<sentence>Preincubation of human liver microsomes with <cons sem="G_DRUG">dihydralazine</cons> in the presence of NADPH resulted in <cons sem="G_CHANGE">decreases</cons> in <cons sem="G_DRUG">phenacetin</cons> O-deethylase activity (an indicator of <cons sem="G_CYP">P450 1A2</cons> activity) and testosterone 6beta-hydroxylase activity <cons sem="G_CYP">(P450 3A4)</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> in <cons sem="G_DRUG">diclofenac</cons> 4'-hydroxylase activity <cons sem="G_CYP">(P450 2C9)</cons>, an indication of <cons sem="G_MECHANISM">inactivation</cons> of <cons sem="G_CYP">P450s 1A2</cons> and <cons sem="G_CYP">3A4</cons> during the <cons sem="G_DRUG">dihydralazine</cons> <cons sem="G_MECHANISM">metabolism</cons>.</sentence>
+</annotation>
+<sentence>The <cons sem="G_MECHANISM">inactivation</cons> of both of the P450s followed pseudo-first-order kinetics and was saturable with increasing <cons sem="G_DRUG">dihydralazine</cons> concentrations.</sentence>
+<sentence>Similar time-dependent <cons sem="G_CHANGE">decreases</cons> in the activities were obtained in the case for use in microsomes expressing <cons sem="G_CYP">P450 1A2</cons> and <cons sem="G_CYP">P450 3A4</cons> instead of the human liver microsomes.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(dihydralazine, 1A2,DEI)(dihydralazine, 3A4,DEI)">
+<sentence>The data presented here demonstrated that <cons sem="G_DRUG">dihydralazine </cons> was <cons sem="G_MECHANISM">metabolically</cons> <cons sem="G_MECHANISM">activated</cons> <cons sem="G_NEGATIVEEFFECT">not</cons> only by <cons sem="G_CYP">P450 1A2</cons> but also by  <cons sem="G_CYP">P450 3A4</cons>, and the chemically reactive metabolite bound to and <cons sem="G_MECHANISM">inactivated</cons> the enzyme themselves, suggesting that <cons sem="G_DRUG">dihydralazine</cons> is a mechanism-based <cons sem="G_MECHANISM">inactivator</cons> of <cons sem="G_CYP">P450s 1A2</cons> and <cons sem="G_CYP">3A4</cons>.</sentence>
+</annotation>
+<sentence>The data support the postulated covalent binding of a reactive metabolite of <cons sem="G_DRUG">dihydralazine</cons> to <cons sem="G_CYP">P450 1A2</cons> as a step in the <cons sem="G_MECHANISM">formation</cons> of anti-LM antibodies in <cons sem="G_DRUG">dihydralazine</cons> hepatitis, but it is <cons sem="G_NEGATIVEEFFECT">not</cons> the unique factor for determining the specificity of the autoantibodies.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10510156</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Characterization of the <cons sem="G_CYP">cytochrome P450</cons> enzymes involved in the in vitro <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">rosiglitazone</cons>.</sentence>
+</title>
+<abstract>
+<sentence>AIMS: To identify the  <cons sem="G_CYP">human cytochrome P450</cons> enzyme (s) involved in the in vitro <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">rosiglitazone</cons>, a potential oral antidiabetic agent for the treatment of type 2 diabetes-mellitus.</sentence>
+<sentence>Method The specific <cons sem="G_CYP">P450</cons> enzymes involved in the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">rosiglitazone</cons> were determined by a combination of three approaches; multiple regression analysis of the rates of <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">rosiglitazone</cons> in human liver microsomes against selective <cons sem="G_CYP">P450</cons> substrates, the effect of selective chemical <cons sem="G_MECHANISM"> inhibitors</cons> on <cons sem="G_DRUG">rosiglitazone</cons> <cons sem="G_MECHANISM">metabolism</cons> and the capability of expressed <cons sem="G_CYP">P450 enzymes</cons>to mediate the major metabolic routes of <cons sem="G_DRUG">rosiglitazone</cons> <cons sem="G_MECHANISM">metabolism</cons>.</sentence>
+<sentence>Result The major products of <cons sem="G_MECHANISM">metabolism</cons> following incubation of <cons sem="G_DRUG">rosiglitazone</cons> with human liver microsomes were para-hydroxy and N-desmethyl <cons sem="G_DRUG">rosiglitazone</cons>.</sentence>
+<sentence>The rate of <cons sem="G_MECHANISM">formation</cons> varied over <cons sem="G_NUMBER">38-fold</cons> in the 47 human livers investigated and correlated with <cons sem="G_DRUG">paclitaxel</cons> 6alpha-hydroxylation (<cons sem="G_NUMBER">P&lt;0.001</cons>).</sentence>
+<annotation sem="INVITROVDDIS" ddi="(13-cis retinoic acid, rosiglitazone,DDI)(furafylline, rosiglitazone,NDDI)(quinidine, rosiglitazone,NDDI)(ketoconazole, rosiglitazone,NDDI)">
+<sentence><cons sem="G_MECHANISM">Formation</cons> of these metabolites was <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_CHANGE">significantly</cons> (<cons sem="G_NUMBER">&gt;50%</cons>) by 13-cis retinoic acid, a <cons sem="G_CYP">CYP2C8</cons> <cons sem="G_MECHANISM">inhibitor</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> by <cons sem="G_DRUG">furafylline</cons>, <cons sem="G_DRUG">quinidine</cons> or <cons sem="G_DRUG">ketoconazole</cons>.</sentence>
+</annotation>
+<sentence>In addition, both metabolites were produced by microsomes derived from a cell line transfected with <cons sem="G_CYP">human <cons sem="G_CYP">CYP2C8</cons></cons> cDNA.</sentence>
+<sentence>There was some evidence for <cons sem="G_CYP">CYP2C9</cons> playing a <cons sem="G_CHANGE">minor</cons> role in the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">rosiglitazone</cons> .</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Sulphaphenazole, rosiglitazone,ADDI)">
+<sentence><cons sem="G_DRUG">Sulphaphenazole</cons> caused limited <cons sem="G_MECHANISM">inhibition</cons> (<cons sem="G_NUMBER">&lt;30%</cons>) of both pathways in human liver microsomes and microsomes from cells transfected with <cons sem="G_CYP">CYP2C9</cons> cDNA were able to mediate the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">rosiglitazone</cons>, in particular the N-demethylation pathway, albeit at a much slower rate than <cons sem="G_CYP">CYP2C8</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(rosiglitazone,paclitaxel 6alpha-hydroxylase,ADDI)(rosiglitazone, tolbutamide hydroxylase,NDDI)(rosiglitazone, CYP1A2,NDEI)(rosiglitazone, 2A6,NDEI)(rosiglitazone, 2C9,NDEI)(rosiglitazone, 2C19,NDEI)(rosiglitazone, 2D6,NDEI)(rosiglitazone, 2E1,NDEI)(rosiglitazone, 3A,NDEI)(rosiglitazone, 4A,NDEI)">
+<sentence><cons sem="G_DRUG">Rosiglitazone</cons> caused <cons sem="G_CHANGE">moderate</cons> <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_DRUG">paclitaxel</cons> 6alpha-hydroxylase activity (<cons sem="G_CYP">CYP2C8</cons>; <cons sem="G_IVITPARA">IC50</cons>=<cons sem="G_NUMBER">18 microM</cons> ), weak <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_DRUG">tolbutamide</cons> hydroxylase activity <cons sem="G_CYP">(CYP2C9</cons>; <cons sem="G_IVITPARA">IC50</cons>=<cons sem="G_NUMBER">50 microM</cons> ) but caused <cons sem="G_NEGATIVEEFFECT">no</cons> <cons sem="G_CHANGE">marked</cons> <cons sem="G_MECHANISM">inhibition</cons> of the other cytochrome P450 activities investigated <cons sem="G_CYP">(CYP1A2</cons>,<cons sem="G_CYP">2A6</cons>,<cons sem="G_CYP">2C9</cons>,<cons sem="G_CYP">2C19</cons>, <cons sem="G_CYP">2D6</cons>,<cons sem="G_CYP">2E1</cons>,<cons sem="G_CYP">3A</cons> and <cons sem="G_CYP">4A</cons>) .</sentence>
+</annotation>
+<sentence>Conclusion <cons sem="G_CYP">CYP2C8</cons> is primarily responsible for the hydroxylation and N-demethylation of <cons sem="G_DRUG">rosiglitazone</cons> in human liver; with <cons sem="G_CHANGE">minor</cons> contributions from  <cons sem="G_CYP">CYP2C9</cons>.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10484078</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Participation of <cons sem="G_CYP">CYP2C8</cons> in retinoic acid 4-hydroxylation in human hepatic microsomes.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_CYP">Cytochromes P450 (CYPs)</cons> catalyze the 4-hydroxylation of all-trans-retinoic acid (ATRA), an agent used in the treatment of certain malignancies.</sentence>
+<sentence>Literature studies have implicated several <cons sem="G_CYP">CYPs</cons> in this reaction, but the relative importance of individual <cons sem="G_CYP">CYPs</cons> is unclear.</sentence>
+<sentence>Human microsomal CYPs that contribute to the activity were evaluated by correlation with activities of hepatic drug-metabolizing CYPs, the capacity of cDNA-derived <cons sem="G_CYP">CYPs</cons> to catalyze the reaction, and <cons sem="G_MECHANISM">inhibition</cons> of the microsomal activity by chemicals.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(3A, 4-HydroxyATRA,DEI)(2C, 4-HydroxyATRA,DEI)(1A, 4-HydroxyATRA,DEI)">
+<sentence>4-HydroxyATRA <cons sem="G_MECHANISM">formation</cons> in microsomes varied 7-fold (8.7 to 61 pmol/mg protein/min) and correlated partially with activities mediated by <cons sem="G_CYP">CYPs 3A</cons>,<cons sem="G_CYP">2C</cons>, and <cons sem="G_CYP">1A</cons> (p = 0.53 to 0.66).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(2C8, 4-HydroxyATRA,DEI)(2C9, 4-HydroxyATRA,DEI)(3A4, 4-HydroxyATRA,DEI)(1A1, 4-HydroxyATRA,NDEI)(1A2, 4-HydroxyATRA,NDEI)">
+<sentence>cDNA-derived <cons sem="G_CYP">CYPs 2C8</cons>,<cons sem="G_CYP">2C9</cons>, and <cons sem="G_CYP">3A4</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_CYP">1A1</cons> or <cons sem="G_CYP">1A2</cons>, catalyzed ATRA 4-hydroxylation (<cons sem="G_NUMBER">2.53, 4.68, and 1.29 pmol/pmol CYP/hr</cons>).</sentence>
+</annotation>
+<sentence>The <cons sem="G_IVITPARA">Km</cons> for the reaction was <cons sem="G_NUMBER">9 +/- 3 microM</cons> in hepatic microsomes (N = 3) and <cons sem="G_NUMBER">6 microM</cons> in microsomes containing cDNA-derived <cons sem="G_CYP">CYP2C8</cons>; by comparison,<cons sem="G_IVITPARA">Km</cons> values for the activity mediated by <cons sem="G_CYP">CYPs 2C9</cons> and <cons sem="G_CYP">3A4</cons> were <cons sem="G_NUMBER">100 and 74 microM</cons>, respectively.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(paclitaxel, 4-HydroxyATRA,DDI)(diclofenac, 4-HydroxyATRA,DDI)(sulfaphenazole, 4-HydroxyATRA,NDDI)(tolbutamide, 4-HydroxyATRA,NDDI)(torasemide, 4-HydroxyATRA,NDDI)">
+<sentence><cons sem="G_MECHANISM">Inhibition</cons> of microsomal ATRA 4-hydroxylation was elicited by chemicals that <cons sem="G_MECHANISM">interact</cons> with <cons sem="G_CYP">CYP2C8</cons> (<cons sem="G_DRUG">paclitaxel</cons> and <cons sem="G_DRUG">diclofenac</cons>), but <cons sem="G_NEGATIVEEFFECT">not</cons> those that <cons sem="G_MECHANISM">interact</cons> with <cons sem="G_CYP">CYP2C9</cons> ( <cons sem="G_DRUG">sulfaphenazole</cons>, <cons sem="G_DRUG">tolbutamide</cons>, and <cons sem="G_DRUG">torasemide</cons>) .</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(troleandomycin, 4-HydroxyATRA,NDDI)(an anti-CYP3A IgG, 4-HydroxyATRA,NDDI)">
+<sentence>The  <cons sem="G_CYP">CYP3A</cons> <cons sem="G_MECHANISM">inhibitor</cons> <cons sem="G_DRUG">troleandomycin</cons>and an <cons sem="G_CYP">anti-CYP3A</cons> IgG <cons sem="G_MECHANISM">inhibited</cons> the activity slightly.</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(parathion, 4-HydroxyATRA,DDI)(quinidine, 4-HydroxyATRA,DDI)(ketoconazole, 4-HydroxyATRA,DDI)">
+<sentence><cons sem="G_CHANGE">Greater</cons> <cons sem="G_MECHANISM">inhibition</cons> was produced by the less selective <cons sem="G_CYP">CYP3A</cons> <cons sem="G_MECHANISM">inhibitors</cons> <cons sem="G_DRUG">parathion</cons>,<cons sem="G_DRUG">quinidine</cons>, and <cons sem="G_DRUG">ketoconazole</cons> ;<cons sem="G_CYP">CYP1A</cons><cons sem="G_MECHANISM">inhibitors</cons> were ineffective.</sentence>
+</annotation>
+<sentence>These findings suggest that <cons sem="G_CYP">CYP2C8</cons> is a major contributor to ATRA 4-hydroxylation in human liver and that <cons sem="G_CYP">3A</cons> subfamily CYPs <cons sem="G_CHANGE">may</cons> be <cons sem="G_CHANGE">minor</cons> participants.</sentence>
+<sentence>Individual variation in <cons sem="G_CYP">CYP2C8</cons> and <cons sem="G_CYP">3A4</cons> expression <cons sem="G_CHANGE">may</cons> influence ATRA pharmacokinetics and drug interactions during therapy.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10460810</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Effect of antipsychotic drugs on human liver cytochrome P-450 (CYP) isoforms in vitro: preferential <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2D6</cons>.</sentence>
+</title>
+<abstract>
+<sentence>The ability of antipsychotic drugs to <cons sem="G_MECHANISM">inhibit</cons> the catalytic activity of five cytochrome P-450 (CYP) isoforms was compared using in vitro human liver microsomal preparations to evaluate the relative potential of these drugs to <cons sem="G_MECHANISM">inhibit</cons> drug <cons sem="G_MECHANISM">metabolism</cons>.</sentence>
+<sentence>The apparent kinetic parameters for enzyme <cons sem="G_MECHANISM">inhibition</cons> were determined by nonlinear regression analysis of the data.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(Thioridazine, dextromethorphan O-demethylation,DDI)">
+<sentence>All antipsychotic drugs tested competitively <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_DRUG">dextromethorphan</cons> O-demethylation, a selective marker for <cons sem="G_CYP">CYP2D6</cons>, in a concentration-dependent manner.</sentence>
+</annotation>
+<annotation sem="INVITROVDDIS" ddi="(Thioridazine, dextromethorphan O-demethylation,DDI)(perphenazine, dextromethorphan O-demethylation,DDI)(perphenazine, dextromethorphan O- quinidine,DDI)">
+<sentence><cons sem="G_DRUG">Thioridazine</cons> and <cons sem="G_DRUG">perphenazine</cons> were the most potent, with <cons sem="G_IVITPARA">IC(50)</cons> values (<cons sem="G_NUMBER">2.7 and 1.5 microM</cons>) that were comparable to that of <cons sem="G_DRUG">quinidine</cons> (<cons sem="G_NUMBER">0.52 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(perphenazine, dextrorphan,DDI)(thioridazine, dextrorphan,DDI)(chlorpromazine, dextrorphan,DDI)(haloperidol, dextrorphan,DDI)(fluphenazine, dextrorphan,DDI)(risperidone, dextrorphan,ADDI)(clozapine, dextrorphan,ADDI)">
+<sentence>The estimated <cons sem="G_IVITPARA">K(i)</cons> values for <cons sem="G_CYP">CYP2D6-catalyzing</cons> <cons sem="G_DRUG">dextrorphan</cons> <cons sem="G_MECHANISM">formation</cons> were ranked in the following order: perphenazine (<cons sem="G_NUMBER">0.8 microM</cons>), <cons sem="G_DRUG">thioridazine</cons> (<cons sem="G_NUMBER">1.4 microM</cons>),<cons sem="G_DRUG">chlorpromazine</cons> (<cons sem="G_NUMBER">6.4 microM</cons>),<cons sem="G_DRUG"> haloperidol</cons> (<cons sem="G_NUMBER">7.2 microM</cons>), <cons sem="G_DRUG">fluphenazine</cons>  (<cons sem="G_NUMBER">9.4 microM</cons>), <cons sem="G_DRUG">risperidone</cons> (<cons sem="G_NUMBER">21.9 microM</cons>), <cons sem="G_DRUG">clozapine</cons> (<cons sem="G_NUMBER">39.0 microM</cons>), and <cons sem="G_DRUG">cis-thiothixene</cons> (<cons sem="G_NUMBER">65.0 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(fluphenazine, phenacetin O-deethylation,ADDI)(perphenazine, phenacetin O-deethylation,ADDI)">
+<sentence><cons sem="G_NEGATIVEEFFECT">No</cons> remarkable <cons sem="G_MECHANISM">inhibition</cons> of other CYP isoforms was observed except for <cons sem="G_CHANGE">moderate</cons> inhibition of <cons sem="G_CYP">CYP1A2-catalyzed</cons> <cons sem="G_DRUG">phenacetin</cons> O-deethylation by <cons sem="G_DRUG">fluphenazine</cons> (<cons sem="G_IVITPARA">K(i)</cons> = <cons sem="G_NUMBER">40.2 microM</cons>) and <cons sem="G_DRUG">perphenazine</cons> (<cons sem="G_IVITPARA">K(i)</cons> = <cons sem="G_NUMBER">65.1</cons>).</sentence>
+</annotation>
+<sentence>The estimated <cons sem="G_IVITPARA">K(i)</cons> values for the <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2C9</cons>,<cons sem="G_CYP">2C19</cons>, and <cons sem="G_CYP">3A</cons> were <cons sem="G_NUMBER">&gt;300 microM</cons> in almost all antipsychotics tested.</sentence>
+<sentence>These results suggest that antipsychotic drugs exhibit a striking selectivity for <cons sem="G_CYP">CYP2D6</cons> compared with other CYP isoforms.</sentence>
+<sentence>This <cons sem="G_CHANGE">may</cons> reflect a remarkable commonality of structure between the therapeutic targets for these drugs, the transporters, and metabolic enzymes that distribute and eliminate them.</sentence>
+<sentence>Clinically, coadministration of these medicines with drugs that are primarily <cons sem="G_MECHANISM">metabolized</cons> by <cons sem="G_CYP">CYP2D6</cons> <cons sem="G_CHANGE">may</cons> result in <cons sem="G_CHANGE">significant</cons> drug interactions.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10460803</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Multiple <cons sem="G_CYP">cytochrome P-450s</cons> involved in the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">terbinafine</cons> suggest a limited potential for drug-drug interactions.</sentence>
+</title>
+<abstract>
+<sentence>Biotransformation pathways and the potential for drug-drug interactions of the orally active antifungal <cons sem="G_DRUG">terbinafine</cons> were characterized using human liver microsomes and recombinant human <cons sem="G_CYP">cytochrome P-450s (CYPs)</cons>.</sentence>
+<sentence>The <cons sem="G_DRUG">terbinafine</cons> metabolites represented four major pathways: 1) N-demethylation, 2) deamination, 3) alkyl side chain oxidation, and 4) dihydrodiol <cons sem="G_MECHANISM">formation</cons>.</sentence>
+<sentence>Michaelis-Menten kinetics for the pathways revealed mean <cons sem="G_IVITPARA">K(m)</cons> values ranging from <cons sem="G_NUMBER">4.4 to 27.8 microM</cons>, and <cons sem="G_IVITPARA">V(max)</cons> values of <cons sem="G_NUMBER">9.8 to 82 nmol/h/mg</cons> protein.</sentence>
+<sentence>At least seven CYP enzymes are involved in <cons sem="G_DRUG">terbinafine</cons><cons sem="G_MECHANISM">metabolism</cons>.</sentence>
+<sentence>Recombinant human CYPs predict that <cons sem="G_CYP">CYP2C9</cons>,<cons sem="G_CYP">CYP1A2</cons>, and <cons sem="G_CYP">CYP3A4</cons> are the most important for total <cons sem="G_MECHANISM">metabolism</cons>.</sentence>
+<sentence>N-demethylation is primarily mediated by <cons sem="G_CYP">CYP2C9</cons>,<cons sem="G_CYP">CYP2C8</cons>, and <cons sem="G_CYP">CYP1A2</cons>; <cons sem="G_DRUG">dihydrodiol</cons> <cons sem="G_MECHANISM">formation</cons> by <cons sem="G_CYP">CYP2C9</cons> and <cons sem="G_CYP">CYP1A2</cons>; deamination by <cons sem="G_CYP">CYP3A4</cons>; and side chain oxidation equally by <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">CYP2C8</cons>,<cons sem="G_CYP">CYP2C9</cons>, and <cons sem="G_CYP">CYP2C19</cons>.</sentence>
+<sentence>Additionally, characteristic CYP substrates <cons sem="G_MECHANISM">inhibited</cons> pathways of <cons sem="G_DRUG">terbinafine</cons> metabolite <cons sem="G_MECHANISM">formation</cons>, confirming the involvement of multiple enzymes.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(troleandomycin, terbinafine,DDI)(azole antifungals, terbinafine,DDI)">
+<sentence>The deamination pathway was mainly <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_CYP">CYP3A</cons> <cons sem="G_MECHANISM">inhibitors</cons>, including <cons sem="G_DRUG">troleandomycin</cons> and azole antifungals.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(furafylline, Dihydrodiol,DDI)">
+<sentence>Dihydrodiol <cons sem="G_MECHANISM">formation</cons> was <cons sem="G_MECHANISM">inhibited</cons> by the <cons sem="G_CYP">CYP1A2</cons> <cons sem="G_MECHANISM">inhibitor</cons> furafylline.</sentence>
+</annotation>
+<sentence><cons sem="G_DRUG">Terbinafine</cons> had <cons sem="G_CHANGE">little</cons> or <cons sem="G_NEGATIVEEFFECT">no</cons> effect on the <cons sem="G_MECHANISM">metabolism</cons> of many characteristic CYP  substrates.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Terbinafine, dextromethorphan O-demethylation,DDI)">
+<sentence><cons sem="G_DRUG">Terbinafine</cons>, however, is a competitive <cons sem="G_MECHANISM">inhibitor</cons> of the  <cons sem="G_CYP">CYP2D6</cons> reaction, <cons sem="G_DRUG">dextromethorphan</cons> O-demethylation (<cons sem="G_IVITPARA">K(i)</cons> = <cons sem="G_NUMBER">0.03 microM</cons>).</sentence>
+</annotation>
+<sentence>In summary,<cons sem="G_DRUG">terbinafine</cons> is <cons sem="G_MECHANISM">metabolized</cons> by at least seven CYPs.</sentence>
+<sentence>The potential for <cons sem="G_DRUG">terbinafine</cons> interaction with other drugs is predicted to be insignificant with the exception that it <cons sem="G_CHANGE">may</cons> <cons sem="G_MECHANISM">inhibit</cons> the <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_CYP">CYP2D6</cons> substrates.</sentence>
+<sentence>Clinical trials are needed to assess the relevance of these findings.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10456689</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Metabolism</cons> of  artelinic acid to dihydroqinqhaosu by human liver cytochrome P4503A.</sentence>
+</title>
+<abstract>
+<sentence>1.</sentence>
+<sentence><cons sem="G_DRUG">Artelinic acid</cons> (AL), a water-soluble <cons sem="G_DRUG">artemisinin</cons> analogue for treatment of multidrug resistant malaria, is <cons sem="G_MECHANISM">metabolized</cons> to the active metabolite <cons sem="G_DRUG">dihydroqinghaosu</cons> (DQHS) solely by  <cons sem="G_CYP">CYP3A4/5</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(AL, diclofenac 4-hydroxylase,DDI)">
+<sentence>Although <cons sem="G_DRUG">AL</cons> is <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_MECHANISM">metabolized </cons> by CYP2C9, it does <cons sem="G_MECHANISM">inhibit</cons> <cons sem="G_DRUG">diclofenac</cons> 4-hydroxylase activity with an <cons sem="G_IVITPARA">IC50</cons> = <cons sem="G_NUMBER">115 microM</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(AL, bufuralol,ADDI)">
+<sentence>Interestingly, AL <cons sem="G_MECHANISM">activate</cons> <cons sem="G_CYP">CYP2D6-mediated</cons> <cons sem="G_DRUG">bufuralol</cons> <cons sem="G_MECHANISM">metabolism</cons> in human liver microsomes but <cons sem="G_NEGATIVEEFFECT">not</cons> recombinant <cons sem="G_CYP">CYP2D6-Val</cons> by approximately <cons sem="G_NUMBER">30%</cons> at <cons sem="G_DRUG">AL</cons> concentrations up to <cons sem="G_NUMBER">100 microM</cons>.</sentence>
+</annotation>
+<sentence>2.</sentence>
+<sentence>In human liver microsomes,<cons sem="G_DRUG">AL</cons> is <cons sem="G_MECHANISM">metabolized</cons> to DQHS with a <cons sem="G_IVITPARA">Km</cons> = <cons sem="G_NUMBER">157 +/- 44 microM</cons> and <cons sem="G_IVITPARA">Vmax</cons> = <cons sem="G_NUMBER">0.77 +/- 0.56 nmol DQHS/min/mg</cons> protein.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(AL, CYP3A4,ADEI)">
+<sentence>Human recombinant <cons sem="G_CYP">CYP3A4</cons> <cons sem="G_MECHANISM">catalysed</cons> the conversion of AL to DQHS with a <cons sem="G_IVITPARA">Km</cons> = <cons sem="G_NUMBER">102 +/- 23 microM</cons> and a <cons sem="G_IVITPARA">Vmax</cons> = <cons sem="G_NUMBER">1.96 +/- 0.38 nmol DQHS/min/nmol</cons> P450.</sentence>
+</annotation>
+<sentence>The kinetic parameters (<cons sem="G_IVITPARA">Km</cons> and <cons sem="G_IVITPARA">Vmax</cons>) for DQHS <cons sem="G_MECHANISM">formation</cons> from <cons sem="G_CYP">CYP3A5</cons> were <cons sem="G_NUMBER">189 +/- 19 microM and 3.60 +/- 0.42 nmol DQHS/min/nmol</cons> <cons sem="G_CYP">P450</cons> respectively.</sentence>
+<sentence>3.</sentence>
+<sentence><cons sem="G_MECHANISM">Inhibition</cons> studies suggest that azole antifungals and calcium channel blockers <cons sem="G_CHANGE">may</cons> present clinically <cons sem="G_CHANGE">significant</cons> drug drug interactions.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(ketoconazole, DQHS,DDI)(miconazole, DQHS,DDI)">
+<sentence>In human liver microsomes,<cons sem="G_DRUG">ketoconazole</cons> and <cons sem="G_DRUG">miconazole</cons> were potent competitive <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_DRUG">DQHS</cons> <cons sem="G_MECHANISM">formation</cons> with a <cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">0.028 and 0.124 microM</cons> respectively.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Verapamil, DQHS,ADDI)">
+<sentence><cons sem="G_DRUG">Verapamil</cons> is a non-competitive <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_DRUG">DQHS</cons> <cons sem="G_MECHANISM">formation</cons> in human liver microsomes with a <cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">15 microM</cons>.</sentence>
+</annotation>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10418969</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Comparative effects of <cons sem="G_DRUG">rifabutin</cons> and <cons sem="G_DRUG">rifampicin</cons> on <cons sem="G_CYP">cytochromes P450</cons> and UDP-glucuronosyl-transferases expression in fresh and cryopreserved human hepatocytes.</sentence>
+</title>
+<abstract>
+<sentence>The aim of this study was to evaluate <cons sem="G_DRUG">rifabutin</cons> (RBT) and <cons sem="G_DRUG">rifampicin</cons> (RIF) capabilities in inducing various xenobiotic metabolizing enzymes such as <cons sem="G_CYP">cytochromes P450 (CYPs)</cons> and UDP-glucuronosyl-transferases (UGTs) in cultured fresh and cryopreserved human hepatocytes.</sentence>
+<sentence>Enzyme induction was assessed through the use of several diagnostic markers, i.e. testosterone,<cons sem="G_DRUG">midazolam</cons> (MDZ),<cons sem="G_DRUG">diazepam</cons> (<cons sem="G_DRUG">DZP</cons>) and 7-ethoxyresorufin for CYP-dependent enzyme reactions; and <cons sem="G_DRUG">AZT</cons> for UGT-dependent enzyme reactions.</sentence>
+<sentence><cons sem="G_DRUG">RBT</cons> concentrations (<cons sem="G_NUMBER">0.118, 0.708 microM</cons>) were selected according to previously published pharmacokinetic data in patients.</sentence>
+<sentence>The known <cons sem="G_CYP">CYP3A4</cons> inducer in humans, <cons sem="G_DRUG">RIF</cons>, was used as a positive control.</sentence>
+<sentence>At the concentrations used, <cons sem="G_NEGATIVEEFFECT">no</cons> sign of cytotoxicity was evidenced.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(RBT, testosterone,DDI)(RIF, testosterone,DDI)">
+<sentence>Both compounds were able to dose-dependently induce the overall <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">testosterone</cons> (approximately <cons sem="G_NUMBER">2-fold</cons> for <cons sem="G_DRUG">RBT</cons>, <cons sem="G_NUMBER">4-fold</cons> for <cons sem="G_DRUG">RIF</cons>) and the <cons sem="G_MECHANISM">formation</cons> of the 6beta-hydroxylated-derivative (up to approximately 4-fold over control for RBT and approximately 10-fold for RIF), which is CYP3A4 dependent.</sentence>
+</annotation>
+<sentence>The other hydroxylated metabolites (16alpha-OH and 2alpha-OH) were also enhanced.</sentence>
+<sentence>The <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">MDZ</cons>, which is specifically <cons sem="G_MECHANISM">metabolized</cons> by <cons sem="G_CYP">CYP3A4</cons> in humans, was also investigated following drug's exposure to hepatocytes.</sentence>
+<sentence><cons sem="G_DRUG">DZP</cons> one, which is governed by various <cons sem="G_CYP">CYPs</cons>, including <cons sem="G_CYP">CYP3A</cons>, was also investigated.</sentence>
+<annotation sem="INVITROVDDIS" ddi="(RBT, testosterone,DDI)">
+<sentence><cons sem="G_DRUG">RBT</cons> was shown to <cons sem="G_CHANGE">increase</cons> the <cons sem="G_MECHANISM">biotransformation</cons> of both benzodiazepines (approximately 1.9-fold over control).</sentence>
+</annotation>
+<sentence>Moreover, the effects of both drugs on <cons sem="G_DRUG">ethoxyresorufin</cons> O-deethylase activity (EROD), which is representative of <cons sem="G_CYP">CYPIA1/2</cons>isoforms, were tested.</sentence>
+<sentence>Results showed only a <cons sem="G_CHANGE">moderate</cons> <cons sem="G_MECHANISM">induction</cons> of this marker (approximately 2-fold over control) when compared to the high effect observed after hepatocyte exposure to 3-methylcholantene (approximately 14-fold over control).</sentence>
+<annotation sem="INVITROCDDIS" ddi="(RBT, glucuronides,NDDI)(RIF, glucuronides,NDDI)">
+<sentence>Finally, the action of RBT and RIF on UGTs expression was investigated by using <cons sem="G_DRUG">AZT</cons> as diagnostic substrate: glucuronides <cons sem="G_MECHANISM">formation</cons> was <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_CHANGE">significantly</cons> affected by the two <cons sem="G_DRUG">rifamycin</cons> derivatives .</sentence>
+</annotation>
+<sentence>On the whole, exposure of fresh or cryopreserved human hepatocytes to RBT dose-dependently affected the levels of drug metabolizing enzymes in a dose-dependent manner.</sentence>
+<sentence>However, as already demonstrated by in vivo pharmacokinetic studies, its inducing properties towards <cons sem="G_CYP">CYPs</cons>,<cons sem="G_CYP">CYP3A</cons> in particular, are less <cons sem="G_CHANGE">pronounced</cons> than RIF.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10411567</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Use of the steroid derivative RPR 106541 in combination with site-directed mutagenesis for enhanced  <cons sem="G_CYP">cytochrome P-450 3A4</cons>structure/function analysis.</sentence>
+</title>
+<abstract>
+<sentence>RPR 106541 (20R-16alpha,17alpha-[butylidenebis(oxy)]-6al pha, 9alpha-difluoro-11beta-hydroxy-17beta-(methylthio)androst a-4-en-3-one) is an airway-selective steroid developed for the treatment of asthma.</sentence>
+<sentence>Two metabolites produced by human liver microsomes were identified as R- and S-sulfoxide diastereomers based on liquid chromatography/mass spectrometry analysis, proton nuclear magnetic resonance, and cochromatography with standards.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(cyclosporin A, Sulfoxide,DDI)(troleandomycin, Sulfoxide,DDI)(anti-3A antibody, Sulfoxide,DDI)">
+<sentence>Sulfoxide <cons sem="G_MECHANISM">formation</cons> was determined to be <cons sem="G_CYP">cytochrome P-450 (CYP) 3A4-dependent</cons> by correlation with <cons sem="G_CYP">CYP3A4-marker</cons> <cons sem="G_DRUG">nifedipine</cons> oxidase activity,<cons sem="G_MECHANISM">inhibition</cons> by cyclosporin A and <cons sem="G_MECHANISM">troleandomycin</cons>, and <cons sem="G_MECHANISM">inhibition</cons>of R- (<cons sem="G_NUMBER">70%</cons>) and S- (<cons sem="G_NUMBER">64%</cons>) sulfoxide <cons sem="G_MECHANISM">formation</cons> by anti-3A antibody.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(RPR 106541 sulfoxidation, CYP2C,DEI)">
+<sentence>Expressed <cons sem="G_CYP">CYP2C</cons> forms <cons sem="G_MECHANISM">catalyzed</cons>  RPR 106541 sulfoxidation; however, other phenotyping approaches failed to confirm the involvement of <cons sem="G_CYP">CYP2C</cons> forms in these reactions in human liver microsomes .</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(sulfoxide diastereomers, CYP3A4,DEI)(S-diastereomer, CYP3A5,DEI)">
+<sentence>Expressed <cons sem="G_CYP">CYP3A4</cons> catalyzed the <cons sem="G_MECHANISM">formation</cons> of the sulfoxide diastereomers in a 1:1 ratio, whereas <cons sem="G_CYP">CYP3A5</cons> displayed stereoselectivity for <cons sem="G_MECHANISM">formation</cons> of the S-diastereomer.</sentence>
+</annotation>
+<sentence>The high rate of sulfoxidation by <cons sem="G_CYP">CYP3A4</cons> and the blockage of oxidative <cons sem="G_MECHANISM">metabolism</cons> at the electronically favored 6beta-position provided advantages for <cons sem="G_DRUG">RPR 106541</cons> over other substrates as an active site probe of <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+<sentence>Therefore, oxidation of <cons sem="G_DRUG">RPR 106541</cons> by various <cons sem="G_CYP">CYP3A4</cons> substrate recognition site (SRS) mutants was assessed.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(A305V, R-diastereomer,DDI)(F304A, R-diastereomer,DDI)">
+<sentence>In SRS-4, <cons sem="G_DRUG">A305V</cons> and <cons sem="G_DRUG">F304A</cons> showed dramatically <cons sem="G_CHANGE">reduced</cons> rates of R-diastereomer <cons sem="G_MECHANISM">formation</cons> (<cons sem="G_NUMBER">83 and 64%</cons> <cons sem="G_CHANGE">decreases</cons>, respectively), but S-diastereomer <cons sem="G_MECHANISM">formation</cons> was affected to a lesser extent.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(A370V (SRS-5), S-diastereomer,DDI)">
+<sentence><cons sem="G_DRUG">A370V (SRS-5)</cons> showed <cons sem="G_CHANGE">decreased</cons> <cons sem="G_MECHANISM">formation</cons> of the <cons sem="G_DRUG">R-sulfoxide</cons> (<cons sem="G_NUMBER">52%</cons>) but <cons sem="G_CHANGE">increased</cons> <cons sem="G_MECHANISM">formation</cons> of the <cons sem="G_DRUG">S-diastereomer</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(L210A, sulfoxide,DDI)">
+<sentence>In the SRS-2 region, the most dramatic change in <cons sem="G_DRUG">sulfoxide</cons> ratios was observed for <cons sem="G_DRUG">L210A</cons>.</sentence>
+</annotation>
+<sentence>In conclusion, the structure of RPR 106541 imposes specific constraints on enzyme binding and activity and thus represents an improved <cons sem="G_CYP">CYP3A4</cons> probe substrate.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10383922</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Inhibitory</cons> effects of  <cons sem="G_DRUG">azelastine</cons> and its metabolites on drug oxidation <cons sem="G_MECHANISM">catalyzed</cons> by <cons sem="G_CYP">human cytochrome P-450</cons> enzymes.</sentence>
+</title>
+<abstract>
+<sentence><cons sem="G_DRUG">Azelastine</cons>, an antiallergy and antiasthmatic drug, has been reported to be <cons sem="G_MECHANISM">metabolized</cons>mainly to <cons sem="G_DRUG">desmethylazelastine</cons> and 6-hydroxyazelastine in mammals.</sentence>
+<sentence>In the present study, the <cons sem="G_MECHANISM">inhibitory</cons> effects of azelastine and its two metabolites on human cytochrome P-450 (CYP) isoform-dependent reactions were investigated to predict the drug interactions of <cons sem="G_DRUG">azelastine</cons>  using microsomes from human B-lymphoblast cells expressing CYP.</sentence>
+<sentence>The specific activities for human CYP isoforms included: 7-ethoxyresorufin O-deethylation <cons sem="G_CYP">(CYP1A1)</cons>,<cons sem="G_DRUG">phenacetin</cons> O-deethylation (<cons sem="G_CYP">CYP1A2</cons>), <cons sem="G_DRUG">coumarin</cons> 7-hydroxylation ( <cons sem="G_CYP">CYP2A6</cons>), 7-benzyloxyresorufin O-dealkylation (<cons sem="G_CYP">CYP2B6</cons>),<cons sem="G_DRUG">S-warfarin</cons> 7-hydroxylation (<cons sem="G_CYP">CYP2C9</cons>),<cons sem="G_DRUG">S-mephenytoin</cons> 4'-hydroxylation (<cons sem="G_CYP">CYP2C19</cons>), <cons sem="G_DRUG">bufuralol</cons> 1'-hydroxylation ( <cons sem="G_CYP">CYP2D6</cons>), chlorzoxazone 6-hydroxylation (<cons sem="G_CYP">CYP2E1</cons>), and testosterone 6beta-hydroxylation (<cons sem="G_CYP">CYP3A4</cons>).</sentence>
+<sentence>In almost all the activities,<cons sem="G_DRUG">desmethylazelastine</cons> exhibited stronger <cons sem="G_MECHANISM">inhibition</cons>than azelastine and 6-hydroxyazelastine.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Desmethylazelastine, CYP2B6,ADEI)(azelastine, CYP2B6,ADEI)(6-hydroxyazelastine, CYP2B6,ADEI)">
+<sentence><cons sem="G_DRUG">Desmethylazelastine</cons>, but <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_DRUG">azelastine</cons> and <cons sem="G_DRUG">6-hydroxyazelastine</cons>, uncompetitively <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_CYP">CYP2B6</cons> activity (<cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">32.6 +/- 4.8 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Azelastine, CYP2C9,ADEI)(desmethylazelastine, CYP2C9,ADEI)(6-hydroxyazelastine, CYP2C9,ADEI)(Azelastine, CYP2C9,DEI)(desmethylazelastine, CYP2C9,DEI)(6-hydroxyazelastine, CYP2C9,DEI)">
+<sentence><cons sem="G_DRUG">Azelastine</cons>,<cons sem="G_DRUG">desmethylazelastine</cons>, and <cons sem="G_DRUG">6-hydroxyazelastine</cons>competitively <cons sem="G_MECHANISM">inhibited</cons><cons sem="G_CYP">CYP2C9</cons> activity (<cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">13.9 +/- 1.8, 15.0 +/- 3.1, and 17.0 +/- 4.1 microM</cons>, respectively),<cons sem="G_CYP">CYP2C19</cons> activity (<cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">21.9 +/- 2.2, 7.3 +/- 1.6, and 9.3 +/- 1.6 microM</cons>, respectively), and  <cons sem="G_CYP">CYP2D6</cons> activity (<cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">1.2 +/- 0.1, 1.5 +/- 0.2, and 3.0 +/- 0.5 microM</cons>, respectively).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Azelastine, CYP3A4,ADEI)(desmethylazelastine, CYP3A4,ADEI)">   
+<sentence><cons sem="G_DRUG">Azelastine</cons> and <cons sem="G_DRUG">desmethylazelastine</cons> competitively <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_CYP">CYP3A4</cons> activity (<cons sem="G_IVITPARA">Ki</cons> = <cons sem="G_NUMBER">23.7 +/- 4.6 and 13.2 +/- 2.3 microM</cons>).</sentence> 
+</annotation>
+<sentence><cons sem="G_MECHANISM">6-Hydroxyazelastine</cons> <cons sem="G_MECHANISM">interfered</cons> with the determination of testosterone 6beta-hydroxylation by HPLC.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Azelastine, CYP1A2,NDEI)(Azelastine, CYP2A6,NDEI)(Azelastine, CYP2E1,NDEI)">
+<sentence><cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">CYP2A6</cons>, and <cons sem="G_CYP">CYP2E1</cons> activities were <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons> by <cons sem="G_DRUG">azelastine</cons> and the two metabolites.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Azelastine, CYP2D6,DEI)">
+<sentence>Among the human CYPs tested, the <cons sem="G_MECHANISM">inhibitory</cons> effects of <cons sem="G_DRUG">azelastine</cons> and its two metabolites were the most potent on human <cons sem="G_CYP">CYP2D6</cons>.</sentence>
+</annotation>
+<sentence>In consideration of the <cons sem="G_IVITPARA">Ki</cons> values and the concentration of <cons sem="G_DRUG">azelastine</cons> and <cons sem="G_DRUG">desmethylazelastine</cons> in human livers after chronic oral administration of <cons sem="G_DRUG">azelastine</cons>, the possibility of in vivo drug interaction of <cons sem="G_DRUG">azelastine</cons> and other drugs that are mainly <cons sem="G_MECHANISM">metabolized</cons> by <cons sem="G_CYP">CYP2D6</cons> was suggested although it <cons sem="G_CHANGE">might</cons> <cons sem="G_NEGATIVEEFFECT">not</cons> cause critical side effects.</sentence>
+<sentence>The <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP2C9</cons>,<cons sem="G_CYP">CYP2C19</cons>, and <cons sem="G_CYP">CYP3A4</cons> activity by <cons sem="G_DRUG">azelastine</cons> and its two metabolites <cons sem="G_CHANGE">might</cons> be clinically <cons sem="G_CHANGE">significant</cons>.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10233205</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_DRUG">Methadone</cons> N-demethylation in human liver microsomes: lack of stereoselectivity and involvement of <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</title>
+<abstract>
+<sentence>To investigate the kinetics of CYP-mediated  N-demethylation of <cons sem="G_DRUG">methadone</cons> in human liver microsomes, and examine the role of stereoselectivity and CYP isoforms involved.</sentence>
+<sentence>The kinetics of <cons sem="G_DRUG">2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine (EDDP)</cons> <cons sem="G_MECHANISM">formation</cons> via N-demethylation of rac-, (R)- and <cons sem="G_DRUG">(S)-methadone</cons> in human liver microsomes prepared from six liver samples were determined by h.p.l.c., and <cons sem="G_MECHANISM">inhibition</cons> of metabolic function was studied using isoform-specific chemical inhibitors and monoclonal antibodies.</sentence>
+<sentence>Microsomes containing expressed <cons sem="G_CYP">CYP3A4</cons>,<cons sem="G_CYP">CYP2D6</cons> and  <cons sem="G_CYP">CYP2C19</cons> were also used to examine the <cons sem="G_MECHANISM">formation</cons> of EDDP.</sentence>
+<sentence>The V max, <cons sem="G_IVITPARA">Km</cons>, and CLint values for the <cons sem="G_MECHANISM">formation</cons> of EDDP from rac-, (R)- and <cons sem="G_DRUG">(S)-methadone</cons> were in the ranges of <cons sem="G_NUMBER">20-77 nmol mg-1 protein h-1, 125-252 microm, and 91-494 ml h-1 g-1</cons> protein.</sentence>
+<sentence><cons sem="G_IVITPARA">Km</cons> and <cons sem="G_IVITPARA">CLint</cons> values for <cons sem="G_DRUG">(R)- and (S)-methadone</cons> were <cons sem="G_NEGATIVEEFFECT">not</cons> statistically <cons sem="G_CHANGE">significantly</cons> different (P &gt;0.05), while V max values for <cons sem="G_DRUG">(S)-methadone</cons> were <cons sem="G_NUMBER">15% (P=0.045)</cons> lower than for <cons sem="G_DRUG">(R)-methadone</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="((R)- and (S)-methadone,, CYP3A4,DEI)((R)- and (S)-methadone,, CYP2C19,DEI)((R)- and (S)-methadone,, CYP2D6,NDEI)">
+<sentence>Expressed <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP2C19</cons> showed similar reaction rates for both <cons sem="G_DRUG">(R)- and (S)-methadone</cons>, while <cons sem="G_CYP">CYP2D6</cons> did <cons sem="G_NEGATIVEEFFECT">not</cons> catalyse this reaction.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(troleandomycin, EDDP,DDI)(ketoconazole, EDDP,DDI)">
+<sentence>Selective chemical <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_CYP">CYP3A</cons> (<cons sem="G_DRUG">troleandomycin</cons>,<cons sem="G_DRUG">ketoconazole</cons>) and monoclonal human <cons sem="G_CYP">CYP3A4</cons> antibodies <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons> (<cons sem="G_NUMBER">P&lt;0.05</cons>) the <cons sem="G_MECHANISM">formation</cons> of <cons sem="G_DRUG">EDDP</cons> in a concentration dependent manner by up to <cons sem="G_NUMBER">80%</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Sulphaphenazole, EDDP,ADDI)">
+<sentence><cons sem="G_DRUG">Sulphaphenazole</cons> (<cons sem="G_CYP">CYP2C9</cons>) also <cons sem="G_CHANGE">significantly</cons> <cons sem="G_MECHANISM">inhibited</cons>(<cons sem="G_NUMBER">P&lt;0.05</cons>) EDDP <cons sem="G_MECHANISM">formation</cons> (range <cons sem="G_NUMBER">14-25%</cons>).</sentence>
+</annotation>
+<sentence>There were <cons sem="G_NEGATIVEEFFECT">no</cons> statistically <cons sem="G_CHANGE">significant</cons> differences in the <cons sem="G_MECHANISM">inhibition</cons> observed between the three substrates.</sentence>
+<sentence>man liver microsomes were identified as <cons sem="G_DRUG">R- and S-sulfoxide</cons> diastereomers based on liquid chromatography/mass spectrometry analysis, proton nuclear magnetic resonance, and cochromatography with standards.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(furafylline, EDDP,NDDI)(coumarin, EDDP,NDDI)(((S)-mephenytoin, EDDP,NDDI)(quinidine, EDDP,NDDI)(diethyldithiocarbamic acid sodium salt, EDDP,NDDI)">
+<sentence>Selective <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_CYP">CYP1A2</cons> (<cons sem="G_DRUG">furafylline</cons>),<cons sem="G_CYP">CYP2A6</cons> (<cons sem="G_DRUG">coumarin</cons>),<cons sem="G_CYP">CYP2C19</cons>( <cons sem="G_DRUG">(S)-mephenytoin</cons>),<cons sem="G_CYP">CYP2D6</cons> (<cons sem="G_DRUG">quinidine</cons>) and <cons sem="G_CYP">CYP2E1</cons> (diethyldithiocarbamic acid sodium salt and monoclonal human <cons sem="G_CYP">CYP2E1</cons> antibodies) had <cons sem="G_NEGATIVEEFFECT">no</cons> <cons sem="G_CHANGE">significant</cons> (<cons sem="G_NUMBER">P &gt;0.05</cons>) effect.</sentence>
+</annotation>
+<sentence>The N-demethylation of <cons sem="G_DRUG">methadone</cons> in human liver microsomes is <cons sem="G_NEGATIVEEFFECT">not</cons> <cons sem="G_CHANGE">markedly</cons> stereoselective, and is mediated mainly by <cons sem="G_CYP">CYP3A4</cons> with the possible involvement of <cons sem="G_CYP">CYP2C9</cons> and <cons sem="G_CYP">CYP2C19</cons>.</sentence>
+<sentence>Thus, the large interindividual variation reported for <cons sem="G_DRUG">methadone</cons> pharmacokinetics <cons sem="G_CHANGE">may</cons> be due to variability in the expression of these CYP isoforms, and the reported stereoselectivity in the systemic clearance of methadone in vivo is <cons sem="G_NEGATIVEEFFECT">not</cons> due to stereoselectivity in N-demethylation.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10223772</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Comparative in vitro and in vivo <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">cytochrome P450</cons> <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">CYP2D6</cons>, and <cons sem="G_CYP">CYP3A</cons>  by H2-receptor antagonists.</sentence>
+</title>
+<abstract>
+<sentence>The isozymes <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">CYP2D6</cons>, and <cons sem="G_CYP">CYP3A4/5</cons> are involved in the majority of all cytochrome P450-mediated drug biotransformations.</sentence>
+<sentence>In this study we investigated the <cons sem="G_MECHANISM">inhibition</cons> profiles of <cons sem="G_CYP">CYP1A2</cons> (substrate: caffeine)<cons sem="G_CYP">CYP2D6</cons> (substrate: <cons sem="G_DRUG">dextromethorphan</cons>), and <cons sem="G_CYP">CYP3A4/5</cons> (substrate: <cons sem="G_DRUG">dextrorphan</cons>) by <cons sem="G_DRUG">cimetidine</cons>, <cons sem="G_DRUG">ranitidine</cons>, and the novel H2-receptor antagonist <cons sem="G_DRUG">ebrotidine</cons> in human liver microsomes.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(cimetidine, CYP1A2,DEI)(ranitidine, CYP1A2,DEI)(ebrotidine, CYP1A2,NDEI)(cimetidine, CYP2D6,DEI)(ranitidine, CYP2D6,DEI)(ebrotidine, CYP2D6,NDEI)(ebrotidine, CYP3A4/5,DEI)(cimetidine, CYP3A4/5,DEI)(ranitidine, CYP3A4/5,NDEI)">
+<sentence>The <cons sem="G_MECHANISM">inhibitory</cons> effect of the drugs on the enzymes activities were as follows:<cons sem="G_CYP">CYP1A2</cons>:<cons sem="G_DRUG">cimetidine</cons> &gt; ranitidine = ebrotidine;<cons sem="G_CYP">CYP2D6</cons>:<cons sem="G_DRUG">cimetidine</cons> &gt; <cons sem="G_DRUG">ranitidine</cons> = <cons sem="G_DRUG">ebrotidine</cons>;<cons sem="G_CYP">CYP3A4/5:</cons> <cons sem="G_DRUG">ebrotidine</cons> &gt; <cons sem="G_DRUG">cimetidine</cons> &gt; <cons sem="G_DRUG">ranitidine</cons>.</sentence>
+</annotation>
+<sentence>The <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_CYP">CYP3A4/5</cons> enzyme activity by <cons sem="G_DRUG">ebrotidine</cons> was competitive.</sentence>
+<sentence>To test whether the <cons sem="G_MECHANISM">inhibitory</cons> effect of <cons sem="G_DRUG">ebrotidine</cons> in <cons sem="G_CYP">CYP3A</cons> activity was also found in vivo, we analyzed the biodisposition of <cons sem="G_DRUG">midazolam</cons> in 8 healthy volunteers.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(cimetidine, Midazolam biodisposition,DDI)(ebrotidine, Midazolam biodisposition,NDDI)(ranitidine, Midazolam biodisposition,NDDI)">
+<sentence><cons sem="G_DRUG">Midazolam</cons> biodisposition was <cons sem="G_CHANGE">significantly</cons> <cons sem="G_CHANGE">reduced</cons> when administered together with <cons sem="G_DRUG">cimetidine</cons> (P &lt; .05), whereas <cons sem="G_NEGATIVEEFFECT">no</cons> <cons sem="G_CHANGE">significant</cons> <cons sem="G_MECHANISM">inhibition</cons> was observed with <cons sem="G_DRUG">ebrotidine</cons> or <cons sem="G_DRUG">ranitidine</cons> compared with placebo.</sentence>
+</annotation>
+<sentence>Psychomotor performance analysis revealed <cons sem="G_NEGATIVEEFFECT">no</cons> <cons sem="G_CHANGE">significant</cons> effect of the observed <cons sem="G_CHANGE">reduction</cons> on <cons sem="G_DRUG">midazolam</cons> biodisposition.</sentence>
+<sentence>We concluded that patients who are receiving treatment with drugs <cons sem="G_MECHANISM">metabolized</cons> through <cons sem="G_CYP">CYP3A</cons> <cons sem="G_CHANGE">may</cons> experience enhanced drug effects as a result of pharmacokinetic interaction when treated concomitantly with <cons sem="G_DRUG">cimetidine</cons>.</sentence>
+<sentence>In contrast,the effect of <cons sem="G_DRUG">ranitidine</cons> or <cons sem="G_DRUG">ebrotidine</cons> on <cons sem="G_CYP">CYP3A</cons> activity in vivo seems to have <cons sem="G_CHANGE">little</cons> clinical <cons sem="G_CHANGE">significance</cons>.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10207612</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_MECHANISM">Metabolism</cons> of <cons sem="G_DRUG">benzene</cons> in human liver microsomes: individual variations in relation to <cons sem="G_CYP">CYP2E1</cons> expression.</sentence>
+</title>
+<abstract>
+<annotation sem="INVITROCDDIS" ddi="(benzene, CYP2E1,DEI)(chlorzoxazone, CYP2E1,DEI)(aniline, CYP2E1,DEI)(dimethylformamide, CYP2E1,DEI)(4-nitrophenol, CYP2E1,DEI)">
+<sentence>In human liver microsomes the oxidations of <cons sem="G_DRUG">benzene</cons>, <cons sem="G_DRUG">chlorzoxazone</cons>,<cons sem="G_DRUG">aniline</cons>, <cons sem="G_DRUG">dimethylformamide</cons>, and <cons sem="G_DRUG">4-nitrophenol</cons> were <cons sem="G_CHANGE">significantly</cons> correlated with each other and with the level of <cons sem="G_CYP">cytochrome P450  (CYP) 2E1</cons> estimated by immunoblotting.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(diethyldithiocarbamate, benzene oxidation,DDI)">
+<sentence>Moreover, <cons sem="G_DRUG">benzene</cons> <cons sem="G_MECHANISM">oxidation</cons> to water-soluble metabolites was <cons sem="G_MECHANISM">suppressed</cons> by <cons sem="G_NUMBER">0.1 mM</cons> <cons sem="G_DRUG">diethyldithiocarbamate</cons>, supposedly a specific <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP2E1</cons> at this level.</sentence>
+</annotation>
+<sentence>None of these metabolic rates correlated with immunochemically determined levels of <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">2C9</cons>, and <cons sem="G_CYP">3A4</cons> nor oxidation of <cons sem="G_DRUG">7-ethoxyresorufin</cons>,<cons sem="G_DRUG">tolbutamide</cons>, and <cons sem="G_DRUG">nifedipine</cons>.</sentence>
+<sentence>Benzene <cons sem="G_MECHANISM">oxidation</cons> to water-soluble metabolites was characterized by typical Michaelis-Menten kinetics.</sentence>
+<sentence>The different benzene <cons sem="G_IVITPARA">K(m)</cons> values seen in individual human microsomal samples were <cons sem="G_NEGATIVEEFFECT">not</cons> correlated with the level or activity of <cons sem="G_CYP">CYP1A2</cons>,<cons sem="G_CYP">2C9</cons>,<cons sem="G_CYP">2E1</cons>, and <cons sem="G_CYP">3A4</cons> but could be due to <cons sem="G_CYP">CYP2E1</cons> microheterogeneity.</sentence>
+<sentence>The lowest <cons sem="G_IVITPARA">K(m)</cons> for benzene oxidation could be related to C/D and/or c1/c2 polymorphism of <cons sem="G_CYP">CYP2E1</cons> gene.</sentence>
+<sentence>Covalent binding of benzene reactive metabolites to microsomal proteins was also correlated with the <cons sem="G_CYP">CYP2E1</cons> metabolic rates and immunochemical levels.</sentence>
+<sentence>At high concentrations of benzene covalent binding was inversely related to benzene concentrations (as well as to <cons sem="G_MECHANISM">formation</cons> of water-soluble metabolites) in agreement with the view that secondary metabolites, mainly <cons sem="G_DRUG">benzoquinone</cons>, are responsible for the covalent binding.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10076527</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Structure-related <cons sem="G_MECHANISM">inhibition</cons> of human hepatic <cons sem="G_DRUG">caffeine</cons> N3-demethylation by naturally occurring flavonoids.</sentence>
+</title>
+<abstract>
+<sentence>The effects of flavonoids on <cons sem="G_DRUG">caffeine</cons> N3-demethylation, a marker activity of <cons sem="G_CYP">CYP1A2</cons>, in human liver microsomes were investigated to elucidate the  <cons sem="G_DRUG">inhibition</cons> mechanism and the structure-activity relationship.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(flavonoids, Caffeine N3-demethylase,DDI)">
+<sentence><cons sem="G_DRUG">Caffeine</cons> N3-demethylase activity was <cons sem="G_MECHANISM">inhibited</cons> by the presence of various flavonoids, whose structures seem to be closely related to the degree of <cons sem="G_MECHANISM">inhibition</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(chrysin, Caffeine N3-demethylase,DDI)">
+<sentence>Among twenty-one compounds tested, the most active was chrysin with an  <cons sem="G_IVITPARA">IC50</cons> value of <cons sem="G_NUMBER">0.2 microM</cons>.</sentence>
+</annotation>
+<sentence>Others had <cons sem="G_IVITPARA">IC50</cons> values ranging from <cons sem="G_NUMBER">1 to more than 500 microM</cons>.</sentence>
+<sentence>Kinetic analysis revealed that the mechanism of <cons sem="G_MECHANISM">inhibition</cons> varied among the flavonoids.</sentence>
+<sentence>The <cons sem="G_MECHANISM">inhibitory</cons> effect was postulated to be governed by factors such as the number of hydroxyl groups and glycosylation of these free hydroxyl groups.</sentence>
+<sentence>An <cons sem="G_CHANGE">increase</cons> in the number of free hydroxyl groups <cons sem="G_CHANGE">reduced</cons> the <cons sem="G_MECHANISM">inhibitory</cons> effect on <cons sem="G_CYP">P450</cons> activity.</sentence>
+<sentence>Analysis of the quantitative structure-activity relationship (QSAR) showed that the volume to surface area ratio was the most effective factor on the <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_DRUG">caffeine</cons> N3-demethylation, and the electron densities on the C3 and C4' atoms exercised <cons sem="G_CHANGE">significant</cons> <cons sem="G_MECHANISM">influence</cons> on the <cons sem="G_MECHANISM">inhibitory</cons> effect.</sentence>
+<sentence>The calculated <cons sem="G_MECHANISM">inhibitory</cons> effect of flavonoids on <cons sem="G_CYP">CYP1A2</cons> activity was highly correlated with the antimutagenicity of flavonoids in 2-amino-3,4-dimethylimidazo[4,5-flquinoline (MelQ)-induced umu response.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:10022752</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Human <cons sem="G_CYP">cytochrome P450 3A (CYP3A)</cons> mediated <cons sem="G_DRUG">midazolam</cons> <cons sem="G_MECHANISM">metabolism</cons>: the effect of assay conditions and regioselective <cons sem="G_MECHANISM">stimulation</cons> by <cons sem="G_DRUG">alpha-naphthoflavone</cons>,<cons sem="G_DRUG">terfenadine</cons> and <cons sem="G_DRUG">testosterone</cons>.</sentence>
+</title>
+<abstract>
+<sentence>The effect of ionic strength, assay constituents,<cons sem="G_DRUG">alpha-naphthoflavone (aNF)</cons>,<cons sem="G_DRUG">terfenadine</cons> and <cons sem="G_DRUG">testosterone</cons> on human <cons sem="G_CYP">CYP3A</cons> mediated <cons sem="G_DRUG">midazolam (MDZ)</cons> 1'-hydroxylation (<cons sem="G_DRUG">MDZ</cons> 1'-OH) and 4-hydroxylation (<cons sem="G_DRUG">MDZ</cons> 4-OH) in vitro was examined.</sentence>
+<sentence><cons sem="G_CHANGE">Increasing</cons> concentration of <cons sem="G_DRUG">Tris-HCl (Tris)</cons> and <cons sem="G_DRUG">sodium phosphate (PO4)</cons> buffers differentially affected <cons sem="G_DRUG">MDZ 1'-OH</cons> and <cons sem="G_DRUG">MDZ 4-OH</cons> <cons sem="G_MECHANISM">formation</cons> rates and had a different effect on  <cons sem="G_DRUG">MDZ</cons> <cons sem="G_MECHANISM">metabolism</cons> mediated by microsomes containing <cons sem="G_CYP">CYP3A4</cons> versus <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP3A5</cons>.</sentence>
+<sentence><cons sem="G_DRUG">MDZ</cons> <cons sem="G_MECHANISM">metabolism</cons> was <cons sem="G_NEGATIVEEFFECT">not</cons> affected by PO4 buffer concentration when cumene hydroperoxide (<cons sem="G_DRUG">CUOOH</cons>) was used as the source of reactive oxygen.</sentence>
+<sentence>Interestingly, the ammonium ion present in the solution of glucose 6-phosphate dehydrogenase was found to <cons sem="G_MECHANISM">inhibit</cons> <cons sem="G_DRUG">MDZ</cons><cons sem="G_MECHANISM">metabolism</cons>.</sentence>
+<sentence>The addition of <cons sem="G_DRUG">MgCl2</cons> up to <cons sem="G_NUMBER">50 mM</cons> and <cons sem="G_DRUG">CaCl2</cons> (<cons sem="G_NUMBER">5-30 mM</cons>) had <cons sem="G_NEGATIVEEFFECT">no</cons> affect or <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_DRUG">MDZ</cons> <cons sem="G_MECHANISM">metabolism</cons>, respectively.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(aNF, MDZ 1'-OH,DDI)">
+<sentence><cons sem="G_MECHANISM">Formation</cons> of <cons sem="G_DRUG">MDZ</cons> 1'-OH by microsomes from adult and fetal liver and expressed <cons sem="G_CYP">CYP3A4</cons> was regioselectively <cons sem="G_MECHANISM">stimulated</cons> by <cons sem="G_DRUG">aNF</cons> (<cons sem="G_NUMBER">10 microM</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(aNF, MDZ 1'-OH,DDI)">
+<sentence>In human hepatocytes,<cons sem="G_DRUG">aNF</cons> <cons sem="G_MECHANISM">stimulated</cons> <cons sem="G_DRUG">MDZ</cons> 1'-OH <cons sem="G_MECHANISM">formation</cons> (<cons sem="G_NUMBER">up to 100%</cons>).</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Terfenadine, MDZ 1'-OH,DDI)">
+<sentence><cons sem="G_DRUG">Terfenadine</cons> (<cons sem="G_NUMBER">20 microM</cons>) regioselectively <cons sem="G_MECHANISM">stimulated</cons> <cons sem="G_DRUG">MDZ</cons> 1'-OH <cons sem="G_MECHANISM">formation</cons> in Tris (<cons sem="G_NUMBER">1-200 mM</cons>) and <cons sem="G_DRUG">PO4</cons> (<cons sem="G_NUMBER">1-10 mM</cons>) buffers by <cons sem="G_NUMBER">up to 159%</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Terfenadine, MDZ 1'-OH,DDI)">
+<sentence>Surprisingly, with expressed <cons sem="G_CYP">CYP3A4</cons>,<cons sem="G_DRUG">terfenadine</cons> (<cons sem="G_NUMBER">20 microM</cons>) <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_DRUG">MDZ</cons> 1'-OH <cons sem="G_MECHANISM">formation</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Terfenadine, MDZ 1'-OH,NDDI)">
+<sentence><cons sem="G_DRUG">Terfenadine</cons> (<cons sem="G_NUMBER">20 microM</cons>) had <cons sem="G_CHANGE">little</cons> effect on <cons sem="G_DRUG">MDZ</cons> 1'-OH <cons sem="G_MECHANISM">formation</cons> by fetal liver microsomes.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Terfenadine, MDZ 4-OH,DDI)">
+<sentence><cons sem="G_DRUG">Testosterone</cons> (<cons sem="G_NUMBER">10 and 100 microM</cons>) regioselectively <cons sem="G_MECHANISM">stimulated</cons> (<cons sem="G_NUMBER">up to 269%</cons>) <cons sem="G_DRUG">MDZ</cons> 4-OH <cons sem="G_MECHANISM">formation</cons> by adult liver microsomes and expressed <cons sem="G_CYP">CYP3A4</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Terfenadine, MDZ 4-OH,ADDI)(Terfenadine, MDZ 1-OH,ADDI)">
+<sentence><cons sem="G_DRUG">Testosterone</cons> (<cons sem="G_NUMBER">100 microM</cons>) <cons sem="G_MECHANISM">inhibited</cons> (<cons sem="G_NUMBER">&gt; 40%</cons>) <cons sem="G_DRUG">MDZ 1'-OH</cons> and <cons sem="G_DRUG">MDZ 4-OH</cons> <cons sem="G_MECHANISM">formation</cons> by fetal liver microsomes.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(aNF, MDZ 1-OH,NDDI)(Terfenadine, MDZ 1-OH,NDDI)">
+<sentence>With adult liver microsomes,<cons sem="G_DRUG">aNF</cons> and <cons sem="G_DRUG">terfenadine</cons> had <cons sem="G_CHANGE">little</cons> effect on the <cons sem="G_IVITPARA">Km</cons> for <cons sem="G_DRUG">MDZ 1'-OH</cons> <cons sem="G_MECHANISM">formation</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(aNF, MDZ 4-OH,DDI)">
+<sentence>However, the <cons sem="G_IVITPARA">Km</cons> for <cons sem="G_DRUG">MDZ 4-OH</cons> <cons sem="G_MECHANISM">formation</cons> was <cons sem="G_CHANGE">decreased</cons> (<cons sem="G_NUMBER">up to 94%</cons>) by <cons sem="G_NUMBER">100 microM</cons> <cons sem="G_DRUG">testosterone</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(aNF, MDZ 4-OH,NDDI)(terfenadine, MDZ 4-OH,NDDI)(testosterone, MDZ 4-OH,NDDI)">
+<sentence>In the presence of CUOOH, <cons sem="G_NEGATIVEEFFECT">no</cons> <cons sem="G_MECHANISM">stimulation</cons> of <cons sem="G_DRUG">MDZ</cons> <cons sem="G_MECHANISM">metabolism</cons> was observed by <cons sem="G_DRUG">aNF</cons>,<cons sem="G_DRUG">terfenadine</cons> or <cons sem="G_DRUG">testosterone</cons> in adult liver microsomes.</sentence>
+</annotation>
+<sentence>These studies indicate that because assay conditions can substantially <cons sem="G_CHANGE">alter</cons> the catalytic activity of <cons sem="G_CYP">CYP3A</cons>, caution should be exerted when extrapolating results between in vitro and in vivo, and when results from different laboratories are compared.</sentence>
+<sentence>Further, these results suggest that the <cons sem="G_MECHANISM">stimulation</cons> of <cons sem="G_CYP">CYP3A4</cons> <cons sem="G_CHANGE">may</cons> also occur in vivo and, consequently, <cons sem="G_CHANGE">may</cons> have clinical importance.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:9931427</bibliomisc>
+</articleinfo>
+<title>
+<sentence>Identification of <cons sem="G_CYP">CYP3A4</cons> as the major enzyme responsible for <cons sem="G_MECHANISM">25-hydroxylation</cons> of  5beta-cholestane-3alpha,7alpha,12alpha-triol in human liver microsomes.</sentence>
+</title>
+<abstract>
+<sentence>Human liver microsomes <cons sem="G_MECHANISM">catalyze</cons> an efficient <cons sem="G_MECHANISM">25-hydroxylation</cons> of <cons sem="G_DRUG">5beta-cholestane-3alpha,7alpha,12alpha-triol</cons>.</sentence>
+<sentence>The hydroxylation is involved in a <cons sem="G_CHANGE">minor</cons>, alternative pathway for side-chain degradation in the biosynthesis of cholic acid.</sentence>
+<sentence>The enzyme responsible for the microsomal <cons sem="G_MECHANISM">25-hydroxylation</cons> has been unidentified.</sentence>
+<sentence>In the present study, recombinant expressed human P-450 enzymes have been used to screen for 25-hydroxylase activity towards 5beta-cholestane-3alpha, 7alpha,12alpha-triol.</sentence>
+<sentence>High activity was found with <cons sem="G_CYP">CYP3A4</cons>, but also with <cons sem="G_CYP">CYP3A5</cons> and to a <cons sem="G_CHANGE">minor</cons> extent with <cons sem="G_CYP">CYP2C19</cons> and <cons sem="G_CYP">CYP2B6</cons>.</sentence>
+<sentence>Small amounts of 23- and 24-hydroxylated products were also <cons sem="G_MECHANISM">formed</cons> by <cons sem="G_CYP">CYP3A4</cons> .</sentence>
+<sentence>The <cons sem="G_IVITPARA">Vmax</cons> for <cons sem="G_MECHANISM">25-hydroxylation</cons> by <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">CYP3A5</cons> was <cons sem="G_NUMBER">16 and 4.5 nmol/(nmolxmin)</cons>, respectively.</sentence>
+<sentence>The <cons sem="G_IVITPARA">Km</cons> was <cons sem="G_NUMBER">6 microM</cons> for <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_NUMBER">32 microM</cons>  for <cons sem="G_CYP">CYP3A5</cons>.</sentence>
+<sentence>Cytochrome b5 <cons sem="G_CHANGE">increased</cons> the hydroxylase activities.</sentence>
+<sentence>Human liver microsomes from ten different donors, in which different P-450 marker activities had been determined, were incubated with 5beta-cholestane-3alpha,7alpha, 12alpha-triol.</sentence>
+<sentence>A strong correlation was observed between <cons sem="G_MECHANISM">formation</cons> of 25-hydroxylated 5beta-cholestane-3alpha,7alpha,12alpha-triol and <cons sem="G_CYP">CYP3A</cons> levels (<cons sem="G_NUMBER">r2=0.96</cons>).</sentence>
+<sentence><cons sem="G_NEGATIVEEFFECT">No</cons> correlation was observed with the levels of <cons sem="G_CYP">CYP2C19</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Troleandomycin, 25-hydroxylase,DDI)">
+<sentence><cons sem="G_DRUG">Troleandomycin</cons>, a specific <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP3A4</cons> and <cons sem="G_CYP">3A5</cons>,<cons sem="G_MECHANISM">inhibited</cons> the 25-hydroxylase activity of pooled human liver microsomes by more than <cons sem="G_NUMBER">90%</cons> at <cons sem="G_NUMBER">50 microM</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Troleandomycin, 25-hydroxylase,NDDI)">
+<sentence><cons sem="G_IVITPARA">Tranylcypromine</cons>, an <cons sem="G_MECHANISM">inhibitor</cons> of <cons sem="G_CYP">CYP2C19</cons>, had very <cons sem="G_CHANGE">little</cons> effect on the conversion.</sentence>
+</annotation>
+<sentence>From these results, it can be concluded that <cons sem="G_CYP">CYP3A4</cons> is the predominant enzyme responsible for 25-hydroxylation of 5beta-cholestane-3alpha, 7alpha,12alpha-triol in human liver microsomes.</sentence>
+</abstract>
+</article>
+<article>
+<articleinfo>
+<bibliomisc>MEDLINE:9923577</bibliomisc>
+</articleinfo>
+<title>
+<sentence><cons sem="G_DRUG">Fluvoxamine</cons> <cons sem="G_MECHANISM">inhibits</cons> the <cons sem="G_CYP">CYP2C19-catalysed</cons> <cons sem="G_MECHANISM">metabolism</cons> of <cons sem="G_DRUG">proguanil</cons> in vitro.</sentence>
+</title>
+<abstract>
+<sentence>The potent <cons sem="G_CYP">CYP1A2</cons> <cons sem="G_MECHANISM">inhibitor</cons> <cons sem="G_DRUG">fluvoxamine</cons> has recently been shown also to be an effective <cons sem="G_MECHANISM">inhibitor</cons> of the <cons sem="G_CYP">CYP2C19-mediated</cons> <cons sem="G_MECHANISM">metabolism</cons> of the antimalarial drug <cons sem="G_DRUG">proguanil</cons> in vivo.</sentence>
+<sentence>The purpose of the present study was to confirm this interaction in vitro.</sentence>
+<sentence>A high-performance liquid chromatography (HPLC) method was developed to assay 4-chlorophenylbiguanide (4-CPBG) and <cons sem="G_DRUG">cycloguanil</cons> <cons sem="G_MECHANISM">formed</cons> from proguanil by microsomes prepared from human liver.</sentence>
+<sentence>The limit of detection was 0.08 nmol mg-'.h-I.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(CYP2C19, 4-CPBG,DEI)(CYP2C19, cycloguanil,DEI)">
+<sentence>The <cons sem="G_IVITPARA">formation</cons> of 4-CPBG and <cons sem="G_DRUG">cycloguanil</cons> could be described by one-enzyme kinetics, indicating that the <cons sem="G_MECHANISM">formation</cons> of the two metabolites is almost exclusively <cons sem="G_MECHANISM">catalysed</cons> by a single enzyme, i.e. <cons sem="G_CYP">CYP2C19</cons> within the concentration range used, or that the contribution of an alternative low-affinity enzyme,<cons sem="G_CHANGE">probably</cons> <cons sem="G_CYP">CYP3A4</cons>, is very low.</sentence>
+</annotation>
+<sentence>This notion was confirmed by the lack of potent <cons sem="G_MECHANISM">inhibition</cons> by four <cons sem="G_CYP">CYP3A4</cons> <cons sem="G_MECHANISM">inhibitors</cons>:<cons sem="G_DRUG">ketoconazole</cons>,<cons sem="G_DRUG">bromocriptine</cons>,<cons sem="G_DRUG">midazolam</cons> and <cons sem="G_DRUG">dihydroergotamine</cons>.</sentence>
+<annotation sem="INVITROCDDIS" ddi="(Fluvoxamine, cycloguanil,DDI)(Fluvoxamine, 4-CPBG,DDI)">
+<sentence><cons sem="G_DRUG">Fluvoxamine </cons> was a very effective <cons sem="G_MECHANISM">inhibitor</cons> of the <cons sem="G_MECHANISM">oxidation</cons> of <cons sem="G_DRUG">proguanil</cons>, displaying <cons sem="G_IVITPARA">Ki</cons> values of <cons sem="G_NUMBER">0.69 micromol x l(-1)</cons> for the <cons sem="G_MECHANISM">inhibition</cons> of <cons sem="G_DRUG">cycloguanil</cons> <cons sem="G_MECHANISM">formation</cons> and <cons sem="G_NUMBER">4.7 micromol x l(-1)</cons> for the <cons sem="G_MECHANISM">inhibition</cons> of 4-CPBG <cons sem="G_MECHANISM">formation</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(omeprazole, cycloguanil,DDI)(omeprazole, 4-CPBG,DDI)">
+<sentence>As expected, the <cons sem="G_CYP">CYP2C19</cons> substrate <cons sem="G_DRUG">omeprazole</cons> <cons sem="G_MECHANISM">inhibited</cons> the <cons sem="G_MECHANISM">formation</cons> of both metabolites with an <cons sem="G_IVITPARA">IC50</cons> of <cons sem="G_NUMBER">10 micromol x l(-1)</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Norfluoxetine, proguanil oxidation,ADDI)(sulfaphenazole, proguanil oxidation,DDI)">
+<sentence><cons sem="G_DRUG">Norfluoxetine</cons> and <cons sem="G_DRUG">sulfaphenazole</cons> <cons sem="G_MECHANISM">inhibited</cons> <cons sem="G_DRUG">proguanil</cons> oxidation with <cons sem="G_IVITPARA">Ki</cons> values of <cons sem="G_NUMBER">7.3-16 micromol x l(-1)</cons>, suggesting that the two compounds are <cons sem="G_CHANGE">moderate</cons> <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_CYP">CYP2C19</cons>.</sentence>
+</annotation>
+<annotation sem="INVITROCDDIS" ddi="(Fluvoxamine, imipramine,DDI)(Fluvoxamine, clomipramine,DDI)(Fluvoxamine, amitriptyline,DDI)(Fluvoxamine, diazepam,DDI)">
+<sentence><cons sem="G_DRUG">Fluvoxamine</cons> is a fairly potent <cons sem="G_MECHANISM">inhibitors</cons> of <cons sem="G_CYP">CYP2C19</cons> and it has the potential for causing drug-drug interactions with substrates for <cons sem="G_CYP">CYP2C19</cons> such as <cons sem="G_DRUG">imipramine</cons>,<cons sem="G_DRUG">clomipramine</cons>,<cons sem="G_DRUG">amitriptyline</cons> and <cons sem="G_DRUG">diazepam</cons>.</sentence>
+</annotation>
+<sentence>The combination of <cons sem="G_DRUG">fluvoxamine</cons> and <cons sem="G_DRUG">proguanil</cons> can <cons sem="G_NEGATIVEEFFECT">not</cons> be recommended.</sentence>
+</abstract>
+</article>
+</set>
