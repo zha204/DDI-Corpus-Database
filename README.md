@@ -24,4 +24,4 @@
   * **Phenotype Corpus**
   * **2017 n2c2 Annotation for ADE**
 
-
+<a href="https://doi.org/10.5281/zenodo.3750146"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3750146.svg" alt="DOI"></a>
