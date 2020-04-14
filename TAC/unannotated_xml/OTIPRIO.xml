@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="otiprio" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most frequently occurring adverse reactions (with an incidence rate greater than 3 %) were nasopharyngitis and irritability. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Otonomy at 1-800-826-6411 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ In two randomized, sham-controlled Phase 3 clinical trials, 530 pediatric patients with bilateral otitis media with effusion undergoing tympanostomy tube placement were treated with OTIPRIO or sham administered intra-operatively as a single dose. The median age of the pediatric patients enrolled in the clinical trials was 1.5 years; 62% of patients were 6 months through 2 years of age and 38% of patients were greater than 2 years of age.
+
+
+
+ Adverse reactions that occurred in at least 3% of OTIPRIO patients and at an incidence greater than sham are presented in  Table 1  .
+
+
+
+ Table 1: Adverse Reactions in Phase 3 Trials 
+   Adverse Reactions                               OTIPRIO(N=357)                   Sham(N=173)             
+  
+ Nasopharyngitis                                         5%                              4%                 
+ Irritability                                            5%                              3%                 
+ Rhinorrhea                                              3%                              2%                 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    Potential for Microbial Overgrowth:  OTIPRIO may result in overgrowth of non-susceptible bacteria and fungi. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Potential for Microbial Overgrowth
+
+
+
+  OTIPRIO may result in overgrowth of nonsusceptible bacteria and fungi. If such infections occur, institute alternative therapy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

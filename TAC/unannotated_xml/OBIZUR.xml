@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="obizur" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Common adverse reactions observed in greater than 5% of subjects in the clinical trial were development of inhibitors to porcine factor VIII.
+
+
+
+   EXCERPT:   Common adverse reaction observed in greater than 5% of subjects in the clinical trial were development of inhibitors to porcine factor VIII. (6.1)
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare Corporation at 1-866-888-2472 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction (AR) rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The safety and efficacy  of OBIZUR was evaluated in a multi-center, prospective, open-label, clinical trial that investigated adult patients with acquired hemophilia A. Twenty-nine adult subjects were enrolled in the study, received at least one dose of OBIZUR and were evaluable for safety [see  Clinical Studies (14)  ]. Of the 29 adult subjects, 10 were between the ages of 40 and 65, and 19 were 65 years of age or older (18 Caucasian, 6 African-American, and 5 Asian). Ten (34%) subjects were female.
+
+
+
+ The most frequently reported adverse reaction in patients with acquired hemophilia A was the development of inhibitors to porcine factor VIII.
+
+
+
+   Immunogenicity  
+
+
+
+ All subjects were monitored for development of inhibitory antibodies to OBIZUR using the Nijmegen modification of the Bethesda inhibitor assay. A subject was considered to have developed an OBIZUR inhibitor if the titer was &gt;=0.6 Bethesda Units (BU)/mL.
+
+
+
+ Of the 29 subjects treated with OBIZUR, 19 subjects were negative for anti-porcine factor VIII antibodies at baseline. Five of the 19 (26%) developed anti-porcine factor VIII antibodies following exposure to OBIZUR. Of the 10 subjects with detectable anti-porcine factor VIII antibodies at baseline, 2 (20%) experienced an increase in titer and eight (80%) experienced a decreasing to a non-detectable titer.
+
+
+
+ All subjects were also monitored for development of binding antibodies to baby hamster kidney (BHK) protein by a validated sequential ELISA (enzyme-linked immunosorbent assay). No patients developed  de novo  anti-BHK antibodies.
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to OBIZUR with the incidence of antibodies to other products may be misleading.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Hypersensitivity reactions, including anaphylaxis, may occur. Should symptoms occur, discontinue OBIZUR and administer appropriate treatment. (5.1) 
+ *    Development of inhibitory antibodies to OBIZUR has occurred. If expected plasma factor VIII activity levels are not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures porcine factor VIII inhibitor concentration. (5.2) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions can occur with OBIZUR. OBIZUR contains trace amounts of hamster proteins. Early signs of allergic reactions, which can progress to anaphylaxis, include angioedema, chest-tightness, dyspnea, hypotension, wheezing, urticaria, and pruritus. Immediately discontinue administration and initiate appropriate treatment if allergic or anaphylactic-type reactions occur.
+
+
+
+    5.2 Inhibitory Antibodies
+
+
+
+  Inhibitory antibodies to OBIZUR have occurred. Monitor patients for the development of antibodies to OBIZUR by appropriate assays [see Monitoring Laboratory Tests (5.3)  ]. If the plasma factor VIII level fails to increase as expected, or if bleeding is not controlled after OBIZUR administration, suspect the presence of an anti-porcine factor VIII antibody. If such inhibitory antibodies to anti-porcine factor VIII are suspected and there is a lack of clinical response, consider other therapeutic options.   
+
+
+
+    5.3 Monitoring Laboratory Tests
+
+
+
+    *    *  o  Monitor factor VIII activity 30 minutes and 3 hours after initial dose. 
+ *  o  Monitor factor VIII activity 30 minutes after subsequent doses. 
+   Perform one-stage clotting assay to confirm that adequate factor VIII levels have been achieved and maintained [see Dosage and Administration (2) ]. 
+ *    Monitor the development of inhibitory antibodies to OBIZUR. Perform a Nijmegen Bethesda inhibitor assay if expected plasma factor VIII activity levels are not attained or if bleeding is not controlled with the expected dose of OBIZUR. Use Bethesda Units (BU) to report inhibitor levels. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

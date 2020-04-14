@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="rectiv" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The most common adverse reaction of RECTIV (nitroglycerin) Ointment 0.4% applied to the anal canal is headache.
+
+
+
+ Headache may be recurrent following each dose. Headaches are typically of short duration and can be treated with an analgesic, e.g. acetaminophen, and are reversible upon discontinuation of treatment.
+
+
+
+ In Study REC-C-001, a double-blind, placebo-controlled trial in patients with a painful chronic anal fissure, the most frequent (&gt;= 2%) adverse reactions reported were as follows (Table 1):
+
+
+
+ Table 1: Incidence of Adverse Reactions (&gt;= 2%) in Study REC-C-001 
+                                             RECTIV    N = 123      Placebo    N = 124     
+   System Organ Class     Preferred term     Patients    n (%)      Events    n      Patients    n (%)      Events    n     
+   Nervous system disorders                                  
+    Headache                                   79 (64)            938            51 (41)            225         
+    Dizziness                                   6 (5)             26                0                0          
+             Hypotension  
+ 
+
+ Transient episodes of light-headedness, occasionally related to blood pressure changes, also may occur. Hypotension (including orthostatic hypotension) occurs infrequently, but in some patients may be severe enough to warrant discontinuation of therapy.
+
+
+
+   Allergic Reactions  
+
+
+
+ Flushing, allergic reactions and application site reactions (including drug rash and exfoliative dermatitis) have been reported rarely.
+
+
+
+   Methemoglobinemia  
+
+
+
+ In rare cases, therapeutic doses of organic nitrates have caused methemoglobinemia (see  10 OVERDOSAGE  ).
+
+
+
+   EXCERPT:   Most common adverse reactions are headache and dizziness. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Aptalis Pharma US, Inc. at 1-800-472-2634, or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Cardiovascular Disorders: Venous and arterial dilatation as a consequence of nitroglycerin treatment can result in hypotension. Exercise caution when treating patients with any of the following conditions: blood volume depletion, existing hypotension, cardiomyopathies, congestive heart failure, acute myocardial infarction, or poor cardiac function for other reasons (  5.1  ). 
+ *  Headache: Nitroglycerin produces dose-related headaches which may be severe (  5.2  ) 
+    
+ 
+
+   5.1 Cardiovascular disorders
+
+
+
+  Venous and arterial dilatation as a consequence of nitroglycerin treatment including RECTIV, can decrease venous blood returning to the heart and reduce arterial vascular resistance and systolic pressure. Exercise caution when treating patients with any of the following conditions: blood volume depletion, existing hypotension, cardiomyopathies, congestive heart failure, acute myocardial infarction, or poor cardiac function for other reasons. If patients with any of these conditions are treated with RECTIV, monitor cardiovascular status and clinical condition. The adverse reactions of RECTIV are likely to be more pronounced in the elderly.
+
+
+
+    5.2 Headache
+
+
+
+  RECTIV produces dose-related headaches, which may be severe. Tolerance to headaches occurs.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

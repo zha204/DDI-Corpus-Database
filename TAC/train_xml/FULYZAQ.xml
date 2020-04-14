@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="fulyzaq" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+    6.1              Clinical Trials Experience  
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. 
+
+
+
+ A total of 696 HIV-positive patients in three placebo-controlled trials received FULYZAQ for a mean duration of 78 days.  Of the total population across the three trials, 229 patients received a dose of 125 mg twice a day for a mean duration of 141 days, 69 patients received a dose of 250 mg twice a day for a mean duration of 139 days, 102 patients received a dose of 250 mg four times a day for a mean duration of 14 days, 54 patients received a dose of 500 mg twice a day for a mean duration of 146 days, and 242 patients received a dose of 500 mg four times a day for a mean duration of 14 days. 
+
+
+
+ Adverse reactions for FULYZAQ that occurred in at least 2% of patients and at a higher incidence than placebo are provided in Table 1.
+
+
+
+   Table    1:                Adverse Reactions Occurring in at Least 2% of Patients in the 125 mg Twice Daily Group  
+
+
+
+
+  Adverse Reaction    Crofelemer 125 mg BID*N = 229n (%)    PlaceboN = 274n (%)    
+  Upper respiratory tract infection    13 (5.7)         4 (1.5)          
+  Bronchitis       9 (3.9)          0                
+  Cough            8 (3.5)          3 (1.1)          
+  Flatulence       7 (3.1)          3 (1.1)          
+  Increased bilirubin    7 (3.1)          3 (1.1)          
+  Nausea           6 (2.6)          4 (1.5)          
+  Back pain        6 (2.6)          4 (1.5)          
+  Arthralgia       6 (2.6)          0                
+  Urinary tract infection    5 (2.2)          2 (0.7)          
+  Nasopharyngitis    5 (2.2)          2 (0.7)          
+  Musculoskeletal pain    5 (2.2)          1 (0.4)          
+  Hemorrhoids      5 (2.2)          0                
+  Giardiasis       5 (2.2)          0                
+  Anxiety          5 (2.2)          1 (0.4)          
+  Increased alanine aminotransferase    5 (2.2)          3 (1.1)          
+  Abdominal distension    5 (2.2)          1 (0.4)          
+  * Twice daily    
+         Adverse reactions that occurred in between 1% and 2% of patients taking a 250 mg daily dose of FULYZAQ were abdominal pain, acne, increased aspartate aminotransferase, increased conjugated bilirubin, increased unconjugated blood bilirubin, constipation, depression, dermatitis, dizziness, dry mouth, dyspepsia, gastroenteritis, herpes zoster, nephrolithiasis, pain in extremity, pollakiuria, procedural pain, seasonal allergy, sinusitis and decreased white blood cell count.
+ 
+
+ Adverse reactions were similar in patients who received doses greater than 250 mg daily.
+
+
+
+   EXCERPT:   Most common adverse reactions (incidence &gt;= 3%) are upper respiratory tract infection, bronchitis, cough, flatulence and increased bilirubin. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Salix Pharmaceuticals at 1-800-508-0024 or www.Salix.com or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   5. 1      Risks of Treatment in Patients with Infectious Diarrhea  
+
+
+
+ If infectious etiologies are not considered, and FULYZAQ is initiated based on a presumptive diagnosis of non-infectious diarrhea, then there is a risk that patients with infectious etiologies will not receive the appropriate treatments, and their disease may worsen.  Before starting FULYZAQ, rule out infectious etiologies of diarrhea.  FULYZAQ is not indicated for the treatment of infectious diarrhea.
+
+
+
+   EXCERPT:   Rule out infectious etiologies of diarrhea before starting crofelemer.  If infectious etiologies are not considered, there is a risk that patients with infectious etiologies will not receive the appropriate therapy and their disease may worsen. (  5.1  )
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="1301" len="33" str="Upper respiratory tract infection" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="1375" len="10" str="Bronchitis" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="1429" len="5" str="Cough" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="1483" len="10" str="Flatulence" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="1537" len="19" str="Increased bilirubin" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="1597" len="6" str="Nausea" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="1651" len="9" str="Back pain" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="1705" len="10" str="Arthralgia" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="1759" len="23" str="Urinary tract infection" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="1823" len="15" str="Nasopharyngitis" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="1879" len="20" str="Musculoskeletal pain" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="1940" len="11" str="Hemorrhoids" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="1994" len="10" str="Giardiasis" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="2048" len="7" str="Anxiety" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="2102" len="34" str="Increased alanine aminotransferase" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="2177" len="20" str="Abdominal distension" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="2373" len="14" str="abdominal pain" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="2389" len="4" str="acne" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="2395" len="36" str="increased aspartate aminotransferase" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2433" len="30" str="increased conjugated bilirubin" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2465" len="38" str="increased unconjugated blood bilirubin" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2505" len="12" str="constipation" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2519" len="10" str="depression" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2531" len="10" str="dermatitis" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="2543" len="9" str="dizziness" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="2554" len="9" str="dry mouth" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="2565" len="9" str="dyspepsia" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="2576" len="15" str="gastroenteritis" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="2593" len="13" str="herpes zoster" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="2608" len="15" str="nephrolithiasis" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="2625" len="17" str="pain in extremity" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="2644" len="11" str="pollakiuria" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="2657" len="15" str="procedural pain" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="2674" len="16" str="seasonal allergy" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="2692" len="9" str="sinusitis" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="2706" len="32" str="decreased white blood cell count" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="2902" len="33" str="upper respiratory tract infection" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="2937" len="10" str="bronchitis" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="2949" len="5" str="cough" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="2956" len="10" str="flatulence" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="2971" len="19" str="increased bilirubin" />
+  </Mentions>
+  <Relations />
+  <Reactions>
+    <Reaction id="AR1" str="upper respiratory tract infection">
+      <Normalization id="AR1.N1" meddra_pt="Upper respiratory tract infection" meddra_pt_id="10046306" />
+    </Reaction>
+    <Reaction id="AR2" str="bronchitis">
+      <Normalization id="AR2.N1" meddra_pt="Bronchitis" meddra_pt_id="10006451" />
+    </Reaction>
+    <Reaction id="AR3" str="cough">
+      <Normalization id="AR3.N1" meddra_pt="Cough" meddra_pt_id="10011224" />
+    </Reaction>
+    <Reaction id="AR4" str="flatulence">
+      <Normalization id="AR4.N1" meddra_pt="Flatulence" meddra_pt_id="10016766" />
+    </Reaction>
+    <Reaction id="AR5" str="increased bilirubin">
+      <Normalization id="AR5.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" meddra_llt="Bilirubin increased" meddra_llt_id="10004690" />
+    </Reaction>
+    <Reaction id="AR6" str="nausea">
+      <Normalization id="AR6.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR7" str="back pain">
+      <Normalization id="AR7.N1" meddra_pt="Back pain" meddra_pt_id="10003988" />
+    </Reaction>
+    <Reaction id="AR8" str="arthralgia">
+      <Normalization id="AR8.N1" meddra_pt="Arthralgia" meddra_pt_id="10003239" />
+    </Reaction>
+    <Reaction id="AR9" str="urinary tract infection">
+      <Normalization id="AR9.N1" meddra_pt="Urinary tract infection" meddra_pt_id="10046571" />
+    </Reaction>
+    <Reaction id="AR10" str="nasopharyngitis">
+      <Normalization id="AR10.N1" meddra_pt="Nasopharyngitis" meddra_pt_id="10028810" />
+    </Reaction>
+    <Reaction id="AR11" str="musculoskeletal pain">
+      <Normalization id="AR11.N1" meddra_pt="Musculoskeletal pain" meddra_pt_id="10028391" />
+    </Reaction>
+    <Reaction id="AR12" str="hemorrhoids">
+      <Normalization id="AR12.N1" meddra_pt="Haemorrhoids" meddra_pt_id="10019022" meddra_llt="Hemorrhoids" meddra_llt_id="10019611" />
+    </Reaction>
+    <Reaction id="AR13" str="giardiasis">
+      <Normalization id="AR13.N1" meddra_pt="Giardiasis" meddra_pt_id="10018262" />
+    </Reaction>
+    <Reaction id="AR14" str="anxiety">
+      <Normalization id="AR14.N1" meddra_pt="Anxiety" meddra_pt_id="10002855" />
+    </Reaction>
+    <Reaction id="AR15" str="increased alanine aminotransferase">
+      <Normalization id="AR15.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" />
+    </Reaction>
+    <Reaction id="AR16" str="abdominal distension">
+      <Normalization id="AR16.N1" meddra_pt="Abdominal distension" meddra_pt_id="10000060" />
+    </Reaction>
+    <Reaction id="AR17" str="abdominal pain">
+      <Normalization id="AR17.N1" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Reaction>
+    <Reaction id="AR18" str="acne">
+      <Normalization id="AR18.N1" meddra_pt="Acne" meddra_pt_id="10000496" />
+    </Reaction>
+    <Reaction id="AR19" str="increased aspartate aminotransferase">
+      <Normalization id="AR19.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" />
+    </Reaction>
+    <Reaction id="AR20" str="increased conjugated bilirubin">
+      <Normalization id="AR20.N1" meddra_pt="Bilirubin conjugated increased" meddra_pt_id="10004685" />
+    </Reaction>
+    <Reaction id="AR21" str="increased unconjugated blood bilirubin">
+      <Normalization id="AR21.N1" meddra_pt="Blood bilirubin unconjugated increased" meddra_pt_id="10005370" />
+    </Reaction>
+    <Reaction id="AR22" str="constipation">
+      <Normalization id="AR22.N1" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Reaction>
+    <Reaction id="AR23" str="depression">
+      <Normalization id="AR23.N1" meddra_pt="Depression" meddra_pt_id="10012378" />
+    </Reaction>
+    <Reaction id="AR24" str="dermatitis">
+      <Normalization id="AR24.N1" meddra_pt="Dermatitis" meddra_pt_id="10012431" />
+    </Reaction>
+    <Reaction id="AR25" str="dizziness">
+      <Normalization id="AR25.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR26" str="dry mouth">
+      <Normalization id="AR26.N1" meddra_pt="Dry mouth" meddra_pt_id="10013781" />
+    </Reaction>
+    <Reaction id="AR27" str="dyspepsia">
+      <Normalization id="AR27.N1" meddra_pt="Dyspepsia" meddra_pt_id="10013946" />
+    </Reaction>
+    <Reaction id="AR28" str="gastroenteritis">
+      <Normalization id="AR28.N1" meddra_pt="Gastroenteritis" meddra_pt_id="10017888" />
+    </Reaction>
+    <Reaction id="AR29" str="herpes zoster">
+      <Normalization id="AR29.N1" meddra_pt="Herpes zoster" meddra_pt_id="10019974" />
+    </Reaction>
+    <Reaction id="AR30" str="nephrolithiasis">
+      <Normalization id="AR30.N1" meddra_pt="Nephrolithiasis" meddra_pt_id="10029148" />
+    </Reaction>
+    <Reaction id="AR31" str="pain in extremity">
+      <Normalization id="AR31.N1" meddra_pt="Pain in extremity" meddra_pt_id="10033425" />
+    </Reaction>
+    <Reaction id="AR32" str="pollakiuria">
+      <Normalization id="AR32.N1" meddra_pt="Pollakiuria" meddra_pt_id="10036018" />
+    </Reaction>
+    <Reaction id="AR33" str="procedural pain">
+      <Normalization id="AR33.N1" meddra_pt="Procedural pain" meddra_pt_id="10064882" />
+    </Reaction>
+    <Reaction id="AR34" str="seasonal allergy">
+      <Normalization id="AR34.N1" meddra_pt="Seasonal allergy" meddra_pt_id="10048908" />
+    </Reaction>
+    <Reaction id="AR35" str="sinusitis">
+      <Normalization id="AR35.N1" meddra_pt="Sinusitis" meddra_pt_id="10040753" />
+    </Reaction>
+    <Reaction id="AR36" str="decreased white blood cell count">
+      <Normalization id="AR36.N1" meddra_pt="White blood cell count decreased" meddra_pt_id="10047942" />
+    </Reaction>
+  </Reactions>
+</Label>

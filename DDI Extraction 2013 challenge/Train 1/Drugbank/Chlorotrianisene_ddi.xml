@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d446">
+    <sentence id="DDI-DrugBank.d446.s0" text="Chlorotrianisene may interact with antidepressants, aspirin, barbiturates, bromocriptine, calcium supplements, corticosteroids, corticotropin, cyclosporine, dantrolene, nicotine, somatropin, tamoxifen, and warfarin.">
+        <entity id="DDI-DrugBank.d446.s0.e0" charOffset="0-15"
+            type="drug" text="Chlorotrianisene"/>
+        <entity id="DDI-DrugBank.d446.s0.e1" charOffset="35-49"
+            type="group" text="antidepressants"/>
+        <entity id="DDI-DrugBank.d446.s0.e2" charOffset="52-58"
+            type="brand" text="aspirin"/>
+        <entity id="DDI-DrugBank.d446.s0.e3" charOffset="61-72"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d446.s0.e4" charOffset="75-87"
+            type="drug" text="bromocriptine"/>
+        <entity id="DDI-DrugBank.d446.s0.e5" charOffset="90-96"
+            type="drug" text="calcium"/>
+        <entity id="DDI-DrugBank.d446.s0.e6" charOffset="111-125"
+            type="group" text="corticosteroids"/>
+        <entity id="DDI-DrugBank.d446.s0.e7" charOffset="128-140"
+            type="drug" text="corticotropin"/>
+        <entity id="DDI-DrugBank.d446.s0.e8" charOffset="143-154"
+            type="drug" text="cyclosporine"/>
+        <entity id="DDI-DrugBank.d446.s0.e9" charOffset="157-166"
+            type="drug" text="dantrolene"/>
+        <entity id="DDI-DrugBank.d446.s0.e10" charOffset="169-176"
+            type="drug" text="nicotine"/>
+        <entity id="DDI-DrugBank.d446.s0.e11" charOffset="179-188"
+            type="drug" text="somatropin"/>
+        <entity id="DDI-DrugBank.d446.s0.e12" charOffset="191-199"
+            type="drug" text="tamoxifen"/>
+        <entity id="DDI-DrugBank.d446.s0.e13" charOffset="206-213"
+            type="drug" text="warfarin"/>
+        <ddi id="DDI-DrugBank.d446.s0.d0" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e1" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d1" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d2" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e3" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d3" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e4" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d4" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e5" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d5" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e6" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d6" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e7" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d7" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e8" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d8" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e9" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d9" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e10" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d10" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e11" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d11" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e12" type="int"/>
+        <ddi id="DDI-DrugBank.d446.s0.d12" e1="DDI-DrugBank.d446.s0.e0"
+            e2="DDI-DrugBank.d446.s0.e13" type="int"/>
+    </sentence>
+</document>

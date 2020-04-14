@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="evzio1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  Duration of effect [see Warnings and Precautions (  5.1  ]]  
+ *  Precipitation of Severe Opioid Withdrawal [see Warnings and Precautions (  5.3  )]  
+    The following adverse reactions have been identified during post-approval use of naloxone hydrochloride in the post-operative setting. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Hypotension, hypertension, ventricular tachycardia and fibrillation, dyspnea, pulmonary edema, and cardiac arrest. Death, coma, and encephalopathy have been reported as sequelae of these events. Excessive doses of naloxone hydrochloride in post-operative patients have resulted in significant reversal of analgesia and have caused agitation  [see Warnings and Precautions (  5.3  )].  
+ 
+
+ Abrupt reversal of opioid effects in persons who were physically dependent on opioids has precipitated an acute withdrawal syndrome. Signs and symptoms have included: body aches, fever, sweating, runny nose, sneezing, piloerection, yawning, weakness, shivering or trembling, nervousness, restlessness or irritability, diarrhea, nausea or vomiting, abdominal cramps, increased blood pressure, tachycardia. In the neonate, opioid withdrawal signs and symptoms also included: convulsions, excessive crying, hyperactive reflexes [  see Warnings and Precautions (  5.3  )  ].
+
+
+
+   EXCERPT:   The following adverse reactions have been identified during use of naloxone hydrochloride in the post-operative setting: Hypotension, hypertension, ventricular tachycardia and fibrillation, dyspnea, pulmonary edema, and cardiac arrest. Death, coma, and encephalopathy have been reported as sequelae of these events. Excessive doses of naloxone hydrochloride in post-operative patients have resulted in significant reversal of analgesia and have caused agitation. (  6  )
+
+
+
+ Abrupt reversal of opioid effects in persons who were physically dependent on opioids has precipitated signs and symptoms of opioid withdrawal including: body aches, fever, sweating, runny nose, sneezing, piloerection, yawning, weakness, shivering or trembling, nervousness, restlessness or irritability, diarrhea, nausea or vomiting, abdominal cramps, increased blood pressure, tachycardia. In the neonate, opioid withdrawal signs and symptoms also included: convulsions, excessive crying, hyperactive reflexes. (  6  )
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact kaleo, Inc. at 1-855-773-8946 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Due to the duration of action, keep the patient under continued surveillance and repeated doses of naloxone should be administered, as necessary, while awaiting emergency medical assistance. (  5.1  ) 
+ *  Other supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance. (  5.1  ) 
+ *  Reversal of respiratory depression by partial agonists or mixed agonists/antagonists such as buprenorphine and pentazocine, may be incomplete. (  5.2  ) 
+ *  Use in patients who are opioid dependent may precipitate acute abstinence syndrome. (  5.3  ) 
+ *  Patients with pre-existing cardiac disease or patients who have received medications with potential adverse cardiovascular effects should be monitored in an appropriate healthcare setting (  5.3  ) 
+ *  In neonates, opioid withdrawal may be life-threatening if not recognized and properly treated. (  5.3  ) 
+    
+ 
+
+   5.1 Duration of Effect
+
+
+
+  The duration of action of most opioids is likely to exceed that of EVZIO resulting in a return of respiratory and/or central nervous system depression after an initial improvement in symptoms. Therefore, it is necessary to seek immediate emergency medical assistance after delivering the first dose of EVZIO, keep the patient under continued surveillance, and repeat doses of EVZIO as necessary. Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance.
+
+
+
+    5.2 Limited Efficacy with Partial Agonists or Mixed Agonist/Antagonists
+
+
+
+  Reversal of respiratory depression by partial agonists or mixed agonist/antagonists such as buprenorphine and pentazocine, may be incomplete. Large doses of naloxone hydrochloride are required to antagonize buprenorphine because the latter has a long duration of action due to its slow rate of binding and subsequent slow dissociation from the opioid receptor. Buprenorphine antagonism is characterized by a gradual onset of the reversal effects and a decreased duration of action of the normally prolonged respiratory depression.
+
+
+
+    5.3 Precipitation of Severe Opioid Withdrawal
+
+
+
+  The use of EVZIO in patients who are opioid dependent may precipitate an acute abstinence syndrome characterized by the following signs and symptoms: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure. In neonates, opioid withdrawal may be life-threatening if not recognized and properly treated and may include the following signs and symptoms: convulsions, excessive crying, and hyperactive reflexes.
+
+
+
+ Abrupt postoperative reversal of opioid depression after using naloxone hydrochloride may result in nausea, vomiting, sweating, tremulousness, tachycardia, hypotension, hypertension, seizures, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest. Death, coma, and encephalopathy have been reported as sequelae of these events. These events have occurred in patients most of whom had pre-existing cardiovascular disorders or received other drugs which may have similar adverse cardiovascular effects. Although a direct cause and effect relationship has not been established, after use of naloxone hydrochloride, patients with pre-existing cardiac disease or patients who have received medications with potential adverse cardiovascular effects should be monitored for hypotension, ventricular tachycardia or fibrillation, and pulmonary edema in an appropriate healthcare setting. It has been suggested that the pathogenesis of pulmonary edema associated with the use of naloxone hydrochloride is similar to neurogenic pulmonary edema, i.e., a centrally mediated massive catecholamine response leading to a dramatic shift of blood volume into the pulmonary vascular bed resulting in increased hydrostatic pressures.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

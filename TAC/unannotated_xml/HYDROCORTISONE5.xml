@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hydrocortisone5" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Stinging or burning may be noted occasionally; local irritation has occurred very rarely.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

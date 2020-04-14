@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d142">
+    <sentence id="DDI-DrugBank.d142.s0" text="Additive adverse effects resulting from cholinergic blockade may occur when LEVSIN is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines.">
+        <entity id="DDI-DrugBank.d142.s0.e0" charOffset="76-81"
+            type="brand" text="LEVSIN"/>
+        <entity id="DDI-DrugBank.d142.s0.e1" charOffset="124-138"
+            type="group" text="antimuscarinics"/>
+        <entity id="DDI-DrugBank.d142.s0.e2" charOffset="141-150"
+            type="drug" text="amantadine"/>
+        <entity id="DDI-DrugBank.d142.s0.e3" charOffset="153-163"
+            type="drug" text="haloperidol"/>
+        <entity id="DDI-DrugBank.d142.s0.e4" charOffset="166-179"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d142.s0.e5" charOffset="182-215"
+            type="group" text="monoamine oxidase (MAO) inhibitors"/>
+        <entity id="DDI-DrugBank.d142.s0.e6" charOffset="218-242"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d142.s0.e7" charOffset="252-265"
+            type="group" text="antihistamines"/>
+        <ddi id="DDI-DrugBank.d142.s0.d0" e1="DDI-DrugBank.d142.s0.e0"
+            e2="DDI-DrugBank.d142.s0.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d142.s0.d1" e1="DDI-DrugBank.d142.s0.e0"
+            e2="DDI-DrugBank.d142.s0.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d142.s0.d2" e1="DDI-DrugBank.d142.s0.e0"
+            e2="DDI-DrugBank.d142.s0.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d142.s0.d3" e1="DDI-DrugBank.d142.s0.e0"
+            e2="DDI-DrugBank.d142.s0.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d142.s0.d4" e1="DDI-DrugBank.d142.s0.e0"
+            e2="DDI-DrugBank.d142.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d142.s0.d5" e1="DDI-DrugBank.d142.s0.e0"
+            e2="DDI-DrugBank.d142.s0.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d142.s0.d6" e1="DDI-DrugBank.d142.s0.e0"
+            e2="DDI-DrugBank.d142.s0.e7" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d142.s1" text="Antacids may interfere with the absorption of LEVSIN.">
+        <entity id="DDI-DrugBank.d142.s1.e0" charOffset="0-7"
+            type="group" text="Antacids"/>
+        <entity id="DDI-DrugBank.d142.s1.e1" charOffset="46-51"
+            type="brand" text="LEVSIN"/>
+        <ddi id="DDI-DrugBank.d142.s1.d0" e1="DDI-DrugBank.d142.s1.e0"
+            e2="DDI-DrugBank.d142.s1.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d142.s2" text="Administer LEVSIN before meals;">
+        <entity id="DDI-DrugBank.d142.s2.e0" charOffset="11-16"
+            type="brand" text="LEVSIN"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d142.s3" text="antacids after meals.">
+        <entity id="DDI-DrugBank.d142.s3.e0" charOffset="0-7"
+            type="group" text="antacids"/>
+    </sentence>
+</document>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="recombinate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse Reactions from Clinical Trials
+
+  During controlled clinical studies with RECOMBINATE enrolling 210 subjects, the most commonly reported adverse drug reactions were chills, flushing, rash and epistaxis..
+
+
+
+
+   System Organ Class(SOC)           Preferred MedDRATerm             Number of Subjects      Percent of Evaluable Subjects     
+   GASTROINTESTINAL DISORDERS      Nausea                           1                  0.48                   
+   GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS     Chills  Fatigue Pyrexia          3  1 1             1.43  0.48 0.48       
+   INFECTIONS AND INFESTATIONS     Ear infections                   1                  0.48                   
+   INVESTIGATIONS                  Acoustic stimulation tests abnormal  1                  0.48                   
+   MUSCULOSKELETAL AND CONNECTIVE TISSUES DISORDERS    Pain in extremity                1                  0.48                   
+   NERVOUS SYSTEM DISORDERS         Dizziness Tremors                1 1                0.48 0.48             
+   RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS    Pharyngolaryngeal pain           1                  0.48                   
+   SKIN AND SUBCUTANEOUS TISSUE DISORDERS     Hyperhidrosis  Pruritus  Rash Rash maculopapular   1  1  2 1          0.48  0.48  0.95 0.48   
+   VASCULAR DISORDERS               Epistaxis  Flushing  Hematoma  Hypotension  Pallor Peripheral coldness   1One subject experienced 11 events of epistaxis  2  1  1  1 1   0.48  0.95  0.48  0.48  0.48 0.48   
+          During the Previously Treated Patients (PTP) study, none of the 71 subjects developed  de novo  evidence of Factor VIII inhibitor. However, during the phase II/III portion of the study, 1 subject with a history of inhibitors exhibited inhibitor activity at 6 months (0.8 Bethesda Units [BU]), which resolved by 9 months. One other subject in this study had detectable Factor VIII inhibitor at baseline (1.26 BU) and exhibited an anamnestic response at 6 months (10.3 BU). During a prospective pharmaco-surveillance study of subjects who received batches of RECOMBINATE containing modestly increased Chinese Hamster Ovary (CHO) cell protein levels, none of the 34 treated subjects developed a Factor VIII inhibitor.
+ 
+
+ During the Previously Untreated Patients (PUP) study, 22 of the 73 evaluable subjects developed inhibitors to Factor VIII. Of these, 13 subjects displayed no detectable Factor VIII inhibitors at study exit.
+
+
+
+   Post-Marketing Adverse Reactions
+
+  In addition to the adverse reactions noted in clinical trials, the following adverse reactions have been reported in the post-marketing experience. These adverse reactions are listed by MedDRA (version 12.1) System Organ Class (SOC), then by MedDRA coding system Preferred Term in order of severity.
+
+
+
+   BLOOD AND LYMPHATIC SYSTEM DISORDERS:  Factor VIII inhibition
+
+
+
+   CARDIAC DISORDERS:  Tachycardia, Cyanosis
+
+
+
+   GASTROINTESTINAL DISORDERS:  Vomiting, Abdominal pain
+
+
+
+   GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS:  Malaise, Injection site reactions, Chest pain, Chest discomfort
+
+
+
+   IMMUNE SYSTEM DISORDERS:  Anaphylactic reaction, Hypersensitivity
+
+
+
+   NERVOUS SYSTEM DISORDERS:  Loss of consciousness, Headache, Paresthesia
+
+
+
+   RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS:  Dyspnea, Cough, Laryngeal edema
+
+
+
+   SKIN AND SUBCUTANEOUS TISSUE DISORDERS:  Angioedema, Urticaria, Erythema
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

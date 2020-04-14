@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ceretec" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Rash with generalized erythema, facial edema and fever has been reported in less than 1% of patients. A transient increase in blood pressure was seen in 8% of patients.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ciclopirox1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *  The most frequently reported adverse reactions are pruritus, burning, and erythema. (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Fougera Pharmaceuticals Inc. at 1-800-645-9833 or FDA at 1-800-FDA-1088 or  http://www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In 626 subjects treated with Ciclopirox Shampoo twice weekly in the two pivotal clinical trials, the most frequent adverse events were increased itching in 1% of subjects, and application site reactions, such as burning, erythema, and itching, also in 1% of subjects.
+
+
+
+   6.2 Post Marketing Experience
+
+  The following adverse reactions have been identified during post approval use of Ciclopirox Shampoo: hair discoloration and abnormal hair texture, alopecia, irritation and rash. Because these events are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  If signs of irritation occur, discontinue use. (  5.1  ) 
+ *  Avoid contact with eyes. (  5.1  ) 
+ *  Hair discoloration has been reported with Ciclopirox Shampoo use. (  5.1  ) 
+    
+ 
+
+   5.1 Local Effects
+
+
+
+  If a reaction suggesting sensitivity or irritation occurs with the use of Ciclopirox Shampoo, treatment should be discontinued and appropriate therapy instituted.
+
+
+
+ Contact of Ciclopirox Shampoo with the eyes should be avoided. If contact occurs, rinse thoroughly with water.
+
+
+
+ In patients with lighter hair color, hair discoloration has been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

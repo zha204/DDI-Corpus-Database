@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="besivance" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with the rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to Besivance in approximately 1,000 patients between 1 and 98 years old with clinical signs and symptoms of bacterial conjunctivitis.
+
+
+
+ The most frequently reported ocular adverse reaction was conjunctival redness, reported in approximately 2% of patients.
+
+
+
+ Other adverse reactions reported in patients receiving Besivance occurring in approximately 1-2% of patients included: blurred vision, eye pain, eye irritation, eye pruritus and headache.
+
+
+
+   EXCERPT:   The most common adverse reaction reported in 2% of patients treated with Besivance was conjunctival redness. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bausch &amp; Lomb Incorporated at 1-800-323-0000 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Topical Ophthalmic Use Only. (  5.1  )
+
+
+
+ Growth of Resistant Organisms with Prolonged Use. (  5.2  )
+
+
+
+ Avoidance of Contact Lenses. Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with Besivance (  5.3  )
+
+
+
+ 
+
+
+
+   5.1 Topical Ophthalmic Use Only
+
+
+
+  NOT FOR INJECTION INTO THE EYE.
+
+
+
+ Besivance is for topical ophthalmic use only, and should not be injected subconjunctivally, nor should it be introduced directly into the anterior chamber of the eye.
+
+
+
+    5.2 Growth of Resistant Organisms with Prolonged Use
+
+
+
+  As with other anti-infectives, prolonged use of Besivance (besifloxacin ophthalmic suspension) 0.6% may result in overgrowth of non-susceptible organisms, including fungi. If super-infection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and, where appropriate, fluorescein staining.
+
+
+
+    5.3 Avoidance of Contact Lenses
+
+
+
+  Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with Besivance .
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="521" len="23" str="ocular adverse reaction" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="549" len="20" str="conjunctival redness" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="736" len="14" str="blurred vision" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="752" len="8" str="eye pain" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="762" len="14" str="eye irritation" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="778" len="12" str="eye pruritus" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="795" len="8" str="headache" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="909" len="20" str="conjunctival redness" />
+    <Mention id="M9" section="S2" type="Factor" start="755" len="3" str="may" />
+    <Mention id="M10" section="S2" type="AdverseReaction" start="769" len="39" str="overgrowth of non-susceptible organisms" />
+    <Mention id="M11" section="S2" type="AdverseReaction" start="769,820" len="13,5" str="overgrowth of fungi" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M10" arg2="M9" />
+    <Relation id="RL2" type="Hypothetical" arg1="M11" arg2="M9" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="ocular adverse reaction">
+      <Normalization id="AR1.N1" meddra_pt="Eye symptom" meddra_pt_id="10075536" />
+    </Reaction>
+    <Reaction id="AR2" str="conjunctival redness">
+      <Normalization id="AR2.N1" meddra_pt="Conjunctival hyperaemia" meddra_pt_id="10051625" meddra_llt="Conjunctival redness" meddra_llt_id="10010731" />
+    </Reaction>
+    <Reaction id="AR3" str="blurred vision">
+      <Normalization id="AR3.N1" meddra_pt="Vision blurred" meddra_pt_id="10047513" meddra_llt="Blurred vision" meddra_llt_id="10005886" />
+    </Reaction>
+    <Reaction id="AR4" str="eye pain">
+      <Normalization id="AR4.N1" meddra_pt="Eye pain" meddra_pt_id="10015958" />
+    </Reaction>
+    <Reaction id="AR5" str="eye irritation">
+      <Normalization id="AR5.N1" meddra_pt="Eye irritation" meddra_pt_id="10015946" />
+    </Reaction>
+    <Reaction id="AR6" str="eye pruritus">
+      <Normalization id="AR6.N1" meddra_pt="Eye pruritus" meddra_pt_id="10052140" />
+    </Reaction>
+    <Reaction id="AR7" str="headache">
+      <Normalization id="AR7.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR8" str="overgrowth of non-susceptible organisms">
+      <Normalization id="AR8.N1" flag="unmapped" />
+    </Reaction>
+    <Reaction id="AR9" str="overgrowth of fungi">
+      <Normalization id="AR9.N1" meddra_pt="Overgrowth fungal" meddra_pt_id="10076272" />
+    </Reaction>
+  </Reactions>
+</Label>

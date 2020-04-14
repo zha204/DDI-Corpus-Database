@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ulesfia" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6             ADVERSE REACTIONS  
+
+  EXCERPT:   Most common adverse reactions (&gt; 1% and more common than with placebo): ocular irritation, application site irritation, and application site anesthesia and hypoesthesia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Zylera Pharmaceuticals, LLC. at 1-866-416-9637 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1             Clinical Trials Experience  
+
+        Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+       The rates of adverse reactions below were derived from two randomized, multi-center, vehicle-controlled clinical trials and one open-label study in subjects with head lice infestation.
+
+
+
+       Skin, scalp, and ocular irritation were monitored in the clinical trials. All subjects were queried about the presence of skin and scalp symptoms; the results are presented in Table 2.
+
+
+
+  
+
+
+
+       Table 2: Monitored Adverse Reactions - Application Site Symptoms 
+ Event            ULESFIA    (r)    Lotion  Vehicle           
+ Application site Irritation  2% (11/478)      1% (2/336)       
+ Application site anesthesia &amp;hypoesthesia  2% (10/478)      0% (0/336)       
+ Pain             1% (5/478)       0% (1/336)        
+               The subset of subjects who did not have pruritus, erythema, edema or pyoderma of skin and scalp, or ocular irritation prior to treatment were assessed for these signs and symptoms after treatment; the results are presented in Table 3.
+ 
+
+      
+
+
+
+ Table 3: Monitored Adverse Reactions - Pruritus, Erythema, Pyoderma and Ocular Irritation with Onset After Treatment 
+ Signs/Symptoms   ULESFIA    (r)    Lotion  Vehicle           
+ Pruritus         12% (14/116)     4% (3/67)         
+ Erythema         10% (32/309)     9% (19/217)       
+ Pyoderma         7% (22/308)      4% (10/230)       
+ Ocular irritation  6% (26/428)      1% (3/313)        
+               Other less common reactions (less than 1% but more than 0.1%) were, in decreasing order of incidence: application site dryness, application site excoriation, paraesthesia, application site dermatitis, excoriation, thermal burn, dandruff, erythema, rash, and skin exfoliation.
+</Section>
+    <Section name="warnings and precautions" id="S2">     5           WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Neonatal toxicity: Risk of gasping syndrome if benzyl alcohol is used in neonates. (  5.1  ) 
+ *  Eye irritation: Avoid eye exposure. Flush immediately with water if ULESFIA   (r)    Lotion comes into contact with eyes. (  5.2  ) 
+ *  Contact dermatitis: May occur with ULESFIA   (r)    Lotion. (  5.3  ) 
+ *  Use in children: ULESFIA   (r)    Lotion should only be used on children under the direct supervision of an adult. Keep out of reach of children. (  5.4  ) 
+    
+ 
+
+    5.   1           Neonatal Toxicity  
+
+
+
+        Intravenous administration of products containing benzyl alcohol has been associated with neonatal gasping syndrome consisting of severe metabolic acidosis, gasping respirations, progressive hypotension, seizures, central nervous system depression, intraventricular hemorrhage, and death in preterm, low birth weight infants. Neonates (i.e. patients less than 1 month of age or preterm infants with a corrected age of less than 44 weeks) could be at risk for gasping syndrome if treated with ULESFIA   (r)     Lotion  [see     Use in Specific Populations     (     8.4     )]  .  
+
+
+
+      
+
+
+
+     5.2           Eye Irritation      
+
+
+
+        Avoid eye exposure. ULESFIA   (r)     Lotion may cause eye irritation. If ULESFIA   (r)     Lotion comes in contact with the eyes, flush them immediately with water. If irritation persists, consult a physician.
+
+
+
+      
+
+
+
+     5.   3           Contact Dermatitis  
+
+
+
+        ULESFIA   (r)     Lotion may cause allergic or irritant dermatitis.
+
+
+
+      
+
+
+
+     5.4           Use in Children      
+
+
+
+        ULESFIA   (r)     Lotion should only be used on children (6 months of age and older) under the direct supervision of an adult. Keep out of reach of children.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="126" len="17" str="ocular irritation" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="145" len="27" str="application site irritation" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="178" len="27" str="application site anesthesia" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="178,210" len="16,12" str="application site hypoesthesia" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="1257" len="27" str="Application site Irritation" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="1322" len="27" str="Application site anesthesia" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="1322,1351" len="16,12" str="Application site hypoesthesia" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="1401" len="4" str="Pain" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="1757" len="8" str="Pruritus" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="1767" len="8" str="Erythema" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="1777" len="8" str="Pyoderma" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="1790" len="17" str="Ocular Irritation" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="1900" len="8" str="Pruritus" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="1954" len="8" str="Erythema" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="2008" len="8" str="Pyoderma" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="2062" len="17" str="Ocular irritation" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="2234" len="24" str="application site dryness" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="2260" len="28" str="application site excoriation" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="2290" len="12" str="paraesthesia" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2304" len="27" str="application site dermatitis" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2333" len="11" str="excoriation" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2346" len="12" str="thermal burn" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2360" len="8" str="dandruff" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2370" len="8" str="erythema" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="2380" len="4" str="rash" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="2390" len="16" str="skin exfoliation" />
+    <Mention id="M27" section="S2" type="AdverseReaction" start="65" len="17" str="Neonatal toxicity" />
+    <Mention id="M28" section="S2" type="Factor" start="84" len="4" str="Risk" />
+    <Mention id="M29" section="S2" type="AdverseReaction" start="92" len="16" str="gasping syndrome" />
+    <Mention id="M30" section="S2" type="AdverseReaction" start="163" len="14" str="Eye irritation" />
+    <Mention id="M31" section="S2" type="AdverseReaction" start="300" len="18" str="Contact dermatitis" />
+    <Mention id="M32" section="S2" type="Factor" start="320" len="3" str="May" />
+    <Mention id="M33" section="S2" type="AdverseReaction" start="682" len="25" str="neonatal gasping syndrome" />
+    <Mention id="M34" section="S2" type="Severity" start="722" len="6" str="severe" />
+    <Mention id="M35" section="S2" type="AdverseReaction" start="729" len="18" str="metabolic acidosis" />
+    <Mention id="M36" section="S2" type="AdverseReaction" start="749" len="20" str="gasping respirations" />
+    <Mention id="M37" section="S2" type="AdverseReaction" start="771" len="23" str="progressive hypotension" />
+    <Mention id="M38" section="S2" type="AdverseReaction" start="796" len="8" str="seizures" />
+    <Mention id="M39" section="S2" type="AdverseReaction" start="806" len="33" str="central nervous system depression" />
+    <Mention id="M40" section="S2" type="AdverseReaction" start="841" len="27" str="intraventricular hemorrhage" />
+    <Mention id="M41" section="S2" type="AdverseReaction" start="874" len="5" str="death" />
+    <Mention id="M42" section="S2" type="Factor" start="1042" len="4" str="risk" />
+    <Mention id="M43" section="S2" type="AdverseReaction" start="1051" len="16" str="gasping syndrome" />
+    <Mention id="M44" section="S2" type="Factor" start="1282" len="3" str="may" />
+    <Mention id="M45" section="S2" type="AdverseReaction" start="1292" len="14" str="eye irritation" />
+    <Mention id="M46" section="S2" type="Factor" start="1540" len="3" str="may" />
+    <Mention id="M47" section="S2" type="AdverseReaction" start="1550,1571" len="8,10" str="allergic dermatitis" />
+    <Mention id="M48" section="S2" type="AdverseReaction" start="1562" len="19" str="irritant dermatitis" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M29" arg2="M28" />
+    <Relation id="RL2" type="Hypothetical" arg1="M31" arg2="M32" />
+    <Relation id="RL3" type="Effect" arg1="M35" arg2="M34" />
+    <Relation id="RL4" type="Hypothetical" arg1="M43" arg2="M42" />
+    <Relation id="RL5" type="Hypothetical" arg1="M45" arg2="M44" />
+    <Relation id="RL6" type="Hypothetical" arg1="M47" arg2="M46" />
+    <Relation id="RL7" type="Hypothetical" arg1="M48" arg2="M46" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="ocular irritation">
+      <Normalization id="AR1.N1" meddra_pt="Eye irritation" meddra_pt_id="10015946" />
+    </Reaction>
+    <Reaction id="AR2" str="application site irritation">
+      <Normalization id="AR2.N1" meddra_pt="Application site irritation" meddra_pt_id="10003046" />
+    </Reaction>
+    <Reaction id="AR3" str="application site anesthesia">
+      <Normalization id="AR3.N1" meddra_pt="Application site anaesthesia" meddra_pt_id="10003033" meddra_llt="Application site anesthesia" meddra_llt_id="10003034" />
+    </Reaction>
+    <Reaction id="AR4" str="application site hypoesthesia">
+      <Normalization id="AR4.N1" meddra_pt="Application site hypoaesthesia" meddra_pt_id="10074585" meddra_llt="Application site hypoesthesia" meddra_llt_id="10074589" />
+    </Reaction>
+    <Reaction id="AR5" str="pain">
+      <Normalization id="AR5.N1" meddra_pt="Pain" meddra_pt_id="10033371" />
+    </Reaction>
+    <Reaction id="AR6" str="pruritus">
+      <Normalization id="AR6.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Reaction>
+    <Reaction id="AR7" str="erythema">
+      <Normalization id="AR7.N1" meddra_pt="Erythema" meddra_pt_id="10015150" />
+    </Reaction>
+    <Reaction id="AR8" str="pyoderma">
+      <Normalization id="AR8.N1" meddra_pt="Pyoderma" meddra_pt_id="10037632" />
+    </Reaction>
+    <Reaction id="AR9" str="application site dryness">
+      <Normalization id="AR9.N1" meddra_pt="Application site dryness" meddra_pt_id="10048943" />
+    </Reaction>
+    <Reaction id="AR10" str="application site excoriation">
+      <Normalization id="AR10.N1" meddra_pt="Application site erosion" meddra_pt_id="10065577" meddra_llt="Application site excoriation" meddra_llt_id="10059006" />
+    </Reaction>
+    <Reaction id="AR11" str="paraesthesia">
+      <Normalization id="AR11.N1" meddra_pt="Paraesthesia" meddra_pt_id="10033775" />
+    </Reaction>
+    <Reaction id="AR12" str="application site dermatitis">
+      <Normalization id="AR12.N1" meddra_pt="Application site dermatitis" meddra_pt_id="10003036" />
+    </Reaction>
+    <Reaction id="AR13" str="excoriation">
+      <Normalization id="AR13.N1" meddra_pt="Excoriation" meddra_pt_id="10049796" />
+    </Reaction>
+    <Reaction id="AR14" str="thermal burn">
+      <Normalization id="AR14.N1" meddra_pt="Thermal burn" meddra_pt_id="10053615" />
+    </Reaction>
+    <Reaction id="AR15" str="dandruff">
+      <Normalization id="AR15.N1" meddra_pt="Dandruff" meddra_pt_id="10011859" />
+    </Reaction>
+    <Reaction id="AR16" str="rash">
+      <Normalization id="AR16.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR17" str="skin exfoliation">
+      <Normalization id="AR17.N1" meddra_pt="Skin exfoliation" meddra_pt_id="10040844" />
+    </Reaction>
+    <Reaction id="AR18" str="neonatal toxicity">
+      <Normalization id="AR18.N1" flag="unmapped" />
+    </Reaction>
+    <Reaction id="AR19" str="gasping syndrome">
+      <Normalization id="AR19.N1" meddra_pt="Gasping syndrome" meddra_pt_id="10069162" />
+    </Reaction>
+    <Reaction id="AR20" str="eye irritation">
+      <Normalization id="AR20.N1" meddra_pt="Eye irritation" meddra_pt_id="10015946" />
+    </Reaction>
+    <Reaction id="AR21" str="contact dermatitis">
+      <Normalization id="AR21.N1" meddra_pt="Dermatitis contact" meddra_pt_id="10012442" meddra_llt="Contact dermatitis" meddra_llt_id="10010790" />
+    </Reaction>
+    <Reaction id="AR22" str="neonatal gasping syndrome">
+      <Normalization id="AR22.N1" meddra_pt="Gasping syndrome" meddra_pt_id="10069162" />
+    </Reaction>
+    <Reaction id="AR23" str="metabolic acidosis">
+      <Normalization id="AR23.N1" meddra_pt="Metabolic acidosis" meddra_pt_id="10027417" />
+    </Reaction>
+    <Reaction id="AR24" str="gasping respirations">
+      <Normalization id="AR24.N1" meddra_pt="Dyspnoea" meddra_pt_id="10013968" meddra_llt="Gasping" meddra_llt_id="10017745" />
+    </Reaction>
+    <Reaction id="AR25" str="progressive hypotension">
+      <Normalization id="AR25.N1" meddra_pt="Hypotension" meddra_pt_id="10021097" meddra_llt="Hypotension aggravated" meddra_llt_id="10048348" />
+    </Reaction>
+    <Reaction id="AR26" str="seizures">
+      <Normalization id="AR26.N1" meddra_pt="Seizure" meddra_pt_id="10039906" meddra_llt="Seizures" meddra_llt_id="10039910" />
+    </Reaction>
+    <Reaction id="AR27" str="central nervous system depression">
+      <Normalization id="AR27.N1" meddra_pt="Depressed level of consciousness" meddra_pt_id="10012373" meddra_llt="Depression central nervous system" meddra_llt_id="10012383" />
+    </Reaction>
+    <Reaction id="AR28" str="intraventricular hemorrhage">
+      <Normalization id="AR28.N1" meddra_pt="Intraventricular haemorrhage" meddra_pt_id="10022840" meddra_llt="Intraventricular hemorrhage" meddra_llt_id="10055299" />
+    </Reaction>
+    <Reaction id="AR29" str="death">
+      <Normalization id="AR29.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR30" str="allergic dermatitis">
+      <Normalization id="AR30.N1" meddra_pt="Dermatitis allergic" meddra_pt_id="10012434" meddra_llt="Allergic dermatitis" meddra_llt_id="10001711" />
+    </Reaction>
+    <Reaction id="AR31" str="irritant dermatitis">
+      <Normalization id="AR31.N1" meddra_pt="Dermatitis contact" meddra_pt_id="10012442" meddra_llt="Dermatitis irritant contact" meddra_llt_id="10056540" />
+    </Reaction>
+  </Reactions>
+</Label>

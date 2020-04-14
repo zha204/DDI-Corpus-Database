@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="canasa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+     Clinical Adverse Experience The most frequent adverse reactions observed in the double-blind, placebo-controlled trials are summarized in the Table below.
+
+
+
+       ADVERSE REACTIONS OCCURRING IN MORE THAN 1% OF MESALAMINE SUPPOSITORY TREATED PATIENTS (COMPARISON TO PLACEBO) 
+   Symptom               Mesalamine  (n=177)    Placebo  (n=84)      
+ N                     %                     N                     %                      
+ Dizziness             5                     3.0                   2                     2.4                    
+ Rectal Pain           3                     1.8                   0                     0.0                    
+ Fever                 2                     1.2                   0                     0.0                    
+ Rash                  2                     1.2                   0                     0.0                    
+ Acne                  2                     1.2                   0                     0.0                    
+ Colitis               2                     1.2                   0                     0.0                    
+           In the multicenter, open-label, randomized, parallel group study comparing the CANASA  (r)  1000 mg suppository (HS) to that of the CANASA  (r)  500 mg suppository (BID), there were no differences between the two treatment groups in the adverse event profile. The most frequent AEs were headache (14.4%), flatulence (5.2%), abdominal pain (5.2%), diarrhea (3.1%), and nausea (3.1%). Three (3) patients had to discontinue medication because of a treatment emergent AE; one of these AEs (headache) was deemed possibly related to study medication.
+ 
+
+ In addition to the events observed in the clinical trials, the following adverse events have been associated with mesalamine containing products: nephrotoxicity, pancreatitis, fibrosing alveolitis and elevated liver enzymes. Cases of pancreatitis and fibrosing alveolitis have been reported as manifestations of inflammatory bowel disease as well.
+
+
+
+        Hair Loss Mild hair loss characterized by "more hair in the comb" but no withdrawal from clinical trials has been observed in seven of 815 mesalamine patients but none of the placebo-treated patients. In the literature there are at least six additional patients with mild hair loss who received either mesalamine or sulfasalazine. Retreatment is not always associated with repeated hair loss.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d537">
+    <sentence id="DDI-DrugBank.d537.s0" text="Bentiromide may interact with acetaminophen (e.g., Tylenol), chloramphenicol (e.g., Chloromycetin), local anesthetics (e.g., benzocaine and lidocaine), para-aminobenzoic acid (PABA)-containing preparations (e.g., sunscreens and some multivitamins), procainamide (e.g., Pronestyl), sulfonamides (sulfa medicines), thiazide diuretics (use of these medicines during the test period will affect the test results), and pancreatic supplements (use of pancreatic supplements may give false test results).">
+        <entity id="DDI-DrugBank.d537.s0.e0" charOffset="0-10"
+            type="drug" text="Bentiromide"/>
+        <entity id="DDI-DrugBank.d537.s0.e1" charOffset="30-42"
+            type="drug" text="acetaminophen"/>
+        <entity id="DDI-DrugBank.d537.s0.e2" charOffset="51-57"
+            type="brand" text="Tylenol"/>
+        <entity id="DDI-DrugBank.d537.s0.e3" charOffset="61-75"
+            type="drug" text="chloramphenicol"/>
+        <entity id="DDI-DrugBank.d537.s0.e4" charOffset="84-96"
+            type="brand" text="Chloromycetin"/>
+        <entity id="DDI-DrugBank.d537.s0.e5" charOffset="106-116"
+            type="group" text="anesthetics"/>
+        <entity id="DDI-DrugBank.d537.s0.e6" charOffset="125-134"
+            type="drug" text="benzocaine"/>
+        <entity id="DDI-DrugBank.d537.s0.e7" charOffset="140-148"
+            type="drug" text="lidocaine"/>
+        <entity id="DDI-DrugBank.d537.s0.e8" charOffset="152-173"
+            type="drug_n" text="para-aminobenzoic acid"/>
+        <entity id="DDI-DrugBank.d537.s0.e9" charOffset="176-179"
+            type="drug_n" text="PABA"/>
+        <entity id="DDI-DrugBank.d537.s0.e10" charOffset="233-245"
+            type="group" text="multivitamins"/>
+        <entity id="DDI-DrugBank.d537.s0.e11" charOffset="249-260"
+            type="drug" text="procainamide"/>
+        <entity id="DDI-DrugBank.d537.s0.e12" charOffset="269-277"
+            type="brand" text="Pronestyl"/>
+        <entity id="DDI-DrugBank.d537.s0.e13" charOffset="281-292"
+            type="group" text="sulfonamides"/>
+        <entity id="DDI-DrugBank.d537.s0.e14" charOffset="313-330"
+            type="group" text="thiazide diuretics"/>
+        <ddi id="DDI-DrugBank.d537.s0.d0" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e1" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d1" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d2" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e3" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d3" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e4" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d4" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e5" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d5" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e6" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d6" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e7" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d7" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e8" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d8" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e9" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d9" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e10" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d10" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e11" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d11" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e12" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d12" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e13" type="int"/>
+        <ddi id="DDI-DrugBank.d537.s0.d13" e1="DDI-DrugBank.d537.s0.e0"
+            e2="DDI-DrugBank.d537.s0.e14" type="int"/>
+    </sentence>
+</document>

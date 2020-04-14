@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="velphoro" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *  In a parallel design, fixed-dose study of 6 weeks duration, the most common adverse drug reactions to Velphoro chewable tablets in hemodialysis patients included discolored feces (12%) and diarrhea (6%). (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Medical Care North America at 1-800-323-5188 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety data derived from Velphoro clinical trials reflect exposure to Velphoro in 2 active-controlled clinical studies involving a total of 778 patients on hemodialysis and 57 patients on peritoneal dialysis exposed for up to 55 weeks. Dosage regimens ranged from 250 mg to 3,000 mg per day.
+
+
+
+ As expected with oral preparations containing iron, discolored (dark colored) feces was a commonly occurring adverse drug reaction.
+
+
+
+ In a parallel design, dose-finding study of Velphoro with a treatment duration of 6 weeks in hemodialysis patients, adverse reactions for Velphoro (N=128) were similar to those reported for the active-control group (sevelamer hydrochloride) (N=26), with the exception of discolored feces (12%) which did not occur in the active-control group and diarrhea (6%).
+
+
+
+ In a 55-week, open-label, active-controlled, parallel design, safety and efficacy study involving 968 hemodialysis patients and 86 peritoneal dialysis patients treated with either Velphoro (N=707 including 57 peritoneal dialysis patients) or the active-control (sevelamer carbonate) (N=348 including 29 peritoneal dialysis patients), adverse reactions occurring in more than 5% in the Velphoro group were diarrhea (24%), discolored feces (16%), and nausea (10%). The majority of diarrhea events in the Velphoro group were mild and transient, occurring soon after initiation of treatment, and resolving with continued treatment. Similar adverse reactions occurred at similar rates in hemodialysis and peritoneal dialysis patients. The most common adverse reactions (&gt;1%) leading to withdrawal were diarrhea (4%), product taste abnormal (2%), and nausea (2%).
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Patients with peritonitis during peritoneal dialysis, significant gastric or hepatic disorders, following major gastrointestinal surgery, or with a history of hemochromatosis or other diseases with iron accumulation have not been included in clinical studies with Velphoro. Monitor effect and iron homeostasis in such patients. (  5.1  ) 
+    
+ 
+
+   5.1 Monitoring in Patients with Gastrointestinal Disorders or Iron Accumulation Disorders
+
+
+
+  Patients with peritonitis during peritoneal dialysis, significant gastric or hepatic disorders, following major gastrointestinal (GI) surgery, or with a history of hemochromatosis or other diseases with iron accumulation have not been included in clinical studies with Velphoro. Monitor effect and iron homeostasis in such patients.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

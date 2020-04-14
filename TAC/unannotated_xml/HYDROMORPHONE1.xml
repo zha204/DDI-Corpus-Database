@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hydromorphone1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  The major hazards of Hydromorphone Hydrochloride Tablets include respiratory depression and apnea. To a lesser degree, circulatory depression, respiratory arrest, shock and cardiac arrest have occurred.
+
+
+
+ The most frequently observed adverse effects are light-headedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus. These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
+
+
+
+     Less Frequently Observed Adverse Reactions  
+
+  General and CNS
+
+  Weakness, headache, agitation, tremor, uncoordinated muscle movements, alterations of mood (nervousness, apprehension, depression, floating feelings, dreams), muscle rigidity, paresthesia, muscle tremor, blurred vision, nystagmus, diplopia and miosis, transient hallucinations and disorientation, visual disturbances, insomnia, increased intracranial pressure
+
+
+
+   Cardiovascular
+
+  Flushing of the face, chills, tachycardia, bradycardia, palpitation, faintness, syncope, hypotension, hypertension
+
+
+
+   Respiratory
+
+  Bronchospasm and laryngospasm
+
+
+
+   Gastrointestinal
+
+  Constipation, biliary tract spasm, ileus, anorexia, diarrhea, cramps, taste alteration
+
+
+
+   Genitourinary
+
+  Urinary retention or hesitancy, antidiuretic effects
+
+
+
+   Dermatologic
+
+  Urticaria, other skin rashes, diaphoresis
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+    WARNING: HYDROMORPHONE HYDROCHLORIDE TABLETS CONTAIN HYDROMORPHONE, WHICH IS A POTENT SCHEDULE II CONTROLLED OPIOID AGONIST. SCHEDULE II OPIOID AGONISTS, INCLUDING MORPHINE, OXYMORPHONE, OXYCODONE, FENTANYL, AND METHADONE, HAVE THE HIGHEST POTENTIAL FOR ABUSE AND RISK OF PRODUCING RESPIRATORY DEPRESSION. ALCOHOL, OTHER OPIOIDS AND CENTRAL NERVOUS SYSTEM DEPRESSANTS (SEDATIVE-HYPNOTICS) POTENTIATE THE RESPIRATORY DEPRESSANT EFFECTS OF HYDROMORPHONE, INCREASING THE RISK OF RESPIRATORY DEPRESSION THAT MIGHT RESULT IN DEATH.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

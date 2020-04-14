@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="arestin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently reported nondental treatment-emergent adverse events in the 3 multicenter US trials were headache, infection, flu syndrome, and pain.
+
+
+
+ Table 5: Adverse Events (AEs) Reported in &gt;=3% of the Combined Clinical Trial Population of 3 Multicenter US Trials by Treatment Group 
+                                      SRP    Alone    N=250      SRP +    Vehicle    N=249      SRP +    ARESTIN  (r)      N=423     
+  
+  Number (%) of Patients Treatment-emergent AEs    62.4%              71.9%              68.1%               
+  Total Number of AEs                543                589                987                 
+    Periodontitis                    25.6%              28.1%              16.3%               
+    Tooth Disorder                   12.0%              13.7%              12.3%               
+    Tooth Caries                     9.2%               11.2%              9.9%                
+    Dental Pain                      8.8%               8.8%               9.9%                
+    Gingivitis                       7.2%               8.8%               9.2%                
+    Headache                         7.2%               11.6%              9.0%                
+    Infection                        8.0%               9.6%               7.6%                
+    Stomatitis                       8.4%               6.8%               6.4%                
+    Mouth Ulceration                 1.6%               3.2%               5.0%                
+    Flu Syndrome                     3.2%               6.4%               5.0%                
+    Pharyngitis                      3.2%               1.6%               4.3%                
+    Pain                             4.0%               1.2%               4.3%                
+    Dyspepsia                        2.0%               0                  4.0%                
+    Infection Dental                 4.0%               3.6%               3.8%                
+    Mucous Membrane Disorder         2.4%               0.8%               3.3%                
+          The change in clinical attachment levels was similar across all study arms, suggesting that neither the vehicle nor ARESTIN  (r)  compromise clinical attachment.  To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

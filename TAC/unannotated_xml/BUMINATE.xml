@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="buminate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse Reactions from Clinical Trials
+
+  There are no data available on adverse reactions from Baxter-sponsored clinical trials conducted with BUMINATE 25%.
+
+
+
+   Post-Marketing Adverse Reactions  
+
+
+
+ The following adverse reactions have been reported in the post-marketing experience.
+
+
+
+   Immune System Disorders  : Anaphylactic shock, anaphylactic reaction, hypersensitivity/allergic reactions
+
+
+
+   Nervous System Disorders  : Headache,dysgeusia
+
+
+
+   Cardiac Disorders  : Myocardial infarction, atrial fibrillation, tachycardia
+
+
+
+   Vascular Disorders  : Hypotension, flushing
+
+
+
+   Respiratory, Thoracic, and Mediastinal Disorders  : Pulmonary edema, dyspnea
+
+
+
+   Gastrointestinal Disorders  : Vomiting, nausea
+
+
+
+   Skin and Subcutaneous Tissue Disorders  : Urticaria, rash, pruritus
+
+
+
+   General Disorders and Administration Site Conditions  : Pyrexia, chills
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

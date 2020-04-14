@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="teniposide" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The table below presents the incidences of adverse reactions derived from an analysis of data contained within literature reports of 7 studies involving 303 pediatric patients in which teniposide was administered by injection as a single agent in a variety of doses and schedules for a variety of hematologic malignancies and solid tumors. The total number of patients evaluable for a given event was not 303 since the individual studies did not address the occurrence of each event listed. Five of these 7 studies assessed teniposide activity in hematologic malignancies, such as leukemia. Thus, many of these patients had abnormal hematologic status at start of therapy with teniposide and were expected to develop significant myelosuppression as an endpoint of treatment.
+
+
+
+ Single-Agent VUMON Summary of Toxicity for All Evaluable Pediatric Patients 
+  Toxicity                                  Incidence inEvaluable Patients(%)    
+  Hematologic Toxicity                                             
+     Myelosuppression, nonspecified         75                     
+     Leukopenia (&lt;3,000 WBC/mcL)            89                     
+     Neutropenia (&lt;2,000 ANC/mcL)           95                     
+     Thrombocytopenia (&lt;100,000 plt/mcL)    85                     
+     Anemia                                 88                     
+  Non-Hematologic Toxicity                                         
+     Mucositis                              76                     
+     Diarrhea                               33                     
+     Nausea/vomiting                        29                     
+     Infection                              12                     
+     Alopecia                               9                      
+     Bleeding                               5                      
+     Hypersensitivity reactions             5                      
+     Rash                                   3                      
+     Fever                                  3                      
+     Hypotension/Cardiovascular             2                      
+     Neurotoxicity                          &lt;1                     
+     Hepatic dysfunction                    &lt;1                     
+     Renal dysfunction                      &lt;1                     
+     Metabolic abnormalities                &lt;1                     
+          Hematologic Toxicity
+   Teniposide, when used with other chemotherapeutic agents for the treatment of ALL, results in severe myelosuppression. Sepsis, sometimes fatal, may be a consequence of severe myelosuppression. Early onset of profound myelosuppression with delayed recovery can be expected when using the doses and schedules of teniposide necessary for treatment of refractory ALL, since bone marrow hypoplasia is a desired endpoint of therapy. The occurrence of acute non-lymphocytic leukemia (ANLL), with or without a preleukemic phase, has been reported in patients treated with teniposide in combination with other antineoplastic agents. (See  PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility.  )
+
+
+
+   Gastrointestinal Toxicity
+
+  Nausea and vomiting are the most common gastrointestinal toxicities, having occurred in 29% of evaluable pediatric patients. The severity of this nausea and vomiting is generally mild to moderate.
+
+
+
+   Hypotension
+
+  Transient hypotension following rapid intravenous administration has been reported in 2% of evaluable pediatric patients. One episode of sudden death, attributed to probable arrhythmia and intractable hypotension, has been reported in an elderly patient receiving teniposide combination therapy for a non-leukemic malignancy.
+
+
+
+ No other cardiac toxicity or electrocardiographic changes have been documented. No delayed hypotension has been noted.
+
+
+
+   Allergic Reactions
+
+  Hypersensitivity reactions characterized by chills, fever, tachycardia, flushing, bronchospasm, dyspnea, rash, and blood pressure changes (hypertension or hypotension) have been reported to occur in approximately 5% of evaluable pediatric patients receiving intravenous teniposide. The incidence of hypersensitivity reactions to teniposide appears to be increased in patients with brain tumors and in patients with neuroblastoma.
+
+
+
+   Central Nervous System
+
+    Neurotoxicity has been reported, including severe cases of neuropathy, in patients receiving vincristine sulfate and teniposide concomitantly.  
+
+
+
+ Acute central nervous system depression and hypotension have been observed in patients receiving investigational infusions of high-dose teniposide who were pretreated with antiemetic drugs. The depressant effects of the antiemetic agents and the alcohol content of the teniposide formulation may place patients receiving higher than recommended doses of teniposide at risk for central nervous system depression.
+
+
+
+   Alopecia
+
+  Alopecia, sometimes progressing to total baldness, was observed in 9% of evaluable pediatric patients who received teniposide as single-agent therapy. It was usually reversible.
+
+
+
+   Other Adverse Reactions
+
+  The following adverse reactions have been reported: headache, confusion, and asthenia. Headache and confusion were associated with hypersensitivity reactions.
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  Rx only
+
+
+
+   
+
+    WARNING  
+
+
+
+ Teniposide injection is a cytotoxic drug which should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Appropriate management of therapy and complications is possible only when adequate treatment facilities are readily available.
+
+
+
+ Severe myelosuppression with resulting infection or bleeding may occur. Hypersensitivity reactions, including anaphylaxis-like symptoms, may occur with initial dosing or at repeated exposure to teniposide injection. Epinephrine, with or without corticosteroids and antihistamines, has been employed to alleviate hypersensitivity reaction symptoms.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

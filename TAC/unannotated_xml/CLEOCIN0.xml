@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cleocin0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following reactions have been reported with the use of clindamycin.
+
+
+
+   Gastrointestinal
+
+  Antibiotic-associated colitis (see    WARNINGS    ), pseudomembranous colitis, abdominal pain, nausea, and vomiting. The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see    WARNINGS    ). An unpleasant or metallic taste occasionally has been reported after intravenous administration of the higher doses of clindamycin phosphate.
+
+
+
+   Hypersensitivity Reactions
+
+  Maculopapular rash and urticaria have been observed during drug therapy. Generalized mild to moderate morbilliform-like skin rashes are the most frequently reported of all adverse reactions.
+
+
+
+ Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (See    WARNINGS    ). Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin. Anaphylactoid reactions have also been reported. If a hypersensitivity reaction occurs, the drug should be discontinued. The usual agents (epinephrine, corticosteroids, antihistamines) should be available for emergency treatment of serious reactions.
+
+
+
+   Skin and Mucous Membranes
+
+  Pruritus, vaginitis, and rare instances of exfoliative dermatitis have been reported (see    Hypersensitivity Reactions    ).
+
+
+
+   Liver
+
+  Jaundice and abnormalities in liver function tests have been observed during clindamycin therapy.
+
+
+
+   Renal
+
+  Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
+
+
+
+   Hematopoietic
+
+  Transient neutropenia (leukopenia) and eosinophilia have been reported. Reports of agranulocytosis and thrombocytopenia have been made. No direct etiologic relationship to concurrent clindamycin therapy could be made in any of the foregoing.
+
+
+
+   Immune system
+
+  Drug reaction with eosinophilia and systemic symptoms (DRESS) cases have been reported.
+
+
+
+   Local Reactions
+
+  Injection site irritation, pain, induration and sterile abscess have been reported after intramuscular injection and thrombophlebitis after intravenous infusion. Reactions can be minimized or avoided by giving deep intramuscular injections and avoiding prolonged use of indwelling intravenous catheters.
+
+
+
+   Musculoskeletal
+
+  Polyarthritis cases have been reported.
+
+
+
+   Cardiovascular
+
+  Cardiopulmonary arrest and hypotension have been reported following too rapid intravenous administration. (See    DOSAGE AND ADMINISTRATION    section.)
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+    WARNING  
+
+    Clostridium difficile   associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PHOSPHATE and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of   C. difficile  .
+
+
+
+ Because CLEOCIN PHOSPHATE therapy has been associated with severe colitis which may end fatally, it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate, as described in the   INDICATIONS AND USAGE   section. It should not be used in patients with nonbacterial infections such as most upper respiratory tract infections.   C. difficile   produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of   C. difficile   cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+
+
+ If CDAD is suspected or confirmed, ongoing antibiotic use not directed against   C. difficile   may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of   C. difficile  , and surgical evaluation should be instituted as clinically indicated.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

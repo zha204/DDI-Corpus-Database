@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tyvaso" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following potential adverse reactions are described in  Warnings and Precautions (5)  :
+
+
+
+ *  -  Decrease in systemic blood pressure [see  Warnings and Precautions (5.2)  ].  
+ *  -  Bleeding [ see  Warnings and Precautions (5.4)  ].  
+      EXCERPT:   Most common adverse reactions (&gt;= 10%) are cough, headache, nausea, dizziness, flushing, throat irritation, pharyngolaryngeal pain and diarrhea. (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact United Therapeutics Corp. at 1-877-UNITHER (1-877-864-8437) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Adverse Reactions Identified in Clinical Trials
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In a 12-week placebo-controlled study (TRIUMPH I) of 235 patients with PAH (WHO Group 1 and nearly all NYHA Functional Class III), the most commonly reported adverse reactions on Tyvaso included: cough and throat irritation; headache, gastrointestinal effects, muscle, jaw or bone pain, flushing and syncope. Table 1 lists the adverse reactions that occurred at a rate of at least 4% and were more frequent in patients treated with Tyvaso than with placebo.
+
+
+
+ Table 1: Adverse Events in &gt;= 4% of PAH Patients Receiving Tyvaso and More FrequentMore than 3% greater than placebo than Placebo 
+                   Adverse Event                          Treatmentn (%)         
+                   Tyvason = 115                          Placebon = 120         
+  
+                       Cough                                  62 (54)                    35 (29)            
+                      Headache                                47 (41)                    27 (23)            
+     Throat Irritation / Pharyngolaryngeal Pain               29 (25)                    17 (14)            
+                       Nausea                                 22 (19)                    13 (11)            
+                      Flushing                                17 (15)                    1 (&lt;1)             
+                      Syncope                                  7 (6)                     1 (&lt;1)             
+         The safety of Tyvaso was also studied in a long-term, open-label extension study in which 206 patients were dosed for a mean duration of 2.3 years, with a maximum exposure of 5.4 years. Eighty-nine (89%) percent of patients achieved the target dose of nine breaths, four times daily. Forty-two (42%) percent achieved a dose of 12 breaths four times daily. The adverse events during this chronic dosing study were qualitatively similar to those observed in the 12-week placebo controlled trial.
+ 
+
+   
+
+    Adverse Events Associated with Route of Administration  
+
+
+
+ Adverse events in the treated group during the double-blind and open-label phase reflecting irritation to the respiratory tract included: cough, throat irritation, pharyngeal pain, epistaxis, hemoptysis and wheezing. Serious adverse events during the open-label portion of the study included pneumonia in fifteen subjects. There were three serious episodes of hemoptysis (one fatal) noted during the open-label experience.
+
+
+
+   6.2 Adverse Reactions Identified in Post-Marketing Experience
+
+  The following adverse reaction has been identified during the postapproval use of Tyvaso. Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure:
+
+
+
+ Angioedema.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Safety and efficacy have not been established in patients with significant underlying lung disease (such as asthma or chronic obstructive pulmonary disease). (  5.1  ) 
+ *  In patients with low systemic arterial pressure, Tyvaso may cause symptomatic hypotension. (  5.2  ) 
+ *  Tyvaso may increase the risk of bleeding, particularly in patients receiving anticoagulants. (  5.4  ,  7.2  ) 
+ *  Tyvaso dosage adjustments may be necessary if inhibitors or inducers of CYP2C8 are added or withdrawn. (  5.5  ,  7.5  ) 
+ *  Hepatic or renal insufficiency may increase exposure and decrease tolerability. (  2.2  ,  2.3  ,  5.3  ) 
+    
+ 
+
+   5.1 Patients with Pulmonary Disease or Pulmonary Infections
+
+
+
+  The safety and efficacy of Tyvaso have not been established in patients with significant underlying lung disease (e.g., asthma or chronic obstructive pulmonary disease). Patients with acute pulmonary infections should be carefully monitored to detect any worsening of lung disease and loss of drug effect.
+
+
+
+    5.2 Risk of Symptomatic Hypotension
+
+
+
+  Treprostinil is a pulmonary and systemic vasodilator. In patients with low systemic arterial pressure, treatment with Tyvaso may produce symptomatic hypotension.
+
+
+
+    5.3 Patients with Hepatic or Renal Insufficiency
+
+
+
+  Titrate slowly in patients with hepatic or renal insufficiency, because such patients will likely be exposed to greater systemic concentrations relative to patients with normal hepatic or renal function [see  Dosage and Administration (2.2  ,  2.3)  ,  Use in Specific Populations (8.6  ,  8.7)  and  Clinical Pharmacology (12.3)  ].  
+
+
+
+    5.4 Risk of Bleeding
+
+
+
+  Since Tyvaso inhibits platelet aggregation, there may be an increased risk of bleeding, particularly among patients receiving anticoagulant therapy.
+
+
+
+    5.5 Effect of Other Drugs on Treprostinil
+
+
+
+  Co-administration of a cytochrome P450 (CYP) 2C8 enzyme inhibitor (e.g., gemfibrozil) may increase exposure (both Cmaxand AUC) to treprostinil. Co-administration of a CYP2C8 enzyme inducer (e.g., rifampin) may decrease exposure to treprostinil. Increased exposure is likely to increase adverse events associated with treprostinil administration, whereas decreased exposure is likely to reduce clinical effectiveness [see  Drug Interactions (7.5)  and  Clinical Pharmacology (12.3)  ].  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

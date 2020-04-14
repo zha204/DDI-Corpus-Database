@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d267">
+    <sentence id="DDI-DrugBank.d267.s0" text="Prior administration of succinylcholine has no clinically important effect on the neuromuscular blocking action of NUROMAX.">
+        <entity id="DDI-DrugBank.d267.s0.e0" charOffset="24-38"
+            type="drug" text="succinylcholine"/>
+        <entity id="DDI-DrugBank.d267.s0.e1" charOffset="115-121"
+            type="brand" text="NUROMAX"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s1" text="The use of NUROMAX before succinylcholine to attenuate some of the side effects of succinylcholine has not been studied.">
+        <entity id="DDI-DrugBank.d267.s1.e0" charOffset="11-17"
+            type="brand" text="NUROMAX"/>
+        <entity id="DDI-DrugBank.d267.s1.e1" charOffset="26-40"
+            type="drug" text="succinylcholine"/>
+        <entity id="DDI-DrugBank.d267.s1.e2" charOffset="83-97"
+            type="drug" text="succinylcholine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s2" text="There are no clinical data on concomitant use of NUROMAX and other nondepolarizing neuromuscular blocking agents.">
+        <entity id="DDI-DrugBank.d267.s2.e0" charOffset="49-55"
+            type="brand" text="NUROMAX"/>
+        <entity id="DDI-DrugBank.d267.s2.e1" charOffset="83-111"
+            type="group" text="neuromuscular blocking agents"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s3" text="Isoflurane, enflurane, and halothane decrease the ED50 of NUROMAX by 30% to 45%.">
+        <entity id="DDI-DrugBank.d267.s3.e0" charOffset="0-9"
+            type="drug" text="Isoflurane"/>
+        <entity id="DDI-DrugBank.d267.s3.e1" charOffset="12-20"
+            type="drug" text="enflurane"/>
+        <entity id="DDI-DrugBank.d267.s3.e2" charOffset="27-35"
+            type="drug" text="halothane"/>
+        <entity id="DDI-DrugBank.d267.s3.e3" charOffset="58-64"
+            type="brand" text="NUROMAX"/>
+        <ddi id="DDI-DrugBank.d267.s3.d0" e1="DDI-DrugBank.d267.s3.e0"
+            e2="DDI-DrugBank.d267.s3.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d267.s3.d1" e1="DDI-DrugBank.d267.s3.e1"
+            e2="DDI-DrugBank.d267.s3.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d267.s3.d2" e1="DDI-DrugBank.d267.s3.e2"
+            e2="DDI-DrugBank.d267.s3.e3" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s4" text="These agents may also prolong the clinically effective duration of action by up to 25%."/>
+    <sentence id="DDI-DrugBank.d267.s5" text="Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as NUROMAX include certain antibiotics (e. g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.">
+        <entity id="DDI-DrugBank.d267.s5.e0" charOffset="98-104"
+            type="brand" text="NUROMAX"/>
+        <entity id="DDI-DrugBank.d267.s5.e1" charOffset="122-132"
+            type="group" text="antibiotics"/>
+        <entity id="DDI-DrugBank.d267.s5.e2" charOffset="142-156"
+            type="group" text="aminoglycosides"/>
+        <entity id="DDI-DrugBank.d267.s5.e3" charOffset="159-171"
+            type="group" text="tetracyclines"/>
+        <entity id="DDI-DrugBank.d267.s5.e4" charOffset="174-183"
+            type="group" text="bacitracin"/>
+        <entity id="DDI-DrugBank.d267.s5.e5" charOffset="186-195"
+            type="group" text="polymyxins"/>
+        <entity id="DDI-DrugBank.d267.s5.e6" charOffset="198-207"
+            type="drug" text="lincomycin"/>
+        <entity id="DDI-DrugBank.d267.s5.e7" charOffset="210-220"
+            type="drug" text="clindamycin"/>
+        <entity id="DDI-DrugBank.d267.s5.e8" charOffset="223-230"
+            type="drug" text="colistin"/>
+        <entity id="DDI-DrugBank.d267.s5.e9" charOffset="237-257"
+            type="drug" text="sodium colistimethate"/>
+        <entity id="DDI-DrugBank.d267.s5.e10" charOffset="261-269"
+            type="drug" text="magnesium"/>
+        <entity id="DDI-DrugBank.d267.s5.e11" charOffset="278-284"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d267.s5.e12" charOffset="293-303"
+            type="group" text="anesthetics"/>
+        <entity id="DDI-DrugBank.d267.s5.e13" charOffset="306-317"
+            type="drug" text="procainamide"/>
+        <entity id="DDI-DrugBank.d267.s5.e14" charOffset="324-332"
+            type="drug" text="quinidine"/>
+        <ddi id="DDI-DrugBank.d267.s5.d0" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d1" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d2" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d3" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d4" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d5" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d6" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d7" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d8" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e9" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d9" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e10" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d10" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e11" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d11" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e12" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d12" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e13" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s5.d13" e1="DDI-DrugBank.d267.s5.e0"
+            e2="DDI-DrugBank.d267.s5.e14" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s6" text="As with some other nondepolarizing neuromuscular blocking agents, the time of onset of neuromuscular block induced by NUROMAX is lengthened and the duration of block is shortened in patients receiving phenytoin or carbamazepine.">
+        <entity id="DDI-DrugBank.d267.s6.e0" charOffset="19-63"
+            type="group" text="nondepolarizing neuromuscular blocking agents"/>
+        <entity id="DDI-DrugBank.d267.s6.e1" charOffset="118-124"
+            type="brand" text="NUROMAX"/>
+        <entity id="DDI-DrugBank.d267.s6.e2" charOffset="201-209"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d267.s6.e3" charOffset="214-226"
+            type="drug" text="carbamazepine"/>
+        <ddi id="DDI-DrugBank.d267.s6.d0" e1="DDI-DrugBank.d267.s6.e0"
+            e2="DDI-DrugBank.d267.s6.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s6.d1" e1="DDI-DrugBank.d267.s6.e0"
+            e2="DDI-DrugBank.d267.s6.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s6.d2" e1="DDI-DrugBank.d267.s6.e1"
+            e2="DDI-DrugBank.d267.s6.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d267.s6.d3" e1="DDI-DrugBank.d267.s6.e1"
+            e2="DDI-DrugBank.d267.s6.e3" type="effect"/>
+    </sentence>
+</document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="zomacton" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been observed during appropriate use of somatropin: headaches (children and adults), gynecomastia (children) and pancreatitis (children and adults). See    WARNINGS    section.
+
+
+
+ As with all therapeutic proteins, there is potential for immunogenicity. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influences by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to ZOMACTON with the incidence of antibodies to other products may be misleading. With respect to growth hormone, antibody binding capacities below 2 mg/L have not been associated with growth attenuation. In some cases, when binding capacity exceeds 2 mg/L, growth attenuation has been observed.
+
+
+
+ None of the patients with anti-GH antibodies in the clinical studies experienced decreased linear growth response to ZOMACTON or any other associated adverse event. Injection site reactions (e.g., pain, bruise) occurred in 8 of the 164 treated patients.
+
+
+
+ Leukemia has been reported in a small number of patients treated with other growth hormone products. It is uncertain whether this risk is related to the pathology of growth hormone deficiency itself, growth hormone therapy, or other associated treatments such as radiation therapy for intracranial tumors.
+
+
+
+ New-onset type 2 diabetes mellitus has been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

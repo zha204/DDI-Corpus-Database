@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dermatop" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In controlled clinical studies, the incidence of adverse reactions associated with the use of DERMATOP Ointment 0.1% was approximately 1.5%. Reported reactions including burning, pruritis, drying, scaling, cracking and pain and irritant dermatitis.
+
+
+
+ The following additional local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings and especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae and miliaria.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

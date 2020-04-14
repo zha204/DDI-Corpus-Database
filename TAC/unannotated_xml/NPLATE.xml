@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nplate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (&gt;= 5% higher patient incidence in Nplate versus placebo) are arthralgia, dizziness, insomnia, myalgia, pain in extremity, abdominal pain, shoulder pain, dyspepsia, and paresthesia. Headache was the most commonly reported adverse reaction that did not occur at &gt;= 5% higher patient incidence in Nplate versus placebo. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amgen Inc. at 1-800-77-AMGEN (1-800-772-6436) or  FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .      
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Serious adverse reactions associated with Nplate in ITP clinical studies were bone marrow reticulin deposition and worsening thrombocytopenia after Nplate discontinuation [  see Warnings and Precautions (  5.3  ,  5.4  )  ].
+
+
+
+ The data described below reflect Nplate exposure to 271 patients with chronic ITP, aged 18 to 88, of whom 62% were female.  Nplate was studied in two randomized, placebo-controlled, double-blind studies that were identical in design, with the exception that Study 1 evaluated nonsplenectomized patients with ITP and Study 2 evaluated splenectomized patients with ITP.  Data are also reported from an open-label, single-arm study in which patients received Nplate over an extended period of time.  Overall, Nplate was administered to 114 patients for at least 52 weeks and 53 patients for at least 96 weeks.
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In the placebo-controlled studies, headache was the most commonly reported adverse drug reaction, occurring in 35% of patients receiving Nplate and 32% of patients receiving placebo. Headaches were usually of mild or moderate severity.  Table 2 presents adverse drug reactions from Studies 1 and 2 with a &gt;= 5% higher patient incidence in Nplate versus placebo. The majority of these adverse drug reactions were mild to moderate in severity.
+
+
+
+ Table 2. Adverse Drug Reactions Identified in Two Placebo-Controlled Studies 
+  Preferred Term    Nplate  (n = 84)     Placebo  (n = 41)    
+  Arthralgia       26%              20%              
+  Dizziness        17%              0%               
+  Insomnia         16%              7%               
+  Myalgia          14%              2%               
+  Pain in Extremity   13%              5%               
+  Abdominal Pain   11%              0%               
+  Shoulder Pain    8%               0%               
+  Dyspepsia        7%               0%               
+  Paresthesia      6%               0%               
+         Among 142 patients with chronic ITP who received Nplate in the single-arm extension study, the incidence rates of the adverse reactions occurred in a pattern similar to those reported in the placebo-controlled clinical studies.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of Nplate.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *  Erythromelalgia 
+ *  Hypersensitivity 
+ *  Angioedema 
+      6.3 Immunogenicity
+   As with all therapeutic proteins, patients may develop antibodies to the therapeutic protein.  Patients were screened for immunogenicity to romiplostim using a BIAcore-based biosensor immunoassay.  This assay is capable of detecting both high- and low-affinity binding antibodies that bind to romiplostim and cross-react with TPO.  The samples from patients that tested positive for binding antibodies were further evaluated for neutralizing capacity using a cell-based bioassay.
+
+
+
+ In clinical studies, the incidence of preexisting antibodies to romiplostim was 8% (43/537) and the incidence of binding antibody development during Nplate treatment was 6% (31/537).  The incidence of preexisting antibodies to endogenous TPO was 5% (29/537) and the incidence of binding antibody development to endogenous TPO during Nplate treatment was 4% (21/537).  Of the patients with positive binding antibodies that developed to romiplostim or to TPO, two (0.4%) patients had neutralizing activity to romiplostim and none had neutralizing activity to TPO.  No correlation was observed between antibody activity and clinical effectiveness or safety.
+
+
+
+ Immunogenicity assay results are highly dependent on the sensitivity and specificity of the assay used in detection and may be influenced by several factors, including sample handling, concomitant medications, and underlying disease. For these reasons, comparison of incidence of antibodies to romiplostim with the incidence of antibodies to other products may be misleading.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  In patients with MDS, Nplate increases blast cell counts and increases the risk of progression to acute myelogenous leukemia. (  5.1  ) 
+ *  Thrombotic/thromboembolic complications may result from increases in platelet counts with Nplate use. Portal vein thrombosis has been reported in patients with chronic liver disease receiving Nplate. Use with additional caution in ITP patients with chronic liver disease. (  5.2  ) 
+ *  Discontinuation of Nplate may result in worsened thrombocytopenia than was present prior to Nplate therapy. Monitor complete blood counts (CBCs), including platelet counts, for at least 2 weeks following Nplate discontinuation. (  5.4  ) 
+ *  If severe thrombocytopenia develops during Nplate treatment, assess patients for the formation of neutralizing antibodies. (  5.5  ) 
+    
+ 
+
+   5.1 Risk of Progression of Myelodysplastic Syndromes to Acute Myelogenous Leukemia
+
+
+
+  Progression from myelodysplastic syndromes (MDS) to acute myelogenous leukemia (AML) has been observed in clinical trials with Nplate.  A randomized, double-blind, placebo-controlled trial enrolling patients with severe thrombocytopenia and International Prognostic Scoring System (IPSS) low or intermediate-1 risk MDS was terminated due to more cases of AML observed in the Nplate treatment arm.  At the time of an interim analysis, among 219 MDS patients randomized 2:1 to treatment with Nplate or placebo (147 Nplate: 72 placebo), 11 patients showed progression to AML, including nine on the Nplate arm versus two on the placebo arm.  In addition, in peripheral blood counts, the percentage of circulating myeloblasts increased to greater than 10% in 28 patients, 25 of whom were in the romiplostim treatment arm.  Of the 28 patients who had an increase in circulating myeloblasts to greater than 10%, eight of these patients were diagnosed to have AML and 20 patients had not progressed to AML. In four patients, increased peripheral blood blast cell counts decreased to baseline after discontinuation of Nplate.  In a single-arm trial of Nplate given to 72 patients with thrombocytopenia related to MDS, eight (11%) patients were reported as having possible disease progression, and three patients had confirmation of AML during follow-up.  In addition, in three patients, increased peripheral blood blast cell counts decreased to baseline after discontinuation of Nplate.
+
+
+
+ Nplate is not indicated for the treatment of thrombocytopenia due to MDS or any cause of thrombocytopenia other than chronic ITP.
+
+
+
+    5.2 Thrombotic/Thromboembolic Complications
+
+
+
+  Thrombotic/thromboembolic complications may result from increases in platelet counts with Nplate use.  Portal vein thrombosis has been reported in patients with chronic liver disease receiving Nplate.  Nplate should be used with caution in patients with ITP and chronic liver disease.
+
+
+
+ To minimize the risk for thrombotic/thromboembolic complications, do not use Nplate in an attempt to normalize platelet counts. Follow the dose adjustment guidelines to achieve and maintain a platelet count of &gt;= 50 x 10  9  /L [ see Dosage and Administration (  2.1  )  ].
+
+
+
+    5.3 Bone Marrow Reticulin Formation and Risk for Bone Marrow Fibrosis
+
+
+
+  Nplate administration may increase the risk for development or progression of reticulin fiber formation within the bone marrow. This formation may improve upon discontinuation of Nplate.  In a clinical trial, one patient with ITP and hemolytic anemia developed marrow fibrosis with collagen during Nplate therapy.  Clinical trials are in progress to assess the risk of bone marrow fibrosis and clinical consequences with cytopenias.
+
+
+
+ If new or worsening morphological abnormalities or cytopenia(s) occur, consider a bone marrow biopsy to include staining for fibrosis [ see Adverse Reactions (     6.1     )  ].
+
+
+
+    5.4 Worsened Thrombocytopenia after Cessation of Nplate
+
+
+
+  In clinical studies of patients with chronic ITP who had Nplate discontinued, four of 57 patients developed thrombocytopenia of greater severity than was present prior to Nplate therapy.  This worsened thrombocytopenia resolved within 14 days.  Following discontinuation of Nplate, obtain weekly CBCs, including platelet counts, for at least 2 weeks and consider alternative treatments for worsening thrombocytopenia, according to current treatment guidelines [ see Adverse Reactions (  6.1  )  ].
+
+
+
+    5.5 Lack or Loss of Response to Nplate
+
+
+
+  Hyporesponsiveness or failure to maintain a platelet response with Nplate should prompt a search for causative factors, including neutralizing antibodies to Nplate [ see Adverse Reactions (  6.3  )  ].  To detect antibody formation, submit blood samples to Amgen (1-800-772-6436).  Amgen will assay these samples for antibodies to Nplate and thrombopoietin (TPO).  Discontinue Nplate if the platelet count does not increase to a level sufficient to avoid clinically important bleeding after 4 weeks at the highest weekly dose of 10 mcg/kg.
+
+
+
+    5.6 Laboratory Monitoring
+
+
+
+  Obtain CBCs, including platelet counts, weekly during the dose-adjustment phase of Nplate therapy and then monthly following establishment of a stable Nplate dose.  Obtain CBCs, including platelet counts, weekly for at least 2 weeks following discontinuation of Nplate [ see Dosage and Administration (  2.1  ) and Warnings and Precautions (  5.3  ,  5.4  )  ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

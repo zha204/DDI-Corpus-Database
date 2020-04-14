@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="house" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse systemic reactions usually occur within minutes and consist primarily of allergic symptoms such as generalized skin erythema, urticaria, pruritus, angioedema, rhinitis, wheezing, laryngeal edema and hypotension. Less commonly, nausea, emesis, abdominal cramps, diarrhea and uterine contractions may occur. Severe reactions may cause shock and loss of consciousness. Fatalities have occurred rarely  11  . Systemic reactions occur with varying frequency in different clinics. To some extent, the reaction rate is related to the type and dose of administered extract and to the degree of sensitivity of the patient. Despite all precautions, occasional reactions are unavoidable. Reports from regulatory authorities in Sweden to the Center for Biologics Evaluation and Research (CBER) indicated that several deaths have been associated with the use of mite extracts. CBER was subsequently informed that these deaths may have been related to use by physicians or other health professionals untrained in the administration of potent allergens, rather than a product defect. It should be noted that anaphylaxis and deaths following the injection of mite and other extracts also have been reported by the British Committee on Safety in Medicine in the British Medical Journal, 293: 943, 1986.Local reactions consisting of erythema, itching, swelling, tenderness and sometimes pain may occur at the injection site. These reactions may appear within a few minutes to hours and persist for several days. Local cold applications and oral antihistamines may be effective treatment. For marked and prolonged local reactions, steroids may be helpful.The treatment of systemic allergic reactions is somewhat dependent upon the symptom complex. Epinephrine hydrochloride 1:1,000 aqueous, in an adult dose of 0.3 - 0.5 mL (or 0.01 mL per kg. for children) administered subcutaneously in the opposite arm is the immediate treatment of choice. A tourniquet should be placed above the site of the extract injection if the injection was done on the extremities. Antihistamines may offer relief of recurrent urticaria, associated skin reactions and gastrointestinal symptoms. Persistent wheezing may necessitate intravenous aminophylline treatment. For profound shock and hypotension, intravenous fluids, vasopressors and oxygen also may be needed. Maintenance of an open airway is critical if upper airway obstruction is present. Corticosteroids may provide benefit if symptoms are prolonged or recurrent.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+  WARNINGS
+
+  This product is intended for use by physicians who are experienced in the administration of allergens extracts or for use under the guidance of an allergy specialist. The initial dose must be based on skin testing as described in the dosage and administration section of this insert. Patients being switched from alum-absorbed or other types of precipitated extracts or non-standardized extracts to this extract should be started as though they were coming under treatment for the first time. Patients should be instructed to recognize adverse reaction symptoms and cautioned to contact the physician's office if symptoms occur. As with all allergenic extracts, severe systemic reactions may occur and in certain individuals these reactions may be life-threatening or cause death. Patients should be observed for at least 20 minutes following treatment. Emergency measures as well as personnel trained in their use should be immediately available in the event of a life-threatening reaction. Patients being switched from one lot of extract to another from the same manufacturer should have the dose reduced to 25 percent.
+
+ Patients receiving beta-blocking drugs may be refractive to the usual dose of epinephrine, in the event that epinephrine is required to control an adverse allergic reaction to this product.
+
+ This product should never be injected intravenously. See also the WARNINGS, and ADVERSE REACTIONS Sections below.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

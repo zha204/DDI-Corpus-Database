@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="elocon0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In controlled clinical trials involving 812 subjects, the incidence of adverse reactions associated with the use of ELOCON Ointment was 4.8%. Reported reactions included burning, pruritus, skin atrophy, tingling/stinging, and furunculosis. Cases of rosacea associated with the use of ELOCON Ointment have been reported.
+
+
+
+ The following adverse reactions were reported to be possibly or probably related to treatment with ELOCON Ointment during a clinical study in 5% of 63 pediatric subjects 6 months to 2 years of age: decreased glucocorticoid levels, 1; an unspecified skin disorder, 1; and a bacterial skin infection, 1. The following signs of skin atrophy were also observed among 63 subjects treated with ELOCON Ointment in a clinical trial: shininess, 4; telangiectasia, 1; loss of elasticity, 4; loss of normal skin markings, 4; and thinness, 1.
+
+
+
+ The following additional local adverse reactions have been reported with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are: irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.
+
+
+
+   EXCERPT:   Most common adverse reactions are burning, pruritus, skin atrophy, tingling/stinging and furunculosis. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment, Cushing's syndrome, and hyperglycemia may occur due to systemic absorption. Patients applying a topical steroid to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA axis suppression. Modify use should HPA axis suppression develop. Pediatric patients may be more susceptible to systemic toxicity. (  5.1  ,  8.4  ) 
+    
+ 
+
+   5.1 Effects on Endocrine System
+
+
+
+  Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Manifestations of Cushing's syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressings, altered skin barrier, liver failure, and young age.
+
+
+
+ Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test.
+
+
+
+ In a study evaluating the effects of mometasone furoate ointment on the HPA axis, 15 grams were applied twice daily for 7 days to 6 adult subjects with psoriasis or atopic dermatitis. The results show that the drug caused a slight lowering of adrenal corticosteroid secretion.
+
+
+
+ If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent corticosteroid. Recovery of HPA axis function is generally prompt upon discontinuation of topical corticosteroids. Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur, requiring supplemental systemic corticosteroids.
+
+
+
+ Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [see  Use in Specific Populations (8.4)  ]  .
+
+
+
+    5.2 Allergic Contact Dermatitis
+
+
+
+  If irritation develops, ELOCON Ointment should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation. Such an observation should be corroborated with appropriate diagnostic patch testing.
+
+
+
+    5.3 Concomitant Skin Infections
+
+
+
+  If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of ELOCON Ointment should be discontinued until the infection has been adequately controlled.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="megace" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">         ADVERSE REACTIONS         Clinical Adverse Events  
+
+
+
+     Adverse events which occurred in at least 5% of patients in any arm of the two clinical efficacy trials and the open trial are listed below by treatment group. All patients listed had at least one post baseline visit during the 12 study weeks. These adverse events should be considered by the physician when prescribing Megace  (r)  ES (megestrol acetate) oral suspension.
+
+
+
+      
+   ADVERSE EVENTS    % of Patients Reporting     
+                                                    Open              
+                  Trial 1 (N=236)  Trial 2 (N=87)   Label Trial       
+ Megestrol Acetate,  Placebo                                                             Placebo                                             
+ mg/day           0                100              400              800              0                800              1200              
+ No. of Patients  N=34             N=68             N=69             N=65             N=38             N=49             N=176             
+ Diarrhea         15               13               8                15               8                6                10                
+ Impotence        3                4                6                14               0                4                7                 
+ Rash             9                9                4                12               3                2                6                 
+ Flatulence       9                0                1                9                3                10               6                 
+ Hypertension     0                0                0                8                0                0                4                 
+ Asthenia         3                2                3                6                8                4                5                 
+ Insomnia         0                3                4                6                0                0                1                 
+ Nausea           9                4                0                5                3                4                5                 
+ Anemia           6                3                3                5                0                0                0                 
+ Fever            3                6                4                5                3                2                1                 
+ Libido Decreased  3                4                0                5                0                2                1                 
+ Dyspepsia        0                0                3                3                5                4                2                 
+ Hyperglycemia    3                0                6                3                0                0                3                 
+ Headache         6                10               1                3                3                0                3                 
+ Pain             6                0                0                2                5                6                4                 
+ Vomiting         9                3                0                2                3                6                4                 
+ Pneumonia        6                2                0                2                3                0                1                 
+ Urinary Frequency  0                0                1                2                5                2                1                 
+                   Adverse events which occurred in 1% to 3% of all patients enrolled in the two clinical efficacy trials with at least one follow-up visit during the first 12 weeks of the study are listed below by body system. Adverse events occurring less than 1% are not included. There were no significant differences between incidence of these events in patients treated with megestrol acetate and patients treated with placebo.
+ 
+
+     Body as a Whole - abdominal pain, chest pain, infection, moniliasis and sarcoma
+
+
+
+     Cardiovascular System - cardiomyopathy and palpitation
+
+
+
+     Digestive System - constipation, dry mouth, hepatomegaly, increased salivation and oral moniliasis
+
+
+
+     Hemic and Lymphatic System - leukopenia
+
+
+
+     Metabolic and Nutritional - LDH increased, edema and peripheral edema
+
+
+
+     Nervous System - paresthesia, confusion, convulsion, depression, neuropathy, hypesthesia and abnormal thinking
+
+
+
+     Respiratory System - dyspnea, cough, pharyngitis and lung disorder
+
+
+
+     Skin and Appendages - alopecia, herpes, pruritus, vesiculobullous rash, sweating and skin disorder
+
+
+
+     Special Senses - amblyopia
+
+
+
+     Urogenital System - albuminuria, urinary incontinence, urinary tract infection and gynecomastia
+
+
+
+            Postmarketing     Postmarketing reports associated with megestrol acetate oral suspension include thromboembolic phenomena including thrombophlebitis, deep vein thrombosis, and pulmonary embolism; and glucose intolerance (see  WARNINGS  and  PRECAUTIONS  sections).
+</Section>
+    <Section name="warnings and precautions" id="S2">       WARNINGS       Megestrol acetate may cause fetal harm when administered to a pregnant woman. For animal data on fetal effects, (see PRECAUTIONS:   Impairment of Fertility  section). There are no adequate and well-controlled studies in pregnant women. If this drug is used during pregnancy, or if the patient becomes pregnant while taking (receiving) this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant.
+
+
+
+     Megestrol acetate is not intended for prophylactic use to avoid weight loss.
+
+
+
+     (See also PRECAUTIONS: Carcinogenesis, Mutagenesis, and Impairment of Fertility  section).
+
+
+
+     The glucocorticoid activity of megestrol acetate oral suspension has not been fully evaluated. Clinical cases of new onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and overt Cushing's Syndrome have been reported in association with the chronic use of megestrol acetate. In addition, clinical cases of adrenal insufficiency have been observed in patients receiving or being withdrawn from chronic megestrol acetate therapy in the stressed and non-stressed state. Furthermore, adrenocorticotropin (ACTH) stimulation testing has revealed the frequent occurrence of asymptomatic pituitary-adrenal suppression in patients treated with chronic megestrol acetate therapy. Therefore, the possibility of adrenal insufficiency should be considered in any patient receiving or being withdrawn from chronic Megace  (r)  ES therapy who presents with symptoms and/or signs suggestive of hypoadrenalism (e.g., hypotension, nausea, vomiting, dizziness, or weakness) in either the stressed or non-stressed state. Laboratory evaluation for adrenal insufficiency and consideration of replacement or stress doses of a rapidly acting glucocorticoid are strongly recommended in such patients. Failure to recognize inhibition of the hypothalamic-pituitary-adrenal axis may result in death. Finally, in patients who are receiving or being withdrawn from chronic Megace  (r)  ES therapy, consideration should be given to the use of empiric therapy with stress doses of a rapidly acting glucocorticoid during stress or serious intercurrent illness (e.g., surgery, infection).
+
+
+
+              PRECAUTIONS     GENERAL       Therapy with Megace  (r)  ES (megestrol acetate) oral suspension for weight loss should only be instituted after treatable causes of weight loss are sought and addressed. These treatable causes include possible malignancies, systemic infections, gastrointestinal disorders affecting absorption, endocrine disease and renal or psychiatric diseases.
+ 
+
+     Effects on HIV viral replication have not been determined.
+
+
+
+     Use with caution in patients with a history of thromboembolic disease.
+
+
+
+            Use in Diabetics     Exacerbation of pre-existing diabetes with increased insulin requirements have been reported in association with the use of megestrol acetate.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

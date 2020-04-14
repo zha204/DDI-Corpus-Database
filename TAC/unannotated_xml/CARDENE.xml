@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cardene" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6. ADVERSE REACTIONS  
+
+  EXCERPT:   Most common adverse reactions are headache (15%), hypotension (6%), tachycardia (4%) and nausea/vomiting (5%).  (6.1)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Chiesi USA, Inc. at 1-888-661-9260, or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch      
+
+
+
+ 
+
+    6.1 Clinical Trials Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+
+
+
+ Two hundred forty-four patients participated in two multicenter, double-blind, placebo-controlled trials of Cardene I.V. Adverse experiences were generally not serious and most were expected consequences of vasodilation. Adverse experiences occasionally required dosage adjustment. Therapy was discontinued in approximately 12% of patients, mainly due to hypotension, headache, and tachycardia.
+
+
+
+ The table below shows percentage of patients with adverse events where the rate is &gt;3% more common on Cardene I.V. than placebo.
+
+
+
+
+  Adverse Event    Cardene I.V. (N=144)    Placebo (N=100)    
+  Body as a Whole                                      
+  Headache, n (%)    21 (15)          2 (2)            
+  Cardiovascular                                      
+  Hypotension, n (%)    8 (6)            1 (1)            
+  Tachycardia, n (%)    5 (4)            0                
+  Digestive                                          
+  Nausea/vomiting, n (%)    7 (5)            1 (1)            
+         Other adverse events have been reported in clinical trials or in the literature in association with the use of intravenously administered nicardipine:  Body as a Whole:    fever, neck pain
+ 
+
+   Cardiovascular:    angina pectoris, atrioventricular block, ST segment depression, inverted T wave, deep-vein thrombophlebitis
+
+
+
+   Digestive:    dyspepsia
+
+
+
+   Hemic and Lymphatic:    thrombocytopenia
+
+
+
+   Metabolic and Nutritional:    hypophosphatemia, peripheral edema
+
+
+
+   Nervous:    confusion, hypertonia
+
+
+
+   Respiratory:    respiratory disorder
+
+
+
+   Special Senses:    conjunctivitis, ear disorder, tinnitus
+
+
+
+   Urogenital:    urinary frequencySinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine.
+
+
+
+     6.2  Post-Marketing and Other Clinical Experience  
+
+  Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.  The following adverse reaction has been identified during post-approval use of Cardene I.V.:  decreased oxygen saturation (possible pulmonary shunting).
+</Section>
+    <Section name="warnings and precautions" id="S2">     5. WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Closely monitor response in patients with angina  (5.2)  , heart failure  (5.3)  , impaired hepatic function  (5.4)  , or renal impairment.  (5.5)   
+ *  To reduce the possibility of venous thrombosis, phlebitis, and vascular impairment, do not use small veins, such as those on the dorsum of the hand or wrist. Exercise extreme care to avoid intra-arterial administration or extravasation.  (5.6)   
+ *  To minimize the risk of peripheral venous irritation, change the site of infusion of Cardene I.V. Premixed Injection every 12 hours.  (5.6)   
+    
+ 
+
+    5.1 Excessive Pharmacodynamic Effects  
+
+
+
+  In administering nicardipine, close monitoring of blood pressure and heart rate is required. Nicardipine may occasionally produce symptomatic hypotension or tachycardia. Avoid systemic hypotension when administering the drug to patients who have sustained an acute cerebral infarction or hemorrhage.
+
+
+
+     5.2 Use in Patients with Angina  
+
+
+
+  Increases in frequency, duration, or severity of angina have been seen in chronic therapy with oral nicardipine. Induction or exacerbation of angina has been seen in less than 1% of coronary artery disease patients treated with Cardene I.V. The mechanism of this effect has not been established.
+
+
+
+     5.3 Use in Patients with Heart Failure  
+
+
+
+  Titrate slowly when using Cardene I.V. Premixed Injection, particularly in combination with a beta-blocker, in patients with heart failure or significant left ventricular dysfunction because of possible negative inotropic effects.
+
+
+
+     5.4 Use in Patients with Impaired Hepatic Function  
+
+
+
+  Since nicardipine is metabolized in the liver, consider lower dosages and closely monitor responses in patients with impaired liver function or reduced hepatic blood flow.
+
+
+
+     5.5 Use in Patients with Impaired Renal Function  
+
+
+
+  When Cardene I.V. was given to mild to moderate hypertensive patients with moderate renal impairment, a significantly lower systemic clearance and higher area under the curve (AUC) was observed. These results are consistent with those seen after oral administration of nicardipine. Titrate gradually in patients with renal impairment.
+
+
+
+     5.6 Intravenous Infusion Site  
+
+
+
+  To reduce the possibility of venous thrombosis, phlebitis, local irritation, swelling, extravasation, and the occurrence of vascular impairment, administer drug through large peripheral veins or central veins rather than arteries or small peripheral veins, such as those on the dorsum of the hand or wrist. To minimize the risk of peripheral venous irritation, change the site of the drug infusion every 12 hours.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

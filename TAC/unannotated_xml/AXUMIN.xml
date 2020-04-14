@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="axumin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most commonly reported adverse reactions are injection site pain, erythema, and dysgeusia (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Blue Earth Diagnostics, Ltd at 1-855-AXUMIN1 (1-855-298-6461) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    Clinical Trials Experience  
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The clinical trial database for Axumin includes data from 877 subjects including 797 males diagnosed with prostate cancer. Most patients received a single administration of Axumin, a small number of subjects (n = 50) received up to five administrations of the drug. The mean administered activity was 370 MBq (range, 163 to 485 MBq).
+
+
+
+ Adverse reactions were reported in &lt;=1% of subjects during clinical studies with Axumin. The most common adverse reactions were injection site pain, injection site erythema and dysgeusia.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Image interpretation errors can occur with Axumin imaging (  5.1  ). 
+ *  Radiation risk: Axumin contributes to a patient's long-term cumulative radiation exposure. Ensure safe handling to protect patients and health care workers from unintentional radiation exposure (  2.1  ,  5.3  ). 
+    
+ 
+
+   5.1 Risk for Image Misinterpretation
+
+
+
+  Image interpretation errors can occur with Axumin PET imaging. A negative image does not rule out the presence of recurrent prostate cancer and a positive image does not confirm the presence of recurrent prostate cancer. The performance of Axumin seems to be affected by PSA levels [See  Clinical Studies (14)  ]  . Fluciclovine F 18 uptake is not specific for prostate cancer and may occur with other types of cancer and benign prostatic hypertrophy in primary prostate cancer. Clinical correlation, which may include histopathological evaluation of the suspected recurrence site, is recommended.
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions including anaphylaxis may occur in patients who receive Axumin. Emergency resuscitation equipment and personnel should be immediately available.
+
+
+
+    5.3 Radiation Risks
+
+
+
+  Axumin use contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk for cancer. Ensure safe handling to minimize radiation exposure to the patient and health care providers [see  Dosage and Administration (2.1)  ]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

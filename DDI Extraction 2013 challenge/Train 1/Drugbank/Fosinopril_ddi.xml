@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d176">
+    <sentence id="DDI-DrugBank.d176.s0" text="Diuretics: Patients on diuretics, especially those with intravascular volume depletion, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with fosinopril sodium.">
+        <entity id="DDI-DrugBank.d176.s0.e0" charOffset="0-8"
+            type="group" text="Diuretics"/>
+        <entity id="DDI-DrugBank.d176.s0.e1" charOffset="23-31"
+            type="group" text="diuretics"/>
+        <entity id="DDI-DrugBank.d176.s0.e2" charOffset="190-206"
+            type="drug" text="fosinopril sodium"/>
+        <ddi id="DDI-DrugBank.d176.s0.d0" e1="DDI-DrugBank.d176.s0.e1"
+            e2="DDI-DrugBank.d176.s0.e2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s1" text="The possibility of hypotensive effects can be minimized by either discontinuing the diuretic or increasing salt intake prior to initiation of treatment with fosinopril sodium.">
+        <entity id="DDI-DrugBank.d176.s1.e0" charOffset="84-91"
+            type="group" text="diuretic"/>
+        <entity id="DDI-DrugBank.d176.s1.e1" charOffset="157-173"
+            type="drug" text="fosinopril sodium"/>
+        <ddi id="DDI-DrugBank.d176.s1.d0" e1="DDI-DrugBank.d176.s1.e0"
+            e2="DDI-DrugBank.d176.s1.e1" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s2" text="If this is not possible, the starting dose should be reduced and the patient should be observed closely for several hours following an initial dose and until blood pressure has stabilized (see DOSAGE AND ADMINISTRATION.)"/>
+    <sentence id="DDI-DrugBank.d176.s3" text="Potassium Supplements and Potassium-Sparing Diuretics: Fosinopril sodium can attenuate potassium loss caused by thiazide diuretics.">
+        <entity id="DDI-DrugBank.d176.s3.e0" charOffset="0-8"
+            type="drug" text="Potassium"/>
+        <entity id="DDI-DrugBank.d176.s3.e1" charOffset="26-52"
+            type="group" text="Potassium-Sparing Diuretics"/>
+        <entity id="DDI-DrugBank.d176.s3.e2" charOffset="55-71"
+            type="drug" text="Fosinopril sodium"/>
+        <entity id="DDI-DrugBank.d176.s3.e3" charOffset="112-129"
+            type="group" text="thiazide diuretics"/>
+        <ddi id="DDI-DrugBank.d176.s3.d0" e1="DDI-DrugBank.d176.s3.e2"
+            e2="DDI-DrugBank.d176.s3.e3" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s4" text="Potassium-sparing diuretics (spironolactone, amiloride,triamterene, and others) or potassium supplements can increase the risk of hyperkalemia.">
+        <entity id="DDI-DrugBank.d176.s4.e0" charOffset="0-26"
+            type="group" text="Potassium-sparing diuretics"/>
+        <entity id="DDI-DrugBank.d176.s4.e1" charOffset="29-42"
+            type="drug" text="spironolactone"/>
+        <entity id="DDI-DrugBank.d176.s4.e2" charOffset="45-53"
+            type="drug" text="amiloride"/>
+        <entity id="DDI-DrugBank.d176.s4.e3" charOffset="55-65"
+            type="drug" text="triamterene"/>
+        <entity id="DDI-DrugBank.d176.s4.e4" charOffset="83-91"
+            type="drug" text="potassium"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s5" text="Therefore, if concomitant use of such agents is indicated, they should be given with caution, and the patients serum potassium should be monitored frequently."/>
+    <sentence id="DDI-DrugBank.d176.s6" text="Lithium: Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium.">
+        <entity id="DDI-DrugBank.d176.s6.e0" charOffset="0-6"
+            type="drug" text="Lithium"/>
+        <entity id="DDI-DrugBank.d176.s6.e1" charOffset="25-31"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d176.s6.e2" charOffset="56-62"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d176.s6.e3" charOffset="114-127"
+            type="group" text="ACE inhibitors"/>
+        <entity id="DDI-DrugBank.d176.s6.e4" charOffset="149-155"
+            type="drug" text="lithium"/>
+        <ddi id="DDI-DrugBank.d176.s6.d0" e1="DDI-DrugBank.d176.s6.e3"
+            e2="DDI-DrugBank.d176.s6.e4" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s7" text="These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.">
+        <entity id="DDI-DrugBank.d176.s7.e0" charOffset="84-90"
+            type="drug" text="lithium"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s8" text="If a diuretic is also used, the risk of lithium toxicity may be increased.">
+        <entity id="DDI-DrugBank.d176.s8.e0" charOffset="5-12"
+            type="group" text="diuretic"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s9" text="Antacids: In a clinical pharmacology study, coadministration of an antacid (aluminum hydroxide, magnesium hydroxide, and simethicone) with fosinopril reduced serum levels and urinary excretion of fosinoprilat as compared with fosinopril administered alone, suggesting that antacids may impair absorption of fosinopril.">
+        <entity id="DDI-DrugBank.d176.s9.e0" charOffset="0-7"
+            type="group" text="Antacids"/>
+        <entity id="DDI-DrugBank.d176.s9.e1" charOffset="67-73"
+            type="group" text="antacid"/>
+        <entity id="DDI-DrugBank.d176.s9.e2" charOffset="76-93"
+            type="drug" text="aluminum hydroxide"/>
+        <entity id="DDI-DrugBank.d176.s9.e3" charOffset="96-114"
+            type="drug" text="magnesium hydroxide"/>
+        <entity id="DDI-DrugBank.d176.s9.e4" charOffset="121-131"
+            type="drug" text="simethicone"/>
+        <entity id="DDI-DrugBank.d176.s9.e5" charOffset="139-148"
+            type="drug" text="fosinopril"/>
+        <entity id="DDI-DrugBank.d176.s9.e6" charOffset="196-207"
+            type="drug_n" text="fosinoprilat"/>
+        <entity id="DDI-DrugBank.d176.s9.e7" charOffset="226-235"
+            type="drug" text="fosinopril"/>
+        <entity id="DDI-DrugBank.d176.s9.e8" charOffset="273-280"
+            type="group" text="antacids"/>
+        <entity id="DDI-DrugBank.d176.s9.e9" charOffset="307-316"
+            type="drug" text="fosinopril"/>
+        <ddi id="DDI-DrugBank.d176.s9.d0" e1="DDI-DrugBank.d176.s9.e1"
+            e2="DDI-DrugBank.d176.s9.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d176.s9.d1" e1="DDI-DrugBank.d176.s9.e2"
+            e2="DDI-DrugBank.d176.s9.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d176.s9.d2" e1="DDI-DrugBank.d176.s9.e3"
+            e2="DDI-DrugBank.d176.s9.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d176.s9.d3" e1="DDI-DrugBank.d176.s9.e4"
+            e2="DDI-DrugBank.d176.s9.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d176.s9.d4" e1="DDI-DrugBank.d176.s9.e8"
+            e2="DDI-DrugBank.d176.s9.e9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s10" text="Therefore, if concomitant administration of these agents is indicated, dosing should be separated by 2 hours."/>
+    <sentence id="DDI-DrugBank.d176.s11" text="Other: Neither fosinopril sodium nor its metabolites have been found to interact with food.">
+        <entity id="DDI-DrugBank.d176.s11.e0" charOffset="15-31"
+            type="drug" text="fosinopril sodium"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s12" text="In separate single or multiple dose pharmacokinetic interaction studies with chlorthalidone, nifedipine, propanolol, hydrochlorothiazide, cimetidine, metoclopramide, propantheline, digoxin, and warfarin, the bioavailability of fosinoprilat was not altered by coadministration of fosinopril with any one of these drugs.">
+        <entity id="DDI-DrugBank.d176.s12.e0" charOffset="77-90"
+            type="drug" text="chlorthalidone"/>
+        <entity id="DDI-DrugBank.d176.s12.e1" charOffset="93-102"
+            type="drug" text="nifedipine"/>
+        <entity id="DDI-DrugBank.d176.s12.e2" charOffset="105-114"
+            type="drug" text="propanolol"/>
+        <entity id="DDI-DrugBank.d176.s12.e3" charOffset="117-135"
+            type="drug" text="hydrochlorothiazide"/>
+        <entity id="DDI-DrugBank.d176.s12.e4" charOffset="138-147"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBank.d176.s12.e5" charOffset="150-163"
+            type="drug" text="metoclopramide"/>
+        <entity id="DDI-DrugBank.d176.s12.e6" charOffset="166-178"
+            type="drug" text="propantheline"/>
+        <entity id="DDI-DrugBank.d176.s12.e7" charOffset="181-187"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d176.s12.e8" charOffset="194-201"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d176.s12.e9" charOffset="227-238"
+            type="drug_n" text="fosinoprilat"/>
+        <entity id="DDI-DrugBank.d176.s12.e10" charOffset="279-288"
+            type="drug" text="fosinopril"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s13" text="In a study with concomitant administration of aspirin and fosinopril sodium, the bioavailability of unbound fosinoprilat was not altered.">
+        <entity id="DDI-DrugBank.d176.s13.e0" charOffset="46-52"
+            type="brand" text="aspirin"/>
+        <entity id="DDI-DrugBank.d176.s13.e1" charOffset="58-74"
+            type="drug" text="fosinopril sodium"/>
+        <entity id="DDI-DrugBank.d176.s13.e2" charOffset="108-119"
+            type="drug_n" text="fosinoprilat"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s14" text="In a pharmacokinetic interaction study with warfarin, bioavailability parameters, the degree of protein binding, and the anticoagulant effect (measured by prothrombin time) of warfarin were not significantly changed.">
+        <entity id="DDI-DrugBank.d176.s14.e0" charOffset="44-51"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d176.s14.e1" charOffset="176-183"
+            type="drug" text="warfarin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s15" text="Drug/Laboratory Test Interaction Fosinopril may cause a false low measurement of serum digoxin levels with the Digi- Tab  RIA Kit for Digoxin.">
+        <entity id="DDI-DrugBank.d176.s15.e0" charOffset="33-42"
+            type="drug" text="Fosinopril"/>
+        <entity id="DDI-DrugBank.d176.s15.e1" charOffset="87-93"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d176.s15.e2" charOffset="134-140"
+            type="drug" text="Digoxin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d176.s16" text="Other kits, such as the Coat-A-Count  RIA Kit, may be used."/>
+</document>

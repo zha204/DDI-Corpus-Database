@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="standardized14" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Local reactions consisting of erythema, itching, swelling, tenderness and sometimes pain may occur at the injection site. These reactions may appear within a few minutes to hours and persist for several days. Local cold applications and oral antihistamines may be effective treatment. For marked and prolonged local reactions, steroids may be helpful.Adverse systemic reactions usually occur within minutes and consist primarily of allergic symptoms such as generalized skin erythema, urticaria, pruritus, angioedema, rhinitis, wheezing, laryngeal edema and hypotension. Less commonly, nausea, emesis, abdominal cramps, diarrhea and uterine contractions may occur. Severe reactions may cause shock and loss of consciousness and fatalities have occurred (14).The treatment of systemic allergic reactions is somewhat dependent upon the symptom complex. Epinephrine hydrochloride 1:1,000 aqueous, in an adult dose of 0.3 - 0.5 mL (or 0.01 mL per kg. for children) administered subcutaneously in the opposite arm is the immediate treatment of choice. A tourniquet should be placed above the site of the injection if the injection was done on the extremities. Antihistamines may offer relief of recurrent urticaria, associated skin reactions and gastrointestinal symptoms. Persistent wheezing may necessitate intravenous aminophylline treatment in addition to inhaled bronchodilators. For profound shock and hypotension, intravenous fluids, vasopressors and oxygen also may be needed. Maintenance of an open airway is critical if upper airway obstruction is present. Corticosteroids may provide benefit if symptoms are prolonged or recurrent.Serious adverse reactions to this product should be reported to MEDWATCH, Food and Drug Administration, 5600 Fishers Lane, Rockville, MD 20852-9782. Telephone (800) 332-1088.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+  WARNINGS
+
+     This product is intended for use by physicians who are experienced in the administration of allergenic extract or for use under the guidance of an allergy specialist.  In previously untreated patients, the initial dose must be based on skin testing as described in the dosage and administration section of this insert.  Patients being switched from alum-adsorbed or other types of precipitated extracts to this extract should be started as though they were coming under treatment for the first time.  Patients should be instructed to recognize adverse reaction symptoms and cautioned to contact the physician's office if symptoms occur.  As with all allergenic extracts, severe systemic reactions may occur and in certain individuals these reactions may be life-threatening or cause death.  Patients should be observed for at least 20 minutes following treatment.  Emergency measures as well as personnel trained in their use should be immediately available in the event of a life-threatening reaction.  Patients being switched to a new lot of extract from the same manufacturer should have the dose reduced 75 percent.  For dose selection in switching patients from unstandardized to standardized extract, physicians may refer to Table 3 as a guide (see CLINICAL PHARMACOLOGY).  Extracts labeled in BAU/mL are not directly interchangeable with any other grass pollen product.
+
+ Patients receiving beta-blocking drugs may be refractive to the usual dose of epinephrine, in the event that epinephrine is required to control an adverse allergic reaction to this product.  Caution must be exercised in testing and treating patients with steroid-dependent or labile asthma.  This product should never be injected intravenously.  See also WARNINGS and ADVERSE REACTIONS below.
+
+ Serious adverse reactions to this product should be reported to MEDWATCH, Food and Drug Administration, 5600 Fishers Lane, Rockville, MD 20852-9782. Telephone: (800) 332-1088.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="betadine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Local sensitivity has been exhibited by some individuals to povidone-iodine ophthalmic solution.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

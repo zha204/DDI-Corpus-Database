@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d105">
+    <sentence id="DDI-DrugBank.d105.s0" text="Anticoagulants including coumarin derivatives, indandione derivatives, and platelet aggregation inhibitors such as nonsteroidal anti-inflammatory drugs (NSAIDs), and aspirin may increase the risk of bleeding when administered concomitantly with ardeparin.">
+        <entity id="DDI-DrugBank.d105.s0.e0" charOffset="0-13"
+            type="group" text="Anticoagulants"/>
+        <entity id="DDI-DrugBank.d105.s0.e1" charOffset="75-105"
+            type="group" text="platelet aggregation inhibitors"/>
+        <entity id="DDI-DrugBank.d105.s0.e2" charOffset="115-150"
+            type="group" text="nonsteroidal anti-inflammatory drugs"/>
+        <entity id="DDI-DrugBank.d105.s0.e3" charOffset="153-158"
+            type="group" text="NSAIDs"/>
+        <entity id="DDI-DrugBank.d105.s0.e4" charOffset="166-172"
+            type="brand" text="aspirin"/>
+        <entity id="DDI-DrugBank.d105.s0.e5" charOffset="245-253"
+            type="drug" text="ardeparin"/>
+        <ddi id="DDI-DrugBank.d105.s0.d0" e1="DDI-DrugBank.d105.s0.e0"
+            e2="DDI-DrugBank.d105.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d105.s0.d1" e1="DDI-DrugBank.d105.s0.e1"
+            e2="DDI-DrugBank.d105.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d105.s0.d2" e1="DDI-DrugBank.d105.s0.e2"
+            e2="DDI-DrugBank.d105.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d105.s0.d3" e1="DDI-DrugBank.d105.s0.e3"
+            e2="DDI-DrugBank.d105.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d105.s0.d4" e1="DDI-DrugBank.d105.s0.e4"
+            e2="DDI-DrugBank.d105.s0.e5" type="effect"/>
+    </sentence>
+</document>

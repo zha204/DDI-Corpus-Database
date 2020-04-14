@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="thrombinjmi" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reactions (incidence greater than or equal to 2%) following administration of THROMBIN JMI were: hypersensitivity, bleeding, anemia, post-operative wound infection, thromboembolic events, hypotension, pyrexia, tachycardia and thrombocytopenia.
+
+
+
+   EXCERPT:   Most common adverse reactions (incidence &gt;= 2%) are hypersensitivity, bleeding, anemia, post-operative wound infection, thromboembolic events, hypotension, pyrexia, tachycardia and thrombocytopenia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Pfizer, Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety assessment of Thrombin JMI is based primarily on the review of post marketing experience including three (3) randomized controlled clinical trials in which Thrombin-JMI was used as a comparator and one (1) observational study. In these studies, the most common adverse reactions (incidence greater than or equal to 2%) following administration of THROMBIN JMI were: hypersensitivity, bleeding, anemia, post-operative wound infection, thromboembolic events, hypotension, pyrexia, tachycardia and thrombocytopenia [  see  Clinical Studies (14)    ].
+
+
+
+   6.2 Postmarketing Experience
+
+  The following serious adverse reactions have been identified during post approval use of THROMBIN-JMI: anaphylactic reactions, prolonged prothrombin time, prolonged activated partial thromboplastin time, disseminated intravascular coagulation, factor V deficiency, post-procedural hematoma, swelling and Staphylococcal wound infection. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: SEVERE BLEEDING AND THROMBOSIS COMPLICATIONS
+
+    WARNING: SEVERE BLEEDING AND THROMBOSIS COMPLICATIONS  
+
+    *  THROMBIN-JMI can cause fatal severe bleeding or thrombosis. Thrombosis may result from the development of antibodies against bovine thrombin. Bleeding may result from the development of antibodies against factor V. These may cross-react with human factor V and lead to its deficiency. 
+ *  Do not re-expose patients to THROMBIN-JMI if there are known or suspected antibodies to bovine thrombin and/or factor V. 
+ *  Monitor patients for abnormal coagulation laboratory values, bleeding, or thrombosis. 
+      EXCERPT:   WARNING: SEVERE BLEEDING AND THROMBOSIS COMPLICATIONS
+ 
+
+   See full prescribing information for complete boxed warning  
+
+
+
+ *  THROMBIN-JMI can cause fatal severe bleeding or thrombosis. Thrombosis may result from the development of antibodies against bovine thrombin. Bleeding may result from the development of antibodies against factor V. These may cross-react with human factor V and lead to its deficiency. 
+ *  Do not re-expose patients to THROMBIN-JMI if there are known or suspected antibodies to bovine thrombin and/or factor V. 
+ *  Monitor patients for abnormal coagulation laboratory values, bleeding, or thrombosis. 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   Warning: Severe Bleeding and Thrombosis Complications  
+
+
+
+    EXCERPT:    *  Allergic reactions, including anaphylactic/anaphylactoid reactions, have been reported following administration of THROMBIN-JMI. (  5.1  ) 
+ *  Institute intensive supportive measures and treat individual symptoms. Secure the airway and establish adequate respiratory exchange. (  5.1  ) 
+ *  THROMBIN-JMI causes thrombosis if it enters the circulatory system. Apply topically. DO NOT INJECT. (  5.2  ) 
+ *  Inhibitory antibodies may develop in patients and interfere with hemostasis. Monitor patients for abnormal coagulation laboratory values, bleeding, or thrombosis. (  5.3  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+    *  Allergic reactions, including anaphylactic/anaphylactoid reactions, have been reported following administration of THROMBIN-JMI. 
+ *  Institute intensive supportive measures and treat individual symptoms. Secure the airway and establish adequate respiratory exchange. 
+       5.2 Thrombosis
+ 
+
+  THROMBIN-JMI causes thrombosis if it enters the circulatory system. Apply topically. DO NOT INJECT.
+
+
+
+    5.3 Immunogenicity
+
+
+
+   Inhibitory antibodies may develop in patients and interfere with hemostasis .  Monitor patients for abnormal coagulation laboratory values, bleeding, or thrombosis.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sterile4" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Accidental contamination from careless technique may transmit infection.
+
+
+
+ Should any adverse reaction occur, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination, if deemed necessary.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+      Pharmacy Bulk Package -
+
+Not for Direct Infusion.     
+
+
+
+     FOR USE ONLY WITH AUTOMATED COMPOUNDING DEVICES.    
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

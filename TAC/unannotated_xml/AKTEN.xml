@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="akten" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Most common adverse reactions are conjunctival hyperemia, corneal epithelial changes, headache, and burning upon instillation.
+
+
+
+   EXCERPT:   Most common adverse reactions are conjunctival hyperemia, corneal epithelial changes, headache, and burning upon instillation (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Akorn at 1-800-932-5676 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+    *  Not for Injection. 
+ *  Corneal Opacification. Prolonged use of a topical ocular anesthetic may produce permanent corneal opacification and ulceration with accompanying visual loss. 
+   *  Not for Injection (  5  ) 
+ *  Corneal Opacification- prolonged use of a topical ocular anesthetic may produce permanent corneal opacification and ulceration with accompanying visual loss (  5  ) 
+      EXCERPT:   
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="epzicom" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Abacavir:
+
+      Hypersensitivity Reaction:    
+
+    Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir sulfate, a component of EPZICOM.  
+
+
+
+   In one study, once-daily dosing of ZIAGEN was associated with more severe hypersensitivity reactions (see WARNINGS and PRECAUTIONS: Information for Patients).  
+
+
+
+   Therapy-Naive Adults:
+
+  Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a &gt;=5% frequency during therapy with ZIAGEN 600 mg once daily or ZIAGEN 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily are listed in Table 4.
+
+
+
+ Table 4. Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, &gt;=5% Frequency) in Therapy-Naive Adults (CNA30021) Through 48 Weeks of Treatment 
+ Adverse Event                               ZIAGEN 600 mg q.d.  plus EPIVIR plus Efavirenz (n = 384)   ZIAGEN 300 mg b.i.d.  plus EPIVIR plus Efavirenz (n = 386)   
+   Drug hypersensitivity*                   9%                             7%                             
+ Insomnia                                   7%                             9%                             
+ Depression/Depressed mood                  7%                             7%                             
+ Headache/Migraine                          7%                             6%                             
+ Fatigue/Malaise                            6%                             8%                             
+ Dizziness/Vertigo                          6%                             6%                             
+ Nausea                                     5%                             6%                             
+ Diarrhea*                                  5%                             6%                             
+ Rash                                       5%                             5%                             
+ Pyrexia                                    5%                             3%                             
+ Abdominal pain/gastritis                   4%                             5%                             
+ Abnormal dreams                            4%                             5%                             
+ Anxiety                                    3%                             5%                             
+ *  Patients receiving ZIAGEN 600 mg once daily, experienced a significantly higher incidence of severe drug hypersensitivity reactions and severe diarrhea compared with patients who received ZIAGEN 300 mg twice daily. Five percent (5%) of patients receiving ZIAGEN 600 mg once daily had severe drug hypersensitivity reactions compared with 2% of patients receiving ZIAGEN 300 mg twice daily. Two percent (2%) of patients receiving ZIAGEN 600 mg once daily had severe diarrhea while none of the patients receiving ZIAGEN 300 mg twice daily had this event.   
+     Study CNA30024  was a multi-center, double-blind, controlled study in which 649 HIV-1-infected, therapy-naive adults were randomized and received either ZIAGEN (300 mg twice daily), EPIVIR (150 mg twice daily), and efavirenz (600 mg once daily) or zidovudine (300 mg twice daily), EPIVIR (150 mg twice daily), and efavirenz (600 mg once daily). CNA30024 used double-blind ascertainment of suspected hypersensitivity reactions. During the blinded portion of the study,  suspected hypersensitivity to abacavir was reported by investigators in 9% of 324 patients in the abacavir group and 3% of 325 patients in the zidovudine group  .   
+           Laboratory Abnormalities:
+   Laboratory abnormalities observed in clinical studies of ZIAGEN were anemia, neutropenia, liver function test abnormalities, and elevations of CPK, blood glucose, and triglycerides. Additional laboratory abnormalities observed in clinical studies of EPIVIR were thrombocytopenia and elevated levels of bilirubin, amylase, and lipase.
+
+
+
+ The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in Study CNA30021.
+
+
+
+   Other Adverse Events:
+
+  In addition to adverse reactions listed above, other adverse events observed in the expanded access program for abacavir were pancreatitis and increased GGT.
+
+
+
+   Observed During Clinical Practice:
+
+  The following reactions have been identified during post-approval use of abacavir and lamivudine. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to abacavir and/or lamivudine.
+
+
+
+       Abacavir:    
+
+      Cardiovascular:    Myocardial infarction.
+
+
+
+     Skin:    Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively. Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN, and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases.
+
+
+
+ There have also been reports of erythema multiforme with abacavir use.
+
+
+
+       Abacavir and Lamivudine:    
+
+      Body as a Whole:    Redistribution/accumulation of body fat (see PRECAUTIONS: Fat Redistribution).
+
+
+
+     Digestive:    Stomatitis.
+
+
+
+     Endocrine and Metabolic:    Hyperglycemia.
+
+
+
+     General:    Weakness.
+
+
+
+     Hemic and Lymphatic:    Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
+
+
+
+     Hepatic and Pancreatic:    Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbation of hepatitis B (see WARNINGS).
+
+
+
+     Hypersensitivity:    Sensitization reactions (including anaphylaxis), urticaria.
+
+
+
+     Musculoskeletal:    Muscle weakness, CPK elevation, rhabdomyolysis.
+
+
+
+     Nervous:    Paresthesia, peripheral neuropathy, seizures.
+
+
+
+     Respiratory:    Abnormal breath sounds/wheezing.
+
+
+
+     Skin:    Alopecia, erythema multiforme, Stevens-Johnson syndrome.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+    WARNINGS  
+
+
+
+   EPZICOM contains 2 nucleoside analogues (abacavir sulfate and lamivudine) and is intended only for patients whose regimen would otherwise include these 2 components.  
+
+
+
+   Hypersensitivity Reactions: Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir sulfate, a component of EPZICOM. Hypersensitivity to abacavir is a multi-organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups: (1) fever, (2) rash, (3) gastrointestinal (including nausea, vomiting, diarrhea, or abdominal pain), (4) constitutional (including generalized malaise, fatigue, or achiness), and (5) respiratory (including dyspnea, cough, or pharyngitis). Discontinue EPZICOM as soon as a hypersensitivity reaction is suspected.  
+
+
+
+   Patients who carry the HLA-B*5701 allele are at high risk for experiencing a hypersensitivity reaction to abacavir. Prior to initiating therapy with abacavir, screening for the HLA-B*5701 allele is recommended; this approach has been found to decrease the risk of hypersensitivity reaction. Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir. HLA-B*5701-negative patients may develop a suspected hypersensitivity reaction to abacavir; however, this occurs significantly less frequently than in HLA-B*5701-positive patients.  
+
+
+
+   Regardless of HLA-B*5701 status, permanently discontinue EPZICOM if hypersensitivity cannot be ruled out, even when other diagnoses are possible.  
+
+
+
+   Following a hypersensitivity reaction to abacavir, NEVER restart EPZICOM or any other abacavir-containing product because more severe symptoms can occur within hours and may include life-threatening hypotension and death.  
+
+
+
+   Reintroduction of EPZICOM or any other abacavir-containing product, even in patients who have no identified history or unrecognized symptoms of hypersensitivity to abacavir therapy, can result in serious or fatal hypersensitivity reactions. Such reactions can occur within hours (see WARNINGS and PRECAUTIONS: Information for Patients).  
+
+
+
+   Lactic Acidosis and Severe Hepatomegaly:     Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including abacavir, lamivudine, and other antiretrovirals (see WARNINGS).  
+
+
+
+   Exacerbations of Hepatitis B: Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and human immunodeficiency virus (HIV-1) and have discontinued lamivudine, which is one component of EPZICOM. Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue EPZICOM and are co-infected with HIV-1 and HBV. If appropriate, initiation of anti-hepatitis B therapy may be warranted (see WARNINGS).  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

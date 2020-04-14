@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="propylthiouracil" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Major adverse reactions (much less common than the minor adverse reactions) include liver injury resulting in hepatitis, liver failure, a need for liver transplantation or death. Inhibition of myelopoiesis (agranulocytosis, granulopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus-like syndrome (including splenomegaly and vasculitis), hepatitis, periarteritis, and hypoprothrombinemia and bleeding have been reported. Nephritis, glomerulonephritis, interstitial pneumonitis, exfoliative dermatitis, and erythema nodosum have been reported. Reports of a vasculitis syndrome associated with the presence of anti-neutrophilic cytoplasmic antibodies (ANCA) have also been received. Manifestations of ANCA-positive vasculitis may include rapidly progressive glomerulonephritis (crescentic and pauci-immune necrotizing glomerulonephritis), sometimes leading to acute renal failure; pulmonary infiltrates or alveolar hemorrhage; skin ulcers; and leukocytoclastic vasculitis. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesias, loss of taste, taste perversion, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy.
+
+
+
+ It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white blood cell count of less than 4,000/mm  3     ),  often with relative granulopenia.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+    WARNING:  Severe liver injury and acute liver failure, in some cases fatal, have been reported in patients treated with propylthiouracil. These reports of hepatic reactions include cases requiring liver transplantation in adult and pediatric patients.    
+
+
+
+   Propylthiouracil should be reserved for patients who can not tolerate methimazole and in whom radioactive iodine therapy or surgery are not appropriate treatments for the management of hyperthyroidism.   
+
+
+
+   Because of the risk of fetal abnormalities associated with methimazole, propylthiouracil may be the treatment of choice when an antithyroid drug is indicated during or just prior to the first trimester of pregnancy (see   Warnings   and   Precautions  ).   
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

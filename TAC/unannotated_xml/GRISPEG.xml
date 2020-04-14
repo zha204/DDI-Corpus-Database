@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="grispeg" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see  WARNINGS  section).
+
+
+
+ When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiform-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

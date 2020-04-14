@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="clindamycin0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following reactions have been reported with the use of clindamycin.
+
+
+
+   Gastrointestinal
+
+  Abdominal pain, pseudomembranous colitis, esophagitis, nausea, vomiting, and diarrhea (see    WARNING    box). The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see    WARNINGS    ). Esophageal ulcer has been reported. An unpleasant or metallic taste occasionally has been reported after oral administration.
+
+
+
+   Hypersensitivity Reactions
+
+  Generalized mild to moderate morbilliform-like (maculopapular) skin rashes are the most frequently reported adverse reactions. Vesiculobullous rashes, as well as urticaria, have been observed during drug therapy. Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (see    WARNINGS    ). Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, and anaphylactoid reactions have also been reported.
+
+
+
+   Skin and Mucous Membranes
+
+  Pruritus, vaginitis, and rare instances of exfoliative dermatitis have been reported.(See    Hypersensitivity Reactions    .)
+
+
+
+   Liver
+
+  Jaundice and abnormalities in liver function tests have been observed during clindamycin therapy.
+
+
+
+   Renal
+
+  Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
+
+
+
+   Hematopoietic
+
+  Transient neutropenia (leukopenia) and eosinophilia have been reported. Reports of agranulocytosis and thrombocytopenia have been made. No direct etiologic relationship to concurrent clindamycin therapy could be made in any of the foregoing.
+
+
+
+   Immune System
+
+  Drug reaction with eosinophilia and systemic symptoms (DRESS) cases have been reported.
+
+
+
+   Musculoskeletal
+
+  Cases of polyarthritis have been reported.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+    Clostridium difficile   associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including clindamycin HCl and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of   C. difficile  .
+
+
+
+ Because clindamycin HCl therapy has been associated with severe colitis which may end fatally, it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate, as described in the   INDICATIONS AND USAGE   section. It should not be used in patients with nonbacterial infections such as most upper respiratory tract infections.
+
+
+
+   C. difficile   produces toxins A and B, which contribute to the development of CDAD. Hypertoxin producing strains of   C. difficile   cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+
+
+ If CDAD is suspected or confirmed, ongoing antibiotic use not directed against   C  .   difficile   may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of   C. difficile  , and surgical evaluation should be instituted as clinically indicated.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

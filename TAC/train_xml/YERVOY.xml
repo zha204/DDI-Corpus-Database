@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="yervoy" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6    ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling.
+
+
+
+ *  ?  Immune-mediated enterocolitis [see  Warnings and Precautions (5.1)  ] . 
+ *  ?  Immune-mediated hepatitis [see  Warnings and Precautions (5.2)  ] . 
+ *  ?  Immune-mediated dermatitis [see  Warnings and Precautions (5.3)  ] . 
+ *  ?  Immune-mediated neuropathies [see  Warnings and Precautions (5.4)  ] . 
+ *  ?  Immune-mediated endocrinopathies [see  Warnings and Precautions (5.5)  ] . 
+ *  ?  Other immune-mediated adverse reactions, including ocular manifestations [see  Warnings and Precautions (5.6)  ] . 
+      EXCERPT:   Most common adverse reactions (&gt;=5%) are fatigue, diarrhea, pruritus, rash, and colitis.  (6.1)  
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb at 1-800-721-5072 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1   Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared with rates in other clinical trials or experience with therapeutics in the same class and may not reflect the rates observed in clinical practice.
+
+
+
+ The clinical development program excluded patients with active autoimmune disease or those receiving systemic immunosuppression for organ transplantation. Exposure to YERVOY 3 mg/kg for 4 doses given by intravenous infusion in previously treated patients with unresectable or metastatic melanoma was assessed in a randomized, double-blind clinical study (Study 1).  [See  Clinical Studies (14)  .]  One hundred thirty-one patients (median age 57 years, 60% male) received YERVOY as a single agent, 380 patients (median age 56 years, 61% male) received YERVOY with an investigational gp100 peptide vaccine (gp100), and 132 patients (median age 57 years, 54% male) received gp100 peptide vaccine alone. Patients in the study received a median of 4 doses (range: 1-4 doses). YERVOY was discontinued for adverse reactions in 10% of patients.
+
+
+
+ The most common adverse reactions (&gt;=5%) in patients who received YERVOY at 3 mg/kg were fatigue, diarrhea, pruritus, rash, and colitis.
+
+
+
+ Table 1 presents selected adverse reactions from Study 1, which occurred in at least 5% of patients in the YERVOY-containing arms and with at least 5% increased incidence over the control gp100 arm for all-grade events and at least 1% incidence over the control group for Grade 3-5 events.
+
+
+
+ Table 1:     Selected Adverse Reactions in Study 1 
+   a     Incidences presented in this table are based on reports of adverse events regardless of causality.   
+  
+                                      Percentage (%) of Patientsa    
+                                      YERVOY3 mg/kgn=131    YERVOY3 mg/kg+gp100n=380    gp100n=132    
+  System Organ Class/Preferred Term    AnyGrade     Grade3-5     AnyGrade     Grade3-5     AnyGrade     Grade3-5     
+  Gastrointestinal Disorders                       
+      Diarrhea                        32           5            37           4            20           1            
+      Colitis                         8            5            5            3            2            0            
+  Skin and Subcutaneous Tissue Disorders                 
+      Pruritus                        31           0            21           &lt;1           11           0            
+      Rash                            29           2            25           2            8            0            
+  General Disorders and Administration Site Conditions                 
+      Fatigue                         41           7            34           5            31           3            
+             Table 2 presents the per-patient incidence of severe, life-threatening, or fatal immune-mediated adverse reactions from Study 1.
+ 
+
+ Table 2:     Severe to Fatal Immune-mediated Adverse Reactions in Study 1 
+   a     Including fatal outcome.  b     Including intestinal perforation.  c     Underlying etiology not established.   
+  
+                                            Percentage (%) of Patients      
+                                            YERVOY3 mg/kgn=131              YERVOY3 mg/kg+gp100n=380        
+  Any Immune-mediated Adverse Reaction      15                              12                              
+  Enterocolitisa,b                          7                               7                               
+  Hepatotoxicitya                           1                               2                               
+  Dermatitisa                               2                               3                               
+  Neuropathya                               1                               &lt;1                              
+  Endocrinopathy                            4                               1                               
+      Hypopituitarism                       4                               1                               
+      Adrenal insufficiency                 0                               1                               
+  Other                                                                                                     
+      Pneumonitis                           0                               &lt;1                              
+      Meningitis                            0                               &lt;1                              
+      Nephritis                             1                               0                               
+      Eosinophiliac                         1                               0                               
+      Pericarditisa,c                       0                               &lt;1                              
+         Across clinical studies that utilized YERVOY doses ranging from 0.3 to 10 mg/kg, the following adverse reactions were also reported (incidence less than 1% unless otherwise noted): urticaria (2%), large intestinal ulcer, esophagitis, acute respiratory distress syndrome, renal failure, and infusion reaction.
+ 
+
+ Based on the experience in the entire clinical program for melanoma, the incidence and severity of enterocolitis and hepatitis appear to be dose dependent.
+
+
+
+   6.2   Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of YERVOY. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  Drug reaction with eosinophilia and systemic symptoms (DRESS syndrome)
+
+
+
+   6.3   Immunogenicity
+
+  In clinical studies, 1.1% of 1024 evaluable patients tested positive for binding antibodies against ipilimumab in an electrochemiluminescent (ECL) based assay. This assay has substantial limitations in detecting anti-ipilimumab antibodies in the presence of ipilimumab. Infusion-related or peri-infusional reactions consistent with hypersensitivity or anaphylaxis were not reported in these 11 patients nor were neutralizing antibodies against ipilimumab detected.
+
+
+
+ Because trough levels of ipilimumab interfere with the ECL assay results, a subset analysis was performed in the dose cohort with the lowest trough levels. In this analysis, 6.9% of 58 evaluable patients, who were treated with 0.3 mg/kg dose, tested positive for binding antibodies against ipilimumab.
+
+
+
+ Immunogenicity assay results are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of incidence of antibodies to YERVOY with the incidences of antibodies to other products may be misleading.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: IMMUNE-MEDIATED ADVERSE REACTIONS
+
+  WARNING: IMMUNE-MEDIATED ADVERSE REACTIONS
+
+    YERVOY can result in severe and fatal immune-mediated adverse reactions due to T-cell activation and proliferation. These immune-mediated reactions may involve any organ system; however, the most common severe immune-mediated adverse reactions are enterocolitis, hepatitis, dermatitis (including toxic epidermal necrolysis), neuropathy, and endocrinopathy. The majority of these immune-mediated reactions initially manifested during treatment; however, a minority occurred weeks to months after discontinuation of YERVOY.  
+
+
+
+   Permanently discontinue YERVOY and initiate systemic high-dose corticosteroid therapy for severe immune-mediated reactions.   [See   Dosage and Administration (2.2)  .]    
+
+
+
+   Assess patients for signs and symptoms of enterocolitis, dermatitis, neuropathy, and endocrinopathy and evaluate clinical chemistries including liver function tests and thyroid function tests at baseline and before each dose.   [See   Warnings and Precautions (5.1  ,   5.2  ,   5.3  ,   5.4  ,   5.5)  .]    
+
+
+
+   EXCERPT:   WARNING: IMMUNE-MEDIATED ADVERSE REACTIONS
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   YERVOY can result in severe and fatal immune-mediated adverse reactions due to T-cell activation and proliferation. These immune-mediated reactions may involve any organ system; however, the most common severe immune-mediated adverse reactions are enterocolitis, hepatitis, dermatitis (including toxic epidermal necrolysis), neuropathy, and endocrinopathy. The majority of these immune-mediated reactions initially manifested during treatment; however, a minority occurred weeks to months after discontinuation of YERVOY.  
+
+
+
+   Permanently discontinue YERVOY and initiate systemic high-dose corticosteroid therapy for severe immune-mediated reactions.   (2.2)    
+
+
+
+   Assess patients for signs and symptoms of enterocolitis, dermatitis, neuropathy, and endocrinopathy and evaluate clinical chemistries including liver function tests and thyroid function tests at baseline and before each dose.   (5.1  ,   5.2  ,   5.3  ,   5.4  ,   5.5)    
+</Section>
+    <Section name="warnings and precautions" id="S3">    5    WARNINGS AND PRECAUTIONS
+
+
+
+  YERVOY can result in severe and fatal immune-mediated reactions due to T-cell activation and proliferation. [See  Boxed Warning  .]  
+
+
+
+   EXCERPT:   Immune-mediated adverse reactions: Permanently discontinue for severe reactions. Withhold dose for moderate immune-mediated adverse reactions until return to baseline, improvement to mild severity, or complete resolution, and patient is receiving less than 7.5 mg prednisone or equivalent per day. Administer systemic high-dose corticosteroids for severe, persistent, or recurring immune-mediated reactions.  (5.1  ,  5.2  ,  5.3  ,  5.4  ,  5.5)  
+
+
+
+ *  ?  Immune-mediated hepatitis: Evaluate liver function tests before each dose of YERVOY.  (5.2)   
+ *  ?  Immune-mediated endocrinopathies: Monitor thyroid function tests and clinical chemistries prior to each dose. Evaluate at each visit for signs and symptoms of endocrinopathy. Institute hormone replacement therapy as needed.  (5.5)   
+    
+ 
+
+   5.1   Immune-mediated Enterocolitis
+
+
+
+  In Study 1, severe, life-threatening, or fatal (diarrhea of 7 or more stools above baseline, fever, ileus, peritoneal signs; Grade 3-5) immune-mediated enterocolitis occurred in 34 (7%) YERVOY-treated patients, and moderate (diarrhea with up to 6 stools above baseline, abdominal pain, mucus or blood in stool; Grade 2) enterocolitis occurred in 28 (5%) YERVOY-treated patients. Across all YERVOY-treated patients (n=511), 5 (1%) patients developed intestinal perforation, 4 (0.8%) patients died as a result of complications, and 26 (5%) patients were hospitalized for severe enterocolitis.
+
+
+
+ The median time to onset was 7.4 weeks (range: 1.6-13.4) and 6.3 weeks (range: 0.3-18.9) after the initiation of YERVOY for patients with Grade 3-5 enterocolitis and with Grade 2 enterocolitis, respectively.
+
+
+
+ Twenty-nine patients (85%) with Grade 3-5 enterocolitis were treated with high-dose (&gt;=40 mg prednisone equivalent per day) corticosteroids, with a median dose of 80 mg/day of prednisone or equivalent; the median duration of treatment was 2.3 weeks (ranging up to 13.9 weeks) followed by corticosteroid taper. Of the 28 patients with moderate enterocolitis, 46% were not treated with systemic corticosteroids, 29% were treated with &lt;40 mg prednisone or equivalent per day for a median duration of 5.1 weeks, and 25% were treated with high-dose corticosteroids for a median duration of 10 days prior to corticosteroid taper. Infliximab was administered to 5 of the 62 patients (8%) with moderate, severe, or life-threatening immune-mediated enterocolitis following inadequate response to corticosteroids.
+
+
+
+ Of the 34 patients with Grade 3-5 enterocolitis, 74% experienced complete resolution, 3% experienced improvement to Grade 2 severity, and 24% did not improve. Among the 28 patients with Grade 2 enterocolitis, 79% experienced complete resolution, 11% improved, and 11% did not improve.
+
+
+
+ Monitor patients for signs and symptoms of enterocolitis (such as diarrhea, abdominal pain, mucus or blood in stool, with or without fever) and of bowel perforation (such as peritoneal signs and ileus). In symptomatic patients, rule out infectious etiologies and consider endoscopic evaluation for persistent or severe symptoms.
+
+
+
+ Permanently discontinue YERVOY in patients with severe enterocolitis and initiate systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent. Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month. In clinical trials, rapid corticosteroid tapering resulted in recurrence or worsening symptoms of enterocolitis in some patients.
+
+
+
+ Withhold YERVOY dosing for moderate enterocolitis; administer anti-diarrheal treatment and, if persistent for more than 1 week, initiate systemic corticosteroids at a dose of 0.5 mg/kg/day prednisone or equivalent. [See  Dosage and Administration (2.2)  .]  
+
+
+
+    5.2   Immune-mediated Hepatitis
+
+
+
+  In Study 1, severe, life-threatening, or fatal hepatotoxicity (AST or ALT elevations of more than 5 times the upper limit of normal or total bilirubin elevations more than 3 times the upper limit of normal; Grade 3-5) occurred in 8 (2%) YERVOY-treated patients, with fatal hepatic failure in 0.2% and hospitalization in 0.4% of YERVOY-treated patients. An additional 13 (2.5%) patients experienced moderate hepatotoxicity manifested by liver function test abnormalities (AST or ALT elevations of more than 2.5 times but not more than 5 times the upper limit of normal or total bilirubin elevation of more than 1.5 times but not more than 3 times the upper limit of normal; Grade 2). The underlying pathology was not ascertained in all patients but in some instances included immune-mediated hepatitis. There were insufficient numbers of patients with biopsy-proven hepatitis to characterize the clinical course of this event.
+
+
+
+ Monitor liver function tests (hepatic transaminase and bilirubin levels) and assess patients for signs and symptoms of hepatotoxicity before each dose of YERVOY. In patients with hepatotoxicity, rule out infectious or malignant causes and increase frequency of liver function test monitoring until resolution.
+
+
+
+ Permanently discontinue YERVOY in patients with Grade 3-5 hepatotoxicity and administer systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent. When liver function tests show sustained improvement or return to baseline, initiate corticosteroid tapering and continue to taper over 1 month. Across the clinical development program for YERVOY, mycophenolate treatment has been administered in patients who have persistent severe hepatitis despite high-dose corticosteroids. Withhold YERVOY in patients with Grade 2 hepatotoxicity. [See  Dosage and Administration (2.2)  .]  
+
+
+
+    Concurrent Administration with Vemurafenib
+
+
+
+  In a dose-finding trial, Grade 3 increases in transaminases with or without concomitant increases in total bilirubin occurred in 6 of 10 patients who received concurrent YERVOY (3 mg/kg) and vemurafenib (960 mg BID or 720 mg BID).
+
+
+
+    5.3   Immune-mediated Dermatitis
+
+
+
+  In Study 1, severe, life-threatening, or fatal immune-mediated dermatitis (eg, Stevens-Johnson syndrome, toxic epidermal necrolysis, or rash complicated by full thickness dermal ulceration, or necrotic, bullous, or hemorrhagic manifestations; Grade 3-5) occurred in 13 (2.5%) YERVOY-treated patients. One (0.2%) patient died as a result of toxic epidermal necrolysis and one additional patient required hospitalization for severe dermatitis. There were 63 (12%) patients with moderate (Grade 2) dermatitis.
+
+
+
+ The median time to onset of moderate, severe, or life-threatening immune-mediated dermatitis was 3.1 weeks and ranged up to 17.3 weeks from the initiation of YERVOY.
+
+
+
+ Seven (54%) YERVOY-treated patients with severe dermatitis received high-dose corticosteroids (median dose 60 mg prednisone/day or equivalent) for up to 14.9 weeks followed by corticosteroid taper. Of these 7 patients, 6 had complete resolution; time to resolution ranged up to 15.6 weeks.
+
+
+
+ Of the 63 patients with moderate dermatitis, 25 (40%) were treated with systemic corticosteroids (median of 60 mg/day of prednisone or equivalent) for a median of 2.1 weeks, 7 (11%) were treated with only topical corticosteroids, and 31 (49%) did not receive systemic or topical corticosteroids. Forty-four (70%) patients with moderate dermatitis were reported to have complete resolution, 7 (11%) improved to mild (Grade 1) severity, and 12 (19%) had no reported improvement.
+
+
+
+ Monitor patients for signs and symptoms of dermatitis such as rash and pruritus. Unless an alternate etiology has been identified, signs or symptoms of dermatitis should be considered immune-mediated.
+
+
+
+ Permanently discontinue YERVOY in patients with Stevens-Johnson syndrome, toxic epidermal necrolysis, or rash complicated by full thickness dermal ulceration, or necrotic, bullous, or hemorrhagic manifestations. Administer systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent. When dermatitis is controlled, corticosteroid tapering should occur over a period of at least 1 month. Withhold YERVOY dosing in patients with moderate to severe signs and symptoms. [See  Dosage and Administration (2.2)  .]  
+
+
+
+ For mild to moderate dermatitis, such as localized rash and pruritus, treat symptomatically. Administer topical or systemic corticosteroids if there is no improvement of symptoms within 1 week.
+
+
+
+    5.4   Immune-mediated Neuropathies
+
+
+
+  In Study 1, 1 case of fatal Guillain-Barre syndrome and 1 case of severe (Grade 3) peripheral motor neuropathy were reported. Across the clinical development program of YERVOY, myasthenia gravis and additional cases of Guillain-Barre syndrome have been reported.
+
+
+
+ Monitor for symptoms of motor or sensory neuropathy such as unilateral or bilateral weakness, sensory alterations, or paresthesia. Permanently discontinue YERVOY in patients with severe neuropathy (interfering with daily activities) such as Guillain-Barre-like syndromes. Institute medical intervention as appropriate for management of severe neuropathy. Consider initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg/day prednisone or equivalent for severe neuropathies. Withhold YERVOY dosing in patients with moderate neuropathy (not interfering with daily activities). [See  Dosage and Administration (2.2)  .]  
+
+
+
+    5.5   Immune-mediated Endocrinopathies
+
+
+
+  In Study 1, severe to life-threatening immune-mediated endocrinopathies (requiring hospitalization, urgent medical intervention, or interfering with activities of daily living; Grade 3-4) occurred in 9 (1.8%) YERVOY-treated patients. All 9 patients had hypopituitarism and some had additional concomitant endocrinopathies such as adrenal insufficiency, hypogonadism, and hypothyroidism. Six of the 9 patients were hospitalized for severe endocrinopathies. Moderate endocrinopathy (requiring hormone replacement or medical intervention; Grade 2) occurred in 12 (2.3%) patients and consisted of hypothyroidism, adrenal insufficiency, hypopituitarism, and 1 case each of hyperthyroidism and Cushing's syndrome. The median time to onset of moderate to severe immune-mediated endocrinopathy was 11 weeks and ranged up to 19.3 weeks after the initiation of YERVOY.
+
+
+
+ Of the 21 patients with moderate to life-threatening endocrinopathy, 17 patients required long-term hormone replacement therapy including, most commonly, adrenal hormones (n=10) and thyroid hormones (n=13).
+
+
+
+ Monitor patients for clinical signs and symptoms of hypophysitis, adrenal insufficiency (including adrenal crisis), and hyper- or hypothyroidism. Patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease. Unless an alternate etiology has been identified, signs or symptoms of endocrinopathies should be considered immune-mediated.
+
+
+
+ Monitor thyroid function tests and clinical chemistries at the start of treatment, before each dose, and as clinically indicated based on symptoms. In a limited number of patients, hypophysitis was diagnosed by imaging studies through enlargement of the pituitary gland.
+
+
+
+ Withhold YERVOY dosing in symptomatic patients. Initiate systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent, and initiate appropriate hormone replacement therapy. [See  Dosage and Administration (2.2)  .]  
+
+
+
+    5.6   Other Immune-mediated Adverse Reactions, Including Ocular Manifestations
+
+
+
+  The following clinically significant immune-mediated adverse reactions were seen in less than 1% of YERVOY-treated patients in Study 1: nephritis, pneumonitis, meningitis, pericarditis, uveitis, iritis, and hemolytic anemia.
+
+
+
+ Across the clinical development program for YERVOY, the following likely immune-mediated adverse reactions were also reported with less than 1% incidence: myocarditis, angiopathy, temporal arteritis, vasculitis, polymyalgia rheumatica, conjunctivitis, blepharitis, episcleritis, scleritis, leukocytoclastic vasculitis, erythema multiforme, psoriasis, pancreatitis, arthritis, autoimmune thyroiditis, sarcoidosis, neurosensory hypoacusis, autoimmune central neuropathy (encephalitis), myositis, polymyositis, and ocular myositis.
+
+
+
+ Permanently discontinue YERVOY for clinically significant or severe immune-mediated adverse reactions. Initiate systemic corticosteroids at a dose of 1 to 2 mg/kg/day prednisone or equivalent for severe immune-mediated adverse reactions.
+
+
+
+ Administer corticosteroid eye drops to patients who develop uveitis, iritis, or episcleritis. Permanently discontinue YERVOY for immune-mediated ocular disease that is unresponsive to local immunosuppressive therapy. [See  Dosage and Administration (2.2)  .]  
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="139" len="29" str="Immune-mediated enterocolitis" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="219" len="25" str="Immune-mediated hepatitis" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="295" len="26" str="Immune-mediated dermatitis" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="372" len="28" str="Immune-mediated neuropathies" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="451" len="32" str="Immune-mediated endocrinopathies" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="540" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="585" len="21" str="ocular manifestations" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="708" len="7" str="fatigue" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="717" len="8" str="diarrhea" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="727" len="8" str="pruritus" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="737" len="4" str="rash" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="747" len="7" str="colitis" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="2173" len="7" str="fatigue" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="2182" len="8" str="diarrhea" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="2192" len="8" str="pruritus" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="2202" len="4" str="rash" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="2212" len="7" str="colitis" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="3034" len="8" str="Diarrhea" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="3151" len="7" str="Colitis" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="3326" len="8" str="Pruritus" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="3443" len="4" str="Rash" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="3632" len="7" str="Fatigue" />
+    <Mention id="M23" section="S1" type="Severity" start="3802" len="6" str="severe" />
+    <Mention id="M24" section="S1" type="Severity" start="3810" len="16" str="life-threatening" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="3831" len="5" str="fatal" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="3837" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M27" section="S1" type="Severity" start="3902" len="6" str="Severe" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="3912" len="5" str="Fatal" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="3918" len="33" str="Immune-mediated Adverse Reactions" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="3983" len="5" str="fatal" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="4015" len="22" str="intestinal perforation" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="4386" len="13" str="Enterocolitis" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="4495" len="14" str="Hepatotoxicity" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="4604" len="10" str="Dermatitis" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="4713" len="10" str="Neuropathy" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="4822" len="14" str="Endocrinopathy" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="4935" len="15" str="Hypopituitarism" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="5044" len="21" str="Adrenal insufficiency" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="5262" len="11" str="Pneumonitis" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="5371" len="10" str="Meningitis" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="5480" len="9" str="Nephritis" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="5589" len="12" str="Eosinophilia" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="5698" len="12" str="Pericarditis" />
+    <Mention id="M44" section="S1" type="AdverseReaction" start="5991" len="9" str="urticaria" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="6007" len="22" str="large intestinal ulcer" />
+    <Mention id="M46" section="S1" type="AdverseReaction" start="6031" len="11" str="esophagitis" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="6044" len="35" str="acute respiratory distress syndrome" />
+    <Mention id="M48" section="S1" type="AdverseReaction" start="6081" len="13" str="renal failure" />
+    <Mention id="M49" section="S1" type="AdverseReaction" start="6100" len="17" str="infusion reaction" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="6222" len="13" str="enterocolitis" />
+    <Mention id="M51" section="S1" type="AdverseReaction" start="6240" len="9" str="hepatitis" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="6656" len="53" str="Drug reaction with eosinophilia and systemic symptoms" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="6711" len="14" str="DRESS syndrome" />
+    <Mention id="M54" section="S1" type="AdverseReaction" start="7027,7063" len="16,9" str="Infusion-related reactions" />
+    <Mention id="M55" section="S1" type="AdverseReaction" start="7047" len="25" str="peri-infusional reactions" />
+    <Mention id="M56" section="S1" type="AdverseReaction" start="7089" len="16" str="hypersensitivity" />
+    <Mention id="M57" section="S1" type="AdverseReaction" start="7109" len="11" str="anaphylaxis" />
+    <Mention id="M58" section="S1" type="Negation" start="7126" len="3" str="not" />
+    <Mention id="M59" section="S2" type="AdverseReaction" start="30" len="33" str="IMMUNE-MEDIATED ADVERSE REACTIONS" />
+    <Mention id="M60" section="S2" type="AdverseReaction" start="76" len="33" str="IMMUNE-MEDIATED ADVERSE REACTIONS" />
+    <Mention id="M61" section="S2" type="Factor" start="122" len="3" str="can" />
+    <Mention id="M62" section="S2" type="Severity" start="136" len="6" str="severe" />
+    <Mention id="M63" section="S2" type="AdverseReaction" start="147" len="5" str="fatal" />
+    <Mention id="M64" section="S2" type="AdverseReaction" start="153" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M65" section="S2" type="AdverseReaction" start="237" len="25" str="immune-mediated reactions" />
+    <Mention id="M66" section="S2" type="Factor" start="263" len="3" str="may" />
+    <Mention id="M67" section="S2" type="Severity" start="318" len="6" str="severe" />
+    <Mention id="M68" section="S2" type="AdverseReaction" start="325" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M69" section="S2" type="AdverseReaction" start="363" len="13" str="enterocolitis" />
+    <Mention id="M70" section="S2" type="AdverseReaction" start="378" len="9" str="hepatitis" />
+    <Mention id="M71" section="S2" type="AdverseReaction" start="389" len="10" str="dermatitis" />
+    <Mention id="M72" section="S2" type="AdverseReaction" start="411" len="26" str="toxic epidermal necrolysis" />
+    <Mention id="M73" section="S2" type="AdverseReaction" start="440" len="10" str="neuropathy" />
+    <Mention id="M74" section="S2" type="AdverseReaction" start="456" len="14" str="endocrinopathy" />
+    <Mention id="M75" section="S2" type="AdverseReaction" start="1160" len="33" str="IMMUNE-MEDIATED ADVERSE REACTIONS" />
+    <Mention id="M76" section="S2" type="Factor" start="1276" len="3" str="can" />
+    <Mention id="M77" section="S2" type="Severity" start="1290" len="6" str="severe" />
+    <Mention id="M78" section="S2" type="AdverseReaction" start="1301" len="5" str="fatal" />
+    <Mention id="M79" section="S2" type="AdverseReaction" start="1307" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M80" section="S2" type="Factor" start="1417" len="3" str="may" />
+    <Mention id="M81" section="S2" type="Severity" start="1472" len="6" str="severe" />
+    <Mention id="M82" section="S2" type="AdverseReaction" start="1479" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M83" section="S2" type="AdverseReaction" start="1517" len="13" str="enterocolitis" />
+    <Mention id="M84" section="S2" type="AdverseReaction" start="1532" len="9" str="hepatitis" />
+    <Mention id="M85" section="S2" type="AdverseReaction" start="1543" len="10" str="dermatitis" />
+    <Mention id="M86" section="S2" type="AdverseReaction" start="1565" len="26" str="toxic epidermal necrolysis" />
+    <Mention id="M87" section="S2" type="AdverseReaction" start="1594" len="10" str="neuropathy" />
+    <Mention id="M88" section="S2" type="AdverseReaction" start="1610" len="14" str="endocrinopathy" />
+    <Mention id="M89" section="S2" type="AdverseReaction" start="1648" len="25" str="immune-mediated reactions" />
+    <Mention id="M90" section="S3" type="Factor" start="46" len="3" str="can" />
+    <Mention id="M91" section="S3" type="Severity" start="60" len="6" str="severe" />
+    <Mention id="M92" section="S3" type="AdverseReaction" start="71" len="5" str="fatal" />
+    <Mention id="M93" section="S3" type="AdverseReaction" start="77" len="25" str="immune-mediated reactions" />
+    <Mention id="M94" section="S3" type="AdverseReaction" start="190" len="33" str="Immune-mediated adverse reactions" />
+    <Mention id="M95" section="S3" type="AdverseReaction" start="649" len="25" str="Immune-mediated hepatitis" />
+    <Mention id="M96" section="S3" type="AdverseReaction" start="751" len="32" str="Immune-mediated endocrinopathies" />
+    <Mention id="M97" section="S3" type="Severity" start="1049" len="6" str="severe" />
+    <Mention id="M98" section="S3" type="Severity" start="1057" len="16" str="life-threatening" />
+    <Mention id="M99" section="S3" type="AdverseReaction" start="1078" len="5" str="fatal" />
+    <Mention id="M100" section="S3" type="AdverseReaction" start="1085" len="8" str="diarrhea" />
+    <Mention id="M101" section="S3" type="Severity" start="1097" len="31" str="7 or more stools above baseline" />
+    <Mention id="M102" section="S3" type="AdverseReaction" start="1130" len="5" str="fever" />
+    <Mention id="M103" section="S3" type="AdverseReaction" start="1137" len="5" str="ileus" />
+    <Mention id="M104" section="S3" type="AdverseReaction" start="1144" len="16" str="peritoneal signs" />
+    <Mention id="M105" section="S3" type="Severity" start="1162" len="7" str="Grade 3" />
+    <Mention id="M106" section="S3" type="Severity" start="1162,1170" len="5,1" str="Grade 5" />
+    <Mention id="M107" section="S3" type="Severity" start="1162" len="9" str="Grade 3-5" />
+    <Mention id="M108" section="S3" type="AdverseReaction" start="1173" len="29" str="immune-mediated enterocolitis" />
+    <Mention id="M109" section="S3" type="Severity" start="1252" len="8" str="moderate" />
+    <Mention id="M110" section="S3" type="AdverseReaction" start="1262" len="8" str="diarrhea" />
+    <Mention id="M111" section="S3" type="Severity" start="1276" len="29" str="up to 6 stools above baseline" />
+    <Mention id="M112" section="S3" type="AdverseReaction" start="1307" len="14" str="abdominal pain" />
+    <Mention id="M113" section="S3" type="AdverseReaction" start="1323,1338" len="5,8" str="mucus in stool" />
+    <Mention id="M114" section="S3" type="AdverseReaction" start="1332" len="14" str="blood in stool" />
+    <Mention id="M115" section="S3" type="Severity" start="1348" len="7" str="Grade 2" />
+    <Mention id="M116" section="S3" type="AdverseReaction" start="1357" len="13" str="enterocolitis" />
+    <Mention id="M117" section="S3" type="AdverseReaction" start="1486" len="22" str="intestinal perforation" />
+    <Mention id="M118" section="S3" type="AdverseReaction" start="1528" len="4" str="died" />
+    <Mention id="M119" section="S3" type="Severity" start="1606" len="6" str="severe" />
+    <Mention id="M120" section="S3" type="AdverseReaction" start="1613" len="13" str="enterocolitis" />
+    <Mention id="M121" section="S3" type="Severity" start="1770" len="7" str="Grade 3" />
+    <Mention id="M122" section="S3" type="Severity" start="1770,1778" len="5,1" str="Grade 5" />
+    <Mention id="M123" section="S3" type="Severity" start="1770" len="9" str="Grade 3-5" />
+    <Mention id="M124" section="S3" type="AdverseReaction" start="1780" len="13" str="enterocolitis" />
+    <Mention id="M125" section="S3" type="Severity" start="1803" len="7" str="Grade 2" />
+    <Mention id="M126" section="S3" type="AdverseReaction" start="1811" len="13" str="enterocolitis" />
+    <Mention id="M127" section="S3" type="Severity" start="1876" len="7" str="Grade 3" />
+    <Mention id="M128" section="S3" type="Severity" start="1876,1884" len="5,1" str="Grade 5" />
+    <Mention id="M129" section="S3" type="Severity" start="1876" len="9" str="Grade 3-5" />
+    <Mention id="M130" section="S3" type="AdverseReaction" start="1886" len="13" str="enterocolitis" />
+    <Mention id="M131" section="S3" type="Severity" start="2178" len="8" str="moderate" />
+    <Mention id="M132" section="S3" type="AdverseReaction" start="2187" len="13" str="enterocolitis" />
+    <Mention id="M133" section="S3" type="Severity" start="2530" len="8" str="moderate" />
+    <Mention id="M134" section="S3" type="Severity" start="2540" len="6" str="severe" />
+    <Mention id="M135" section="S3" type="Severity" start="2551" len="16" str="life-threatening" />
+    <Mention id="M136" section="S3" type="AdverseReaction" start="2568" len="29" str="immune-mediated enterocolitis" />
+    <Mention id="M137" section="S3" type="Severity" start="2676" len="7" str="Grade 3" />
+    <Mention id="M138" section="S3" type="Severity" start="2676" len="9" str="Grade 3-5" />
+    <Mention id="M139" section="S3" type="Severity" start="2676,2684" len="5,1" str="Grade 5" />
+    <Mention id="M140" section="S3" type="AdverseReaction" start="2686" len="13" str="enterocolitis" />
+    <Mention id="M141" section="S3" type="Severity" start="2838" len="7" str="Grade 2" />
+    <Mention id="M142" section="S3" type="AdverseReaction" start="2846" len="13" str="enterocolitis" />
+    <Mention id="M143" section="S3" type="Severity" start="4001" len="6" str="severe" />
+    <Mention id="M144" section="S3" type="Severity" start="4009" len="16" str="life-threatening" />
+    <Mention id="M145" section="S3" type="AdverseReaction" start="4030" len="5" str="fatal" />
+    <Mention id="M146" section="S3" type="AdverseReaction" start="4036" len="14" str="hepatotoxicity" />
+    <Mention id="M147" section="S3" type="AdverseReaction" start="4052,4063" len="3,10" str="AST elevations" />
+    <Mention id="M148" section="S3" type="AdverseReaction" start="4059" len="14" str="ALT elevations" />
+    <Mention id="M149" section="S3" type="Severity" start="4087" len="33" str="5 times the upper limit of normal" />
+    <Mention id="M150" section="S3" type="AdverseReaction" start="4124" len="26" str="total bilirubin elevations" />
+    <Mention id="M151" section="S3" type="Severity" start="4161" len="33" str="3 times the upper limit of normal" />
+    <Mention id="M152" section="S3" type="Severity" start="4196" len="7" str="Grade 3" />
+    <Mention id="M153" section="S3" type="Severity" start="4196" len="9" str="Grade 3-5" />
+    <Mention id="M154" section="S3" type="Severity" start="4196,4204" len="5,1" str="Grade 5" />
+    <Mention id="M155" section="S3" type="AdverseReaction" start="4256" len="5" str="fatal" />
+    <Mention id="M156" section="S3" type="AdverseReaction" start="4262" len="15" str="hepatic failure" />
+    <Mention id="M157" section="S3" type="Severity" start="4387" len="8" str="moderate" />
+    <Mention id="M158" section="S3" type="AdverseReaction" start="4396" len="14" str="hepatotoxicity" />
+    <Mention id="M159" section="S3" type="AdverseReaction" start="4425" len="33" str="liver function test abnormalities" />
+    <Mention id="M160" section="S3" type="AdverseReaction" start="4460,4471" len="3,10" str="AST elevations" />
+    <Mention id="M161" section="S3" type="AdverseReaction" start="4467" len="14" str="ALT elevations" />
+    <Mention id="M162" section="S3" type="Severity" start="4495" len="61" str="2.5 times but not more than 5 times the upper limit of normal" />
+    <Mention id="M163" section="S3" type="AdverseReaction" start="4560" len="25" str="total bilirubin elevation" />
+    <Mention id="M164" section="S3" type="Severity" start="4599" len="61" str="1.5 times but not more than 3 times the upper limit of normal" />
+    <Mention id="M165" section="S3" type="Severity" start="4662" len="7" str="Grade 2" />
+    <Mention id="M166" section="S3" type="AdverseReaction" start="4764" len="25" str="immune-mediated hepatitis" />
+    <Mention id="M167" section="S3" type="Severity" start="5913" len="7" str="Grade 3" />
+    <Mention id="M168" section="S3" type="AdverseReaction" start="5921" len="26" str="increases in transaminases" />
+    <Mention id="M169" section="S3" type="AdverseReaction" start="5976" len="28" str="increases in total bilirubin" />
+    <Mention id="M170" section="S3" type="Severity" start="6176" len="6" str="severe" />
+    <Mention id="M171" section="S3" type="Severity" start="6184" len="16" str="life-threatening" />
+    <Mention id="M172" section="S3" type="AdverseReaction" start="6205" len="5" str="fatal" />
+    <Mention id="M173" section="S3" type="AdverseReaction" start="6211" len="26" str="immune-mediated dermatitis" />
+    <Mention id="M174" section="S3" type="AdverseReaction" start="6243" len="24" str="Stevens-Johnson syndrome" />
+    <Mention id="M175" section="S3" type="AdverseReaction" start="6269" len="26" str="toxic epidermal necrolysis" />
+    <Mention id="M176" section="S3" type="AdverseReaction" start="6300" len="4" str="rash" />
+    <Mention id="M177" section="S3" type="AdverseReaction" start="6335" len="17" str="dermal ulceration" />
+    <Mention id="M178" section="S3" type="AdverseReaction" start="6335,6357,6391" len="6,8,14" str="dermal necrotic manifestations" />
+    <Mention id="M179" section="S3" type="AdverseReaction" start="6335,6367,6391" len="6,7,14" str="dermal bullous manifestations" />
+    <Mention id="M180" section="S3" type="AdverseReaction" start="6335,6379" len="6,26" str="dermal hemorrhagic manifestations" />
+    <Mention id="M181" section="S3" type="Severity" start="6407" len="7" str="Grade 3" />
+    <Mention id="M182" section="S3" type="Severity" start="6407,6415" len="5,1" str="Grade 5" />
+    <Mention id="M183" section="S3" type="Severity" start="6407" len="9" str="Grade 3-5" />
+    <Mention id="M184" section="S3" type="AdverseReaction" start="6484" len="4" str="died" />
+    <Mention id="M185" section="S3" type="AdverseReaction" start="6504" len="26" str="toxic epidermal necrolysis" />
+    <Mention id="M186" section="S3" type="Severity" start="6587" len="6" str="severe" />
+    <Mention id="M187" section="S3" type="AdverseReaction" start="6594" len="10" str="dermatitis" />
+    <Mention id="M188" section="S3" type="Severity" start="6640" len="8" str="moderate" />
+    <Mention id="M189" section="S3" type="Severity" start="6650" len="7" str="Grade 2" />
+    <Mention id="M190" section="S3" type="AdverseReaction" start="6659" len="10" str="dermatitis" />
+    <Mention id="M191" section="S3" type="Severity" start="6703" len="8" str="moderate" />
+    <Mention id="M192" section="S3" type="Severity" start="6713" len="6" str="severe" />
+    <Mention id="M193" section="S3" type="Severity" start="6724" len="16" str="life-threatening" />
+    <Mention id="M194" section="S3" type="AdverseReaction" start="6741" len="26" str="immune-mediated dermatitis" />
+    <Mention id="M195" section="S3" type="Severity" start="6886" len="6" str="severe" />
+    <Mention id="M196" section="S3" type="AdverseReaction" start="6893" len="10" str="dermatitis" />
+    <Mention id="M197" section="S3" type="Severity" start="7163" len="8" str="moderate" />
+    <Mention id="M198" section="S3" type="AdverseReaction" start="7172" len="10" str="dermatitis" />
+    <Mention id="M199" section="S3" type="Severity" start="7466" len="8" str="moderate" />
+    <Mention id="M200" section="S3" type="AdverseReaction" start="7475" len="10" str="dermatitis" />
+    <Mention id="M201" section="S3" type="AdverseReaction" start="8625" len="5" str="fatal" />
+    <Mention id="M202" section="S3" type="AdverseReaction" start="8631" len="23" str="Guillain-Barre syndrome" />
+    <Mention id="M203" section="S3" type="Severity" start="8669" len="6" str="severe" />
+    <Mention id="M204" section="S3" type="Severity" start="8677" len="7" str="Grade 3" />
+    <Mention id="M205" section="S3" type="AdverseReaction" start="8686" len="27" str="peripheral motor neuropathy" />
+    <Mention id="M206" section="S3" type="AdverseReaction" start="8780" len="17" str="myasthenia gravis" />
+    <Mention id="M207" section="S3" type="AdverseReaction" start="8822" len="23" str="Guillain-Barre syndrome" />
+    <Mention id="M208" section="S3" type="Severity" start="9561" len="6" str="severe" />
+    <Mention id="M209" section="S3" type="Severity" start="9571" len="16" str="life-threatening" />
+    <Mention id="M210" section="S3" type="AdverseReaction" start="9588" len="32" str="immune-mediated endocrinopathies" />
+    <Mention id="M211" section="S3" type="Severity" start="9726" len="7" str="Grade 3" />
+    <Mention id="M212" section="S3" type="Severity" start="9726" len="9" str="Grade 3-4" />
+    <Mention id="M213" section="S3" type="Severity" start="9726,9734" len="5,1" str="Grade 4" />
+    <Mention id="M214" section="S3" type="AdverseReaction" start="9802" len="15" str="hypopituitarism" />
+    <Mention id="M215" section="S3" type="AdverseReaction" start="9854" len="16" str="endocrinopathies" />
+    <Mention id="M216" section="S3" type="AdverseReaction" start="9879" len="21" str="adrenal insufficiency" />
+    <Mention id="M217" section="S3" type="AdverseReaction" start="9902" len="12" str="hypogonadism" />
+    <Mention id="M218" section="S3" type="AdverseReaction" start="9920" len="14" str="hypothyroidism" />
+    <Mention id="M219" section="S3" type="Severity" start="9980" len="6" str="severe" />
+    <Mention id="M220" section="S3" type="AdverseReaction" start="9987" len="16" str="endocrinopathies" />
+    <Mention id="M221" section="S3" type="Severity" start="10005" len="8" str="Moderate" />
+    <Mention id="M222" section="S3" type="AdverseReaction" start="10014" len="14" str="endocrinopathy" />
+    <Mention id="M223" section="S3" type="Severity" start="10085" len="7" str="Grade 2" />
+    <Mention id="M224" section="S3" type="AdverseReaction" start="10142" len="14" str="hypothyroidism" />
+    <Mention id="M225" section="S3" type="AdverseReaction" start="10158" len="21" str="adrenal insufficiency" />
+    <Mention id="M226" section="S3" type="AdverseReaction" start="10181" len="15" str="hypopituitarism" />
+    <Mention id="M227" section="S3" type="AdverseReaction" start="10217" len="15" str="hyperthyroidism" />
+    <Mention id="M228" section="S3" type="AdverseReaction" start="10237" len="18" str="Cushing's syndrome" />
+    <Mention id="M229" section="S3" type="Severity" start="10285" len="8" str="moderate" />
+    <Mention id="M230" section="S3" type="Severity" start="10297" len="6" str="severe" />
+    <Mention id="M231" section="S3" type="AdverseReaction" start="10304" len="30" str="immune-mediated endocrinopathy" />
+    <Mention id="M232" section="S3" type="Severity" start="10436" len="8" str="moderate" />
+    <Mention id="M233" section="S3" type="Severity" start="10448" len="16" str="life-threatening" />
+    <Mention id="M234" section="S3" type="AdverseReaction" start="10465" len="14" str="endocrinopathy" />
+    <Mention id="M235" section="S3" type="AdverseReaction" start="11307" len="12" str="hypophysitis" />
+    <Mention id="M236" section="S3" type="AdverseReaction" start="11768" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M237" section="S3" type="AdverseReaction" start="11867" len="9" str="nephritis" />
+    <Mention id="M238" section="S3" type="AdverseReaction" start="11878" len="11" str="pneumonitis" />
+    <Mention id="M239" section="S3" type="AdverseReaction" start="11891" len="10" str="meningitis" />
+    <Mention id="M240" section="S3" type="AdverseReaction" start="11903" len="12" str="pericarditis" />
+    <Mention id="M241" section="S3" type="AdverseReaction" start="11917" len="7" str="uveitis" />
+    <Mention id="M242" section="S3" type="AdverseReaction" start="11926" len="6" str="iritis" />
+    <Mention id="M243" section="S3" type="AdverseReaction" start="11938" len="16" str="hemolytic anemia" />
+    <Mention id="M244" section="S3" type="AdverseReaction" start="12033" len="33" str="immune-mediated adverse reactions" />
+    <Mention id="M245" section="S3" type="AdverseReaction" start="12115" len="11" str="myocarditis" />
+    <Mention id="M246" section="S3" type="AdverseReaction" start="12128" len="10" str="angiopathy" />
+    <Mention id="M247" section="S3" type="AdverseReaction" start="12140" len="18" str="temporal arteritis" />
+    <Mention id="M248" section="S3" type="AdverseReaction" start="12160" len="10" str="vasculitis" />
+    <Mention id="M249" section="S3" type="AdverseReaction" start="12172" len="22" str="polymyalgia rheumatica" />
+    <Mention id="M250" section="S3" type="AdverseReaction" start="12196" len="14" str="conjunctivitis" />
+    <Mention id="M251" section="S3" type="AdverseReaction" start="12212" len="11" str="blepharitis" />
+    <Mention id="M252" section="S3" type="AdverseReaction" start="12225" len="12" str="episcleritis" />
+    <Mention id="M253" section="S3" type="AdverseReaction" start="12239" len="9" str="scleritis" />
+    <Mention id="M254" section="S3" type="AdverseReaction" start="12250" len="27" str="leukocytoclastic vasculitis" />
+    <Mention id="M255" section="S3" type="AdverseReaction" start="12279" len="19" str="erythema multiforme" />
+    <Mention id="M256" section="S3" type="AdverseReaction" start="12300" len="9" str="psoriasis" />
+    <Mention id="M257" section="S3" type="AdverseReaction" start="12311" len="12" str="pancreatitis" />
+    <Mention id="M258" section="S3" type="AdverseReaction" start="12325" len="9" str="arthritis" />
+    <Mention id="M259" section="S3" type="AdverseReaction" start="12336" len="22" str="autoimmune thyroiditis" />
+    <Mention id="M260" section="S3" type="AdverseReaction" start="12360" len="11" str="sarcoidosis" />
+    <Mention id="M261" section="S3" type="AdverseReaction" start="12373" len="23" str="neurosensory hypoacusis" />
+    <Mention id="M262" section="S3" type="AdverseReaction" start="12398" len="29" str="autoimmune central neuropathy" />
+    <Mention id="M263" section="S3" type="AdverseReaction" start="12429" len="12" str="encephalitis" />
+    <Mention id="M264" section="S3" type="AdverseReaction" start="12444" len="8" str="myositis" />
+    <Mention id="M265" section="S3" type="AdverseReaction" start="12454" len="12" str="polymyositis" />
+    <Mention id="M266" section="S3" type="AdverseReaction" start="12472" len="15" str="ocular myositis" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M26" arg2="M24" />
+    <Relation id="RL2" type="Effect" arg1="M26" arg2="M23" />
+    <Relation id="RL3" type="Effect" arg1="M29" arg2="M27" />
+    <Relation id="RL4" type="Negated" arg1="M54" arg2="M58" />
+    <Relation id="RL5" type="Negated" arg1="M55" arg2="M58" />
+    <Relation id="RL6" type="Negated" arg1="M56" arg2="M58" />
+    <Relation id="RL7" type="Negated" arg1="M57" arg2="M58" />
+    <Relation id="RL8" type="Hypothetical" arg1="M63" arg2="M61" />
+    <Relation id="RL9" type="Effect" arg1="M64" arg2="M62" />
+    <Relation id="RL10" type="Hypothetical" arg1="M64" arg2="M61" />
+    <Relation id="RL11" type="Effect" arg1="M68" arg2="M67" />
+    <Relation id="RL12" type="Hypothetical" arg1="M69" arg2="M66" />
+    <Relation id="RL13" type="Effect" arg1="M69" arg2="M67" />
+    <Relation id="RL14" type="Hypothetical" arg1="M70" arg2="M66" />
+    <Relation id="RL15" type="Effect" arg1="M70" arg2="M67" />
+    <Relation id="RL16" type="Hypothetical" arg1="M71" arg2="M66" />
+    <Relation id="RL17" type="Effect" arg1="M71" arg2="M67" />
+    <Relation id="RL18" type="Hypothetical" arg1="M72" arg2="M66" />
+    <Relation id="RL19" type="Effect" arg1="M72" arg2="M67" />
+    <Relation id="RL20" type="Hypothetical" arg1="M73" arg2="M66" />
+    <Relation id="RL21" type="Effect" arg1="M73" arg2="M67" />
+    <Relation id="RL22" type="Hypothetical" arg1="M74" arg2="M66" />
+    <Relation id="RL23" type="Effect" arg1="M74" arg2="M67" />
+    <Relation id="RL24" type="Hypothetical" arg1="M78" arg2="M76" />
+    <Relation id="RL25" type="Effect" arg1="M79" arg2="M77" />
+    <Relation id="RL26" type="Hypothetical" arg1="M79" arg2="M76" />
+    <Relation id="RL27" type="Effect" arg1="M82" arg2="M81" />
+    <Relation id="RL28" type="Hypothetical" arg1="M82" arg2="M80" />
+    <Relation id="RL29" type="Hypothetical" arg1="M83" arg2="M80" />
+    <Relation id="RL30" type="Effect" arg1="M83" arg2="M81" />
+    <Relation id="RL31" type="Hypothetical" arg1="M84" arg2="M80" />
+    <Relation id="RL32" type="Effect" arg1="M84" arg2="M81" />
+    <Relation id="RL33" type="Hypothetical" arg1="M85" arg2="M80" />
+    <Relation id="RL34" type="Effect" arg1="M85" arg2="M81" />
+    <Relation id="RL35" type="Hypothetical" arg1="M86" arg2="M80" />
+    <Relation id="RL36" type="Effect" arg1="M86" arg2="M81" />
+    <Relation id="RL37" type="Hypothetical" arg1="M87" arg2="M80" />
+    <Relation id="RL38" type="Effect" arg1="M87" arg2="M81" />
+    <Relation id="RL39" type="Hypothetical" arg1="M88" arg2="M80" />
+    <Relation id="RL40" type="Effect" arg1="M88" arg2="M81" />
+    <Relation id="RL41" type="Hypothetical" arg1="M92" arg2="M90" />
+    <Relation id="RL42" type="Hypothetical" arg1="M93" arg2="M90" />
+    <Relation id="RL43" type="Effect" arg1="M93" arg2="M91" />
+    <Relation id="RL44" type="Effect" arg1="M100" arg2="M101" />
+    <Relation id="RL45" type="Effect" arg1="M100" arg2="M106" />
+    <Relation id="RL46" type="Effect" arg1="M100" arg2="M105" />
+    <Relation id="RL47" type="Effect" arg1="M100" arg2="M107" />
+    <Relation id="RL48" type="Effect" arg1="M102" arg2="M106" />
+    <Relation id="RL49" type="Effect" arg1="M102" arg2="M105" />
+    <Relation id="RL50" type="Effect" arg1="M102" arg2="M107" />
+    <Relation id="RL51" type="Effect" arg1="M103" arg2="M106" />
+    <Relation id="RL52" type="Effect" arg1="M103" arg2="M105" />
+    <Relation id="RL53" type="Effect" arg1="M103" arg2="M107" />
+    <Relation id="RL54" type="Effect" arg1="M104" arg2="M106" />
+    <Relation id="RL55" type="Effect" arg1="M104" arg2="M107" />
+    <Relation id="RL56" type="Effect" arg1="M104" arg2="M105" />
+    <Relation id="RL57" type="Effect" arg1="M108" arg2="M98" />
+    <Relation id="RL58" type="Effect" arg1="M108" arg2="M97" />
+    <Relation id="RL59" type="Effect" arg1="M110" arg2="M111" />
+    <Relation id="RL60" type="Effect" arg1="M110" arg2="M115" />
+    <Relation id="RL61" type="Effect" arg1="M112" arg2="M115" />
+    <Relation id="RL62" type="Effect" arg1="M113" arg2="M115" />
+    <Relation id="RL63" type="Effect" arg1="M114" arg2="M115" />
+    <Relation id="RL64" type="Effect" arg1="M116" arg2="M109" />
+    <Relation id="RL65" type="Effect" arg1="M120" arg2="M119" />
+    <Relation id="RL66" type="Effect" arg1="M124" arg2="M122" />
+    <Relation id="RL67" type="Effect" arg1="M124" arg2="M121" />
+    <Relation id="RL68" type="Effect" arg1="M124" arg2="M123" />
+    <Relation id="RL69" type="Effect" arg1="M126" arg2="M125" />
+    <Relation id="RL70" type="Effect" arg1="M130" arg2="M128" />
+    <Relation id="RL71" type="Effect" arg1="M130" arg2="M127" />
+    <Relation id="RL72" type="Effect" arg1="M130" arg2="M129" />
+    <Relation id="RL73" type="Effect" arg1="M132" arg2="M131" />
+    <Relation id="RL74" type="Effect" arg1="M136" arg2="M135" />
+    <Relation id="RL75" type="Effect" arg1="M136" arg2="M134" />
+    <Relation id="RL76" type="Effect" arg1="M136" arg2="M133" />
+    <Relation id="RL77" type="Effect" arg1="M140" arg2="M139" />
+    <Relation id="RL78" type="Effect" arg1="M140" arg2="M137" />
+    <Relation id="RL79" type="Effect" arg1="M140" arg2="M138" />
+    <Relation id="RL80" type="Effect" arg1="M142" arg2="M141" />
+    <Relation id="RL81" type="Effect" arg1="M146" arg2="M144" />
+    <Relation id="RL82" type="Effect" arg1="M146" arg2="M143" />
+    <Relation id="RL83" type="Effect" arg1="M147" arg2="M149" />
+    <Relation id="RL84" type="Effect" arg1="M147" arg2="M154" />
+    <Relation id="RL85" type="Effect" arg1="M147" arg2="M152" />
+    <Relation id="RL86" type="Effect" arg1="M147" arg2="M153" />
+    <Relation id="RL87" type="Effect" arg1="M148" arg2="M149" />
+    <Relation id="RL88" type="Effect" arg1="M148" arg2="M154" />
+    <Relation id="RL89" type="Effect" arg1="M148" arg2="M152" />
+    <Relation id="RL90" type="Effect" arg1="M148" arg2="M153" />
+    <Relation id="RL91" type="Effect" arg1="M150" arg2="M151" />
+    <Relation id="RL92" type="Effect" arg1="M150" arg2="M154" />
+    <Relation id="RL93" type="Effect" arg1="M150" arg2="M152" />
+    <Relation id="RL94" type="Effect" arg1="M150" arg2="M153" />
+    <Relation id="RL95" type="Effect" arg1="M158" arg2="M157" />
+    <Relation id="RL96" type="Effect" arg1="M160" arg2="M162" />
+    <Relation id="RL97" type="Effect" arg1="M160" arg2="M165" />
+    <Relation id="RL98" type="Effect" arg1="M161" arg2="M162" />
+    <Relation id="RL99" type="Effect" arg1="M161" arg2="M165" />
+    <Relation id="RL100" type="Effect" arg1="M163" arg2="M164" />
+    <Relation id="RL101" type="Effect" arg1="M163" arg2="M165" />
+    <Relation id="RL102" type="Effect" arg1="M168" arg2="M167" />
+    <Relation id="RL103" type="Effect" arg1="M173" arg2="M171" />
+    <Relation id="RL104" type="Effect" arg1="M173" arg2="M170" />
+    <Relation id="RL105" type="Effect" arg1="M174" arg2="M182" />
+    <Relation id="RL106" type="Effect" arg1="M174" arg2="M181" />
+    <Relation id="RL107" type="Effect" arg1="M174" arg2="M183" />
+    <Relation id="RL108" type="Effect" arg1="M175" arg2="M183" />
+    <Relation id="RL109" type="Effect" arg1="M175" arg2="M182" />
+    <Relation id="RL110" type="Effect" arg1="M176" arg2="M182" />
+    <Relation id="RL111" type="Effect" arg1="M176" arg2="M183" />
+    <Relation id="RL112" type="Effect" arg1="M176" arg2="M181" />
+    <Relation id="RL113" type="Effect" arg1="M177" arg2="M182" />
+    <Relation id="RL114" type="Effect" arg1="M177" arg2="M181" />
+    <Relation id="RL115" type="Effect" arg1="M177" arg2="M183" />
+    <Relation id="RL116" type="Effect" arg1="M178" arg2="M182" />
+    <Relation id="RL117" type="Effect" arg1="M178" arg2="M181" />
+    <Relation id="RL118" type="Effect" arg1="M178" arg2="M183" />
+    <Relation id="RL119" type="Effect" arg1="M179" arg2="M182" />
+    <Relation id="RL120" type="Effect" arg1="M179" arg2="M181" />
+    <Relation id="RL121" type="Effect" arg1="M179" arg2="M183" />
+    <Relation id="RL122" type="Effect" arg1="M180" arg2="M182" />
+    <Relation id="RL123" type="Effect" arg1="M180" arg2="M183" />
+    <Relation id="RL124" type="Effect" arg1="M180" arg2="M181" />
+    <Relation id="RL125" type="Effect" arg1="M187" arg2="M186" />
+    <Relation id="RL126" type="Effect" arg1="M190" arg2="M189" />
+    <Relation id="RL127" type="Effect" arg1="M190" arg2="M188" />
+    <Relation id="RL128" type="Effect" arg1="M194" arg2="M193" />
+    <Relation id="RL129" type="Effect" arg1="M194" arg2="M192" />
+    <Relation id="RL130" type="Effect" arg1="M194" arg2="M191" />
+    <Relation id="RL131" type="Effect" arg1="M196" arg2="M195" />
+    <Relation id="RL132" type="Effect" arg1="M198" arg2="M197" />
+    <Relation id="RL133" type="Effect" arg1="M200" arg2="M199" />
+    <Relation id="RL134" type="Effect" arg1="M205" arg2="M204" />
+    <Relation id="RL135" type="Effect" arg1="M205" arg2="M203" />
+    <Relation id="RL136" type="Effect" arg1="M210" arg2="M213" />
+    <Relation id="RL137" type="Effect" arg1="M210" arg2="M211" />
+    <Relation id="RL138" type="Effect" arg1="M210" arg2="M212" />
+    <Relation id="RL139" type="Effect" arg1="M210" arg2="M209" />
+    <Relation id="RL140" type="Effect" arg1="M210" arg2="M208" />
+    <Relation id="RL141" type="Effect" arg1="M220" arg2="M219" />
+    <Relation id="RL142" type="Effect" arg1="M222" arg2="M221" />
+    <Relation id="RL143" type="Effect" arg1="M222" arg2="M223" />
+    <Relation id="RL144" type="Effect" arg1="M231" arg2="M230" />
+    <Relation id="RL145" type="Effect" arg1="M231" arg2="M229" />
+    <Relation id="RL146" type="Effect" arg1="M234" arg2="M233" />
+    <Relation id="RL147" type="Effect" arg1="M234" arg2="M232" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="immune-mediated enterocolitis">
+      <Normalization id="AR1.N1" meddra_pt="Autoimmune colitis" meddra_pt_id="10075761" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR2" str="immune-mediated hepatitis">
+      <Normalization id="AR2.N1" meddra_pt="Autoimmune hepatitis" meddra_pt_id="10003827" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR3" str="immune-mediated dermatitis">
+      <Normalization id="AR3.N1" meddra_pt="Dermatitis allergic" meddra_pt_id="10012434" />
+    </Reaction>
+    <Reaction id="AR4" str="immune-mediated neuropathies">
+      <Normalization id="AR4.N1" meddra_pt="Autoimmune neuropathy" meddra_pt_id="10070439" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR5" str="immune-mediated endocrinopathies">
+      <Normalization id="AR5.N1" meddra_pt="Endocrine autoimmune disorders" meddra_pt_id="10003818" flag="underspecified;HLT" />
+    </Reaction>
+    <Reaction id="AR6" str="immune-mediated adverse reactions">
+      <Normalization id="AR6.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Reaction>
+    <Reaction id="AR7" str="ocular manifestations">
+      <Normalization id="AR7.N1" meddra_pt="Eye symptom" meddra_pt_id="10075536" />
+    </Reaction>
+    <Reaction id="AR8" str="fatigue">
+      <Normalization id="AR8.N1" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Reaction>
+    <Reaction id="AR9" str="diarrhea">
+      <Normalization id="AR9.N1" meddra_pt="Diarrhoea" meddra_pt_id="10012735" meddra_llt="Diarrhea" meddra_llt_id="10012727" />
+    </Reaction>
+    <Reaction id="AR10" str="pruritus">
+      <Normalization id="AR10.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Reaction>
+    <Reaction id="AR11" str="rash">
+      <Normalization id="AR11.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR12" str="colitis">
+      <Normalization id="AR12.N1" meddra_pt="Colitis" meddra_pt_id="10009887" />
+    </Reaction>
+    <Reaction id="AR13" str="fatal">
+      <Normalization id="AR13.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR14" str="intestinal perforation">
+      <Normalization id="AR14.N1" meddra_pt="Intestinal perforation" meddra_pt_id="10022694" />
+    </Reaction>
+    <Reaction id="AR15" str="enterocolitis">
+      <Normalization id="AR15.N1" meddra_pt="Enterocolitis" meddra_pt_id="10014893" />
+    </Reaction>
+    <Reaction id="AR16" str="hepatotoxicity">
+      <Normalization id="AR16.N1" meddra_pt="Hepatotoxicity" meddra_pt_id="10019851" />
+    </Reaction>
+    <Reaction id="AR17" str="dermatitis">
+      <Normalization id="AR17.N1" meddra_pt="Dermatitis" meddra_pt_id="10012431" />
+    </Reaction>
+    <Reaction id="AR18" str="neuropathy">
+      <Normalization id="AR18.N1" meddra_pt="Neuropathy peripheral" meddra_pt_id="10029331" meddra_llt="Neuropathy" meddra_llt_id="10029328" />
+    </Reaction>
+    <Reaction id="AR19" str="endocrinopathy">
+      <Normalization id="AR19.N1" meddra_pt="Endocrine disorder" meddra_pt_id="10014695" />
+    </Reaction>
+    <Reaction id="AR20" str="hypopituitarism">
+      <Normalization id="AR20.N1" meddra_pt="Hypopituitarism" meddra_pt_id="10021067" />
+    </Reaction>
+    <Reaction id="AR21" str="adrenal insufficiency">
+      <Normalization id="AR21.N1" meddra_pt="Adrenal insufficiency" meddra_pt_id="10001367" />
+    </Reaction>
+    <Reaction id="AR22" str="pneumonitis">
+      <Normalization id="AR22.N1" meddra_pt="Pneumonitis" meddra_pt_id="10035742" />
+    </Reaction>
+    <Reaction id="AR23" str="meningitis">
+      <Normalization id="AR23.N1" meddra_pt="Meningitis" meddra_pt_id="10027199" />
+    </Reaction>
+    <Reaction id="AR24" str="nephritis">
+      <Normalization id="AR24.N1" meddra_pt="Nephritis" meddra_pt_id="10029117" />
+    </Reaction>
+    <Reaction id="AR25" str="eosinophilia">
+      <Normalization id="AR25.N1" meddra_pt="Eosinophilia" meddra_pt_id="10014950" />
+    </Reaction>
+    <Reaction id="AR26" str="pericarditis">
+      <Normalization id="AR26.N1" meddra_pt="Pericarditis" meddra_pt_id="10034484" />
+    </Reaction>
+    <Reaction id="AR27" str="urticaria">
+      <Normalization id="AR27.N1" meddra_pt="Urticaria" meddra_pt_id="10046735" />
+    </Reaction>
+    <Reaction id="AR28" str="large intestinal ulcer">
+      <Normalization id="AR28.N1" meddra_pt="Large intestinal ulcer" meddra_pt_id="10023799" />
+    </Reaction>
+    <Reaction id="AR29" str="esophagitis">
+      <Normalization id="AR29.N1" meddra_pt="Oesophagitis" meddra_pt_id="10030216" meddra_llt="Esophagitis" meddra_llt_id="10015461" />
+    </Reaction>
+    <Reaction id="AR30" str="acute respiratory distress syndrome">
+      <Normalization id="AR30.N1" meddra_pt="Acute respiratory distress syndrome" meddra_pt_id="10001052" />
+    </Reaction>
+    <Reaction id="AR31" str="renal failure">
+      <Normalization id="AR31.N1" meddra_pt="Renal failure" meddra_pt_id="10038435" />
+    </Reaction>
+    <Reaction id="AR32" str="infusion reaction">
+      <Normalization id="AR32.N1" meddra_pt="Infusion related reaction" meddra_pt_id="10051792" />
+    </Reaction>
+    <Reaction id="AR33" str="hepatitis">
+      <Normalization id="AR33.N1" meddra_pt="Hepatitis" meddra_pt_id="10019717" />
+    </Reaction>
+    <Reaction id="AR34" str="drug reaction with eosinophilia and systemic symptoms">
+      <Normalization id="AR34.N1" meddra_pt="Drug reaction with eosinophilia and systemic symptoms" meddra_pt_id="10073508" />
+    </Reaction>
+    <Reaction id="AR35" str="dress syndrome">
+      <Normalization id="AR35.N1" meddra_pt="Drug reaction with eosinophilia and systemic symptoms" meddra_pt_id="10073508" meddra_llt="DRESS syndrome" meddra_llt_id="10058899" />
+    </Reaction>
+    <Reaction id="AR36" str="immune-mediated reactions">
+      <Normalization id="AR36.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Reaction>
+    <Reaction id="AR37" str="toxic epidermal necrolysis">
+      <Normalization id="AR37.N1" meddra_pt="Toxic epidermal necrolysis" meddra_pt_id="10044223" />
+    </Reaction>
+    <Reaction id="AR38" str="fever">
+      <Normalization id="AR38.N1" meddra_pt="Pyrexia" meddra_pt_id="10037660" meddra_llt="Fever" meddra_llt_id="10016558" />
+    </Reaction>
+    <Reaction id="AR39" str="ileus">
+      <Normalization id="AR39.N1" meddra_pt="Ileus" meddra_pt_id="10021328" />
+    </Reaction>
+    <Reaction id="AR40" str="peritoneal signs">
+      <Normalization id="AR40.N1" meddra_pt="Peritoneal disorder" meddra_pt_id="10061343" />
+    </Reaction>
+    <Reaction id="AR41" str="abdominal pain">
+      <Normalization id="AR41.N1" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Reaction>
+    <Reaction id="AR42" str="mucus in stool">
+      <Normalization id="AR42.N1" meddra_pt="Mucous stools" meddra_pt_id="10028140" />
+    </Reaction>
+    <Reaction id="AR43" str="blood in stool">
+      <Normalization id="AR43.N1" meddra_pt="Haematochezia" meddra_pt_id="10018836" meddra_llt="Blood in stool" meddra_llt_id="10005603" />
+    </Reaction>
+    <Reaction id="AR44" str="died">
+      <Normalization id="AR44.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR45" str="ast elevations">
+      <Normalization id="AR45.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" meddra_llt="AST increased" meddra_llt_id="10003544" />
+    </Reaction>
+    <Reaction id="AR46" str="alt elevations">
+      <Normalization id="AR46.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" meddra_llt="ALT increased" meddra_llt_id="10001845" />
+    </Reaction>
+    <Reaction id="AR47" str="total bilirubin elevations">
+      <Normalization id="AR47.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" meddra_llt="Bilirubin total increased" meddra_llt_id="10056806" />
+    </Reaction>
+    <Reaction id="AR48" str="hepatic failure">
+      <Normalization id="AR48.N1" meddra_pt="Hepatic failure" meddra_pt_id="10019663" />
+    </Reaction>
+    <Reaction id="AR49" str="liver function test abnormalities">
+      <Normalization id="AR49.N1" meddra_pt="Liver function test abnormal" meddra_pt_id="10024690" meddra_llt="Liver function tests multiple abnorm" meddra_llt_id="10024694" />
+    </Reaction>
+    <Reaction id="AR50" str="total bilirubin elevation">
+      <Normalization id="AR50.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" meddra_llt="Bilirubin total increased" meddra_llt_id="10056806" />
+    </Reaction>
+    <Reaction id="AR51" str="increases in transaminases">
+      <Normalization id="AR51.N1" meddra_pt="Transaminases increased" meddra_pt_id="10054889" />
+    </Reaction>
+    <Reaction id="AR52" str="increases in total bilirubin">
+      <Normalization id="AR52.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" meddra_llt="Bilirubin total increased" meddra_llt_id="10056806" />
+    </Reaction>
+    <Reaction id="AR53" str="stevens-johnson syndrome">
+      <Normalization id="AR53.N1" meddra_pt="Stevens-Johnson syndrome" meddra_pt_id="10042033" />
+    </Reaction>
+    <Reaction id="AR54" str="dermal ulceration">
+      <Normalization id="AR54.N1" meddra_pt="Skin ulcer" meddra_pt_id="10040943" meddra_llt="Skin ulceration" meddra_llt_id="10040947" />
+    </Reaction>
+    <Reaction id="AR55" str="dermal necrotic manifestations">
+      <Normalization id="AR55.N1" meddra_pt="Skin necrosis" meddra_pt_id="10040893" />
+    </Reaction>
+    <Reaction id="AR56" str="dermal bullous manifestations">
+      <Normalization id="AR56.N1" meddra_pt="Dermatitis bullous" meddra_pt_id="10012441" />
+    </Reaction>
+    <Reaction id="AR57" str="dermal hemorrhagic manifestations">
+      <Normalization id="AR57.N1" meddra_pt="Purpura" meddra_pt_id="10037549" meddra_llt="Dermatitis hemorrhagic" meddra_llt_id="10012467" />
+    </Reaction>
+    <Reaction id="AR58" str="guillain-barre syndrome">
+      <Normalization id="AR58.N1" meddra_pt="Guillain-Barre syndrome" meddra_pt_id="10018767" />
+    </Reaction>
+    <Reaction id="AR59" str="peripheral motor neuropathy">
+      <Normalization id="AR59.N1" meddra_pt="Peripheral motor neuropathy" meddra_pt_id="10034580" />
+    </Reaction>
+    <Reaction id="AR60" str="myasthenia gravis">
+      <Normalization id="AR60.N1" meddra_pt="Myasthenia gravis" meddra_pt_id="10028417" />
+    </Reaction>
+    <Reaction id="AR61" str="endocrinopathies">
+      <Normalization id="AR61.N1" meddra_pt="Endocrine disorder" meddra_pt_id="10014695" />
+    </Reaction>
+    <Reaction id="AR62" str="hypogonadism">
+      <Normalization id="AR62.N1" meddra_pt="Hypogonadism" meddra_pt_id="10058359" />
+    </Reaction>
+    <Reaction id="AR63" str="hypothyroidism">
+      <Normalization id="AR63.N1" meddra_pt="Hypothyroidism" meddra_pt_id="10021114" />
+    </Reaction>
+    <Reaction id="AR64" str="hyperthyroidism">
+      <Normalization id="AR64.N1" meddra_pt="Hyperthyroidism" meddra_pt_id="10020850" />
+    </Reaction>
+    <Reaction id="AR65" str="cushing's syndrome">
+      <Normalization id="AR65.N1" meddra_pt="Cushing's syndrome" meddra_pt_id="10011652" />
+    </Reaction>
+    <Reaction id="AR66" str="immune-mediated endocrinopathy">
+      <Normalization id="AR66.N1" meddra_pt="Endocrine autoimmune disorders" meddra_pt_id="10003818" flag="underspecified;HLT" />
+    </Reaction>
+    <Reaction id="AR67" str="hypophysitis">
+      <Normalization id="AR67.N1" meddra_pt="Hypophysitis" meddra_pt_id="10062767" />
+    </Reaction>
+    <Reaction id="AR68" str="uveitis">
+      <Normalization id="AR68.N1" meddra_pt="Uveitis" meddra_pt_id="10046851" />
+    </Reaction>
+    <Reaction id="AR69" str="iritis">
+      <Normalization id="AR69.N1" meddra_pt="Iritis" meddra_pt_id="10022955" />
+    </Reaction>
+    <Reaction id="AR70" str="hemolytic anemia">
+      <Normalization id="AR70.N1" meddra_pt="Haemolytic anaemia" meddra_pt_id="10018916" meddra_llt="Hemolytic anemia" meddra_llt_id="10019493" />
+    </Reaction>
+    <Reaction id="AR71" str="myocarditis">
+      <Normalization id="AR71.N1" meddra_pt="Myocarditis" meddra_pt_id="10028606" />
+    </Reaction>
+    <Reaction id="AR72" str="angiopathy">
+      <Normalization id="AR72.N1" meddra_pt="Angiopathy" meddra_pt_id="10059245" />
+    </Reaction>
+    <Reaction id="AR73" str="temporal arteritis">
+      <Normalization id="AR73.N1" meddra_pt="Temporal arteritis" meddra_pt_id="10043207" />
+    </Reaction>
+    <Reaction id="AR74" str="vasculitis">
+      <Normalization id="AR74.N1" meddra_pt="Vasculitis" meddra_pt_id="10047115" />
+    </Reaction>
+    <Reaction id="AR75" str="polymyalgia rheumatica">
+      <Normalization id="AR75.N1" meddra_pt="Polymyalgia rheumatica" meddra_pt_id="10036099" />
+    </Reaction>
+    <Reaction id="AR76" str="conjunctivitis">
+      <Normalization id="AR76.N1" meddra_pt="Conjunctivitis" meddra_pt_id="10010741" />
+    </Reaction>
+    <Reaction id="AR77" str="blepharitis">
+      <Normalization id="AR77.N1" meddra_pt="Blepharitis" meddra_pt_id="10005148" />
+    </Reaction>
+    <Reaction id="AR78" str="episcleritis">
+      <Normalization id="AR78.N1" meddra_pt="Episcleritis" meddra_pt_id="10015084" />
+    </Reaction>
+    <Reaction id="AR79" str="scleritis">
+      <Normalization id="AR79.N1" meddra_pt="Scleritis" meddra_pt_id="10039705" />
+    </Reaction>
+    <Reaction id="AR80" str="leukocytoclastic vasculitis">
+      <Normalization id="AR80.N1" meddra_pt="Hypersensitivity vasculitis" meddra_pt_id="10020764" meddra_llt="Leukocytoclastic vasculitis" meddra_llt_id="10024377" />
+    </Reaction>
+    <Reaction id="AR81" str="erythema multiforme">
+      <Normalization id="AR81.N1" meddra_pt="Erythema multiforme" meddra_pt_id="10015218" />
+    </Reaction>
+    <Reaction id="AR82" str="psoriasis">
+      <Normalization id="AR82.N1" meddra_pt="Psoriasis" meddra_pt_id="10037153" />
+    </Reaction>
+    <Reaction id="AR83" str="pancreatitis">
+      <Normalization id="AR83.N1" meddra_pt="Pancreatitis" meddra_pt_id="10033645" />
+    </Reaction>
+    <Reaction id="AR84" str="arthritis">
+      <Normalization id="AR84.N1" meddra_pt="Arthritis" meddra_pt_id="10003246" />
+    </Reaction>
+    <Reaction id="AR85" str="autoimmune thyroiditis">
+      <Normalization id="AR85.N1" meddra_pt="Autoimmune thyroiditis" meddra_pt_id="10049046" />
+    </Reaction>
+    <Reaction id="AR86" str="sarcoidosis">
+      <Normalization id="AR86.N1" meddra_pt="Sarcoidosis" meddra_pt_id="10039486" />
+    </Reaction>
+    <Reaction id="AR87" str="neurosensory hypoacusis">
+      <Normalization id="AR87.N1" meddra_pt="Neurosensory hypoacusis" meddra_pt_id="10067587" />
+    </Reaction>
+    <Reaction id="AR88" str="autoimmune central neuropathy">
+      <Normalization id="AR88.N1" meddra_pt="Autoimmune neuropathy" meddra_pt_id="10070439" />
+    </Reaction>
+    <Reaction id="AR89" str="encephalitis">
+      <Normalization id="AR89.N1" meddra_pt="Encephalitis" meddra_pt_id="10014581" />
+    </Reaction>
+    <Reaction id="AR90" str="myositis">
+      <Normalization id="AR90.N1" meddra_pt="Myositis" meddra_pt_id="10028653" />
+    </Reaction>
+    <Reaction id="AR91" str="polymyositis">
+      <Normalization id="AR91.N1" meddra_pt="Polymyositis" meddra_pt_id="10036102" />
+    </Reaction>
+    <Reaction id="AR92" str="ocular myositis">
+      <Normalization id="AR92.N1" meddra_pt="Extraocular muscle disorder" meddra_pt_id="10053635" meddra_llt="Orbital myositis" meddra_llt_id="10031050" flag="underspecified" />
+    </Reaction>
+  </Reactions>
+</Label>

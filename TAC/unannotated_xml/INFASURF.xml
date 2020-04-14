@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="infasurf" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  The most common adverse reactions associated with Infasurf dosing procedures in the controlled trials were cyanosis (65%), airway obstruction (39%), bradycardia (34%), reflux of surfactant into the endotracheal tube (21%), requirement for manual ventilation (16%), and reintubation (3%). These events were generally transient and not associated with serious complications or death. The incidence of common complications of prematurity and RDS in the four controlled Infasurf trials are presented in Table3.Prophylaxis and treatment study results for each surfactant are combined.
+
+
+
+ Table 3 - Common Complications of Prematurity and RDS in Controlled Trials 
+ Complication               Infasurf(N=1001)%          Exosurf Neonatal(r)(N=978)%  Infasurf(N=553)%           Survanta(r)(N=566)%         
+ Apnea                      61                         61                         76                         76                          
+ Patent ductus arteriosus   47                         48                         45                         48                          
+ Intracranial hemorrhage    29                         31                         36                         36                          
+ Severe intracranial hemorrhagea  12                         10                         9                          7                           
+ IVH and PVL b              7                          3                          5                          5                           
+ Sepsis                     20                         22                         28                         27                          
+ Pulmonary air leaks        12                         22                         15                         15                          
+ Pulmonary interstitial emphysema  7                          17                         10                         10                          
+ Pulmonary hemorrhage       7                          7                          7                          6                           
+ Necrotizing enterocolitis  5                          5                          17                         18                          
+     a Grade III and IV by the method of Papile.b Patients with both intraventricular hemorrhage and periventricular leukomalacia.  Follow-up Evaluations  Two-year follow-up data of neurodevelopmental outcomes in 415 infants enrolled in 5 centers that participated in the Infasurf vs.Exosurf Neonatal(r) controlled trials demonstrated significant developmental delays in equal percentages of Infasurf and Exosurf Neonatal(r) patients. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

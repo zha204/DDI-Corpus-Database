@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="plasbumin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions to albumin are rare. Such reactions may be allergic in nature or be due to high plasma protein levels from excessive albumin administration. Allergic manifestations include urticaria, chills, fever, and changes in respiration, pulse and blood pressure.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

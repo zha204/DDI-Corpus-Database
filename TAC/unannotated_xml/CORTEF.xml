@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cortef" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Fluid and Electrolyte Disturbances
+
+  Sodium retentionFluid retentionCongestive heart failure in susceptible patientsPotassium lossHypokalemic alkalosisHypertension
+
+
+
+   Musculoskeletal
+
+  Muscle weaknessSteroid myopathyLoss of muscle massOsteoporosisTendon rupture, particularly of the Achilles tendonVertebral compression fracturesAseptic necrosis of femoral and humeral headsPathologic fracture of long bones
+
+
+
+   Gastrointestinal
+
+  Peptic ulcer with possible perforation and hemorrhagePancreatitisAbdominal distentionUlcerative esophagitisIncreases in alanine transaminase (ALT, SGPT), aspartate transaminase (AST, SGOT) and alkaline phosphatase have been observed following corticosteroid treatment. These changes are usually small, not associated with any clinical syndrome and are reversible upon discontinuation.
+
+
+
+   Dermatologic
+
+  Impaired wound healingThin fragile skinPetechiae and ecchymosesFacial erythemaIncreased sweatingMay suppress reactions to skin tests
+
+
+
+   Neurological
+
+  Increased intracranial pressure with papilledema (pseudotumor cerebri) usually after treatmentConvulsionsVertigoHeadache
+
+
+
+   Endocrine
+
+  Development of Cushingoid stateSuppression of growth in childrenSecondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illnessMenstrual irregularitiesDecreased carbohydrate toleranceManifestations of latent diabetes mellitusIncreased requirements for insulin or oral hypoglycemic agents in diabetics
+
+
+
+   Ophthalmic
+
+  Posterior subcapsular cataractsIncreased intraocular pressureGlaucomaExophthalmos
+
+
+
+   Metabolic
+
+  Negative nitrogen balance due to protein catabolism
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

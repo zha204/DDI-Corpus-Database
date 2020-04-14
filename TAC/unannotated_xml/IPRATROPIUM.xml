@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ipratropium" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reaction information concerning Ipratropium Bromide and Albuterol Sulfate was derived from the 12-week controlled clinical trial.
+
+
+
+ ADVERSE EVENTS OCCURRING IN &gt;= 1% OF &gt;= 1 TREATMENT GROUP(S) AND WHERE THE COMBINATION TREATMENT SHOWED THE HIGHEST PERCENTAGE 
+ Body SystemCOSTART Term      Albuteroln (%)             Ipratropiumn (%)            Ipratropium Bromideand Albuterol Sulfaten (%)    
+      NUMBER OF PATIENTS      761                        754                        765                     
+      N (%) Patients with AE  327 (43.0)                 329 (43.6)                 367 (48.0)              
+ BODY AS A WHOLE               
+      Pain                    8 (1.1)                    4 (0.5)                    10 (1.3)                
+      Pain chest              11 (1.4)                   14 (1.9)                   20 (2.6)                
+ DIGESTIVE                     
+      Diarrhea                5 (0.7)                    9 (1.2)                    14 (1.8)                
+      Dyspepsia               7 (0.9)                    8 (1.1)                    10 (1.3)                
+      Nausea                  7 (0.9)                    6 (0.8)                    11 (1.4)                
+ MUSCULO-SKELETAL              
+      Cramps leg              8 (1.1)                    6 (0.8)                    11 (1.4)                
+ RESPIRATORY                   
+      Bronchitis              11 (1.4)                   13 (1.7)                   13 (1.7)                
+      Lung Disease            36 (4.7)                   34 (4.5)                   49 (6.4)                
+      Pharyngitis             27 (3.5)                   27 (3.6)                   34 (4.4)                
+      Pneumonia               7 (0.9)                    8 (1.1)                    10 (1.3)                
+ UROGENITAL                    
+      Infection urinary tract  3 (0.4)                    9 (1.2)                    12 (1.6)                
+          Additional adverse reactions reported in more than 1% of patients treated with Ipratropium Bromide and Albuterol Sulfate included constipation and voice alterations.
+ 
+
+ In the clinical trial, there was a 0.3% incidence of possible allergic-type reactions, including skin rash, pruritus, and urticaria.
+
+
+
+ Additional information derived from the published literature on the use of albuterol sulfate and ipratropium bromide singly or in combination includes precipitation or worsening of narrow-angle glaucoma, acute eye pain, blurred vision, mydriasis, paradoxical bronchospasm, wheezing, exacerbation of COPD symptoms, drowsiness, aching, flushing, upper respiratory tract infection, palpitations, taste perversion, elevated heart rate, sinusitis, back pain, sore throat, and metabolic acidosis because these reactions are reported voluntarily from a population of uncertain size. It is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

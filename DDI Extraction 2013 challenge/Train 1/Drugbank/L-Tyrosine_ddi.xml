@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d111">
+    <sentence id="DDI-DrugBank.d111.s0" text="Non-selective MAO inhibitors including tranylcypromine sulfate, phenelzine sulfate, and pargyline HC1: Concomitant use of L-tyrosine and non-selective MAO inhibitors may cause hypertension.">
+        <entity id="DDI-DrugBank.d111.s0.e0" charOffset="0-27"
+            type="group" text="Non-selective MAO inhibitors"/>
+        <entity id="DDI-DrugBank.d111.s0.e1" charOffset="39-61"
+            type="drug" text="tranylcypromine sulfate"/>
+        <entity id="DDI-DrugBank.d111.s0.e2" charOffset="64-81"
+            type="drug" text="phenelzine sulfate"/>
+        <entity id="DDI-DrugBank.d111.s0.e3" charOffset="88-96"
+            type="drug" text="pargyline"/>
+        <entity id="DDI-DrugBank.d111.s0.e4" charOffset="122-131"
+            type="drug" text="L-tyrosine"/>
+        <entity id="DDI-DrugBank.d111.s0.e5" charOffset="151-164"
+            type="group" text="MAO inhibitors"/>
+        <ddi id="DDI-DrugBank.d111.s0.d0" e1="DDI-DrugBank.d111.s0.e4"
+            e2="DDI-DrugBank.d111.s0.e5" type="effect"/>
+    </sentence>
+</document>

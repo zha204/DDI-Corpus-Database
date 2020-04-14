@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ravicti" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ Assessment of adverse reactions was based on exposure of 45 adult patients (31 female and 14 male) with UCD subtype deficiencies of ornithine transcarbamylase (OTC, n=40), carbamyl phosphate synthetase (CPS, n=2), and argininosuccinate synthetase (ASS, n=1) in a randomized, double-blind, active-controlled (RAVICTI vs sodium phenylbutyrate), crossover, 4-week study (Study 1) that enrolled patients &gt;=18 years of age [see  Clinical Studies  (14.1)    ]. One of the 45 patients received only sodium phenylbutyrate prior to withdrawing on day 1 of the study due to an adverse reaction.
+
+
+
+ Table 1 summarizes adverse reactions occurring in &gt;=2 patients treated with RAVICTI or sodium phenylbutyrate. The most common adverse reactions (occurring in &gt;=10% of patients) reported during short-term treatment with RAVICTI were diarrhea, flatulence, and headache.
+
+
+
+ Table 1: Adverse Reactions Reported in &gt;=2 Adult UCD Patients in Study 1 
+                              Number (%) of Patients in Study 1     
+   Sodium Phenylbutyrate(N = 45)      RAVICTI(N = 44)           
+ Gastrointestinal disorders                                                                                                                                          
+         Abdominal discomfort  3 (7)                      0                           
+         Abdominal pain     2 (4)                      3 (7)                       
+         Diarrhea           3 (7)                      7 (16)                      
+         Dyspepsia          3 (7)                      2 (5)                       
+         Flatulence         1 (2)                      6 (14)                      
+         Nausea             3 (7)                      1 (2)                       
+         Vomiting           2 (4)                      3 (7)                       
+ General disorders and administration site conditions                                                                                                                                          
+         Fatigue            1 (2)                      3 (7)                       
+ Investigations                                                                                                                                                     
+         Ammonia increased  1 (2)                      2 (5)                       
+ Metabolism and nutrition disorders                                                                                                                                          
+         Decreased appetite  2 (4)                      3 (7)                       
+ Nervous system disorders                                                                                                                                           
+         Dizziness          4 (9)                      0                           
+         Headache           4 (9)                      6 (14)                      
+      Other Adverse Reactions
+ 
+
+ RAVICTI has been evaluated in 77 UCD patients (51 adult and 26 pediatric) in 2 open-label long-term studies, in which 69 patients completed 12 months of treatment with RAVICTI (median exposure = 51 weeks). During these studies there were no deaths.
+
+
+
+ Adverse reactions occurring in &gt;=10% of adult patients were nausea, vomiting, diarrhea, decreased appetite, hyperammonemia, dizziness, headache, and fatigue.
+
+
+
+ Adverse reactions occurring in &gt;=10% of pediatric patients were upper abdominal pain, rash, nausea, vomiting, diarrhea, decreased appetite, hyperammonemia, and headache.
+
+
+
+   EXCERPT:   Most common adverse reactions in &gt;=10% of patients are diarrhea, flatulence, and headache.  (6)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Hyperion Therapeutics at 1-855-823-7878 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.      
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Neurotoxicity (phenylacetate [PAA], the active moiety of RAVICTI, may be toxic): Reduce dosage for symptoms of neurotoxicity.  (5.1)   
+ *   Reduced Phenylbutyrate Absorption in Pancreatic Insufficiency or Intestinal Malabsorption: Monitor ammonia levels closely.  (5.2)   
+    
+ 
+
+   5.1 Neurotoxicity
+
+
+
+  The major metabolite of RAVICTI, PAA, is associated with neurotoxicity. Signs and symptoms of PAA neurotoxicity, including somnolence, fatigue, lightheadedness, headache, dysgeusia, hypoacusis, disorientation, impaired memory, and exacerbation of preexisting neuropathy, were observed at plasma PAA concentrations &gt;=500 ug/mL in a study of cancer patients who were administered IV PAA. In this study, adverse events were reversible.
+
+
+
+ In healthy subjects, after administration of 4 mL and 6 mL RAVICTI 3 times daily for 3 days, a dose-dependent increase in all-grade nervous system adverse reactions was observed, even at exposure levels of PAA &lt;100 ug/mL.
+
+
+
+ In clinical trials in UCD patients who had been on sodium phenylbutyrate prior to administration of RAVICTI, peak PAA concentrations after dosing with RAVICTI ranged from 1.6 to 178 ug/mL (mean: 39 ug/mL) in adult patients and from 7 to 480 ug/mL (mean: 90 ug/mL) in pediatric patients. Some UCD patients experienced headache, fatigue, symptoms of peripheral neuropathy, seizures, tremor and/or dizziness. No correlation between PAA levels and neurotoxicity symptoms was identified but PAA levels were generally not measured at the time of neurotoxicity symptoms.
+
+
+
+ If symptoms of vomiting, nausea, headache, somnolence, confusion, or sleepiness are present in the absence of high ammonia or other intercurrent illnesses, reduce the RAVICTI dosage.
+
+
+
+    5.2 Reduced Phenylbutyrate Absorption in Pancreatic Insufficiency or Intestinal Malabsorption
+
+
+
+  Exocrine pancreatic enzymes hydrolyze RAVICTI in the small intestine, separating the active moiety, phenylbutyrate, from glycerol. This process allows phenylbutyrate to be absorbed into the circulation. Low or absent pancreatic enzymes or intestinal disease resulting in fat malabsorption may result in reduced or absent digestion of RAVICTI and/or absorption of phenylbutyrate and reduced control of plasma ammonia. Monitor ammonia levels closely in patients with pancreatic insufficiency or intestinal malabsorption.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

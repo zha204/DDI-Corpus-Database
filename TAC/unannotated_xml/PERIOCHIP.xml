@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="periochip" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently observed adverse events in the two pivotal clinical trials were toothache, upper respiratory tract infection, and headache. Toothache was the only adverse reaction that was significantly higher (  p  = 0.042) in the PerioChip group when compared to placebo. Most oral pain or sensitivity occurred within the first week of the initial chip placement following SRP procedures, was mild to moderate in nature, and spontaneously resolved within days. These reactions were observed less frequently with subsequent chip placement at 3 and 6 months.
+
+
+
+   Table 3  lists adverse events, occurring in &gt;= 1% of 225 patients that received PerioChip, pooled from the two pivotal clinical trials without regard to causality. Gingival bleeding was the only dental adverse event occurring at a rate of &lt;= 1% in both groups.
+
+
+
+ Table 3 Adverse events (frequency &gt;= 1% for the PerioChip group) reported from 2 five-center U.S. clinical trials 
+                                              
+  * Includes dental, gingival or mouth pain, tenderness, aching, throbbing, soreness, discomfort, or sensitivity    
+  ** Includes broken, cracked or fractured teeth, mobile teeth, and lost bridges, crowns, or fillings    
+  
+                                             PerioChipTotal N = 225  Placebo ChipTotal N = 222   
+                                             N               %               N               %                
+ All patients with Adverse Events            193             85.8            189             85.1             
+ Toothache*                                  114             50.7            92              41.4             
+ Upper resp tract infection                  64              28.4            58              26.1             
+ Headache                                    61              27.1            61              27.5             
+ Sinusitis                                   31              13.8            29              13.1             
+ Influenza-like-symptoms                     17              7.6             21              9.5              
+ Back pain                                   15              6.7             25              11.3             
+ Tooth disorder**                            14              6.2             15              6.8              
+ Bronchitis                                  14              6.2             7               3.2              
+ Abscess                                     13              5.8             13              5.9              
+ Pain                                        11              4.9             11              5.0              
+ Allergy                                     9               4.0             13              5.9              
+ Myalgia                                     9               4.0             9               4.1              
+ Gum hyperplasia                             8               3.6             5               2.3              
+ Pharyngitis                                 8               3.6             5               2.3              
+ Arthralgia                                  7               3.1             13              5.9              
+ Dysmenorrhea                                7               3.1             13              5.9              
+ Dyspepsia                                   7               3.1             6               2.7              
+ Rhinitis                                    6               2.7             11              5.0              
+ Coughing                                    6               2.7             7               3.2              
+ Arthrosis                                   6               2.7             4               1.8              
+ Hypertension                                5               2.2             6               2.7              
+ Stomatitis ulcerative                       5               2.2             1               0.5              
+ Tendinitis                                  5               2.2             1               0.5              
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

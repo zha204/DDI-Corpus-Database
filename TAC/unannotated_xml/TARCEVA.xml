@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tarceva" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6. ADVERSE REACTIONS
+
+  
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Safety evaluation of TARCEVA is based on 856 cancer patients who received TARCEVA as monotherapy, 308 patients who received TARCEVA 100 or 150 mg plus gemcitabine, and 1228 patients who received TARCEVA concurrently with other chemotherapies.
+
+
+
+ There have been reports of serious events, including fatalities, in patients receiving TARCEVA for treatment of NSCLC, pancreatic cancer or other advanced solid tumors [see Warnings and Precautions (  5  ) and Dosage and Administration (  2.3  )].
+
+
+
+   EXCERPT:   
+
+
+
+ The most common adverse reactions (&gt;50%) in NSCLC are rash, diarrhea, anorexia and fatigue. (  6.1  )
+
+
+
+ The most common adverse reactions (&gt;50%) in pancreatic cancer are fatigue, rash, nausea and anorexia. (  6.2  )
+
+
+
+  To report SUSPECTED ADVERSE REACTIONS, contact OSI Pharmaceuticals Inc. at 1-800-572-1932or FDA at 1-800-FDA-1088    or www.fda.gov/medwatch   
+
+  6.1 Non-Small Cell Lung Cancer
+
+  Adverse events, regardless of causality, that occurred in at least 10% of patients treated with single-agent TARCEVA at 150 mg and at least 3% more often than in the placebo group in the randomized trial of patients with NSCLC are summarized by NCI-CTC (version 2.0) Grade in Table 1.
+
+
+
+ The most common adverse reactions in patients receiving single-agent TARCEVA 150 mg were rash and diarrhea. Grade 3/4 rash and diarrhea occurred in 9% and 6%, respectively, in TARCEVA-treated patients. Rash and diarrhea each resulted in study discontinuation in 1% of TARCEVA-treated patients. Six percent and 1% of patients needed dose reduction for rash and diarrhea, respectively. The median time to onset of rash was 8 days, and the median time to onset of diarrhea was 12 days. 
+
+
+
+ Table 1: Adverse Reactions Occurring More Frequently (&gt;= 3%) in the Single Agent TARCEVA Group than in the Placebo Group and in &gt;=10% of Patients in the TARCEVA Group. 
+                                TARCEVA 150 mgN = 485      PlaceboN = 242     
+   NCI-CTC Grade                Any Grade      Grade 3        Grade 4       Any Grade      Grade 3       Grade 4     
+   MedDRA Preferred Term        %            %              %             %             %             %           
+ Rash                         75           8              &lt;1            17            0             0             
+ Diarrhea                     54           6              &lt;1            18            &lt;1            0             
+ Anorexia                     52           8              1             38            5             &lt;1            
+ Fatigue                      52           14             4             45            16            4             
+ Dyspnea                      41           17             11            35            15            11            
+ Cough                        33           4              0             29            2             0             
+ Nausea                       33           3              0             24            2             0             
+ Infection                    24           4              0             15            2             0             
+ Vomiting                     23           2              &lt;1            19            2             0             
+ Stomatitis                   17           &lt;1             0             3             0             0             
+ Pruritus                     13           &lt;1             0             5             0             0             
+ Dry skin                     12           0              0             4             0             0             
+ Conjunctivitis               12           &lt;1             0             2             &lt;1            0             
+ Keratoconjunctivitis sicca   12           0              0             3             0             0             
+ Abdominal pain               11           2              &lt;1            7             1             &lt;1            
+             Liver function test abnormalities (including elevated alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin) were observed in patients receiving single-agent TARCEVA 150 mg. These elevations were mainly transient or associated with liver metastases. Grade 2 (&gt;2.5 - 5.0 x ULN) ALT elevations occurred in 4% and &lt;1% of TARCEVA and placebo treated patients, respectively. Grade 3 (&gt;5.0 - 20.0 x ULN) elevations were not observed in TARCEVA-treated patients. TARCEVA dosing should be interrupted or discontinued if changes in liver function are severe.  [see  Dosage and Administration  (  2.3  )]  
+ 
+
+   6.2 Pancreatic Cancer
+
+  Adverse events, regardless of causality, that occurred in at least 10% of patients treated with TARCEVA 100 mg plus gemcitabine in the randomized trial of patients with pancreatic cancer are summarized by NCI-CTC (version 2.0) Grade in Table 2.
+
+
+
+ The most common adverse reactions in pancreatic cancer patients receiving TARCEVA 100 mg plus gemcitabine were fatigue, rash, nausea, anorexia and diarrhea. In the TARCEVA plus gemcitabine arm, Grade 3/4 rash and diarrhea were each reported in 5% of TARCEVA plus gemcitabine-treated patients. The median time to onset of rash and diarrhea was 10 days and 15 days, respectively. Rash and diarrhea each resulted in dose reductions in 2% of patients, and resulted in study discontinuation in up to 1% of patients receiving TARCEVA plus gemcitabine. The 150 mg cohort was associated with a higher rate of certain class-specific adverse reactions including rash and required more frequent dose reduction or interruption. 
+
+
+
+ Table 2: Adverse Reactions Occurring in &gt;= 10% of TARCEVA-treated Pancreatic Cancer Patients: 100 mg cohort 
+ *Includes all MedDRA preferred terms in the Infections and Infestations System Organ Class   
+  
+                                TARCEVA + Gemcitabine1000 mg/m  2  IVN=259      Placebo + Gemcitabine1000 mg/m  2  IVN=256     
+   NCI-CTC Grade                Any Grade      Grade 3       Grade 4       Any Grade      Grade 3      Grade 4      
+   MedDRA Preferred Term        %              %             %             %            %            %            
+ Fatigue                      73             14            2             70           13           2              
+ Rash                         69             5             0             30           1            0              
+ Nausea                       60             7             0             58           7            0              
+ Anorexia                     52             6             &lt;1            52           5            &lt;1             
+ Diarrhea                     48             5             &lt;1            36           2            0              
+ Abdominal pain               46             9             &lt;1            45           12           &lt;1             
+ Vomiting                     42             7             &lt;1            41           4            &lt;1             
+ Weight decreased             39             2             0             29           &lt;1           0              
+ Infection*                   39             13            3             30           9            2              
+ Edema                        37             3             &lt;1            36           2            &lt;1             
+ Pyrexia                      36             3             0             30           4            0              
+ Constipation                 31             3             1             34           5            1              
+ Bone pain                    25             4             &lt;1            23           2            0              
+ Dyspnea                      24             5             &lt;1            23           5            0              
+ Stomatitis                   22             &lt;1            0             12           0            0              
+ Myalgia                      21             1             0             20           &lt;1           0              
+ Depression                   19             2             0             14           &lt;1           0              
+ Dyspepsia                    17             &lt;1            0             13           &lt;1           0              
+ Cough                        16             0             0             11           0            0              
+ Dizziness                    15             &lt;1            0             13           0            &lt;1             
+ Headache                     15             &lt;1            0             10           0            0              
+ Insomnia                     15             &lt;1            0             16           &lt;1           0              
+ Alopecia                     14             0             0             11           0            0              
+ Anxiety                      13             1             0             11           &lt;1           0              
+ Neuropathy                   13             1             &lt;1            10           &lt;1           0              
+ Flatulence                   13             0             0             9            &lt;1           0              
+ Rigors                       12             0             0             9            0            0              
+             In the pancreatic carcinoma trial, 10 patients in the TARCEVA/gemcitabine group developed deep venous thrombosis (incidence: 3.9%). In comparison, 3 patients in the placebo/gemcitabine group developed deep venous thrombosis (incidence 1.2%). The overall incidence of grade 3 or 4 thrombotic events, including deep venous thrombosis, was similar in the two treatment arms: 11% for TARCEVA plus gemcitabine and 9% for placebo plus gemcitabine.
+ 
+
+ No differences in Grade 3 or Grade 4 hematologic laboratory toxicities were detected between the TARCEVA plus gemcitabine group compared to the placebo plus gemcitabine group.
+
+
+
+ Severe adverse events (&gt;=grade 3 NCI-CTC) in the TARCEVA plus gemcitabine group with incidences &lt; 5% included syncope, arrhythmias, ileus, pancreatitis, hemolytic anemia including microangiopathic hemolytic anemia with thrombocytopenia, myocardial infarction/ischemia, cerebrovascular accidents including cerebral hemorrhage, and renal insufficiency  [see Warnings and Precautions (  5  )].  
+
+
+
+ Liver function test abnormalities (including elevated alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin) have been observed following the administration of TARCEVA plus gemcitabine in patients with pancreatic cancer. Table 3 displays the most severe NCI-CTC grade of liver function abnormalities that developed. TARCEVA dosing should be interrupted or discontinued if changes in liver function are severe  [see  Dosage and Administration  (  2.3  )].  
+
+
+
+ Table 3: Liver Function Test Abnormalities (most severe NCI-CTC grade) in Pancreatic Cancer Patients: 100 mg Cohort 
+                     TARCEVA + Gemcitabine 1000 mg/m  2  IVN = 259      Placebo + Gemcitabine 1000 mg/m  2  IVN = 256     
+   NCI-CTC Grade      Grade 2           Grade 3        Grade 4         Grade 2       Grade 3       Grade 4        
+ Bilirubin         17 %              10%            &lt;1%             11%           10%           3%               
+ ALT               31%               13%            &lt;1%             22%           9%            0%               
+ AST               24%               10%            &lt;1%             19%           9%            0%               
+               6.3 NSCLC and Pancreatic Cancer Indications
+   During the NSCLC and the combination pancreatic cancer trials, infrequent cases of gastrointestinal bleeding have been reported, some associated with concomitant warfarin or NSAID administration  . [see Warnings and Precautions (  5.9  )].  These adverse events were reported as peptic ulcer bleeding (gastritis, gastroduodenal ulcers), hematemesis, hematochezia, melena and hemorrhage from possible colitis. Cases of acute renal failure or renal insufficiency, including fatalities, with or without hypokalemia have been reported.  [see Warnings and Precautions (  5.4  )].   Cases of Grade 1 epistaxis were also reported in both the single-agent NSCLC and the pancreatic cancer clinical trials.
+
+
+
+ NCI-CTC Grade 3 conjunctivitis and keratitis have been reported infrequently in patients receiving TARCEVA therapy in the NSCLC and pancreatic cancer clinical trials. Corneal ulcerations may also occur. [  see Patient Counseling Information (  17  )].  
+
+
+
+  Hair and nail disorders including alopecia, hirsutism, eyelash/eyebrow changes, paronychia and brittle and loose nails have been reported in clinical trials and during post-marketing use of TARCEVA.
+
+
+
+ In patients who develop skin rash, the appearance of the rash is typically erythematous and maculopapular and it may resemble acne with follicular pustules, but is histopathologically different. This skin reaction commonly occurs on the face, upper chest and back, but may be more generalized or severe (NCI-CTC Grade 3 or 4) with desquamation. Associated symptoms may include itching, tenderness and/or burning. Dry skin with or without digital skin fissures may occur.
+
+
+
+ Hepatic failure has been reported in patients treated with single-agent TARCEVA or TARCEVA combined with chemotherapy in clinical studies and during post-marketing use of TARCEVA  [see Warnings and Precautions (  5.3  )];  it is not possible to reliably estimate the frequency or establish a causal relationship to TARCEVA treatment.
+
+
+
+ In general, no notable differences in the safety of TARCEVA monotherapy or in combination with gemcitabine could be discerned between females or males and between patients younger or older than the age of 65 years [  s    ee Use in Specific Populations (  8.4  )]  . The safety of TARCEVA appears similar in Caucasian and Asian patients  .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5. WARNINGS AND PRECAUTIONS
+
+
+
+  Enter section text here
+
+
+
+   EXCERPT:   
+
+
+
+ *   Interstitial Lung Disease (ILD)-like events, including fatalities have been infrequently reported. Interrupt TARCEVA if acute onset of new or progressive unexplained pulmonary symptoms, such as dyspnea, cough and fever occur. Discontinue TARCEVA if ILD is diagnosed. (  5.1  )
+
+
+
+ 
+ *   Monitor patients with hepatic impairment closely. Interrupt or discontinue TARCEVA if changes in liver function are severe (  5.2  )
+
+
+
+ 
+ *   Cases of hepatic failure and hepatorenal syndrome (including fatalities) have been reported. Monitor periodic liver function testing. Interrupt or discontinue TARCEVA if liver function changes are severe. (  5.3  )
+
+
+
+ 
+ *   Cases of acute renal failure (including fatalities), and renal insufficiency have been reported. Interrupt TARCEVA in the event of dehydration. Monitor renal function and electrolytes in patients at risk of dehydration. (  5.4  )
+
+
+
+ 
+ *   Myocardial infarction/ischemia has been reported, including fatalities, in patients with pancreatic cancer. (  5.5  )
+
+
+
+ 
+ *   Cerebrovascular accidents, including a fatality, have been reported in patients with pancreatic cancer. (  5.6  )
+
+
+
+ 
+ *   Microangiopathic Hemolytic Anemia with thrombocytopenia has been reported in patients with pancreatic cancer. (  5.7  )
+
+
+
+ 
+ *   Women should be advised to avoid pregnancy while on TARCEVA. Treatment should only be continued if the potential benefit to the mother outweighs the risk to the fetus. (  5.8  )
+
+
+
+ 
+ *   International Normalized Ratio (INR) elevations and bleeding events, some associated with concomitant warfarin administration have been reported. Monitor patients taking warfarin or other coumarin-derivative anticoagulants. (  5.9  )
+
+
+
+ 
+    
+
+
+
+   5.1 Pulmonary Toxicity
+
+
+
+  
+
+
+
+ There have been infrequent reports of serious Interstitial Lung Disease (ILD)-like events, including fatalities, in patients receiving TARCEVA for treatment of NSCLC, pancreatic cancer or other advanced solid tumors. In the randomized single-agent NSCLC study [see CLINICAL STUDIES (  14.1  )], the incidence of ILD-like events (0.8%) was the same in both the placebo and TARCEVA groups. In the pancreatic cancer study - in combination with gemcitabine -  [see Clinical Studies (  14.3  )], the incidence of ILD-like events was 2.5% in the TARCEVA plus gemcitabine group vs. 0.4% in the placebo plus gemcitabine group.
+
+
+
+ The overall incidence of ILD-like events in approximately 4900 TARCEVA-treated patients from all studies (including uncontrolled studies and studies with concurrent chemotherapy) was approximately 0.7%. Reported diagnoses in patients suspected of having ILD-like events included pneumonitis, radiation pneumonitis, hypersensitivity pneumonitis, interstitial pneumonia, interstitial lung disease, obliterative bronchiolitis, pulmonary fibrosis, Acute Respiratory Distress Syndrome and lung infiltration. Symptoms started from 5 days to more than 9 months (median 39 days) after initiating TARCEVA therapy. In the lung cancer trials most of the cases were associated with confounding or contributing factors such as concomitant/prior chemotherapy, prior radiotherapy, pre-existing parenchymal lung disease, metastatic lung disease, or pulmonary infections.
+
+
+
+ In the event of an acute onset of new or progressive unexplained pulmonary symptoms such as dyspnea, cough, and fever, TARCEVA therapy should be interrupted pending diagnostic evaluation. If ILD is diagnosed, TARCEVA should be discontinued and appropriate treatment instituted as needed [see Dosage and Administration (  2.3  )].
+
+
+
+    5.2 Patients with Hepatic Impairment
+
+
+
+  
+
+
+
+ In a pharmacokinetic study in patients with moderate hepatic impairment (Child-Pugh B) associated with significant liver tumor burden, 10 out of 15 patients died on treatment or within 30 days of the last TARCEVA dose. One patient died from hepatorenal syndrome, 1 patient died from rapidly progressing liver failure and the remaining 8 patients died from progressive disease. Six out of the 10 patients who died had baseline total bilirubin &gt; 3 x ULN suggesting severe hepatic impairment. Treatment with TARCEVA should be used with extra caution in patients with total bilirubin &gt; 3 x ULN. Patients with hepatic impairment (total bilirubin &gt; ULN or Child-Pugh A, B and C) should be closely monitored during therapy with TARCEVA. TARCEVA dosing should be interrupted or discontinued if changes in liver function are severe such as doubling of total bilirubin and/or tripling of transaminases in the setting of pretreatment values outside normal range [see Clinical Pharmacology (  12.3  ) and Dosage and Administration (  2.3  )].
+
+
+
+    5.3 Hepatotoxicity
+
+
+
+  
+
+
+
+ Cases of hepatic failure and hepatorenal syndrome (including fatalities) have been reported during use of TARCEVA, particularly in patients with baseline hepatic impairment. Therefore, periodic liver function testing (transaminases, bilirubin, and alkaline phosphatase) is recommended. In the setting of worsening liver function tests, dose interruption and/or dose reduction with frequent liver function test monitoring should be considered. TARCEVA dosing should be interrupted or discontinued if total bilirubin is &gt;3 x ULN and/or transaminases are &gt;5 x ULN in the setting of normal pretreatment values [see Adverse Reactions (  6.3  ) and Dosage and Administration (  2.3  )].
+
+
+
+    5.4 Renal Failure
+
+
+
+  
+
+
+
+ Cases of hepatorenal syndrome, acute renal failure (including fatalities), and renal insufficiency have been reported. Some were secondary to baseline hepatic impairment while others were associated with severe dehydration due to diarrhea, vomiting, and/or anorexia or concurrent chemotherapy use. In the event of dehydration, particularly in patients with contributing risk factors for renal failure (eg, pre-existing renal disease, medical conditions or medications that may lead to renal disease, or other predisposing conditions including advanced age), TARCEVA therapy should be interrupted and appropriate measures should be taken to intensively rehydrate the patient. Periodic monitoring of renal function and serum electrolytes is recommended in patients at risk of dehydration [see Adverse Reactions (  6.3  ) and Dosage and Administration (  2.3  )].
+
+
+
+    5.5 Myocardial infarction/ischemia
+
+
+
+  
+
+
+
+ In the pancreatic carcinoma trial, six patients (incidence of 2.3%) in the TARCEVA/gemcitabine group developed myocardial infarction/ischemia. One of these patients died due to myocardial infarction. In comparison, 3 patients in the placebo/gemcitabine group developed myocardial infarction (incidence 1.2%) and one died due to myocardial infarction.
+
+
+
+    5.6 Cerebrovascular accident
+
+
+
+  
+
+
+
+ In the pancreatic carcinoma trial, six patients in the TARCEVA/gemcitabine group developed cerebrovascular accidents (incidence: 2.3%). One of these was hemorrhagic and was the only fatal event. In comparison, in the placebo/gemcitabine group there were no cerebrovascular accidents.
+
+
+
+    5.7 Microangiopathic Hemolytic Anemia with Thrombocytopenia
+
+
+
+  
+
+
+
+ In the pancreatic carcinoma trial, two patients in the TARCEVA/gemcitabine group developed microangiopathic hemolytic anemia with thrombocytopenia (incidence: 0.8%). Both patients received TARCEVA and gemcitabine concurrently. In comparison, in the placebo/gemcitabine group there were no cases of microangiopathic hemolytic anemia with thrombocytopenia.
+
+
+
+    5.8 Use in Pregnancy
+
+
+
+  
+
+
+
+ Pregnancy Category D
+
+
+
+ Women of childbearing potential should avoid becoming pregnant while being treated with TARCEVA. Erlotinib administered to rabbits during organogenesis at doses that result in plasma drug concentrations of approximately 3 times those in humans (AUCs at 150 mg daily dose) was associated with embryo/fetal lethality and abortion. When erlotinib was administered to female rats prior to mating and through the first week of pregnancy, at doses 0.3 or 0.7 times the clinical dose of 150 mg, on a mg/m2 basis, there was an increase in early resorptions that resulted in a decrease in the number of live fetuses. [see Use in Specific Populations (  8.1  )]
+
+
+
+    5.9 Elevated International Normalized Ratio and Potential Bleeding
+
+
+
+  
+
+
+
+ International Normalized Ratio (INR) elevations and infrequent reports of bleeding events including gastrointestinal and non-gastrointestinal bleedings have been reported in clinical studies, some associated with concomitant warfarin administration. Patients taking warfarin or other coumarin-derivative anticoagulants should be monitored regularly for changes in prothrombin time or INR. [see Adverse Reactions (  6.3  )].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

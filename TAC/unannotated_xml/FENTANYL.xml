@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="fentanyl" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  As with opioid agonists, the most common serious adverse reactions reported to occur with fentanyl are respiratory depression, apnea, rigidity, and bradycardia; if these remain untreated, respiratory arrest, circulatory depression or cardiac arrest could occur. Other adverse reactions that have been reported are hypertension, hypotension, dizziness, blurred vision, nausea, emesis, diaphoresis, pruritus, urticaria, laryngospasm and anaphylaxis.
+
+
+
+ It has been reported that secondary rebound respiratory depression may occasionally occur postoperatively. Patients should be monitored for this possibility and appropriate countermeasures taken as necessary.
+
+
+
+ When a tranquilizer is used with fentanyl citrate, the following adverse reactions can occur: chills and/or shivering, restlessness, and postoperative hallucinatory episodes (sometimes associated with transient periods of mental depression); extrapyramidal symptoms (dystonia, akathisia, and oculogyric crisis) have been observed up to 24 hours postoperatively. When they occur, extrapyramidal symptoms can usually be controlled with anti-parkinson agents. Postoperative drowsiness is also frequently reported following the use of neuroleptics with fentanyl citrate.
+
+
+
+ Cases of cardiac dysrhythmias, cardiac arrest, and death have been reported following the use of fentanyl citrate with a neuroleptic agent.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="calcium1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Hypercalcemia is discussed elsewhere  [see Warnings and Precautions (  5.1  )]  
+
+
+
+    EXCERPT:    *  1.  The most common (&gt; 10%) adverse reactions are hypercalcemia, nausea and vomiting. (  6.1  ) 
+ *  2.  In clinical studies, patients have occasionally experienced nausea during calcium acetate therapy. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Medical Care North America at 1-800-323-5188 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical studies, calcium acetate has been generally well tolerated.
+
+
+
+ Calcium acetate was studied in a 3-month, open-label, non-randomized study of 98 enrolled ESRD hemodialysis patients and in a two week double-blind, placebo-controlled, cross-over study with 69 enrolled ESRD hemodialysis patients. Adverse reactions (&gt;2% on treatment) from these trials are presented in Table 1.
+
+
+
+ Table 1: Adverse Reactions in Patients with End-Stage Renal Disease Undergoing Hemodialysis 
+  Preferred Term         Total adverse reactions reported for calcium acetaten=167n (%)    3-mo, open-label study of calcium acetaten=98n (%)    Double blind, placebo-controlled, cross-over study of calcium acetaten=69    
+  Calcium acetaten (%)    Placebon (%)        
+  Nausea                 6 (3.6)             6 (6.1)            0 (0.0)                         0 (0.0)                         
+  Vomiting               4 (2.4)             4 (4.1)            0 (0.0)                         0 (0.0)                         
+  Hypercalcemia          21 (12.6)           16 (16.3)          5 (7.2)                         0 (0.0)                         
+           Mild hypercalcemia may be asymptomatic or manifest itself as constipation, anorexia, nausea, and vomiting. More severe hypercalcemia is associated with confusion, delirium, stupor, and coma. Decreasing dialysate calcium concentration could reduce the incidence and severity of calcium acetate-induced hypercalcemia. Isolated cases pruritus have been reported, which may represent allergic reactions.
+ 
+
+   6.2 Postmarketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or to establish a causal relationship to drug exposure.
+
+
+
+ The following additional adverse reactions have been identified during post-approval of calcium acetate: dizziness, edema, and weakness.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Treat mild hypercalcemia by reducing or interrupting calcium acetate and Vitamin D. Severe hypercalcemia may require hemodialysis and discontinuation of calcium acetate. (  5.1  ) 
+ *    Hypercalcemia may aggravate digitalis toxicity. (  5.2  ) 
+    
+ 
+
+   5.1 Hypercalcemia
+
+
+
+  Patients with end stage renal disease may develop hypercalcemia when treated with calcium, including calcium acetate. Avoid the use of calcium supplements, including calcium-based nonprescription antacids, concurrently with calcium acetate.
+
+
+
+ An overdose of calcium acetate may lead to progressive hypercalcemia, which may require emergency measures. Therefore, early in the treatment phase during the dosage adjustment period, monitor serum calcium levels twice weekly. Should hypercalcemia develop, reduce the calcium acetate dosage, or discontinue the treatment, depending on the severity of hypercalcemia.
+
+
+
+ More severe hypercalcemia (Ca &gt;12 mg/dL) is associated with confusion, delirium, stupor and coma. Severe hypercalcemia can be treated by acute hemodialysis and discontinuing calcium acetate therapy.
+
+
+
+ Mild hypercalcemia (10.5 to 11.9 mg/dL) may be asymptomatic or manifest as constipation, anorexia, nausea, and vomiting. Mild hypercalcemia is usually controlled by reducing the calcium acetate dose or temporarily discontinuing therapy. Decreasing or discontinuing Vitamin D therapy is recommended as well.
+
+
+
+ Chronic hypercalcemia may lead to vascular calcification and other soft-tissue calcification. Radiographic evaluation of suspected anatomical regions may be helpful in early detection of soft tissue calcification. The long term effect of calcium acetate on the progression of vascular or soft tissue calcification has not been determined.
+
+
+
+ Hypercalcemia (&gt;11 mg/dL) was reported in 16% of patients in a 3-month study of solid dose formulation of calcium acetate; all cases resolved upon lowering the dose or discontinuing treatment.
+
+
+
+ Maintain the serum calcium-phosphorus (Ca x P) product below 55 mg  2  /dL  2  .
+
+
+
+    5.2 Concomitant Use with Medications
+
+
+
+  Hypercalcemia may aggravate digitalis toxicity.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

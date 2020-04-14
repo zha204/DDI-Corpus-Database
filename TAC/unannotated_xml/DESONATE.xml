@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="desonate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In controlled clinical studies of 425 Desonate treated subjects and 157 Vehicle-treated subjects, adverse events occurred at the application site in 3% of subjects treated with Desonate and the incidence rate was not higher compared with vehicle-treated subjects. The most common local adverse events in Desonate treated subjects were application site burning in 1% (4/425) and rash in 1% (3/425) followed by application site pruritus in &lt;1% (2/425).
+
+
+
+ Adverse events that resulted in premature discontinuation of study drug in Desonate treated subjects were telangiectasia and worsening of atopic dermatitis in one subject each. Additional adverse events observed during clinical trials for patients treated with Desonate included headache in 2% (8/425) compared with 1% (2/157) in those treated with vehicle.
+
+
+
+ The following additional local adverse reactions have been reported infrequently with topical corticosteroids. They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, secondary infection, skin atrophy, striae, and miliaria.
+
+
+
+   EXCERPT:     The most common adverse reactions (incidence &gt;= 1%) are headache and application site burning. (6)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact  Intendis, Inc. at 1-866-463-3634  or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Topical corticosteroids can produce reversible hypothalamic pituitary adrenal (HPA) axis suppression, Cushing's syndrome and unmask latent diabetes. (  5.1  ) 
+ *  Systemic absorption may require evaluation for HPA axis suppression (  5.1  ). 
+ *  Modify use should HPA axis suppression develop (  5.1  ) 
+ *  Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption (  5.1  ) 
+ *  Local adverse reactions may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation, and allergic contact dermatitis and may be more likely with occlusive use or more potent corticosteroids. (  5.2      ,  5.4  ,  6  ) 
+ *  Children may be more susceptible to systemic toxicity when treated with topical corticosteroids. (  5.1  ,  8.4  ) 
+    
+ 
+
+   5.1 Effects on Endocrine System
+
+
+
+  Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid.
+
+
+
+ The effect of Desonate on HPA axis function was investigated in pediatric subjects, 6 months to 6 years old, with atopic dermatitis covering at least 35% of their body, who were treated with Desonate twice daily for 4 weeks. One of 37 subjects (3%) displayed adrenal suppression after 4 weeks of use, based on the cosyntropin stimulation test. As follow-up evaluation of the subject's adrenal axis was not performed, it is unknown whether the suppression was reversible [see Use In Specific Populations (  8.4  ) and Clinical Pharmacology (  12.2  )]  .
+
+
+
+ Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of Desonate due to their larger skin surface-to-body mass ratios [see Use In Specific Populations (  8.4  )]  .
+
+
+
+ Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.
+
+
+
+ An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids.
+
+
+
+ Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids.
+
+
+
+ Use of more than one corticosteroid-containing product at the same time may increase the total systemic corticosteroid exposure.
+
+
+
+    5.2 Local Adverse Reactions with Topical Corticosteroids
+
+
+
+  Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids. Reactions may include skin atrophy, striae, telangiectasias, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible.
+
+
+
+    5.3 Concomitant Skin Infections
+
+
+
+  If concomitant skin infections are present or develop during treatment, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of Desonate should be discontinued until the infection is adequately controlled.
+
+
+
+    5.4 Skin Irritation
+
+
+
+  If irritation develops, Desonate should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids. Such an observation should be corroborated with appropriate diagnostic patch testing.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

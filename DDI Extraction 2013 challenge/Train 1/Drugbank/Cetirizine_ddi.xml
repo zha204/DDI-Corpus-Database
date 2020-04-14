@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d393">
+    <sentence id="DDI-DrugBank.d393.s0" text="Pharmacokinetic interaction studies with cetirizine in adults were conducted with pseudoephedrine, antipyrine, ketoconazole, erythromycin and azithromycin.">
+        <entity id="DDI-DrugBank.d393.s0.e0" charOffset="41-50"
+            type="drug" text="cetirizine"/>
+        <entity id="DDI-DrugBank.d393.s0.e1" charOffset="82-96"
+            type="drug" text="pseudoephedrine"/>
+        <entity id="DDI-DrugBank.d393.s0.e2" charOffset="99-108"
+            type="drug" text="antipyrine"/>
+        <entity id="DDI-DrugBank.d393.s0.e3" charOffset="111-122"
+            type="drug" text="ketoconazole"/>
+        <entity id="DDI-DrugBank.d393.s0.e4" charOffset="125-136"
+            type="drug" text="erythromycin"/>
+        <entity id="DDI-DrugBank.d393.s0.e5" charOffset="142-153"
+            type="drug" text="azithromycin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d393.s1" text="No interactions were observed."/>
+    <sentence id="DDI-DrugBank.d393.s2" text="In a multiple dose study of theophylline (400 mg once daily for 3 days) and cetirizine (20 mg once daily for 3 days), a 16% decrease in the clearance of cetirizine was observed.">
+        <entity id="DDI-DrugBank.d393.s2.e0" charOffset="28-39"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d393.s2.e1" charOffset="76-85"
+            type="drug" text="cetirizine"/>
+        <entity id="DDI-DrugBank.d393.s2.e2" charOffset="153-162"
+            type="drug" text="cetirizine"/>
+        <ddi id="DDI-DrugBank.d393.s2.d0" e1="DDI-DrugBank.d393.s2.e0"
+            e2="DDI-DrugBank.d393.s2.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d393.s3" text="The disposition of theophylline was not altered by concomitant cetirizine administration.">
+        <entity id="DDI-DrugBank.d393.s3.e0" charOffset="19-30"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d393.s3.e1" charOffset="63-72"
+            type="drug" text="cetirizine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d393.s4" text="Drug-Drug Interactions: No clinically significant drug interactions have been found with theophylline at a low dose, azithromycin, pseudoephedrine, ketoconazole, or erythromycin.">
+        <entity id="DDI-DrugBank.d393.s4.e0" charOffset="89-100"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d393.s4.e1" charOffset="117-128"
+            type="drug" text="azithromycin"/>
+        <entity id="DDI-DrugBank.d393.s4.e2" charOffset="131-145"
+            type="drug" text="pseudoephedrine"/>
+        <entity id="DDI-DrugBank.d393.s4.e3" charOffset="148-159"
+            type="drug" text="ketoconazole"/>
+        <entity id="DDI-DrugBank.d393.s4.e4" charOffset="165-176"
+            type="drug" text="erythromycin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d393.s5" text="There was a small decrease in the clearance of cetirizine caused by a 400-mg dose of theophylline;">
+        <entity id="DDI-DrugBank.d393.s5.e0" charOffset="47-56"
+            type="drug" text="cetirizine"/>
+        <entity id="DDI-DrugBank.d393.s5.e1" charOffset="85-96"
+            type="drug" text="theophylline"/>
+        <ddi id="DDI-DrugBank.d393.s5.d0" e1="DDI-DrugBank.d393.s5.e0"
+            e2="DDI-DrugBank.d393.s5.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d393.s6" text="it is possible that larger theophylline doses could have a greater effect.">
+        <entity id="DDI-DrugBank.d393.s6.e0" charOffset="27-38"
+            type="drug" text="theophylline"/>
+    </sentence>
+</document>

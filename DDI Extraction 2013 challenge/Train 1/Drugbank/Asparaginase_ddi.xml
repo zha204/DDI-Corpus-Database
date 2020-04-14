@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d21">
+    <sentence id="DDI-DrugBank.d21.s0" text="Tissue culture and animal studies indicate that ELSPAR can diminish or abolish the effect of methotrexate on malignant cells.14 This effect on methotrexate activity persists as long as plasma asparagine levels are suppressed.">
+        <entity id="DDI-DrugBank.d21.s0.e0" charOffset="48-53"
+            type="brand" text="ELSPAR"/>
+        <entity id="DDI-DrugBank.d21.s0.e1" charOffset="93-104"
+            type="drug" text="methotrexate"/>
+        <entity id="DDI-DrugBank.d21.s0.e2" charOffset="143-154"
+            type="drug" text="methotrexate"/>
+        <ddi id="DDI-DrugBank.d21.s0.d0" e1="DDI-DrugBank.d21.s0.e0"
+            e2="DDI-DrugBank.d21.s0.e1" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d21.s1" text="These results would seem to dictate against the clinical use of methotrexate with ELSPAR, or during the period following ELSPAR therapy when plasma asparagine levels are below normal.">
+        <entity id="DDI-DrugBank.d21.s1.e0" charOffset="64-75"
+            type="drug" text="methotrexate"/>
+        <entity id="DDI-DrugBank.d21.s1.e1" charOffset="82-87"
+            type="brand" text="ELSPAR"/>
+        <entity id="DDI-DrugBank.d21.s1.e2" charOffset="121-126"
+            type="brand" text="ELSPAR"/>
+        <ddi id="DDI-DrugBank.d21.s1.d0" e1="DDI-DrugBank.d21.s1.e0"
+            e2="DDI-DrugBank.d21.s1.e1" type="advise"/>
+    </sentence>
+</document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sterile5" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Common adverse reactions observed with intrapleurally-administered talc are fever and pain. Other adverse reactions include dyspnea, arrhythmia, empyema, and acute respiratory distress syndrome.
+
+
+
+   EXCERPT:   Commonly observed adverse reactions are fever and pain. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bryan Corporation at 1-800-343-7711 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Pneumonitis and Acute Respiratory Distress Syndrome (ARDS): Acute Pneumonitis and ARDS, including fatal cases, occur with intrapleural talc administration. (  5.1  ) 
+ *  Interference with Future Procedures: Sclerosis of the pleural space may preclude or complicate subsequent ipsilateral surgery and diagnostic procedures. (  5.2  ) 
+    
+ 
+
+   5.1 Pneumonitis and Acute Respiratory Distress Syndrome (ARDS)
+
+
+
+  Acute Pneumonitis and ARDS, including fatal cases, occur with intrapleural talc administration.
+
+
+
+    5.2 Interference with Future Procedures
+
+
+
+  Sclerosis of the pleural space may preclude or complicate subsequent ipsilateral surgery and diagnostic procedures. Consider the possible effects of the use of Sterile Talc Powder on future diagnostic and therapeutic procedures prior to administration.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

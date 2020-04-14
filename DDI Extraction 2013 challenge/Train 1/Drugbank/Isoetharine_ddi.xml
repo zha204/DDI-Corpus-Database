@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d541">
+    <sentence id="DDI-DrugBank.d541.s0" text="May interact with the following: beta-adrenergic blocking agents (these medicines may make your condition worse and prevent the adrenergic bronchodilators from working properly) and disopyramide, quinidine, phenothiazines, and procainamide (these medicines may increase the risk of heart problems).">
+        <entity id="DDI-DrugBank.d541.s0.e0" charOffset="33-63"
+            type="group" text="beta-adrenergic blocking agents"/>
+        <entity id="DDI-DrugBank.d541.s0.e1" charOffset="128-153"
+            type="group" text="adrenergic bronchodilators"/>
+        <entity id="DDI-DrugBank.d541.s0.e2" charOffset="182-193"
+            type="drug" text="disopyramide"/>
+        <entity id="DDI-DrugBank.d541.s0.e3" charOffset="196-204"
+            type="drug" text="quinidine"/>
+        <entity id="DDI-DrugBank.d541.s0.e4" charOffset="207-220"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d541.s0.e5" charOffset="227-238"
+            type="drug" text="procainamide"/>
+    </sentence>
+</document>

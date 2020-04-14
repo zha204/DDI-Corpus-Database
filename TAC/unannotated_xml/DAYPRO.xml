@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="daypro" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reaction data were derived from patients who received DAYPRO in multidose, controlled, and open-label clinical trials, and from worldwide marketing experience. Rates for events occurring in more than 1% of patients, and for most of the less common events, are based on 2253 patients who took 1200 to 1800 mg DAYPRO per day in clinical trials. Of these, 1721 were treated for at least 1 month, 971 for at least 3 months, and 366 for more than 1 year. Rates for the rarer events and for events reported from worldwide marketing experience are difficult to estimate accurately and are only listed as less than 1%.
+
+
+
+   INCIDENCE GREATER THAN 1%
+
+  In clinical trials of DAYPRO or in patients taking other NSAIDs, the following adverse reactions occurred at an incidence greater than 1%.
+
+
+
+   Cardiovascular system:  edema.
+
+
+
+   Digestive system:  abdominal pain/distress, anorexia, constipation, diarrhea, dyspepsia, flatulence, gastrointestinal ulcers (gastric/duodenal), gross bleeding/perforation, heartburn, liver enzyme elevations, nausea, vomiting.
+
+
+
+   Hematologic system:  anemia, increased bleeding time.
+
+
+
+   Nervous system:  CNS inhibition (depression, sedation, somnolence, or confusion), disturbance of sleep, dizziness, headache.
+
+
+
+   Skin and appendages:  pruritus, rash.
+
+
+
+   Special senses:  tinnitus.
+
+
+
+   Urogenital system:  abnormal renal function, dysuria or frequency.
+
+
+
+   INCIDENCE LESS THAN 1%
+
+  The following adverse reactions were reported in clinical trials, from worldwide marketing experience  (in italics)  or in patients taking other NSAIDs.
+
+
+
+   Body as a whole:  appetite changes, death, drug hypersensitivity reactions including anaphylaxis, fever, infection, sepsis,  serum sickness.  
+
+
+
+   Cardiovascular system:  arrhythmia, blood pressure changes, congestive heart failure, hypertension, hypotension, myocardial infarction, palpitations, tachycardia, syncope, vasculitis.
+
+
+
+   Digestive system:  alteration in taste, dry mouth, eructation, esophagitis, gastritis, glossitis, hematemesis, jaundice, liver function abnormalities including  hepatitis,  liver failure, stomatitis, hemorrhoidal or rectal bleeding,  pancreatitis.  
+
+
+
+   Hematologic system:    agranulocytosis,  aplastic anemia, ecchymoses, eosinophilia, hemolytic anemia, lymphadenopathy, melena,  pancytopenia,  purpura, thrombocytopenia, leukopenia.
+
+
+
+   Metabolic system:  hyperglycemia, weight changes.
+
+
+
+   Nervous system:  anxiety, asthenia, coma, convulsions, dream abnormalities, drowsiness, hallucinations, insomnia, malaise, meningitis, nervousness, paresthesia, tremors, vertigo, weakness.
+
+
+
+   Respiratory system:  asthma, dyspnea, pulmonary infections, pneumonia, sinusitis, symptoms of upper respiratory tract infection, respiratory depression.
+
+
+
+   Skin:  alopecia, angioedema, urticaria, photosensitivity,  pseudoporphyria, exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome,  sweat,  toxic epidermal necrolysis  (  Lyell's syndrome  ).
+
+
+
+   Special senses:  blurred vision, conjunctivitis, hearing decrease.
+
+
+
+   Urogenital:    acute interstitial nephritis,  cystitis, hematuria, increase in menstrual flow,  nephrotic syndrome,  oliguria/ polyuria, proteinuria, renal insufficiency,  acute renal failure,  decreased menstrual flow.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+  Cardiovascular Risk
+
+    *  NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal. This risk may increase with duration of use. Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk. (see WARNINGS). 
+ *  DAYPRO(r) is contraindicated for treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS). 
+      Gastrointestinal Risk
+     *  NSAID's cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly patients are at greater risk for serious gastrointestinal events (see WARNINGS). 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

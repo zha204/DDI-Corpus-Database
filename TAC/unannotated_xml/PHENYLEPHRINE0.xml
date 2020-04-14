@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="phenylephrine0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions associated with the use of phenylephrine hydrochloride were identified in the literature. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+
+
+   Cardiac disorders:  Bradycardia, AV block, ventricular extrasystoles, myocardial ischemia
+
+
+
+   Gastrointestinal disorders:  Nausea, vomiting
+
+
+
+   General disorders and administrative site conditions:  Chest pain, extravasation
+
+
+
+   Immune system disorders:  Sulfite sensitivity
+
+
+
+   Nervous system disorders:  Headache, nervousness, paresthesia, tremor
+
+
+
+   Psychiatric disorders:  Excitability
+
+
+
+   Respiratory:  Pulmonary edema, rales
+
+
+
+   Skin and subcutaneous tissue disorders:  Diaphoresis, pallor, piloerection, skin blanching, skin necrosis with extravasation
+
+
+
+   Vascular disorders:  Hypertensive crisis
+
+
+
+   EXCERPT:   Most common adverse reactions:     nausea and vomiting, headache, nervousness (  6  ) 
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Severe bradycardia and decreased cardiac output: (  5.2  ) 
+ *     Extravasation: during intravenous administration may cause necrosis or sloughing of tissue (  5.4  ) 
+ *     Concomitant use with oxytocic drugs: pressor effect of sympathomimetic pressor amines is potentiated  (  5.5  ) 
+ *     Allergic-type reactions:   Sulfite (  5.6  ) 
+    
+ 
+
+   5.1 Exacerbation of Angina, Heart Failure, or Pulmonary Arterial Hypertension
+
+
+
+  Because of its pressor effects, phenylephrine hydrochloride can precipitate angina in patients with severe arteriosclerosis or history of angina, exacerbate underlying heart failure, and increase pulmonary arterial pressure.
+
+
+
+    5.2 Bradycardia
+
+
+
+  Phenylephrine hydrochloride can cause severe bradycardia and decreased cardiac output.
+
+
+
+    5.3 Risk in Patients with Autonomic Dysfunction
+
+
+
+  The pressor response to adrenergic drugs, including phenylephrine, can be increased in patients with autonomic dysfunction, as may occur with spinal cord injuries.
+
+
+
+    5.4 Skin and Subcutaneous Necrosis
+
+
+
+  Extravasation of phenylephrine can cause necrosis or sloughing of tissue.
+
+
+
+    5.5 Pressor Effect with Concomitant Oxytocic Drugs
+
+
+
+  Oxytocic drugs potentiate the pressor effect of sympathomimetic pressor amines including phenylephrine hydrochloride [see Drug Interactions (  7.1  )]  , with the potential for hemorrhagic stroke. 
+
+
+
+    5.6 Allergic Reactions
+
+
+
+  This product contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.  The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people. 
+
+
+
+    5.7 Peripheral and Visceral Ischemia
+
+
+
+  Phenylephrine hydrochloride can cause excessive peripheral and visceral vasoconstriction and ischemia to vital organs, particularly in patients with extensive peripheral vascular disease. 
+
+
+
+    5.8 Renal Toxicity
+
+
+
+  Phenylephrine hydrochloride can increase the need for renal replacement therapy in patients with septic shock. Monitor renal function.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

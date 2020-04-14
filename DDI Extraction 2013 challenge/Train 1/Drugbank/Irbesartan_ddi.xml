@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d27">
+    <sentence id="DDI-DrugBank.d27.s0" text="No significant drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.">
+        <entity id="DDI-DrugBank.d27.s0.e0" charOffset="119-137"
+            type="drug" text="hydrochlorothiazide"/>
+        <entity id="DDI-DrugBank.d27.s0.e1" charOffset="140-146"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d27.s0.e2" charOffset="149-156"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d27.s0.e3" charOffset="163-172"
+            type="drug" text="nifedipine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d27.s1" text="In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.">
+        <entity id="DDI-DrugBank.d27.s1.e0" charOffset="153-164"
+            type="drug" text="sulphenazole"/>
+        <entity id="DDI-DrugBank.d27.s1.e1" charOffset="167-177"
+            type="drug" text="tolbutamide"/>
+        <entity id="DDI-DrugBank.d27.s1.e2" charOffset="183-192"
+            type="drug" text="nifedipine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d27.s2" text="However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.">
+        <entity id="DDI-DrugBank.d27.s2.e0" charOffset="61-70"
+            type="drug" text="irbesartan"/>
+        <entity id="DDI-DrugBank.d27.s2.e1" charOffset="99-106"
+            type="drug" text="warfarin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d27.s3" text="Based on in vitro data, no interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isozymes 1A1, 1A2,2A6,2B6,2D6,2E1,or 3A4."/>
+    <sentence id="DDI-DrugBank.d27.s4" text="In separate studies of patients receiving maintenance doses of warfarin, hydrochlorothiazide, or digoxin, irbesartan administration for 7 days had no effect on the pharmacodynamics of warfarin (prothrombin time) or pharmacokinetics of digoxin.">
+        <entity id="DDI-DrugBank.d27.s4.e0" charOffset="63-70"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d27.s4.e1" charOffset="73-91"
+            type="drug" text="hydrochlorothiazide"/>
+        <entity id="DDI-DrugBank.d27.s4.e2" charOffset="97-103"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d27.s4.e3" charOffset="106-115"
+            type="drug" text="irbesartan"/>
+        <entity id="DDI-DrugBank.d27.s4.e4" charOffset="184-191"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d27.s4.e5" charOffset="235-241"
+            type="drug" text="digoxin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d27.s5" text="The pharmacokinetics of irbesartan were not affected by coadministration of nifedipine or hydrochlorothiazide">
+        <entity id="DDI-DrugBank.d27.s5.e0" charOffset="24-33"
+            type="drug" text="irbesartan"/>
+        <entity id="DDI-DrugBank.d27.s5.e1" charOffset="76-85"
+            type="drug" text="nifedipine"/>
+        <entity id="DDI-DrugBank.d27.s5.e2" charOffset="90-108"
+            type="drug" text="hydrochlorothiazide"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d27.s6" text="."/>
+    <sentence id="DDI-DrugBank.d27.s7" text=""/>
+</document>

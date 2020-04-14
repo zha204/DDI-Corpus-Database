@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d160">
+    <sentence id="DDI-DrugBank.d160.s0" text="The results of a study of coadministration of ethambutol (50 mg/kg) with an aluminum hydroxide containing antacid to 13 patients with tuberculosis showed a reduction of mean serum concentrations and urinary excretion of ethambutol of approximately 20% and 13%, respectively, suggesting that the oral absorption of ethambutol may be reduced by these antacid products.">
+        <entity id="DDI-DrugBank.d160.s0.e0" charOffset="46-55"
+            type="drug" text="ethambutol"/>
+        <entity id="DDI-DrugBank.d160.s0.e1" charOffset="76-93"
+            type="drug" text="aluminum hydroxide"/>
+        <entity id="DDI-DrugBank.d160.s0.e2" charOffset="106-112"
+            type="group" text="antacid"/>
+        <entity id="DDI-DrugBank.d160.s0.e3" charOffset="220-229"
+            type="drug" text="ethambutol"/>
+        <entity id="DDI-DrugBank.d160.s0.e4" charOffset="314-323"
+            type="drug" text="ethambutol"/>
+        <entity id="DDI-DrugBank.d160.s0.e5" charOffset="349-364"
+            type="group" text="antacid products"/>
+        <ddi id="DDI-DrugBank.d160.s0.d0" e1="DDI-DrugBank.d160.s0.e0"
+            e2="DDI-DrugBank.d160.s0.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d160.s1" text="It is recommended to avoid concurrent administration of ethambutol with aluminum hydroxide containing antacids for at least 4 hours following ethambutol administration.">
+        <entity id="DDI-DrugBank.d160.s1.e0" charOffset="56-65"
+            type="drug" text="ethambutol"/>
+        <entity id="DDI-DrugBank.d160.s1.e1" charOffset="72-89"
+            type="drug" text="aluminum hydroxide"/>
+        <entity id="DDI-DrugBank.d160.s1.e2" charOffset="102-109"
+            type="group" text="antacids"/>
+        <entity id="DDI-DrugBank.d160.s1.e3" charOffset="142-151"
+            type="drug" text="ethambutol"/>
+        <ddi id="DDI-DrugBank.d160.s1.d0" e1="DDI-DrugBank.d160.s1.e0"
+            e2="DDI-DrugBank.d160.s1.e1" type="advise"/>
+    </sentence>
+</document>

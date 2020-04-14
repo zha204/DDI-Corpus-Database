@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="short0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    LOCAL REACTIONS.  The occurrence of a hive 5 to 15 minutes after injection is usually due to leakage of extract into the skin along the needle tract. Firm pressure (not rubbing) at the site of injection immediately after withdrawal of the needle will usually prevent this reaction. It does not require a reduction in dosage. A strong local reaction with erythema and edema which persists at the injection site for several hours indicates that too much extract has been given. Failure to note this response may result in a serious generalized reaction. Treatment should be altered as follows:
+
+
+
+ *  Additional injections should not be given until all evidence of the reaction has disappeared. 
+ *  The dosage should be reduced three levels, e.g., from 0.4 cc to 0.5 cc or the equivalent, and held at that level for two or three treatments. 
+    A second reaction at or near the dose which caused the first local response indicates that a maximum tolerated amount of extract has been reached and no further increases in dosage should be attempted. Maintenance therapy should be continued thereafter at the highest possible non-reacting dose.  SYSTEMIC REACTIONS.  Systemic (generalized) reactions may range from a mild exaggeration of the patient's allergic symptoms to hives, anaphylactic shock, or even death from anaphylaxis. Systemic reactions may occur when a previous local reaction has not been heeded, or when the extract is accidentally injected intravenously. The reaction usually occurs 5 to 20 minutes after injection. Symptoms may include sneezing, coughing, itching, shortness of breath, abdominal cramps, vomiting, diarrhea, tachycardia, hypotension, and respiratory failure in severe cases. The reaction is usually stopped by the subcutaneous injection of epinephrine HCL 1:1,000 (See Overdosage below). The oral administration of antihistamines and the placement of a tourniquet proximal to the injection site are helpful adjuncts. In the event that additional measures are required, it may be necessary to treat the patient for bronchospasm with intravenous aminophylline, intravenous fluids and corticosteroids; for hypotension with vasopressors, volume repletion, isoproterenol and corticosteroids; for laryngeal obstruction with oxygen and tracheostomy and for cardiac arrest with cardiopulmonary resuscitation and other appropriate measures.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="oxistat" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  During clinical trials, of 955 patients treated with oxiconazole nitrate  cream  , 1%, 41 (4.3%) reported adverse reactions thought to be related to drug therapy. These reactions included pruritus (1.6%); burning (1.4%); irritation and allergic contact dermatitis (0.4% each); folliculitis (0.3%); erythema (0.2%); and papules, fissure, maceration, rash, stinging, and nodules (0.1% each).
+
+
+
+ In a controlled, multicenter clinical trial of 269 patients treated with oxiconazole nitrate  lotion  , 1%, 7 (2.6%) reported adverse reactions thought to be related to drug therapy. These reactions included burning and stinging (0.7% each) and pruritus, scaling, tingling, pain, and dyshidrotic eczema (0.4% each).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dificid" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions are nausea (11%), vomiting (7%), abdominal pain (6%), gastrointestinal hemorrhage (4%), anemia (2%), and neutropenia (2%) (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Cubist Pharmaceuticals at 1-877-CUBIST-6 (1-877-282-4786) or FDA at (1-800-FDA-1088) or    www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse event rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of any other drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of DIFICID 200 mg tablets taken twice a day for 10 days was evaluated in 564 patients with CDAD in two active-comparator controlled trials with 86.7% of patients receiving a full course of treatment.
+
+
+
+ Thirty-three patients receiving DIFICID (5.9%) withdrew from trials as a result of adverse reactions (AR). The types of AR resulting in withdrawal from the study varied considerably. Vomiting was the primary adverse reaction leading to discontinuation of dosing; this occurred at an incidence of 0.5% in both the fidaxomicin and vancomycin patients in Phase 3 studies.
+
+
+
+ Table 1. Selected Adverse Reactions with an Incidence of &gt;=2% Reported in DIFICID Patients in Controlled Trials 
+                                                        DIFICID    (N=564)        Vancomycin    (N=583)     
+   System Organ Class        Preferred Term                    n (%)                      n (%)             
+ Blood and Lymphatic System Disorders                 
+     Anemia                                                   14 (2%)                    12 (2%)            
+     Neutropenia                                              14 (2%)                    6 (1%)             
+ Gastrointestinal Disorders                           
+     Nausea                                                  62 (11%)                   66 (11%)            
+     Vomiting                                                 41 (7%)                    37 (6%)            
+     Abdominal Pain                                           33 (6%)                    23 (4%)            
+     Gastrointestinal Hemorrhage                              20 (4%)                    12 (2%)            
+         The following adverse reactions were reported in &lt;2% of patients taking DIFICID tablets in controlled trials:
+ 
+
+   Gastrointestinal Disorders:    abdominal distension, abdominal tenderness, dyspepsia, dysphagia, flatulence, intestinal obstruction, megacolon
+
+
+
+   Investigations:    increased blood alkaline phosphatase, decreased blood bicarbonate, increased hepatic enzymes, decreased platelet count
+
+
+
+   Metabolism and Nutrition Disorders:    hyperglycemia, metabolic acidosis
+
+
+
+   Skin and Subcutaneous Tissue Disorders:    drug eruption, pruritus, rash
+
+
+
+   6.2 Post Marketing Experience
+
+  Adverse reactions reported in the post marketing setting arise from a population of unknown size and are voluntary in nature. As such, reliability in estimating their frequency or in establishing a causal relationship to drug exposure is not always possible.
+
+
+
+ Hypersensitivity reactions (dyspnea, angioedema, rash, and pruritus) have been reported.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  DIFICID should not be used for systemic infections. (  5.1  ) 
+ *  Acute hypersensitivity reactions (angioedema, dyspnea, pruritus, and rash) have been reported. In the event of a severe reaction, discontinue DIFICID. (  5.2  ) 
+ *  Development of drug-resistant bacteria: Only use DIFICID for infection proven or strongly suspected to be caused by C. difficile . (  5.3  ) 
+    
+ 
+
+   5.1 Not for Systemic Infections
+
+
+
+  Since there is minimal systemic absorption of fidaxomicin, DIFICID is not effective for treatment of systemic infections.
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+  Acute hypersensitivity reactions, including dyspnea, rash pruritus, and angioedema of the mouth, throat, and face have been reported with fidaxomicin. If a severe hypersensitivity reaction occurs, DIFICID  (r)  should be discontinued and appropriate therapy should be instituted.
+
+
+
+ Some patients with hypersensitivity reactions also reported a history of allergy to other macrolides. Physicians prescribing DIFICID to patients with a known macrolide allergy should be aware of the possibility of hypersensitivity reactions.
+
+
+
+    5.3 Development of Drug-Resistant Bacteria
+
+
+
+  Prescribing DIFICID in the absence of a proven or strongly suspected C. difficile  infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="76" len="6" str="nausea" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="90" len="8" str="vomiting" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="105" len="14" str="abdominal pain" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="126" len="27" str="gastrointestinal hemorrhage" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="160" len="6" str="anemia" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="177" len="11" str="neutropenia" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="1078" len="8" str="Vomiting" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="1659" len="6" str="Anemia" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="1768" len="11" str="Neutropenia" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="1932" len="6" str="Nausea" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="2041" len="8" str="Vomiting" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="2150" len="14" str="Abdominal Pain" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="2259" len="27" str="Gastrointestinal Hemorrhage" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="2519" len="20" str="abdominal distension" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="2541" len="20" str="abdominal tenderness" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="2563" len="9" str="dyspepsia" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="2574" len="9" str="dysphagia" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="2585" len="10" str="flatulence" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="2597" len="22" str="intestinal obstruction" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2621" len="9" str="megacolon" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2656" len="36" str="increased blood alkaline phosphatase" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2694" len="27" str="decreased blood bicarbonate" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2723" len="25" str="increased hepatic enzymes" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2750" len="24" str="decreased platelet count" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="2820" len="13" str="hyperglycemia" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="2835" len="18" str="metabolic acidosis" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="2903" len="13" str="drug eruption" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="2918" len="8" str="pruritus" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="2928" len="4" str="rash" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="3235" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="3263" len="7" str="dyspnea" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="3272" len="10" str="angioedema" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="3284" len="4" str="rash" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="3294" len="8" str="pruritus" />
+    <Mention id="M35" section="S2" type="AdverseReaction" start="119" len="32" str="Acute hypersensitivity reactions" />
+    <Mention id="M36" section="S2" type="AdverseReaction" start="153" len="10" str="angioedema" />
+    <Mention id="M37" section="S2" type="AdverseReaction" start="165" len="7" str="dyspnea" />
+    <Mention id="M38" section="S2" type="AdverseReaction" start="174" len="8" str="pruritus" />
+    <Mention id="M39" section="S2" type="AdverseReaction" start="188" len="4" str="rash" />
+    <Mention id="M40" section="S2" type="AdverseReaction" start="640" len="32" str="Acute hypersensitivity reactions" />
+    <Mention id="M41" section="S2" type="AdverseReaction" start="684" len="7" str="dyspnea" />
+    <Mention id="M42" section="S2" type="AdverseReaction" start="693" len="4" str="rash" />
+    <Mention id="M43" section="S2" type="AdverseReaction" start="698" len="8" str="pruritus" />
+    <Mention id="M44" section="S2" type="AdverseReaction" start="712" len="23" str="angioedema of the mouth" />
+    <Mention id="M45" section="S2" type="AdverseReaction" start="712,737" len="17,6" str="angioedema of the throat" />
+    <Mention id="M46" section="S2" type="AdverseReaction" start="712,749" len="17,4" str="angioedema of the face" />
+    <Mention id="M47" section="S2" type="AdverseReaction" start="943" len="26" str="hypersensitivity reactions" />
+  </Mentions>
+  <Relations />
+  <Reactions>
+    <Reaction id="AR1" str="nausea">
+      <Normalization id="AR1.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR2" str="vomiting">
+      <Normalization id="AR2.N1" meddra_pt="Vomiting" meddra_pt_id="10047700" />
+    </Reaction>
+    <Reaction id="AR3" str="abdominal pain">
+      <Normalization id="AR3.N1" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Reaction>
+    <Reaction id="AR4" str="gastrointestinal hemorrhage">
+      <Normalization id="AR4.N1" meddra_pt="Gastrointestinal haemorrhage" meddra_pt_id="10017955" meddra_llt="Gastrointestinal hemorrhage" meddra_llt_id="10017960" />
+    </Reaction>
+    <Reaction id="AR5" str="anemia">
+      <Normalization id="AR5.N1" meddra_pt="Anaemia" meddra_pt_id="10002034" meddra_llt="Anemia" meddra_llt_id="10002272" />
+    </Reaction>
+    <Reaction id="AR6" str="neutropenia">
+      <Normalization id="AR6.N1" meddra_pt="Neutropenia" meddra_pt_id="10029354" />
+    </Reaction>
+    <Reaction id="AR7" str="abdominal distension">
+      <Normalization id="AR7.N1" meddra_pt="Abdominal distension" meddra_pt_id="10000060" />
+    </Reaction>
+    <Reaction id="AR8" str="abdominal tenderness">
+      <Normalization id="AR8.N1" meddra_pt="Abdominal tenderness" meddra_pt_id="10000097" />
+    </Reaction>
+    <Reaction id="AR9" str="dyspepsia">
+      <Normalization id="AR9.N1" meddra_pt="Dyspepsia" meddra_pt_id="10013946" />
+    </Reaction>
+    <Reaction id="AR10" str="dysphagia">
+      <Normalization id="AR10.N1" meddra_pt="Dysphagia" meddra_pt_id="10013950" />
+    </Reaction>
+    <Reaction id="AR11" str="flatulence">
+      <Normalization id="AR11.N1" meddra_pt="Flatulence" meddra_pt_id="10016766" />
+    </Reaction>
+    <Reaction id="AR12" str="intestinal obstruction">
+      <Normalization id="AR12.N1" meddra_pt="Intestinal obstruction" meddra_pt_id="10022687" />
+    </Reaction>
+    <Reaction id="AR13" str="megacolon">
+      <Normalization id="AR13.N1" meddra_pt="Megacolon" meddra_pt_id="10027110" />
+    </Reaction>
+    <Reaction id="AR14" str="increased blood alkaline phosphatase">
+      <Normalization id="AR14.N1" meddra_pt="Blood alkaline phosphatase increased" meddra_pt_id="10059570" />
+    </Reaction>
+    <Reaction id="AR15" str="decreased blood bicarbonate">
+      <Normalization id="AR15.N1" meddra_pt="Blood bicarbonate decreased" meddra_pt_id="10005359" />
+    </Reaction>
+    <Reaction id="AR16" str="increased hepatic enzymes">
+      <Normalization id="AR16.N1" meddra_pt="Hepatic enzyme increased" meddra_pt_id="10060795" />
+    </Reaction>
+    <Reaction id="AR17" str="decreased platelet count">
+      <Normalization id="AR17.N1" meddra_pt="Platelet count decreased" meddra_pt_id="10035528" />
+    </Reaction>
+    <Reaction id="AR18" str="hyperglycemia">
+      <Normalization id="AR18.N1" meddra_pt="Hyperglycaemia" meddra_pt_id="10020635" meddra_llt="Hyperglycemia" meddra_llt_id="10020639" />
+    </Reaction>
+    <Reaction id="AR19" str="metabolic acidosis">
+      <Normalization id="AR19.N1" meddra_pt="Metabolic acidosis" meddra_pt_id="10027417" />
+    </Reaction>
+    <Reaction id="AR20" str="drug eruption">
+      <Normalization id="AR20.N1" meddra_pt="Drug eruption" meddra_pt_id="10013687" />
+    </Reaction>
+    <Reaction id="AR21" str="pruritus">
+      <Normalization id="AR21.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Reaction>
+    <Reaction id="AR22" str="rash">
+      <Normalization id="AR22.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR23" str="hypersensitivity reactions">
+      <Normalization id="AR23.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR24" str="dyspnea">
+      <Normalization id="AR24.N1" meddra_pt="Dyspnoea" meddra_pt_id="10013968" meddra_llt="Dyspnea" meddra_llt_id="10013963" />
+    </Reaction>
+    <Reaction id="AR25" str="angioedema">
+      <Normalization id="AR25.N1" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+    </Reaction>
+    <Reaction id="AR26" str="acute hypersensitivity reactions">
+      <Normalization id="AR26.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR27" str="angioedema of the mouth">
+      <Normalization id="AR27.N1" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+      <Normalization id="AR27.N2" meddra_pt="Oedema mouth" meddra_pt_id="10030110" meddra_llt="Edema mouth" meddra_llt_id="10054496" />
+    </Reaction>
+    <Reaction id="AR28" str="angioedema of the throat">
+      <Normalization id="AR28.N1" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+      <Normalization id="AR28.N2" meddra_pt="Pharyngeal oedema" meddra_pt_id="10034829" meddra_llt="Throat edema" meddra_llt_id="10043519" />
+    </Reaction>
+    <Reaction id="AR29" str="angioedema of the face">
+      <Normalization id="AR29.N1" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+      <Normalization id="AR29.N2" meddra_pt="Face oedema" meddra_pt_id="10016029" meddra_llt="Face edema" meddra_llt_id="10016025" />
+    </Reaction>
+  </Reactions>
+</Label>

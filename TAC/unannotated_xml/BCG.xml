@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bcg" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Although BCG vaccination often causes local reactions, serious or long-term complications are rare.{3}  Reactions that can be expected after vaccination include moderate axillary or cervical lymphadenopathy and induration and subsequent pustule formation at the injection site; these reactions can persist for as long as 3 months after vaccination. More serious local reactions include ulceration at the vaccination site, regional suppurative lymphadenitis with draining sinuses, and caseous lesions or purulent draining at the puncture site. These manifestations might occur up to 5 months after vaccination and could persist for several weeks. The intensity and duration of the local reaction depends on the depth of penetration of the multiple puncture device and individual variations in patients' tissue reactions. Slight tenderness at the puncture site may be encountered as well as some itching. The initial skin lesions usually appear within 10-14 days and consist of small red papules at the site. The papules reach maximum diameter (about 3 mm) after 4 to 6 weeks, after which they may scale and then slowly subside.
+
+
+
+ The most serious complication of BCG vaccination is disseminated BCG infection.{24,25} The most frequent disseminated infection is BCG osteomyelitis (0.01 to 43 cases per million doses of vaccine administered) which usually occurs 4 months to 2 years after vaccination. Fatal disseminated BCG infection has occurred at a rate of 0.06-1.56 cases per million doses; these deaths occurred primarily among immunocompromised persons.
+
+
+
+   BCG Vaccination of Individuals Infected with HIV
+
+  The safety of BCG vaccination in HIV-infected adults and children, including infants, has not been determined by controlled or large studies. This is a concern because of the association between disseminated BCG infection and underlying immunosuppression. Individuals with HIV infection should not receive the BCG VACCINE.{3}
+
+
+
+   Treatment of Adverse Reactions
+
+  If a systemic BCG infection occurs, an infectious disease expert should be consulted and anti-tuberculosis therapy should be initiated. Since BCG strains are resistant to pyrazinamide, this antibiotic should not be used.
+
+
+
+   Reporting of Adverse Reactions
+
+  All suspected adverse reactions to BCG vaccination should be reported to Merck Sharp &amp; Dohme Corp., a subsidiary of  Merck &amp; Co., Inc.,  at 1-877-888-4231 and to the Vaccine Adverse Event Reporting System (VAERS); telephone 1-800-822-7967. These reactions occasionally could occur more than 1 year after vaccination.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

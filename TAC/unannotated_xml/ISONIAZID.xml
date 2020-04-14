@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="isoniazid" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequent reactions are those affecting the nervous system and the liver.
+
+
+
+   Nervous System Reactions:  Peripheral neuropathy is the most common toxic effect. It is dose-related, occurs most often in the malnourished and in those predisposed to neuritis (e.g., alcoholics and diabetics) and is usually preceded by paresthesias of the feet and hands. The incidence is higher in "slow inactivators".
+
+
+
+ Other neurotoxic effects, which are uncommon with conventional doses, are convulsions, toxic encephalopathy, optic neuritis and atrophy, memory impairment, and toxic psychosis.
+
+
+
+   Hepatic Reactions:  See boxed warning. Elevated serum transaminase (SGOT; SGPT), bilirubinemia, bilirubinuria, jaundice, and occasionally severe and sometimes fatal hepatitis. The common prodromal symptoms of hepatitis are anorexia, nausea, vomiting, fatigue, malaise, and weakness. Mild hepatic dysfunction, evidenced by mild and transient elevation of serum transaminase levels occurs in 10 to 20 percent of patients taking isoniazid. This abnormality usually appears in the first 1 to 3 months of treatment but can occur at any time during therapy. In most instances, enzyme levels return to normal and generally, there is no necessity to discontinue medication during the period of mild serum transaminase elevation. In occasional instances, progressive liver damage occurs, with accompanying symptoms. If the SGOT value exceeds three to five times the upper limit of normal, discontinuation of the isoniazid should be strongly considered. The frequency of progressive liver damage increases with age. It is rare in persons under 20, but occurs in up to 2.3 percent of those over 50 years of age.
+
+
+
+   Gastrointestinal Reactions:  Nausea, vomiting and epigastric distress.
+
+
+
+   Hematologic Reactions:  Agranulocytosis; hemolytic, sideroblastic or aplastic anemia, thrombocytopenia and eosinophilia.
+
+
+
+   Hypersensitivity Reactions:  Fever, skin eruptions (morbilliform, maculopapular, purpuric or exfoliative), lymphadenopathy and vasculitis.
+
+
+
+   Metabolic And Endocrine Reactions:  Pyridoxine deficiency, pellagra, hyperglycemia, metabolic acidosis and gynecomastia.
+
+
+
+   Miscellaneous Reactions:  Rheumatic syndrome and systemic lupus erythematosus-like syndrome.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: Warning
+
+  Warning
+
+  Severe and sometimes fatal hepatitis associated with isoniazid therapy has been reported and may occur or may develop even after many months of treatment. The risk of developing hepatitis is age related. Approximate case rates by age are: less than 1 per 1,000 for persons under 20 years of age, 3 per 1,000 for persons in the 20 to 34 year age group, 12 per 1,000 for persons in the 35 to 49 year age group, 23 per 1,000 for persons in the 50 to 64 year age group and 8 per 1,000 for persons over 65 years of age. The risk of hepatitis is increased with daily consumption of alcohol. Precise data to provide a fatality rate for isoniazid-related hepatitis is not available; however, in a U.S. Public Health Service Surveillance Study of 13,838 persons taking isoniazid, there were 8 deaths among 174 cases of hepatitis.
+
+
+
+ Therefore, patients given isoniazid should be carefully monitored and interviewed at monthly intervals. For persons 35 and older, in addition to monthly symptom reviews, hepatic enzymes (specifically, AST and ALT (formerly SGOT and SGPT, respectively)) should be measured prior to starting isoniazid therapy and periodically throughout treatment. Isoniazid-associated hepatitis usually occurs during the first three months of treatment. Usually, enzyme levels return to normal despite continuance of drug, but in some cases progressive liver dysfunction occurs. Other factors associated with an increased risk of hepatitis include daily use of alcohol, chronic liver disease and injection drug use. A recent report suggests an increased risk of fatal hepatitis associated with isoniazid among women, particularly black and Hispanic women. The risk may also be increased during the post partum period. More careful monitoring should be considered in these groups, possibly including more frequent laboratory monitoring. If abnormalities of liver function exceed three to five times the upper limit of normal, discontinuation of isoniazid should be strongly considered. Liver function tests are not a substitute for a clinical evaluation at monthly intervals or for the prompt assessment of signs or symptoms of adverse reactions occurring between regularly scheduled evaluations. Patients should be instructed to immediately report signs or symptoms consistent with liver damage or other adverse effects. These include any of the following: unexplained anorexia, nausea, vomiting, dark urine, icterus, rash, persistent paresthesias of the hands and feet, persistent fatigue, weakness or fever of greater than 3 days duration and/or abdominal tenderness, especially right upper quadrant discomfort. If these symptoms appear or if signs suggestive of hepatic damage are detected, isoniazid should be discontinued promptly, since continued use of the drug in these cases has been reported to cause a more severe form of liver damage.
+
+
+
+ Patients with tuberculosis who have hepatitis attributed to isoniazid should be given appropriate treatment with alternative drugs. If isoniazid must be reinstituted, it should be reinstituted only after symptoms and laboratory abnormalities have cleared. The drug should be restarted in very small and gradually increasing doses and should be withdrawn immediately if there is any indication of recurrent liver involvement.
+
+
+
+ Preventive treatment should be deferred in persons with acute hepatic diseases.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

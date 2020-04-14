@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="diltiazem" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Serious adverse reactions have been rare in studies with diltiazem hydrochloride extended-release capsules as well as with other diltiazem formulations. It should be recognized that patients with impaired ventricular function and cardiac conduction abnormalities have usually been excluded from these studies. A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 207 patients with chronic stable angina were treated for 3 weeks with doses of diltiazem hydrochloride extended-release capsules ranging from 120-540 mg once daily. Two patients experienced first-degree AV block at the 540 mg dose. The following table presents the most common adverse reactions, whether or not drug-related, reported in placebo-controlled trials in patients receiving diltiazem hydrochloride extended-release capsules up to 360 mg and up to 540 mg with rates in placebo patients shown for comparison.
+
+
+
+ MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALS 
+                                     Placebo           Diltiazem hydrochloride extended-release capsules   
+ Adverse Events(COSTART Term)        n=57# pts (%)        Up to 360 mgn=149# pts (%)  480-540mgn=48# pts (%)      
+  
+ edema, peripheral                    1 (2)            8 (5)                      7 (15)                      
+ dizziness                            4 (7)            6 (4)                      2 (4)                       
+ vasodilation                         1 (2)            5 (3)                      1 (2)                       
+ dyspepsia                            0 (0)            7 (5)                      0 (0)                       
+ pharyngitis                          2 (4)            3 (2)                      3 (6)                       
+ rash                                 0 (0)            3 (2)                      0 (0)                       
+ infection                            2 (4)            2 (1)                      3 (6)                       
+ diarrhea                             0 (0)            2 (1)                      1 (2)                       
+ palpitations                         0 (0)            2 (1)                      1 (2)                       
+ nervousness                          0 (0)            3 (2)                      0 (0)                       
+         MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients. 
+                                     Placebo           Diltiazem hydrochloride extended-release capsules   
+ Adverse Events(COSTART Term)        n=50# pts (%)        Up to 360 mgn=158# pts (%)  540 mgn=49# pts (%)         
+  
+ headache                             1 (2)            13 (8)                     4 (8)                       
+ edema, peripheral                    1 (2)            3 (2)                      5 (10)                      
+ pain                                 1 (2)            10 (6)                     3 (6)                       
+ dizziness                            0 (0)            5 (3)                      5 (10)                      
+ asthenia                             0 (0)            1 (1)                      2 (4)                       
+ dyspepsia                            0 (0)            2 (1)                      3 (6)                       
+ dyspnea                              0 (0)            1 (1)                      3 (6)                       
+ bronchitis                           0 (0)            1 (1)                      2 (4)                       
+ AV block                             0 (0)            0 (0)                      2 (4)                       
+ infection                            0 (0)            2 (1)                      1 (2)                       
+ flu syndrome                         0 (0)            0 (0)                      1 (2)                       
+ cough increase                       0 (0)            2 (1)                      1 (2)                       
+ extrasystoles                        0 (0)            0 (0)                      1 (2)                       
+ gout                                 0 (0)            2 (1)                      1 (2)                       
+ myalgia                              0 (0)            0 (0)                      1 (2)                       
+ impotence                            0 (0)            0 (0)                      1 (2)                       
+ conjunctivitis                       0 (0)            0 (0)                      1 (2)                       
+ rash                                 0 (0)            2 (1)                      1 (2)                       
+ abdominal enlargement                0 (0)            0 (0)                      1 (2)                       
+          In addition, the following events have been reported infrequently (less than 2%) in clinical trials with other diltiazem products:
+ 
+
+   Cardiovascular.  Angina, arrhythmia, AV block (second- or third-degree), bundle branch block, congestive heart failure, ECG abnormalities, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles.
+
+
+
+   Nervous System.  Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
+
+
+
+   Gastrointestinal.  Anorexia, constipation, diarrhea, dry mouth, dysgeusia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see  hepatic warnings  ), nausea, thirst, vomiting, weight increase.
+
+
+
+   Dermatological.  Petechiae, photosensitivity, pruritus.
+
+
+
+   Other.  Albuminuria, allergic reaction, amblyopia, asthenia, CPK increase, crystalluria, dyspnea, edema, epistaxis, eye irritation, headache, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, neck rigidity, nocturia, osteoarticular pain, pain, polyuria, rhinitis, sexual difficulties, gynecomastia.
+
+
+
+ In addition, the following postmarketing events have been reported infrequently in patients receiving diltiazem hydrochloride: alopecia, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, purpura, retinopathy, and thrombocytopenia. In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients. A number of well-documented cases of generalized rash, characterized as leukocytoclastic vasculitis, have been reported. However, a definitive cause and effect relationship between these events and diltiazem hydrochloride therapy is yet to be established.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

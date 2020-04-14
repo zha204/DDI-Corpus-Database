@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="magnesium1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The adverse effects of parenterally administered magnesium usually are the result of magnesium intoxication. These include flushing, sweating, hypotension, depressed reflexes, flaccid paralysis, hypothermia, circulatory collapse, cardiac and central nervous system depression proceeding to respiratory paralysis. Hypocalcemia with signs of tetany secondary to magnesium sulfate therapy for eclampsia has been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

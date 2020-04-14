@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="phenoxybenzamine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been observed, but there are insufficient data to support an estimate of their frequency.
+
+
+
+ 
+
+
+
+ Autonomic Nervous System  *  : Postural hypotension, tachycardia, inhibition of ejaculation, nasal congestion, miosis.
+
+
+
+   *  These so-called "side effects" are actually evidence of adrenergic blockade and vary according to the degree of blockade.
+
+
+
+ 
+
+
+
+ Miscellaneous: Gastrointestinal irritation, drowsiness, fatigue.
+
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact WellSpring Pharmaceutical Corporation at 1-866-337-4500 or FDA at 1-800-FDA-1088 or      www.fda.gov/medwatch      .     
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

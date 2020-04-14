@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="miochol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Infrequent cases of corneal edema, corneal clouding, and corneal decompensation have been reported with the use of intraocular acetylcholine.
+
+
+
+ Adverse reactions have been reported rarely which are indicative of systemic absorption. These include bradycardia, hypotension, flushing, breathing difficulties and sweating.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

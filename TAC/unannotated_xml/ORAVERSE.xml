@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="oraverse" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6. ADVERSE REACTIONS
+
+  In clinical trials, the most common adverse reaction with OraVerse that was greater than the control group was injection site pain.
+
+
+
+   EXCERPT:   The most common adverse reaction with OraVerse (incidence 5% and &gt; control) is injection-site pain. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Septodont at 1-888-888-1441 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Dental patients were administered a dose of either 0.2, 0.4 or 0.8mg of OraVerse. The majority of adverse reactions were mild and resolved within 48 hours. There were no serious adverse reactions and no discontinuations due to adverse reactions.
+
+
+
+   Table 1  lists adverse reactions where the frequency was greater than or equal to 3% in any OraVerse dose group and was equal to or exceeded that of the control group.
+
+
+
+ Table 1: Adverse Reactions with Frequency Greater Than or Equal to 3% and Equal to or Exceeding Control 
+ Adverse Event          OraVerse                             Control        
+                     0.2 mg(N = 83)    0.4 mg(N = 284)    0.8 mg(N = 51)    Total(N = 418)     Total(N = 359)     
+                          N (%)             N (%)             N (%)              N (%)              N (%)         
+  
+ Patients with AEs       15 (18)           82 (29)           20 (39)           117 (28)            96 (27)        
+   Tachycardia            0 (0)             17 (6)            2 (4)             19 (5)             20 (6)         
+   Bradycardia            0 (0)             5 (2)             2 (4)              7 (2)             1 (0.3)        
+   Injection site pain        5 (6)             15 (5)            2 (4)             22 (5)             14 (4)         
+   Post procedural pain        3 (4)             17 (6)            5 (10)            25 (6)             23 (6)         
+   Headache               0 (0)             10 (4)            3 (6)             13 (3)             14 (4)         
+            An examination of population subgroups did not reveal a differential adverse reaction incidence on the basis of age, gender, or race.
+ 
+
+ Results from the pain assessments in Study 1 and Study 2, involving mandibular and maxillary procedures, respectively, indicated that the majority of dental patients in both OraVerse and control groups experienced no or mild oral pain, with less than 10% of patients in each group reporting moderate oral pain with a similar distribution between the OraVerse and control groups. No patient experienced severe pain in these studies.
+
+
+
+   6.2 Adverse Reactions in Clinical Trials
+
+  Adverse reactions reported by less than 3% but at least 2 dental patients receiving OraVerse and occurring at a greater incidence than those receiving control, included diarrhea, facial swelling, increased blood pressure/hypertension, injection site reactions, jaw pain, oral pain, paresthesia, pruritus, tenderness, upper abdominal pain and vomiting. The majority of these adverse reactions were mild and resolved within 48 hours. The few reports of paresthesia were mild and transient and resolved during the same time period.
+
+
+
+   6.3 Post Marketing Adverse Reactions Reports from Literature and Other Sources
+
+  The following adverse reactions have been identified during postapproval parenteral use of phentolamine mesylate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Acute and prolonged hypotensive episodes and cardiac arrhythmias have been reported with the use of phentolamine. In addition, weakness, dizziness, flushing, orthostatic hypotension, and nasal stuffiness have occurred.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5. WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Myocardial infarction, cerebrovascular spasm, and cerebrovascular occlusion have been reported to occur following the intravenous or intramuscular administration of phentolamine, usually in association with marked hypotensive episodes or shock-like states which occasionally follow parenteral administration.
+
+
+
+ Tachycardia and cardiac arrhythmiasmay occur with the use of phentolamine or other alpha-adrenergic blocking agents. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Cardiovascular Events
+
+
+
+  Myocardial infarction, cerebrovascular spasm, and cerebrovascular occlusion have been reported to occur following the parenteral administration of phentolamine. These events usually occurred in association with marked hypotensive episodes producing shock-like states.
+
+
+
+ Tachycardia and cardiac arrhythmias may occur with the use of phentolamine or other alpha-adrenergic blocking agents. Although such effects are uncommon after administration of OraVerse, clinicians should be alert to the signs and symptoms of these events, particularly in patients with a prior history of cardiovascular disease.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

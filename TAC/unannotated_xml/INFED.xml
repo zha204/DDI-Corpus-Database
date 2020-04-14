@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="infed" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions
+
+    Severe/Fatal:  Anaphylactic reactions have been reported with the use of iron dextran injection; on occasions these reactions have been fatal. Such reactions, which occur most often within the first several minutes of administration, have been generally characterized by sudden onset of respiratory difficulty and/or cardiovascular collapse. Because fatal anaphylactic reactions have been reported after administration of iron dextran injection, the drug should be given only when resuscitation techniques and treatment of anaphylactic and anaphylactoid shock are readily available. (See BOXED WARNING and PRECAUTIONS: General, pertaining to immediate availability of epinephrine.)  Cardiovascular  : Chest pain, chest tightness, shock, cardiac arrest, hypotension, hypertension, tachycardia, bradycardia, flushing, arrhythmias. (Flushing and hypotension may occur from too rapid injections by the intravenous route.)  Dermatologic  : Urticaria, pruritus, purpura, rash, cyanosis.  Gastrointestinal  : Abdominal pain, nausea, vomiting, diarrhea.  Hematologic/lymphatic:  Leucocytosis, lymphadenopathy.  Musculoskeletal/soft tissue  : Arthralgia, arthritis (may represent reactivation in patients with quiescent rheumatoid arthritis - See PRECAUTIONS: General), myalgia; backache; sterile abscess, atrophy/fibrosis (intramuscular injection site); brown skin and/or underlying tissue discoloration (staining), soreness or pain at or near intramuscular injection sites; cellulitis; swelling; inflammation; local phlebitis at or near intravenous injection site.  Neurologic  : Convulsions, seizures, syncope, headache, weakness, unresponsiveness, paresthesia, febrile episodes, chills, dizziness, disorientation, numbness, unconsciousness.  Respiratory  : Respiratory arrest, dyspnea, bronchospasm, wheezing.  Urologic  : Hematuria.  Delayed reactions  : Arthralgia, backache, chills, dizziness, fever, headache, malaise, myalgia, nausea, vomiting. (See WARNINGS)  Miscellaneous  : Febrile episodes, sweating, shivering, chills, malaise, altered taste.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: Boxed Warning
+
+  Boxed Warning
+
+    WARNING: RISK FOR ANAPHYLACTIC-TYPE REACTIONSAnaphylactic-type reactions, including fatalities, have followed the parenteral administration of iron dextran injection.  
+
+
+
+    Have resuscitation equipment and personnel trained in the detection and treatment of anaphylactic-type reactions readily available during INFeD administration.  
+
+
+
+    Administer a test INFeD dose prior to the first therapeutic dose. If no signs or symptoms of anaphylactic-type reactions follow the test dose, administer the full therapeutic INFeD dose.  
+
+
+
+    During all INFeD administrations, observe for signs or symptoms of anaphylactic-type reactions. Fatal reactions have followed the test dose of iron dextran injection. Fatal reactions have also occurred in situations where the test dose was tolerated.  
+
+
+
+    Use INFeD only in patients in whom clinical and laboratory investigations have established an iron deficient state not amenable to oral iron therapy.  
+
+
+
+    Patients with a history of drug allergy or multiple drug allergies may be at increased risk of anaphylactic-type reaction to INFeD.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

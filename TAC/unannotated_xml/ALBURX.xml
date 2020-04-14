@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="alburx" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Since AlbuRx  (r)  5, Albumin (Human) 5% solution is sterile when coming from the manufacturer, bacterial contamination with the risk of post-infusion septicemia can only occur if the container has been damaged or following puncture of the rubber cap (see    WARNINGS    ).
+
+
+
+ Though very rare, non-septic incompatibility reactions including nausea, chills, fever, urticaria, headache and hypotension following the administration of albumin-containing preparations have occasionally been observed.  6,8,9,16  A favorable response to the intravenous administration of 50 to 100 mg of prednisolone was recorded.  9  Severe allergic reactions such as anaphylactic shock have been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

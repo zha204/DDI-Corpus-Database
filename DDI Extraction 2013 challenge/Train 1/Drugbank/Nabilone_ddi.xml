@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d552">
+    <sentence id="DDI-DrugBank.d552.s0" text="Nabilone should be administered with caution to patients who are taking other psychoactive drugs or CNS depressants, including alcohol, barbiturates and narcotic analgesics, or to those with a history of psychiatric disorder (including manic-depressive illness and schizophrenia).">
+        <entity id="DDI-DrugBank.d552.s0.e0" charOffset="0-7"
+            type="drug" text="Nabilone"/>
+        <entity id="DDI-DrugBank.d552.s0.e1" charOffset="78-95"
+            type="group" text="psychoactive drugs"/>
+        <entity id="DDI-DrugBank.d552.s0.e2" charOffset="100-114"
+            type="group" text="CNS depressants"/>
+        <entity id="DDI-DrugBank.d552.s0.e3" charOffset="127-133"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d552.s0.e4" charOffset="136-147"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d552.s0.e5" charOffset="153-171"
+            type="group" text="narcotic analgesics"/>
+        <ddi id="DDI-DrugBank.d552.s0.d0" e1="DDI-DrugBank.d552.s0.e0"
+            e2="DDI-DrugBank.d552.s0.e1" type="advise"/>
+        <ddi id="DDI-DrugBank.d552.s0.d1" e1="DDI-DrugBank.d552.s0.e0"
+            e2="DDI-DrugBank.d552.s0.e2" type="advise"/>
+        <ddi id="DDI-DrugBank.d552.s0.d2" e1="DDI-DrugBank.d552.s0.e0"
+            e2="DDI-DrugBank.d552.s0.e3" type="advise"/>
+        <ddi id="DDI-DrugBank.d552.s0.d3" e1="DDI-DrugBank.d552.s0.e0"
+            e2="DDI-DrugBank.d552.s0.e4" type="advise"/>
+        <ddi id="DDI-DrugBank.d552.s0.d4" e1="DDI-DrugBank.d552.s0.e0"
+            e2="DDI-DrugBank.d552.s0.e5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d552.s1" text="Nabilone has been shown to have an additive CNS depressant effect when given with either diazepam, secobarbitone sodium, alcohol or codeine.">
+        <entity id="DDI-DrugBank.d552.s1.e0" charOffset="0-7"
+            type="drug" text="Nabilone"/>
+        <entity id="DDI-DrugBank.d552.s1.e1" charOffset="89-96"
+            type="drug" text="diazepam"/>
+        <entity id="DDI-DrugBank.d552.s1.e2" charOffset="99-118"
+            type="brand" text="secobarbitone sodium"/>
+        <entity id="DDI-DrugBank.d552.s1.e3" charOffset="121-127"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d552.s1.e4" charOffset="132-138"
+            type="drug" text="codeine"/>
+        <ddi id="DDI-DrugBank.d552.s1.d0" e1="DDI-DrugBank.d552.s1.e0"
+            e2="DDI-DrugBank.d552.s1.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d552.s1.d1" e1="DDI-DrugBank.d552.s1.e0"
+            e2="DDI-DrugBank.d552.s1.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d552.s1.d2" e1="DDI-DrugBank.d552.s1.e0"
+            e2="DDI-DrugBank.d552.s1.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d552.s1.d3" e1="DDI-DrugBank.d552.s1.e0"
+            e2="DDI-DrugBank.d552.s1.e4" type="effect"/>
+    </sentence>
+</document>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d94">
+    <sentence id="DDI-DrugBank.d94.s0" text="Clinically meaningful drug interactions have occurred with concomitant medications and include, but are not limited to the following: Agents Highly Bound to Plasma Protein Carbamazepine is not highly bound to plasma proteins;">
+        <entity id="DDI-DrugBank.d94.s0.e0" charOffset="172-184"
+            type="drug" text="Carbamazepine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s1" text="therefore, administration of EQUETROTM to a patient taking another drug that is highly protein bound should not cause increased free concentrations of the other drug.">
+        <entity id="DDI-DrugBank.d94.s1.e0" charOffset="29-37"
+            type="brand" text="EQUETROTM"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s2" text="Agents that Inhibit Cytochrome P450 Isoenzymes and/or Epoxide Hydrolase Carbamazepine is metabolized mainly by cytochrome P450 (CYP) 3A4 to the active carbamazepine 10,11-epoxide, which is further metabolized to the trans-diol by epoxide hydrolase.">
+        <entity id="DDI-DrugBank.d94.s2.e0" charOffset="72-84"
+            type="drug" text="Carbamazepine"/>
+        <entity id="DDI-DrugBank.d94.s2.e1" charOffset="151-177"
+            type="drug" text="carbamazepine 10,11-epoxide"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s3" text="Therefore, the potential exists for interaction between carbamazepine and any agent that inhibits CYP3A4 and/or epoxide hydrolase.">
+        <entity id="DDI-DrugBank.d94.s3.e0" charOffset="56-68"
+            type="drug" text="carbamazepine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s4" text="Agents that are CYP3A4 inhibitors that have been found, or are expected, to increase plasma levels of EQUETROTM are the following: Acetazolamide, azole antifungals, cimetidine, clarithromycin(1), dalfopristin, danazol, delavirdine, diltiazem, erythromycin(1), fluoxetine, fluvoxamine, grapefruit juice, isoniazid, itraconazole, ketoconazole, loratadine, nefazodone, niacinamide, nicotinamide, protease inhibitors, propoxyphene, quinine, quinupristin, troleandomycin, valproate(1), verapamil, zileuton.">
+        <entity id="DDI-DrugBank.d94.s4.e0" charOffset="102-110"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s4.e1" charOffset="131-143"
+            type="drug" text="Acetazolamide"/>
+        <entity id="DDI-DrugBank.d94.s4.e2" charOffset="146-162"
+            type="group" text="azole antifungals"/>
+        <entity id="DDI-DrugBank.d94.s4.e3" charOffset="165-174"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBank.d94.s4.e4" charOffset="177-190"
+            type="drug" text="clarithromycin"/>
+        <entity id="DDI-DrugBank.d94.s4.e5" charOffset="196-207"
+            type="drug" text="dalfopristin"/>
+        <entity id="DDI-DrugBank.d94.s4.e6" charOffset="210-216"
+            type="drug" text="danazol"/>
+        <entity id="DDI-DrugBank.d94.s4.e7" charOffset="219-229"
+            type="drug" text="delavirdine"/>
+        <entity id="DDI-DrugBank.d94.s4.e8" charOffset="232-240"
+            type="drug" text="diltiazem"/>
+        <entity id="DDI-DrugBank.d94.s4.e9" charOffset="243-254"
+            type="drug" text="erythromycin"/>
+        <entity id="DDI-DrugBank.d94.s4.e10" charOffset="260-269"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-DrugBank.d94.s4.e11" charOffset="272-282"
+            type="drug" text="fluvoxamine"/>
+        <entity id="DDI-DrugBank.d94.s4.e12" charOffset="303-311"
+            type="drug" text="isoniazid"/>
+        <entity id="DDI-DrugBank.d94.s4.e13" charOffset="314-325"
+            type="drug" text="itraconazole"/>
+        <entity id="DDI-DrugBank.d94.s4.e14" charOffset="328-339"
+            type="drug" text="ketoconazole"/>
+        <entity id="DDI-DrugBank.d94.s4.e15" charOffset="342-351"
+            type="drug" text="loratadine"/>
+        <entity id="DDI-DrugBank.d94.s4.e16" charOffset="354-363"
+            type="drug" text="nefazodone"/>
+        <entity id="DDI-DrugBank.d94.s4.e17" charOffset="366-376"
+            type="drug" text="niacinamide"/>
+        <entity id="DDI-DrugBank.d94.s4.e18" charOffset="379-390"
+            type="drug" text="nicotinamide"/>
+        <entity id="DDI-DrugBank.d94.s4.e19" charOffset="393-411"
+            type="group" text="protease inhibitors"/>
+        <entity id="DDI-DrugBank.d94.s4.e20" charOffset="414-425"
+            type="drug" text="propoxyphene"/>
+        <entity id="DDI-DrugBank.d94.s4.e21" charOffset="428-434"
+            type="drug" text="quinine"/>
+        <entity id="DDI-DrugBank.d94.s4.e22" charOffset="437-448"
+            type="drug" text="quinupristin"/>
+        <entity id="DDI-DrugBank.d94.s4.e23" charOffset="451-464"
+            type="drug" text="troleandomycin"/>
+        <entity id="DDI-DrugBank.d94.s4.e24" charOffset="467-475"
+            type="drug" text="valproate"/>
+        <entity id="DDI-DrugBank.d94.s4.e25" charOffset="481-489"
+            type="drug" text="verapamil"/>
+        <entity id="DDI-DrugBank.d94.s4.e26" charOffset="492-499"
+            type="drug" text="zileuton"/>
+        <ddi id="DDI-DrugBank.d94.s4.d0" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d1" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d2" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d3" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d4" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d5" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e6" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d6" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e7" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d7" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e8" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d8" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e9" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d9" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e10" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d10" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e11" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d11" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e12" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d12" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e13" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d13" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e14" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d14" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e15" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d15" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e16" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d16" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e17" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d17" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e18" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d18" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e19" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d19" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e20" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d20" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e21" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d21" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e22" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d22" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e23" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d23" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e24" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d24" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e25" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s4.d25" e1="DDI-DrugBank.d94.s4.e0"
+            e2="DDI-DrugBank.d94.s4.e26" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s5" text="Thus, if a patient has been titrated to a stable dosage of EQUETROTM, and then begins a course of treatment with one of these CYP3A4 or epoxide hydrolase inhibitors, it is reasonable to expect that a dose reduction for EQUETROTM may be necessary.">
+        <entity id="DDI-DrugBank.d94.s5.e0" charOffset="59-67"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s5.e1" charOffset="219-227"
+            type="brand" text="EQUETROTM"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s6" text="Agents that Induce Cytochrome P450 Isoenzymes Carbamazepine is metabolized by CYP3A4.">
+        <entity id="DDI-DrugBank.d94.s6.e0" charOffset="46-58"
+            type="drug" text="Carbamazepine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s7" text="Therefore, the potential exists for interaction between carbamazepine and any agent that induces CYP3A4.">
+        <entity id="DDI-DrugBank.d94.s7.e0" charOffset="56-68"
+            type="drug" text="carbamazepine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s8" text="Agents that are CYP inducers that have been found, or are expected, to decrease plasma levels of EQUETROTM are the following: Cisplatin, doxorubicin HCL, felbamate, rifampin, phenobarbital, Phenytoin(2), primidone, methsuximide, and theophylline Thus, if a patient has been titrated to a stable dosage on EQUETROTM, and then begins a course of treatment with one of these CYP3A4 inducers, it is reasonable to expect that a dose increase for EQUETROTM may be necessary.">
+        <entity id="DDI-DrugBank.d94.s8.e0" charOffset="97-105"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s8.e1" charOffset="126-134"
+            type="drug" text="Cisplatin"/>
+        <entity id="DDI-DrugBank.d94.s8.e2" charOffset="137-151"
+            type="drug" text="doxorubicin HCL"/>
+        <entity id="DDI-DrugBank.d94.s8.e3" charOffset="154-162"
+            type="drug" text="felbamate"/>
+        <entity id="DDI-DrugBank.d94.s8.e4" charOffset="165-172"
+            type="drug" text="rifampin"/>
+        <entity id="DDI-DrugBank.d94.s8.e5" charOffset="175-187"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-DrugBank.d94.s8.e6" charOffset="190-198"
+            type="drug" text="Phenytoin"/>
+        <entity id="DDI-DrugBank.d94.s8.e7" charOffset="204-212"
+            type="drug" text="primidone"/>
+        <entity id="DDI-DrugBank.d94.s8.e8" charOffset="215-226"
+            type="drug" text="methsuximide"/>
+        <entity id="DDI-DrugBank.d94.s8.e9" charOffset="233-244"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d94.s8.e10" charOffset="305-313"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s8.e11" charOffset="441-449"
+            type="brand" text="EQUETROTM"/>
+        <ddi id="DDI-DrugBank.d94.s8.d0" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d1" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d2" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d3" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d4" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d5" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e6" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d6" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e7" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d7" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e8" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s8.d8" e1="DDI-DrugBank.d94.s8.e0"
+            e2="DDI-DrugBank.d94.s8.e9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s9" text="Agents with Decreased Levels in the Presence of Carbamazepine due to Induction of Cytochrome P450 Enzymes Carbamazepine is known to induce CYP1A2 and CYP3A4.">
+        <entity id="DDI-DrugBank.d94.s9.e0" charOffset="48-60"
+            type="drug" text="Carbamazepine"/>
+        <entity id="DDI-DrugBank.d94.s9.e1" charOffset="106-118"
+            type="drug" text="Carbamazepine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s10" text="Therefore, the potential exists for interaction between carbamazepine and any agent metabolized by one (or more) of these enzymes.">
+        <entity id="DDI-DrugBank.d94.s10.e0" charOffset="56-68"
+            type="drug" text="carbamazepine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s11" text="Agents that have been found, or are expected to have decreased plasma levels in the presence of EQUETROTM due to induction of CYP enzymes are the following: Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nortriptyline, olanzapine, oral contraceptives(3), oxcarbazepine, Phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, valproate, warfarin(5) , ziprasidone, and zonisamide.">
+        <entity id="DDI-DrugBank.d94.s11.e0" charOffset="96-104"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s11.e1" charOffset="157-169"
+            type="drug" text="Acetaminophen"/>
+        <entity id="DDI-DrugBank.d94.s11.e2" charOffset="172-181"
+            type="drug" text="alprazolam"/>
+        <entity id="DDI-DrugBank.d94.s11.e3" charOffset="184-196"
+            type="drug" text="amitriptyline"/>
+        <entity id="DDI-DrugBank.d94.s11.e4" charOffset="199-207"
+            type="drug" text="bupropion"/>
+        <entity id="DDI-DrugBank.d94.s11.e5" charOffset="210-218"
+            type="drug" text="buspirone"/>
+        <entity id="DDI-DrugBank.d94.s11.e6" charOffset="221-230"
+            type="drug" text="citalopram"/>
+        <entity id="DDI-DrugBank.d94.s11.e7" charOffset="233-240"
+            type="drug" text="clobazam"/>
+        <entity id="DDI-DrugBank.d94.s11.e8" charOffset="243-252"
+            type="drug" text="clonazepam"/>
+        <entity id="DDI-DrugBank.d94.s11.e9" charOffset="255-263"
+            type="drug" text="clozapine"/>
+        <entity id="DDI-DrugBank.d94.s11.e10" charOffset="266-276"
+            type="drug" text="cyclosporin"/>
+        <entity id="DDI-DrugBank.d94.s11.e11" charOffset="279-289"
+            type="drug" text="delavirdine"/>
+        <entity id="DDI-DrugBank.d94.s11.e12" charOffset="292-302"
+            type="drug" text="desipramine"/>
+        <entity id="DDI-DrugBank.d94.s11.e13" charOffset="305-312"
+            type="drug" text="diazepam"/>
+        <entity id="DDI-DrugBank.d94.s11.e14" charOffset="315-323"
+            type="drug" text="dicumarol"/>
+        <entity id="DDI-DrugBank.d94.s11.e15" charOffset="326-336"
+            type="drug" text="doxycycline"/>
+        <entity id="DDI-DrugBank.d94.s11.e16" charOffset="339-350"
+            type="drug" text="ethosuximide"/>
+        <entity id="DDI-DrugBank.d94.s11.e17" charOffset="353-361"
+            type="drug" text="felbamate"/>
+        <entity id="DDI-DrugBank.d94.s11.e18" charOffset="364-373"
+            type="drug" text="felodipine"/>
+        <entity id="DDI-DrugBank.d94.s11.e19" charOffset="376-390"
+            type="group" text="glucocorticoids"/>
+        <entity id="DDI-DrugBank.d94.s11.e20" charOffset="393-403"
+            type="drug" text="haloperidol"/>
+        <entity id="DDI-DrugBank.d94.s11.e21" charOffset="406-417"
+            type="drug" text="itraconazole"/>
+        <entity id="DDI-DrugBank.d94.s11.e22" charOffset="420-430"
+            type="drug" text="lamotrigine"/>
+        <entity id="DDI-DrugBank.d94.s11.e23" charOffset="433-445"
+            type="drug" text="levothyroxine"/>
+        <entity id="DDI-DrugBank.d94.s11.e24" charOffset="448-456"
+            type="drug" text="lorazepam"/>
+        <entity id="DDI-DrugBank.d94.s11.e25" charOffset="459-467"
+            type="drug" text="methadone"/>
+        <entity id="DDI-DrugBank.d94.s11.e26" charOffset="470-478"
+            type="drug" text="midazolam"/>
+        <entity id="DDI-DrugBank.d94.s11.e27" charOffset="481-491"
+            type="drug" text="mirtazapine"/>
+        <entity id="DDI-DrugBank.d94.s11.e28" charOffset="494-506"
+            type="drug" text="nortriptyline"/>
+        <entity id="DDI-DrugBank.d94.s11.e29" charOffset="509-518"
+            type="drug" text="olanzapine"/>
+        <entity id="DDI-DrugBank.d94.s11.e30" charOffset="526-539"
+            type="group" text="contraceptives"/>
+        <entity id="DDI-DrugBank.d94.s11.e31" charOffset="545-557"
+            type="drug" text="oxcarbazepine"/>
+        <entity id="DDI-DrugBank.d94.s11.e32" charOffset="560-568"
+            type="drug" text="Phenytoin"/>
+        <entity id="DDI-DrugBank.d94.s11.e33" charOffset="574-585"
+            type="drug" text="praziquantel"/>
+        <entity id="DDI-DrugBank.d94.s11.e34" charOffset="588-606"
+            type="group" text="protease inhibitors"/>
+        <entity id="DDI-DrugBank.d94.s11.e35" charOffset="609-618"
+            type="drug" text="quetiapine"/>
+        <entity id="DDI-DrugBank.d94.s11.e36" charOffset="621-631"
+            type="drug" text="risperidone"/>
+        <entity id="DDI-DrugBank.d94.s11.e37" charOffset="634-645"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d94.s11.e38" charOffset="648-657"
+            type="drug" text="topiramate"/>
+        <entity id="DDI-DrugBank.d94.s11.e39" charOffset="660-668"
+            type="drug" text="tiagabine"/>
+        <entity id="DDI-DrugBank.d94.s11.e40" charOffset="671-678"
+            type="drug" text="tramadol"/>
+        <entity id="DDI-DrugBank.d94.s11.e41" charOffset="681-689"
+            type="drug" text="triazolam"/>
+        <entity id="DDI-DrugBank.d94.s11.e42" charOffset="692-700"
+            type="drug" text="valproate"/>
+        <entity id="DDI-DrugBank.d94.s11.e43" charOffset="703-710"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d94.s11.e44" charOffset="717-727"
+            type="drug" text="ziprasidone"/>
+        <entity id="DDI-DrugBank.d94.s11.e45" charOffset="734-743"
+            type="drug" text="zonisamide"/>
+        <ddi id="DDI-DrugBank.d94.s11.d0" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d1" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d2" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d3" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d4" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d5" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e6" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d6" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e7" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d7" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e8" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d8" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e9" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d9" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e10" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d10" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e11" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d11" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e12" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d12" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e13" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d13" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e14" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d14" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e15" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d15" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e16" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d16" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e17" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d17" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e18" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d18" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e19" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d19" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e20" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d20" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e21" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d21" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e22" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d22" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e23" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d23" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e24" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d24" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e25" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d25" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e26" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d26" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e27" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d27" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e28" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d28" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e29" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d29" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e30" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d30" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e31" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d31" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e32" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d32" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e33" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d33" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e34" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d34" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e35" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d35" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e36" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d36" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e37" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d37" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e38" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d38" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e39" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d39" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e40" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d40" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e41" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d41" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e42" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d42" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e43" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d43" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e44" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s11.d44" e1="DDI-DrugBank.d94.s11.e0"
+            e2="DDI-DrugBank.d94.s11.e45" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s12" text="Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with EQUETROTM, it is reasonable to expect that a dose increase for the concomitant agent may be necessary.">
+        <entity id="DDI-DrugBank.d94.s12.e0" charOffset="138-146"
+            type="brand" text="EQUETROTM"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s13" text="Agents with Increased Levels in the Presence of Carbamazepine: EQUETROTM increases the plasma levels of the following agents: Clomipramine HCl, Phenytoin(6), and primidone Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of the treatment with EQUETROTM, it is reasonable to expect that a dose decrease for the concomitant agent may be necessary.">
+        <entity id="DDI-DrugBank.d94.s13.e0" charOffset="48-60"
+            type="drug" text="Carbamazepine"/>
+        <entity id="DDI-DrugBank.d94.s13.e1" charOffset="63-71"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s13.e2" charOffset="126-141"
+            type="drug" text="Clomipramine HCl"/>
+        <entity id="DDI-DrugBank.d94.s13.e3" charOffset="144-152"
+            type="drug" text="Phenytoin"/>
+        <entity id="DDI-DrugBank.d94.s13.e4" charOffset="162-170"
+            type="drug" text="primidone"/>
+        <entity id="DDI-DrugBank.d94.s13.e5" charOffset="314-322"
+            type="brand" text="EQUETROTM"/>
+        <ddi id="DDI-DrugBank.d94.s13.d0" e1="DDI-DrugBank.d94.s13.e1"
+            e2="DDI-DrugBank.d94.s13.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s13.d1" e1="DDI-DrugBank.d94.s13.e1"
+            e2="DDI-DrugBank.d94.s13.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d94.s13.d2" e1="DDI-DrugBank.d94.s13.e1"
+            e2="DDI-DrugBank.d94.s13.e4" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s14" text="Pharmacological/Pharmacodynamic Interactions with Carbamazepine Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.">
+        <entity id="DDI-DrugBank.d94.s14.e0" charOffset="50-62"
+            type="drug" text="Carbamazepine"/>
+        <entity id="DDI-DrugBank.d94.s14.e1" charOffset="94-106"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d94.s14.e2" charOffset="112-118"
+            type="drug" text="lithium"/>
+        <ddi id="DDI-DrugBank.d94.s14.d0" e1="DDI-DrugBank.d94.s14.e1"
+            e2="DDI-DrugBank.d94.s14.e2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s15" text="Given the anticonvulsant properties of carbamazepine, EQUETROTM may reduce the thyroid function as has been reported with other anticonvulsants.">
+        <entity id="DDI-DrugBank.d94.s15.e0" charOffset="39-51"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d94.s15.e1" charOffset="54-62"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s15.e2" charOffset="128-142"
+            type="group" text="anticonvulsants"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s16" text="Additionally, anti-malarial drugs, such as chloroquine and mefloquine, may antagonize the activity of carbamazepine.">
+        <entity id="DDI-DrugBank.d94.s16.e0" charOffset="14-32"
+            type="group" text="anti-malarial drugs"/>
+        <entity id="DDI-DrugBank.d94.s16.e1" charOffset="43-53"
+            type="drug" text="chloroquine"/>
+        <entity id="DDI-DrugBank.d94.s16.e2" charOffset="59-68"
+            type="drug" text="mefloquine"/>
+        <entity id="DDI-DrugBank.d94.s16.e3" charOffset="102-114"
+            type="drug" text="carbamazepine"/>
+        <ddi id="DDI-DrugBank.d94.s16.d0" e1="DDI-DrugBank.d94.s16.e0"
+            e2="DDI-DrugBank.d94.s16.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d94.s16.d1" e1="DDI-DrugBank.d94.s16.e1"
+            e2="DDI-DrugBank.d94.s16.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d94.s16.d2" e1="DDI-DrugBank.d94.s16.e2"
+            e2="DDI-DrugBank.d94.s16.e3" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s17" text="Thus if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with EQUETROTM, it is reasonable to expect that a dose adjustment may be necessary.">
+        <entity id="DDI-DrugBank.d94.s17.e0" charOffset="137-145"
+            type="brand" text="EQUETROTM"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d94.s18" text="Because of its primary CNS effect, caution should be used when EQUETROTM is taken with other centrally acting drugs and alcohol.">
+        <entity id="DDI-DrugBank.d94.s18.e0" charOffset="63-71"
+            type="brand" text="EQUETROTM"/>
+        <entity id="DDI-DrugBank.d94.s18.e1" charOffset="93-114"
+            type="group" text="centrally acting drugs"/>
+        <entity id="DDI-DrugBank.d94.s18.e2" charOffset="120-126"
+            type="drug" text="alcohol"/>
+        <ddi id="DDI-DrugBank.d94.s18.d0" e1="DDI-DrugBank.d94.s18.e0"
+            e2="DDI-DrugBank.d94.s18.e1" type="advise"/>
+        <ddi id="DDI-DrugBank.d94.s18.d1" e1="DDI-DrugBank.d94.s18.e0"
+            e2="DDI-DrugBank.d94.s18.e2" type="advise"/>
+    </sentence>
+</document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d244">
+    <sentence id="DDI-DrugBank.d244.s0" text="Before using this medication, tell your doctor or pharmacist of all prescription and nonprescription products you may use, especially of: aminoglycosides (e.g., gentamicin, amikacin), amphotericin B, cyclosporine, non-steroidal anti-inflammatory drugs (e.g., ibuprofen), tacrolimus, vancomycin.">
+        <entity id="DDI-DrugBank.d244.s0.e0" charOffset="138-152"
+            type="group" text="aminoglycosides"/>
+        <entity id="DDI-DrugBank.d244.s0.e1" charOffset="161-170"
+            type="drug" text="gentamicin"/>
+        <entity id="DDI-DrugBank.d244.s0.e2" charOffset="173-180"
+            type="drug" text="amikacin"/>
+        <entity id="DDI-DrugBank.d244.s0.e3" charOffset="184-197"
+            type="drug" text="amphotericin B"/>
+        <entity id="DDI-DrugBank.d244.s0.e4" charOffset="200-211"
+            type="drug" text="cyclosporine"/>
+        <entity id="DDI-DrugBank.d244.s0.e5" charOffset="214-244"
+            type="group" text="non-steroidal anti-inflammatory"/>
+        <entity id="DDI-DrugBank.d244.s0.e6" charOffset="259-267"
+            type="drug" text="ibuprofen"/>
+        <entity id="DDI-DrugBank.d244.s0.e7" charOffset="271-280"
+            type="drug" text="tacrolimus"/>
+        <entity id="DDI-DrugBank.d244.s0.e8" charOffset="283-292"
+            type="drug" text="vancomycin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d244.s1" text="Do not start or stop any medicine without doctor or pharmacist approval."/>
+</document>

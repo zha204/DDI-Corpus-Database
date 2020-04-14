@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="adenocard" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions
+
+  The following reactions were reported with intravenous Adenocard (adenosine injection) used in controlled U.S. clinical trials. The placebo group had less than 1% rate of all of these reactions.
+
+
+
+   Cardiovascular
+
+  Facial flushing (18%), headache (2%), sweating, palpitations, chest pain, hypotension (less than 1%).
+
+
+
+   Respiratory
+
+  Shortness of breath/dyspnea (12%), chest pressure (7%), hyperventilation, head pressure (less than 1%).
+
+
+
+   Central Nervous System
+
+  Lightheadedness (2%), dizziness, tingling in arms, numbness (1%), apprehension, blurred vision, burning sensation, heaviness in arms, neck and back pain (less than 1%).
+
+
+
+   Gastrointestinal
+
+  Nausea (3%), metallic taste, tightness in throat, pressure in groin (less than 1%).
+
+
+
+   Post Marketing Experience (see Warnings)
+
+  The following adverse events have been reported from marketing experience with Adenocard. Because these events are reported voluntarily from a population of uncertain size, are associated with concomitant diseases and multiple drug therapies and surgical procedures, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) frequency of the reporting, (3) strength of causal connection to the drug, or a combination of these factors.
+
+
+
+   Cardiovascular
+
+  Prolonged asystole, ventricular tachycardia, ventricular fibrillation, transient increase in blood pressure, bradycardia, atrial fibrillation, and Torsade de Pointes
+
+
+
+   Respiratory
+
+  Bronchospasm
+
+
+
+   Central Nervous System
+
+  Seizure activity, including tonic clonic (grand mal) seizures, and loss of consciousness.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

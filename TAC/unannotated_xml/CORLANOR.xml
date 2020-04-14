@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="corlanor" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6.         ADVERSE REACTIONS  
+
+  Clinically significant adverse reactions that appear in other sections of the labeling include:
+
+
+
+ *  Fetal Toxicity [see    Warnings and Precautions (5.1)    ]  
+ *  Atrial Fibrillation [see    Warnings and Precautions (5.2)    ]  
+ *  Bradycardia and Conduction Disturbances [see    Warnings and Precautions (5.3)    ]  
+      EXCERPT:   Most common adverse reactions occurring in &gt;= 1% of patients are bradycardia, hypertension, atrial fibrillation and luminous phenomena (phosphenes). (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amgen Medical Information at 1-800-772-6436 (1-800-77-AMGEN) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1          Clinical Trials Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In the  S  ystolic  H  eart failure treatment with the    I    finhibitor ivabradine  T  rial (SHIFT), safety was evaluated in 3260 patients treated with Corlanor and 3278 patients given placebo.  The median duration of Corlanor exposure was 21.5 months.
+
+
+
+ The most common adverse drug reactions in the SHIFT trial are shown in Table 2   [see    also Warnings and Precautions (      5.2      )    ,    (      5.3      )    ]  .
+
+
+
+ Table 2. Adverse Drug Reactions with Rates &gt;= 1.0% Higher on Ivabradine than Placebo occurring in &gt; 1% on Ivabradine in SHIFT 
+                     Ivabradine    N=3260       Placebo    N=3278     
+  Bradycardia      10%              2.2%             
+  Hypertension, blood pressure increased   8.9%             7.8%             
+  Atrial fibrillation   8.3%             6.6%             
+  Phosphenes, visual brightness   2.8%             0.5%             
+           Luminous    P    henomena    (Phosphenes)  
+ 
+
+ Phosphenes are phenomena described as a transiently enhanced brightness in a limited area of the visual field, halos, image decomposition (stroboscopic or kaleidoscopic effects), colored bright lights, or multiple images (retinal persistency).  Phosphenes are usually triggered by sudden variations in light intensity.  Corlanor can cause phosphenes, thought to be mediated through Corlanor's effects on retinal photoreceptors   [see      Clinical Pharmacology (12.1)      ]  . Onset is generally within the first 2 months of treatment, after which they may occur repeatedly.  Phosphenes were generally reported to be of mild to moderate intensity and led to treatment discontinuation in &lt; 1% of patients; most resolved during or after treatment.  
+
+
+
+     6.2         Postmarketing Experience  
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
+
+
+
+ The following adverse reactions have been identified during post-approval use of Corlanor: syncope, hypotension, angioedema, erythema, rash, pruritus, urticaria, vertigo, diplopia, and visual impairment.
+</Section>
+    <Section name="warnings and precautions" id="S2">     5.        WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Fetal toxicity: Females should use effective contraception. (  5.1  ) 
+ *  Monitor patients for atrial fibrillation. (  5.2  )  
+ *  Monitor heart rate decreases and bradycardia symptoms during treatment. (  5.3  )  
+ *  Not recommended in patients with 2  nd  degree AV block. (  5.3  ) 
+    
+ 
+
+    5.1        Fetal Toxicity  
+
+
+
+  Corlanor may cause fetal toxicity when administered to a pregnant woman based on findings in animal studies. Embryo-fetal toxicity and cardiac teratogenic effects were observed in fetuses of pregnant rats treated during organogenesis at exposures 1 to 3 times the human exposures (AUC0-24hr) at the maximum recommended human dose (MRHD)  [see     Use in Specific Populations (8.1)     ]  . Advise females to use effective contraception when taking Corlanor  [see     Use in Specific Populations (8.3)     ]  .
+
+
+
+     5.   2        A   trial   F   ibrillation  
+
+
+
+  Corlanor increases the risk of atrial fibrillation. In SHIFT, the rate of atrial fibrillation was 5.0% per patient-year in patients treated with Corlanor and 3.9% per patient-year in patients treated with placebo  [see     Clinical Studies (14)     ]  . Regularly monitor cardiac rhythm. Discontinue Corlanor if atrial fibrillation develops.  
+
+
+
+     5.   3        B radycardia   and   C   onduction   D   isturbances  
+
+
+
+  Bradycardia, sinus arrest, and heart block have occurred with Corlanor. The rate of bradycardia was 6.0% per patient-year in patients treated with Corlanor (2.7% symptomatic; 3.4% asymptomatic) and 1.3% per patient-year in patients treated with placebo. Risk factors for bradycardia include sinus node dysfunction, conduction defects (e.g., 1  st   or 2  nd   degree atrioventricular block, bundle branch block), ventricular dyssynchrony, and use of other negative chronotropes (e.g., digoxin, diltiazem, verapamil, amiodarone). Concurrent use of verapamil or diltiazem will increase Corlanor exposure, may themselves contribute to heart rate lowering, and should be avoided [see     Clinical Pharmacology (12.3)     ]  . Avoid use of Corlanor in patients with 2  nd  degree atrioventricular block, unless a functioning demand pacemaker is present  [see     Contraindications (4)     and     Dosage and Administration (2)     ].   
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

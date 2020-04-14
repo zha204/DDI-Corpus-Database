@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ciprofloxacin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical studies are conducted under widely varying conditions, adverse drug reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In a randomized, active-controlled clinical trial, approximately 300 patients with clinical signs and symptoms of otitis externa were treated with Ciprofloxacin Otic Solution. The most frequently reported adverse reactions were application site pain, ear pruritus, fungal ear superinfection, and headache, each reported in approximately 2-3% of patients.
+
+
+
+   EXCERPT:   The most common adverse reactions reported in 2-3% of patients treated with Ciprofloxacin Otic Solution were application site pain, ear pruritus, fungal ear superinfection, and headache. (    6    )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Xspire Pharma at 1-888-252-3901 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    .
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Ciprofloxacin Otic Solution is for otic use only. (  5.1  ) 
+ *  Hypersensitivity: discontinue at the first appearance of a skin rash or any other sign of hypersensitivity. (  5.2  ) 
+ *  Use of Ciprofloxacin Otic Solution may result in overgrowth of nonsusceptible organisms. (  5.3  ) 
+    
+ 
+
+   5.1 Otic Use Only
+
+
+
+  Ciprofloxacin Otic Solution is for otic use only. It should not be used for injection, for inhalation or for topical ophthalmic use.
+
+
+
+    5.2 Hypersensitivity
+
+
+
+  Ciprofloxacin Otic Solution should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity.
+
+
+
+    5.3 Growth of Resistant Organisms with Prolonged Use
+
+
+
+  As with other anti-infectives, use of Ciprofloxacin Otic Solution may result in overgrowth of nonsusceptible organisms, including yeast and fungi. If super-infection occurs, discontinue use and institute alternative therapy.
+
+
+
+    5.4 Lack of Clinical Response
+
+
+
+  If the infection is not improved after one week of therapy, cultures may help guide further treatment.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

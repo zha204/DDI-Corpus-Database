@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="paragard" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most serious adverse events associated with intrauterine contraception are discussed in    WARNINGS    and    PRECAUTIONS    . These include:
+
+
+
+
+  Intrauterine pregnancy    Pelvic infection    
+  Septic abortion          Perforation        
+  Ectopic pregnancy        Embedment          
+        Table 2 shows discontinuation rates from two clinical studies by adverse event and year.
+ 
+
+ Table 2. Summary of Rates (No. per 100 Subjects) by Year for Adverse Events Causing Discontinuation 
+  Adverse Event                     Year     
+  1                                 2        3        4        5        6       7       8       9       10      
+  Pregnancy                         0.7      0.3      0.6      0.2      0.3     0.2     0.0     0.4     0.0     0.0     
+  Expulsion                         5.7      2.5      1.6      1.2      0.3     0.0     0.6     1.7     0.2     0.4     
+  Bleeding/Pain                     11.9     9.8      7.0      3.5      3.7     2.7     3.0     2.5     2.2     3.7     
+  Other Medical Event               2.5      2.1      1.6      1.7      0.1     0.3     1.0     0.4     0.7     0.3     
+  No. of Women at Start of Year     4932     3149     2018     1121     872     621     563     483     423     325     
+                 *Rates were calculated by weighting the annual rates by the number of subjects starting each year for each of the Population Council (3,536 subjects) and the World Health Organization (1,396 subjects) trials.
+ 
+
+ The following adverse events have also been observed. These are listed alphabetically and not by order of frequency or severity.
+
+
+
+
+  Anemia                          Menstrual flow, prolonged        
+  Backache                        Menstrual spotting               
+  Dysmenorrhea                    Pain and cramping                
+  Dyspareunia                     Urticarial allergic skin reaction    
+  Expulsion, complete or partial    Vaginitis                        
+  Leukorrhea                                                       
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

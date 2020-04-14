@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="emcyt" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In a randomized, double-blind trial comparing therapy with EMCYT Capsules in 93 patients (11.5 to 15.9 mg/kg/day) or diethylstilbestrol (DES) in 93 patients (3.0 mg/day), the following adverse effects were reported:
+
+
+
+
+                                                             EMCYTn=93                   DESn=93            
+  
+ CARDIOVASCULAR-RESPIRATORY                                                                                 
+   Cardiac Arrest                                                0                          2               
+   Cerebrovascular Accident                                      2                          0               
+   Myocardial Infarction                                         3                          1               
+   Thrombophlebitis                                              3                          7               
+   Pulmonary Emboli                                              2                          5               
+   Congestive Heart Failure                                      3                          2               
+   Edema                                                        19                         17               
+   Dyspnea                                                      11                          3               
+   Leg Cramps                                                    8                         11               
+   Upper Respiratory Discharge                                   1                          1               
+   Hoarseness                                                    1                          0               
+ GASTROINTESTINAL                                                                                           
+   Nausea                                                       15                          8               
+   Diarrhea                                                     12                         11               
+   Minor Gastrointestinal Upset                                 11                          6               
+   Anorexia                                                      4                          3               
+   Flatulence                                                    2                          0               
+   Vomiting                                                      1                          1               
+   Gastrointestinal Bleeding                                     1                          0               
+   Burning Throat                                                1                          0               
+   Thirst                                                        1                          0               
+ INTEGUMENTARY                                                                                              
+   Rash                                                          1                          4               
+   Pruritus                                                      2                          2               
+   Dry Skin                                                      2                          0               
+   Pigment Changes                                               0                          3               
+   Easy Bruising                                                 3                          0               
+   Flushing                                                      1                          0               
+   Night Sweats                                                  0                          1               
+   Fingertip-Peeling Skin                                        1                          0               
+   Thinning Hair                                                 1                          1               
+ BREAST CHANGES                                                                                             
+   Tenderness                                                   66                         64               
+   Enlargement                                                                                              
+     Mild                                                       60                         54               
+     Moderate                                                   10                         16               
+     Marked                                                      0                          5               
+ MISCELLANEOUS                                                                                              
+   Lethargy Alone                                                4                          3               
+   Depression                                                    0                          2               
+   Emotional Lability                                            2                          0               
+   Insomnia                                                      3                          0               
+   Headache                                                      1                          1               
+   Anxiety                                                       1                          0               
+   Chest Pain                                                    1                          1               
+   Hot Flashes                                                   0                          1               
+   Pain in Eyes                                                  0                          1               
+   Tearing of Eyes                                               1                          1               
+   Tinnitus                                                      0                          1               
+ LABORATORY ABNORMALITIES                                                                                   
+   Hematologic                                                                                              
+     Leukopenia                                                  4                          2               
+     Thrombopenia                                                1                          2               
+   Hepatic                                                                                                  
+     Bilirubin Alone                                             1                          5               
+     Bilirubin and LDH                                           0                          1               
+     Bilirubin and SGOT                                          2                          1               
+     Bilirubin, LDH and SGOT                                     2                          0               
+     LDH and/or SGOT                                            31                         28               
+   Miscellaneous                                                                                            
+     Hypercalcemia-Transient                                     0                          1               
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

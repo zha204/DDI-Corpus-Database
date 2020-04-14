@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cuvposa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Constipation or intestinal pseudo-obstruction [see   Warnings and Precautions (5.1)   ] 
+ *  Incomplete mechanical intestinal obstruction [see   Warnings and Precautions (5.2)   ] 
+    The most common adverse reactions reported with CUVPOSA are dry mouth, vomiting, constipation, flushing, and nasal congestion.
+ 
+
+   EXCERPT:   The most common adverse reactions (incidence &gt;=30%) are dry mouth, vomiting, constipation, flushing, and nasal congestion. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merz Pharmaceuticals, LLC at 877-743-8454 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to CUVPOSA in 151 subjects, including 20 subjects who participated in an 8-week placebo-controlled study (Study 1) and 137 subjects who participated in a 24-week open-label study (six subjects who received CUVPOSA in the placebo-controlled study and 131 new subjects).
+
+
+
+ Table 2 presents adverse reactions reported by &gt;= 15% of CUVPOSA-treated subjects for the placebo-controlled clinical trial.
+
+
+
+ Table 2: Adverse Reactions Occurring in &gt;= 15% of CUVPOSA-Treated Subjects and at a Greater Frequency than Placebo in Study 1 
+                                                 CUVPOSA(N=20)n (%)              Placebo(N=18)n (%)         
+  
+                Dry Mouth                             8 (40%)                         2 (11%)               
+                 Vomiting                             8 (40%)                         2 (11%)               
+               Constipation                           7 (35%)                         4 (22%)               
+                 Flushing                             6 (30%)                         3 (17%)               
+             Nasal Congestion                         6 (30%)                         2 (11%)               
+                 Headache                             3 (15%)                          1 (6%)               
+                Sinusitis                             3 (15%)                          1 (6%)               
+    Upper Respiratory Tract Infection                 3 (15%)                            0                  
+            Urinary Retention                         3 (15%)                            0                  
+         The following adverse reactions occurred at a rate of &lt;2% of patients receiving CUVPOSA in the open-label study.
+ 
+
+ *     Gastrointestinal: Abdominal distention, abdominal pain, stomach discomfort, chapped lips, flatulence, retching, dry tongue 
+ *     General Disorders: Irritability, pain 
+ *     Infections: Pneumonia, sinusitis, tracheostomy infection, upper respiratory tract infection, urinary tract infection 
+ *     Investigations: Heart rate increase 
+ *     Metabolism and Nutrition: Dehydration 
+ *     Nervous System: Headache, convulsion, dysgeusia, nystagmus 
+ *     Psychiatric: Agitation, restlessness, abnormal behavior, aggression, crying, impulse control disorder, moaning, mood altered 
+ *     Respiratory: Increased viscosity of bronchial secretion, nasal congestion, nasal dryness 
+ *     Skin: Dry skin, pruritus, rash 
+ *     Vascular: Pallor 
+      6.2 Postmarketing Experience
+   The following adverse reactions have been identified during postapproval use of other formulations of glycopyrrolate for other indications. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Additional adverse reactions identified during postapproval use of glycopyrrolate tablets include: loss of taste and suppression of lactation.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Constipation or intestinal pseudo-obstruction: May present as abnormal distention, pain, nausea, or vomiting. Assess patients for constipation, particularly within 4-5 days of initial dosing or after a dose increase. (  5.1  ) 
+ *  Incomplete mechanical intestinal obstruction: May present as diarrhea. If obstruction is suspected, discontinue CUVPOSA and evaluate. (  5.2  ) 
+ *  High ambient temperature: To reduce the risk of heat prostration, avoid high temperatures. (  5.3  ) 
+    
+ 
+
+   5.1 Constipation or Intestinal Pseudo-obstruction
+
+
+
+  Constipation is a common dose-limiting adverse reaction which sometimes leads to glycopyrrolate discontinuation [see   Adverse Reactions (6.1)    ]. Assess patients for constipation, particularly within 4-5 days of initial dosing or after a dose increase. Intestinal pseudo-obstruction has been reported and may present as abdominal distention, pain, nausea or vomiting.
+
+
+
+    5.2 Incomplete Mechanical Intestinal Obstruction
+
+
+
+  Diarrhea may be an early symptom of incomplete mechanical intestinal obstruction, especially in patients with ileostomy or colostomy. If incomplete mechanical intestinal obstruction is suspected, discontinue treatment with CUVPOSA and evaluate for intestinal obstruction.
+
+
+
+    5.3 High Ambient Temperatures
+
+
+
+  In the presence of high ambient temperature, heat prostration (fever and heat stroke due to decreased sweating) can occur with the use of anticholinergic drugs such as CUVPOSA. Advise patients/caregivers to avoid exposure of the patient to hot or very warm environmental temperatures.
+
+
+
+    5.4 Operating Machinery or an Automobile
+
+
+
+  CUVPOSA may produce drowsiness or blurred vision. As appropriate for a given age, warn the patient not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery, or performing hazardous work while taking CUVPOSA.
+
+
+
+    5.5 Anticholinergic Drug Effects
+
+
+
+  Use CUVPOSA with caution in patients with conditions that are exacerbated by anticholinergic drug effects including:
+
+
+
+ *  Autonomic neuropathy 
+ *  Renal disease 
+ *  Ulcerative colitis - Large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate "toxic megacolon", a serious complication of the disease. 
+ *  Hyperthyroidism 
+ *  Coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, and hypertension 
+ *  Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

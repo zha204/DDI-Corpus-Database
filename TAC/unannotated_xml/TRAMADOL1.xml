@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tramadol1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Table 2 reports the incidence rate of treatment-emergent adverse events over five days of Tramadol HCl 37.5 mg/Acetaminophen 325 mg use in clinical trials (subjects took an average of at least 6 tablets per day).
+
+
+
+ Table 2: Incidence of Treatment-Emergent Adverse Events (&gt;=2.0%) 
+ Body System                                                                                              
+   Preferred Term                                    Tramadol Hydrochloride 37.5 mg/Acetaminophen 325 mg (N=142)(%)   
+  
+   Gastrointestinal System Disorders                                                                      
+   Constipation                                                              6                            
+   Diarrhea                                                                  3                            
+   Nausea                                                                    3                            
+   Dry Mouth                                                                 2                            
+   Psychiatric Disorders                                                                                  
+   Somnolence                                                                6                            
+   Anorexia                                                                  3                            
+   Insomnia                                                                  2                            
+   Central &amp; Peripheral Nervous System                                                                    
+   Dizziness                                                                 3                            
+   Skin and Appendages                                                                                    
+   Sweating Increased                                                        4                            
+   Pruritus                                                                  2                            
+   Reproductive Disorders, Male                                                                           
+   Prostatic Disorder                                                        2                            
+          Incidence at least 1%, causal relationship at least possible or greater
+   the following lists adverse reactions that occurred with an incidence of at least 1% in single-dose or repeated-dose clinical trials of Tramadol HCl 37.5 mg/Acetaminophen 325 mg.
+
+
+
+   Body as a Whole -  Asthenia, fatigue, hot flushes
+
+
+
+   Central and Peripheral Nervous System -  Dizziness, headache, tremor
+
+
+
+   Gastrointestinal System -  Abdominal pain, constipation, diarrhea, dyspepsia, flatulence, dry mouth, nausea, vomiting
+
+
+
+   Psychiatric Disorders -  Anorexia, anxiety, confusion, euphoria, insomnia, nervousness, somnolence
+
+
+
+   Skin and Appendages -  Pruritus, rash, increased sweating
+
+
+
+   Selected Adverse events occurring at less than 1%
+
+  the following lists clinically relevant adverse reactions that occurred with an incidence of less than 1% in Tramadol HCl 37.5 mg/Acetaminophen 325 mg clinical trials.
+
+
+
+   Body as a Whole -  Chest pain, rigors, syncope, withdrawal syndrome
+
+
+
+   Cardiovascular Disorders -  Hypertension, aggravated hypertension, hypotension
+
+
+
+   Central and Peripheral Nervous System -  Ataxia, convulsions, hypertonia, migraine, aggravated migraine, involuntary muscle contractions, paresthesias, stupor, vertigo
+
+
+
+   Gastrointestinal System -  Dysphagia, melena, tongue edema
+
+
+
+   Hearing and Vestibular Disorders -  Tinnitus
+
+
+
+   Heart Rate and Rhythm Disorders -  Arrhythmia, palpitation, tachycardia
+
+
+
+   Liver and Biliary System -  Hepatic function abnormal
+
+
+
+   Metabolic and Nutritional Disorders -  Weight decrease
+
+
+
+   Psychiatric Disorders -  Amnesia, depersonalization, depression, drug abuse, emotional lability, hallucination, impotence, paroniria, abnormal thinking
+
+
+
+   Red Blood Cell Disorders -  Anemia
+
+
+
+   Respiratory System -  Dyspnea
+
+
+
+   Urinary System -  Albuminuria, micturition disorder, oliguria, urinary retention
+
+
+
+   Vision Disorders -  Abnormal vision
+
+
+
+   Other clinically significant adverse experiences previously reported with tramadol hydrochloride:
+
+  Other events which have been reported with the use of tramadol products and for which a causal association has not been determined include: vasodilation, orthostatic hypotension, myocardial ischemia, pulmonary edema, allergic reactions (including anaphylaxis and urticaria, Stevens-Johnson syndrome/TENS), cognitive dysfunction, difficulty concentrating, depression, suicidal tendency, hepatitis, liver failure, and gastrointestinal bleeding. Reported laboratory abnormalities included elevated creatinine and liver function tests. Serotonin syndrome (whose symptoms may include mental status change, hyperreflexia, fever, shivering, tremor, agitation, diaphoresis, seizures, and coma) has been reported with tramadol when used concomitantly with other serotonergic agents such as SSRIs and MAOIs.
+
+
+
+   Other clinically significant adverse experiences previously reported with acetaminophen:
+
+  Allergic reactions (primarily skin rash) or reports of hypersensitivity secondary to acetaminophen are rare and generally controlled by discontinuation of the drug and, when necessary, symptomatic treatment.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: HEPATOTOXICITY
+
+  HEPATOTOXICITY
+
+    Tramadol Hydrochloride 37.5 mg/Acetaminophen 325 mg tablets contains tramadol HCl and acetaminophen. Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death. Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4,000 milligrams per day, and often involve more than one acetaminophen-containing product (see   WARNINGS  ).  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

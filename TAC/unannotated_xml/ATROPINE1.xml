@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="atropine1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6. ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  Photophobia and Blurred Vision [See Warnings and Precautions (  5.1  )] 
+ *  Elevation in Blood Pressure [See Warnings and Precautions (  5.2  )] 
+    The following adverse reactions have been identified following use of atropine sulfate ophthalmic solution. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+ 
+
+   EXCERPT:   Most common adverse reactions that have been reported are eye pain and stinging on administration, blurred vision, photophobia, decreased lacrimation, increased heart rate and blood pressure. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact, Akorn, Inc. at 1-800-932-5676 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Ocular Adverse Reactions
+
+  Eye pain and stinging occurs upon instillation of atropine sulfate ophthalmic solution. Other commonly occurring adverse reactions include, blurred vision, photophobia, superficial keratitis and decreased lacrimation. Allergic reactions such as papillary conjunctivitis, contact dermatitis, and lid edema may also occur less commonly.
+
+
+
+   6.2 Systemic Adverse Reactions
+
+  Systemic effects of atropine are related to its anti-muscarinic activity. Systemic adverse events reported include dryness of skin, mouth, and throat from decreased secretions from mucus membranes; restlessness, irritability or delirium from stimulation of the central nervous system; tachycardia; flushed skin of the face and neck.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5. WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Photophobia and blurred vision due to pupil unresponsiveness and cycloplegia may last up to 2 weeks. (  5.1  ) 
+ *  Risk of blood pressure increase from systemic absorption. (  5.2  ) 
+    
+ 
+
+   5.1 Photophobia and Blurred Vision
+
+
+
+  Photophobia and blurred vision due to pupil unresponsiveness and cycloplegia may last up to 2 weeks.
+
+
+
+    5.2 Elevation of Blood Pressure
+
+
+
+  Elevations in blood pressure from systemic absorption has been reported following conjunctival instillation of recommended doses of atropine sulfate ophthalmic solution, USP 1%.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

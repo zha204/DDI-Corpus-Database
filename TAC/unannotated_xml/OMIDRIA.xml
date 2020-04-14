@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="omidria" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common reported adverse reactions at 2-24% are eye irritation, posterior capsule opacification, increased intraocular pressure, and anterior chamber inflammation. (  6.1  )     
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Omeros Corporation at 1-844-OMEROS1 or  www.omidria.com   or FDA at 1-800-FDA-1088 or        www.fda.gov/medwatch        .       
+
+
+
+ 
+
+  6.1     Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ Table 1 shows frequently reported ocular adverse reactions with an incidence of &gt;= 2% of subjects as seen in the combined clinical trial results from three randomized, placebo-controlled studies.
+
+
+
+ Table 1: Ocular Adverse Reactions Reported by &gt;= 2% of Subjects 
+   MedDRA Preferred Term      Placebo(N=462)      Omidria(N=459)      
+    n (%)   n (%)   
+   Ocular Events           
+          Anterior Chamber Inflammation  102 (22%)   111 (24%)   
+          Intraocular Pressure Increased  15 (3%)   20 (4%)   
+          Posterior Capsule Opacification  16 (4%)   18 (4%)   
+          Eye Irritation  6 (1%)   9 (2%)   
+          Foreign Body Sensation in Eyes  11 (2%)   8 (2%)   
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Systemic exposure of phenylephrine may cause elevations in blood pressure. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1     Elevated Blood Pressure
+
+
+
+  Systemic exposure of phenylephrine can cause elevations in blood pressure.
+
+
+
+    5.2     Cross-Sensitivity or Hypersensitivity
+
+
+
+  There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other non-steroidal anti-inflammatories (NSAIDs). There have been reports of bronchospasm or exacerbation of asthma associated with the use of ketorolac in patients who either have a known hypersensitivity to aspirin/NSAIDs or a past medical history of asthma. Therefore, use Omidria with caution in individuals who have previously exhibited sensitivities to these drugs.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

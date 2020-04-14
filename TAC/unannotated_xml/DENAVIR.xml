@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="denavir" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6         ADVERSE REACTIONS  
+
+   EXCERPT:    *  One or more local skin reactions were reported by 3% of the patients treated with DENAVIR and 4% of placebo-treated patients (  6.1  ). 
+      To report SUSPECTED ADVERSE REACTIONS, contact Prestium Pharma, Inc. at 1-866-897-5002 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+    6.1         Clinical Studies  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In two double-blind, placebo-controlled trials, 1516 patients were treated with DENAVIR (penciclovir cream) and 1541 with placebo. One or more local adverse reactions were reported by 3% of the patients treated with DENAVIR and 4% of placebo-treated patients. The rates of reported local adverse reactions are shown in Table 1.
+
+
+
+ Table 1 - Local Adverse Reactions Reported in Phase III Trials 
+                     Penciclovir    n=1516    %       Placebo    N=1541    %     
+ Applications site reactionHypesthesia/Local anesthesiaTaste perversionRash (erythematous)   1&lt;1&lt;1&lt;1         2&lt;1&lt;1&lt;1           
+         Two studies, enrolling 108 healthy subjects, were conducted to evaluate the dermal tolerance of 5% penciclovir cream (a 5-fold higher concentration than the commercial formulation) compared to vehicle using repeated occluded patch testing methodology. The 5% penciclovir cream induced mild erythema in approximately one-half of the subjects exposed, an irritancy profile similar to the vehicle control in terms of severity and proportion of subjects with a response. No evidence of sensitization was observed.
+ 
+
+     6.2         Post-Marketing Experience  
+
+  The following adverse reactions have been identified during post-approval use of DENAVIR.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The following events have been identified from worldwide post-marketing use of DENAVIR in treatment of recurrent herpes labialis (cold sores) in adults.  These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to DENAVIR.  General  :  Headache, oral/pharyngeal edema, parosmia.  Skin  : Aggravated condition, decreased therapeutic response, local edema, pain, paresthesia, pruritus, skin discoloration, and urticaria.
+</Section>
+    <Section name="warnings and precautions" id="S2">     5        WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Only for topical use of herpes labialis on the lips and face (  5  ).  
+    
+ 
+
+    5.1        General  
+
+
+
+  DENAVIR should only be used on herpes labialis on the lips and face. Because no data are available, application to human mucous membranes is not recommended. Particular care should be taken to avoid application in or near the eyes since it may cause irritation. Lesions that do not improve or that worsen on therapy should be evaluated for secondary bacterial infection. The effect of DENAVIR has not been established in immunocompromised patients.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

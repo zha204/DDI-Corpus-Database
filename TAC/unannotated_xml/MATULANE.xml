@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="matulane" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Leukopenia, anemia and thrombopenia occur frequently. Nausea and vomiting are the most commonly reported side effects.
+
+
+
+ Other adverse reactions are:
+
+
+
+   Hematologic  
+
+
+
+ Pancytopenia; eosinophilia; hemolytic anemia; bleeding tendencies such as petechiae, purpura, epistaxis and hemoptysis.
+
+
+
+   Gastrointestinal  
+
+
+
+ Hepatic dysfunction, jaundice, stomatitis, hematemesis, melena, diarrhea, dysphagia, anorexia, abdominal pain, constipation, dry mouth.
+
+
+
+   Neurologic  
+
+
+
+ Coma, convulsions, neuropathy, ataxia, paresthesia, nystagmus, diminished reflexes, falling, foot drop, headache, dizziness, unsteadiness.
+
+
+
+   Cardiovascular  
+
+
+
+ Hypotension, tachycardia, syncope.
+
+
+
+   Ophthalmic  
+
+
+
+ Retinal hemorrhage, papilledema, photophobia, diplopia, inability to focus.
+
+
+
+   Respiratory  
+
+
+
+ Pneumonitis, pleural effusion, cough.
+
+
+
+   Dermatologic  
+
+
+
+ Herpes, dermatitis, pruritus, alopecia, hyperpigmentation, rash, urticaria, flushing.
+
+
+
+   Allergic  
+
+
+
+ Generalized allergic reactions.
+
+
+
+   Genitourinary  
+
+
+
+ Hematuria, urinary frequency, nocturia.
+
+
+
+   Musculoskeletal  
+
+
+
+ Pain, including myalgia and arthralgia; tremors.
+
+
+
+   Psychiatric  
+
+
+
+ Hallucinations, depression, apprehension, nervousness, confusion, nightmares.
+
+
+
+   Endocrine  
+
+
+
+ Gynecomastia in prepubertal and early pubertal boys.
+
+
+
+   Miscellaneous  
+
+
+
+ Intercurrent infections, hearing loss, pyrexia, diaphoresis, lethargy, weakness, fatigue, edema, chills, insomnia, slurred speech, hoarseness, drowsiness.
+
+
+
+ Second nonlymphoid malignancies (including lung cancer, acute myelocytic leukemia and malignant myelosclerosis) and azoospermia have been reported in patients with Hodgkin's disease treated with procarbazine in combination with other chemotherapy and/or radiation. The risks of secondary lung cancer from treatment appear to be multiplied by tobacco use.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+    WARNING  
+
+
+
+ It is recommended that MATULANE be given only by or under the supervision of a physician experienced in the use of potent antineoplastic drugs. Adequate clinical and laboratory facilities should be available to patients for proper monitoring of treatment.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d401">
+    <sentence id="DDI-DrugBank.d401.s0" text="Drug Interactions: The central anticholinergic syndrome can occur when anticholinergic agents such as AKINETON are administered concomitantly with drugs that have secondary anticholinergic actions, e.g., certain narcotic analgesics such as meperidine, the phenothiazines and other antipsychotics, tricyclic antidepressants, certain antiarrhythmics such as the quinidine salts, and antihistamines.">
+        <entity id="DDI-DrugBank.d401.s0.e0" charOffset="31-45"
+            type="group" text="anticholinergic"/>
+        <entity id="DDI-DrugBank.d401.s0.e1" charOffset="102-109"
+            type="brand" text="AKINETON"/>
+        <entity id="DDI-DrugBank.d401.s0.e2" charOffset="212-230"
+            type="group" text="narcotic analgesics"/>
+        <entity id="DDI-DrugBank.d401.s0.e3" charOffset="240-249"
+            type="drug" text="meperidine"/>
+        <entity id="DDI-DrugBank.d401.s0.e4" charOffset="256-269"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d401.s0.e5" charOffset="281-294"
+            type="group" text="antipsychotics"/>
+        <entity id="DDI-DrugBank.d401.s0.e6" charOffset="297-321"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d401.s0.e7" charOffset="332-346"
+            type="group" text="antiarrhythmics"/>
+        <entity id="DDI-DrugBank.d401.s0.e8" charOffset="360-368"
+            type="drug" text="quinidine"/>
+        <entity id="DDI-DrugBank.d401.s0.e9" charOffset="381-394"
+            type="group" text="antihistamines"/>
+        <ddi id="DDI-DrugBank.d401.s0.d0" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d1" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d2" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d3" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d4" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d5" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d6" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d7" e1="DDI-DrugBank.d401.s0.e0"
+            e2="DDI-DrugBank.d401.s0.e9" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d8" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d9" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d10" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d11" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d12" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d13" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d14" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d401.s0.d15" e1="DDI-DrugBank.d401.s0.e1"
+            e2="DDI-DrugBank.d401.s0.e9" type="effect"/>
+    </sentence>
+</document>

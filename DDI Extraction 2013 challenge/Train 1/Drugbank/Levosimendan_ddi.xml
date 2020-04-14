@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d189">
+    <sentence id="DDI-DrugBank.d189.s0" text="No Important Interactions To Date Levosimendan does not have clinically important pharmacokinetic interactions with captopril, beta-blockers, felodipine, digoxin, warfarin, isosorbide mononitrate, carvedilol, ethanol or itraconazole.">
+        <entity id="DDI-DrugBank.d189.s0.e0" charOffset="34-45"
+            type="drug" text="Levosimendan"/>
+        <entity id="DDI-DrugBank.d189.s0.e1" charOffset="116-124"
+            type="drug" text="captopril"/>
+        <entity id="DDI-DrugBank.d189.s0.e2" charOffset="127-139"
+            type="group" text="beta-blockers"/>
+        <entity id="DDI-DrugBank.d189.s0.e3" charOffset="142-151"
+            type="drug" text="felodipine"/>
+        <entity id="DDI-DrugBank.d189.s0.e4" charOffset="154-160"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d189.s0.e5" charOffset="163-170"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d189.s0.e6" charOffset="173-194"
+            type="drug" text="isosorbide mononitrate"/>
+        <entity id="DDI-DrugBank.d189.s0.e7" charOffset="197-206"
+            type="drug" text="carvedilol"/>
+        <entity id="DDI-DrugBank.d189.s0.e8" charOffset="209-215"
+            type="drug" text="ethanol"/>
+        <entity id="DDI-DrugBank.d189.s0.e9" charOffset="220-231"
+            type="drug" text="itraconazole"/>
+    </sentence>
+</document>

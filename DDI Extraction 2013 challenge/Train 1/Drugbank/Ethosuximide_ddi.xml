@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d205">
+    <sentence id="DDI-DrugBank.d205.s0" text="Since Zarontin (ethosuximide) may interact with concurrently administered antiepileptic drugs, periodic serum level determinations of these drugs may be necessary (eg, ethosuximide may elevate phenytoin serum levels and valproic acid has been reported to both increase and decrease ethosuximide levels).">
+        <entity id="DDI-DrugBank.d205.s0.e0" charOffset="6-13"
+            type="brand" text="Zarontin"/>
+        <entity id="DDI-DrugBank.d205.s0.e1" charOffset="16-27"
+            type="drug" text="ethosuximide"/>
+        <entity id="DDI-DrugBank.d205.s0.e2" charOffset="74-92"
+            type="group" text="antiepileptic drugs"/>
+        <entity id="DDI-DrugBank.d205.s0.e3" charOffset="168-179"
+            type="drug" text="ethosuximide"/>
+        <entity id="DDI-DrugBank.d205.s0.e4" charOffset="193-201"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d205.s0.e5" charOffset="220-232"
+            type="drug" text="valproic acid"/>
+        <entity id="DDI-DrugBank.d205.s0.e6" charOffset="282-293"
+            type="drug" text="ethosuximide"/>
+        <ddi id="DDI-DrugBank.d205.s0.d0" e1="DDI-DrugBank.d205.s0.e0"
+            e2="DDI-DrugBank.d205.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d205.s0.d1" e1="DDI-DrugBank.d205.s0.e1"
+            e2="DDI-DrugBank.d205.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d205.s0.d2" e1="DDI-DrugBank.d205.s0.e3"
+            e2="DDI-DrugBank.d205.s0.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d205.s0.d3" e1="DDI-DrugBank.d205.s0.e5"
+            e2="DDI-DrugBank.d205.s0.e6" type="mechanism"/>
+    </sentence>
+</document>

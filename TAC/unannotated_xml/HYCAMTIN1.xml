@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hycamtin1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *    Bone Marrow Suppression [see Warnings and Precautions (5.1)]  
+ *    Diarrhea [see Warnings and Precautions (5.2)]  
+ *    Interstitial Lung Disease [see Warnings and Precautions (5.3)]  
+      EXCERPT:   The most common Grade 3 or 4 hematologic adverse reactions with HYCAMTIN capsules were neutropenia (56%), anemia (25%), and thrombocytopenia (35%). The most common (&gt;=10%) non-hematologic adverse reactions (all grades) were nausea (33%), diarrhea (22%), vomiting (21%), alopecia (20%), and fatigue (19%). (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of HYCAMTIN capsules was evaluated in 682 patients with lung cancer (3 recurrent small cell lung cancer [SCLC] trials and 1 recurrent non-small cell lung cancer [NSCLC] trial) who received at least one dose of HYCAMTIN capsules. Patients in all four trials had advanced lung malignancies and received prior chemotherapy in the first-line setting. The dose regimen for HYCAMTIN capsules was 2.3 mg/m  2  /day for five consecutive days every 21 days. The median number of courses was 3 (range: 1 to 20) in these four trials. Table 2 describes the hematologic and non-hematologic adverse reactions in recurrent SCLC patients treated with HYCAMTIN capsules in the overall lung cancer patient population.
+
+
+
+ Table 2. Incidence (&gt;=5%) of Adverse Reactions in Small Cell Lung Cancer Patients Treated With HYCAMTIN Capsules Plus BSC and in Four Lung Cancer Trials 
+  Adverse Reaction       HYCAMTIN Capsules + BSC    HYCAMTIN Capsules  Lung Cancer Population    
+  (N = 70)               (N = 682)      
+  All Grades  (%)        Grade 3  (%)    Grade 4  (%)    All Grades  (%)    Grade 3  (%)    Grade 4  (%)    
+  Hematologic                                                                                          
+    Anemia               94             15          10          98             18          7           
+    Neutropenia          91             28          33          83             24          32          
+    Thrombocytopenia     81             30          7           81             29          6           
+  Non-hematologic                                                                                      
+    Nausea               27             1           0           33             3           0           
+    Diarrhea             14             4           1           22             4           0.4         
+    Vomiting             19             1           0           21             3           0.4         
+    Alopecia             10             0           0           20             0.1         0           
+    Fatigue              11             0           0           19             4           0.1         
+    Anorexia             7              0           0           14             2           0           
+    Asthenia             3              0           0           7              2           0           
+    Pyrexia              7              1           0           5              1           1           
+             BSC = Best Supportive Care.
+ 
+
+ N = Total number of patients treated.
+
+
+
+ Adverse reactions were graded using NCI Common Toxicity Criteria Version 2.0.
+
+
+
+     On-Study Death Due to Toxicity of HYCAMTIN:  
+
+  In the 682 patients who received HYCAMTIN capsules in the four lung cancer trials, 39 deaths (6%) occurred within 30 days after the last dose for a reason other than progressive disease: 13 due to hematologic toxicity, 5 due to non-hematologic toxicity (2 from diarrhea), and 21 due to other causes.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: BONE MARROW SUPPRESSION
+
+    WARNING: BONE MARROW SUPPRESSION  
+
+      HYCAMTIN  (r)   can cause severe myelosuppression. Administer only to patients with neutrophil counts of &gt;=1,500 cells/mm  3   and platelet counts &gt;=100,000 cells/mm  3  . Monitor blood cell counts.    
+
+
+
+   EXCERPT:   WARNING: BONE MARROW SUPPRESSION
+
+
+
+   See full prescribing information for complete boxed warning  
+
+
+
+   HYCAMTIN can cause severe myelosuppression. Administer only to patients with baseline neutrophil counts of &gt;=1,500 cells/mm  3   and a platelet count &gt;=100,000 cells/mm  3  . Monitor blood cell counts (5.1).  
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Bone marrow suppression: Administer HYCAMTIN only to patients with adequate bone marrow reserves. Monitor peripheral blood counts. (  5.1  ) Adjust dose as needed. (  2.2  ) 
+ *    Diarrhea: Severe diarrhea can occur and may require hospitalization. (  5.2  ) Withhold for severe diarrhea. Reduce dose upon recovery. (  2.2  ) 
+ *    Interstitial lung disease (ILD): Fatal cases have occurred. Permanently discontinue for confirmed ILD. (  5.3  ) 
+ *    Embryofetal toxicity: Can cause fetal harm. Advise women of potential risk to the fetus. (  5.4  ,  8.1  ) 
+    
+ 
+
+   5.1 Bone Marrow Suppression
+
+
+
+  Bone marrow suppression (primarily neutropenia) is a dose-limiting toxicity of HYCAMTIN. Neutropenia is not cumulative over time. The following data on myelosuppression are based on an integrated safety database from 4 thoracic malignancy trials (N = 682) using HYCAMTIN capsules at 2.3 mg/m  2  /day for 5 consecutive days. The median day for neutrophil and platelet nadirs occurred on Day 15.
+
+
+
+     Neutropenia:  
+
+
+
+  Grade 4 neutropenia (&lt;500 cells/mm  3  ) occurred in 32% of patients with a median duration of 7 days and was most common during Course 1 of treatment (20% of patients). Clinical sequelae of neutropenia included infection (17%), febrile neutropenia (4%), sepsis (2%), and septic death (1%). Pancytopenia has been reported.
+
+
+
+ Topotecan can cause fatal typhlitis (neutropenic enterocolitis). Consider the possibility of typhlitis in patients presenting with fever, neutropenia, and abdominal pain [see Dosage and Administration (2.2)].  
+
+
+
+     Thrombocytopenia:  
+
+
+
+  Grade 4 thrombocytopenia (&lt;10,000 cells/mm  3  ) occurred in 6% of patients, with a median duration of 3 days.
+
+
+
+     Anemia:  
+
+
+
+  Grade 3 or 4 anemia (&lt;8 g/dL) occurred in 25% of patients.
+
+
+
+ Administer the first course of HYCAMTIN only to patients with a neutrophil count of &gt;=1,500 cells/mm  3  and a platelet count &gt;=100,000 cells/mm  3  . Monitor peripheral blood cell counts frequently during treatment with HYCAMTIN. Refer to Section 2.2 for dose modification guidelines for hematological toxicities in subsequent courses.
+
+
+
+    5.2 Diarrhea
+
+
+
+  Diarrhea, including severe and life-threatening diarrhea requiring hospitalization, can occur during treatment with HYCAMTIN capsules. Diarrhea caused by HYCAMTIN capsules can occur at the same time as drug-induced neutropenia and its sequelae. In the 682 patients who received HYCAMTIN capsules in the 4 lung cancer trials, the incidence of diarrhea caused by HYCAMTIN capsules was 22%, with 4% Grade 3 and 0.4% Grade 4.The incidence of Grade 3 or 4 diarrhea proximate (within 5 days) to Grade 3 or 4 neutropenia events in the group receiving HYCAMTIN capsules was 5%. The median time to onset of Grade 2 or worse diarrhea was 9 days in the group receiving HYCAMTIN capsules. Manage diarrhea caused by HYCAMTIN capsules aggressively. Do not administer HYCAMTIN capsules to patients with Grade 3 or 4 diarrhea. Reduce the dose of HYCAMTIN after recovery to Grade 1 or less [see Dosage and Administration (2.2)].  
+
+
+
+    5.3 Interstitial Lung Disease
+
+
+
+  Interstitial lung disease (ILD), including fatalities, has occurred with HYCAMTIN. Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic radiation, and use of pneumotoxic drugs and/or colony stimulating factors. Monitor patients for pulmonary symptoms indicative of interstitial lung disease (e.g., cough, fever, dyspnea, and/or hypoxia), and discontinue HYCAMTIN if a new diagnosis of ILD is confirmed.
+
+
+
+     5.4 Embryofetal Toxicity  
+
+
+
+   HYCAMTIN can cause fetal harm when administered to a pregnant woman. Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis. If this drug is used during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)]  .  
+
+
+
+  Advise females of reproductive potential to use highly effective contraception during treatment and for at least 1 month after the last dose of HYCAMTIN. Advise patients to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking HYCAMTIN [see Use in Specific Populations (8.1, 8.7)]  .  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

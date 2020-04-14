@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dhe" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Serious cardiac events, including some that have been fatal, have occurred following use of D.H.E. 45  (r)  (dihydroergotamine mesylate) Injection, USP, but are extremely rare. Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation. (See  CONTRAINDICATIONS  ,  WARNINGS  , and  PRECAUTIONS  .). Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (  See  WARNINGS: Fibrotic Complications    ).
+
+
+
+   Post-introduction Reports
+
+  The following events derived from postmarketing experience have been occasionally reported in patients receiving D.H.E. 45  (r)  (dihydroergotamine mesylate) Injection, USP: vasospasm, paraesthesia, hypertension, dizziness, anxiety, dyspnea, headache, flushing, diarrhea, rash, increased sweating, and pleural and retroperitoneal fibrosis after long-term use of dihydroergotamine. Extremely rare cases of myocardial infarction and stroke have been reported. A causal relationship has not been established.
+
+
+
+ D.H.E. 45  (r)  (dihydroergotamine mesylate) Injection, USP is not recommended for prolonged daily use. (  See  DOSAGE AND ADMINISTRATION    .)
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+    Serious and/or life-threatening peripheral ischemia has been associated with the coadministration of DIHYDROERGOTAMINE with potent CYP 3A4 inhibitors including protease inhibitors and macrolide antibiotics. Because CYP 3A4 inhibition elevates the serum levels of DIHYDROERGOTAMINE, the risk for vasospasm leading to cerebral ischemia and/or ischemia of the extremities is increased. Hence, concomitant use of these medications is contraindicated.   (See also   CONTRAINDICATIONS   and   WARNINGS   section)    
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

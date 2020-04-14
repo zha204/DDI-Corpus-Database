@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="imuran" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS:
+
+  The principal and potentially serious toxic effects of IMURAN are hematologic and gastrointestinal. The risks of secondary infection and malignancy are also significant (see  WARNINGS  ). The frequency and severity of adverse reactions depend on the dose and duration of IMURAN as well as on the patient's underlying disease or concomitant therapies. The incidence of hematologic toxicities and neoplasia encountered in groups of renal homograft recipients is significantly higher than that in studies employing IMURAN for rheumatoid arthritis. The relative incidences in clinical studies are summarized below:
+
+
+
+
+  * Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited. The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population. In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg per day) was 1.8 cases per 1000 patient-years of follow-up, compared with 0.8 cases per 1000 patient-years of follow-up in those not receiving azathioprine. However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e., alkylating agents) received by patients treated with azathioprine cannot be determined.    
+  
+   Toxicity                        Renal Homograft       Rheumatoid Arthritis                              
+ Leukopenia (any degree)         &gt;50%                  28%                                                 
+ &lt;2500 cells/mm  3               16%                   5.3%                                                
+ Infections                      20%                   &lt;1%                                                 
+ Neoplasia                                                   *                                             
+ Lymphoma                        0.5%                                                                      
+ Others                          2.8%                                                                      
+             Hematologic:  Leukopenia and/or thrombocytopenia are dose-dependent and may occur late in the course of therapy with IMURAN. Dose reduction or temporary withdrawal may result in reversal of these toxicities. Infection may occur as a secondary manifestation of bone marrow suppression or leukopenia, but the incidence of infection in renal homotransplantation is 30 to 60 times that in rheumatoid arthritis. Anemias, including macrocytic anemia, and/or bleeding have been reported.
+ 
+
+ TPMT genotyping or phenotyping can help identify patients with low or absent TPMT activity (homozygous for non-functional alleles) who are at increased risk for severe, life-threatening myelosuppression from IMURAN. See  CLINICAL PHARMACOLOGY  ,  WARNINGS  and  PRECAUTIONS:Laboratory Tests  . Death associated with pancytopenia has been reported in patients with absent TPMT activity receiving azathioprine.  6, 20  
+
+
+
+     Gastrointestinal:  Nausea and vomiting may occur within the first few months of therapy with IMURAN, and occurred in approximately 12% of 676 rheumatoid arthritis patients. The frequency of gastric disturbance often can be reduced by administration of the drug in divided doses and/or after meals. However, in some patients, nausea and vomiting may be severe and may be accompanied by symptoms such as diarrhea, fever, malaise, and myalgias (see  PRECAUTIONS  ). Vomiting with abdominal pain may occur rarely with a hypersensitivity pancreatitis. Hepatotoxicity manifest by elevation of serum alkaline phosphatase, bilirubin, and/or serum transaminases is known to occur following azathioprine use, primarily in allograft recipients. Hepatotoxicity has been uncommon (less than 1%) in rheumatoid arthritis patients. Hepatotoxicity following transplantation most often occurs within 6 months of transplantation and is generally reversible after interruption of IMURAN. A rare, but life-threatening hepatic veno-occlusive disease associated with chronic administration of azathioprine has been described in transplant patients and in one patient receiving IMURAN for panuveitis.  21, 22, 23  Periodic measurement of serum transaminases, alkaline phosphatase, and bilirubin is indicated for early detection of hepatotoxicity. If hepatic veno-occlusive disease is clinically suspected, IMURAN should be permanently withdrawn.
+
+
+
+     Others:  Additional side effects of low frequency have been reported. These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis, hepatosplenic T-cell lymphoma (see  Warnings - Malignancy  ), and Sweet's Syndrome (acute febrile neutrophilic dermatosis).
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+    WARNING   - MALIGNANCY
+
+
+
+
+
+ Chronic immunosuppression with IMURAN, a purine antimetabolite increases   risk of malignancy   in humans. Reports of malignancy include post-transplant lymphoma and hepatosplenic T-cell lymphoma (HSTCL) in patients with inflammatory bowel disease. Physicians using this drug should be very familiar with this risk as well as with the mutagenic potential to both men and women and with possible hematologic toxicities. Physicians should inform patients of the risk of malignancy with IMURAN. See   WARNINGS  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

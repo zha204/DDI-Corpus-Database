@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="imipramine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Note: Although the listing which follows includes a few adverse reactions which have not been reported with this specific drug, the pharmacological similarities among the tricyclic antidepressant drugs require that each of the reactions be considered when imipramine is administered.
+
+
+
+   Cardiovascular:  Orthostatic hypotension, hypertension, tachycardia, palpitation, myocardial infarction, arrhythmias, heart block, ECG changes, precipitation of congestive heart failure, stroke.
+
+
+
+   Psychiatric:  Confusional states (especially in the elderly) with hallucinations, disorientation, delusions; anxiety, restlessness, agitation; insomnia and nightmares; hypomania; exacerbation of psychosis.
+
+
+
+   Neurological:  Numbness, tingling, paresthesias of extremities; incoordination, ataxia, tremors; peripheral neuropathy; extrapyramidal symptoms; seizures, alterations in EEG patterns; tinnitus.
+
+
+
+   Anticholinergic:  Dry mouth, and, rarely, associated sublingual adenitis; blurred vision, disturbances of accommodation, mydriasis; constipation, paralytic ileus; urinary retention, delayed micturition, dilation of the urinary tract.
+
+
+
+   Allergic:  Skin rash, petechiae, urticaria, itching, photosensitization; edema (general or of face and tongue); drug fever; cross-sensitivity with desipramine.
+
+
+
+   Hematologic:  Bone marrow depression including agranulocytosis; eosinophilia; purpura; thrombocytopenia.
+
+
+
+   Gastrointestinal:  Nausea and vomiting, anorexia, epigastric distress, diarrhea; peculiar taste, stomatitis, abdominal cramps, black tongue.
+
+
+
+   Endocrine:  Gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido, impotence; testicular swelling; elevation or depression of blood sugar levels; inappropriate antidiuretic hormone (ADH) secretion syndrome.
+
+
+
+   Other:  Jaundice (simulating obstructive); altered liver function; weight gain or loss; perspiration; flushing; urinary frequency; drowsiness, dizziness, weakness and fatigue; headache; parotid swelling; alopecia; proneness to falling.
+
+
+
+   Withdrawal Symptoms:  Though not indicative of addiction, abrupt cessation of treatment after prolonged therapy may produce nausea, headache and malaise.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: Prescribing Information
+
+
+
+  Prescribing Information
+
+
+
+  Suicidality and Antidepressant Drugs
+
+
+
+    Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders. Anyone considering the use of imipramine pamoate or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need. Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older. Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide. Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior. Families and caregivers should be advised of the need for close observation and communication with the prescriber. Imipramine pamoate is not approved for use in pediatric patients (    see       WARNINGS: Clinical Worsening and Suicide Risk,     PRECAUTIONS: Information for Patients,       and
+
+      PRECAUTIONS: Pediatric Use  ).  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

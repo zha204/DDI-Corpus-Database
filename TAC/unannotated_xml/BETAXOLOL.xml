@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="betaxolol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been reported in clinical trials with Betaxolol Hydrochloride Ophthalmic Solution.
+
+
+
+   Ocular:  Discomfort of short duration was experienced by one in four patients, but none discontinued therapy; occasional tearing has been reported. Rare instances of decreased corneal sensitivity, erythema, itching sensation, corneal punctate staining, keratitis, anisocoria, edema, and photophobia have been reported.
+
+
+
+ Additional medical events reported with other formulations of betaxolol include blurred vision, foreign body sensation, dryness of the eyes, inflammation, discharge, ocular pain, decreased visual acuity, and crusty lashes.
+
+
+
+   Systemic:  Systemic reactions following administration of Betaxolol Hydrochloride Ophthalmic Solution 0.5% or Betaxolol Hydrochloride Ophthalmic Suspension 0.25% have been rarely reported. These include:
+
+
+
+   Cardiovascular:  Bradycardia, heart block and congestive failure.
+
+
+
+   Pulmonary:  Pulmonary distress characterized by dyspnea, bronchospasm, thickened bronchial secretions, asthma and respiratory failure.
+
+
+
+   Central Nervous System:  Insomnia, dizziness, vertigo, headaches, depression, lethargy, and increase in signs and symptoms of myasthenia gravis.
+
+
+
+   Other:  Hives, toxic epidermal necrolysis, hair loss and glossitis.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="buphenyl" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The assessment of clinical adverse events came from 206 patients treated with sodium phenylbutyrate. Adverse events (both clinical and laboratory) were not collected systematically in these patients, but were obtained from patient-visit reports by the 65 co-investigators. Causality of adverse effects is sometimes difficult to determine in this patient population because they may result from either the underlying disease, the patient's restricted diet, intercurrent illness, or BUPHENYL. Furthermore, the rates may be under-estimated because they were reported primarily by parent or guardian and not the patient.
+
+
+
+   Clinical Adverse Events  In female patients, the most common clinical adverse event reported was amenorrhea/menstrual dysfunction (irregular menstrual cycles), which occurred in 23% of the menstruating patients.Decreased appetite occurred in 4% of all patients. Body odor (probably caused by the metabolite, phenylacetate) and bad taste or taste aversion were each reported in 3% of patients.Other adverse events reported in 2% or fewer patients were:
+
+
+
+ *   Gastrointestinal: abdominal pain, gastritis, nausea and vomiting; constipation, rectal bleeding, peptic ulcer disease, and pancreatitis each occurred in one patient. 
+ *   Hematologic: aplastic anemia and ecchymoses each occurred in one patient. 
+ *   Cardiovascular: arrhythmia and edema each occurred in one patient. 
+ *   Renal: renal tubular acidosis 
+ *   Psychiatric: depression 
+ *   Skin: rash 
+ *   Miscellaneous: headache, syncope, and weight gain 
+    Neurotoxicity was reported in cancer patients receiving intravenous phenylacetate, 250-300 mg/kg/day for 14 days, repeated at 4-week intervals. Manifestations were predominately somnolence, fatigue, and lightheadedness; with less frequent -headache, dysgeusia, hypoacusis, disorientation, impaired memory, and exacerbation of a pre-existing neuropathy. These adverse events were mainly mild in severity. The acute onset and reversibility when the phenylacetate infusion was discontinued suggest a drug effect.
+ 
+
+   Laboratory Adverse Events:  In patients with urea cycle disorders, the frequency of laboratory adverse events by body system were:
+
+
+
+ *   Metabolic: acidosis (14%), alkalosis and hyperchloremia (each 7%), hypophosphatemia (6%), hyperuricemia and hyperphosphatemia (each 2%), and hypernatremia and hypokalemia (each 1%). 
+ *   Nutritional: hypoalbuminemia (11%) and decreased total protein (3%). 
+ *   Hepatic: increased alkaline phosphatase (6%), increased liver transaminases (4%), and hyperbilirubinemia (1%). 
+ *   Hematologic: anemia (9%), leukopenia and leukocytosis (each 4%), thrombocytopenia (3%), and thrombocytosis (1%). 
+    The clinician is advised to routinely perform urinalysis, blood chemistry profiles, and hematologic tests.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

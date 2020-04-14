@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="medroxyprogesterone" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  See    BOXED WARNINGS    ,    WARNINGS    , and    PRECAUTIONS    .
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice
+
+
+
+ The following adverse reactions have been reported in women taking progestins, including MPA tablets, without concomitant estrogens treatment:
+
+
+
+   1. Genitourinary system  
+
+
+
+ Abnormal uterine bleeding (irregular, increase, decrease), change in menstrual flow, breakthrough bleeding, spotting, amenorrhea, changes in cervical erosion and cervical secretions.
+
+
+
+   2. Breasts  
+
+
+
+ Breast tenderness, mastodynia or galactorrhea has been reported.
+
+
+
+   3. Cardiovascular  
+
+
+
+ Thromboembolic disorders including thrombophlebitis and pulmonary embolism have been reported.
+
+
+
+   4. Gastrointestinal  
+
+
+
+ Nausea, cholestatic jaundice.
+
+
+
+   5. Skin  
+
+
+
+ Sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash have occurred. Acne, alopecia and hirsutism have been reported.
+
+
+
+   6. Eyes  
+
+
+
+ Neuro-ocular lesions, for example, retinal thrombosis, and optic neuritis.
+
+
+
+   7. Central nervous system  
+
+
+
+ Mental depression, insomnia, somnolence, dizziness, headache, nervousness.
+
+
+
+   8. Miscellaneous  
+
+
+
+ Hypersensitivity reactions (for example, anaphylaxis and anaphylactoid reactions, angioedema), rash (allergic) with and without pruritus, change in weight (increase or decrease), pyrexia, edema/fluid retention, fatigue, decreased glucose tolerance.
+
+
+
+ The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
+
+
+
+   1. Genitourinary system  
+
+
+
+ Abnormal uterine bleeding/spotting, or flow; breakthrough bleeding; spotting; dysmenorrheal/pelvic pain; increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
+
+
+
+   2. Breasts  
+
+
+
+ Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
+
+
+
+   3. Cardiovascular  
+
+
+
+ Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
+
+
+
+   4. Gastrointestinal  
+
+
+
+ Nausea, vomiting; abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis; enlargement of hepatic hemangiomas.
+
+
+
+   5. Skin  
+
+
+
+ Chloasma or melasma that may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritus, rash.
+
+
+
+   6. Eyes  
+
+
+
+ Retinal vascular thrombosis, intolerance to contact lenses.
+
+
+
+   7. Central nervous system  
+
+
+
+ Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy, dementia.
+
+
+
+   8. Miscellaneous  
+
+
+
+ Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaplylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+    WARNINGS  
+
+    CARDIOVASCULAR AND OTHER RISKS  
+
+
+
+ Estrogens with progestins should not be used for the prevention of cardiovascular disease or dementia. (See     CLINICAL STUDIES     and     WARNINGS, Cardiovascular disorders     and     Dementia    .)
+
+
+
+ The Women's Health Initiative (WHI) estrogen plus progestin substudy reported increased risks of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis (DVT) in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) relative to placebo. (See     CLINICAL STUDIES     and     WARNINGS, Cardiovascular disorders     and     Malignant neoplasms    ,     Breast cancer    .)
+
+
+
+ The Women's Health Initiative Memory Study (WHIMS), a substudy of the WHI study, reported increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with daily CE 0.625 mg combined with MPA 2.5 mg, relative to placebo. It is unknown whether this finding applies to younger postmenopausal women. (See     CLINICAL STUDIES     and     WARNINGS, Dementia  ,   and    PRECAUTIONS, Geriatric Use    .)
+
+
+
+ In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA and other combinations and dosage forms of estrogens and progestins. Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman. 
+
+
+
+ 
+
+
+
+
+
+    BOXED WARNING: 
+
+    WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT MEDROXYPROGESTERONE ACETATE (A PROGESTIN HORMONE)?  
+
+
+
+ * Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your health care provider should check any unusual vaginal bleeding to find out the cause.
+
+
+
+ * Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.  Using estrogens with or without progestins may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots. 
+
+
+
+ * Using estrogens with or without progestins may increase your risk of dementia, based on a study of women age 65 years or older.
+
+
+
+   You and your health care provider should talk regularly about whether you still need treatment with medroxyprogesterone acetate tablets.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

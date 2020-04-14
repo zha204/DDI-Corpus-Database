@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="metopirone" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Cardiovascular System  : Hypotension.  Gastrointestinal System  : Nausea, vomiting, abdominal discomfort or pain.  Central Nervous System  : Headache, dizziness, sedation.  Dermatologic System  : Allergic rash.  Hematologic System  : Rarely, decreased white blood cell count or bone marrow depression.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

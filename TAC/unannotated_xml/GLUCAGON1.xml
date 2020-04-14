@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="glucagon1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  Hypertension in patients with Pheochromocytoma [see Contraindications (  4  ) and Warnings and Precautions (  5.1  )]  
+ *  Hypoglycemia in Patients with Insulinoma and Glucagonoma [see Contraindications (  4  ) and Warnings and Precautions (  5.2  )]  
+ *  Hyperglycemia in Patients with Diabetes Mellitus [see Warnings and Precautions (  5.3  )]  
+ *  Hypersensitivity and Allergic Reactions; generalized allergic reactions including generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension [see Warnings and Precautions (  5.5  )]  
+      Adverse Reactions from Clinical Trials  
+ 
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In an open-label clinical study of Glucagon for Injection, 29 healthy volunteers received a single dose of 1 mg Glucagon for Injection intramuscularly. Table 1 shows the most common adverse reactions that were not present at baseline and occurred in at least 5% of patients.
+
+
+
+   Table 1: Adverse Reactions in Healthy Volunteers Who Received Glucagon for Injection, 1 mg Administered Intramuscularly  
+
+
+
+
+                            (N=29)% of Patients         
+ Vomiting                   17                          
+ Nausea                     7                           
+        Adverse Reactions from the Literature and Other Clinical Studies  
+ 
+
+ The following adverse reactions have been identified from the literature and clinical studies with the use of glucagon. Therefore, it is not possible to reliably estimate their frequency.
+
+
+
+ *  Nausea and vomiting occurred with doses above 1 mg administered by rapid intravenous injection (within 1 to 2 seconds) .   Doses above 1 mg are not recommended for intravenous use [see Dosage and Administration (  2.1  )].    
+ *  Hypotension was reported up to 2 hours after administration in patients receiving glucagon as premedication for upper GI endoscopy procedures. 
+ *  A temporary increase in both blood pressure and pulse rate occurred following the administration of glucagon.  Patients taking beta-blockers experienced a temporary increase in both pulse and blood pressure that was greater than normal [see Drug Interactions (  7  )] . 
+ *  Other adverse reactions included hypoglycemia and hypoglycemic coma, as described in postmarketing reports.  Patients taking indomethacin may be more likely to experience hypoglycemia following glucagon administration [see Drug Interactions (  7  )] . 
+      EXCERPT:   Adverse reactions seen with glucagon are transient changes in blood pressure, increase in heart rate, hypersensitivity reactions, nausea and vomiting, and hypoglycemia (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi, Vigilance &amp; Medical Affairs at 1-800-551-7176 or FDA at    1-800-FDA-1088 or    www.fda.gov/medwatch.      
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hyperglycemia in patients with diabetes : Monitor blood glucose and treat with insulin if indicated (  5.3  ) 
+ *   Increased blood pressure and heart rate in patients with cardiac disease : Monitor patients with known cardiac disease (  5.4  ) 
+ *   Allergic reactions including anaphylactic shock with breathing difficulties, and hypotension, generalized rash : Discontinue and treat as indicated (  5.5  ) 
+    
+ 
+
+   5.1 Hypertension in Patients with Pheochromocytoma
+
+
+
+  Glucagon for Injection is contraindicated in patients with pheochromocytoma because glucagon may stimulate the release of catecholamines from the tumor, which may result in a sudden and marked increase in blood pressure.
+
+
+
+    5.2 Hypoglycemia in Patients with Insulinoma or Glucagonoma
+
+
+
+  Glucagon for Injection is contraindicated in patients with insulinoma or glucagonoma as it may cause secondary hypoglycemia.  Test patients suspected of having glucagonoma for blood levels of glucagon prior to treatment, and monitor for changes in blood glucose levels during treatment.  If a patient develops symptoms of hypoglycemia after a dose of Glucagon for Injection, administer glucose orally or intravenously.
+
+
+
+    5.3 Hyperglycemia in Patients with Diabetes Mellitus
+
+
+
+  Treatment with Glucagon for Injection in patients with diabetes mellitus may cause hyperglycemia. Monitor diabetic patients for changes in blood glucose levels during treatment. If patients develop symptoms of hyperglycemia after a dose of Glucagon for Injection, administer insulin.
+
+
+
+    5.4 Blood Pressure and Heart Rate Increase in Patients with Cardiac Disease
+
+
+
+  Glucagon for Injection may increase myocardial oxygen demand, blood pressure, and pulse rate which may be life-threatening in patients with cardiac disease. Cardiac monitoring is recommended in patients with cardiac disease during glucagon treatment, and an increase in blood pressure and pulse rate may require therapy.
+
+
+
+    5.5 Hypersensitivity and Allergic Reactions
+
+
+
+  Generalized allergic reactions and hypersensitivity, including generalized rash, and anaphylactic shock with breathing difficulties, and hypotension, have been reported with glucagon treatment or lactose.  Discontinue Glucagon for Injection and administer standard treatment for anaphylaxis if needed.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

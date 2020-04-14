@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="trulance" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reaction (&gt;=2%) is diarrhea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Synergy Pharmaceuticals at 1-888-869-8869 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety data described below reflect data from 1733 adult patients with CIC randomized in two double-blind, placebo-controlled clinical trials (Study 1 and Study 2) to receive placebo or 3 mg of TRULANCE once daily for 12 weeks. Demographic characteristics were comparable between the TRULANCE and placebo groups  [see  Clinical Studies (14)  ]  .
+
+
+
+     Most Common Adverse Reactions  
+
+
+
+ Table 1 provides the incidence of adverse reactions reported in at least 2% of CIC patients in the TRULANCE-treated group and at an incidence that was greater than in the placebo group.
+
+
+
+ Table 1: Most Common Adverse Reactionsreported in at least 2% of TRULANCE-treated patients and at an incidence greater than placebo in Two Placebo-Controlled Trials of TRULANCE [Study 1 and Study 2] in Patients with CIC 
+ Adverse Reaction                             TRULANCE, 3 mg(N = 863)%           Placebo(N = 870)%          
+  
+ Diarrhea                                                5                               1                  
+             Diarrhea  
+ 
+
+ The majority of reported cases of diarrhea occurred within 4 weeks of treatment initiation. Severe diarrhea was reported in 0.6% of TRULANCE-treated patients compared to 0.3% of placebo-treated patients. Severe diarrhea was reported to occur within the first 3 days of treatment  [see  Warnings and Precautions (5.2)  ]  .
+
+
+
+     Adverse Reactions Leading to Discontinuation  
+
+
+
+ Discontinuations due to adverse reactions occurred in 4% of TRULANCE-treated patients and 2% of placebo-treated patients. The most common adverse reaction leading to discontinuation was diarrhea: 2% of TRULANCE-treated patients and 0.5% of placebo-treated patients withdrew due to diarrhea  .  
+
+
+
+     Less Common Adverse Reactions  
+
+
+
+ Adverse reactions reported in less than 2% of TRULANCE-treated patients and at an incidence greater than placebo were: sinusitis, upper respiratory tract infection, abdominal distension, flatulence, abdominal tenderness, and increased liver biochemical tests (2 patients with alanine aminotransferase (ALT) greater than 5 to 15 times the upper limit of normal and 3 patients with aspartate aminotransferase (AST) greater than 5 times the upper limit of normal).
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING:  RISK OF SERIOUS DEHYDRATION IN PEDIATRIC PATIENTS
+
+    WARNING:  RISK OF SERIOUS DEHYDRATION IN PEDIATRIC PATIENTS  
+
+    *  TRULANCE is contraindicated in patients less than 6 years of age; in nonclinical studies in young juvenile mice administration of a single oral dose of plecanatide caused deaths due to dehydration [see Contraindications (4), Use in Specific Populations (8.4)]. 
+ *  Avoid use of TRULANCE in patients 6 years to less than 18 years of age [see Warnings and Precautions (5.1), Use in Specific Populations (8.4)]. 
+ *  The safety and effectiveness of TRULANCE have not been established in patients less than 18 years of age [see Use in Specific Populations (8.4)]. 
+      EXCERPT:   WARNING:  RISK OF SERIOUS DEHYDRATION IN PEDIATRIC PATIENTS
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  TRULANCE is contraindicated in patients less than 6 years of age; in young juvenile mice, plecanatide caused death due to dehydration. (4, 8.4) 
+ *  Avoid use of TRULANCE in patients 6 years to less than 18 years of age. (5.1, 8.4) 
+ *  The safety and effectiveness of TRULANCE have not been established in patients less than 18 years of age. (8.4) 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Diarrhea: Patients may experience severe diarrhea. If severe diarrhea occurs, suspend dosing and rehydrate the patient. (  5.2  )
+
+
+
+ 
+
+
+
+   5.1 Risk of Serious Dehydration in Pediatric Patients
+
+
+
+  TRULANCE is contraindicated in patients less than 6 years of age. The safety and effectiveness of TRULANCE in patients less than 18 years of age have not been established. In young juvenile mice (human age equivalent of approximately 1 month to less than 2 years), plecanatide increased fluid-secretion into the intestines as a consequence of stimulation of guanylate cyclase-C (GC-C), resulting in mortality in some mice within the first 24 hours, apparently due to dehydration. Due to increased intestinal expression of GC-C, patients less than 6 years of age may be more likely than patients 6 years of age and older to develop severe diarrhea and its potentially serious consequences.
+
+
+
+ Avoid the use of TRULANCE in patients 6 years to less than 18 years of age. Although there were no deaths in older juvenile mice, given the deaths in younger mice and the lack of clinical safety and efficacy data in pediatric patients, avoid the use of TRULANCE in patients 6 years to less than 18 years of age [see  Contraindications (4)  ,  Warnings and Precautions (5.2)  ,  Use in Specific Populations (8.4)  ]  .
+
+
+
+    5.2 Diarrhea
+
+
+
+  Diarrhea was the most common adverse reaction in the two placebo-controlled clinical trials. Severe diarrhea was reported in 0.6% of patients [see  Adverse Reactions (6.1)  ]  . If severe diarrhea occurs, suspend dosing and rehydrate the patient.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

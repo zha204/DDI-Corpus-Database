@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="veltassa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reaction is discussed in greater detail elsewhere in the label:
+
+
+
+ *  Hypomagnesemia [see  Warnings and Precautions (5.3)  ]  
+   *  Most common adverse reactions (incidence &gt;= 2%) are constipation, hypomagnesemia, diarrhea, nausea, abdominal discomfort and flatulence. (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Relypsa at 1-844-VELTASSA (1-844-835-8277) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of Veltassa cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
+
+
+
+ In the safety and efficacy clinical trials, 666 adult patients received at least one dose of Veltassa, including 219 exposed for at least 6 months and 149 exposed for at least one year.
+
+
+
+ Table 1 provides a summary of the most common adverse reactions (occurring in &gt;= 2% of patients) in patients treated with Veltassa in these clinical trials. Most adverse reactions were mild to moderate. Constipation generally resolved during the course of treatment.
+
+
+
+ Table 1: Adverse Reactions Reported in &gt;= 2% of Patients 
+ Adverse Reactions                                       Patients treated with Veltassa(N=666)            
+  
+ Constipation                                                            7.2%                             
+ Hypomagnesemia                                                          5.3%                             
+ Diarrhea                                                                4.8%                             
+ Nausea                                                                  2.3%                             
+ Abdominal discomfort                                                    2.0%                             
+ Flatulence                                                              2.0%                             
+        During the clinical studies, the most commonly reported adverse reactions leading to discontinuation of Veltassa were gastrointestinal adverse reactions (2.7%), including vomiting (0.8%), diarrhea (0.6%), constipation (0.5%) and flatulence (0.5%).
+ 
+
+ Mild to moderate hypersensitivity reactions were reported in 0.3% of patients treated with Veltassa in clinical trials. Reactions have included edema of the lips.
+
+
+
+     Laboratory Abnormalities  
+
+
+
+ Approximately 4.7% of patients in clinical trials developed hypokalemia with a serum potassium value &lt; 3.5 mEq/L.
+
+
+
+ Approximately 9% of patients in clinical trials developed hypomagnesemia with a serum magnesium value &lt; 1.4 mg/dL.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: BINDING TO OTHER ORAL MEDICATIONS
+
+    WARNING: BINDING TO OTHER ORAL MEDICATIONS  
+
+  Veltassa binds to many orally administered medications, which could decrease their absorption and reduce their effectiveness.  Administer other oral medications at least 6 hours before or 6 hours after Veltassa.  Choose Veltassa or the other oral medication if adequate dosing separation is not possible    [see   Dosage and Administration (2.1)  ,   Warnings and Precautions (5.1)   and   Drug Interactions (7)  ].  
+
+
+
+   EXCERPT:     WARNING: BINDING TO OTHER ORAL MEDICATIONS  
+
+
+
+ 
+
+
+
+ Veltassa binds to many orally administered medications, which could decrease their absorption and reduce their effectiveness.  Administer other oral medications at least 6 hours before or 6 hours after Veltassa.  Choose Veltassa or the other oral medication if adequate dosing separation is not possible. (  2.1  ,   5.1  ,   7  )
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Worsening of Gastrointestinal Motility (  5.2  ) 
+ *  Hypomagnesemia (  5.3  ) 
+    
+ 
+
+   5.1 Binding to Other Orally Administered Medications
+
+
+
+  Veltassa binds many orally administered medications, which could decrease their gastrointestinal absorption and lead to reduced efficacy. Administer other oral medications at least 6 hours before or 6 hours after Veltassa. Choose Veltassa or the other oral medication if adequate dosing separation is not possible [see  Dosage and Administration (2.1)  and  Drug Interactions (7)  ]  .
+
+
+
+    5.2 Worsening of Gastrointestinal Motility
+
+
+
+  Avoid use of Veltassa in patients with severe constipation, bowel obstruction or impaction, including abnormal post-operative bowel motility disorders, because Veltassa may be ineffective and may worsen gastrointestinal conditions.
+
+
+
+ Patients with a history of bowel obstruction or major gastrointestinal surgery, severe gastrointestinal disorders, or swallowing disorders were not included in the clinical studies.
+
+
+
+    5.3 Hypomagnesemia
+
+
+
+  Veltassa binds to magnesium in the colon, which can lead to hypomagnesemia. In clinical studies, hypomagnesemia was reported as an adverse reaction in 5.3% of patients treated with Veltassa [see  Adverse Reactions (6.1)  ].  Monitor serum magnesium. Consider magnesium supplementation in patients who develop low serum magnesium levels on Veltassa.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

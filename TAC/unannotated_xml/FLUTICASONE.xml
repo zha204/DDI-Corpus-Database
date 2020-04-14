@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="fluticasone" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Clinical Trial Experience:  In 2 multicenter vehicle-controlled clinical trials of once-daily application of Fluticasone Propionate Lotion by 196 adult and 242 pediatric patients, the total incidence of adverse reactions considered drug related by investigators was approximately 4%. Events were local cutaneous events, usually mild and self-limiting, and consisted primarily of burning/stinging (2%). All other drug-related events occurred with an incidence of less than 1%, and inclusively were contact dermatitis, exacerbation of atopic dermatitis, folliculitis of legs, pruritus, pustules on arm, rash, and skin infection.
+
+
+
+ The incidence of drug-related events on drug compared to vehicle (4% and 5%, respectively) was similar. The incidence of drug-related events between study populations of 242 pediatric patients (age 3 months to &lt; 17 years) and 196 adult patients (17 years or older) (4% and 5%, respectively) was also similar.
+
+
+
+ In an open-label study of 44 pediatric patients applying Fluticasone Propionate Lotion to at least 35% of body surface area twice daily for 3 or 4 weeks, the overall incidence of drug-related adverse events was 14%. Events were local, cutaneous, and inclusively were dry skin (7%), stinging at application site (5%), and excoriation (2%).
+
+
+
+ Table 2: Drug Related Adverse Events from Controlled Clinical Trials (n=438) 
+ Adverse Events                            Fluticasone Propionate Lotion        Vehicle                   
+                                           N=221                                N=217                     
+ Burning/Stinging skin                     4 (2%)                                    3 (1%)               
+ Contact Dermatitis                        0                                         1 (&lt;1%)              
+ Exacerbation of Atopic dermatitis         0                                         1 (&lt;1%)              
+ Folliculitis of legs                      2 (&lt;1%)                                   0                    
+ Irritant Contact Dermatitis               0                                         1 (&lt;1%)              
+ Pruritus                                  1 (&lt;1%)                                   1 (&lt;1%)              
+ Pustules on Arms                          1 (&lt;1%)                                   0                    
+ Rash                                      1 (&lt;1%)                                   2 (&lt;1%)              
+ Skin Infection                            0                                         3 (1%)               
+        Table 3: Drug Related Adverse Events From Pediatric Open Label Trial (n=44) 
+ Adverse Events                         Fluticasone Propionate Lotion Twice Daily                        
+ Dry skin at multiple sites             3 (7%)                                                           
+ Stinging at Application Sites          2 (5%)                                                           
+ Excoriation                            1 (2%)                                                           
+        The table below summarizes all adverse events by body system that occurred in at least 1% of patients in either the drug or vehicle group in controlled clinical trials.
+ 
+
+ Table 4: Adverse Events Occurring in &gt;= 1% of Patients from Either Arm from Controlled Clinical Trials (n=438) 
+   Body System                      Fluticasone Propionate Lotion           Vehicle Lotion                         
+                                    N = 221                        N = 217                                
+ Any Adverse Event                77 (35%)                       82 (38%)                                 
+ Skin                                                                                                     
+      Burning and Stinging        4 (2%)                         3 (1%)                                   
+      Pruritus                    3 (1%)                         5 (2%)                                   
+      Rash                        2 (&lt;1%)                        3 (1%)                                   
+      Skin Infection              0                              3 (1%)                                   
+ Ear, Nose, Throat                                                                                        
+      Common Cold                 9 (4%)                         5 (2%)                                   
+      Ear Infection               3 (1%)                         3 (1%)                                   
+      Nasal Sinus Infection       2 (&lt;1%)                        4 (2%)                                   
+      Rhinitis                    1 (&lt;1%)                        3 (1%)                                   
+      Upper RespiratoryTract Infection       6 (3%)                         7 (3%)                                   
+ Gastrointestinal                                                                                         
+      Normal Tooth Eruption       2 (&lt; 1%)                       3 (1%)                                   
+      Diarrhea                    3 (1%)                         0                                        
+      Vomiting                    3 (1%)                         2 (&lt;1%)                                  
+ Lower Respiratory                                                                                        
+      Cough                       7 (3%)                         6 (3%)                                   
+      Influenza                   5 (2%)                         0                                        
+      Wheeze                      0                              3 (1%)                                   
+ Neurology                                                                                                
+      Headache                    4 (2%)                         5 (2%)                                   
+ Non-Site Specific                                                                                        
+      Fever                       8 (4%)                         8 (4%)                                   
+      Seasonal Allergy            2 (&lt;1%)                        3 (1%)                                   
+         During the clinical trials, eczema herpeticum occurred in a 33-year-old male patient treated with Fluticasone Propionate Lotion. Additionally, a 4-month-old patient treated with Fluticasone Propionate Lotion in the open-label trial had marked elevations of the hepatic enzymes AST and ALT.
+ 
+
+     Post Marketing Experience:  Systemic adverse events with Fluticasone Propionate Cream and Fluticasone Propionate Ointment have included: immunosuppression/Pneumocystis carinii; pneumonia/leukopenia/thrombocytopenia; hyperglycemia/glycosuria; Cushing syndrome; generalized body edema/blurred vision; and acute urticarial reaction (edema, urticaria, pruritus, and throat swelling).
+
+
+
+ The following localized adverse reactions have been reported during post approval use of Fluticasone Propionate Lotion : erythema, edema/swelling, bleeding, and a reported lack of efficacy.
+
+
+
+ Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

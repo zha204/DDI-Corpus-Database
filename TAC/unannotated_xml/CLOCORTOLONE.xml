@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="clocortolone" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence:
+
+
+
+ Burning
+
+
+
+ Itching
+
+
+
+ Irritation
+
+
+
+ Dryness
+
+
+
+ Folliculitis
+
+
+
+ Hypertrichosis
+
+
+
+ Acneform eruptions
+
+
+
+ Hypopigmentation
+
+
+
+ Perioral dermatitis
+
+
+
+ Allergic contact dermatitis
+
+
+
+ Maceration of the skin
+
+
+
+ Secondary infection
+
+
+
+ Skin atrophy
+
+
+
+ Striae
+
+
+
+ Miliaria
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

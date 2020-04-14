@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="standardized3" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse systemic reactions usually occur within minutes and consist primarily of allergic symptoms such as: generalized skin erythema, urticaria, pruritus, angioedema, rhinitis, induced asthma, itching of nose or throat, wheezing, laryngeal edema, dyspnea, coughing, marked perspiration and hypotension. Less commonly, nausea, emesis, abdominal cramps, diarrhea and uterine contractions may occur. Severe reactions may cause anaphylaxis or shock and loss of consciousness. Fatalities have occurred rarely.  (12)  To some extent, the reaction rate is related to the type and dose of administered extract and to the degree of sensitivity of the patient.
+
+
+
+ The treatment of systemic allergic reactions is dependent upon the symptom complex. Antihistamines may offer relief of recurrent urticaria, associated skin reactions and gastrointestinal symptoms. Corticosteroids may provide benefit if symptoms are prolonged or recurrent. (See Overdosage)
+
+
+
+ Local reactions consisting of erythema, itching, swelling tenderness and sometimes pain may occur at the injection site. These reactions may appear within a few minutes to hours and persist for several days. Local cold applications and oral antihistamines may be effective treatment for local reactions. For marked and prolonged local reactions steroids may be helpful.
+
+
+
+   Serious adverse reactions  should be reported to Nelco Laboratories immediately and a report can be filed to  MedWatch, The FDA Medical Product Problem Reporting Program, at 5600 Fishers Lane, Rockville, MD 20852-9787, call 1-800-FDA-1088.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+  WARNINGS
+
+  Standardized allergenic extract is intended for use by physicians who are experienced in the administration of standardized (BAU/mL) allergenic extracts for immunotherapy and the emergency care of anaphylaxis, or for use under the guidance of an allergy specialist.  Standardized allergenic extracts are not directly interchangeable with other allergenic extracts.  The initial dose must be based on skin testing as described in the dosage and administration section of this insert.  Patients being switched from other types of extract to standardized allergenic extracts should be started as though they were coming under treatment for the first time.   STANDARDIZED CAT HAIR EXTRACT IS NOT INTERCHANGEABLE WITH STANDARDIZED CAT PELT EXTRACTS, STANDARDIZED CAT EXTRACTS LABELED IN AU/mL, OR WITH NON-STANDARDIZED CAT EXTRACTS.  
+
+
+
+ This product should not be injected intravenously. Deep subcutaneous routes have been safe. Sensitive patients may experience severe anaphylactic reactions resulting in respiratory obstruction, shock, coma and/or death.    (See Adverse Reactions)  
+
+
+
+ Serious adverse reactions should be reported to Nelco Laboratories immediately and a report filed to:   MedWatch, The FDA Medical Product Problem Reporting Program, at 5600 Fishers Lane, Rockville, Md. 20852-9787, call 1-800-FDA-1088.  
+
+
+
+ Extreme caution should be taken when using allergenic extracts for patients who are taking beta-blocker medications.  In the event of a serious adverse reaction associated with the use of allergenic extracts, patients receiving beta-blockers may not be responsive to epinephrine or inhaled brochodialators.    (See Precautions)  
+
+
+
+ Allergenic extracts may be used with caution for patients with unstable or steroid-dependent asthma or with underlying cardiovascular disease.   (See Contraindications)  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

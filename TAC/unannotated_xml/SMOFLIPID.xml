@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="smoflipid" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Adverse reactions described elsewhere in labeling:
+
+
+
+ *  Death in Preterm Infants [see Warnings and Precautions (  5.1  )]  
+ *  Hypersensitivity Reactions [see   Warnings and Precautions (  5.2  )  ]  
+ *  Risk of Catheter-Related Infections [see   Warnings and Precautions (  5.3  )  ]  
+ *  Fat Overload Syndrome [see   Warnings and Precautions (  5.4  )  ]  
+ *  Refeeding Syndrome [see   Warnings and Precautions (  5.5  )  ]  
+ *  Aluminum Toxicity [see   Warnings and Precautions (  5.6  )  ]  
+ *  Risk of Parenteral Nutrition-Associated Liver Disease [see   Warnings and Precautions (  5.7  )  ]  
+ *  Hypertriglyceridemia [see   Warnings and Precautions (  5.8  )  ]  
+      EXCERPT:   Most common adverse drug reactions (&gt;1%) from clinical trials were nausea, vomiting, hyperglycemia, flatulence, pyrexia, abdominal pain,  increased blood triglycerides, hypertension, sepsis, dyspepsia, urinary tract infection, anemia and device related infection. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The safety database for Smoflipid reflects exposure in 229 patients exposed for 5 days to 4 weeks in 5 clinical trials. The pooled population exposed to Smoflipid was adult patients up to 89 years old (20 to 89 years of age), 43% female, and 99% Caucasian. The most frequently reported medical histories in the Smoflipid group were surgical and medical procedures (84%), neoplasms (57%), gastrointestinal disorders (53%), vascular disorders (37%), and infections and infestations (20%).
+
+
+
+ Smoflipid was used as a component of PN which also included dextrose, amino acids, vitamins, and trace elements.  Two of the 5 studies were performed with Smoflipid as a component of PN delivered in a 3-chamber bag.
+
+
+
+ Adverse reactions occurring in at least 1% of patients who received Smoflipid are shown in Table 2.
+
+
+
+   Table 2: Adverse Reactions in &gt; 1% of Patients Treated with Smoflipid  
+
+
+
+
+   Adverse Reaction           Number of Patients in Smoflipid Group (N=229)      Number of Patients in Comparator Group (N=230)     
+  
+ Nausea                     20 (9%)                    26 (11%)                    
+ Vomiting                   15 (7%)                    12 (5%)                     
+ Hyperglycemia              12 (5%)                    5 (2%)                      
+ Flatulence                 10 (4%)                    4 (2%)                      
+ Pyrexia                    9 (4%)                     11 (5%)                     
+ Abdominal pain             8 (4%)                     5 (2%)                      
+ Blood triglycerides increased  6 (3%)                     4 (2%)                      
+ Hypertension               6 (3%)                     9 (4%)                      
+ Sepsis                     5 (2%)                     4 (2%)                      
+ Dyspepsia                  5 (2%)                     1 (0%)                      
+ Urinary tract infection    4 (2%)                     3 (1%)                      
+ Anemia                     4 (2%)                     2 (1%)                      
+ Device related infection   4 (2%)                     2 (1%)                      
+      Less common adverse reactions in &lt;= 1% of patients who received Smoflipid were dyspnea, leukocytosis, diarrhea, pneumonia, cholestasis,  dysgeusia, increased blood alkaline phosphatase, increased gamma-glutamyltransferase, increased C-reactive protein, tachycardia, liver function test abnormalities, headache, pruritis,  dizziness, rash and thrombophlebitis.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of Smoflipid in countries where it is registered. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to product exposure.
+
+
+
+   Infections and Infestations:    infection
+
+
+
+   Respiratory, Thoracic and Mediastinal Disorders  :  dyspnea
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: DEATH IN PRETERM INFANTS
+
+  WARNING: DEATH IN PRETERM INFANTS
+
+    *  Deaths in preterm infants after infusion of intravenous lipid emulsions have been reported in the medical literature. 
+ *  Autopsy findings included intravascular fat accumulation in the lungs. 
+ *  Preterm infants and low-birth-weight infants have poor clearance of intravenous lipid emulsion and increased free fatty acid plasma levels following lipid emulsion infusion. 
+        [See Warnings and Precautions (  5.1  ) and Use in Specific Populations (  8.4  )]    
+ 
+
+   EXCERPT:     WARNING: DEATH IN PRETERM INFANTS  
+
+
+
+     See full prescribing information for complete boxed warning.    
+
+
+
+ *  Deaths in preterm infants have been reported in literature. (5.1, 8.4) 
+ *  Autopsy findings included intravascular fat accumulation in the lungs. (5.1,8.4) 
+ *  Preterm and low-birth-weight infants have poor clearance of intravenous lipid emulsion and increased free fatty acid plasma levels following lipid emulsion infusion. (5.1, 8.4) 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hypersensitivity Reactions :  Monitor for signs or symptoms. Discontinue infusion if reactions occur. (  5.2  ) 
+ *   Infection, Fat Overload, Hypertriglyceridemia, and Refeeding Complications : Monitor for signs and symptoms; monitor laboratory parameters. (  5.3  ,  5.4  ,  5.5  ,  5.8  ) 
+ *   Aluminum Toxicity :  Increased risk in patients with renal impairment, including preterm infants. (  5.6  ,  8.4  ) 
+ *   Parenteral Nutrition-Associated Liver Disease :  Increased risk in patients who receive parenteral nutrition for extended periods of time, especially preterm infants.  Monitor liver function tests, if abnormalities occur consider discontinuation or dosage reduction. (  5.7  ,  8.4  ) 
+    
+ 
+
+   5.1 Death in Preterm Infants
+
+
+
+  Deaths after infusion of soybean-based intravenous lipid emulsions have been reported in preterm infants.    Autopsy findings included intravascular lipid accumulation in the lungs. Preterm and small-for-gestational-age infants have poor clearance of intravenous lipid emulsion and increased free fatty acid plasma levels following lipid emulsion infusion. The safe and effective use of Smoflipid in pediatric patients, including preterm infants, has not been established.   
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+  Smoflipid contains soybean oil, fish oil, and egg phospholipids, which may cause hypersensitivity reactions. Cross reactions have been observed between soybean and peanut oil.  Signs or symptoms of a hypersensitivity reaction may include: tachypnea, dyspnea, hypoxia, bronchospasm, tachycardia, hypotension, cyanosis, vomiting, nausea, headache, sweating, dizziness, altered mentation, flushing, rash, urticaria, erythema, pyrexia, or chills. If a hypersensitivity reaction occurs, stop infusion of Smoflipid immediately and undertake appropriate treatment and supportive measures.
+
+
+
+    5.3 Risk of Catheter-Related Infections
+
+
+
+  Lipid emulsions, such as Smoflipid, can support microbial growth and is an independent risk factor for the development of catheter-related bloodstream infections. The risk of infection is increased in patients with malnutrition-associated immunosuppression, long-term use and poor maintenance of intravenous catheters, or immunosuppressive effects of other concomitant conditions or drugs.
+
+
+
+ To decrease the risk of infectious complications, ensure aseptic techniques in catheter placement, catheter maintenance, and preparation and administration of Smoflipid. Monitor for signs and symptoms (fever and chills) of early infections, including laboratory test results that might indicate infection (including leukocytosis and hyperglycemia), and frequently checks of the parenteral access device and insertion site for edema, redness, and discharge.
+
+
+
+    5.4 Fat Overload Syndrome
+
+
+
+  Fat overload syndrome is a rare condition that has been reported with intravenous lipid emulsions. A reduced or limited ability to metabolize lipids accompanied by prolonged plasma clearance may result in a syndrome characterized by a sudden deterioration in the patient's condition including fever, anemia, leukopenia, thrombocytopenia, coagulation disorders, hyperlipidemia, liver fatty infiltration (hepatomegaly), deteriorating liver function, and central nervous system manifestations (e.g., coma).  The cause of the fat overload syndrome is unclear. Although it has been most frequently observed when the recommended lipid dose was exceeded, cases have also been described where the lipid formulation was administered according to instructions. The syndrome is usually reversible when the infusion of the lipid emulsion is stopped.
+
+
+
+    5.5 Refeeding Syndrome
+
+
+
+  Refeeding severely undernourished patients with PN may result in the refeeding syndrome, characterized by the intracellular shift of potassium, phosphorus, and magnesium as the patient becomes anabolic. Thiamine deficiency and fluid retention may also develop. To prevent these complications, monitor severely undernourished patients and slowly increase their nutrient intakes.
+
+
+
+    5.6 Aluminum Toxicity
+
+
+
+  Smoflipid contains no more than 25 mcg/L of aluminum. However, with prolonged PN administration in patients with renal impairment, the aluminum levels in the patient may reach toxic levels. Preterm infants are at greater risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum.
+
+
+
+ Patients with renal impairment, including preterm infants, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum to levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration of PN products.
+
+
+
+    5.7 Risk of Parenteral Nutrition-Associated Liver Disease
+
+
+
+  Parenteral nutrition-associated liver disease (PNALD) has been reported in patients who receive PN for extended periods of time, especially preterm infants, and can present as cholestasis or steatohepatitis. The exact etiology is unknown and is likely multifactorial. Intravenously administered phytosterols (plant sterols) contained in plant-derived lipid formulations have been associated with development of PNALD, although a causal relationship has not been established.
+
+
+
+ If Smoflipid-treated patients develop liver test abnormalities, consider discontinuation or dose reduction.
+
+
+
+    5.8 Hypertriglyceridemia
+
+
+
+  Impaired lipid metabolism with hypertriglyceridemia may occur in conditions such as inherited lipid disorders, obesity, diabetes mellitus, and metabolic syndrome.
+
+
+
+ To evaluate the patient's capacity to eliminate and metabolize the infused lipid emulsion, measure serum triglycerides before the start of infusion (baseline value), at the time of each increase in dosage, and regularly throughout treatment.
+
+
+
+ In adult patients with levels &gt; 400 mg/dL, reduce the dose of Smoflipid and monitor serum triglyceride levels to avoid the clinical consequences associated with hypertriglyceridemia. Serum triglyceride levels &gt; 1,000 mg/dL, have been associated with an increased risk of pancreatitis.
+
+
+
+    5.9 Monitoring/Laboratory Tests
+
+
+
+   Routine Monitoring  
+
+
+
+ Monitor serum triglycerides [see    Warnings and Precautions (  5.8  )   ]  , fluid and electrolyte status, blood glucose, liver and kidney function, blood count including platelets, and coagulation parameters throughout treatment.
+
+
+
+  Essential Fatty Acids  
+
+
+
+ Monitoring patients for signs and symptoms of essential fatty acid deficiency (EFAD) is recommended. Laboratory tests are available to determine serum fatty acids levels. Reference values should be consulted to help determine adequacy of essential fatty acid status. Increasing essential fatty acid intake (enterally or parenterally) is effective in treating and preventing EFAD.
+
+
+
+ In Smoflipid, the mean concentration of linoleic acid (an omega-6 essential fatty acid) is 35 mg/mL(range 28 to 50 mg/mL), and alpha-linolenic acid (an omega-3 essential fatty acid) is 4.5 mg/mL (range 3 to 7 mg/mL). There are insufficient long-term data to determine whether Smoflipid can supply essential fatty acids in adequate amounts in patients who may have increased requirements.
+
+
+
+    5.10 Interference with Laboratory Tests
+
+
+
+  Content of vitamin K may counteract anticoagulant activity [see Drug Interactions (  7.1  )]  . The lipids contained in this emulsion may interfere with some laboratory blood tests (e.g., hemoglobin, lactate dehydrogenase [LDH], bilirubin, and oxygen saturation) if blood is sampled before lipids have cleared from the bloodstream. Lipids are normally cleared after a period of 5 to 6 hours once the lipid infusion is stopped.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

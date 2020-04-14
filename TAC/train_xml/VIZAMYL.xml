@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vizamyl" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most commonly reported adverse reactions were flushing (2%), headache (1%), increased blood pressure (2%), nausea (1%), and dizziness (1%).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GE Healthcare at 1-800-654-0118 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  (  6  )
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Clinical trials are conducted under widely varying conditions and adverse reaction rates observed in the clinical trials of Vizamyl cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In clinical trials, 761 adults (367 men and 394 women, 91% Caucasian) with a mean age of 62 years (range 18-93 years) received Vizamyl. Most subjects (530, 70%) received a dose of 185 MBq (5 mCi).
+
+
+
+ One subject out of 761 administered Vizamyl experienced a serious hypersensitivity reaction with flushing, dyspnea and chest pressure within minutes following Vizamyl administration and recovered with treatment.
+
+
+
+ Most adverse reactions were mild to moderate in intensity and resolved spontaneously. The most commonly reported adverse reactions (occurring in at least 1% of subjects) in Vizamyl-treated subjects are shown in Table 2.
+
+
+
+ Table 2: Adverse Reactions Reported in Clinical Trials of Vizamyl (N = 761 subjects) 
+ Adverse Reaction                                                 N (percent of patients)                 
+  
+ Flushing                                                                 16 (2%)                         
+ Increased blood pressure                                                 13 (2%)                         
+ Headache                                                                 10 (1%)                         
+ Nausea                                                                    8 (1%)                         
+ Dizziness                                                                 8 (1%)                         
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions: Ask patients about prior reactions to Vizamyl. Observe for hypersensitivity signs and symptoms following Vizamyl administration. Have resuscitation equipment and trained personnel available at time of Vizamyl administration (  5.1  ) 
+ *  Image interpretation errors (especially false positives) have been observed (  5.2  ) 
+ *  Radiation risk: Vizamyl, similar to all radiopharmaceuticals, contributes to a patient's long-term cumulative radiation exposure. Ensure safe handling to protect patients and health care workers from unintentional radiation exposure (  2.1  ,  5.3  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions such as flushing and dyspnea have been observed within minutes following Vizamyl administration. These reactions may occur in patients with no history of prior exposure to Vizamyl.
+
+
+
+ Before administering Vizamyl, ask patients about prior reactions to drugs, especially those containing polysorbate 80.
+
+
+
+ Have resuscitation equipment and trained personnel immediately available at the time of Vizamyl administration [ see  Contraindications (4)    ].
+
+
+
+    5.2 Risk for Image Misinterpretation and Other Errors
+
+
+
+  Errors may occur while using Vizamyl PET images to estimate brain neuritic plaque density [ see  Clinical Studies (14)    ].
+
+
+
+ Image interpretation is performed independently of the patient's clinical information. The use of clinical information in the interpretation of Vizamyl images has not been evaluated and may lead to errors. Extensive brain atrophy may limit the ability to distinguish grey and white matter on a Vizamyl scan [ see  Dosage and Administration (2.5)    ]. Motion artifacts may distort the image [ see  Dosage and Administration (2.3)    ].
+
+
+
+ Vizamyl scan results are indicative of the brain neuritic amyloid plaque content only at the time of image acquisition and a negative scan result does not preclude the development of brain amyloid in the future.
+
+
+
+    5.3 Radiation Risk
+
+
+
+  Vizamyl, similar to other radiopharmaceuticals, contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Ensure safe handling to protect patients and health care workers from unintentional radiation exposure [ see  Dosage and Administration (2.1)    ] .  
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="84" len="8" str="flushing" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="99" len="8" str="headache" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="114" len="24" str="increased blood pressure" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="145" len="6" str="nausea" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="162" len="9" str="dizziness" />
+    <Mention id="M6" section="S1" type="Severity" start="896" len="7" str="serious" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="904" len="25" str="hypersensitivity reaction" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="935" len="8" str="flushing" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="945" len="7" str="dyspnea" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="957" len="14" str="chest pressure" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="1475" len="8" str="Flushing" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="1582" len="24" str="Increased blood pressure" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="1689" len="8" str="Headache" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="1796" len="6" str="Nausea" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="1903" len="9" str="Dizziness" />
+    <Mention id="M16" section="S2" type="AdverseReaction" start="52" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M17" section="S2" type="AdverseReaction" start="410" len="14" str="Radiation risk" />
+    <Mention id="M18" section="S2" type="AdverseReaction" start="499" len="39" str="long-term cumulative radiation exposure" />
+    <Mention id="M19" section="S2" type="AdverseReaction" start="709" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M20" section="S2" type="AdverseReaction" start="744" len="8" str="flushing" />
+    <Mention id="M21" section="S2" type="AdverseReaction" start="757" len="7" str="dyspnea" />
+    <Mention id="M22" section="S2" type="AdverseReaction" start="2151" len="39" str="long-term cumulative radiation exposure" />
+    <Mention id="M23" section="S2" type="AdverseReaction" start="2192" len="39" str="Long-term cumulative radiation exposure" />
+    <Mention id="M24" section="S2" type="Factor" start="2264" len="4" str="risk" />
+    <Mention id="M25" section="S2" type="AdverseReaction" start="2272" len="6" str="cancer" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M7" arg2="M6" />
+    <Relation id="RL2" type="Hypothetical" arg1="M25" arg2="M24" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="flushing">
+      <Normalization id="AR1.N1" meddra_pt="Flushing" meddra_pt_id="10016825" />
+    </Reaction>
+    <Reaction id="AR2" str="headache">
+      <Normalization id="AR2.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR3" str="increased blood pressure">
+      <Normalization id="AR3.N1" meddra_pt="Blood pressure increased" meddra_pt_id="10005750" meddra_llt="Increased blood pressure" meddra_llt_id="10021655" />
+    </Reaction>
+    <Reaction id="AR4" str="nausea">
+      <Normalization id="AR4.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR5" str="dizziness">
+      <Normalization id="AR5.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR6" str="hypersensitivity reaction">
+      <Normalization id="AR6.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR7" str="dyspnea">
+      <Normalization id="AR7.N1" meddra_pt="Dyspnoea" meddra_pt_id="10013968" meddra_llt="Dyspnea" meddra_llt_id="10013963" />
+    </Reaction>
+    <Reaction id="AR8" str="chest pressure">
+      <Normalization id="AR8.N1" meddra_pt="Chest discomfort" meddra_pt_id="10008469" meddra_llt="Chest pressure" meddra_llt_id="10008486" />
+    </Reaction>
+    <Reaction id="AR9" str="hypersensitivity reactions">
+      <Normalization id="AR9.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR10" str="radiation risk">
+      <Normalization id="AR10.N1" meddra_pt="Exposure to radiation" meddra_pt_id="10073306" />
+    </Reaction>
+    <Reaction id="AR11" str="long-term cumulative radiation exposure">
+      <Normalization id="AR11.N1" meddra_pt="Exposure to radiation" meddra_pt_id="10073306" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR12" str="cancer">
+      <Normalization id="AR12.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" meddra_llt="Cancer" meddra_llt_id="10007050" />
+    </Reaction>
+  </Reactions>
+</Label>

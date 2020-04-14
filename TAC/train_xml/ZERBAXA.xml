@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="zerbaxa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious reactions are described in greater detail in the Warnings and Precautions section:
+
+
+
+ *  Hypersensitivity reactions [see  Warnings and Precautions (5.2)  ]  
+ *   Clostridium difficile -associated diarrhea [see  Warnings and Precautions (5.3)  ]  
+      EXCERPT:   The most common adverse reactions (&gt;=5% in either indication) are nausea, diarrhea, headache and pyrexia. (  6.1  )  To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and also may not reflect rates observed in practice.
+
+
+
+ ZERBAXA was evaluated in Phase 3 comparator-controlled clinical trials of cIAI and cUTI, which included a total of 1015 patients treated with ZERBAXA and 1032 patients treated with comparator (levofloxacin 750 mg daily in cUTI or meropenem 1 g every 8 hours in cIAI) for up to 14 days. The mean age of treated patients was 48 to 50 years (range 18 to 92 years), across treatment arms and indications. In both indications, about 25% of the subjects were 65 years of age or older. Most patients (75%) enrolled in the cUTI trial were female, and most patients (58%) enrolled in the cIAI trial were male. Most patients (&gt;70%) in both trials were enrolled in Eastern Europe and were White.
+
+
+
+ The most common adverse reactions (5% or greater in either indication) occurring in patients receiving ZERBAXA were nausea, diarrhea, headache, and pyrexia. Table 5 lists adverse reactions occurring in 1% or greater of patients receiving ZERBAXA in Phase 3 clinical trials.
+
+
+
+ Table 5: Adverse Reactions Occurring in 1% or Greater of Patients Receiving ZERBAXA in Phase 3 Clinical Trials 
+ Preferred Term        Complicated Intra-abdominal Infections  Complicated Urinary Tract Infections, Including Pyelonephritis   
+ ZERBAXA(N=482)          Meropenem(N=497)       ZERBAXA(N=533)     Levofloxacin(N=535)    
+  
+ Nausea                      38 (7.9)              29 (5.8)              15 (2.8)              9 (1.7)          
+ Headache                    12 (2.5)              9 (1.8)               31 (5.8)              26 (4.9)         
+ Diarrhea                    30 (6.2)               25 (5)               10 (1.9)              23 (4.3)         
+ Pyrexia                     27 (5.6)               20 (4)               9 (1.7)               5 (0.9)          
+ Constipation                9 (1.9)               6 (1.2)               21 (3.9)              17 (3.2)         
+ Insomnia                    17 (3.5)              11 (2.2)              7 (1.3)               14 (2.6)         
+ Vomiting                    16 (3.3)               20 (4)               6 (1.1)               6 (1.1)          
+ Hypokalemia                 16 (3.3)               10 (2)               4 (0.8)               2 (0.4)          
+ ALT increased               7 (1.5)                5 (1)                9 (1.7)               5 (0.9)          
+ AST increased                5 (1)                3 (0.6)               9 (1.7)               5 (0.9)          
+ Anemia                      7 (1.5)                5 (1)                2 (0.4)               5 (0.9)          
+ Thrombocytosis              9 (1.9)                5 (1)                2 (0.4)               2 (0.4)          
+ Abdominal pain              6 (1.2)               2 (0.4)               4 (0.8)               2 (0.4)          
+ Anxiety                     9 (1.9)               7 (1.4)               1 (0.2)               4 (0.7)          
+ Dizziness                   4 (0.8)                5 (1)                6 (1.1)               1 (0.2)          
+ Hypotension                 8 (1.7)               4 (0.8)               2 (0.4)               1 (0.2)          
+ Atrial fibrillation         6 (1.2)               3 (0.6)               1 (0.2)                  0             
+ Rash                        8 (1.7)               7 (1.4)               5 (0.9)               2 (0.4)          
+           Treatment discontinuation due to adverse events occurred in 2.0% (20/1015) of patients receiving ZERBAXA and 1.9% (20/1032) of patients receiving comparator drugs. Renal impairment (including the terms renal impairment, renal failure, and renal failure acute) led to discontinuation of treatment in 5/1015 (0.5%) subjects receiving ZERBAXA and none in the comparator arms.
+ 
+
+     Increased Mortality  
+
+
+
+ In the cIAI trials (Phase 2 and 3), death occurred in 2.5% (14/564) of patients receiving ZERBAXA and in 1.5% (8/536) of patients receiving meropenem. The causes of death varied and included worsening and/or complications of infection, surgery and underlying conditions.
+
+
+
+     Less Common Adverse Reactions  
+
+
+
+ The following selected adverse reactions were reported in ZERBAXA-treated subjects at a rate of less than 1%:
+
+
+
+ *      Cardiac disorders: tachycardia, angina pectoris 
+ *      Gastrointestinal disorders: ileus, gastritis, abdominal distension, dyspepsia, flatulence, ileus paralytic 
+ *      General disorders and administration site conditions: infusion site reactions 
+ *      Infections and infestations: candidiasis, oropharyngeal, fungal urinary tract infection 
+ *      Investigations: increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs test 
+ *      Metabolism and nutrition disorders: hyperglycemia, hypomagnesemia, hypophosphatemia 
+ *      Nervous system disorders: ischemic stroke 
+ *      Renal and urinary system: renal impairment, renal failure 
+ *      Respiratory, thoracic and mediastinal disorders: dyspnea 
+ *      Skin and subcutaneous tissue disorders: urticaria 
+ *      Vascular disorders: venous thrombosis 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Decreased efficacy in patients with baseline CrCl of 30 to &lt;=50 mL/min. Monitor CrCl at least daily in patients with changing renal function and adjust the dose of ZERBAXA accordingly. (  5.1  ) 
+ *  Serious hypersensitivity (anaphylactic) reactions have been reported with beta-lactam antibacterial drugs. Exercise caution in patients with known hypersensitivity to beta-lactam antibacterial drugs. (  5.2  ) 
+ *   Clostridium difficile -associated diarrhea (CDAD) has been reported with nearly all systemic antibacterial agents, including ZERBAXA. Evaluate if diarrhea occurs. (  5.3  ) 
+    
+ 
+
+   5.1 Decreased Efficacy in Patients with Baseline Creatinine Clearance of 30 to &lt;=50 mL/min
+
+
+
+  In a subgroup analysis of a Phase 3 cIAI trial, clinical cure rates were lower in patients with baseline creatinine clearance (CrCl) of 30 to &lt;=50 mL/min compared to those with CrCl &gt;=50 mL/min (Table 4). The reduction in clinical cure rates was more marked in the ZERBAXA plus metronidazole arm compared to the meropenem arm. A similar trend was also seen in the cUTI trial. Monitor CrCl at least daily in patients with changing renal function and adjust the dosage of ZERBAXA accordingly [see  Dosage and Administration (2.2)  ]  .
+
+
+
+ Table 4: Clinical Cure Rates in a Phase 3 Trial of cIAI by Baseline Renal Function (MITT Population) 
+ Baseline Renal Function             ZERBAXA plus metronidazolen/N (%)          Meropenemn/N (%)            
+  
+ Normal/mild impairment(CrCl &gt;=50 mL/min)           312/366 (85.2)                     355/404 (87.9)             
+ Moderate impairment(CrCl 30 to &lt;=50 mL/min)            11/23 (47.8)                        9/13 (69.2)              
+            5.2 Hypersensitivity Reactions
+ 
+
+  Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterial drugs.
+
+
+
+ Before initiating therapy with ZERBAXA, make careful inquiry about previous hypersensitivity reactions to other cephalosporins, penicillins, or other beta-lactams. If this product is to be given to a patient with a cephalosporin, penicillin, or other beta-lactam allergy, exercise caution because cross sensitivity has been established. If an anaphylactic reaction to ZERBAXA occurs, discontinue the drug and institute appropriate therapy.
+
+
+
+    5.3 Clostridium difficile  -associated Diarrhea
+
+
+
+   Clostridium difficile  -associated diarrhea (CDAD) has been reported for nearly all systemic antibacterial agents, including ZERBAXA, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of C  . difficile  .
+
+
+
+  C. difficile  produces toxins A and B which contribute to the development of CDAD. CDAD must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary because CDAD has been reported to occur more than 2 months after the administration of antibacterial agents.
+
+
+
+ If CDAD is confirmed, discontinue antibacterials not directed against C. difficile  , if possible. Manage fluid and electrolyte levels as appropriate, supplement protein intake, monitor antibacterial treatment of C. difficile  , and institute surgical evaluation as clinically indicated.
+
+
+
+    5.4 Development of Drug-Resistant Bacteria
+
+
+
+  Prescribing ZERBAXA in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and risks the development of drug-resistant bacteria.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="139" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="213" len="42" str="Clostridium difficile -associated diarrhea" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="381" len="6" str="nausea" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="389" len="8" str="diarrhea" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="399" len="8" str="headache" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="412" len="7" str="pyrexia" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="1726" len="6" str="nausea" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="1734" len="8" str="diarrhea" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="1744" len="8" str="headache" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="1758" len="7" str="pyrexia" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="2224" len="6" str="Nausea" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="2337" len="8" str="Headache" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="2450" len="8" str="Diarrhea" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="2563" len="7" str="Pyrexia" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="2676" len="12" str="Constipation" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="2789" len="8" str="Insomnia" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="2902" len="8" str="Vomiting" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="3015" len="11" str="Hypokalemia" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="3128" len="13" str="ALT increased" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="3241" len="13" str="AST increased" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="3354" len="6" str="Anemia" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="3467" len="14" str="Thrombocytosis" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="3580" len="14" str="Abdominal pain" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="3693" len="7" str="Anxiety" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="3806" len="9" str="Dizziness" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="3919" len="11" str="Hypotension" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="4032" len="19" str="Atrial fibrillation" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="4145" len="4" str="Rash" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="4432" len="16" str="Renal impairment" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="4470" len="16" str="renal impairment" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="4488" len="13" str="renal failure" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="4507" len="19" str="renal failure acute" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="4711" len="5" str="death" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="4840" len="5" str="death" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="4866,4900" len="9,9" str="worsening infection" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="4883" len="26" str="complications of infection" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="5130" len="11" str="tachycardia" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="5143" len="15" str="angina pectoris" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="5196" len="5" str="ileus" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="5203" len="9" str="gastritis" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="5214" len="20" str="abdominal distension" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="5236" len="9" str="dyspepsia" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="5247" len="10" str="flatulence" />
+    <Mention id="M44" section="S1" type="AdverseReaction" start="5259" len="15" str="ileus paralytic" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="5338" len="23" str="infusion site reactions" />
+    <Mention id="M46" section="S1" type="AdverseReaction" start="5400" len="11" str="candidiasis" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="5413,5449" len="13,9" str="oropharyngeal infection" />
+    <Mention id="M48" section="S1" type="AdverseReaction" start="5428" len="30" str="fungal urinary tract infection" />
+    <Mention id="M49" section="S1" type="AdverseReaction" start="5484" len="45" str="increased serum gamma-glutamyl transpeptidase" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="5537" len="36" str="increased serum alkaline phosphatase" />
+    <Mention id="M51" section="S1" type="AdverseReaction" start="5575" len="20" str="positive Coombs test" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="5641" len="13" str="hyperglycemia" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="5656" len="14" str="hypomagnesemia" />
+    <Mention id="M54" section="S1" type="AdverseReaction" start="5672" len="16" str="hypophosphatemia" />
+    <Mention id="M55" section="S1" type="AdverseReaction" start="5724" len="15" str="ischemic stroke" />
+    <Mention id="M56" section="S1" type="AdverseReaction" start="5775" len="16" str="renal impairment" />
+    <Mention id="M57" section="S1" type="AdverseReaction" start="5793" len="13" str="renal failure" />
+    <Mention id="M58" section="S1" type="AdverseReaction" start="5865" len="7" str="dyspnea" />
+    <Mention id="M59" section="S1" type="AdverseReaction" start="5922" len="9" str="urticaria" />
+    <Mention id="M60" section="S1" type="AdverseReaction" start="5961" len="17" str="venous thrombosis" />
+    <Mention id="M61" section="S2" type="Severity" start="252" len="7" str="Serious" />
+    <Mention id="M62" section="S2" type="AdverseReaction" start="260,292" len="16,9" str="hypersensitivity reactions" />
+    <Mention id="M63" section="S2" type="AdverseReaction" start="278,292" len="12,9" str="anaphylactic reactions" />
+    <Mention id="M64" section="S2" type="DrugClass" start="326" len="31" str="beta-lactam antibacterial drugs" />
+    <Mention id="M65" section="S2" type="AdverseReaction" start="468" len="42" str="Clostridium difficile -associated diarrhea" />
+    <Mention id="M66" section="S2" type="AdverseReaction" start="512" len="4" str="CDAD" />
+    <Mention id="M67" section="S2" type="Severity" start="1782" len="7" str="Serious" />
+    <Mention id="M68" section="S2" type="AdverseReaction" start="1807" len="5" str="fatal" />
+    <Mention id="M69" section="S2" type="AdverseReaction" start="1813,1845" len="16,9" str="hypersensitivity reactions" />
+    <Mention id="M70" section="S2" type="AdverseReaction" start="1813,1845" len="16,9" str="hypersensitivity reactions" />
+    <Mention id="M71" section="S2" type="AdverseReaction" start="1831,1845" len="12,9" str="anaphylactic reactions" />
+    <Mention id="M72" section="S2" type="AdverseReaction" start="1831,1845" len="12,9" str="anaphylactic reactions" />
+    <Mention id="M73" section="S2" type="DrugClass" start="1896" len="31" str="beta-lactam antibacterial drugs" />
+    <Mention id="M74" section="S2" type="AdverseReaction" start="2434" len="43" str="Clostridium difficile -associated diarrhea" />
+    <Mention id="M75" section="S2" type="AdverseReaction" start="2479" len="4" str="CDAD" />
+    <Mention id="M76" section="S2" type="Severity" start="2599" len="4" str="mild" />
+    <Mention id="M77" section="S2" type="AdverseReaction" start="2604" len="8" str="diarrhea" />
+    <Mention id="M78" section="S2" type="AdverseReaction" start="2616" len="5" str="fatal" />
+    <Mention id="M79" section="S2" type="AdverseReaction" start="2622" len="7" str="colitis" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M62" arg2="M61" />
+    <Relation id="RL2" type="Hypothetical" arg1="M62" arg2="M64" />
+    <Relation id="RL3" type="Effect" arg1="M63" arg2="M61" />
+    <Relation id="RL4" type="Hypothetical" arg1="M63" arg2="M64" />
+    <Relation id="RL5" type="Hypothetical" arg1="M68" arg2="M73" />
+    <Relation id="RL6" type="Effect" arg1="M69" arg2="M67" />
+    <Relation id="RL7" type="Hypothetical" arg1="M69" arg2="M73" />
+    <Relation id="RL8" type="Hypothetical" arg1="M70" arg2="M73" />
+    <Relation id="RL9" type="Effect" arg1="M71" arg2="M67" />
+    <Relation id="RL10" type="Hypothetical" arg1="M71" arg2="M73" />
+    <Relation id="RL11" type="Hypothetical" arg1="M72" arg2="M73" />
+    <Relation id="RL12" type="Effect" arg1="M77" arg2="M76" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="hypersensitivity reactions">
+      <Normalization id="AR1.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR2" str="clostridium difficile -associated diarrhea">
+      <Normalization id="AR2.N1" meddra_pt="Clostridium difficile colitis" meddra_pt_id="10009657" meddra_llt="Diarrhea, Clostridium difficile" meddra_llt_id="10012734" />
+    </Reaction>
+    <Reaction id="AR3" str="nausea">
+      <Normalization id="AR3.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR4" str="diarrhea">
+      <Normalization id="AR4.N1" meddra_pt="Diarrhoea" meddra_pt_id="10012735" meddra_llt="Diarrhea" meddra_llt_id="10012727" />
+    </Reaction>
+    <Reaction id="AR5" str="headache">
+      <Normalization id="AR5.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR6" str="pyrexia">
+      <Normalization id="AR6.N1" meddra_pt="Pyrexia" meddra_pt_id="10037660" />
+    </Reaction>
+    <Reaction id="AR7" str="constipation">
+      <Normalization id="AR7.N1" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Reaction>
+    <Reaction id="AR8" str="insomnia">
+      <Normalization id="AR8.N1" meddra_pt="Insomnia" meddra_pt_id="10022437" />
+    </Reaction>
+    <Reaction id="AR9" str="vomiting">
+      <Normalization id="AR9.N1" meddra_pt="Vomiting" meddra_pt_id="10047700" />
+    </Reaction>
+    <Reaction id="AR10" str="hypokalemia">
+      <Normalization id="AR10.N1" meddra_pt="Hypokalaemia" meddra_pt_id="10021015" meddra_llt="Hypokalemia" meddra_llt_id="10021018" />
+    </Reaction>
+    <Reaction id="AR11" str="alt increased">
+      <Normalization id="AR11.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" meddra_llt="ALT increased" meddra_llt_id="10001845" />
+    </Reaction>
+    <Reaction id="AR12" str="ast increased">
+      <Normalization id="AR12.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" meddra_llt="AST increased" meddra_llt_id="10003544" />
+    </Reaction>
+    <Reaction id="AR13" str="anemia">
+      <Normalization id="AR13.N1" meddra_pt="Anaemia" meddra_pt_id="10002034" meddra_llt="Anemia" meddra_llt_id="10002272" />
+    </Reaction>
+    <Reaction id="AR14" str="thrombocytosis">
+      <Normalization id="AR14.N1" meddra_pt="Thrombocytosis" meddra_pt_id="10043563" />
+    </Reaction>
+    <Reaction id="AR15" str="abdominal pain">
+      <Normalization id="AR15.N1" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Reaction>
+    <Reaction id="AR16" str="anxiety">
+      <Normalization id="AR16.N1" meddra_pt="Anxiety" meddra_pt_id="10002855" />
+    </Reaction>
+    <Reaction id="AR17" str="dizziness">
+      <Normalization id="AR17.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR18" str="hypotension">
+      <Normalization id="AR18.N1" meddra_pt="Hypotension" meddra_pt_id="10021097" />
+    </Reaction>
+    <Reaction id="AR19" str="atrial fibrillation">
+      <Normalization id="AR19.N1" meddra_pt="Atrial fibrillation" meddra_pt_id="10003658" />
+    </Reaction>
+    <Reaction id="AR20" str="rash">
+      <Normalization id="AR20.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR21" str="renal impairment">
+      <Normalization id="AR21.N1" meddra_pt="Renal impairment" meddra_pt_id="10062237" />
+    </Reaction>
+    <Reaction id="AR22" str="renal failure">
+      <Normalization id="AR22.N1" meddra_pt="Renal failure" meddra_pt_id="10038435" />
+    </Reaction>
+    <Reaction id="AR23" str="renal failure acute">
+      <Normalization id="AR23.N1" meddra_pt="Acute kidney injury" meddra_pt_id="10069339" meddra_llt="Renal failure acute" meddra_llt_id="10038436" />
+    </Reaction>
+    <Reaction id="AR24" str="death">
+      <Normalization id="AR24.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR25" str="worsening infection">
+      <Normalization id="AR25.N1" meddra_pt="Infection" meddra_pt_id="10021789" meddra_llt="Infection aggravated NOS" meddra_llt_id="10021792" />
+    </Reaction>
+    <Reaction id="AR26" str="complications of infection">
+      <Normalization id="AR26.N1" meddra_pt="Infection" meddra_pt_id="10021789" />
+    </Reaction>
+    <Reaction id="AR27" str="tachycardia">
+      <Normalization id="AR27.N1" meddra_pt="Tachycardia" meddra_pt_id="10043071" />
+    </Reaction>
+    <Reaction id="AR28" str="angina pectoris">
+      <Normalization id="AR28.N1" meddra_pt="Angina pectoris" meddra_pt_id="10002383" />
+    </Reaction>
+    <Reaction id="AR29" str="ileus">
+      <Normalization id="AR29.N1" meddra_pt="Ileus" meddra_pt_id="10021328" />
+    </Reaction>
+    <Reaction id="AR30" str="gastritis">
+      <Normalization id="AR30.N1" meddra_pt="Gastritis" meddra_pt_id="10017853" />
+    </Reaction>
+    <Reaction id="AR31" str="abdominal distension">
+      <Normalization id="AR31.N1" meddra_pt="Abdominal distension" meddra_pt_id="10000060" />
+    </Reaction>
+    <Reaction id="AR32" str="dyspepsia">
+      <Normalization id="AR32.N1" meddra_pt="Dyspepsia" meddra_pt_id="10013946" />
+    </Reaction>
+    <Reaction id="AR33" str="flatulence">
+      <Normalization id="AR33.N1" meddra_pt="Flatulence" meddra_pt_id="10016766" />
+    </Reaction>
+    <Reaction id="AR34" str="ileus paralytic">
+      <Normalization id="AR34.N1" meddra_pt="Ileus paralytic" meddra_pt_id="10021333" />
+    </Reaction>
+    <Reaction id="AR35" str="infusion site reactions">
+      <Normalization id="AR35.N1" meddra_pt="Infusion site reaction" meddra_pt_id="10054996" />
+    </Reaction>
+    <Reaction id="AR36" str="candidiasis">
+      <Normalization id="AR36.N1" meddra_pt="Candida infection" meddra_pt_id="10074170" meddra_llt="Candidiasis" meddra_llt_id="10007152" />
+    </Reaction>
+    <Reaction id="AR37" str="oropharyngeal infection">
+      <Normalization id="AR37.N1" meddra_pt="Oral infection" meddra_pt_id="10048685" />
+    </Reaction>
+    <Reaction id="AR38" str="fungal urinary tract infection">
+      <Normalization id="AR38.N1" meddra_pt="Urinary tract infection fungal" meddra_pt_id="10049059" />
+    </Reaction>
+    <Reaction id="AR39" str="increased serum gamma-glutamyl transpeptidase">
+      <Normalization id="AR39.N1" meddra_pt="Gamma-glutamyltransferase increased" meddra_pt_id="10017693" meddra_llt="Gamma glutamyl transpeptidase increased" meddra_llt_id="10017668" />
+    </Reaction>
+    <Reaction id="AR40" str="increased serum alkaline phosphatase">
+      <Normalization id="AR40.N1" meddra_pt="Blood alkaline phosphatase increased" meddra_pt_id="10059570" meddra_llt="Alkaline phosphatase serum increased" meddra_llt_id="10001679" />
+    </Reaction>
+    <Reaction id="AR41" str="positive coombs test">
+      <Normalization id="AR41.N1" meddra_pt="Coombs test positive" meddra_pt_id="10061090" />
+    </Reaction>
+    <Reaction id="AR42" str="hyperglycemia">
+      <Normalization id="AR42.N1" meddra_pt="Hyperglycaemia" meddra_pt_id="10020635" meddra_llt="Hyperglycemia" meddra_llt_id="10020639" />
+    </Reaction>
+    <Reaction id="AR43" str="hypomagnesemia">
+      <Normalization id="AR43.N1" meddra_pt="Hypomagnesaemia" meddra_pt_id="10021027" meddra_llt="Hypomagnesemia" meddra_llt_id="10021028" />
+    </Reaction>
+    <Reaction id="AR44" str="hypophosphatemia">
+      <Normalization id="AR44.N1" meddra_pt="Hypophosphataemia" meddra_pt_id="10021058" meddra_llt="Hypophosphatemia" meddra_llt_id="10021059" />
+    </Reaction>
+    <Reaction id="AR45" str="ischemic stroke">
+      <Normalization id="AR45.N1" meddra_pt="Ischaemic stroke" meddra_pt_id="10061256" meddra_llt="Ischemic stroke" meddra_llt_id="10055221" />
+    </Reaction>
+    <Reaction id="AR46" str="dyspnea">
+      <Normalization id="AR46.N1" meddra_pt="Dyspnoea" meddra_pt_id="10013968" meddra_llt="Dyspnea" meddra_llt_id="10013963" />
+    </Reaction>
+    <Reaction id="AR47" str="urticaria">
+      <Normalization id="AR47.N1" meddra_pt="Urticaria" meddra_pt_id="10046735" />
+    </Reaction>
+    <Reaction id="AR48" str="venous thrombosis">
+      <Normalization id="AR48.N1" meddra_pt="Venous thrombosis" meddra_pt_id="10047249" />
+    </Reaction>
+    <Reaction id="AR49" str="cdad">
+      <Normalization id="AR49.N1" meddra_pt="Clostridium difficile colitis" meddra_pt_id="10009657" meddra_llt="Diarrhea, Clostridium difficile" meddra_llt_id="10012734" />
+    </Reaction>
+    <Reaction id="AR50" str="fatal">
+      <Normalization id="AR50.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR51" str="colitis">
+      <Normalization id="AR51.N1" meddra_pt="Colitis" meddra_pt_id="10009887" />
+    </Reaction>
+  </Reactions>
+</Label>

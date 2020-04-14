@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="westcort" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In controlled clinical trials, the total incidence of adverse reactions associated with the use of Westcort Ointment was approximately 12%. These included worsening of condition (2%), transient itching (2%), irritation (1%) and redness (1%). In controlled clinical studies involving pediatric atopic dermatitis patients 2 through 12 years of age (n=64), the incidence of adverse experiences was approximately 28.1%, which is higher than that seen in adult patients. Reported reactions included eczema (12.5%), pruritis (6%), stinging (2%), and dry skin (2%). Patients were not specifically evaluated for signs of atrophy (thinning, telangiectasia, erythema). No studies were performed to assess adrenal suppression and/or growth suppression.
+
+
+
+ The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

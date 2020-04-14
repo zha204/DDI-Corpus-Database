@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="emadine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In controlled clinical studies of EMADINE(r) (emedastine difumarate ophthalmic solution) 0.05% lasting for 42 days, the most frequent adverse reaction was headache 11%. The following adverse experiences were reported in less than 5% of patients: Abnormal dreams, asthenia, bad taste, blurred vision, burning or stinging, corneal infiltrates, corneal staining, dermatitis, discomfort, dry eye, foreign body sensation, hyperemia, keratitis, pruritus, rhinitis, sinusitis and tearing. Some of these events were similar to the underlying disease being studied.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

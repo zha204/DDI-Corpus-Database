@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="brevital" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Side effects associated with Brevital Sodium are extensions of pharmacologic effects and include:
+
+
+
+   Cardiovascular  -Circulatory depression, thrombophlebitis, hypotension, tachycardia, peripheral vascular collapse, and convulsions in association with cardiorespiratory arrest
+
+
+
+   Respiratory  -Respiratory depression (including apnea), cardiorespiratory arrest, laryngospasm, bronchospasm, hiccups, and dyspnea
+
+
+
+   Neurologic  -Skeletal muscle hyperactivity (twitching), injury to nerves adjacent to injection site, and seizures
+
+
+
+   Psychiatric  -Emergence delirium, restlessness, and anxiety may occur, especially in the presence of postoperative pain
+
+
+
+   Gastrointestinal  -Nausea, emesis, abdominal pain, and liver function tests abnormal
+
+
+
+   Allergic  -Erythema, pruritus, urticaria, and cases of anaphylaxis have been reported rarely
+
+
+
+   Other  -Other adverse reactions include pain at injection site, salivation, headache, and rhinitis
+
+
+
+ For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+    WARNING  
+
+    Brevital should be used only in hospital or ambulatory care settings that provide for continuous monitoring of respiratory (e.g. pulse oximetry) and cardiac function. Immediate availability of resuscitative drugs and age- and size-appropriate equipment for bag/valve/mask ventilation and intubation and personnel trained in their use and skilled in airway management should be assured. For deeply sedated patients, a designated individual other than the practitioner performing the procedure should be present to continuously monitor the patient. (See   WARNINGS  )  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ursodiol1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  The nature and frequency of adverse experiences were similar across all groups.
+
+
+
+ The following tables provide comprehensive listings of the adverse experiences reported that occurred with a 5% incidence level:
+
+
+
+ GALLSTONE DISSOLUTION 
+                    Ursodiol         Placebo         
+                   8 - 10 mg/kg/day                    
+                   (N = 155)        (N = 159)        
+                    N                (%)              N                (%)             
+    Body as a Whole                                                                         
+       Allergy    8                (5.2)            7                (4.4)             
+       Chest Pain  5                (3.2)            10               (6.3)             
+       Fatigue    7                (4.5)            8                (5.0)             
+       Infection Viral  30               (19.4)           41               (25.8)            
+    Digestive System                                                                         
+       Abdominal Pain  67               (43.2)           70               (44.0)            
+       Cholecystitis  8                (5.2)            7                (4.4)             
+       Constipation  15               (9.7)            14               (8.8)             
+       Diarrhea   42               (27.1)           34               (21.4)            
+       Dyspepsia  26               (16.8)           18               (11.3)            
+       Flatulence  12               (7.7)            12               (7.5)             
+       Gastrointestinal Disorder  6                (3.9)            8                (5.0)             
+       Nausea     22               (14.2)           27               (17.0)            
+       Vomiting   15               (9.7)            11               (6.9)             
+    Musculoskeletal System                                                                         
+       Arthralgia  12               (7.7)            24               (15.1)            
+       Arthritis  9                (5.8)            4                (2.5)             
+       Back Pain  11               (7.1)            18               (11.3)            
+       Myalgia    9                (5.8)            9                (5.7)             
+    Nervous System                                                                         
+       Headache   28               (18.1)           34               (21.4)            
+       Insomnia   3                (1.9)            8                (5.0)             
+    Respiratory System                                                                         
+       Bronchitis  10               (6.5)            6                (3.8)             
+       Coughing   11               (7.1)            7                (4.4)             
+       Pharyngitis  13               (8.4)            5                (3.1)             
+       Rhinitis   8                (5.2)            11               (6.9)             
+       Sinusitis  17               (11.0)           18               (11.3)            
+       Upper Respiratory                                                                       
+         Tract Infection  24               (15.5)           21               (13.2)            
+    Urogenital System                                                                         
+       Urinary Tract Infection  10               (6.5)            7                (4.4)             
+          GALLSTONE PREVENTION 
+                     Ursodiol         Placebo        
+                   600 mg                            
+                   (N = 322)        (N = 325)        
+                    N                (%)              N                (%)             
+    Body as a Whole                                                                         
+       Fatigue    25               (7.8)            33               (10.2)            
+       Infection Viral  29               (9.0)            29               (8.9)             
+       Influenza-like Symptoms  21               (6.5)            19               (5.8)             
+    Digestive System                                                                         
+       Abdominal Pain  20               (6.2)            39               (12.0)            
+       Constipation  85               (26.4)           72               (22.2)            
+       Diarrhea   81               (25.2)           68               (20.9)            
+       Flatulence  15               (4.7)            24               (7.4)             
+       Nausea     56               (17.4)           43               (13.2)            
+       Vomiting   44               (13.7)           44               (13.5)            
+    Musculoskeletal System                                                                         
+       Back Pain  38               (11.8)           21               (6.5)             
+       Musculoskeletal Pain  19               (5.9)            15               (4.6)             
+    Nervous System                                                                         
+       Dizziness  53               (16.5)           42               (12.9)            
+       Headache   80               (24.8)           78               (24.0)            
+    Respiratory System                                                                         
+       Pharyngitis  10               (3.1)            19               (5.8)             
+       Sinusitis  17               (5.3)            18               (5.5)             
+       Upper Respiratory                                                                       
+         Tract Infection  40               (12.4)           35               (10.8)            
+    Skin and Appendages                                                                         
+       Alopecia   17               (5.3)            8                (2.5)             
+    Urogenital System                                                                         
+       Dysmenorrhea  18               (5.6)            19               (5.8)             
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

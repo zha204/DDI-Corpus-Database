@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="levemir" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse events commonly associated with human insulin therapy include the following:
+
+
+
+   Body as Whole  : allergic reactions (see PRECAUTIONS,  Allergy  ).
+
+
+
+   Skin and Appendages  : lipodystrophy, pruritus, rash. Mild injection site reactions occurred more frequently with LEVEMIR than with NPH human insulin and usually resolved in a few days to a few weeks (see PRECAUTIONS,  Allergy  ).
+
+
+
+   Other:  
+
+
+
+   Hypoglycemia:  (see  WARNINGS  and  PRECAUTIONS  ).
+
+
+
+ In trials of up to 6 months duration in patients with type 1 and type 2 diabetes, the incidence of severe hypoglycemia with LEVEMIR was comparable to the incidence with NPH, and, as expected, greater overall in patients with type 1 diabetes (Table 4).
+
+
+
+   Weight gain:  
+
+
+
+ In trials of up to 6 months duration in patients with type 1 and type 2 diabetes, LEVEMIR was associated with somewhat less weight gain than NPH (Table 4). Whether these observed differences represent true differences in the effects of LEVEMIR and NPH insulin is not known, since these trials were not blinded and the protocols (e.g., diet and exercise instructions and monitoring) were not specifically directed at exploring hypotheses related to weight effects of the treatments compared. The clinical significance of the observed differences has not been established.
+
+
+
+ Table 4: Safety Information on Clinical Studies  
+                                     Weight    (kg)      Hypoglycemia (events/subject/month)     
+                  Treatment        # of subjects  Baseline        End of treatment  Major           Minor            
+   Type 1          
+ Study A          LEVEMIR          N=276         75.0            75.1            0.045           2.184            
+ NPH              N=133            75.7          76.4            0.035           3.063            
+ Study C          LEVEMIR          N=492         76.5            76.3            0.029           2.397            
+ NPH              N=257            76.1          76.5            0.027           2.564            
+ Study D Pediatric  LEVEMIR          N=232         N/A             N/A             0.076           2.677            
+ NPH              N=115            N/A           N/A             0.083           3.203            
+   Type 2          
+ Study E          LEVEMIR          N=237         82.7            83.7            0.001           0.306            
+ NPH              N=239            82.4          85.2            0.006           0.595            
+ Study F          LEVEMIR          N=195         81.8            82.3            0.003           0.193            
+ NPH              N=200            79.6          80.9            0.006           0.235            
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

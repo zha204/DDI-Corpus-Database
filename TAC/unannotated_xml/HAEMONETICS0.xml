@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="haemonetics0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions:
+
+  Donors being reinfused with citrated blood or blood components may experienceside effects due to the presence of citrate. Patients being transfused with the bloodcomponents could also experience a reaction to the citrated blood components.The major symptom experienced by donors is paraesthesia. Should this occur thereinfusion should be stopped or the reinfusion rate decreased. In the event ofinadvertent bolus of the product administer calcium gluconate.
+</Section>
+    <Section name="warnings and precautions" id="S2">    IV. Warnings and Cautions
+
+
+
+    Contraindications:    None known
+ 
+
+     Precautions for use:   Solutions are NOT INTENDED FOR DIRECT INFUSION. Do not use if particulate matter is present or if the solution is cloudy Note:  Some opacity of the plastic container due to moisture absorbance bythe PVC during the sterilization process may be observed. This is normal anddoes not affect the quality or the safety of the product. This white, hazyappearance will diminish gradually over time. This advice only applies to theplastic container. Do not use if the solution itself is cloudy or containsparticulate matter.Do not use if the container is damaged, leaking or if there is any visible signof deterioration. Note:  The over wrap serves as a moisture barrier. Upon removing thesolution bag, small droplets of condensation may be present in thepackaging. This is considered normal. After removing the over wrap gentlysqueeze the inner bag which protects the sterility of the solution. Discard ifany leaks are observed or if an excessive amount of solution is noted withinthe over wrap. Do not reuse solution. Discard any unused or partially used solutions. Protect from sharp objects. Verify that solutions have been appropriately connected to avoid leaks. The set should be loaded and primed for use within 8 hours of the start of the collection. Carry out the apheresis procedure in accordance with the detailedinstructions of the manufacturer of the apheresis device.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

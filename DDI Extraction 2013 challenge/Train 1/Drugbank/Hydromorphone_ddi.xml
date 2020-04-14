@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d26">
+    <sentence id="DDI-DrugBank.d26.s0" text="Patients receiving other narcotic analgesics, general anesthetics, phenothiazines, tranquilizers, sedative-hypnotics, tricyclic antidepressants or other CNS depressants (including alcohol) concomitantly with DILAUDID may exhibit an additive CNS depression.">
+        <entity id="DDI-DrugBank.d26.s0.e0" charOffset="25-42"
+            type="group" text="narcotic analgesic"/>
+        <entity id="DDI-DrugBank.d26.s0.e1" charOffset="54-64"
+            type="group" text="anesthetics"/>
+        <entity id="DDI-DrugBank.d26.s0.e2" charOffset="67-80"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d26.s0.e3" charOffset="83-95"
+            type="group" text="tranquilizers"/>
+        <entity id="DDI-DrugBank.d26.s0.e4" charOffset="98-115"
+            type="group" text="sedative-hypnotics"/>
+        <entity id="DDI-DrugBank.d26.s0.e5" charOffset="118-142"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d26.s0.e6" charOffset="153-167"
+            type="group" text="CNS depressants"/>
+        <entity id="DDI-DrugBank.d26.s0.e7" charOffset="180-186"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d26.s0.e8" charOffset="208-215"
+            type="brand" text="DILAUDID"/>
+        <ddi id="DDI-DrugBank.d26.s0.d0" e1="DDI-DrugBank.d26.s0.e0"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d26.s0.d1" e1="DDI-DrugBank.d26.s0.e1"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d26.s0.d2" e1="DDI-DrugBank.d26.s0.e2"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d26.s0.d3" e1="DDI-DrugBank.d26.s0.e3"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d26.s0.d4" e1="DDI-DrugBank.d26.s0.e4"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d26.s0.d5" e1="DDI-DrugBank.d26.s0.e5"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d26.s0.d6" e1="DDI-DrugBank.d26.s0.e6"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d26.s0.d7" e1="DDI-DrugBank.d26.s0.e7"
+            e2="DDI-DrugBank.d26.s0.e8" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d26.s1" text="When such combined therapy is contemplated, the dose of one or both agents should be reduced."/>
+</document>

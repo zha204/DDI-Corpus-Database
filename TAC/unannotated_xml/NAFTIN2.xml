@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="naftin2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  During clinical trials with Naftin  (r)  Gel, 1%, the incidence of adverse reactions was as follows: burning/stinging (5.0%), itching (1.0%), erythema (0.5%), rash (0.5%), skin tenderness (0.5%).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

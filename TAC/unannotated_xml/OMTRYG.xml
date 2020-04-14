@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="omtryg" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (incidence &gt;3% and greater than placebo) were eructation, dyspepsia, and taste perversion. (  6  )
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Trygg Pharma at 1-855-3-OMTRYG (1-855-366-8794) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse reactions reported in at least 3% and at a greater rate than placebo for patients treated with omega-3-acid ethyl esters based on pooled data across 23 clinical studies are listed in  Table 1  .
+
+
+
+ Table 1. Adverse Reactions Occurring at Incidence &gt;=3% and Greater than Placebo in Clinical Studies of Omega-3-Acid Ethyl Esters 
+ * Studies included subjects with HTG and severe HTG. OMTRYG and omega-3-acid ethyl esters each contain, among other components, at least 900 mg per capsule of ethyl esters from omega-3 fatty acids sourced from fish oils.   
+  
+  Body System                       Omega-3-Acid Ethyl Esters(N = 655)    Placebo(N = 370)    
+  Adverse Reaction*                 n                 %                 n                 %                 
+  Eructation                        29                4                 5                 1                 
+  Dyspepsia                         22                3                 6                 2                 
+  Taste perversion                  27                4                 1                 &lt;1                
+           Additional adverse reactions from clinical studies are listed below:
+ 
+
+   Digestive System  : Constipation, gastrointestinal disorder and vomiting.
+
+
+
+   Metabolic and Nutritional Disorders  : Increased ALT and increased AST.
+
+
+
+   Skin  : Pruritus and rash.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of omega-3-acid ethyl esters. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The following events have been reported: anaphylactic reaction, hemorrhagic diathesis.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    In patients with hepatic impairment, monitor ALT and AST levels periodically during therapy. (  5.1  ) 
+ *    OMTRYG may increase levels of LDL. Monitor LDL levels periodically during therapy. (  5.1  ) 
+ *    Use with caution in patients with known hypersensitivity to fish and/or shellfish. (  5.2  ) 
+ *    There is a possible association between omega-3-acid ethyl esters and more frequent recurrences of symptomatic atrial fibrillation or flutter in patients with paroxysmal or persistent atrial fibrillation, particularly within the first months of initiating therapy. (  5.3  ) 
+    
+ 
+
+   5.1 Monitoring: Laboratory Tests
+
+
+
+  In patients with hepatic impairment, alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels should be monitored periodically during therapy with OMTRYG. In some patients, increases in ALT levels without a concurrent increase in AST levels were observed.
+
+
+
+ In some patients, OMTRYG increases LDL-cholesterol levels. LDL-cholesterol levels should be monitored periodically during therapy with OMTRYG.
+
+
+
+    5.2 Fish Allergy
+
+
+
+  OMTRYG contains ethyl esters of omega-3 fatty acids (EPA and DHA) obtained from the oil of several fish sources. It is not known whether patients with allergies to fish and/or shellfish are at increased risk of an allergic reaction to OMTRYG. OMTRYG should be used with caution in patients with known hypersensitivity to fish and/or shellfish.
+
+
+
+    5.3 Recurrent Atrial Fibrillation (AF) or Flutter
+
+
+
+  In a double-blind, placebo-controlled trial of 663 patients with symptomatic paroxysmal AF (n=542) or persistent AF (n=121), recurrent AF or flutter was observed in patients randomized to omega-3-acid ethyl esters who received 8 capsules/day for 7 days and 4 capsules/day thereafter for 23 weeks at a higher rate relative to placebo. Patients in this trial had median baseline triglycerides of 127 mg/dL, had no substantial structural heart disease, were taking no anti-arrhythmic therapy (rate control permitted), and were in normal sinus rhythm at baseline.
+
+
+
+ At 24 weeks, in the paroxysmal AF stratum, there were 129 (47%) first recurrent symptomatic AF or flutter events on placebo and 141 (53%) on omega-3-acid ethyl esters [primary endpoint, HR 1.19; 95% CI 0.93, 1.35]. In the persistent AF stratum, there were 19 (35%) events on placebo and 34 (52%) events on omega-3-acid ethyl esters [HR 1.63; 95% CI 0.91, 2.18]. For both strata combined, the HR was 1.25; 95% CI 1.00, 1.40. Although the clinical significance of these results is uncertain, there is a possible association between omega-3-acid ethyl esters and more frequent recurrences of symptomatic atrial fibrillation or flutter in patients with paroxysmal or persistent atrial fibrillation, particularly within the first 2 to 3 months of initiating therapy.
+
+
+
+ OMTRYG is not indicated for the treatment of AF or flutter.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

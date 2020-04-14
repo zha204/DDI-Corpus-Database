@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lacrisert" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been reported in patients treated with LACRISERT, but were in most instances mild and transient:Transient blurring of vision (See  PRECAUTIONS  )Ocular discomfort or irritationMatting or stickiness of eyelashesPhotophobiaHypersensitivityEdema of the eyelidsHyperemia
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

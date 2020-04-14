@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="norvir0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling.
+
+
+
+ *  Drug Interactions [see Warnings and Precautions  (5.1)  ]  
+ *  Hepatotoxicity [see Warnings and Precautions  (5.2)  ]  
+ *  Pancreatitis [see Warnings and Precautions  (5.3)  ]  
+ *  Allergic Reactions/Hypersensitivity [see Warnings and Precautions  (5.4)  ]  
+    When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including adverse reactions.
+ 
+
+   EXCERPT:   The most frequently reported adverse drug reactions among patients receiving NORVIR alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia), rash, and fatigue/asthenia  (6.1)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AbbVie Inc. at 1-800-633-9110 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+     Adverse Reactions in Adults  
+
+
+
+ The safety of NORVIR alone and in combination with other antiretroviral agents was studied in 1,755 adult patients. Table 2 lists treatment-emergent Adverse Reactions (with possible or probable relationship to study drug) occurring in greater than or equal to 1% of adult patients receiving NORVIR in combined Phase II/IV studies.
+
+
+
+ The most frequently reported adverse drug reactions among patients receiving NORVIR alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia), rash, and fatigue/asthenia.
+
+
+
+ Table 2. Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to Study Drug) Occurring in greater than or equal to 1% of Adult Patients Receiving NORVIR in Combined Phase II/IV Studies (N = 1,755) 
+   Adverse Reactions          n                          %                         
+   Eye disorders             
+             Blurred vision  113                        6.4                         
+   Gastrointestinal disorders     
+            Abdominal Pain (upper and lower)*  464                        26.4                        
+            Diarrhea including severe with electrolyte imbalance*  1,192                      67.9                        
+            Dyspepsia       201                        11.5                        
+            Flatulence      142                        8.1                         
+            Gastrointestinal hemorrhage*  41                         2.3                         
+            Gastroesophageal reflux disease (GERD)  19                         1.1                         
+            Nausea          1,007                      57.4                        
+            Vomiting*       559                        31.9                        
+   General disorders and administration site conditions     
+            Fatigue including asthenia*  811                        46.2                        
+   Hepatobiliary disorders     
+            Blood bilirubin increased (including jaundice)*  25                         1.4                         
+            Hepatitis (including increased AST, ALT, GGT)*  153                        8.7                         
+   Immune system disorders     
+           Hypersensivity including urticatria and face edema*  114                        8.2                         
+   Metabolism and nutrition disorders     
+            Edema and peripheral edema*  110                        6.3                         
+            Gout*           24                         1.4                         
+            Hypercholesterolemia*  52                         3.0                         
+            Hypertriglyceridemia*  158                        9.0                         
+            Lipodystrophy acquired*  51                         2.9                         
+   Musculoskeletal and connective tissue disorders     
+            Arthralgia and back pain*  326                        18.6                        
+            Myopathy/creatine phosphokinase increased*  66                         3.8                         
+            Myalgia         156                        8.9                         
+   Nervous system disorders     
+            Dizziness*      274                        15.6                        
+            Dysgeusia*      285                        16.2                        
+            Paresthesia (including oral paresthesia)*  889                        50.7                        
+            Peripheral neuropathy  178                        10.1                        
+            Syncope*        58                         3.3                         
+   Psychiatric disorders     
+            Confusion*      52                         3.0                         
+            Disturbance in attention  44                         2.5                         
+   Renal and urinary disorders     
+            Increased urination*  74                         4.2                         
+   Respiratory, thoracic and mediastinal disorders     
+           Coughing*        380                        21.7                        
+           Oropharyngeal Pain*  279                        15.9                        
+   Skin and subcutaneous tissue disorders     
+            Acne*           67                         3.8                         
+            Pruritus*       214                        12.2                        
+            Rash (includes erythematous and maculopapular)*   475                        27.1                        
+   Vascular disorders        
+            Flushing, feeling hot*  232                        13.2                        
+            Hypertension*   58                         3.3                         
+            Hypotension including orthostatic hypotension*  30                         1.7                         
+            Peripheral coldness*  21                         1.2                         
+ * Represents a medical concept including several similar MedDRA PTs   
+        Laboratory Abnormalities in Adults  
+ 
+
+ Table 3 shows the percentage of adult patients who developed marked laboratory abnormalities.
+
+
+
+
+ -   Indicates no events reported.   
+  
+   Table 3. Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities    Occurring in greater than 3% of Patients Receiving NORVIR     
+                                     Study 245    Naive Patients      Study 247    Advanced Patients      Study 462    PI-Naive Patients     
+   Variable         Limit            NORVIR plus    ZDV      NORVIR           ZDV              NORVIR           Placebo          NORVIR plus    Saquinavir     
+     Chemistry          High                           
+ Cholesterol      &gt; 240 mg/dL      30.7             44.8             9.3              36.5             8.0              65.2              
+ CPK              &gt; 1000 IU/L      9.6              12.1             11.0             9.1              6.3              9.9               
+ GGT              &gt; 300 IU/L       1.8              5.2              1.7              19.6             11.3             9.2               
+ SGOT (AST)       &gt; 180 IU/L       5.3              9.5              2.5              6.4              7.0              7.8               
+ SGPT (ALT)       &gt; 215 IU/L       5.3              7.8              3.4              8.5              4.4              9.2               
+ Triglycerides    &gt; 800 mg/dL      9.6              17.2             3.4              33.6             9.4              23.4              
+ Triglycerides    &gt; 1500 mg/dL     1.8              2.6              -                12.6             0.4              11.3              
+ Triglycerides Fasting  &gt; 1500 mg/dL     1.5              1.3              -                9.9              0.3              -                 
+ Uric Acid        &gt; 12 mg/dL       -                -                -                3.8              0.2              1.4               
+     Hematology          Low                            
+ Hematocrit       &lt; 30%            2.6              -                0.8              17.3             22.0             0.7               
+ Hemoglobin       &lt; 8.0 g/dL       0.9              -                -                3.8              3.9              -                 
+ Neutrophils      &lt;= 0.5 x 10  9  /L  -                -                -                6.0              8.3              -                 
+ RBC              &lt; 3.0 x 10  12  /L  1.8              -                5.9              18.6             24.4             -                 
+ WBC              &lt; 2.5 x 10  9  /L  -                0.9              6.8              36.9             59.4             3.5               
+          Adverse Reactions in Pediatric Patients  
+ 
+
+ NORVIR has been studied in 265 pediatric patients greater than 1 month to 21 years of age. The adverse event profile observed during pediatric clinical trials was similar to that for adult patients.
+
+
+
+ Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in greater than or equal to 2% of pediatric patients enrolled in NORVIR clinical trials.
+
+
+
+   Laboratory Abnormalities in Pediatric Patients  
+
+
+
+ The following Grade 3-4 laboratory abnormalities occurred in greater than 3% of pediatric patients who received treatment with NORVIR either alone or in combination with reverse transcriptase inhibitors: neutropenia (9%), hyperamylasemia (7%), thrombocytopenia (5%), anemia (4%), and elevated AST (3%).
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse events have been reported during post-marketing use of NORVIR. Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to NORVIR exposure.
+
+
+
+     Body as a Whole  
+
+
+
+ Dehydration, usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported. Syncope, orthostatic hypotension, and renal insufficiency have also been reported without known dehydration.
+
+
+
+ Co-administration of ritonavir with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
+
+
+
+     Cardiovascular System  
+
+
+
+ First-degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported  [see Warnings and Precautions  (5.5)  ]  .
+
+
+
+ Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazodone, fluoxetine, and beta blockers. The possibility of drug interaction cannot be excluded.
+
+
+
+     Endocrine System  
+
+
+
+ Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co-administered with fluticasone propionate or budesonide.
+
+
+
+     Nervous System  
+
+
+
+ There have been postmarketing reports of seizure. Also, see Cardiovascular System.
+
+
+
+     Skin and subcutaneous tissue disorders  
+
+
+
+ Toxic epidermal necrolysis (TEN) has been reported.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: DRUG-DRUG INTERACTIONS LEADING TO POTENTIALLY SERIOUS AND/OR LIFE THREATENING REACTIONS
+
+  WARNING: DRUG-DRUG INTERACTIONS LEADING TO POTENTIALLY SERIOUS AND/OR LIFE THREATENING REACTIONS
+
+    Co-administration of NORVIR with several classes of drugs including sedative hypnotics, antiarrhythmics, or ergot alkaloid preparations may result in potentially serious and/or life-threatening adverse events due to possible effects of NORVIR on the hepatic metabolism of certain drugs. Review medications taken by patients prior to prescribing NORVIR or when prescribing other medications to patients already taking NORVIR   [see Contraindications   (4)    ,   Warnings and Precautions   (5.1)    ,   Drug  Interactions   (7)    ,    and   Clinical Pharmacology   (12.3)  ]  .  
+
+
+
+   EXCERPT:     WARNING: DRUG-DRUG INTERACTIONS LEADING TO POTENTIALLY SERIOUS AND/OR LIFE THREATENING REACTIONS  
+
+
+
+   See full prescribing information for complete boxed warning  
+
+
+
+   Co-administration of NORVIR with several classes of drugs including sedative hypnotics, antiarrhythmics, or ergot alkaloid preparations may result in potentially serious and/or life-threatening adverse events due to possible effects of NORVIR on the hepatic metabolism of certain drugs. Review medications taken by patients prior to prescribing NORVIR or when prescribing other medications to patients already taking NORVIR [see Contraindications   (4)  , Warnings and Precautions   (5.1)  , Drug  Interactions   (7)  , and Clinical Pharmacology   (12.3)  ].  
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including Warnings and Precautions.
+
+
+
+   EXCERPT:   The following have been observed in patients receiving NORVIR:
+
+
+
+ *  The concomitant use of NORVIR and certain other drugs may result in known or potentially significant drug interactions. Consult the full prescribing information prior to and during treatment for potential drug interactions.  (5.1,    7.2)   
+ *  Hepatic Reactions: Fatalities have occurred. Monitor liver function before and during therapy, especially in patients with underlying hepatic disease, including hepatitis B and hepatitis C, or marked transaminase elevations.  (5.2,    8.6)   
+ *  Pancreatitis: Fatalities have occurred; suspend therapy as clinically appropriate.  (5.3)   
+ *  Allergic Reactions/Hypersensitivity: Allergic reactions have been reported and include anaphylaxis, toxic epidermal necrolysis, Stevens-Johnson syndrome, bronchospasm and angioedema. Discontinue treatment if severe reactions develop.  (5.4,    6.2)   
+ *  PR interval prolongation may occur in some patients. Cases of second and third degree heart block have been reported. Use with caution with patients with preexisting conduction system disease, ischemic heart disease, cardiomyopathy, underlying structural heart disease or when administering with other drugs that may prolong the PR interval.  (5.5,    12.3)   
+ *  Total cholesterol and triglycerides elevations: Monitor prior to therapy and periodically thereafter.  (5.6)   
+ *  Patients may develop new onset or exacerbations of diabetes mellitus, hyperglycemia.  (5.7)   
+ *  Patients may develop immune reconstitution syndrome.  (5.8)   
+ *  Patients may develop redistribution/accumulation of body fat.  (5.9)   
+ *  Hemophilia: Spontaneous bleeding may occur, and additional factor VIII may be required.  (5.10)   
+    
+ 
+
+   5.1 Risk of Serious Adverse Reactions Due to Drug Interactions
+
+
+
+   Initiation of NORVIR, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving NORVIR, may increase plasma concentrations of medications metabolized by CYP3A. Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of NORVIR, respectively. These interactions may lead to:  
+
+
+
+ *   Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.  
+ *   Clinically significant adverse reactions from greater exposures of NORVIR.  
+ *   Loss of therapeutic effect of NORVIR and possible development of resistance.  
+     See Table 4 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions  (7)  ]  . Consider the potential for drug interactions prior to and during NORVIR therapy; review concomitant medications during NORVIR therapy, and monitor for the adverse reactions associated with the concomitant medications [see Contraindications  (4)    and Drug Interactions  (7)  ]  .  
+ 
+
+    5.2 Hepatic Reactions
+
+
+
+  Hepatic transaminase elevations exceeding 5 times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving NORVIR alone or in combination with other antiretroviral drugs (see Table 3). There may be an increased risk for transaminase elevations in patients with underlying hepatitis B or C. Therefore, caution should be exercised when administering NORVIR to patients with pre-existing liver diseases, liver enzyme abnormalities, or hepatitis. Increased AST/ALT monitoring should be considered in these patients, especially during the first three months of NORVIR treatment [see Use In Specific Populations  (8.6)  ]  .
+
+
+
+ There have been postmarketing reports of hepatic dysfunction, including some fatalities. These have generally occurred in patients taking multiple concomitant medications and/or with advanced AIDS.
+
+
+
+    5.3 Pancreatitis
+
+
+
+  Pancreatitis has been observed in patients receiving NORVIR therapy, including those who developed hypertriglyceridemia. In some cases fatalities have been observed. Patients with advanced HIV-1 disease may be at increased risk of elevated triglycerides and pancreatitis [see Warnings and Precautions  (5.8)  ]  . Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur. Patients who exhibit these signs or symptoms should be evaluated and NORVIR therapy should be discontinued if a diagnosis of pancreatitis is made.
+
+
+
+    5.4 Allergic Reactions/Hypersensitivity
+
+
+
+  Allergic reactions including urticaria, mild skin eruptions, bronchospasm, and angioedema have been reported. Cases of anaphylaxis, toxic epidermal necrolysis (TEN), and Stevens-Johnson syndrome have also been reported. Discontinue treatment if severe reactions develop.
+
+
+
+    5.5 PR Interval Prolongation
+
+
+
+  Ritonavir prolongs the PR interval in some patients. Post marketing cases of second or third degree atrioventricular block have been reported in patients.
+
+
+
+ NORVIR should be used with caution in patients with underlying structural heart disease, preexisting conduction system abnormalities, ischemic heart disease, cardiomyopathies, as these patients may be at increased risk for developing cardiac conduction abnormalities.
+
+
+
+ The impact on the PR interval of co-administration of ritonavir with other drugs that prolong the PR interval (including calcium channel blockers, beta-adrenergic blockers, digoxin and atazanavir) has not been evaluated. As a result, co-administration of ritonavir with these drugs should be undertaken with caution, particularly with those drugs metabolized by CYP3A. Clinical monitoring is recommended [see Drug Interactions  (7)    , and Clinical Pharmacology  (12.3)  ]  .
+
+
+
+    5.6 Lipid Disorders
+
+
+
+  Treatment with NORVIR therapy alone or in combination with saquinavir has resulted in substantial increases in the concentration of total cholesterol and triglycerides [see Adverse Reactions  (6.1)  ]  . Triglyceride and cholesterol testing should be performed prior to initiating NORVIR therapy and at periodic intervals during therapy. Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with NORVIR and HMG CoA reductase inhibitors [see Contraindications  (4)    , and Drug Interactions  (7)  ]  .
+
+
+
+    5.7 Diabetes Mellitus/Hyperglycemia
+
+
+
+  New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV-1 infected patients receiving protease inhibitor therapy. Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events. In some cases, diabetic ketoacidosis has occurred. In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases. Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
+
+
+
+    5.8 Immune Reconstitution Syndrome
+
+
+
+  Immune reconstitution syndrome has been reported in HIV-1 infected patients treated with combination antiretroviral therapy, including NORVIR. During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium  infection, cytomegalovirus, Pneumocystis jiroveci  pneumonia (PCP), or tuberculosis), which may necessitate further evaluation and treatment.
+
+
+
+ Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barre syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+
+
+
+    5.9 Fat Redistribution
+
+
+
+  Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy. The mechanism and long-term consequences of these events are currently unknown. A causal relationship has not been established.
+
+
+
+    5.10 Patients with Hemophilia
+
+
+
+  There have been reports of increased bleeding, including spontaneous skin hematomas and hemarthrosis, in patients with hemophilia type A and B treated with protease inhibitors. In some patients additional factor VIII was given. In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced. A causal relationship between protease inhibitor therapy and these events has not been established.
+
+
+
+    5.11 Resistance/Cross-resistance
+
+
+
+  Varying degrees of cross-resistance among protease inhibitors have been observed. Continued administration of ritonavir 600 mg twice daily following loss of viral suppression may increase the likelihood of cross-resistance to other protease inhibitors [see Microbiology  (12.4)  ]  .
+
+
+
+    5.12 Laboratory Tests
+
+
+
+  Ritonavir has been shown to increase triglycerides, cholesterol, SGOT (AST), SGPT (ALT), GGT, CPK, and uric acid. Appropriate laboratory testing should be performed prior to initiating NORVIR therapy and at periodic intervals or if any clinical signs or symptoms occur during therapy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

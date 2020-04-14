@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="kit0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most frequently reported adverse reactions, across all categories of use and routes of administration, include rash, allergic reaction, urticaria, anaphylaxis/anaphylactic shock, and hypotension. Less frequently reported adverse reactions are fatal cardiopulmonary arrest, seizures, dyspnea, bronchospasm, abdominal pain, flushing, nausea, vomiting, itching, fever, chills, perspiration, numbness, and dizziness. Local injection site reactions, including burning, blanching, erythema, sclerosis, swelling, eschar, and scarring, have also been reported.
+
+
+
+   EXCERPT:   The most frequently reported adverse reactions include rash, urticaria, anaphylactic shock, and hypotension. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Pharmalucence Inc. at 1-800-221-7554 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Anaphylactic reactions including rare fatalities have occurred following intravenously administered Technetium Tc 99m Sulfur Colloid. Have resuscitation equipment and personnel immediately available (  5.1  ).
+
+
+
+ 
+
+
+
+   5.1 Anaphylactic Reactions
+
+
+
+  Anaphylactic reactions with bronchospasm, hypotension, urticaria and rare fatalities have occurred following intravenously administered Technetium Tc 99m Sulfur Colloid Injection. Have emergency resuscitation equipment and personnel immediately available.
+
+
+
+    5.2 Radiation Risks
+
+
+
+  Radiation-emitting products, including Technetium Tc 99m Sulfur Colloid Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker.   [see Dosage and Administration (2.3)]    .
+
+
+
+    5.3 Altered Distribution, Accumulation of Tracer in the Lungs
+
+
+
+  Technetium Tc 99m Sulfur Colloid Injection is physically unstable, and the particles will settle with time or with exposure to polyvalent cations. These larger particles are likely to be trapped by the pulmonary capillary bed following intravenous injection and result in non-uniform distribution of radioactivity. Agitate the vial adequately before administration of sulfur colloid to avoid particle aggregation and non-uniform distribution of radioactivity. Discard unused drug after 6 hours from the time of formulation.   [see Dosage and Administration (2.2)]    
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sirturo" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  Increased mortality [see  Warnings and Precautions (5.1)  ]  
+ *  QT Prolongation [see  Warnings and Precautions (5.2)   and   Clinical Pharmacology (12.2)  ]  
+ *  Hepatotoxicity [see  Warnings and Precautions (5.3)  ]  
+ *  Drug Interactions [see  Warnings and Precautions (5.4)  ]  
+   *  The most common adverse reactions reported in 10% or more of patients treated with SIRTURO were nausea, arthralgia, headache, hemoptysis and chest pain. (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Janssen Therapeutics, Division of Janssen Products, LP    at 1-800-JANSSEN (1-800-526-7736    ) or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .    
+ 
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ Adverse drug reactions for SIRTURO were identified from the pooled safety data from 335 SIRTURO-exposed patients who received 8 weeks (Study 2) and 24 weeks (Studies 1 and 3) at the proposed dose. Studies 1 and 2 were randomized, double-blind, placebo-controlled trial in newly diagnosed patients with pulmonary MDR-TB. In both treatment arms, patients received SIRTURO or placebo in combination with other drugs used to treat MDR-TB. Study 3 was an open-label, noncomparative study with SIRTURO administered as part of an individualized pulmonary MDR-TB treatment regimen in previously treated patients.
+
+
+
+ In Study 1, 35% were Black, 17.5% were Hispanic, 12.5% were White, 9.4% were Asian, and 25.6% were of another race. Eight of 79 (10.1%) patients in the SIRTURO group and 16 of 81 (19.8%) patients in the placebo treatment group were HIV-infected. Seven (8.9%) SIRTURO-treated patients and six (7.4%) placebo-treated patients discontinued Study 1 because of an adverse reaction.
+
+
+
+ Table 1: Select Adverse Reactions from Study 1 That Occurred More Frequently Than Placebo During Treatment with SIRTURO 
+ Adverse Reactions                   SIRTURO Treatment GroupN=79n (%)   Placebo Treatment GroupN=81n (%)    
+  
+ Nausea                                          30 (38)                             26 (32)                
+ Arthralgia                                      26 (33)                             18 (22)                
+ Headache                                        22 (28)                             10 (12)                
+ Hemoptysis                                      14 (18)                             9 (11)                 
+ Chest Pain                                       9 (11)                              6 (7)                 
+ Anorexia                                         7 (9)                               3 (4)                 
+ Transaminases Increased                          7 (9)                               1 (1)                 
+ Rash                                             6 (8)                               3 (4)                 
+ Blood Amylase Increased                          2 (3)                               1 (1)                 
+         No additional unique Adverse Reactions were identified from the uncontrolled Study 3.
+ 
+
+ In both Studies 1 and 2, aminotransferase elevations of at least 3 times the upper limit of normal developed more frequently in the SIRTURO treatment group (11/102 [10.8%] vs 6/105 [5.7%]) than in the placebo treatment group. In Study 3, 22/230 (9.6%) patients had alanine aminotransferase or aspartate aminotransferase greater than or equal to 3 times the upper limit of normal during the overall treatment period.
+
+
+
+     Increased Mortality  
+
+
+
+ In Study 1, there was a statistically significant increased mortality risk by Week 120 in the SIRTURO treatment group compared to the placebo treatment group (9/79 (11.4%) versus 2/81 (2.5%), p-value=0.03, an exact 95% confidence interval of the difference [1.1%, 18.2%]). Five of the 9 SIRTURO deaths and the 2 placebo deaths were tuberculosis-related. One death occurred during the 24-week SIRTURO treatment period. The median time to death for the remaining eight subjects in the SIRTURO treatment group was 329 days after last intake of SIRTURO. The imbalance in deaths is unexplained; no discernible pattern between death and sputum conversion, relapse, sensitivity to other drugs used to treat tuberculosis, HIV status, and severity of disease was observed.
+
+
+
+ In the open-label Study 3, 6.9% (16/233) subjects died. The most common cause of death as reported by the investigator was TB (9 subjects). All but one subject who died of TB had not converted or had relapsed. The causes of death in the remaining subjects varied.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS: INCREASED MORTALITY; QT PROLONGATION
+
+  WARNINGS: INCREASED MORTALITY; QT PROLONGATION
+
+  EXCERPT:   WARNINGS: INCREASED MORTALITY; QT PROLONGATION
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   Increased Mortality  
+
+
+
+ *  An increased risk of death was seen in the SIRTURO treatment group (9/79, 11.4%) compared to the placebo treatment group (2/81, 2.5%) in one placebo-controlled trial. Only use SIRTURO when an effective treatment regimen cannot otherwise be provided. (5.1) 
+      QT Prolongation  
+ 
+
+ *  QT prolongation can occur with SIRTURO. Use with drugs that prolong the QT interval may cause additive QT prolongation. Monitor ECGs. Discontinue SIRTURO if significant ventricular arrhythmia or QTcF interval &gt;500 ms develops. (5.2) 
+    
+ 
+
+    Increased Mortality  
+
+
+
+ *  An increased risk of death was seen in the SIRTURO treatment group (9/79, 11.4%) compared to the placebo treatment group (2/81, 2.5%) in one placebo-controlled trial. Only use SIRTURO when an effective treatment regimen cannot otherwise be provided [see Indications and Usage (1) and Warnings and Precautions (5.1)]. 
+        QT Prolongation  
+ 
+
+ *  QT prolongation can occur with SIRTURO. Use with drugs that prolong the QT interval may cause additive QT prolongation. Monitor ECGs. Discontinue SIRTURO if significant ventricular arrhythmia or if QTcF interval prolongation of greater than 500 ms develops [see Warnings and Precautions (5.2)]. 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  QT prolongation can occur with SIRTURO. Monitor ECGs and discontinue SIRTURO if significant ventricular arrhythmia or QTcF interval &gt; 500 ms develops. (  5.2  ) 
+ *  Hepatotoxicity may occur with use of SIRTURO. Monitor liver-related laboratory tests. Discontinue if evidence of liver injury. (  5.3  ) 
+    
+ 
+
+   5.1 Increased Mortality
+
+
+
+  An increased risk of death was seen in the SIRTURO treatment group (9/79, 11.4%) compared to the placebo treatment group (2/81, 2.5%) in one placebo-controlled trial (based on the 120-week visit window). One death occurred during the 24 weeks of administration of SIRTURO. The imbalance in deaths is unexplained. No discernible pattern between death and sputum culture conversion, relapse, sensitivity to other drugs used to treat tuberculosis, HIV status, or severity of disease could be observed. Only use SIRTURO when an effective treatment regimen cannot otherwise be provided [see  Adverse Reactions (6)  ]  .
+
+
+
+    5.2 QT Prolongation
+
+
+
+  SIRTURO prolongs the QT interval. Obtain an ECG before initiation of treatment, and at least 2, 12, and 24 weeks after starting treatment with SIRTURO. Obtain serum potassium, calcium, and magnesium at baseline and correct if abnormal. Monitor electrolytes if QT prolongation is detected [see  Adverse Reactions (6.1)    and   Drug Interactions (7.4)  ]  . SIRTURO has not been studied in patients with ventricular arrhythmias or recent myocardial infarction.
+
+
+
+ The following may increase the risk for QT prolongation when patients are receiving SIRTURO:
+
+
+
+ *  use with other QT prolonging drugs including fluoroquinolones and macrolide antibacterial drugs and the antimycobacterial drug, clofazimine 
+ *  a history of Torsade de Pointes 
+ *  a history of congenital long QT syndrome 
+ *  a history of or ongoing hypothyroidism 
+ *  a history of or ongoing bradyarrhythmias 
+ *  a history of uncompensated heart failure 
+ *  serum calcium, magnesium, or potassium levels below the lower limits of normal 
+    If necessary, bedaquiline treatment initiation could be considered in these patients after a favorable benefit risk assessment and with frequent ECG monitoring.
+ 
+
+ Discontinue SIRTURO and all other QT prolonging drugs if the patient develops:
+
+
+
+ *  Clinically significant ventricular arrhythmia 
+ *  A QTcF interval of greater than 500 ms (confirmed by repeat ECG) 
+    If syncope occurs, obtain an ECG to detect QT prolongation.
+ 
+
+    5.3 Hepatotoxicity
+
+
+
+  More hepatic-related adverse reactions were reported with the use of SIRTURO plus other drugs used to treat tuberculosis compared to other drugs used to treat tuberculosis without the addition of SIRTURO. Alcohol and other hepatotoxic drugs should be avoided while on SIRTURO, especially in patients with impaired hepatic function.
+
+
+
+ Monitor symptoms (such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness and hepatomegaly) and laboratory tests (ALT, AST, alkaline phosphatase, and bilirubin) at baseline, monthly while on treatment, and as needed. Test for viral hepatitis and discontinue other hepatotoxic medications if evidence of new or worsening liver dysfunction occurs. Discontinue SIRTURO if:
+
+
+
+ *  aminotransferase elevations are accompanied by total bilirubin elevation greater than two times the upper limit of normal 
+ *  aminotransferase elevations are greater than eight times the upper limit of normal 
+ *  aminotransferase elevations are greater than five times the upper limit of normal and persist beyond two weeks 
+       5.4 Drug Interactions
+ 
+
+   CYP3A4 inducers/inhibitors  
+
+
+
+ Bedaquiline is metabolized by CYP3A4 and its systemic exposure and therapeutic effect may therefore be reduced during co-administration with inducers of CYP3A4. Avoid co-administration of strong CYP3A4 inducers, such as rifamycins (i.e., rifampin, rifapentine and rifabutin), or moderate CYP3A4 inducers, such as efavirenz, during treatment with SIRTURO [see  Drug Interactions (7.1)  ]  .
+
+
+
+ Co-administration of SIRTURO with strong CYP3A4 inhibitors may increase the systemic exposure to bedaquiline, which could potentially increase the risk of adverse reactions. Therefore, avoid the use of strong CYP3A4 inhibitors for more than 14 consecutive days while on SIRTURO, unless the benefit of treatment with the drug combination outweighs the risk [see  Drug Interactions (7.1)  ]  . Appropriate clinical monitoring for SIRTURO-related adverse reactions is recommended.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="115" len="19" str="Increased mortality" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="181" len="15" str="QT Prolongation" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="280" len="14" str="Hepatotoxicity" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="503" len="6" str="nausea" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="511" len="10" str="arthralgia" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="523" len="8" str="headache" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="533" len="10" str="hemoptysis" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="548" len="10" str="chest pain" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="2343" len="6" str="Nausea" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="2452" len="10" str="Arthralgia" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="2561" len="8" str="Headache" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="2670" len="10" str="Hemoptysis" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="2779" len="10" str="Chest Pain" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="2888" len="8" str="Anorexia" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="2997" len="23" str="Transaminases Increased" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="3106" len="4" str="Rash" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="3215" len="23" str="Blood Amylase Increased" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="3447" len="27" str="aminotransferase elevations" />
+    <Mention id="M19" section="S1" type="Severity" start="3487" len="33" str="3 times the upper limit of normal" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="3687,3767" len="24,33" str="alanine aminotransferase 3 times the upper limit of normal" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="3715,3767" len="26,33" str="aspartate aminotransferase 3 times the upper limit of normal" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="3922" len="19" str="increased mortality" />
+    <Mention id="M23" section="S1" type="Factor" start="3942" len="4" str="risk" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="4167" len="6" str="deaths" />
+    <Mention id="M25" section="S1" type="Factor" start="4184" len="7" str="placebo" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="4192" len="6" str="deaths" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="4230" len="5" str="death" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="4309" len="5" str="death" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="4439" len="6" str="deaths" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="4493" len="5" str="death" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="4690" len="4" str="died" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="4721" len="5" str="death" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="4804" len="4" str="died" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="4864" len="5" str="death" />
+    <Mention id="M35" section="S2" type="AdverseReaction" start="31" len="19" str="INCREASED MORTALITY" />
+    <Mention id="M36" section="S2" type="AdverseReaction" start="52" len="15" str="QT PROLONGATION" />
+    <Mention id="M37" section="S2" type="AdverseReaction" start="81" len="19" str="INCREASED MORTALITY" />
+    <Mention id="M38" section="S2" type="AdverseReaction" start="102" len="15" str="QT PROLONGATION" />
+    <Mention id="M39" section="S2" type="AdverseReaction" start="142" len="19" str="INCREASED MORTALITY" />
+    <Mention id="M40" section="S2" type="AdverseReaction" start="163" len="15" str="QT PROLONGATION" />
+    <Mention id="M41" section="S2" type="Factor" start="296" len="4" str="risk" />
+    <Mention id="M42" section="S2" type="AdverseReaction" start="304" len="5" str="death" />
+    <Mention id="M43" section="S2" type="AdverseReaction" start="571" len="15" str="QT prolongation" />
+    <Mention id="M44" section="S2" type="Factor" start="587" len="3" str="can" />
+    <Mention id="M45" section="S2" type="Factor" start="655" len="3" str="may" />
+    <Mention id="M46" section="S2" type="AdverseReaction" start="674" len="15" str="QT prolongation" />
+    <Mention id="M47" section="S2" type="Factor" start="859" len="4" str="risk" />
+    <Mention id="M48" section="S2" type="AdverseReaction" start="867" len="5" str="death" />
+    <Mention id="M49" section="S2" type="AdverseReaction" start="1197" len="15" str="QT prolongation" />
+    <Mention id="M50" section="S2" type="Factor" start="1213" len="3" str="can" />
+    <Mention id="M51" section="S2" type="Factor" start="1281" len="3" str="may" />
+    <Mention id="M52" section="S2" type="AdverseReaction" start="1291" len="24" str="additive QT prolongation" />
+    <Mention id="M53" section="S3" type="AdverseReaction" start="52" len="15" str="QT prolongation" />
+    <Mention id="M54" section="S3" type="Factor" start="68" len="3" str="can" />
+    <Mention id="M55" section="S3" type="AdverseReaction" start="218" len="14" str="Hepatotoxicity" />
+    <Mention id="M56" section="S3" type="Factor" start="233" len="3" str="may" />
+    <Mention id="M57" section="S3" type="Factor" start="409" len="4" str="risk" />
+    <Mention id="M58" section="S3" type="AdverseReaction" start="417" len="5" str="death" />
+    <Mention id="M59" section="S3" type="AdverseReaction" start="604" len="5" str="death" />
+    <Mention id="M60" section="S3" type="AdverseReaction" start="686" len="6" str="deaths" />
+    <Mention id="M61" section="S3" type="AdverseReaction" start="740" len="5" str="death" />
+    <Mention id="M62" section="S3" type="AdverseReaction" start="1051" len="24" str="prolongs the QT interval" />
+    <Mention id="M63" section="S3" type="Factor" start="1538" len="4" str="risk" />
+    <Mention id="M64" section="S3" type="AdverseReaction" start="1547" len="15" str="QT prolongation" />
+    <Mention id="M65" section="S3" type="AdverseReaction" start="2523" len="33" str="hepatic-related adverse reactions" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M18" arg2="M19" />
+    <Relation id="RL2" type="Hypothetical" arg1="M22" arg2="M23" />
+    <Relation id="RL3" type="Negated" arg1="M26" arg2="M25" />
+    <Relation id="RL4" type="Hypothetical" arg1="M42" arg2="M41" />
+    <Relation id="RL5" type="Hypothetical" arg1="M43" arg2="M44" />
+    <Relation id="RL6" type="Hypothetical" arg1="M46" arg2="M45" />
+    <Relation id="RL7" type="Hypothetical" arg1="M48" arg2="M47" />
+    <Relation id="RL8" type="Hypothetical" arg1="M49" arg2="M50" />
+    <Relation id="RL9" type="Hypothetical" arg1="M52" arg2="M51" />
+    <Relation id="RL10" type="Hypothetical" arg1="M53" arg2="M54" />
+    <Relation id="RL11" type="Hypothetical" arg1="M55" arg2="M56" />
+    <Relation id="RL12" type="Hypothetical" arg1="M58" arg2="M57" />
+    <Relation id="RL13" type="Hypothetical" arg1="M64" arg2="M63" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="increased mortality">
+      <Normalization id="AR1.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR2" str="qt prolongation">
+      <Normalization id="AR2.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="QT prolonged" meddra_llt_id="10037705" />
+    </Reaction>
+    <Reaction id="AR3" str="hepatotoxicity">
+      <Normalization id="AR3.N1" meddra_pt="Hepatotoxicity" meddra_pt_id="10019851" />
+    </Reaction>
+    <Reaction id="AR4" str="nausea">
+      <Normalization id="AR4.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR5" str="arthralgia">
+      <Normalization id="AR5.N1" meddra_pt="Arthralgia" meddra_pt_id="10003239" />
+    </Reaction>
+    <Reaction id="AR6" str="headache">
+      <Normalization id="AR6.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR7" str="hemoptysis">
+      <Normalization id="AR7.N1" meddra_pt="Haemoptysis" meddra_pt_id="10018964" meddra_llt="Hemoptysis" meddra_llt_id="10019523" />
+    </Reaction>
+    <Reaction id="AR8" str="chest pain">
+      <Normalization id="AR8.N1" meddra_pt="Chest pain" meddra_pt_id="10008479" />
+    </Reaction>
+    <Reaction id="AR9" str="anorexia">
+      <Normalization id="AR9.N1" meddra_pt="Decreased appetite" meddra_pt_id="10061428" meddra_llt="Anorexia" meddra_llt_id="10002646" />
+    </Reaction>
+    <Reaction id="AR10" str="transaminases increased">
+      <Normalization id="AR10.N1" meddra_pt="Transaminases increased" meddra_pt_id="10054889" />
+    </Reaction>
+    <Reaction id="AR11" str="rash">
+      <Normalization id="AR11.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR12" str="blood amylase increased">
+      <Normalization id="AR12.N1" meddra_pt="Amylase increased" meddra_pt_id="10002016" meddra_llt="Blood amylase increased" meddra_llt_id="10005328" />
+    </Reaction>
+    <Reaction id="AR13" str="aminotransferase elevations">
+      <Normalization id="AR13.N1" meddra_pt="Transaminases increased" meddra_pt_id="10054889" />
+    </Reaction>
+    <Reaction id="AR14" str="alanine aminotransferase 3 times the upper limit of normal">
+      <Normalization id="AR14.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" />
+    </Reaction>
+    <Reaction id="AR15" str="aspartate aminotransferase 3 times the upper limit of normal">
+      <Normalization id="AR15.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" />
+    </Reaction>
+    <Reaction id="AR16" str="deaths">
+      <Normalization id="AR16.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR17" str="death">
+      <Normalization id="AR17.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR18" str="died">
+      <Normalization id="AR18.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR19" str="additive qt prolongation">
+      <Normalization id="AR19.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" />
+    </Reaction>
+    <Reaction id="AR20" str="prolongs the qt interval">
+      <Normalization id="AR20.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="QT interval prolonged" meddra_llt_id="10037703" />
+    </Reaction>
+    <Reaction id="AR21" str="hepatic-related adverse reactions">
+      <Normalization id="AR21.N1" meddra_pt="Hepatic function abnormal" meddra_pt_id="10019670" />
+    </Reaction>
+  </Reactions>
+</Label>

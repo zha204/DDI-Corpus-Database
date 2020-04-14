@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dyrenium" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse effects are listed in decreasing order of frequency; however, the most serious adverse effects are listed first, regardless of frequency. All adverse effects occur rarely (that is, 1 in 1000, or less).
+
+
+
+ Hypersensitivity: anaphylaxis, rash, photosensitivity.
+
+
+
+ Metabolic: hyperkalemia, hypokalemia.
+
+
+
+ Renal: azotemia, elevated BUN and creatinine, renal stones, acute interstitial nephritis (rare), acute renal failure (one case of irreversible renal failure has been reported).
+
+
+
+ Gastrointestinal: jaundice and/or liver enzyme abnormalities, nausea and vomiting, diarrhea.
+
+
+
+ Hematologic: thrombocytopenia, megaloblastic anemia.
+
+
+
+ Central Nervous System: weakness, fatigue, dizziness, headache, dry mouth.
+
+
+
+
+  To report SUSPECTED ADVERSE REACTIONS, contact WellSpring Pharmaceutical Corporation at 1-866-337-4500 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.     
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: Warnings
+
+    Warnings  
+
+  Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-sparing agents, including Dyrenium. Hyperkalemia is more likely to occur in patients with renal impairment and diabetes (even without evidence of renal impairment), and in the elderly or severely ill. Since uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients receiving Dyrenium, when dosages are changed or with any illness that may influence renal function.
+
+
+
+ 
+
+
+
+
+
+    BOXED WARNING: CONTRAINDICATIONS
+
+    CONTRAINDICATIONS  
+
+  Anuria. Severe or progressive kidney disease or dysfunction, with the possible exception of nephrosis. Severe hepatic disease. Hypersensitivity to the drug or any of its components.
+
+
+
+ Dyrenium (triamterene) should not be used in patients with pre-existing elevated serum potassium, as is sometimes seen in patients with impaired renal function or azotemia, or in patients who develop hyperkalemia while on the drug. Patients should not be placed on dietary potassium supplements, potassium salts or potassium-containing salt substitutes in conjunction with Dyrenium.
+
+
+
+ Dyrenium should not be given to patients receiving other potassium-sparing agents, such as spironolactone, amiloride hydrochloride, or other formulations containing triamterene. Two deaths have been reported in patients receiving concomitant spironolactone and Dyrenium or Dyazide  (r)  . Although dosage recommendations were exceeded in one case and in the other serum electrolytes were not properly monitored, these two drugs should not be given concomitantly.
+
+
+
+     WARNINGS  
+
+  Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-sparing agents, including Dyrenium. Hyperkalemia is more likely to occur in patients with renal impairment and diabetes (even without evidence of renal impairment), and in the elderly or severely ill. Since uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients receiving Dyrenium, when dosages are changed or with any illness that may influence renal function.
+</Section>
+    <Section name="warnings and precautions" id="S3">    
+
+
+
+  There have been isolated reports of hypersensitivity reactions; therefore, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver damage or other idiosyncratic reactions.
+
+
+
+ Periodic BUN and serum potassium determinations should be made to check kidney function, especially in patients with suspected or confirmed renal insufficiency. It is particularly important to make serum potassium determinations in elderly or diabetic patients receiving the drug; these patients should be observed carefully for possible serum potassium increases.
+
+
+
+ If hyperkalemia is present or suspected, an electrocardiogram should be obtained. If the ECG shows no widening of the QRS or arrhythmia in the presence of hyperkalemia, it is usually sufficient to discontinue Dyrenium (triamterene) and any potassium supplementation, and substitute a thiazide alone. Sodium polystyrene sulfonate (Kayexalate  (r)  , Sanofi Synthelabo) may be administered to enhance the excretion of excess potassium. The presence of a widened QRS complex or arrhythmia in association with hyperkalemia requires prompt additional therapy.  For tachyarrhythmia, infuse 44 mEq of sodium bicarbonate or 10 mL of 10% calcium gluconate or calcium chloride over several minutes. For asystole, bradycardia or A-V block transvenous pacing is also recommended.
+
+
+
+ The effect of calcium and sodium bicarbonate is transient and repeated administration may be required. When indicated by the clinical situation, excess K+ may be removed by dialysis or oral or rectal administration of Kayexalate  (r)  . Infusion of glucose and insulin has also been used to treat hyperkalemia.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

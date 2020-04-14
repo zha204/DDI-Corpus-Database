@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="neuraceq" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  
+
+
+
+   EXCERPT:   The most commonly reported adverse reactions were: injection site reaction consisting of erythema (1.7 %), irritation (1.2 %), and pain (3.9 %).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Piramal at 1-855-545-5245 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rate observed in clinical practice.
+
+
+
+ The overall safety profile of Neuraceq is based on data from 978 administrations of Neuraceq to 872 subjects and 12 subjects who received vehicle only. No serious adverse reactions related to Neuraceq administration have been reported. The most frequently observed adverse drug reactions in subjects receiving Neuraceq were injection site reactions consisting of erythema, irritation and pain. All adverse reactions were mild to moderate in severity and of short duration. The most commonly reported adverse reactions (occurring in at least 0.5% of subjects) during Neuraceq clinical trials are shown in Table 2.
+
+
+
+ Table 2 Adverse Reactions with a Frequency &gt;=0.5% Reported in Clinical Trials (n = 978 Administrations in 872 Subjects) 
+   Adverse drug reaction      n (%)                     
+ Injection / application site erythema  17 (1.7)                    
+ Injection site irritation  12 (1.2)                    
+ Injection site pain        38 (3.9)                    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  
+
+
+
+   EXCERPT:    Image interpretation errors (especially false positives) have been observed (  5.1  ).
+
+
+
+  Neuraceq, like all radiopharmaceuticals, contributes to a patient's long-term cumulative radiation exposure. Ensure safe handling to protect patients and health care workers from unintentional radiation exposure (  5.2  ).
+
+
+
+ 
+
+
+
+   5.1 Risk for Image Misinterpretation and Other Errors
+
+
+
+  Errors may occur in the Neuraceq estimation of brain neuritic beta-amyloid plaque density during image interpretation [ see  Clinical Studies (14)    ]. Image interpretation should be performed independently of the patient's clinical information. The use of clinical information in the interpretation of Neuraceq images has not been evaluated and may lead to errors. Errors may also occur in cases with severe brain atrophy that limits the ability to distinguish gray and white matter on the Neuraceq scan. Errors may also occur due to motion artifacts that result in image distortion. Neuraceq scan results are indicative of the presence of brain neuritic beta-amyloid plaques only at the time of image acquisition and a negative scan result does not preclude the development of brain neuritic beta-amyloid plaques in the future.
+
+
+
+    5.2 Radiation Risk
+
+
+
+  Neuraceq, similar to other radiopharmaceuticals, contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Ensure safe handling to protect patients and health care workers from unintentional radiation exposure [ see  Dosage and Administration (2.1)    ].
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="96" len="23" str="injection site reaction" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="96,134" len="14,8" str="injection site erythema" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="96,152" len="14,10" str="injection site irritation" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="96,176" len="14,4" str="injection site pain" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="963" len="24" str="injection site reactions" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="963,1002" len="14,8" str="injection site erythema" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="963,1012" len="14,10" str="injection site irritation" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="963,1027" len="14,4" str="injection site pain" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="1435,1459" len="9,13" str="Injection site erythema" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="1447" len="25" str="application site erythema" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="1504" len="25" str="Injection site irritation" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="1561" len="19" str="Injection site pain" />
+    <Mention id="M13" section="S2" type="AdverseReaction" start="215" len="39" str="long-term cumulative radiation exposure" />
+    <Mention id="M14" section="S2" type="AdverseReaction" start="1386" len="39" str="long-term cumulative radiation exposure" />
+    <Mention id="M15" section="S2" type="AdverseReaction" start="1427" len="39" str="Long-term cumulative radiation exposure" />
+    <Mention id="M16" section="S2" type="Factor" start="1499" len="4" str="risk" />
+    <Mention id="M17" section="S2" type="AdverseReaction" start="1507" len="6" str="cancer" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M17" arg2="M16" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="injection site reaction">
+      <Normalization id="AR1.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR2" str="injection site erythema">
+      <Normalization id="AR2.N1" meddra_pt="Injection site erythema" meddra_pt_id="10022061" />
+    </Reaction>
+    <Reaction id="AR3" str="injection site irritation">
+      <Normalization id="AR3.N1" meddra_pt="Injection site irritation" meddra_pt_id="10022079" />
+    </Reaction>
+    <Reaction id="AR4" str="injection site pain">
+      <Normalization id="AR4.N1" meddra_pt="Injection site pain" meddra_pt_id="10022086" />
+    </Reaction>
+    <Reaction id="AR5" str="injection site reactions">
+      <Normalization id="AR5.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR6" str="application site erythema">
+      <Normalization id="AR6.N1" meddra_pt="Application site erythema" meddra_pt_id="10003041" />
+    </Reaction>
+    <Reaction id="AR7" str="long-term cumulative radiation exposure">
+      <Normalization id="AR7.N1" meddra_pt="Exposure to radiation" meddra_pt_id="10073306" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR8" str="cancer">
+      <Normalization id="AR8.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" meddra_llt="Cancer" meddra_llt_id="10007050" />
+    </Reaction>
+  </Reactions>
+</Label>

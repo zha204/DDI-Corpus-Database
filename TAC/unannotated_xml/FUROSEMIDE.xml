@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="furosemide" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions are categorized below by organ system and listed by decreasing severity.
+
+
+
+   Gastrointestinal System Reactions  
+
+
+
+ *  Pancreatitis 
+ *  Jaundice (intrahepatic cholestatic jaundice) 
+ *  Anorexia 
+ *  Oral and gastric irritation 
+ *  Cramping 
+ *  Diarrhea 
+ *  Constipation 
+ *  Nausea 
+ *  Vomiting 
+      Systemic Hypersensitivity Reactions  
+ 
+
+ *  Systemic vasculitis 
+ *  Interstitial nephritis 
+ *  Necrotizing angiitis 
+      Central Nervous System Reactions  
+ 
+
+ *  Tinnitus and hearing loss 
+ *  Paresthesias 
+ *  Vertigo 
+ *  Dizziness 
+ *  Headache 
+ *  Blurred vision 
+ *  Xanthopsia 
+      Hematologic Reactions  
+ 
+
+ *  Aplastic anemia (rare) 
+ *  Thrombocytopenia 
+ *  Agranulocytosis (rare) 
+ *  Hemolytic anemia 
+ *  Leukopenia 
+ *  Anemia 
+      Dermatologic-Hypersensitivity Reactions  
+ 
+
+ *  Exfoliative dermatitis 
+ *  Erythema multiforme 
+ *  Purpura 
+ *  Photosensitivity 
+ *  Urticaria 
+ *  Rash 
+ *  Pruritus 
+      Cardiovascular Reaction  
+ 
+
+ Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics.
+
+
+
+   Other Reactions  
+
+
+
+ *  Hyperglycemia 
+ *  Glycosuria 
+ *  Hyperuricemia 
+ *  Muscle spasm 
+ *  Weakness 
+ *  Restlessness 
+ *  Urinary bladder spasm 
+ *  Thrombophlebitis 
+ *  Transient injection site pain following intramuscular injection 
+ *  Fever 
+    Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+    Furosemide is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion. Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient's needs. (See   "DOSAGE AND ADMINISTRATION"  .)  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

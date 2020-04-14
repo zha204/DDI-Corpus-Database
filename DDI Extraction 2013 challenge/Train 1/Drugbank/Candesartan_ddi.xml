@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d547">
+    <sentence id="DDI-DrugBank.d547.s0" text="No significant drug interactions have been reported in studies of candesartan cilexetil given with other drugs such as glyburide, nifedipine, digoxin, warfarin, hydrochlorothiazide, and oral contraceptives in healthy volunteers, or given with enalapril to patients with heart failure (NYHA class II and III).">
+        <entity id="DDI-DrugBank.d547.s0.e0" charOffset="66-86"
+            type="drug" text="candesartan cilexetil"/>
+        <entity id="DDI-DrugBank.d547.s0.e1" charOffset="119-127"
+            type="drug" text="glyburide"/>
+        <entity id="DDI-DrugBank.d547.s0.e2" charOffset="130-139"
+            type="drug" text="nifedipine"/>
+        <entity id="DDI-DrugBank.d547.s0.e3" charOffset="142-148"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d547.s0.e4" charOffset="151-158"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d547.s0.e5" charOffset="161-179"
+            type="drug" text="hydrochlorothiazide"/>
+        <entity id="DDI-DrugBank.d547.s0.e6" charOffset="191-204"
+            type="group" text="contraceptives"/>
+        <entity id="DDI-DrugBank.d547.s0.e7" charOffset="243-251"
+            type="drug" text="enalapril"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d547.s1" text="Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.">
+        <entity id="DDI-DrugBank.d547.s1.e0" charOffset="8-18"
+            type="drug" text="candesartan"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d547.s2" text="Lithium Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists.">
+        <entity id="DDI-DrugBank.d547.s2.e0" charOffset="0-6"
+            type="drug" text="Lithium"/>
+        <entity id="DDI-DrugBank.d547.s2.e1" charOffset="38-44"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d547.s2.e2" charOffset="130-136"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d547.s2.e3" charOffset="143-156"
+            type="group" text="ACE inhibitors"/>
+        <entity id="DDI-DrugBank.d547.s2.e4" charOffset="173-207"
+            type="group" text="angiotensin II receptor antagonists"/>
+        <ddi id="DDI-DrugBank.d547.s2.d0" e1="DDI-DrugBank.d547.s2.e2"
+            e2="DDI-DrugBank.d547.s2.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d547.s2.d1" e1="DDI-DrugBank.d547.s2.e2"
+            e2="DDI-DrugBank.d547.s2.e4" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d547.s3" text="An increase in serum lithium concentration has been reported during concomitant administration of lithium with ATACAND, so careful monitoring of serum lithium levels is recommended during concomitant use.">
+        <entity id="DDI-DrugBank.d547.s3.e0" charOffset="21-27"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d547.s3.e1" charOffset="98-104"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d547.s3.e2" charOffset="111-117"
+            type="brand" text="ATACAND"/>
+        <entity id="DDI-DrugBank.d547.s3.e3" charOffset="151-157"
+            type="drug" text="lithium"/>
+        <ddi id="DDI-DrugBank.d547.s3.d0" e1="DDI-DrugBank.d547.s3.e1"
+            e2="DDI-DrugBank.d547.s3.e2" type="mechanism"/>
+    </sentence>
+</document>

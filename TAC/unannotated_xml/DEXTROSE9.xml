@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dextrose9" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation, and hypervolemia.
+
+
+
+ The physician should also be alert to the possibility of adverse reactions to drug additives diluted and administered from the plastic partial fill container. Prescribing information for drug additives to be administered in this manner should be consulted.
+
+
+
+ If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination if deemed necessary.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

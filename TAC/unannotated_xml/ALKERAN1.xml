@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="alkeran1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS (SEE OVERDOSAGE)
+
+  The following information on adverse reactions is based on data from both oral and IV administration of melphalan as a single agent, using several different dose schedules for treatment of a wide variety of malignancies.
+
+
+
+   Hematologic
+
+  The most common side effect is bone marrow suppression leading to leukopenia, thrombocytopenia, and anemia. White blood cell count and platelet count nadirs usually occur 2 to 3 weeks after treatment, with recovery in 4 to 5 weeks after treatment. Irreversible bone marrow failure has been reported.
+
+
+
+   Gastrointestinal
+
+  Gastrointestinal disturbances such as nausea and vomiting, diarrhea, and oral ulceration occur infrequently. Hepatic disorders ranging from abnormal liver function tests to clinical manifestations such as hepatitis and jaundice have been reported. Hepatic veno-occlusive disease has been reported.
+
+
+
+   Hypersensitivity
+
+  Acute hypersensitivity reactions including anaphylaxis were reported in 2.4% of 425 patients receiving ALKERAN for Injection for myeloma (see WARNINGS). These reactions were characterized by urticaria, pruritus, edema, skin rashes, and in some patients, tachycardia, bronchospasm, dyspnea, and hypotension. These patients appeared to respond to antihistamine and corticosteroid therapy. If a hypersensitivity reaction occurs, IV or oral melphalan should not be readministered since hypersensitivity reactions have also been reported with oral melphalan. Cardiac arrest has also been reported rarely in association with such reports.
+
+
+
+   Miscellaneous
+
+  Other reported adverse reactions include skin hypersensitivity, skin ulceration at injection site, skin necrosis rarely requiring skin grafting, maculopapular rashes, vasculitis, alopecia, hemolytic anemia, allergic reaction, pulmonary fibrosis (including fatal outcomes), and interstitial pneumonitis. Temporary significant elevation of the blood urea has been seen in the early stages of therapy in patients with renal damage. Subjective and transient sensation of warmth and/or tingling.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  Melphalan should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Severe bone marrow suppression with resulting infection or bleeding may occur. Controlled trials comparing intravenous (IV) to oral melphalan have shown more myelosuppression with the IV formulation. Hypersensitivity reactions, including anaphylaxis, have occurred in approximately 2% of patients who received the IV formulation. Melphalan is leukemogenic in humans. Melphalan produces chromosomal aberrations in vitro and in vivo and, therefore, should be considered potentially mutagenic in humans.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="quelicin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions to succinylcholine consist primarily of an extension of its pharmacological actions. Succinylcholine causes profound muscle relaxation resulting in respiratory depression to the point of apnea; this effect may be prolonged. Hypersensitivity reactions, including anaphylaxis, may occur in rare instances. The following additional adverse reactions have been reported: cardiac arrest, malignant hyperthermia, arrhythmias, bradycardia, tachycardia, hypertension, hypotension, hyperkalemia, prolonged respiratory depression or apnea, increased intraocular pressure, muscle fasciculation, jaw rigidity, postoperative muscle pain, rhabdomyolysis with possible myoglobinuric acute renal failure, excessive salivation, and rash.
+
+
+
+ There have been post-marketing reports of severe allergic reactions (anaphylactic and anaphylactoid reactions) associated with use of neuromuscular blocking agents, including succinylcholine. These reactions, in some cases, have been life threatening and fatal. Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (See        WARNINGS        and        PRECAUTIONS        ).
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+      RISK OF CARDIAC ARREST FROM HYPERKALEMIC RHABDOMYOLYSIS    
+
+
+
+ There have been rare reports of acute rhabdomyolysis with hyperkalemia followed by ventricular dysrhythmias, cardiac arrest and death after the administration of succinylcholine to apparently healthy pediatric patients who were subsequently found to have undiagnosed skeletal muscle myopathy, most frequently Duchenne's muscular dystrophy.
+
+
+
+ This syndrome often presents as peaked T-waves and sudden cardiac arrest within minutes after the administration of the drug in healthy appearing pediatric patients (usually, but not exclusively, males, and most frequently 8 years of age or younger). There have also been reports in adolescents.
+
+
+
+ Therefore, when a healthy appearing infant or child develops cardiac arrest soon after administration of succinylcholine, not felt to be due to inadequate ventilation, oxygenation or anesthetic overdose, immediate treatment for hyperkalemia should be instituted. This should include administration of intravenous calcium, bicarbonate, and glucose with insulin, with hyperventilation. Due to the abrupt onset of this syndrome, routine resuscitative measures are likely to be unsuccessful. However, extraordinary and prolonged resuscitative efforts have resulted in successful resuscitation in some reported cases. In addition, in the presence of signs of malignant hyperthermia, appropriate treatment should be instituted concurrently.
+
+
+
+ Since there may be no signs or symptoms to alert the practitioner to which patients are at risk, it is recommended that the use of succinylcholine in pediatric patients should be reserved for emergency intubation or instances where immediate securing of the airway is necessary, e.g., laryngospasm, difficult airway, full stomach, or for intramuscular use when a suitable vein is inaccessible (see         PRECAUTIONS  :           Pediatric Use     and         DOSAGE AND ADMINISTRATION        ).  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

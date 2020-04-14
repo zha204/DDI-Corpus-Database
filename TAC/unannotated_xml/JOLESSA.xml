@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="jolessa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  An increased risk of the following serious adverse reactions has been associated with the use of oral contraceptives (see    WARNINGS    section):
+
+
+
+ *  Thrombophlebitis 
+ *  Arterial thromboembolism 
+ *  Pulmonary embolism 
+ *  Myocardial infarction 
+ *  Cerebral hemorrhage 
+ *  Cerebral thrombosis 
+ *  Hypertension 
+ *  Gallbladder disease 
+ *  Hepatic adenomas or benign liver tumors 
+    There is evidence of an association between the following conditions and the use of oral contraceptives:
+ 
+
+ *  Mesenteric thrombosis 
+ *  Retinal thrombosis 
+    The following adverse reactions have been reported in patients receiving oral contraceptives and are believed to be drug related:
+ 
+
+ *  Nausea 
+ *  Vomiting 
+ *  Gastrointestinal symptoms (such as abdominal cramps and bloating) 
+ *  Breakthrough bleeding 
+ *  Spotting 
+ *  Change in menstrual flow 
+ *  Amenorrhea 
+ *  Temporary infertility after discontinuation of treatment 
+ *  Edema/fluid retention 
+ *  Melasma/chloasma which may persist 
+ *  Breast changes: tenderness, enlargement, and secretion 
+ *  Change in weight or appetite (increase or decrease) 
+ *  Change in cervical ectropion and secretion 
+ *  Possible diminution in lactation when given immediately postpartum 
+ *  Cholestatic jaundice 
+ *  Migraine headache 
+ *  Rash (allergic) 
+ *  Mood changes, including depression 
+ *  Vaginitis, including candidiasis 
+ *  Change in corneal curvature (steepening) 
+ *  Intolerance to contact lenses 
+ *  Decrease in serum folate levels 
+ *  Exacerbation of systemic lupus erythematosus 
+ *  Exacerbation of porphyria 
+ *  Exacerbation of chorea 
+ *  Aggravation of varicose veins 
+ *  Anaphylactic/anaphylactoid reactions, including urticaria, angioedema, and severe reactions with respiratory and circulatory symptoms 
+    The following adverse reactions have been reported in users of oral contraceptives and the association has been neither confirmed nor refuted:
+ 
+
+ *  Premenstrual syndrome 
+ *  Cataracts 
+ *  Optic neuritis which may lead to partial or complete loss of vision 
+ *  Cystitis-like syndrome 
+ *  Headache 
+ *  Nervousness 
+ *  Dizziness 
+ *  Hirsutism 
+ *  Loss of scalp hair 
+ *  Erythema multiforme 
+ *  Erythema nodosum 
+ *  Hemorrhagic eruption 
+ *  Impaired renal function 
+ *  Hemolytic uremic syndrome 
+ *  Budd-Chiari syndrome 
+ *  Acne 
+ *  Changes in libido 
+ *  Colitis 
+ *  Pancreatitis 
+ *  Dysmenorrhea 
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+        Cigarette smoking increases the risk of serious 
+
+cardiovascular side effects from oral contraceptive use. This risk increases 
+
+with age and with heavy smoking (15 or more cigarettes per day) and is quite 
+
+marked in women over 35 years of age. Women who use oral contraceptives should 
+
+be strongly advised not to smoke.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

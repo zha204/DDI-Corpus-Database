@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="moviprep" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+     6.1 Clinical Studies Experience In the MoviPrep trials, abdominal distension, anal discomfort, thirst, nausea, and abdominal pain were some of the most common adverse reactions to MoviPrep administration.  Since diarrhea was considered as a part of the efficacy of MoviPrep, diarrhea was not defined as an adverse reaction in the clinical studies.  Tables 1 and 2 display the most common drug-related adverse reactions of MoviPrep and its comparator in the controlled MoviPrep trials.
+
+
+
+ Table 1: The Most Common Drug-Related Adverse Reactions* (&gt;= 2%) in the Study of MoviPrep vs. 4 liter Polyethylene Glycol plus Electrolytes Solution 
+                             MoviPrep(r)  (split dose)     N=180       4L PEG + E       N=179           
+                            n (% = n/N)                n (% = n/N)                 
+ Malaise                    35 (19.4)                  32 (17.9)                   
+ Nausea                     26 (14.4)                  36 (20.1)                   
+ Abdominal pain             24 (13.3)                  27 (15.1)                   
+ Vomiting                   14 (7.8)                   23 (12.8)                   
+ Upper abdominal pain       10 (5.6)                   11 (6.1)                    
+ Dyspepsia                  5 (2.8)                    2 (1.1)                     
+     Table 2: The Most Common Drug-Related Adverse Reactions* (&gt;= 5%) in the Study of MoviPrep vs. 90 mL Oral Sodium Phosphate Solution 
+                                MoviPrep(r)        (evening-only)        (full dose)        N=169          90 mL OSPS                N=171       
+                            n (% = n/N)                n (% = n/N)                 
+ Abdominal distension       101 (59.8)                 70 (40.9)                   
+ Anal discomfort            87 (51.5)                  89 (52.0)                   
+ Thirst                     80 (47.3)                  112 (65.5)                  
+ Nausea                     80 (47.3)                  80 (46.8)                   
+ Abdominal paint            66 (39.1)                  55 (32.2)                   
+ Sleep disorder             59 (34.9)                  49 (28.7)                   
+ Rigors                     57 (33.7)                  51 (29.8)                   
+ Hunger                     51 (30.2)                  121 (70.8)                  
+ Malaise                    45 (26.6)                  90 (52.6)                   
+ Vomiting                   12 (7.1)                   14 (8.2)                    
+ Dizziness                  11 (6.5)                   31 (18.1)                   
+ Headache                   3 (1.8)                    9 (5.3)                     
+ Hypokalemia                0 (0)                      10 (5.8)                    
+ Hyperphosphatemia          0 (0)                      10 (5.8)                    
+     *     Drug-related adverse reactions were adverse events that were possibly, probably, or definitely related to the study drug.     4L PEG + E is 4 liter Polyethylene Glycol plus Electrolytes Solution        *     Drug-related adverse reactions were adverse events that were possibly, probably, or definitely related to the study drug. In addition to the recording of spontaneous adverse events, patients were also specifically asked about the occurrence of the following symptoms: shivering, anal irritations, abdominal bloating or fullness, sleep loss, nausea, vomiting, weakness, hunger sensation, abdominal cramps or pain, thirst sensation, and dizziness.     OSPS is Oral Sodium Phosphate Solution Isolated cases of urticaria, rhinorrhea, dermatitis, and anaphylactic reaction have been reported with PEG-based products and may represent allergic reactions.
+ 
+
+ Published literature contains isolated reports of serious adverse events following the administration of PEG-based products in patients over 60 years of age. These adverse events included upper gastrointestinal bleeding from a Mallory-Weiss tear, esophageal perforation, asystole, and acute pulmonary edema after aspirating the PEG-based preparation.
+
+
+
+            6.2 Postmarketing Experience In addition to adverse events reported from clinical trials, the following adverse events have been identified during post-approval use of MoviPrep. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. These events have been chosen for inclusion due to either their seriousness, frequency of reporting or causal connection to MoviPrep, or a combination of these factors.
+
+
+
+     General:    Hypersensitivity reactions including anaphylaxis, rash, urticaria, lip and facial swelling, dyspnea, chest tightness and throat tightness.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  MoviPrep should be used with caution in patients with severe ulcerative colitis, ileus, gastrointestinal obstruction or perforation, gastric retention, toxic colitis, or toxic megacolon
+
+
+
+    General    
+ 
+
+ Patients with impaired gag reflex and patients prone to regurgitation or aspiration should be observed during the administration of MoviPrep.  If a patient experiences severe bloating, abdominal distention, or abdominal pain, administration should be slowed or temporarily discontinued until the symptoms abate. If gastrointestinal obstruction or perforation is suspected, appropriate tests should be performed to rule out these conditions before administration of MoviPrep(r). 
+
+
+
+  Phenylketonurics: MoviPrep contains phenylalanine - a maximum of 2.33 mg of phenylalanine per treatment.
+ 
+
+  No additional ingredients (e.g., flavorings) should be added to the MoviPrep solution.
+ 
+
+  Since MoviPrep contains sodium ascorbate and ascorbic acid, MoviPrep should be used with caution in patients with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency especially G-6-PD deficiency patients with an active infection, with a history of hemolysis, or taking concomitant medications known to precipitate hemolytic reactions.
+ 
+
+            5.1 Seizures There have been rare reports of generalized tonic-clonic seizures associated with use of polyethylene glycol colon preparation products in patients with no prior history of seizures.  The seizure cases were associated with electrolyte abnormalities (e.g., hyponatremia, hypokalemia).  The neurologic abnormalities resolved with correction of fluid and electrolyte abnormalities.  Therefore, MoviPrep should be used with caution in patients using concomitant medications that increase the risk of electrolyte abnormalities [such as diuretics or angiotensin converting enzyme (ACE)-inhibitors] or in patients with known or suspected hyponatremia.  Consider performing baseline and post-colonoscopy laboratory tests (sodium, potassium, calcium, creatinine, and BUN) in these patients.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

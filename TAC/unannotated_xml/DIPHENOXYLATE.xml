@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="diphenoxylate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  At doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency:  therapeutic  
+
+
+
+ numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache.  Nervous system:  
+
+
+
+ anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus.  Allergic:  
+
+
+
+ toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort.  Gastrointestinal system:  
+
+
+
+ The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children.
+
+
+
+ THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="xolegel" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *  The most common treatment-related adverse reaction was application site burning (4%). (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Aqua Pharmaceuticals, LLC at 1-866-665-2782 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trial Experiences
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In the 3 safety and efficacy trials, 65 of 933 subjects (7%) experienced at least one treatment-related adverse event. The most common treatment-related adverse reaction was application site burning (4%). Treatment-related application site reactions that were reported in &lt; 1% of subjects were: dermatitis, discharge, dryness, erythema, irritation, pain, pruritus, and pustules. Other treatment-related adverse reactions that were reported in &lt; 1% of subjects were: eye irritation, eye swelling, keratoconjunctivitis sicca, impetigo, pyogenic granuloma, dizziness, headache, paresthesia, acne, nail discoloration, facial swelling.
+
+
+
+   6.2 Post-marketing Experience
+
+  Adverse events identified during post approval use with XOLEGEL include burning sensation, pain, skin irritation, and erythema. Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   XOLEGEL is flammable. Avoid using near fire, flame, or smoking during and immediately following application of XOLEGEL. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Flammable Contents
+
+
+
+  XOLEGEL is flammable. Avoid being near fire, flame, or smoking during and immediately following application of XOLEGEL.
+
+
+
+    5.2 Systemic Effects
+
+
+
+  Hepatitis and, at high doses, lowered testosterone and ACTH induced corticosteroid serum levels have been seen with orally administered ketoconazole; these effects have not been seen with topically administered ketoconazole.
+
+
+
+    5.3 Local Effects
+
+
+
+  XOLEGEL can cause local irritation at the application site. If irritation occurs or if the disease worsens, use of the medication should be discontinued and the health care provider should be contacted [see  ADVERSE REACTIONS (6.1)  ].  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

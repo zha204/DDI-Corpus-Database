@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ancobon" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The adverse reactions which have occurred during treatment with Ancobon are grouped according to organ system affected.
+
+
+
+   Cardiovascular:  Cardiac arrest, myocardial toxicity, ventricular dysfunction.
+
+
+
+   Respiratory:  Respiratory arrest, chest pain, dyspnea.
+
+
+
+   Dermatologic:  Rash, pruritus, urticaria, photosensitivity.
+
+
+
+   Gastrointestinal:  Nausea, emesis, abdominal pain, diarrhea, anorexia, dry mouth, duodenal ulcer, gastrointestinal hemorrhage, acute hepatic injury including hepatic necrosis with possible fatal outcome in debilitated patients, hepatic dysfunction, jaundice, ulcerative colitis, enterocolitis, bilirubin elevation, increased hepatic enzymes.
+
+
+
+   Genitourinary:  Azotemia, creatinine and BUN elevation, crystalluria, renal failure.
+
+
+
+   Hematologic:  Anemia, agranulocytosis, aplastic anemia, eosinophilia, leukopenia, pancytopenia, thrombocytopenia, and fatal cases of bone marrow aplasia.
+
+
+
+   Neurologic:  Ataxia, hearing loss, headache, paresthesia, parkinsonism, peripheral neuropathy, pyrexia, vertigo, sedation, convulsions.
+
+
+
+   Psychiatric:  Confusion, hallucinations, psychosis.
+
+
+
+   Miscellaneous:  Fatigue, hypoglycemia, hypokalemia, weakness, allergic reactions, Lyell's syndrome.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+    Use with extreme caution in patients with impaired renal function. Close monitoring of hematologic, renal and hepatic status of all patients is essential. These instructions should be thoroughly reviewed before administration of Ancobon.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

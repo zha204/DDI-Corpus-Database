@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="gastrografin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Most adverse reactions to enteral diagnostic radiopaque agents are mild and transitory. Nausea, vomiting and/or diarrhea, urticaria with erythema, hypoxia, acute dyspnea, tachyarrhythmia, and anaphylaxis have occurred following ingestion of the contrast medium, particularly when high concentrations of large volumes of solution are administered. Severe changes in serum osmolarity and electrolyte concentrations may produce shock-like states (see    WARNINGS    ). It should be kept in mind that serious or anaphylactoid reactions that may occur with intravascular administration of radiopaque contrast agents are theoretically possible following administration by other routes.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

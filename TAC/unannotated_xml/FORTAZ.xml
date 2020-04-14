@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="fortaz" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Ceftazidime is generally well tolerated. The incidence of adverse reactions associated with the administration of ceftazidime was low in clinical trials. The most common were local reactions following IV injection and allergic and gastrointestinal reactions. Other adverse reactions were encountered infrequently. No disulfiram-like reactions were reported.
+
+
+
+ The following adverse effects from clinical trials were considered to be either related to ceftazidime therapy or were of uncertain etiology:
+
+
+
+   Local Effects  , reported in fewer than 2% of patients, were phlebitis and inflammation at the site of injection (1 in 69 patients).
+
+
+
+   Hypersensitivity Reactions  , reported in 2% of patients, were pruritus, rash, and fever. Immediate reactions, generally manifested by rash and/or pruritus, occurred in 1 in 285 patients. Toxic epidermal necrolysis, Stevens-Johnson syndrome, and erythema multiforme have also been reported with cephalosporin antibiotics, including ceftazidime. Angioedema and anaphylaxis (bronchospasm and/or hypotension) have been reported very rarely.
+
+
+
+   Gastrointestinal Symptoms,  reported in fewer than 2% of patients, were diarrhea (1 in 78), nausea (1 in 156), vomiting (1 in 500), and abdominal pain (1 in 416). The onset of pseudomembranous colitis symptoms may occur during or after treatment (see  WARNINGS  ).
+
+
+
+   Central Nervous System Reactions  (fewer than 1%) included headache, dizziness, and paresthesia. Seizures have been reported with several cephalosporins, including ceftazidime. In addition, encephalopathy, coma, asterixis, neuromuscular excitability, and myoclonia have been reported in renally impaired patients treated with unadjusted dosing regimens of ceftazidime (see  PRECAUTIONS: General  ).
+
+
+
+   Less Frequent Adverse Events  (fewer than 1%) were candidiasis (including oral thrush) and vaginitis.
+
+
+
+   Hematologic:  Rare cases of hemolytic anemia have been reported.
+
+
+
+   Laboratory Test Changes  noted during clinical trials with FORTAZ were transient and included: eosinophilia (1 in 13), positive Coombs test without hemolysis (1 in 23), thrombocytosis (1 in 45), and slight elevations in one or more of the hepatic enzymes, aspartate aminotransferase (AST, SGOT) (1 in 16), alanine aminotransferase (ALT, SGPT) (1 in 15), LDH (1 in 18), GGT (1 in 19), and alkaline phosphatase (1 in 23). As with some other cephalosporins, transient elevations of blood urea, blood urea nitrogen, and/or serum creatinine were observed occasionally. Transient leukopenia, neutropenia, agranulocytosis, thrombocytopenia, and lymphocytosis were seen very rarely.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="zaltrap" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  Hemorrhage [ see  Boxed Warning  ,  Warnings and Precautions (5.1)   ] 
+ *  Gastrointestinal Perforation [ see  Boxed Warning  ,  Warnings and Precautions (5.2)   ] 
+ *  Compromised Wound Healing [ see  Boxed Warning  ,  Warnings and Precautions (5.3)   ] 
+ *  Fistula Formation [ see  Warnings and Precautions (5.4)   ] 
+ *  Hypertension [ see  Warnings and Precautions (5.5)   ] 
+ *  Arterial Thromboembolic Events [ see  Warnings and Precautions (5.6)   ] 
+ *  Proteinuria [ see  Warnings and Precautions (5.7)   ] 
+ *  Neutropenia and Neutropenic Complications [ see  Warnings and Precautions (5.8)   ] 
+ *  Diarrhea and Dehydration [ see  Warnings and Precautions (5.9)   ] 
+ *  Reversible Posterior Leukoencephalopathy Syndrome (RPLS) [ see  Warnings and Precautions (5.10)   ] 
+      EXCERPT:   Most common adverse reactions (all grades, &gt;=20% incidence and at least 2% greater incidence for the ZALTRAP/FOLFIRI regimen) were leukopenia, diarrhea, neutropenia, proteinuria, AST increased, stomatitis, fatigue, thrombocytopenia, ALT increased, hypertension, weight decreased, decreased appetite, epistaxis, abdominal pain, dysphonia, serum creatinine increased, and headache. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact sanofi-aventis at 1-800-633-1610 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under varying designs and in different patient populations, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
+
+
+
+ The safety of ZALTRAP in combination with FOLFIRI was evaluated in 1216 previously treated patients with metastatic colorectal cancer (Study 1) who were treated with ZALTRAP 4 mg per kg intravenous (N=611) or placebo (N=605) every two weeks (one cycle) in a randomized (1:1), double-blind, placebo-controlled Phase 3 study. Patients received a median of 9 cycles of ZALTRAP/FOLFIRI or 8 cycles of placebo/FOLFIRI.
+
+
+
+ The most common adverse reactions (all grades, &gt;=20% incidence) reported at a higher incidence (2% or greater between-arm difference) in the ZALTRAP/FOLFIRI arm , in order of decreasing frequency, were leukopenia, diarrhea, neutropenia, proteinuria, AST increased, stomatitis, fatigue, thrombocytopenia, ALT increased, hypertension, weight decreased, decreased appetite, epistaxis, abdominal pain, dysphonia, serum creatinine increased, and headache (see  Table 1  ).
+
+
+
+ The most common Grade 3-4 adverse reactions (&gt;=5%) reported at a higher incidence (2% or greater between-arm difference) in the ZALTRAP/FOLFIRI arm, in order of decreasing frequency, were neutropenia, diarrhea, hypertension, leukopenia, stomatitis, fatigue, proteinuria, and asthenia (see  Table 1  ).
+
+
+
+ The most frequent adverse reactions leading to permanent discontinuation in &gt;=1% of patients treated with ZALTRAP/FOLFIRI regimen were asthenia/fatigue, infections, diarrhea, dehydration, hypertension, stomatitis, venous thromboembolic events, neutropenia, and proteinuria.
+
+
+
+ The ZALTRAP dose was reduced and/or omitted in 17% of patients compared to placebo-dose modification in 5% of patients. Cycle delays &gt;7 days occurred in 60% of patients treated with ZALTRAP/FOLFIRI compared with 43% of patients treated with placebo/FOLFIRI.
+
+
+
+ The most common adverse reactions and laboratory abnormalities during study treatment in Study 1 where the incidence was &gt;=5% (all grades) in patients receiving ZALTRAP in combination with FOLFIRI and which occurred at &gt;=2% higher frequency in patients treated with ZALTRAP/FOLFIRI compared to placebo/FOLFIRI are shown in Table 1.
+
+
+
+ Table 1 - Selected Adverse Reactions and Laboratory Findings in Study 1: 
+ Primary System Organ Class  Preferred Term (%)  Placebo/FOLFIRI(N=605)  ZALTRAP/FOLFIRI(N=611)   
+ All grades                                  Grades 3-4       All grades       Grades 3-4      
+  
+ Note: Adverse Reactions are reported using MedDRA version MEDDRA13.1 and graded using NCI CTC version 3.0   
+  
+ Infections and infestations                                                                                    
+   Urinary Tract Infection                       6%              0.8%              9%              0.8%         
+ Blood and lymphatic system disorders                                                                           
+   Leukopenia                                    72%              12%              78%              16%         
+   Neutropenia                                   57%              30%              67%              37%         
+   Thrombocytopenia                              35%              2%               48%              3%          
+ Metabolism and nutrition disorders                                                                             
+   Decreased Appetite                            24%              2%               32%              3%          
+   Dehydration                                   3%               1%               9%               4%          
+ Nervous system disorders                                                                                       
+   Headache                                      9%              0.3%              22%              2%          
+ Vascular disorders                                                                                             
+   Hypertension                                  11%             1.5%              41%              19%         
+ Respiratory, thoracic and mediastinal disorders                                                                       
+   Epistaxis                                     7%                0               28%             0.2%         
+   Dysphonia                                     3%                0               25%             0.5%         
+   Dyspnea                                       9%              0.8%              12%             0.8%         
+   Oropharyngeal Pain                            3%                0               8%              0.2%         
+   Rhinorrhea                                    2%                0               6%                0          
+ Gastrointestinal disorders                                                                                     
+   Diarrhea                                      57%              8%               69%              19%         
+   Stomatitis                                    33%              5%               50%              13%         
+   Abdominal Pain                                24%              2%               27%              4%          
+   Abdominal Pain Upper                          8%               1%               11%              1%          
+   Hemorrhoids                                   2%                0               6%                0          
+   Rectal Hemorrhage                             2%              0.5%              5%              0.7%         
+   Proctalgia                                    2%              0.3%              5%              0.3%         
+ Skin and subcutaneous tissue disorders                                                                         
+   Palmar-Plantar Erythrodysesthesia Syndrome        4%              0.5%              11%              3%          
+   Skin Hyperpigmentation                        3%                0               8%                0          
+ Renal and urinary disorders                                                                                    
+   Proteinuria                                   41%              1%               62%              8%          
+   Serum creatinine increased                    19%             0.5%              23%               0          
+ General disorders and administration site conditions                                                                       
+   Fatigue                                       39%              8%               48%              13%         
+   Asthenia                                      13%              3%               18%              5%          
+ Investigations                                                                                                 
+   AST increased                                 54%              2%               62%              3%          
+   ALT increased                                 39%              2%               50%              3%          
+   Weight decreased                              14%             0.8%              32%              3%          
+           Infections occurred at a higher frequency in patients receiving ZALTRAP/FOLFIRI (46%, all grades; 12%, Grade 3-4) than in patients receiving placebo/FOLFIRI (33%, all grades; 7%, Grade 3-4), including urinary tract infection, nasopharyngitis, upper respiratory tract infection, pneumonia, catheter site infection, and tooth infection.
+ 
+
+ In patients with mCRC, severe hypersensitivity reactions have been reported with ZALTRAP/FOLFIRI (0.3%) and placebo/FOLFIRI (0.5%).
+
+
+
+ In patients with mCRC, venous thromboembolic events (VTE), consisting primarily of deep venous thrombosis and pulmonary embolism, occurred in 9% of patients treated with ZALTRAP/FOLFIRI and 7% of patients treated with placebo/FOLFIRI. Grade 3-4 VTE occurred in 8% of patients treated with ZALTRAP/FOLFIRI and in 6% of patients treated with placebo/FOLFIRI. Pulmonary embolism occurred in 5% of patients treated with ZALTRAP/FOLFIRI and 3.4% of patients treated with placebo/FOLFIRI.
+
+
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is a potential for immunogenicity. In patients with various cancers across 15 studies, 1.4% (41/2862) of patients tested positive for anti-product antibody (APA) at baseline. The incidence of APA development was 3.1% (53/1687) in patients receiving intravenous ziv-aflibercept and 1.7% (19/1134) in patients receiving placebo. Among patients who tested positive for APA and had sufficient samples for further testing, neutralizing antibodies were detected in 17 of 48 ziv-aflibercept-treated patients and in 2 of 40 patients receiving placebo.
+
+
+
+ The mean free ziv-aflibercept trough concentrations were lower in patients with positive neutralizing antibodies than in the overall population. The impact of neutralizing antibodies on efficacy and safety could not be assessed based on limited available data.
+
+
+
+ Immunogenicity data are highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to ZALTRAP with the incidence of antibodies to other products may be misleading.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: HEMORRHAGE, GASTROINTESTINAL PERFORATION, COMPROMISED WOUND HEALING
+
+    WARNING: HEMORRHAGE, GASTROINTESTINAL PERFORATION, COMPROMISED WOUND HEALING  
+
+    Hemorrhage:  Severe and sometimes fatal hemorrhage, including gastrointestinal (GI) hemorrhage, has been reported in the patients who have received ZALTRAP in combination with FOLFIRI.  Monitor patients for signs and symptoms of GI bleeding and other severe bleeding.  Do not administer ZALTRAP to patients with severe hemorrhage [  see   Dosage and Administration (2.2)  ,   Warnings and Precautions (5.1)    ].  
+
+
+
+   Gastrointestinal Perforation:  Gastrointestinal (GI) perforation including fatal GI perforation can occur in patients receiving ZALTRAP.  Discontinue ZALTRAP therapy in patients who experience GI perforation [  see   Dosage and Administration (2.2)  ,   Warnings and Precautions (5.2)    ].  
+
+
+
+   Compromised Wound Healing:  Severe compromised wound healing can occur in patients receiving ZALTRAP/FOLFIRI.  Discontinue ZALTRAP in patients with compromised wound healing.  Suspend ZALTRAP for at least 4 weeks prior to elective surgery, and do not resume ZALTRAP for at least 4 weeks following major surgery and until the surgical wound is fully healed [  see   Dosage and Administration (2.2)  ,   Warnings and Precautions (5.3)    ].  
+
+
+
+   EXCERPT:   WARNING:  HEMORRHAGE, GASTROINTESTINAL PERFORATION, COMPROMISED WOUND HEALING
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Hemorrhage: Severe and sometimes fatal hemorrhage, including gastrointestinal (GI) hemorrhage, has been reported in patients who have received ZALTRAP. Do not administer ZALTRAP to patients with severe hemorrhage. (5.1) 
+ *  Gastrointestinal Perforation: Discontinue ZALTRAP therapy in patients who experience GI perforation. (5.2) 
+ *  Compromised Wound Healing: Discontinue ZALTRAP in patients with compromised wound healing. Suspend ZALTRAP for at least 4 weeks prior to elective surgery, and do not resume for at least 4 weeks following major surgery and until the surgical wound is fully healed. (5.3) 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Adverse reactions, sometimes severe and life-threatening or fatal, have been seen in clinical trials with ZALTRAP, including:
+
+
+
+ *  Fistula Formation: Discontinue ZALTRAP if fistula occurs. (  2.2  ,  5.4  ) 
+ *  Hypertension: Monitor blood pressure and treat hypertension. Temporarily suspend ZALTRAP if hypertension is not controlled. Discontinue ZALTRAP if hypertensive crisis develops. (  2.2  ,  5.5  ) 
+ *  Arterial Thromboembolic Events (ATE) (e.g., transient ischemic attacks, cerebrovascular accident, angina pectoris): Discontinue ZALTRAP if ATE develops. (  5.6  ) 
+ *  Proteinuria: Monitor urine protein. Suspend ZALTRAP when proteinuria &gt;= 2 grams per 24 hours. Discontinue ZALTRAP if nephrotic syndrome or thrombotic microangiopathy (TMA) develops. (  2.2  ,  5.7  ) 
+ *  Neutropenia and Neutropenic Complications: Delay administration of ZALTRAP/FOLFIRI until neutrophil count is &gt;= 1.5 * 10  9  /L. (5.8) 
+ *  Diarrhea and Dehydration: Incidence of severe diarrhea and dehydration is increased. Monitor elderly patients more closely. (  5.9  ,  8.5  ) 
+ *  Reversible Posterior Leukoencephalopathy Syndrome (RPLS): Discontinue ZALTRAP. (  5.10  ) 
+    
+ 
+
+   5.1 Hemorrhage
+
+
+
+  Patients treated with ZALTRAP have an increased risk of hemorrhage, including severe and sometimes fatal hemorrhagic events. In patients with mCRC, bleeding/hemorrhage (all grades) were reported in 38% of patients treated with ZALTRAP/FOLFIRI compared to 19% of patients treated with placebo/FOLFIRI. Grade 3-4 hemorrhagic events, including gastrointestinal hemorrhage, hematuria, and post-procedural hemorrhage, were reported in 3% of patients receiving ZALTRAP/FOLFIRI compared with 1% of patients receiving placebo/FOLFIRI. Severe intracranial hemorrhage and pulmonary hemorrhage/hemoptysis including fatal events have also occurred in patients receiving ZALTRAP.
+
+
+
+ Monitor patients for signs and symptoms of bleeding. Do not initiate ZALTRAP in patients with severe hemorrhage. Discontinue ZALTRAP in patients who develop severe hemorrhage [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.2 Gastrointestinal Perforation
+
+
+
+  Gastrointestinal (GI) perforation including fatal GI perforation can occur in patients receiving ZALTRAP. Across three Phase 3 placebo-controlled clinical studies (colorectal, pancreatic, and lung cancer populations), the incidence of GI perforation (all grades) was 0.8% for patients treated with ZALTRAP and 0.3% for patients treated with placebo. Grade 3-4 GI perforation events occurred in 0.8% of patients treated with ZALTRAP and 0.2% of patients treated with placebo.
+
+
+
+ Monitor patients for signs and symptoms of GI perforation. Discontinue ZALTRAP therapy in patients who experience GI perforation [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.3 Compromised Wound Healing
+
+
+
+  ZALTRAP impairs wound healing in animal models [ see  Nonclinical Toxicology (13.2)    ].
+
+
+
+ Grade 3 compromised wound healing was reported in 2 patients (0.3%) treated with ZALTRAP/FOLFIRI regimen and in none of the patients treated with placebo/FOLFIRI regimen.
+
+
+
+ Suspend ZALTRAP for at least 4 weeks prior to elective surgery. Do not resume ZALTRAP for at least 4 weeks following major surgery and until the surgical wound is fully healed. For minor surgery such as central venous access port placement, biopsy, and tooth extraction, ZALTRAP may be initiated/resumed once the surgical wound is fully healed. Discontinue ZALTRAP in patients with compromised wound healing [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.4 Fistula Formation
+
+
+
+  Fistula formation involving gastrointestinal and non-gastrointestinal sites occurs at a higher incidence in patients treated with ZALTRAP. In patients with mCRC, fistulas (anal, enterovesical, enterocutaneous, colovaginal, intestinal sites) were reported in 9 of 611 patients (1.5%) treated with ZALTRAP/FOLFIRI regimen and 3 of 605 patients (0.5%) treated with placebo/FOLFIRI regimen. Grade 3 GI fistula formation occurred in 2 patients treated with ZALTRAP (0.3%) and in 1 placebo-treated patient (0.2%).
+
+
+
+ Discontinue ZALTRAP therapy in patients who develop fistula [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.5 Hypertension
+
+
+
+  ZALTRAP increases the risk of Grade 3-4 hypertension. There is no clinical trial experience administering ZALTRAP to patients with NYHA class III or IV heart failure. In patients with mCRC, Grade 3 hypertension (defined as requiring adjustment in existing anti-hypertensive therapy or treatment with more than one drug) was reported in 1.5% of patients treated with placebo/FOLFIRI and 19% of patients treated with ZALTRAP/FOLFIRI. Grade 4 hypertension (hypertensive crisis) was reported in 1 patient (0.2%) treated with ZALTRAP/FOLFIRI. Among those patients treated with ZALTRAP/FOLFIRI developing Grade 3-4 hypertension, 54% had onset during the first two cycles of treatment.
+
+
+
+ Monitor blood pressure every two weeks or more frequently as clinically indicated during treatment with ZALTRAP. Treat with appropriate anti-hypertensive therapy and continue monitoring blood pressure regularly. Temporarily suspend ZALTRAP in patients with uncontrolled hypertension until controlled, and permanently reduce ZALTRAP dose to 2 mg per kg for subsequent cycles. Discontinue ZALTRAP in patients with hypertensive crisis or hypertensive encephalopathy [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.6 Arterial Thromboembolic Events
+
+
+
+  Arterial thromboembolic events (ATE), including transient ischemic attack, cerebrovascular accident, and angina pectoris, occurred more frequently in patients who have received ZALTRAP. In patients with mCRC, ATE was reported in 2.6% of patients treated with ZALTRAP/FOLFIRI and 1.7% of patients treated with placebo/FOLFIRI. Grade 3-4 events occurred in 11 patients (1.8%) treated with ZALTRAP/FOLFIRI and 4 patients (0.7%) treated with placebo/FOLFIRI.
+
+
+
+ Discontinue ZALTRAP in patients who experience an ATE [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.7 Proteinuria
+
+
+
+  Severe proteinuria, nephrotic syndrome, and thrombotic microangiopathy (TMA) occurred more frequently in patients treated with ZALTRAP. In patients with mCRC, proteinuria was reported in 62% patients treated with ZALTRAP/FOLFIRI compared to 41% patients treated with placebo/FOLFIRI. Grade 3-4 proteinuria occurred in 8% of patients treated with ZALTRAP/FOLFIRI to 1% of patients treated with placebo/FOLFIRI [ see  Adverse Reactions (6.1)    ]. Nephrotic syndrome occurred in 2 patients (0.5%) treated with ZALTRAP/FOLFIRI compared to none of the patients treated with placebo/FOLFIRI. TMA was reported in 3 of 2258 patients with cancer enrolled across completed studies.
+
+
+
+ Monitor proteinuria by urine dipstick analysis and/or urinary protein creatinine ratio (UPCR) for the development or worsening of proteinuria during ZALTRAP therapy. Patients with a dipstick of &gt;=2+ for protein or a UPCR greater than 1 should undergo a 24-hour urine collection.
+
+
+
+ Suspend ZALTRAP administration for proteinuria 2 grams per 24 hours or more, and resume when proteinuria is less than 2 grams per 24 hours. If recurrent, suspend until proteinuria is less than 2 grams per 24 hours and then permanently reduce the ZALTRAP dose to 2 mg per kg. Discontinue ZALTRAP in patients who develop nephrotic syndrome or TMA [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.8 Neutropenia and Neutropenic Complications
+
+
+
+  A higher incidence of neutropenic complications (febrile neutropenia and neutropenic infection) occurred in patients receiving ZALTRAP. In patients with mCRC, Grade 3-4 neutropenia occurred in 37% of patients treated with ZALTRAP/FOLFIRI compared to 30% patients treated with placebo/FOLFIRI [ see  Adverse Reactions (6.1)    ]. Grade 3-4 febrile neutropenia occurred in 4% of patients treated with ZALTRAP/FOLFIRI compared to 2% of patients treated with placebo/FOLFIRI. Grade 3-4 neutropenic infection/sepsis occurred in 1.5% of patients treated with ZALTRAP/FOLFIRI and 1.2% of patients treated with placebo/FOLFIRI.
+
+
+
+ Monitor CBC with differential count at baseline and prior to initiation of each cycle of ZALTRAP. Delay ZALTRAP/FOLFIRI until neutrophil count is at or above 1.5 * 10  9  /L.
+
+
+
+    5.9 Diarrhea and Dehydration
+
+
+
+  The incidence of severe diarrhea is increased in patients treated with ZALTRAP/FOLFIRI. In patients with mCRC, Grade 3-4 diarrhea was reported in 19% of patients treated with ZALTRAP/FOLFIRI compared to 8% of patients treated with placebo/FOLFIRI. Grade 3-4 dehydration was reported in 4% of patients treated with ZALTRAP/FOLFIRI compared to 1% of patients treated with placebo/FOLFIRI [ see  Adverse Reactions (6.1)    ]. The incidence of diarrhea is increased in patients who are age 65 years or older as compared to patients younger than 65 years of age [ see  Geriatric Use (8.5)    ]. Monitor elderly patients closely for diarrhea.
+
+
+
+    5.10 Reversible Posterior Leukoencephalopathy Syndrome (RPLS)
+
+
+
+  RPLS (also known as posterior reversible encephalopathy syndrome) was reported in 0.5% of 3795 patients treated with ZALTRAP monotherapy or in combination with chemotherapy.
+
+
+
+ Confirm the diagnosis of RPLS with MRI and discontinue ZALTRAP in patients who develop RPLS. Symptoms usually resolve or improve within days, although some patients have experienced ongoing neurologic sequelae or death [ see  Dosage and Administration (2.2)    ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="robaxin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions reported coincident with the administration of methocarbamol include:
+
+
+
+   Body as a whole:  Anaphylactic reaction, angioneurotic edema, fever, headache
+
+
+
+   Cardiovascular system:  Bradycardia, flushing, hypotension, syncope, thrombophlebitis
+
+
+
+   Digestive system:  Dyspepsia, jaundice (including cholestatic jaundice), nausea and vomiting
+
+
+
+   Hemic and lymphatic system:  Leukopenia
+
+
+
+   Immune system:  Hypersensitivity reactions
+
+
+
+   Nervous system:  Amnesia, confusion, diplopia, dizziness or lightheadedness, drowsiness, insomnia, mild muscular incoordination, nystagmus, sedation, seizures (including grand mal), vertigo
+
+
+
+   Skin and special senses:  Blurred vision, conjunctivitis, nasal congestion, metallic taste, pruritus, rash, urticaria
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

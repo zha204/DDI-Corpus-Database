@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="membraneblue" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6. Adverse Reactions
+
+  Adverse reactions reported following use of MembraneBlueTM 0.15% include discoloration of high water content hydrogen intraocular lenses (see  Contraindications  ) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week.
+
+
+
+    EXCERPT:    *  Discoloration of high water content hydrogen intraocular lenses; 
+ *  Inadvertent staining of the posterior lens capsule and vitreous face;  (6)   
+     to report suspected adverse reactions contact Dutch Ophthalmic, USA at 1-800-75-DUTCH or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch   
+</Section>
+    <Section name="warnings and precautions" id="S2">    5. Warnings and Precautions
+
+
+
+   Excessive staining:  It is recommended that after injection all excess MembraneBlueTM 0.15% be immediately removed from the eye.
+ 
+
+  Priming of the syringe:  Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid.
+ 
+
+    EXCERPT:    *  Excessive staining:  Excess MembraneBlueTM 0.15% should be removed from the eye immediately after staining. 
+ *  Priming of the syringe: Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid.  (5)   
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

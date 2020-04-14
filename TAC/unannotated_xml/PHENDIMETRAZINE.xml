@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="phendimetrazine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions are described, or described in greater detail, in other sections:
+
+
+
+ - Primary pulmonary hypertension (see  Warnings  )
+
+
+
+ - Valvular heart disease (see  Warnings  )
+
+
+
+ -Effect on the ability to engage in potentially hazardous tasks (see  Warnings  )
+
+
+
+ -Withdrawal effects following prolonged high dosage administration (see  Drug Abuse and Dependence  )
+
+
+
+ The following adverse reactions to phendimetrazine have been identified:
+
+
+
+   Cardiovascular
+
+  Primary pulmonary hypertension and/or regurgitant cardiac valvular disease, palpitation, tachycardia, elevated blood pressure, ischemic events.
+
+
+
+   Central Nervous System
+
+  Overstimulation, restlessness, insomnia, agitation, flushing, tremor, sweating, dizziness, headache, psychotic state, blurring of vision.
+
+
+
+   Gastrointestinal
+
+  Dryness of the mouth, nausea, stomach pain, diarrhea, constipation,
+
+
+
+   Genitourinary
+
+  Urinary frequency, dysuria, changes in libido.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

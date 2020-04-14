@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ocuflox" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Ophthalmic Use  
+
+
+
+ The most frequently reported drug-related adverse reaction was transient ocular burning or discomfort. Other reported reactions include stinging, redness, itching, chemical conjunctivitis/keratitis, ocular/periocular/facial edema, foreign body sensation, photophobia, blurred vision, tearing, dryness, and eye pain. Rare reports of dizziness and nausea have been received.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

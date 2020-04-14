@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="virazole" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The description of adverse reactions is based on events from clinical studies (approximately 200 patients) conducted prior to 1986, and the controlled trial of aerosolized VIRAZOLE conducted in 1989-1990. Additional data from spontaneous post-marketing reports of adverse events in individual patients have been available since 1986.
+
+
+
+   Deaths  
+
+
+
+ Deaths during or shortly after treatment with aerosolized VIRAZOLE have been reported in 20 cases of patients treated with VIRAZOLE (12 of these patients were being treated for RSV infections). Several cases have been characterized as "possibly related" to VIRAZOLE by the treating physician; these were in infants who experienced worsening respiratory status related to bronchospasm while being treated with the drug. Several other cases have been attributed to mechanical ventilator malfunction in which VIRAZOLE precipitation within the ventilator apparatus led to excessively high pulmonary pressures and diminished oxygenation. In these cases the monitoring procedures described in the current package insert were not employed (see  Description of Studies  ,  WARNINGS  , and  DOSAGE AND ADMINISTRATION  ).
+
+
+
+   Pulmonary and Cardiovascular  
+
+
+
+ Pulmonary function significantly deteriorated during aerosolized VIRAZOLE treatment in six of six adults with chronic obstructive lung disease and in four of six asthmatic adults. Dyspnea and chest soreness were also reported in the latter group. Minor abnormalities in pulmonary function were also seen in healthy adult volunteers.
+
+
+
+ In the original study population of approximately 200 infants who received aerosolized VIRAZOLE, several serious adverse events occurred in severely ill infants with life-threatening underlying diseases, many of whom required assisted ventilation. The role of VIRAZOLE in these events is indeterminate. Since the drug's approval in 1986, additional reports of similar serious, though non-fatal, events have been filed infrequently. Events associated with aerosolized VIRAZOLE use have included the following:
+
+
+
+   Pulmonary:  Worsening of respiratory status, bronchospasm, pulmonary edema, hypoventilation, cyanosis, dyspnea, bacterial pneumonia, pneumothorax, apnea, atelectasis and ventilator dependence.
+
+
+
+   Cardiovascular:  Cardiac arrest, hypotension, bradycardia and digitalis toxicity. Bigeminy, bradycardia and tachycardia have been described in patients with underlying congenital heart disease.
+
+
+
+ Some subjects requiring assisted ventilation experienced serious difficulties, due to inadequate ventilation and gas exchange. Precipitation of drug within the ventilatory apparatus, including the endotracheal tube, has resulted in increased positive end expiratory pressure and increased positive inspiratory pressure. Accumulation of fluid in tubing ("rain out") has also been noted. Measures to avoid these complications should be followed carefully (see  DOSAGE AND ADMINISTRATION  ).
+
+
+
+   Hematologic  
+
+
+
+ Although anemia was not reported with use of aerosolized VIRAZOLE in controlled clinical trials, most infants treated with the aerosol have not been evaluated 1 to 2 weeks post-treatment when anemia is likely to occur. Anemia has been shown to occur frequently with experimental oral and intravenous VIRAZOLE in humans. Also, cases of anemia (type unspecified), reticulocytosis and hemolytic anemia associated with aerosolized VIRAZOLE use have been reported through post-marketing reporting systems. All have been reversible with discontinuation of the drug.
+
+
+
+   Other  
+
+
+
+ Rash and conjunctivitis have been associated with the use of aerosolized VIRAZOLE. These usually resolve within hours of discontinuing therapy. Seizures and asthenia associated with experimental intravenous VIRAZOLE therapy have also been reported.
+
+
+
+   Adverse Events in Health Care Workers
+
+  Studies of environmental exposure to aerosolized VIRAZOLE in health care workers administering care to patients receiving the drug have not detected adverse signs or symptoms related to exposure. However, 152 health care workers have reported experiencing adverse events through post-marketing surveillance. Nearly all were in individuals providing direct care to infants receiving aerosolized VIRAZOLE. Of 358 events from these 152 individual health care worker reports, the most common signs and symptoms were headache (51% of reports), conjunctivitis (32%), and rhinitis, nausea, rash, dizziness, pharyngitis, or lacrimation (10-20% each). Several cases of bronchospasm and/or chest pain were also reported, usually in individuals with known underlying reactive airway disease. Several case reports of damage to contact lenses after prolonged close exposure to aerosolized VIRAZOLE have also been reported. Most signs and symptoms reported as having occurred in exposed health care workers resolved within minutes to hours of discontinuing close exposure to aerosolized VIRAZOLE (also see  Information for Health Care Personnel  ).
+
+
+
+ The symptoms of RSV in adults can include headache, conjunctivitis, sore throat and/or cough, fever, hoarseness, nasal congestion and wheezing, although RSV infections in adults are typically mild and transient. Such infections represent a potential hazard to uninfected hospital patients. It is unknown whether certain symptoms cited in reports from health care workers were due to exposure to the drug or infection with RSV. Hospitals should implement appropriate infection control procedures.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS:
+
+  WARNINGS:
+
+    USE OF AEROSOLIZED VIRAZOLE IN PATIENTS REQUIRING MECHANICAL VENTILATOR ASSISTANCE SHOULD BE UNDERTAKEN ONLY BY PHYSICIANS AND SUPPORT STAFF FAMILIAR WITH THE SPECIFIC VENTILATOR BEING USED AND THIS MODE OF ADMINISTRATION OF THE DRUG. STRICT ATTENTION MUST BE PAID TO PROCEDURES THAT HAVE BEEN SHOWN TO MINIMIZE THE ACCUMULATION OF DRUG PRECIPITATE, WHICH CAN RESULT IN MECHANICAL VENTILATOR DYSFUNCTION AND ASSOCIATED INCREASED PULMONARY PRESSURES (SEE   WARNINGS  ).   
+
+
+
+   SUDDEN DETERIORATION OF RESPIRATORY FUNCTION HAS BEEN ASSOCIATED WITH INITIATION OF AEROSOLIZED VIRAZOLE USE IN INFANTS. RESPIRATORY FUNCTION SHOULD BE CAREFULLY MONITORED DURING TREATMENT. IF INITIATION OF AEROSOLIZED VIRAZOLE TREATMENT APPEARS TO PRODUCE SUDDEN DETERIORATION OF RESPIRATORY FUNCTION, TREATMENT SHOULD BE STOPPED AND REINSTITUTED ONLY WITH EXTREME CAUTION, CONTINUOUS MONITORING AND CONSIDERATION OF CONCOMITANT ADMINISTRATION OF BRONCHODILATORS (SEE   WARNINGS  ).   
+
+
+
+   VIRAZOLE IS NOT INDICATED FOR USE IN ADULTS. PHYSICIANS AND PATIENTS SHOULD BE AWARE THAT RIBAVIRIN HAS BEEN SHOWN TO PRODUCE TESTICULAR LESIONS IN RODENTS AND TO BE TERATOGENIC IN ALL ANIMAL SPECIES IN WHICH ADEQUATE STUDIES HAVE BEEN CONDUCTED (RODENTS AND RABBITS); (SEE   CONTRAINDICATIONS  ).  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

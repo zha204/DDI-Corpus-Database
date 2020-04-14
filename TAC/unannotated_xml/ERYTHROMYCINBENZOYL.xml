@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="erythromycinbenzoyl" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In controlled clinical trials, the incidence of adverse reactions associated with the use of Erythromycin-Benzoyl Peroxide Topical Gel was approximately 3%. These were dryness and urticarial reaction.
+
+
+
+ The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

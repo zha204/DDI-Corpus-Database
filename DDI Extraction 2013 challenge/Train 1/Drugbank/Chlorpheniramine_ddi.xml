@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d235">
+    <sentence id="DDI-DrugBank.d235.s0" text="Substrate of CYP2D6 (minor), 3A4 (major);"/>
+    <sentence id="DDI-DrugBank.d235.s1" text="Inhibits CYP2D6 (weak)."/>
+    <sentence id="DDI-DrugBank.d235.s2" text="Increased toxicity (CNS depression): CNS depressants, MAO inhibitors, tricyclic antidepressants, phenothiazines.">
+        <entity id="DDI-DrugBank.d235.s2.e0" charOffset="37-51"
+            type="group" text="CNS depressants"/>
+        <entity id="DDI-DrugBank.d235.s2.e1" charOffset="54-67"
+            type="group" text="MAO inhibitors"/>
+        <entity id="DDI-DrugBank.d235.s2.e2" charOffset="70-94"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d235.s2.e3" charOffset="97-110"
+            type="group" text="phenothiazines"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d235.s3" text="CYP3A4 inhibitors: May increase the levels/effects of chlorpheniramine.">
+        <entity id="DDI-DrugBank.d235.s3.e0" charOffset="54-69"
+            type="drug" text="chlorpheniramine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d235.s4" text="Example inhibitors include azole antifungals, ciprofloxacin, clarithromycin, diclofenac, doxycycline, erythromycin, imatinib, isoniazid, nefazodone, nicardipine, propofol, protease inhibitors, quinidine, and verapamil.">
+        <entity id="DDI-DrugBank.d235.s4.e0" charOffset="27-43"
+            type="group" text="azole antifungals"/>
+        <entity id="DDI-DrugBank.d235.s4.e1" charOffset="46-58"
+            type="drug" text="ciprofloxacin"/>
+        <entity id="DDI-DrugBank.d235.s4.e2" charOffset="61-74"
+            type="drug" text="clarithromycin"/>
+        <entity id="DDI-DrugBank.d235.s4.e3" charOffset="77-86"
+            type="drug" text="diclofenac"/>
+        <entity id="DDI-DrugBank.d235.s4.e4" charOffset="89-99"
+            type="drug" text="doxycycline"/>
+        <entity id="DDI-DrugBank.d235.s4.e5" charOffset="102-113"
+            type="drug" text="erythromycin"/>
+        <entity id="DDI-DrugBank.d235.s4.e6" charOffset="116-123"
+            type="drug" text="imatinib"/>
+        <entity id="DDI-DrugBank.d235.s4.e7" charOffset="126-134"
+            type="drug" text="isoniazid"/>
+        <entity id="DDI-DrugBank.d235.s4.e8" charOffset="137-146"
+            type="drug" text="nefazodone"/>
+        <entity id="DDI-DrugBank.d235.s4.e9" charOffset="149-159"
+            type="drug" text="nicardipine"/>
+        <entity id="DDI-DrugBank.d235.s4.e10" charOffset="162-169"
+            type="drug" text="propofol"/>
+        <entity id="DDI-DrugBank.d235.s4.e11" charOffset="172-190"
+            type="group" text="protease inhibitors"/>
+        <entity id="DDI-DrugBank.d235.s4.e12" charOffset="193-201"
+            type="drug" text="quinidine"/>
+        <entity id="DDI-DrugBank.d235.s4.e13" charOffset="208-216"
+            type="drug" text="verapamil"/>
+    </sentence>
+</document>

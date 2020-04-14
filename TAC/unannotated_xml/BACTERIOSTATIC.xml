@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bacteriostatic" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions
+
+  Reactions which may occur because of this solution, added drugs or the technique of reconstitution or administration include febrile response, local tenderness, abscess, tissue necrosis or infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection and extravasation. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate countermeasures, and if possible, retrieve and save the remainder of the unused vehicle for examination. Although adverse reactions to intravenous, intramuscular or subcutaneous injection of 0.9% benzyl alcohol are not known to occur in man, experimental studies of small volume parenteral preparations containing 0.9% benzyl alcohol in several species of animals have indicated that an estimated intravenous dose up to 30 mL may be safely given to an adult without toxic effects. Administration of an estimated 9 mL to a 6 kg infant or neonate is potentially capable of producing blood pressure changes.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: Boxed Warning
+
+  Boxed Warning
+
+    WARNING:NOT FOR USE IN NEONATES.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

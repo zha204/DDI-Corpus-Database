@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="venclexta" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse events are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  Tumor Lysis Syndrome [see Warnings and Precautions (  5.1  )]  
+ *  Neutropenia [see Warnings and Precautions (  5.2  )]  
+    Because clinical trials are conducted under widely variable conditions, adverse event rates observed in clinical trials of a drug cannot be directly compared with rates of clinical trials of another drug and may not reflect the rates observed in practice.
+ 
+
+   EXCERPT:   The most common adverse reactions (&gt;=20%) were neutropenia, diarrhea, nausea, anemia, upper respiratory tract infection, thrombocytopenia, and fatigue. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AbbVie Inc. at 1-800-633-9110 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  The safety of single agent VENCLEXTA at the 400 mg recommended daily dose following a dose ramp-up schedule is based on pooled data of 240 patients with previously treated CLL from two phase 2 trials and one phase 1 trial. In the pooled dataset, the median age was 66 years (range: 29 to 85 years), 95% were white, and 69% were male. The median number of prior therapies was 3 (range: 1 to 12). The median duration of treatment with VENCLEXTA at the time of data analysis was approximately 10.3 months (range: 0 to 34.1 months). Approximately 46% of patients received VENCLEXTA for more than 48 weeks.
+
+
+
+ The most common adverse reactions (&gt;=20%) of any grade were neutropenia, diarrhea, nausea, anemia, upper respiratory tract infection, thrombocytopenia, and fatigue.
+
+
+
+ Serious adverse reactions were reported in 43.8% of patients. The most frequent serious adverse reactions (&gt;=2%) were pneumonia, febrile neutropenia, pyrexia, autoimmune hemolytic anemia (AIHA), anemia, and TLS.
+
+
+
+ Discontinuations due to adverse reactions occurred in 8.3% of patients. The most frequent adverse reactions leading to drug discontinuation were thrombocytopenia and AIHA.
+
+
+
+ Dosage adjustments due to adverse reactions occurred in 9.6% of patients. The most frequent adverse reactions leading to dose adjustments were neutropenia, febrile neutropenia, and thrombocytopenia.
+
+
+
+ Adverse reactions reported in 3 trials of patients with previously treated CLL using single agent VENCLEXTA are presented in  Table 7  .
+
+
+
+ Table 7. Adverse Reactions Reported in &gt;=10% (Any Grade) or &gt;=5% (Grade 3 or 4) of Patients with CLL 
+ Body System      Adverse Reaction  Any Grade (%)N=240   
+  
+ Blood and lymphatic system disorders  Neutropenia  a    45                
+ Anemia  b        29               18                
+ Thrombocytopenia  c    22               15                
+ Febrile neutropenia  5                5                 
+ Gastrointestinal disorders  Diarrhea         35                
+ Nausea           33               &lt;1                
+ Vomiting         15               &lt;1                
+ Constipation     14               0                 
+ General disorders andadministration site conditions  Fatigue          21                
+ Pyrexia          16               &lt;1                
+ Peripheral edema  11               &lt;1                
+ Infections and infestations  Upper respiratory tract infection  22                
+ Pneumonia        8                5                 
+ Metabolic and nutrition disorders  Hypokalemia      12                
+ Musculoskeletal andconnective tissue disorders  Back pain        10                
+ Nervous system disorders  Headache         15                
+ Respiratory, thoracic, andmediastinal disorders  Cough            13                
+ Adverse Reactions graded using NCI Common Terminology Criteria for Adverse Events version 4.0.  a  Neutropenia/neutrophil count decreased.  b  Anemia/hemoglobin decreased.  c  Thrombocytopenia/platelet count decreased.   
+        Tumor Lysis Syndrome  
+ 
+
+ Tumor lysis syndrome is an important identified risk when initiating VENCLEXTA. In the initial Phase 1 dose-finding trials, which had shorter (2-3 week) ramp-up phase and higher starting dose, the incidence of TLS was 12% (9/77; 4 laboratory TLS, 5 clinical TLS), including 2 fatal events and 3 events of acute renal failure, 1 requiring dialysis.
+
+
+
+ The risk of TLS was reduced after revision of the dosing regimen and modification to prophylaxis and monitoring measures  [see Dosage and Administration (  2.2  ,  2.3  )]  . In venetoclax clinical trials, patients with any measurable lymph node &gt;=10 cm or those with both an ALC &gt;=25 x 10  9  /L and any measurable lymph node &gt;=5 cm were hospitalized to enable more intensive hydration and monitoring for the first day of dosing at 20 mg and 50 mg during the ramp-up phase.
+
+
+
+ In 66 patients with CLL starting with a daily dose of 20 mg and increasing over 5 weeks to a daily dose of 400 mg, the rate of TLS was 6%. All events either met laboratory TLS criteria (laboratory abnormalities that met &gt;=2 of the following within 24 hours of each other: potassium &gt;6 mmol/L, uric acid &gt;476 umol/L, calcium &lt;1.75 mmol/L, or phosphorus &gt;1.5 mmol/L); or were reported as TLS events. The events occurred in patients who had a lymph node(s) &gt;=5 cm or ALC &gt;=25 x 10  9  /L. No TLS with clinical consequences such as acute renal failure, cardiac arrhythmias or sudden death and/or seizures was observed in these patients. All patients had CrCl &gt;=50 mL/min.
+
+
+
+ Laboratory abnormalities relevant to TLS observed in 66 patients with CLL who followed the dose ramp-up schedule and TLS prophylaxis measures are presented in  Table 8  .
+
+
+
+ Table 8. Adverse Reactions of TLS and Relevant Laboratory Abnormalities Reported in Patients with CLL 
+   Parameter                                 All Grades (%)    N=66          Grade &gt;=3 (%)    N=66          
+  
+ Laboratory TLS  a                         6                               6                                
+ Hyperkalemia  b                           20                              2                                
+ Hyperphosphatemia  c                      15                              3                                
+ Hypocalcemia  d                           9                               3                                
+ Hyperuricemia  e                          6                               2                                
+   a  Laboratory abnormalities that met &gt;=2 of the following criteria within 24 hours of each other: potassium &gt;6 mmol/L, uric acid &gt;476 umol/L, calcium &lt;1.75 mmol/L, or phosphorus &gt;1.5 mmol/L; or were reported as TLS events.  b  Hyperkalemia/blood potassium increased.  c  Hyperphosphatemia/blood phosphorus increased.  d  Hypocalcemia/blood calcium decreased.  e  Hyperuricemia/blood uric acid increased.   
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Tumor Lysis Syndrome (TLS): Anticipate TLS; assess risk in all patients. Premedicate with anti-hyperuricemics and ensure adequate hydration. Employ more intensive measures (intravenous hydration, frequent monitoring, hospitalization) as overall risk increases. (  2.3  ,  5.1  ) 
+ *  Neutropenia: Monitor blood counts and for signs of infection; manage as medically appropriate. (  2.4  ,  5.2  ) 
+ *  Immunization: Do not administer live attenuated vaccines prior to, during, or after VENCLEXTA treatment. (  5.3  ) 
+ *  Embryo-Fetal Toxicity: May cause embryo-fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment.  (5.4)   
+    
+ 
+
+   5.1 Tumor Lysis Syndrome
+
+
+
+  Tumor lysis syndrome, including fatal events and renal failure requiring dialysis, has occurred in previously treated CLL patients with high tumor burden when treated with VENCLEXTA [see Adverse Reactions (  6.1  )]  .
+
+
+
+ VENCLEXTA can cause rapid reduction in tumor and thus poses a risk for TLS in the initial 5-week ramp-up phase. Changes in blood chemistries consistent with TLS that require prompt management can occur as early as 6 to 8 hours following the first dose of VENCLEXTA and at each dose increase.
+
+
+
+ The risk of TLS is a continuum based on multiple factors, including tumor burden (see  Table 2  ) and comorbidities. Reduced renal function (CrCl &lt;80 mL/min) further increases the risk. Patients should be assessed for risk and should receive appropriate prophylaxis for TLS, including hydration and anti-hyperuricemics. Monitor blood chemistries and manage abnormalities promptly. Interrupt dosing if needed. Employ more intensive measures (intravenous hydration, frequent monitoring, hospitalization) as overall risk increases [see Dosage and Administration (  2.3  ,  2.4  ) and Use in Specific Populations (  8.6  )]  .
+
+
+
+ Concomitant use of VENCLEXTA with strong or moderate CYP3A inhibitors and P-gp inhibitors increases venetoclax exposure, may increase the risk of TLS at initiation and during ramp-up phase and may require VENCLEXTA dose adjustment [see Dosage and Administration (  2.5  ) and Drug Interactions (  7.1  )]  .
+
+
+
+    5.2 Neutropenia
+
+
+
+  Grade 3 or 4 neutropenia occurred in 41% (98/240) of patients treated with VENCLEXTA [see Adverse Reactions (  6.1  )]  . Monitor complete blood counts throughout the treatment period. Interrupt dosing or reduce dose for severe neutropenia. Consider supportive measures including antimicrobials for signs of infection and use of growth factors (e.g., G-CSF) [see Dosage and Administration (  2.4  )]  .
+
+
+
+    5.3 Immunization
+
+
+
+  Do not administer live attenuated vaccines prior to, during, or after treatment with VENCLEXTA until B-cell recovery occurs. The safety and efficacy of immunization with live attenuated vaccines during or following VENCLEXTA therapy have not been studied. Advise patients that vaccinations may be less effective.
+
+
+
+    5.4 Embryo-Fetal Toxicity
+
+
+
+  Based on its mechanism of action and findings in animals, VENCLEXTA may cause embryo-fetal harm when administered to a pregnant woman. In an embryo-fetal study conducted in mice, administration of venetoclax to pregnant animals at exposures equivalent to that observed in patients at the recommended dose of 400 mg daily resulted in post-implantation loss and decreased fetal weight. There are no adequate and well-controlled studies in pregnant woman using VENCLEXTA. Advise females of reproductive potential to avoid pregnancy during treatment. If VENCLEXTA is used during pregnancy or if the patient becomes pregnant while taking VENCLEXTA, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations  (8.1)  ]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="netspot" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The safety of Ga 68 dotatate was evaluated in three single center studies  [see  Clinical Studies (14)  ]  and in a survey of the scientific literature.  No serious adverse reactions were identified.
+
+
+
+   EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Advanced Accelerator Applications USA, Inc. at 1-212-235-2380 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:    *   Radiation Risk : Ga 68 dotatate contributes to a patient's overall long-term cumulative radiation exposure.  Ensure safe handling and preparation procedures to protect patients and health care workers from unintentional radiation exposure (  5.1  ) 
+ *   Risk for Image Misinterpretation : The uptake of Ga 68 dotatate can be seen in a variety of tumor types other than NETs (e.g. those derived from neural crest tissue), in other pathologic conditions, and as a normal physiologic variant (e.g. uncinate process of the pancreas).  (  5.2  ) 
+    
+ 
+
+   5.1 Radiation Risk
+
+
+
+  Ga 68 dotatate contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Ensure safe handling and preparation reconstitution procedures to protect patients and health care workers from unintentional radiation exposure [ see  Dosage and Administration (2.1)    ]
+
+
+
+    5.2 Risk for Image Misinterpretation
+
+
+
+  The uptake of Ga 68 dotatate reflects the level of somatostatin receptor density in NETs.  However, uptake can also be seen in a variety of other tumor types (e.g. those derived from neural crest tissue).  Increased uptake might also be seen in other pathologic conditions (e.g. thyroid disease or subacute inflammation) or might occur as a normal physiologic variant (e.g. uncinate process of the pancreas).  The uptake may need to be confirmed by histopathology or other assessments [See  Image Interpretation (2.7)  ]  . 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

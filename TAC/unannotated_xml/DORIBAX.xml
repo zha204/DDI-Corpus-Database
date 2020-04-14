@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="doribax" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6    ADVERSE REACTIONS  
+
+  The following adverse reactions are discussed in greater detail in other sections of labeling:
+
+
+
+ *  Anaphylaxis and serious hypersensitivity reactions [ see    Warnings and Precautions (5.2)   ] 
+ *   Seizures [ see    Warnings and Precautions (5.3)   ] 
+ *  Interaction with sodium valproate   [ see    Warnings and Precautions (5.4)    and    Drug Interactions (7.1)   ] 
+ *   Clostridium difficile -associated diarrhea   [ see    Warnings and Precautions (5.5)   ] 
+ *  Development of drug-resistant bacteria [ see    Warnings and Precautions (5.6)   ] 
+ *  Pneumonitis with inhalational use [ see    Warnings and Precautions (5.7)   ] 
+      EXCERPT:   Most common adverse reactions (&gt;= 5%) are headache, nausea, diarrhea, rash and phlebitis.(  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Shionogi Inc. at 1-800-849-9707 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1    Adverse Reactions from Clinical Trials  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be compared directly to rates from clinical trials of another drug and may not reflect rates observed in practice.
+
+
+
+ During clinical investigations, 1338 adult patients were treated with DORIBAX  (r)  (1076 patients received doripenem 500 mg administered over 1 hour every 8 hours and 262 patients received doripenem 500 mg administered over 4 hours every 8 hours); in some patients parenteral therapy was followed by a switch to an oral antimicrobial. [  see      Clinical Studies (14)    ]. The median age of patients treated with DORIBAX  (r)  was 54 years (range 18-90) in the comparative complicated urinary tract infections (cUTI) study, 46 years (range 18-94) in the pooled comparative complicated intra-abdominal infections (cIAI) studies, and 56 years (range 18-94) in the other Phase 3 trials. There was a female predominance (62%) in the comparative cUTI study and a male predominance (63% and 75%) in the comparative cIAI and other Phase 3 trials, respectively. The patients treated with DORIBAX  (r)  were predominantly Caucasian (79%) in the five comparator-controlled Phase 3 studies.
+
+
+
+ The most common adverse drug reactions (&gt;= 5%) observed in the five DORIBAX  (r)   comparator-controlled Phase 3 clinical trials were anemia, headache, nausea, diarrhea, rash, phlebitis, and elevated hepatic enzymes. During clinical trials, adverse events led to discontinuation of DORIBAX  (r)  in 4.1% (55 of 1338) of patients compared to 4.3% (58 of 1325) of comparator-treated patients.
+
+
+
+ Adverse reactions due to DORIBAX  (r)  500 mg every 8 hours that occurred at a rate &gt;= 1 % are listed in Table 4. Hypersensitivity reactions related to intravenous study drug occurred at a rate of less than 1%.
+
+
+
+ Table 4: Adverse Reactions with Incidence Rates (%) of &gt;= 1% in the Controlled Phase 3 Clinical Trials 
+                     Complicated Urinary Tract    Infections (one trial)       Complicated Intra-Abdominal    Infections (two trials)       Other Phase 3 Trials    (two trials)     
+  System organ class   DORIBAX  (r)  500 mg administered every 8 hours(n =376 )   Levofloxacin250 mg administered IV every 24 hours(n = 372)   DORIBAX  (r)  500 mg administered every 8 hours(n = 477)   Meropenem1 g administered every 8 hours(n = 469)   DORIBAX  (r)  500 mg administered every 8 hours(n =485 )   Comparator(n=484)   
+    Nervous system disorders                                                                                                           
+  Headache         16               15               4                5                3                3                
+    Vascular disorders                                                                                                           
+  Phlebitis        4                4                8                6                2                1                
+    Gastro-intestinal disorders                                                                                                           
+  Nausea           4                6                12               9                7                7                
+  Diarrhea         6                10               11               11               12               14               
+    C  .  difficile  colitis    &lt;1               0                &lt;1               0                1                2                
+    Blood and Lymphatic System disorders                                                                                                           
+  Anemia           2                1                10               5                5                6                
+    Skin and subcutaneous disorders                                                                                                           
+  Pruritus         1                1                3                2                1                1                
+  Rash             1                1                4                2                6                5                
+    Investigations                                                                                                           
+  Hepatic Enzyme elevation   2                4                2                4                7                6                
+    Infections and Infestations                                                                                                           
+  Oral candidiasis   1                0                1                2                3                1                
+  Vulvomycotic infection   2                1                1                &lt;1               0                &lt;1               
+             In a Phase 1 study of healthy subjects receiving doripenem doses greater than the approved dose of 500 mg every 8 hours for 10 to 14 days, the incidence of rash was higher than that observed in subjects who received 500 mg every 8 hours. The rash resolved within 10 days after doripenem administration was discontinued.
+ 
+
+     6.2    Postmarketing Experience  
+
+  The following adverse reactions have been identified during post-approval use of doripenem. Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     Hematologic  :  Leukopenia, Neutropenia, Thrombocytopenia
+
+
+
+   Immune System  : Anaphylaxis
+
+
+
+   Nervous System  : Seizure
+
+
+
+   Renal:  Renal impairment/failure
+
+
+
+   Respiratory  : Interstitial pneumonia
+
+
+
+     Skin  :  Toxic epidermal necrolysis, Stevens-Johnson Syndrome
+</Section>
+    <Section name="warnings and precautions" id="S2">     5   WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Increased mortality in ventilator-associated bacterial pneumonia patients. Doripenem is not indicated for ventilator-associated bacterial pneumonia (  5.1  ) 
+ *  Serious hypersensitivity (anaphylactic) reactions have been reported with carbapenems and other beta-lactams (  5.2  ) 
+ *  Seizures have been reported with carbapenems, including doripenem (  5.3  ) 
+ *  It has been shown that co-administration of DORIBAX  (r)  with valproic acid reduces the serum concentration of valproic acid. Patients with seizure disorders controlled with valproic acid or sodium valproate will therefore be at an increased risk for breakthrough seizures. (  5.4  ) 
+ *  Clostridium difficile-associated diarrhea (ranging from mild diarrhea to fatal colitis): Evaluate if diarrhea occurs (  5.5  ) 
+    
+ 
+
+    5.1 Increased Mortality in Ventilator-Associated Bacterial Pneumonia  
+
+
+
+  In a clinical trial of patients with ventilator-associated bacterial pneumonia comparing doripenem to imipenem, more subjects receiving doripenem died 23% (31/135) compared to those receiving imipenem 16.7% (22/132) based on 28-day all-cause mortality in the intent-to-treat (ITT) population. Clinical response rates were also lower in the doripenem arm. Doripenem is not approved for the treatment of ventilator-associated bacterial pneumonia.
+
+
+
+     5.2   Hypersensitivity Reactions  
+
+
+
+  Serious and occasionally fatal hypersensitivity (anaphylactic) and serious skin reactions have been reported in patients receiving beta-lactam antibiotics. These reactions are more likely to occur in individuals with a history of sensitivity to multiple allergens. Before therapy with DORIBAX  (r)  is instituted, careful inquiry should be made to determine whether the patient has had a previous hypersensitivity reaction to other carbapenems, cephalosporins, penicillins or other allergens. If this product is to be given to a penicillin- or other beta-lactam-allergic patient, caution should be exercised because cross-reactivity among beta-lactam antibiotics has been clearly documented.
+
+
+
+ If an allergic reaction to DORIBAX  (r)  occurs, discontinue the drug. Serious acute hypersensitivity (anaphylactic) reactions require emergency treatment, as clinically indicated.
+
+
+
+     5.3   Seizures  
+
+
+
+  Seizures have been reported during treatment with doripenem (see  section 6.2  ). In clinical trials, doripenem-treated patients with pre-existing central nervous system (CNS) disorders (e.g. stroke or history of seizures), patients with compromised renal function and patients given doses greater than 500 mg every 8 hours appear to be at greater risk for developing seizures.
+
+
+
+     5.4   Interaction with Valproic Acid  
+
+
+
+  Due to a drug interaction, patients with seizure disorders controlled with valproic acid or sodium valproate will be at an increased risk for breakthrough seizures when treated with DORIBAX  (r)  concomitantly. Reduction in serum valproic acid concentrations to below the therapeutic concentration range (50 to 100 mcg/mL) was observed by 12 hours after the initiation of doripenem in healthy subjects co-administered both drugs. A similar drug interaction involving other carbapenem antibacterials and valproic acid has been described in published case reports. In some of these reports, increasing the dose of valproic acid or sodium valproate did not result in increased valproic acid serum concentrations. Alternative antibacterial therapies should be considered for patients receiving valproic acid or sodium valproate. If administration of DORIBAX  (r)  is necessary, supplemental anti-convulsant therapy should be considered. [ see         Drug Interactions (7.1)         and         Clinical Pharmacology (12.3)    ]
+
+
+
+     5.5   Clostridium difficile-Associated Diarrhea  
+
+
+
+   Clostridium difficile  -associated diarrhea (CDAD) has been reported with nearly all antibacterial agents and may range in severity from mild diarrhea to fatal colitis.
+
+
+
+ Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of C. difficile  .
+
+
+
+  C. difficile  produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile  cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+
+
+ If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile  may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile  , and surgical evaluation should be instituted as clinically indicated. [ see     Adverse Reactions (6.1)    ]
+
+
+
+     5.6   Development of Drug-Resistant Bacteria  
+
+
+
+  Prescribing DORIBAX  (r)  in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+
+
+     5.7   Pneumonitis with Inhalational Use  
+
+
+
+  When DORIBAX  (r)  has been used investigationally via inhalation, pneumonitis has occurred. DORIBAX  (r)  should not be administered by this route.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

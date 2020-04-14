@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hylenex" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions have been identified during post-approval use of hyaluronidase products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The most frequently reported adverse reactions have been mild local injection site reactions such as erythema and pain. Hyaluronidase has been reported to enhance the adverse reactions associated with co-administered drug products. Edema has been reported most frequently in association with subcutaneous fluid administration. Allergic reactions (urticaria or angioedema) have been reported in less than 0.1% of patients receiving hyaluronidase. Anaphylactic-like reactions following retrobulbar block or intravenous injections have occurred, rarely.
+
+
+
+    EXCERPT:    *  Allergic and anaphylactic-like reactions have been reported, rarely. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Halozyme Therapeutics, Inc. at 1-877-877-1679 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Spread of Localized Infection (  5.1  ) 
+ *  Ocular Damage (  5.2  ) 
+ *  Enzyme Inactivation with Intravenous Administration (  5.3  ) 
+ *  Products Containing Plasma-derived Albumin (  5.4  ) 
+    
+ 
+
+   5.1 Spread of Localized Infection
+
+
+
+  Hyaluronidase should not be injected into or around an infected or acutely inflamed area because of the danger of spreading a localized infection.
+
+
+
+ Hyaluronidase should not be used to reduce the swelling of bites or stings.
+
+
+
+    5.2 Ocular Damage
+
+
+
+  Hyaluronidase should not be applied directly to the cornea. It is not for topical use.
+
+
+
+    5.3 Enzyme Inactivation with Intravenous Administration
+
+
+
+  HYLENEX recombinant should not be administered intravenously. Its effects relative to dispersion and absorption of other drugs are not produced when it is administered intravenously because the enzyme is rapidly inactivated.
+
+
+
+    5.4 Products Containing Plasma-derived Albumin
+
+
+
+  This product contains albumin, a derivative of human blood. Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD). There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transmission would also be considered extremely remote. No cases of transmission of viral diseases, CJD, or vCJD have ever been identified for licensed albumin or albumin contained in other licensed products.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

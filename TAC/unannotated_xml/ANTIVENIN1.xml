@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="antivenin1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions
+
+  Immediate systemic reactions (allergic reactions or anaphylaxis) can occur whenever a horse-serum-containing product is administered. An immediate reaction (shock, anaphylaxis) usually occurs within 30 minutes. Symptoms and signs may develop before the needle is withdrawn and may include apprehension, flushing, itching, urticaria; edema of the face, tongue, and throat; cough, dyspnea, cyanosis, vomiting, and collapse. There have been isolated reports of cardiac arrest and death associated with Antivenin (Crotalidae) Polyvalent (equine origin) use. However, serious immediate reactions to Antivenin are rare. In skin-test-negative patients, Antivenin caused a true immediate sensitivity reaction in less than 1 percent of patients.  9  Although this experience has not been reported with Antivenin (coral snake), because of the similarity of these Antivenin products, this reaction cannot be ruled out for Antivenin (Micrurus fulvius) (equine origin).
+
+
+
+ Serum sickness usually occurs 5 to 24 days after administration and its frequency may be related to the number of Antivenin vials administered.  16  The incubation period may be less than 5 days, especially in those who have received horse-serum-containing preparations in the past. The usual symptoms and signs are malaise, fever, urticaria, lymphadenopathy, edema, arthralgia, nausea, and vomiting. Occasionally, neurological manifestations develop, such as meningismus or peripheral neuritis. Peripheral neuritis usually involves the shoulders and arms. Pain and muscle weakness are frequently present, and permanent atrophy may develop.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

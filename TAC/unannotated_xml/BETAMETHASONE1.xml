@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="betamethasone1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following local adverse reactions are reported infrequently when Betamethasone Dipropionate products are used as recommended in the    DOSAGE AND ADMINISTRATION    section. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infections, skin atrophy, striae and miliaria.
+
+
+
+ Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia and glucosuria in some patients.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

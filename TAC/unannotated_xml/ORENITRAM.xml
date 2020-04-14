@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="orenitram" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (incidence &gt;10%) reported in clinical studies with Orenitram are headache, nausea, and diarrhea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact United Therapeutics Corp. at 1-866-458-6479 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In a 12-week placebo-controlled monotherapy study (Study 1; WHO Group 1; functional class II-III), the most commonly reported adverse reactions that occurred in patients receiving Orenitram included: headache, nausea, and diarrhea. Table 1 lists the adverse reactions that occurred at a rate on Orenitram at least 5% higher than on placebo.
+
+
+
+ Orenitram patients in Table 1 for Study 1 (N = 151) had access to 0.25 mg tablets at randomization. Approximately 91% of such patients experienced an adverse reaction, but only 4% discontinued therapy for an adverse reaction (compared to 3% receiving placebo). The overall discontinuation rate for any reason was 17% for active and 14% for placebo.
+
+
+
+ Table 1: Adverse Reactions with Rates at Least 5% Higher on Orenitram Monotherapy than on Placebo 
+ Reaction                                          OrenitramN=151                   PlaceboN=77             
+  
+ Headache                                               63%                             19%                 
+ Diarrhea                                               30%                             16%                 
+ Nausea                                                 30%                             18%                 
+ Flushing                                               15%                              6%                 
+ Pain in jaw                                            11%                              4%                 
+ Pain in extremity                                      14%                              8%                 
+ Hypokalemia                                             9%                              3%                 
+ Abdominal discomfort                                    6%                              0%                 
+         Orenitram was studied in a long-term, open-label extension study in which 824 patients were dosed for a mean duration of approximately 2 years. About 70% of patients continued treatment with Orenitram for at least a year. The mean dose was 4.2 mg BID at one year. The adverse reactions were similar to those observed in the placebo-controlled trials.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Do not abruptly discontinue dosing. (  2.4  ,  5.1  ) 
+ *  Increased risk of bleeding, particularly in patients receiving anticoagulants. (  5.2  ) 
+ *  Do not take Orenitram with alcohol (  5.3  ) 
+ *  In patients with diverticulosis Orenitram tablets can become lodged in a diverticulum. (  5.4  ) 
+    
+ 
+
+   5.1 Worsening PAH Symptoms upon Abrupt Withdrawal
+
+
+
+  Abrupt discontinuation or sudden large reductions in dosage of Orenitram may result in worsening of PAH symptoms.
+
+
+
+    5.2 Risk of Bleeding
+
+
+
+  Orenitram inhibits platelet aggregation and increases the risk of bleeding.
+
+
+
+    5.3 Increased Exposure with Alcohol
+
+
+
+  Do not take Orenitram with alcohol as release of treprostinil from the tablet may occur at a faster rate than intended.
+
+
+
+    5.4 Use in Patients with Blind-end Pouches
+
+
+
+  The tablet shell does not dissolve. In patients with diverticulosis, Orenitram tablets can lodge in a diverticulum.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

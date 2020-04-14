@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sodium1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Reactions which may occur because of the solution, added drugs or the technique of reconstitution or administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. Carefully review the prescribing information for the diluted drug.
+
+
+
+ The physician should also be alert to the possibility of adverse reactions to drug additives. Prescribing information for drug additives to be administered in this manner should be consulted.
+
+
+
+ Symptoms may result from an excess or deficit of one or more of the ions present in the solution; therefore, frequent monitoring of electrolyte levels is essential.
+
+
+
+ Hypernatremia may be associated with edema and exacerbation of congestive heart failure due to the retention of water, resulting in an expanded extracellular fluid volume.
+
+
+
+ If infused in large amounts, chloride ions may cause a loss of bicarbonate ions, resulting in an acidifying effect.
+
+
+
+ If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination if deemed necessary.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cipro0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In Phase 3 clinical trials, a total of 564 patients were treated with CIPRO  (r)  HC OTIC. Adverse events with at least remote relationship to treatment included headache (1.2%) and pruritus (0.4%). The following treatment-related adverse events were each reported in a single patient: migraine, hypesthesia, paresthesia, fungal dermatitis, cough, rash, urticaria, and alopecia.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

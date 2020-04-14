@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hypertet" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Slight soreness at the site of injection and slight temperature elevation may be noted at times. Sensitization to repeated injections of human immunoglobulin is extremely rare.
+
+
+
+ In the course of routine injections of large numbers of persons with immunoglobulin there have been a few isolated occurrences of angioneurotic edema, nephrotic syndrome, and anaphylactic shock after injection.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

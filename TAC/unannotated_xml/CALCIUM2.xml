@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="calcium2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Rapid injection may cause the patient to complain of tingling sensations, a calcium taste, a sense of oppression or "heat wave".
+
+
+
+ Injections of calcium chloride are accompanied by peripheral vasodilatation as well as a local "burning" sensation and there may be a moderate fall in blood pressure.
+
+
+
+ Should perivascular infiltration occur, I.V. administration at that site should be discontinued at once. Local infiltration of the affected area with 1% procaine hydrochloride, to which hyaluronidase may be added, will often reduce venospasm and dilute the calcium remaining in the tissues locally. Local application of heat may also be helpful.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hemofil" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse Reactions from Clinical Trials
+
+  The adverse reactions presented in this section have been identified based on clinical trial experience with HEMOFIL M in patients previously treated with other Factor VIII concentrates or blood products (N = 74), and previously untreated patients (PUPs; N = 50).
+
+
+
+
+  Clinical Trial Adverse Reactions        
+  System Organ Class (SOC)                Preferred MedDRA Term                 Number of Cases  (Frequency  Percentage)    
+  BLOOD AND LYMPHATIC  SYSTEM DISORDERS    Factor VIII inhibition                3 (5.7%)In a study that included 43 evaluable PUPs and 10 minimally treated patients (MTPs), i.e., patients with a single exposure to other Factor VIII concentrates or blood products, 3 of the total of 53 patients (5.7%) developed an inhibitor while on study.    
+  NERVOUSSYSTEM DISORDERS                 Dizziness                             1 (0.8%)                    
+  Headache                                1 (0.8%)                              
+  Dysgeusia                               1 (0.8%)                              
+  GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS    Pyrexia                               1 (0.8%)                    
+  Infusion site inflammation              2 (1.6%)                              
+         HEMOFIL M was administered to 11 patients previously untreated with Antihemophilic Factor (Human). They have shown no signs of hepatitis or HIV infection following three to nine months of evaluation.
+ 
+
+ A study of 25 patients treated with HEMOFIL M and monitored for three to six months has demonstrated no evidence of antibody response to mouse protein. More than 1,000 infusions of HEMOFIL M have been administered during the clinical trials. Reported events included a single episode each of chest tightness, fuzziness and dizziness, and one patient reported an unusual taste after each infusion.
+
+
+
+   Post-marketing Adverse Reactions
+
+  In addition to clinical trials, the following adverse reactions have been reported in the post-marketing experience, listed by MedDRA System Organ Class (SOC), then by Preferred Term.
+
+
+
+   Immune System Disorders:  anaphylactic reaction, hypersensitivity
+
+
+
+   Eye Disorders:  visual impairment, ocular hyperemia
+
+
+
+   Cardiac Disorders:  cyanosis, bradycardia, tachycardia
+
+
+
+   Vascular Disorders:  hypotension, flushing
+
+
+
+   Respiratory, Thoracic, and Mediastinal Disorders  : bronchospasm, dyspnea, cough, hyperventilation
+
+
+
+   Gastrointestinal Disorders:  diarrhea, vomiting, nausea, abdominal pain
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  urticaria, rash, pruritus, hyperhidrosis
+
+
+
+   Musculoskeletal and Connective Tissue Disorders:  musculoskeletal pain
+
+
+
+   General Disorders and Administration Site Conditions:  facial edema, edema, chills, fatigue, chest pain, irritability
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

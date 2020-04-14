@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="choletec" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Urticaria and rash have been rarely reported with the use of Technetium Tc 99m Mebrofenin since market introduction. Rare cases of chills and nausea have been reported with related compounds. Infrequently, death has been reported in association with the use of this class of agents.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

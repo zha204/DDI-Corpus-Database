@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="mmr" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions are listed in decreasing order of severity, without regard to causality, within each body system category and have been reported during clinical trials, with use of the marketed vaccine, or with use of monovalent or bivalent vaccine containing measles, mumps, or rubella:
+
+
+
+   Body as a Whole  
+
+
+
+ Panniculitis; atypical measles; fever; syncope; headache; dizziness; malaise; irritability.
+
+
+
+   Cardiovascular System  
+
+
+
+ Vasculitis.
+
+
+
+   Digestive System  
+
+
+
+ Pancreatitis; diarrhea; vomiting; parotitis; nausea.
+
+
+
+   Endocrine System  
+
+
+
+ Diabetes mellitus.
+
+
+
+   Hemic and Lymphatic System  
+
+
+
+ Thrombocytopenia (see  WARNINGS, Thrombocytopenia  ); purpura; regional lymphadenopathy; leukocytosis.
+
+
+
+   Immune System  
+
+
+
+ Anaphylaxis and anaphylactoid reactions have been reported as well as related phenomena such as angioneurotic edema (including peripheral or facial edema) and bronchial spasm in individuals with or without an allergic history.
+
+
+
+   Musculoskeletal System  
+
+
+
+ Arthritis; arthralgia; myalgia.
+
+
+
+ Arthralgia and/or arthritis (usually transient and rarely chronic), and polyneuritis are features of infection with wild-type rubella and vary in frequency and severity with age and sex, being greatest in adult females and least in prepubertal children. This type of involvement as well as myalgia and paresthesia, have also been reported following administration of MERUVAX II.
+
+
+
+ Chronic arthritis has been associated with wild-type rubella infection and has been related to persistent virus and/or viral antigen isolated from body tissues. Only rarely have vaccine recipients developed chronic joint symptoms.
+
+
+
+ Following vaccination in children, reactions in joints are uncommon and generally of brief duration. In women, incidence rates for arthritis and arthralgia are generally higher than those seen in children (children: 0-3%; women: 12-26%),{  17,56,57  } and the reactions tend to be more marked and of longer duration. Symptoms may persist for a matter of months or on rare occasions for years. In adolescent girls, the reactions appear to be intermediate in incidence between those seen in children and in adult women. Even in women older than 35 years, these reactions are generally well tolerated and rarely interfere with normal activities.
+
+
+
+   Nervous System  
+
+
+
+ Encephalitis; encephalopathy; measles inclusion body encephalitis (MIBE) (see  CONTRAINDICATIONS  ); subacute sclerosing panencephalitis (SSPE); Guillain-Barre Syndrome (GBS); acute disseminated encephalomyelitis (ADEM); transverse myelitis; febrile convulsions; afebrile convulsions or seizures; ataxia; polyneuritis; polyneuropathy; ocular palsies; paresthesia.
+
+
+
+ Experience from more than 80 million doses of all live measles vaccines given in the U.S. through 1975 indicates that significant central nervous system reactions such as encephalitis and encephalopathy, occurring within 30 days after vaccination, have been temporally associated with measles vaccine very rarely.{  58  } In no case has it been shown that reactions were actually caused by vaccine. The Centers for Disease Control and Prevention has pointed out that "a certain number of cases of encephalitis may be expected to occur in a large childhood population in a defined period of time even when no vaccines are administered". However, the data suggest the possibility that some of these cases may have been caused by measles vaccines. The risk of such serious neurological disorders following live measles virus vaccine administration remains far less than that for encephalitis and encephalopathy with wild-type measles (one per two thousand reported cases).
+
+
+
+ Post-marketing surveillance of the more than 200 million doses of M-M-R and M-M-R II that have been distributed worldwide over 25 years (1971 to 1996) indicates that serious adverse events such as encephalitis and encephalopathy continue to be rarely reported.{  17  }
+
+
+
+ There have been reports of subacute sclerosing panencephalitis (SSPE) in children who did not have a history of infection with wild-type measles but did receive measles vaccine. Some of these cases may have resulted from unrecognized measles in the first year of life or possibly from the measles vaccination. Based on estimated nationwide measles vaccine distribution, the association of SSPE cases to measles vaccination is about one case per million vaccine doses distributed. This is far less than the association with infection with wild-type measles, 6-22 cases of SSPE per million cases of measles. The results of a retrospective case-controlled study conducted by the Centers for Disease Control and Prevention suggest that the overall effect of measles vaccine has been to protect against SSPE by preventing measles with its inherent higher risk of SSPE.{  59  }
+
+
+
+ Cases of aseptic meningitis have been reported to VAERS following measles, mumps, and rubella vaccination. Although a causal relationship between the Urabe strain of mumps vaccine and aseptic meningitis has been shown, there is no evidence to link Jeryl LynnTM mumps vaccine to aseptic meningitis.
+
+
+
+   Respiratory System  
+
+
+
+ Pneumonia; pneumonitis (see  CONTRAINDICATIONS  ); sore throat; cough; rhinitis.
+
+
+
+   Skin  
+
+
+
+ Stevens-Johnson syndrome; erythema multiforme; urticaria; rash; measles-like rash; pruritis.
+
+
+
+ Local reactions including burning/stinging at injection site; wheal and flare; redness (erythema); swelling; induration; tenderness; vesiculation at injection site.
+
+
+
+   Special Senses - Ear  
+
+
+
+ Nerve deafness; otitis media.
+
+
+
+   Special Senses - Eye  
+
+
+
+ Retinitis; optic neuritis; papillitis; retrobulbar neuritis; conjunctivitis.
+
+
+
+   Urogenital System  
+
+
+
+ Epididymitis; orchitis.
+
+
+
+   Other  
+
+
+
+ Death from various, and in some cases unknown, causes has been reported rarely following vaccination with measles, mumps, and rubella vaccines; however, a causal relationship has not been established in healthy individuals (see  CONTRAINDICATIONS  ). No deaths or permanent sequelae were reported in a published post-marketing surveillance study in Finland involving 1.5 million children and adults who were vaccinated with M-M-R II during 1982 to 1993.{  60  }
+
+
+
+ Under the National Childhood Vaccine Injury Act of 1986, health-care providers and manufacturers are required to record and report certain suspected adverse events occurring within specific time periods after vaccination. However, the U.S. Department of Health and Human Services (DHHS) has established a Vaccine Adverse Event Reporting System (VAERS) which will accept all reports of suspected events.{  49  } A VAERS report form as well as information regarding reporting requirements can be obtained by calling VAERS 1-800-822-7967.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

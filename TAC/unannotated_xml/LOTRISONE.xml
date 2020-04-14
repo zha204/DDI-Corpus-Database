@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lotrisone" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions reported for LOTRISONE cream were paraesthesia in 1.9% of patients and rash, edema, and secondary infections each in less than 1% of patients. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical trials common adverse reaction reported for LOTRISONE cream was paresthesia in 1.9% of patients. Adverse reactions reported at a frequency &lt; 1% included rash, edema, and secondary infection.
+
+
+
+   6.2 Postmarketing Experience
+
+  Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The following local adverse reactions have been reported with topical corticosteroids: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product).
+
+
+
+ Adverse reactions reported with the use of clotrimazole are: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  LOTRISONE cream can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of the treatment. Risk factor(s) are: use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and young age. Modify use should HPA axis suppression develop. (  5.1  ,  8.4  ) 
+ *  Pediatric patients may be more susceptible to systemic toxicity. (  5.1  ,  8.4  ) 
+ *  The use of LOTRISONE cream in the treatment of diaper dermatitis is not recommended. (  5.2  ) 
+    
+ 
+
+   5.1 Effects on Endocrine System
+
+
+
+  LOTRISONE cream can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Cushing's syndrome and hyperglycemia may also occur due to the systemic effect of corticosteroids while on treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressing, altered skin barrier, liver failure, and young age.
+
+
+
+ Because of the potential for systemic corticosteroid effects, patients may need to be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test.
+
+
+
+ In a small trial, LOTRISONE cream was applied using large dosages, 7 g daily for 14 days (BID) to the crural area of normal adult subjects. Three of the 8 normal subjects on whom LOTRISONE cream was applied exhibited low morning plasma cortisol levels during treatment. One of these subjects had an abnormal cosyntropin test. The effect on morning plasma cortisol was transient and subjects recovered 1 week after discontinuing dosing. In addition, 2 separate trials in pediatric subjects demonstrated adrenal suppression as determined by cosyntropin testing [see  Use in Specific Populations (8.4)  ]  .
+
+
+
+ If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid.
+
+
+
+ Pediatric patients may be more susceptible to systemic toxicity due to their larger skin-surface-to-body mass ratios [see  Use in Specific Populations (8.4)  ]  .
+
+
+
+    5.2 Diaper Dermatitis
+
+
+
+   The use of LOTRISONE cream in the treatment of diaper dermatitis is not recommended.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

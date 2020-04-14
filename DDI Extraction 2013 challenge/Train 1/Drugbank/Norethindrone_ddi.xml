@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d306">
+    <sentence id="DDI-DrugBank.d306.s0" text="The effectiveness of progestin-only pills is reduced by hepatic enzyme-inducing drugs such as the anticonvulsants phenytoin, carbamazepine, and barbiturates, and the antituberculosis drug rifampin.">
+        <entity id="DDI-DrugBank.d306.s0.e0" charOffset="21-29"
+            type="group" text="progestin"/>
+        <entity id="DDI-DrugBank.d306.s0.e1" charOffset="98-112"
+            type="group" text="anticonvulsants"/>
+        <entity id="DDI-DrugBank.d306.s0.e2" charOffset="114-122"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d306.s0.e3" charOffset="125-137"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d306.s0.e4" charOffset="144-155"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d306.s0.e5" charOffset="166-186"
+            type="group" text="antituberculosis drug"/>
+        <entity id="DDI-DrugBank.d306.s0.e6" charOffset="188-195"
+            type="drug" text="rifampin"/>
+        <ddi id="DDI-DrugBank.d306.s0.d0" e1="DDI-DrugBank.d306.s0.e0"
+            e2="DDI-DrugBank.d306.s0.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d306.s0.d1" e1="DDI-DrugBank.d306.s0.e0"
+            e2="DDI-DrugBank.d306.s0.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d306.s0.d2" e1="DDI-DrugBank.d306.s0.e0"
+            e2="DDI-DrugBank.d306.s0.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d306.s0.d3" e1="DDI-DrugBank.d306.s0.e0"
+            e2="DDI-DrugBank.d306.s0.e6" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d306.s1" text="No significant interaction has been found with broad-spectrum antibiotics.">
+        <entity id="DDI-DrugBank.d306.s1.e0" charOffset="62-72"
+            type="group" text="antibiotics"/>
+    </sentence>
+</document>

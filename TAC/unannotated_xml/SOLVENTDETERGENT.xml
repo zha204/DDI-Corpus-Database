@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="solventdetergent" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Serious adverse reactions seen in clinical trials were anaphylactic shock, citrate toxicity and severe hypotension.
+
+
+
+ The most common adverse reactions observed in &gt;= 1% of subjects included pruritis, urticaria, nausea, headache, and paresthesia.
+
+
+
+   EXCERPT:   The most common adverse reactions observed in &gt;= 1% of patients included pruritis, urticaria, nausea, headache, paresthesia (  6  ).
+
+
+
+ 
+
+
+
+ Serious adverse reactions seen in clinical trials were anaphylactic shock, citrate toxicity and severe hypotension.
+
+
+
+ 
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Octapharma USA Inc. at phone # 866-766-4860 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+
+
+ 
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ Adverse reactions observed in clinical trials derive from 9 clinical trials. The mean dose administered ranged from 6 to 15 milliliters/kg body weight; when used in plasma exchange the dose was between 15 to 75 milliliters/kg. Two of the studies were conducted in healthy volunteers (n=90).
+
+
+
+ In total, 359 subjects received about 600 transfusion episodes in these trials.
+
+
+
+ The following table shows the adverse reactions observed in &gt;= 1% of subjects in order of severity:
+
+
+
+
+                             
+  
+  Nervous system disorders  Headache, paresthesia    
+  Gastrointestinal disorders  Nausea    
+  Skin and subcutaneous tissue disorders  Pruritis, urticaria    
+        6.2 Post-Marketing Experience
+   Because post-marketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate the frequency of these reactions or establish a causal relationship to product exposure.
+
+
+
+
+                             
+  
+  Blood system disorders  Hyperfibrinolysis    
+  Immune system disorders  Hypersensitivity reactions including anaphylactoid and allergic type of reactions    
+  Metabolic and nutritional disorders  Alkalosis    
+  Cardiovascular disorders  Cardiac arrest, circulatory overload, thromboembolism, tachycardia    
+  Respiratory, thoracic and mediastinal disorders  Respiratory arrest or failure, bronchospasm, pulmonary edema, dyspnea, tachypnoea    
+  Gastrointestinal disorders  Abdominal pain, vomiting    
+  Skin and subcutaneous tissue disorders  Rash, erythema    
+  General disorders and administration site conditions  Fever and/or chills, chest discomfort or pain    
+  Investigations  Seroconversions (passive transfer of antibodies)    
+  Injury, poisoning and procedural complications  Citrate toxicity    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+    EXCERPT:   Transfusion reactions can occur with AB0 blood group mismatches (  5.1  )
+
+
+
+ High infusion rates can induce hypervolemia with consequent pulmonary edema or cardiac failure (  5.2  )
+
+
+
+ Excessive bleedings due to hyperfibrinolysis can occur due to low levels of alpha2-antiplasmin (  5.3  )
+
+
+
+ Thrombosis can occur due to low levels of Protein S (  5.4  )
+
+
+
+ Citrate toxicity can occur with volumes exceeding one milliliter of Octaplas per kg per minute (  5.5  )
+
+
+
+ Octaplas is made from human blood, therefore may carry the risk of transmitting infectious agents, e.g., viruses and theoretically, the variant Creutzfeldt-Jakob disease and Creutzfeldt-Jakob disease agent (  5.6  )
+
+
+
+ 
+
+
+
+ 
+
+
+
+   5.1 Transfusion reactions
+
+
+
+  Transfusion reactions can occur with AB0 blood group mismatches. Administration of Octaplas must be based on ABO-blood group compatibility.
+
+
+
+    5.2 Hypervolemia
+
+
+
+  High infusion rates can induce hypervolemia with consequent pulmonary edema or cardiac failure. Monitor patients for signs and symptoms of pulmonary edema or cardiac failure and institute appropriate management.
+
+
+
+    5.3 Hyperfibrinolysis
+
+
+
+  Excessive bleeding due to hyperfibrinolysis can occur due to low levels of alpha2-antiplasmin (also named plasmin inhibitor). Monitor for signs of excessive bleeding in patients undergoing liver transplantation.
+
+
+
+    5.4 Thrombosis
+
+
+
+  Thrombosis can occur due to low levels of Protein S. Monitor for signs and symptoms of thrombosis in patients at risk.
+
+
+
+    5.5 Citrate Toxicity
+
+
+
+  Citrate toxicity can occur with volumes exceeding one milliliter of Octaplas per kg per minute. The infusion rate should not exceed 0.020-0.025 mmol citrate per kilogram per minute (i.e., less than one milliliter Octaplas per kg per minute). Symptoms attributable to citrate toxicity (hypocalcaemia) include e.g., fatigue, paresthesia and muscle spasms, especially in patients with liver function disorders. Administer calcium gluconate intravenously into another vein in order to minimize citrate toxicity.
+
+
+
+    5.6 Infection Risk from Human Plasma
+
+
+
+  Because Octaplas is made from human plasma, it may carry a risk of transmitting infectious agents, e.g., viruses, the variant Creutzfeldt-Jakob disease (vCJD) agent and theoretically, the Creutzfeldt-Jakob disease (CJD)agent. ALL infections suspected by a physician possibly to have been transmitted by this product should be reported by the physician or other healthcare provider to Octapharma [1-866-766-4860] or FDA at 1-800-FDA-1088 or www.fea.gov/medwatch. See Description (  11  )
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

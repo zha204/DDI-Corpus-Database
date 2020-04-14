@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="syprine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Clinical experience with SYPRINE has been limited. The following adverse reactions have been reported in a clinical study in patients with Wilson's disease who were on therapy with trientine hydrochloride: iron deficiency, systemic lupus erythematosus (see  CLINICAL PHARMACOLOGY  ). In addition, the following adverse reactions have been reported in marketed use: dystonia, muscular spasm, myasthenia gravis.
+
+
+
+ SYPRINE is not indicated for treatment of biliary cirrhosis, but in one study of 4 patients treated with trientine hydrochloride for primary biliary cirrhosis, the following adverse reactions were reported: heartburn; epigastric pain and tenderness; thickening, fissuring and flaking of the skin; hypochromic microcytic anemia; acute gastritis; aphthoid ulcers; abdominal pain; melena; anorexia; malaise; cramps; muscle pain; weakness; rhabdomyolysis. A causal relationship of these reactions to drug therapy could not be rejected or established.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

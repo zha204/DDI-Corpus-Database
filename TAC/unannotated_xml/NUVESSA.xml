@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nuvessa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   EXCERPT:   The most common adverse reactions observed in clinical studies (incidence &gt;=1%) were vulvovaginal candidiasis, headache, vulvovaginal pruritus, nausea, diarrhea, and dysmenorrhea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  The safety of NUVESSA was evaluated in a randomized, double-blind, vehicle-controlled study in subjects with bacterial vaginosis. A total of 321 non-pregnant females with a mean age of 33.4 years (range 18 to 67 years) received NUVESSA. Subjects were primarily Black/African American (58.3%) or White (39.3%). Subjects administered a single dose of NUVESSA at bedtime on the first day of the study.
+
+
+
+ There were no deaths or serious adverse events in this trial. Adverse events were reported by 19.0% of subjects treated with NUVESSA versus 16.1% of subjects treated with Vehicle Gel.
+
+
+
+ Adverse events occurring in &gt;=1% of subjects receiving NUVESSA were: vulvovaginal candidiasis (5.6%), headache (2.2%), vulvovaginal pruritus (1.6%), nausea (1.6%), diarrhea (1.2%), and dysmenorrhea (1.2%). No subjects discontinued treatment due to adverse events.
+
+
+
+       6.2 Other Metronidazole Formulations
+
+    Other Vaginal Formulations  Other reactions that have been reported in association with the use of other formulations of metronidazole vaginal gel include: unusual taste and decreased appetite.
+
+
+
+   Topical (Dermal) Formulations  Other reactions that have been reported in association with the use of topical (dermal) formulations of metronidazole include skin irritation, transient skin erythema, and mild skin dryness and burning. None of these adverse reactions exceeded an incidence of 2% of patients.
+
+
+
+   Oral and Parenteral Formulations  The following adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of metronidazole:
+
+
+
+   Cardiovascular:   Flattening of the T-wave may be seen in electrocardiographic tracings.
+
+
+
+   Nervous System:  The most serious adverse reactions reported in patients treated with oral metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity. In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia. [  see Warnings and Precautions (  5.1  )  ]
+
+
+
+   Gastrointestinal:  Abdominal discomfort, nausea, vomiting, diarrhea, an unpleasant metallic taste, anorexia, epigastric distress, abdominal cramping, constipation, "furry" tongue, glossitis, stomatitis, pancreatitis, and modification of taste of alcoholic beverages.
+
+
+
+   Genitourinary:  Overgrowth of Candida in the vagina, dyspareunia, decreased libido, proctitis.
+
+
+
+   Hematopoietic:  Reversible neutropenia, reversible thrombocytopenia.
+
+
+
+   Hypersensitivity Reactions:  Urticaria; erythematous rash; Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing; nasal congestion; dryness of the mouth, vagina, or vulva; fever; pruritus; fleeting joint pains [  see    Contraindications (  4  )  ].
+
+
+
+   Renal:   Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, darkened urine.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Central and peripheral nervous system effects: Convulsive seizures and peripheral neuropathy have been reported in patients treated with oral or intravenous metronidazole. Discontinue promptly if abnormal neurologic signs develop (  5.1  ) 
+ *  Interference with laboratory tests: Metronidazole may interfere with certain serum chemistry laboratory values. (  5.3  ) 
+    
+ 
+
+   5.1 Central and Peripheral Nervous System Effects
+
+
+
+  Convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with oral or intravenous metronidazole. NUVESSA should be administered with caution to patients with central nervous system diseases.
+
+
+
+    5.2 Carcinogenicity in Animals
+
+
+
+  Metronidazole has been shown to be carcinogenic at high doses administered orally in mice and rats [ see Nonclinical Toxicology    (  13.1  )  ]. Unnecessary use of metronidazole should be avoided. Use of NUVESSA should be reserved for the treatment of bacterial vaginosis [ see Indications and Usage (  1  )  ].
+
+
+
+    5.3 Drug/Laboratory Test Interactions
+
+
+
+  Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and glucose hexokinase. Values of zero may be observed. All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation reduction of nicotinamide-adenine dinucleotides (NAD + NADH). Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="prohance0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6  ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the prescribing information:
+
+
+
+ *  Nephrogenic systemic fibrosis [see  Boxed Warning  and Warnings and Precautions (  5.1  )]  
+ *  Hypersensitivity reactions [see Contraindications (  4  ) and Warnings and Precautions (  5.2  )]  
+      EXCERPT:   The most commonly reported adverse reactions are nausea and taste perversion with an incidence of 1.4%. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, Contact Bracco Diagnostics Inc at 1-800-257-5181 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The adverse events described in this section were observed in clinical trials involving 1,251 patients (670 males and 581 females). Adult patients ranged in age from 18 to 91 yrs. Pediatric patients ranged from 2 to 17 years. The racial breakdown was 83% Caucasian, 8% Black, 3% Hispanic, 2% Asian, and 1% other. In 2% of the patients, race was not reported.
+
+
+
+ The most commonly noted adverse experiences were nausea and taste perversion with an incidence of 1.4%. These events were mild to moderate in severity.
+
+
+
+ The following additional adverse events occurred in fewer than 1% of the patients:
+
+
+
+
+ Body as a Whole:                Facial Edema; Neck Rigidity; Pain; Pain at Injection Site; Injection Site Reaction; Chest Pain; Headache; Fever; Itching; Watery Eyes; Abdominal Cramps; Tingling Sensation in Throat; Laryngismus; Flushed Feeling; Vasovagal Reaction; Anaphylactoid Reactions (characterized by cardiovascular, respiratory and cutaneous symptoms)   
+ Cardiovascular:                 Prolonged P-R Interval; Hypotension; Elevated Heart Rate; A-V Nodal Rhythm   
+ Digestive:                      Edematous and/or itching tongue; Gingivitis; Dry Mouth; Loose Bowel; Vomiting   
+ Nervous System:                 Anxiety; Dizziness; Paresthesia; Mental Status Decline; Loss of Coordination in Arm; Staring Episode; Seizure; Syncope   
+ Respiratory System:             Dyspnea; Rhinitis; Cough                                                 
+ Skin and Appendages:            Pruritus; Rash; Rash Macular Papular; Urticaria; Hives; Tingling Sensation of Extremity and Digits   
+ Special Senses:                 Tinnitus                                                                 
+        6.2 Post-marketing Experience
+   The following adverse reactions have been identified during post approval use of ProHance that were not observed in the clinical trials. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+
+ Body as a Whole:                Generalized Edema; Laryngeal Edema; Malaise; Anaphylactoid Reactions (characterized by cardiovascular, respiratory and cutaneous symptoms, and rarely resulting in Death)   
+ Cardiovascular:                 Cardiac Arrest; Bradycardia; Hypertension; and Death in association with pre-existing cardiovascular disorders   
+ Digestive:                      Increased Salivation; Dysphagia                                          
+ Nervous System:                 Stupor; Tremor; Loss of Consciousness                                    
+ Respiratory:                    Apnea; Wheezing                                                          
+ Skin and Appendages:            Sweating; and Cyanosis                                                   
+ Special Senses:                 Voice Alteration; Transitory Deafness                                    
+ Urogenital:                     Urinary Incontinence                                                     
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+  WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+    Gadolinium-based contrast
+
+agents (GBCAs) increase the risk for NSF among patients with impaired
+
+elimination of the drugs. Avoid use of GBCAs in these patients unless
+
+the diagnostic information is essential and not available with non-contrasted
+
+MRI or other modalities. NSF may result in fatal or debilitating systemic
+
+fibrosis affecting the skin, muscle and internal organs       [see Warnings and Precautions (  5.1  )].    
+
+
+
+ *  The risk for NSF appears highest among patients with:chronic, severe kidney disease (GFR &lt;30 mL/min/1.73m2), or acute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (e.g. age &gt; 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing. 
+ *  For patients at highest risk for NSF, do not exceed the recommended ProHance dose and allow a sufficient period of time for elimination of the drug from the body prior to re-administration [see Warnings and Precautions (5.1)]. 
+      EXCERPT:     WARNING: NEPHROGENIC SYSTEMIC
+ FIBROSIS  
+
+
+
+     See full prescribing
+
+information for complete boxed warning    
+
+
+
+   Gadolinium-based contrast agents
+
+(GBCAs) increase the risk for NSF among patients with impaired elimination
+
+of the drugs. Avoid use of GBCAs in these patients unless the diagnostic
+
+information is essential and not available with non-contrasted MRI
+
+or other modalities. NSF may result in fatal or debilitating systemic
+
+fibrosis affecting the skin, muscle and internal organs.  
+
+
+
+ *  The risk for NSF appears highest among patients with:chronic, severe kidney disease (GFR &lt;30 mL/min/1.73m2), oracute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (e.g. age &gt; 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing (5.1). 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5  WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Nephrogenic Systemic Fibrosis has occurred in patients with impaired elimination of GBCAs. Higher than recommended dosing or repeated dosing appears to increase risk (  5.1  ). 
+ *  Severe and fatal hypersensitivity reactions including anaphylaxis can occur. Monitor patients closely for need of emergency cardiorespiratory support (  5.2  ). 
+    
+ 
+
+   5.1 Nephrogenic Systemic Fibrosis (NSF)
+
+
+
+  Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs among these patients unless the diagnostic information is essential and not available with non-contrast enhanced MRI or other modalities. The GBCA-associated NSF risk appears highest for patients with chronic, severe kidney disease (GFR &lt;30 mL/min/1.73m  2  ) as well as patients with acute kidney injury. The risk appears lower for patients with chronic, moderate kidney disease (GFR 30-59 mL/min/1.73m  2  ) and little, if any, for patients with chronic, mild kidney disease (GFR 60-89 mL/min/1.73m  2  ). NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs. Report any diagnosis of NSF following ProHance administration to Bracco Diagnostics (1-800-257-5181) or FDA (1-800-FDA-1088 or  www.fda.gov/medwatch  ).
+
+
+
+ Screen patients for acute kidney injury and other conditions that may reduce renal function. Features of acute kidney injury consist of rapid (over hours to days) and usually reversible decrease in kidney function, commonly in the setting of surgery, severe infection, injury or drug-induced kidney toxicity. Serum creatinine levels and estimated GFR may not reliably assess renal function in the setting of acute kidney injury. For patients at risk for chronically reduced renal function (e.g., age &gt; 60 years, diabetes mellitus or chronic hypertension), estimate the GFR through laboratory testing.
+
+
+
+ Among the factors that may increase the risk for NSF are repeated or higher than recommended doses of a GBCA and the degree of renal impairment at the time of exposure. Record the specific GBCA and the dose administered to a patient. For patients at highest risk for NSF, do not exceed the recommended ProHance dose and allow a sufficient period of time for elimination of the drug prior to re-administration. For patients receiving hemodialysis, physicians may consider the prompt initiation of hemodialysis following the administration of a GBCA in order to enhance the contrast agent's elimination. The usefulness of hemodialysis in the prevention of NSF is unknown. [see Clinical Pharmacology (  12  )]  .
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+   Severe and fatal hypersensitivity reactions including anaphylaxis have been observed with administration of gadolinium products, including ProHance. Prior to ProHance administration, ensure the availability of trained personnel and medications to treat hypersensitivity reactions. Patients with a history of allergy, drug reactions or other hypersensitivity-like disorders should be closely monitored during the procedure and for several hours after drug administration. If a reaction occurs, stop ProHance and immediately begin appropriate therapy including resuscitation.  
+
+
+
+    5.3 Acute Kidney Injury (AKI)
+
+
+
+   In patients with chronically reduced renal function, acute kidney injury requiring dialysis has occurred with the use of GBCAs. The risk of acute kidney injury may increase with increasing dose of the contrast agent; administer the lowest dose necessary for adequate imaging.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="curosurf" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6 ADVERSE REACTIONS  
+
+   EXCERPT:    *  Common adverse reactions associated with the administration of CUROSURF include bradycardia, hypotension, endotracheal tube blockage, and oxygen desaturation. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Chiesi USA, Inc. at 1-888-661-9260 or FDA at 1-800-FDA-1088 or        www.fda.gov/medwatch        .  
+ 
+
+ 
+
+    6.1  Clinical Trials Experience  
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+   Adverse Reactions in Studies in Premature Infants with Respiratory Distress Syndrome  
+
+
+
+ The safety data described below reflect exposure to CUROSURF at a single dose of 2.5 mL/kg (200 mg/kg), in 78 infants of 700-2000 grams birth weight with RDS requiring mechanical ventilation and a FiO2 &gt;= 0.60 (Study 1) [  see clinical studies (  14.1  )  ]. A total of 144 infants were studied after RDS developed and before 15 hours of age; 78 infants received CUROSURF 2.5 mL/kg single dose (200 mg/kg), and 66 infants received control treatment (disconnection from the ventilator and manual ventilation for 2 minutes).
+
+
+
+ Transient adverse effects seen with the administration of CUROSURF included bradycardia, hypotension, endotracheal tube blockage, and oxygen desaturation. The rates of the most common serious complications associated with prematurity and RDS observed in Study 1 are shown in Table 2.
+
+
+
+   Table 2:  Most Common Serious Complications Associated with Prematurity and RDS in Study 1  
+
+
+
+
+                                                                                                                                                                   CUROSURF 2.5 mL/kg  n=78    CONTROL*  n=66                                                                                                                                                   
+  
+  Acquired Pneumonia                                                                                                                                               17%              21%                                                                                                                                                              
+  Acquired Septicemia                                                                                                                                              14%              18%                                                                                                                                                              
+  Bronchopulmonary Dysplasia                                                                                                                                       18%              22%                                                                                                                                                              
+  Intracranial Hemorrhage                                                                                                                                          51%              64%                                                                                                                                                              
+  Patent Ductus Arteriosus                                                                                                                                         60%              48%                                                                                                                                                              
+  Pneumothorax                                                                                                                                                     21%              36%                                                                                                                                                              
+  Pulmonary Interstitial Emphysema                                                                                                                                 21%              38%                                                                                                                                                              
+         *Control patients were disconnected from the ventilator and manually ventilated for 2 minutes.  No surfactant was instilled.
+ 
+
+ Seventy-six infants (45 treated with CUROSURF) from study 1 were evaluated at 1 year of age and 73 infants (44 treated with CUROSURF) were evaluated at 2 years of age to assess for potential long-term adverse reactions. Data from follow-up evaluations for weight and length, persistent respiratory symptoms, incidence of cerebral palsy, visual impairment, or auditory impairment was similar between treatment groups. In 16 patients (10 treated with CUROSURF and 6 controls) evaluated at 5.5 years of age, the developmental quotient, derived using the Griffiths Mental Developmental Scales, was similar between groups.
+
+
+
+     6.2  Immunogenicity  
+
+  Immunological studies have not demonstrated differences in levels of surfactant-anti-surfactant immune complexes and anti-CUROSURF antibodies between patients treated with CUROSURF and patients who received control treatment.
+
+
+
+     6.3  Postmarketing Experience  
+
+  Pulmonary hemorrhage, a known complication of premature birth and very low birth-weight, has been reported both in clinical trials with CUROSURF and in postmarketing adverse event reports in infants who had received CUROSURF.
+</Section>
+    <Section name="warnings and precautions" id="S2">     5 WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *   Acute Changes in Lung Compliance :  Frequently assess need to modify oxygen and ventilatory support to respiratory changes (  5.1  ) 
+ *   Administration-Related Adverse Reactions :  Transient adverse effects include bradycardia, hypotension, endotracheal tube blockage, and oxygen desaturation. These events require stopping CUROSURF administration and taking appropriate measures to alleviate the condition (  5.2  ) 
+    
+ 
+
+    5.1  Acute Changes in Oxygenation and Lung Compliance  
+
+
+
+  The administration of exogenous surfactants, including CUROSURF, can rapidly affect oxygenation and lung compliance. Therefore, infants receiving CUROSURF should receive frequent clinical and laboratory assessments so that oxygen and ventilatory support can be modified to respond to respiratory changes. CUROSURF should only be administered by those trained and experienced in the care, resuscitation, and stabilization of pre-term infants.
+
+
+
+     5.2  Administration-Related Adverse Reactions  
+
+
+
+  Transient adverse reactions associated with administration of CUROSURF include bradycardia, hypotension, endotracheal tube blockage, and oxygen desaturation. These events require stopping CUROSURF administration and taking appropriate measures to alleviate the condition. After the patient is stable, dosing may proceed with appropriate monitoring.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="iquix" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently reported adverse events in the overall study population were headache and a taste disturbance following instillation. These events occurred in approximately 8-10% of patients.
+
+
+
+ Adverse events occurring in approximately 1-2% of patients included decreased/blurred vision, diarrhea, dyspepsia, fever, infection, instillation site irritation/discomfort, ocular infection, nausea, ocular pain/discomfort, and throat irritation.
+
+
+
+ Other reported ocular reactions occurring in less than 1% of patients included chemosis, corneal erosion, corneal ulcer, diplopia, floaters, hyperemia, lid edema, and lid erythema.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

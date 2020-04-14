@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="chloraprep1" track="TAC2017_ADR">
+  <Text>
+    <Section name="warnings and precautions" id="S1">     WARNING FLAMMABLE  
+
+
+
+   Keep away from fire or flame. To reduce risk of fire, PREP CAREFULLY:  
+
+
+
+ *  do not use 26-ml applicator for head and neck surgery or on an area smaller than 8.4 in. * 8.4 in. Use a smaller applicator instead. 
+ *  solution contains alcohol and gives off flammable vapors  
+ *  avoid getting solution into hairy areas. Hair may take up to 1 hour to dry. Wet hair is flammable.  
+ *  do not drape or use ignition source (e.g. cautery, laser) until solution is completely dry (minimum of 3 minutes on hairless skin; up to 1 hour in hair) 
+ *  do not allow solution to pool 
+ *  remove wet materials from prep area 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

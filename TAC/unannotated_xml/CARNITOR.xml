@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="carnitor" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Transient nausea and vomiting have been observed. Less frequent adverse reactions are body odor, nausea, and gastritis. An incidence for these reactions is difficult to estimate due to the confounding effects of the underlying pathology.
+
+
+
+ Rhabdomyolysis has been reported to occur in patients receiving levocarnitine.
+
+
+
+ Seizures have been reported to occur in patients, with or without pre-existing seizure activity, receiving either oral or intravenous levocarnitine. In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
+
+
+
+ Various reports of hypoglycemia, vitamin K deficiency and abnormal prothrombin levels have also been reported with the use of levocarnitine.
+
+
+
+ The table below lists the adverse events that have been reported in two double-blind, placebo-controlled trials in patients on chronic hemodialysis. Events occurring at &gt;=5% are reported without regard to causality.
+
+
+
+   Adverse Events with a Frequency &gt;=5% Regardless of Causality by Body System  
+
+
+
+
+                              Placebo (n=63)    Levocarnitine 10 mg (n=34)    Levocarnitine 20 mg (n=62)    Levocarnitine 40 mg (n=34)    Levocarnitine 10, 20 &amp; 40 mg (n=130)    
+  Body as Whole                                                                                                   
+  Abdominal pain              17          21                5                 6                 9                 
+  Accidental injury           10          12                8                 12                10                
+  Allergic reaction           5           6                                                     2                 
+  Asthenia                    8           9                 8                 12                9                 
+  Back pain                   10          9                 8                 6                 8                 
+  Chest pain                  14          6                 15                12                12                
+  Fever                       5           6                 5                 12                7                 
+  Flu syndrome                40          15                27                29                25                
+  Headache                    16          12                37                3                 22                
+  Infection                   17          15                10                24                15                
+  Injection site reaction     59          38                27                38                33                
+  Pain                        49          21                32                35                30                
+  Cardiovascular                                                                                                  
+  Arrhythmia                  5           3                                   3                 2                 
+  Atrial fibrillation                                       2                 6                 2                 
+  Cardiovascular disorder     6           3                 5                 6                 5                 
+  Electrocardiogram abnormal                3                                   6                 2                 
+  Hemorrhage                  6           9                 2                 3                 4                 
+  Hypertension                14          18                21                21                20                
+  Hypotension                 19          15                19                3                 14                
+  Palpitations                            3                 8                                   5                 
+  Tachycardia                 5           6                 5                 9                 6                 
+  Vascular disorder           2                             2                 6                 2                 
+  Digestive                                                                                                       
+  Anorexia                    3           3                 5                 6                 5                 
+  Constipation                6           3                 3                 3                 3                 
+  Diarrhea                    19          9                 10                35                16                
+  Dyspepsia                   10          9                 6                                   5                 
+  Gastrointestinal disorder    2           3                                   6                 2                 
+  Melena                      3           6                                                     2                 
+  Nausea                      10          9                 5                 12                8                 
+  Stomach atony               5                                                                                   
+  Vomiting                    16          9                 16                21                15                
+  Endocrine System                                                                                                
+  Parathyroid disorder        2           6                 2                 6                 4                 
+  Hemic/Lymphatic                                                                                                 
+  Anemia                      3           3                 5                 12                6                 
+  Metabolic/Nutritional                                                                                           
+  Hypercalcemia               3           15                8                 6                 9                 
+  Hyperkalemia                6           6                 6                 6                 6                 
+  Hypervolemia                17          3                 3                 12                5                 
+  Peripheral edema            3           6                 5                 3                 5                 
+  Weight decrease             3           3                 8                 3                 5                 
+  Weight increase             2           3                                   6                 2                 
+  Musculo-Skeletal                                                                                                
+  Leg cramps                  13                            8                                   4                 
+  Myalgia                     6                                                                                   
+  Nervous                                                                                                         
+  Anxiety                     5                             2                                   1                 
+  Depression                  3           6                 5                 6                 5                 
+  Dizziness                   11          18                10                15                13                
+  Drug dependence             2           6                                                     2                 
+  Hypertonia                  5           3                                                     1                 
+  Insomnia                    6           3                 6                                   4                 
+  Paresthesia                 3           3                 3                 12                5                 
+  Vertigo                                 6                                                     2                 
+  Respiratory                                                                                                     
+  Bronchitis                                                5                 3                 3                 
+  Cough increase              16                            10                18                9                 
+  Dyspnea                     19          3                 11                3                 7                 
+  Pharyngitis                 33          24                27                15                23                
+  Respiratory disorder        5                                                                                   
+  Rhinitis                    10          6                 11                6                 9                 
+  Sinusitis                   5                             2                 3                 2                 
+  Skin And Appendages                                                                                             
+  Pruritus                    13                            8                 3                 5                 
+  Rash                        3                             5                 3                 3                 
+  Special Senses                                                                                                  
+  Amblyopia                   2                             6                                   3                 
+  Eye disorder                3           6                 3                                   3                 
+  Taste perversion                                          2                 9                 3                 
+  Urogenital                                                                                                      
+  Urinary tract infect        6           3                 3                                   2                 
+  Kidney failure              5           6                 6                 6                 6                 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

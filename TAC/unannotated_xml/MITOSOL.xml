@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="mitosol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most frequent adverse reactions to Mitosol  (r)  occur locally and include hypotony, hypotony maculopathy, blebitis, endophthalmitis, vascular reactions, corneal reactions, and cataract. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Mobius Therapeutics LLC at 1-877-393-6486 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Ophthalmic Adverse Reactions
+
+  The most frequent adverse reactions to Mitosol  (r)  occur locally, as an extension of the pharmacological activity of the drug. These reactions include:
+
+
+
+   Blebitis:  bleb ulceration, chronic bleb leak, encapsulated/cystic bleb, bleb-related infection, wound dehiscence, conjunctivial necrosis, thin-walled bleb
+
+
+
+   Cornea:  corneal endothelial damage, epithelial defect, anterior synechiae, superficial punctuate keratitis, Descemet's detachment, induced astigmatism
+
+
+
+   Endophthalmitis  
+
+
+
+   Hypotony:  choroidal reactions (choroidal detachment, choroidal effusion, serous choroidal detachment, suprachoroidal hemorrhage, hypotony maculopathy, presence of supraciliochoroidal fluid, hypoechogenic suprachoroidal effusion)
+
+
+
+   Inflammation:  iritis, fibrin reaction
+
+
+
+   Lens:  cataract development, cataract progression, capsule opacification, capsular constriction and/or capsulotomy rupture, posterior synechiae
+
+
+
+   Retina:  retinal pigment epithelial tear, retinal detachment (serous and rhegatogenous)
+
+
+
+   Scleritis:  wound dehiscence
+
+
+
+   Vascular:  hyphema, central retinal vein occlusion, hemiretinal vein occlusion, retinal hemorrhage, vitreal hemorrhage and blood clot, subconjunctival hemorrhage, disk hemorrhage
+
+
+
+   Additional Reactions:  macular edema, sclera thinning or ulceration, intraocular lens capture, disk swelling, malignant glaucoma, lacrimal drainage system obstruction, ciliary block, corneal vascularization, visual acuity decrease, cystic conjunctival degeneration, upper eyelid retraction, dislocated implants, severe loss of vision.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5. WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Cell Death. Mitomycin is cytotoxic. Use of mitomycin in concentrations higher than 0.2 mg/mL or use for longer than 2 minutes may lead to unintended corneal and/or scleral damage including thinning or perforation. Direct contact with the corneal endothelium will result in cell death. (  5.1  ) 
+ *  Hypotony. The use of mitomycin has been associated with an increased instance of post-operative hypotony. (  5.2  ) 
+ *  Cataract Development. Use in phakic patients has been correlated to a higher instance of lenticular change and cataract formation. (  5.3  ) 
+    
+ 
+
+   5.1 Cell Death
+
+
+
+  Mitomycin is cytotoxic. Use of mitomycin in concentrations higher than 0.2 mg/mL or use for longer than 2 minutes may lead to unintended corneal and/or scleral damage including thinning or perforation. Direct contact with the corneal endothelium will result in cell death.
+
+
+
+    5.2 Hypotony
+
+
+
+  The use of mitomycin has been associated with an increased instance of post-operative hypotony.
+
+
+
+    5.3 Cataract Formation
+
+
+
+  Use in phakic patients has been correlated to a higher instance of lenticular change and cataract formation.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

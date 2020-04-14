@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="qvar" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following reporting rates of common adverse experiences are based upon four clinical trials in which 1196 Patients (671 female and 525 male adults previously treated with as-needed bronchodilators and/or inhaled corticosteroids) were treated with QVAR (doses of 40, 80, 160, or 320 mcg twice daily) or CFC-BDP (doses of 42, 168, or 336 mcg twice daily) or placebo. The table below includes all events reported by patients taking QVAR (whether considered drug related or not) that occurred at a rate over 3% for either QVAR or CFC-BDP. In considering these data, difference in average duration of exposure and clinical trial design should be taken into account.
+
+
+
+ Adverse Events Reported by at Least 3% of the Patients for Either QVAR or CFC-BDP by Treatment and Daily Dose 
+                                                                                    QVAR                                                                                                        CFC-BDP                                                                         
+   Adverse Events             Placebo(N=289)%            Total(N=624)%              80-160mcg(N=233)%          320mcg(N=335)%             640mcg(N=56)%              Total(N=283)%              84mcg(N=59)%               336mcg(N=55)%              672mcg(N=169)%            
+ HEADACHE                   9                          12                         15                         8                          25                         15                         14                         11                         17                          
+ PHARYNGITIS                4                          8                          6                          5                          27                         10                         12                         9                          10                          
+ UPPER RESP TRACT INFECTION  11                         9                          7                          11                         5                          12                         3                          9                          17                          
+ RHINITIS                   9                          6                          8                          3                          7                          11                         15                         9                          10                          
+ INCREASED ASTHMA SYMPTOMS  18                         3                          2                          4                          0                          8                          14                         5                          7                           
+ ORAL SYMPTOMS              2                          3                          3                          3                          2                          6                          7                          5                          5                           
+ INHALATION ROUTE SINUSITIS  2                          3                          3                          3                          0                          4                          7                          2                          4                           
+ PAIN                       less than 1                2                          1                          2                          5                          3                          3                          5                          2                           
+ BACK PAIN                  1                          1                          2                          less than 1                4                          4                          2                          4                          4                           
+ NAUSEA                     0                          1                          less than 1                1                          2                          3                          5                          5                          1                           
+ DYSPHONIA                  2                          less than 1                1                          0                          4                          4                          0                          0                          6                           
+      Other adverse events that occurred in these clinical trials using QVAR with an incidence of 1% to 3% and which occurred at a greater incidence than placebo were: dysphonia, dysmenorrhea and coughing.
+ 
+
+ No patients treated with QVAR in the clinical development program developed symptomatic oropharyngeal candidiasis.
+
+
+
+ If such an infection develops, treatment with appropriate antifungal therapy or discontinuance of treatment with QVAR may be required.
+
+
+
+        Pediatric Studies In two 12-week placebo controlled studies in steroid naive pediatric patients 5 to 12 years of age, no clinically relevant differences were found in the pattern, severity, or frequency of adverse events compared with those reported in adults, with the exception of conditions which are more prevalent in a pediatric population generally.
+
+
+
+        Adverse Event Reports from Other Sources Rare cases of immediate and delayed hypersensitivity reactions, including urticaria, angioedema, rash, and bronchospasm, have been reported following the oral and intranasal inhalation of beclomethasone dipropionate.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

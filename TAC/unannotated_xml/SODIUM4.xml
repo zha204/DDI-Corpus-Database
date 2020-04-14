@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sodium4" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  N  o adverse reactions have been reported for Sodium Fluoride F 18 Injection, USP based on a review of the published literature, publicly available reference sources, and adverse drug reaction reporting systems. However, the completeness of these sources is not known.  
+
+
+
+   EXCERPT:   No adverse reactions have been reported for Sodium Fluoride F 18 Injection, USP based on a review of the published literature, publicly available reference sources, and adverse drug reaction reporting systems (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact The Feinstein Institute for Medical Research at 516-562-1042 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  
+
+
+
+    EXCERPT:    *  Allergic Reactions: As with any injectable drug product, allergic reactions and anaphylaxis may occur. Emergency resuscitation equipment and personnel should be immediately available (  5.1  ). 
+ *  Cancer Risks: Sodium Fluoride F 18 Injection, USP may increase the risk of cancer. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker (  5.2  ). 
+    
+ 
+
+   5.1 Allergic Reactions
+
+
+
+  As with any injectable drug product, allergic reactions and anaphylaxis may occur. Emergency resuscitation equipment and personnel should be immediately available.
+
+
+
+    5.2 Radiation Risks
+
+
+
+  Sodium Fluoride F 18 Injection, USP may increase the risk of cancer. Carcinogenic and mutagenic studies with Sodium Fluoride F 18 Injection, USP have not been performed. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [    see Dosage and Administration (2.1)   ].  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

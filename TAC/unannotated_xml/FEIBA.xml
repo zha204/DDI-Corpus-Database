@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="feiba" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  FEIBA NF can precipitate allergic-type hypersensitivity reactions; these reactions can be severe and can be systemic. Other infusion reactions, such as chills, pyrexia, and hypertension have also been reported.
+
+
+
+   Adverse Reactions From Clinical Trials
+
+  The adverse reactions presented in this section have been reported from two studies with FEIBA for the treatment of bleeding episodes in pediatric and adult patients with hemophilia A or B and inhibitors to factors VIII or IX. One study also enrolled acquired hemophilia patients with factor VIII inhibitors (4 of 49 patients).
+
+
+
+ Clinical Trial Adverse ReactionsA precise estimate of the rate of these adverse reactions is not possible from the available data. 
+   System Organ Class (SOC)                                Preferred MedDRA Term                         
+  BLOOD AND LYMPHATIC   SYSTEM DISORDERS                 Increase of inhibitor titer (anamnestic response)   
+   NERVOUS SYSTEM DISORDERS                               Somnolence  Dizziness  Dysgeusia Hypoesthesia   
+   RESPIRATORY, THORACIC, AND MEDIASTINAL DISORDERS      Dyspnea                                         
+   GASTROINTESTINAL DISORDERS                            Nausea                                          
+   GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS     Chills  Pyrexia  Chest pain Chest discomfort   
+          Post-marketing Adverse Reactions
+   The following adverse reactions have been reported in the post-marketing experience, listed by MedDRA System Organ Class (SOC), then by Preferred Term in order of severity, where feasible. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ BLOOD AND LYMPHATIC SYSTEM DISORDERS: Disseminated intravascular coagulation
+
+
+
+ IMMUNE SYSTEM DISORDERS: Anaphylactic reaction, Hypersensitivity
+
+
+
+ NERVOUS SYSTEM DISORDERS: Paresthesia, Thrombotic stroke, Embolic stroke, Headache
+
+
+
+ CARDIAC DISORDERS: Myocardial infarction, Tachycardia
+
+
+
+ VASCULAR DISORDERS: Thrombosis, Venous thrombosis, Arterial thrombosis, Hypotension, Hypertension, Flushing
+
+
+
+ RESPIRATORY, THORACIC, AND MEDIASTINAL DISORDERS: Pulmonary embolism, Bronchospasm, Wheezing, Cough
+
+
+
+ GASTROINTESTINAL DISORDERS: Vomiting, Diarrhea, Abdominal discomfort
+
+
+
+ SKIN AND SUBCUTANEOUS TISSUE DISORDERS: Angioedema, Urticaria, Pruritus, Rash
+
+
+
+ GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Malaise, Feeling hot, Injection site pain.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+   
+
+
+
+   Nanofiltered
+
+                                and Vapor Heated   
+
+
+
+   Lyophilized powder for solution  
+
+
+
+   Intravenous  
+
+
+
+   WARNING
+
+    Thrombotic and thromboembolic
+
+                                        events have been reported during postmarketing surveillance
+
+                                        following infusion of FEIBA VH or FEIBA NF, particularly
+
+                                        following the administration of high doses and/or in
+
+                                        patients with thrombotic risk factors (See WARNINGS,
+
+                                        PRECAUTIONS and ADVERSE
+
+                                REACTIONS).  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

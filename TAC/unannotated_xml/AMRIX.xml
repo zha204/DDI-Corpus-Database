@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="amrix" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most common adverse reactions in the two 14-day clinical efficacy trials and in the 7-day repeat-dose pharmacokinetic study are presented in Tables 5 and 6, respectively.
+
+
+
+ Table 5: Incidence of the Most Common Adverse Reactions Occurring in &gt;= 3% of Subjects in Any Treatment Group in the Two Phase 3, Double-Blind AMRIX Trials 
+                  AMRIX 15 mgN=127  AMRIX 30 mgN=126  PlaceboN=128      
+ Dry mouth        6%               14%              2%                
+ Dizziness        3%               6%               2%                
+ Fatigue          3%               3%               2%                
+ Constipation     1%               3%               0%                
+ Somnolence       1%               2%               0%                
+ Nausea           3%               3%               1%                
+ Dyspepsia        0%               4%               1%                
+         Table 6: Incidence of the Most Common Adverse Reactions Occurring in &gt;= 3% of Subjects in Any Treatment Group in the Seven-Day Pharmacokinetic Study of AMRIX 
+                  AMRIX 30 mgN = 36   
+ Somnolence       100%              
+ Dry mouth        58%               
+ Headache NOS     17%               
+ Dizziness        19%               
+ Vision blurred   3%                
+ Nausea           8%                
+ Dysgeusia        6%                
+ Palpitations     6%                
+ Tremor           6%                
+ Dry throat       8%                
+ Acne NOS         6%                
+ Disturbance in attention  6%                
+ Insomnia         0                 
+        In a postmarketing surveillance program (7607 patients treated with cyclobenzaprine 10 mg TID), the adverse reactions reported most frequently were drowsiness, dry mouth, and dizziness. The incidence of these common adverse reactions was lower in the surveillance program than in the controlled clinical studies:
+ 
+
+ Table 7: Most Common Adverse Reactions from Postmarketing Surveillance Program 
+                  Clinical Studiescyclobenzaprine 10 mg TID  Surveillance Programcyclobenzaprine 10 mg TID   
+ Drowsiness       39%              16%               
+ Dry mouth        27%              7%                
+ Dizziness        11%              3%                
+         Among the less frequent adverse reactions, there was no appreciable difference in incidence in controlled clinical studies or in the surveillance program. Adverse reactions which were reported in 1% to 3% of the patients were: fatigue/tiredness, asthenia, nausea, constipation, dyspepsia, unpleasant taste, blurred vision, headache, nervousness, and confusion. The following adverse reactions have been reported in post-marketing experience or with an incidence of less than 1% of patients in clinical trials with the 10 mg TID tablet:
+ 
+
+   Body as a Whole:  Syncope; malaise.  Cardiovascular:  Tachycardia; arrhythmia; vasodilatation; palpitation; hypotension.  Digestive:  Vomiting; anorexia; diarrhea; gastrointestinal pain; gastritis; thirst; flatulence; edema of the tongue; abnormal liver function and rare reports of hepatitis, jaundice, and cholestasis.  Hypersensitivity:  Anaphylaxis; angioedema; pruritus; facial edema; urticaria; rash.  Musculoskeletal:  Local weakness.  Nervous System and Psychiatric:  Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia.  Skin:  Sweating.  Special Senses:  Ageusia; tinnitus.  Urogenital:  Urinary frequency and/or retention.
+
+
+
+ Causal Relationship Unknown
+
+
+
+ Other reactions, reported rarely for cyclobenzaprine under circumstances where a causal relationship could not be established or reported for other tricyclic drugs, are listed to serve as alerting information to physicians:
+
+
+
+   Body as a Whole:  Chest pain; edema.  Cardiovascular:  Hypertension; myocardial infarction; heart block; stroke.  Digestive:  Paralytic ileus, tongue discoloration; stomatitis; parotid swelling.  Endocrine:  Inappropriate ADH syndrome.  Hematic and Lymphatic:  Purpura; bone marrow depression; leukopenia; eosinophilia; thrombocytopenia.  Metabolic, Nutritional and Immune:  Elevation and lowering of blood sugar levels; weight gain or loss.  Musculoskeletal:  Myalgia.  Nervous System and Psychiatric:  Decreased or increased libido; abnormal gait; delusions; aggressive behavior; paranoia; peripheral neuropathy; Bell's palsy; alteration in EEG patterns; extrapyramidal symptoms.  Respiratory:  Dyspnea.  Skin:  Photosensitization; alopecia.  Urogenital:  Impaired urination; dilatation of urinary tract; impotence; testicular swelling; gynecomastia; breast enlargement; galactorrhea.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

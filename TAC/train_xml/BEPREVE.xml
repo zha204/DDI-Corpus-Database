@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bepreve" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:    The most common adverse reaction occurring in approximately 25% of patients was a mild taste following instillation. Other adverse reactions which occurred in 2-5% of subjects were eye irritation, headache, and nasopharyngitis. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bausch &amp; Lomb Incorporated. at 1-800-323-0000, or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .   
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The most common reported adverse reaction occurring in approximately 25% of subjects was a mild taste following instillation. Other adverse reactions occurring in 2-5% of subjects were eye irritation, headache, and nasopharyngitis.
+
+
+
+   6.2 Post Marketing Experience
+
+  Hypersensitivity reactions have been reported rarely during the post-marketing use of BEPREVE. Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure. The hypersensitivity reactions include itching, body rash, and swelling of lips, tongue and/or throat.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    To minimize the risk of contamination, do not touch dropper tip to any surface. Keep bottle tightly closed when not in use. (  5.1  ) 
+ *    BEPREVE should not be used to treat contact lens-related irritation. (  5.2  ) 
+ *    Remove contact lenses prior to instillation of BEPREVE. (  5.2  ) 
+    
+ 
+
+   5.1 Contamination of Tip and Solution
+
+
+
+  To minimize contaminating the dropper tip and solution, care should be taken not to touch the eyelids or surrounding areas with the dropper tip of the bottle. Keep bottle tightly closed when not in use.
+
+
+
+    5.2 Contact Lens Use
+
+
+
+  Patients should be advised not to wear a contact lens if their eye is red. BEPREVE should not be used to treat contact lens-related irritation.
+
+
+
+ BEPREVE should not be instilled while wearing contact lenses. Remove contact lenses prior to instillation of BEPREVE. The preservative in BEPREVE, benzalkonium chloride, may be absorbed by soft contact lenses. Lenses may be reinserted after 10 minutes following administration of BEPREVE.
+
+
+
+    5.3 Topical Ophthalmic Use Only
+
+
+
+  BEPREVE is for topical ophthalmic use only.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="Severity" start="121" len="4" str="mild" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="126" len="28" str="taste following instillation" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="220" len="14" str="eye irritation" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="236" len="8" str="headache" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="250" len="15" str="nasopharyngitis" />
+    <Mention id="M6" section="S1" type="Severity" start="841" len="4" str="mild" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="846" len="28" str="taste following instillation" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="935" len="14" str="eye irritation" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="951" len="8" str="headache" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="965" len="15" str="nasopharyngitis" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="1021" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="1320" len="26" str="hypersensitivity reactions" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="1355" len="7" str="itching" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="1364" len="9" str="body rash" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="1379" len="16" str="swelling of lips" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="1379,1397" len="11,6" str="swelling of tongue" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="1379,1411" len="11,6" str="swelling of throat" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M2" arg2="M1" />
+    <Relation id="RL2" type="Effect" arg1="M7" arg2="M6" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="taste following instillation">
+      <Normalization id="AR1.N1" meddra_pt="Product taste abnormal" meddra_pt_id="10069227" meddra_llt="Medication after taste" meddra_llt_id="10067060" />
+    </Reaction>
+    <Reaction id="AR2" str="eye irritation">
+      <Normalization id="AR2.N1" meddra_pt="Eye irritation" meddra_pt_id="10015946" />
+    </Reaction>
+    <Reaction id="AR3" str="headache">
+      <Normalization id="AR3.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR4" str="nasopharyngitis">
+      <Normalization id="AR4.N1" meddra_pt="Nasopharyngitis" meddra_pt_id="10028810" />
+    </Reaction>
+    <Reaction id="AR5" str="hypersensitivity reactions">
+      <Normalization id="AR5.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR6" str="itching">
+      <Normalization id="AR6.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" meddra_llt="Itching" meddra_llt_id="10023084" />
+    </Reaction>
+    <Reaction id="AR7" str="body rash">
+      <Normalization id="AR7.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR8" str="swelling of lips">
+      <Normalization id="AR8.N1" meddra_pt="Lip swelling" meddra_pt_id="10024570" meddra_llt="Swelling of lips" meddra_llt_id="10042703" />
+    </Reaction>
+    <Reaction id="AR9" str="swelling of tongue">
+      <Normalization id="AR9.N1" meddra_pt="Swollen tongue" meddra_pt_id="10042727" meddra_llt="Swelling of tongue" meddra_llt_id="10042706" />
+    </Reaction>
+    <Reaction id="AR10" str="swelling of throat">
+      <Normalization id="AR10.N1" meddra_pt="Pharyngeal oedema" meddra_pt_id="10034829" meddra_llt="Throat swelling" meddra_llt_id="10043525" />
+    </Reaction>
+  </Reactions>
+</Label>

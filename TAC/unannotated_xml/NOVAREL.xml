@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="novarel" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  (see    WARNINGS    ) Headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia, pain at the site of injection. Hypersensitivity reactions both localized and systemic in nature, including erythema, urticaria, rash, angioedema, dyspnea and shortness of breath, have been reported. The relationship of these allergic-like events to the polypeptide hormone or the diluent containing benzyl alcohol is not clear.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

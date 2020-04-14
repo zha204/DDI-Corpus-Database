@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="clindamycin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+    *     The following adverse reaction is described in more detail in the Warnings and Precautions section of the label: 
+   *    Colitis [see Warnings and Precautions (5.1)] . 
+   *     The most common local adverse reactions (&gt;=5%) are erythema, peeling, dryness, and burning. (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Stiefel Laboratories, Inc. at 1-888-784-3335 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ During clinical trials, 397 subjects used Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% once daily for 11 weeks for the treatment of moderate to moderately severe facial acne vulgaris. All subjects were graded for facial local skin reactions (erythema, peeling, burning, and dryness) on the following scale: 0 = absent, 1 = mild, 2 = moderate, and 3 = severe. The percentage of subjects that had symptoms present before treatment (at baseline) and during treatment is presented in Table 1.
+
+
+
+ Table 1: Local Skin Reactions with Use of Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% Combined Results from Five Trials (n = 397) 
+  Symptom             % of Subjects Using Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% with Symptom Present    
+  Before Treatment (Baseline)    During Treatment    
+  Mild                Moderate        Severe          Mild            Moderate        Severe          
+  Erythema            28%             3%              0               26%             5%              0               
+  Peeling             6%              &lt;1%             0               17%             2%              0               
+  Burning             3%              &lt;1%             0               5%              &lt;1%             0               
+  Dryness             6%              &lt;1%             0               15%             1%              0               
+             (Percentages derived by number of subjects receiving Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% with symptom score/number of enrolled subjects receiving Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%).
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Anaphylaxis, as well as allergic reactions leading to hospitalization, has been reported in postmarketing use with Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%.
+
+
+
+ Urticaria, application site reactions, including discoloration have been reported.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Colitis: Clindamycin can cause severe colitis, which may result in death. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of clindamycin. Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% should be discontinued if significant diarrhea occurs. (  5.1  ) 
+ *    Ultraviolet light and environmental exposure (including use of tanning beds or sun lamps): Minimize sun exposure following drug application. (  5.2  ) 
+    
+ 
+
+   5.1 Colitis
+
+
+
+  Systemic absorption of clindamycin has been demonstrated following topical use of clindamycin. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin. If significant diarrhea occurs, Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5% should be discontinued.
+
+
+
+ Severe colitis has occurred following oral and parenteral administration of clindamycin with an onset of up to several weeks following cessation of therapy. Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen severe colitis. Severe colitis may result in death.
+
+
+
+ Studies indicate a toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis. The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus. Stool cultures for Clostridium difficile  and stool assay for C. difficile  toxin may be helpful diagnostically.
+
+
+
+    5.2 Ultraviolet Light and Environmental Exposure
+
+
+
+  Benzoyl peroxide, a component of Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/5%, may cause increased sensitivity to sunlight. Minimize sun exposure (including use of tanning beds or sun lamps) following drug application [See Nonclinical Toxicology (13.1).]  Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

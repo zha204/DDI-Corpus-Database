@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="locoid" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *    HPA axis suppression. This has been observed in pediatric subjects using Locoid  (r)  Lotion [see    Warnings and Precautions    (    5.1    ) and    Use in Specific Populations    (    8.4    )]   
+ *    Concomitant skin infections [see    Warnings and Precautions    (    5.2    )]   
+ *    Allergic contact dermatitis [see  Warnings and Precautions    (    5.3    )]   
+      EXCERPT:   The most common adverse reactions (&gt; 1%) are application site reactions. (  6  )
+ 
+
+  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1- 800-321-4576 and/or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
+
+
+
+ The safety data derived from Locoid  (r)  Lotion clinical trials reflect exposure to Locoid  (r)  Lotion twice daily for up to four weeks in separate clinical trials involving pediatric subjects 3 months to 18 years of age and adult subjects 18 years of age and older with mild to moderate atopic dermatitis.  
+
+
+
+ Adverse reactions shown in the tables below include those for which there is some basis to believe there is a causal relationship to Locoid  (r)  Lotion. Although the rates of application site reactions in the vehicle group were greater than those in the Locoid  (r)  group in both studies, these rates are included in the tables (  Table 1  and  Table 2  ) because skin irritation is a known adverse reaction of topical corticosteroids.
+
+
+
+  
+
+
+
+ TABLE 1. Frequency of adverse reactions in pediatric subjects with mild to moderate atopic dermatitis 
+                                     Locoid(r) Lotion  (n=139) n (%)    Vehicle  (n=145) n (%)             
+  Application site reactions, including application site burning, pruritus, dermatitis, erythema, eczema, inflammation, or irritation    2 (1)                              20 (14)                            
+  Infantile acne                     1 (1)                              0 (0)                              
+  Skin depigmentation                1 (1)                              0 (0)                              
+          
+ 
+
+ TABLE 2. Frequency of adverse reactions in adult subjects with mild to moderate atopic dermatitis 
+                                     Locoid(r) Lotion  (n=151) n (%)    Vehicle  (n=150) n (%)             
+  Application site reactions, including application site burning, dermatitis, eczema, erythema, or pruritus    5 (3)                              7 (5)                              
+          
+ 
+
+   6.2 Postmarketing Experience
+
+  Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The following additional local adverse reactions have been reported infrequently with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions included: irritation, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, miliaria and telangiectasia.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Reversible hypothalamic-pituitary-adrenal (HPA) axis suppression may occur, with the potential for glucocorticosteroid insufficiency.  Consider periodic evaluations for HPA axis suppression if Locoid  (r)  Lotion is applied to large surface areas or used under occlusion.  If HPA axis suppression is noted, reduce the application frequency, discontinue use, or switch to a lower potency corticosteroid. (  5.1  ,  8.4  ) 
+ *    Systemic effects of topical corticosteroids may also include manifestations of Cushing's syndrome, hyperglycemia, and glucosuria. (  5.1  ,  8.4  ) 
+ *    Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface-to-body-mass ratios. (  5.1  ,  8.4  ) 
+ *    Initiate appropriate therapy if concomitant skin infections develop. (  5.2  ) 
+    
+ 
+
+   5.1 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression
+
+
+
+  Systemic effects of topical corticosteroids may include reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria.
+
+
+
+ Studies conducted in pediatric subjects demonstrated reversible HPA axis suppression after use of Locoid  (r)  Lotion. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of Locoid  (r)  Lotion due to their larger skin surface-to-body-mass ratios [see  Use in Specific Populations     (     8.4     )   ].  
+
+
+
+ Patients applying a topical corticosteroid to a large surface area or to areas under occlusion should be considered for periodic evaluation of the HPA axis. This may be done by using cosyntropin (ACTH1-24) stimulation testing (CST).
+
+
+
+ Minimize systemic corticosteroid effects by mitigating the risk factors for increased systemic absorption and using Locoid  (r)  Lotion as recommended [ see  Dosage and Administration (2)    ].
+
+
+
+ If HPA axis suppression is noted, the frequency of application should be reduced or the drug should be withdrawn, or a less potent corticosteroid should be substituted. Signs and symptoms of glucocorticosteroid insufficiency may occur, requiring supplemental systemic corticosteroids [see  Adverse Reactions (6)  ].  
+
+
+
+    5.2 Concomitant Skin Infections
+
+
+
+  If skin infections are present or develop, an appropriate antifungal, antibacterial or antiviral agent should be used. If a favorable response does not occur promptly, use of Locoid  (r)  Lotion should be discontinued until the infection has been adequately controlled [see  Adverse Reactions (6)  ].  
+
+
+
+    5.3 Allergic Contact Dermatitis
+
+
+
+  Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noticing a clinical exacerbation. Such an observation should be corroborated with appropriate patch testing. Discontinue Locoid  (r)  Lotion if the diagnosis is established [see  Adverse Reactions (6)  ].  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

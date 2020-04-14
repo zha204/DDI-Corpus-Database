@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="pentam" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+      CAUTION    : Fatalities due to severe hypotension, hypoglycemia, acute pancreatitis and cardiac arrhythmias have been reported in patients treated with pentamidine isethionate, both by the IM and IV routes.  Nephrotoxic events (increased creatinine, impaired renal function, azotemia, and renal failure) are common with the parenteral administration of pentamidine isethionate.  The administration of the drug should, therefore, be limited to the patients in whom    Pneumocystis carinii    has been demonstrated.
+
+
+
+ The most frequently reported spontaneous adverse events (1 to 30%) reported in clinical trials, regardless of their relation to pentamidine isethionate therapy were as follows (n=424):
+
+
+
+
+  Cardiovascular:     Hypotension       5.0%                    
+  Gastrointestinal:     Anorexia/Nausea       5.9%                    
+  Hematologic:     Anemia     Leukopenia     Thrombocytopenia       1.2%  10.4%  2.6%       
+  Hepatic:     Elevated liver function tests       8.7%                    
+  Metabolic:     Hypoglycemia       5.9%                    
+  Neurologic:     Confusion/hallucinations       1.7%                    
+  Skin:     Sterile abscess and/or necrosis,     pain, or induration at the site of     IM injection     Rash             11.1%  3.3%       
+  Special Senses:     Bad taste       1.7%                    
+  Urogenital:     Azotemia     Elevated serum creatinine     Elevated blood urea nitrogen     Impaired renal function       8.5%  23.6%  6.6%  28.8%    
+      Adverse events with a frequency of less than 1% incidence were as follows (No causal relationship to treatment has been established for these adverse events): 
+ 
+
+
+  Body as a whole:           Allergic reaction (i.e. urticaria, itching, rash), anaphylaxis, arthralgia, chills, extrapulmonary pneumocystosis, headache, night sweats, and Stevens-Johnson syndrome.    
+  Cardiovascular:            Abnormal ST segment of electrocardiogram, cardiac arrhythmias, cerebrovascular accident, hypertension, palpitations, phlebitis, syncope, tachycardia, vasodilatation, vasculitis and ventricular tachycardia.    
+  Gastrointestinal:          Abdominal pain, diarrhea, dry mouth, dyspepsia, hematochezia, hypersalivation, melena, pancreatitis, splenomegaly, and vomiting.    
+  Hematological:             Defibrination, eosinophilia, neutropenia, pancytopenia, and prolonged clotting time.    
+  Hepatic:                   Hepatic dysfunction, hepatitis and hepatomegaly    
+  Metabolic:                 Hyperglycemia, hyperkalemia, hypocalcemia, and hypomagnesemia.    
+  Neurological:              Anxiety, confusion, depression, dizziness, drowsiness, emotional lability, hypesthesia, insomnia, memory loss, neuropathy, nervousness, neuralgia, paranoia, paresthesia, peripheral neuropathy, seizure, tremors, unsteady gait, and vertigo.    
+  Respiratory system:        Asthma, bronchitis, bronchospasm, chest congestion, chest tightness, coryza, cyanosis, eosinophilic or interstitial pneumonitis, gagging, hemoptysis, hyperventilation, laryngitis, laryngospasm, non-specific lung disorder, nasal congestion, pleuritis, pneumothorax, rales, rhinitis, shortness of breath, and tachypnea.    
+  Skin:                      Desquamation, dry and breaking hair, dry skin, erythema, dermatitis, pruritus, rash, and urticaria.    
+  Special senses:            Blepharitis, blurred vision, conjunctivitis, contact lens discomfort, eye pain or discomfort, loss of hearing, loss of taste, and loss of smell.    
+  Urogenital:                Flank pain, hematuria, incontinence, nephritis, renal dysfunction and renal failure.    
+      From post-marketing clinical experience with pentamidine isethionate, the following adverse events have been reported: cough, diabetes mellitus/ketoacidosis, dyspnea, infiltration (extravasation-see      WARNINGS      ), and torsades de pointes.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

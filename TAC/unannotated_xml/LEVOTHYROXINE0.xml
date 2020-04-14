@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="levothyroxine0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Excessive doses of levothyroxine can predispose to signs and symptoms compatible with hyperthyroidism.  The signs and symptoms of thyrotoxicosis include, but are not limited to: exophthalmic goiter, weight loss, increased appetite, palpitations, nervousness, diarrhea, abdominal cramps, sweating, tachycardia, increased pulse and blood pressure, cardiac arrhythmias, angina pectoris, tremors, insomnia, heat intolerance, fever, and menstrual irregularities.
+
+
+
+   EXCERPT:   Excessive doses of L-thyroxine can predispose to signs and symptoms compatible with hyperthyroidism. 
+
+
+
+  
+
+
+
+     To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC, Medical Affairs Department at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Excessive bolus doses of Levothyroxine Sodium for Injection (&gt; 500 mcg) are associated with cardiac complications, particularly in the elderly and in patients with an underlying cardiac condition. Initiate therapy with doses at the lower end of the recommended range. (    5.1    ) 
+ *  Close observation of the patient following the administration of Levothyroxine Sodium for Injection is advised. (    5.1    ) 
+ *  Levothyroxine Sodium for Injection therapy for patients with previously undiagnosed endocrine disorders, including adrenal insufficiency, hypopituitarism, and diabetes insipidus, may worsen symptoms of these endocrinopathies. (    5.2    ) 
+    
+ 
+
+    5.1 Risk of Cardiac Complications in Elderly and in Patients with Cardiovascular Disease  
+ 
+
+  Excessive bolus dosing of Levothyroxine Sodium for Injection (greater than 500 mcg) are associated with cardiac complications, particularly in the elderly and in patients with an underlying cardiac condition.  Adverse events that can potentially be related to the administration of large doses of Levothyroxine Sodium for Injection include arrhythmias, tachycardia, myocardial ischemia and infarction, or worsening of congestive heart failure and death.  Cautious use, including doses in the lower end of the recommended range, may be warranted in these populations.  Close observation of the patient following the administration of Levothyroxine Sodium for Injection is advised.
+
+
+
+     5.2 Need for Concomitant Glucocorticoids and Monitoring for Other Diseases in Patients with Endocrine Disorders  
+ 
+
+  Occasionally, chronic autoimmune thyroiditis, which can lead to myxedema coma, may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.  Patients should be treated with replacement glucocorticoids prior to initiation of treatment with Levothyroxine Sodium for Injection, until adrenal function has been adequately assessed.  Failure to do so may precipitate an acute adrenal crisis when thyroid hormone therapy is initiated, due to increased metabolic clearance of glucocorticoids by thyroid hormone.  With initiation of Levothyroxine Sodium for Injection, patients with myxedema coma should also be monitored for previously undiagnosed diabetes insipidus.
+
+
+
+     5.3 Not Indicated for Treatment of Obesity  
+ 
+
+  Thyroid hormones, including Levothyroxine Sodium for Injection, either alone or with other therapeutic agents, should not be used for the treatment of obesity or for weight loss.  In euthyroid patients, doses within the range of daily hormonal requirements are ineffective for weight reduction.  Larger doses may produce serious or even life threatening manifestations of toxicity, particularly when given in association with sympathomimetic amines such as those used for their anorectic effects  [see Adverse Reactions (  6  ) and Overdosage (  10  )].    
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

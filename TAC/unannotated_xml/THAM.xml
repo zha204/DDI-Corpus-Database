@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tham" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Generally, side effects have been infrequent.
+
+
+
+     Respiratory:    Although the incidence of ventilatory depression is low, it is important to keep in mind that such depression may occur. Respiratory depression may be more likely to occur in patients who have chronic hypoventilation or those who have been treated with drugs which depress respiration. In patients with associated respiratory acidosis, tromethamine should be administered with mechanical assistance to ventilation.
+
+
+
+     Vascular:    Extreme care should be taken to avoid perivascular infiltration. Local tissue damage and subsequent sloughing may occur if extravasation occurs. Chemical phlebitis and venospasm also have been reported.
+
+
+
+     Hematologic:    Transient depression of blood glucose may occur.
+
+
+
+     Hepatic:    Infusion via low-lying umbilical venous catheters has been associated with hepatocellular necrosis.
+
+
+
+ Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection extravasation and hypervolemia.
+
+
+
+ If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

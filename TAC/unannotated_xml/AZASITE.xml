@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="azasite" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with the rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to AzaSite in 698 patients. The population was between 1 and 87 years old with clinical signs and symptoms of bacterial conjunctivitis. The most frequently reported ocular adverse reaction reported in patients receiving AzaSite was eye irritation. This reaction occurred in approximately 1-2% of patients. Other adverse reactions associated with the use of AzaSite were reported in less than 1% of patients and included ocular reactions (blurred vision, burning, stinging and irritation upon instillation, contact dermatitis, corneal erosion, dry eye, eye pain, itching, ocular discharge, punctate keratitis, visual acuity reduction) and non-ocular reactions (dysgeusia, facial swelling, hives, nasal congestion, periocular swelling, rash, sinusitis, urticaria).
+
+
+
+   EXCERPT:   Most common adverse reaction reported in patients was eye irritation (1-2% of patients). (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Akorn, Inc. at 1-800-932-5676 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  For topical ophthalmic use only. (  5.1  ) 
+ *  Anaphylaxis and hypersensitivity have been reported with systemic use of azithromycin. (  5.2  ) 
+ *  Growth of resistant organisms may occur with prolonged use. (  5.3  ) 
+ *  Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis. (  5.4  ) 
+    
+ 
+
+   5.1 Topical Ophthalmic Use Only
+
+
+
+  NOT FOR INJECTION. AzaSite is indicated for topical ophthalmic use only, and should not be administered systemically, injected subconjunctivally, or introduced directly into the anterior chamber of the eye.
+
+
+
+    5.2 Anaphylaxis and Hypersensitivity with Systemic Use of Azithromycin
+
+
+
+  In patients receiving systemically administered azithromycin, serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported rarely in patients on azithromycin therapy. Although rare, fatalities have been reported. The potential for anaphylaxis or other hypersensitivity reactions should be considered based on known hypersensitivity to azithromycin when administered systemically.
+
+
+
+    5.3 Growth of Resistant Organisms with Prolonged Use
+
+
+
+  As with other anti-infectives, prolonged use may result in overgrowth of non-susceptible organisms, including fungi. If super-infection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and where appropriate, fluorescein staining.
+
+
+
+    5.4 Avoidance of Contact Lenses
+
+
+
+  Patients should be advised not to wear contact lenses if they have signs or symptoms of bacterial conjunctivitis.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

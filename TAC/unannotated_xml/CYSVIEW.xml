@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cysview" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Anaphylaxis has been reported following exposure to Cysview [  see  Warnings and Precautions (5.1)    ].
+
+
+
+   EXCERPT:   The most common adverse reaction reported in patients who received Cysview was bladder spasm, occurring in &lt; 3% of patients, followed by dysuria, hematuria, bladder pain, procedural pain, urinary retention and headache, all occurring in &lt;= 2% of patients. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Photocure Inc. at 1-855-297-8439 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Study Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In six clinical trials, safety data were obtained from 1,324 patients, aged 32 to 96 years with a median age of 69 years, all primarily Caucasian and approximately 75% male. All patients were evaluated after a single instillation of 50 mL solution of Cysview. Of these patients, 161 (12.2%) patients reported at least one adverse reaction. The most common adverse reaction was bladder spasm (reported in 2.2% of the patients) followed by dysuria, hematuria, and bladder pain. No patients experienced anaphylaxis. In the controlled clinical study, adverse reactions were similar in nature and rate between the study drug group and the control group [  see  Clinical Studies (14)    ].
+
+
+
+   6.2 Postmarketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Anaphylactoid shock, hypersensitivity reactions, bladder pain, cystitis and abnormal urinalysis have been reported during post marketing use of Cysview.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Anaphylaxis: have trained personnel and therapies available. (  5.1  ) 
+ *  Failed Detection: Cysview may not detect all malignant lesions. Always perform white light cystoscopy (Mode 1) followed by blue light cystoscopy (Mode 2). Do not biopsy with blue light only. (  5.2  ) 
+ *  False fluorescence may occur due to inflammation, cystoscopic trauma, scar tissue or previous bladder biopsy. (  5.3  ) 
+    
+ 
+
+   5.1 Anaphylaxis
+
+
+
+  Anaphylaxis, including anaphylactoid shock, has been reported following administration of Cysview [ see  Adverse Reactions (6.2)    ]. Prior to and during use of the Cysview, have trained personnel and therapies available for the treatment of anaphylaxis. The safety of repetitive Cysview exposures has not been evaluated.
+
+
+
+    5.2 Failed Detection
+
+
+
+  Cysview may fail to detect some bladder tumors, including malignant lesions. Cysview is not a replacement for random biopsies or any other procedure usually performed in the cystoscopic evaluation for cancer. In the controlled clinical trial, Cysview failed to detect 10% of lesions confirmed as malignant within the study drug group [ see  Clinical Studies (14)    ]. Do not perform cystoscopy with blue light alone as malignant lesions can be missed unless the bladder is initially examined under white light [ see  Dosage and Administration (2.5)    ].
+
+
+
+    5.3 False Fluorescence
+
+
+
+  Fluorescent areas detected during blue light cystoscopy may not indicate a bladder mucosal lesion. In the controlled clinical study, biopsies from one of every four fluorescent areas showed neither dysplasia nor carcinoma, if the areas were not also identified during white light cystoscopy [ see  Clinical Studies (14)    ]. In addition to these false detections, fluorescent areas within the bladder mucosa may result from inflammation, cystoscopic trauma, scar tissue or bladder mucosal biopsy from a previous cystoscopic examination.
+
+
+
+ The presence of urine and/or blood within the bladder may interfere with the detection of tissue fluorescence. To enhance the diagnostic utility of Cysview with the Karl Storz D-Light C PDD System:
+
+
+
+ *  ensure the bladder is emptied of urine prior to the instillation of fluids at cystoscopy; 
+ *  biopsy/resect bladder mucosal lesions only following completion of both white light and blue light cystoscopy; 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

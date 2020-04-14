@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nitromist" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions are headache, flushing, hypotension, and syncope (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Akrimax Pharmaceuticals at 1-888 383 1733 or FDA at 1-800-FDA-1088 or      www.fda.gov/medwatch/report.htm    .
+
+
+
+ 
+
+  6.1 Headache
+
+  Headache, which may be severe and persistent, may occur immediately after nitroglycerin use.
+
+
+
+   6.2 Flushing
+
+  Flushing, drug rash and exfoliative dermatitis have been reported in patients receiving nitrate therapy.
+
+
+
+   6.3 Hypotension
+
+  Postural hypotension, as manifest by vertigo, weakness, palpitation, and other symptoms, may develop occasionally, particularly in erect, immobile patients. Marked sensitivity to the hypotensive effects of nitrates (manifested by nausea, vomiting, weakness, diaphoresis, pallor, and collapse) may occur at therapeutic doses.
+
+
+
+   6.4 Syncope
+
+  Syncope due to nitrate vasodilatation has been reported.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Tolerance: Excessive use may lead to tolerance (  5.1  ). 
+    
+ 
+
+   5.1 Tolerance
+
+
+
+  Excessive use may lead to the development of tolerance. Only the smallest number of doses required for effective relief of the acute anginal attack should be used [see  DOSAGE AND ADMINISTRATION  (  2  )  ].
+
+
+
+ As tolerance to other forms of nitroglycerin develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is reduced.
+
+
+
+    5.2 Hypotension
+
+
+
+  Severe hypotension, particularly with upright posture, may occur even with small doses of nitroglycerin. The drug should therefore be used with caution in patients who may be volume-depleted or who, for whatever reason, are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris.
+
+
+
+ The benefits of NitroMist in patients with acute myocardial infarction or congestive heart failure have not been established. If one elects to use NitroMist in these conditions, careful clinical or hemodynamic monitoring must be used because of the possibility of hypotension and tachycardia.
+
+
+
+    5.3 Hypertrophic Cardiomyopathy
+
+
+
+  Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
+
+
+
+    5.4 Headache
+
+
+
+  Nitroglycerin produces dose-related headaches, which may be severe. Tolerance to headaches occurs.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

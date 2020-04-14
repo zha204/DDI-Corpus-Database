@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vigamox" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The most frequently reported ocular adverse events were conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, and tearing. These events occurred in approximately 1-6% of patients.
+
+
+
+ Nonocular adverse events reported at a rate of 1-4% were fever, increased cough, infection, otitis media, pharyngitis, rash, and rhinitis.
+
+
+
+   EXCERPT:   The most frequently reported ocular adverse events were conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, and tearing. These events occurred in approximately 1-6% of patients. (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc. at 1-800-757-9195 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:    *   Topical ophthalmic use only. (  5.1  )
+
+
+
+ 
+ *   Hypersensitivity and anaphylaxis have been reported with systemic use of moxifloxacin. (  5.2  )
+
+
+
+ 
+ *   Prolonged use may result in overgrowth of non-susceptible organisms, including fungi. (  5.3  )
+
+
+
+ 
+ *   Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis. (  5.4  )
+
+
+
+ 
+    
+
+
+
+   5.1 Topical Ophthalmic Use Only
+
+
+
+  NOT FOR INJECTION. VIGAMOX(r) solution is for topical ophthalmic use only and should not be injected subconjunctivally or introduced directly into the anterior chamber of the eye.
+
+
+
+    5.2 Hypersensitivity Reaction
+
+
+
+  In patients receiving systemically administered quinolones, including moxifloxacin, serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported, some following the first dose. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria, and itching. If an allergic reaction to moxifloxacin occurs, discontinue use of the drug. Serious acute hypersensitivity reactions may require immediate emergency treatment. Oxygen and airway management should be administered as clinically indicated.
+
+
+
+    5.3 Growth of Resistant Organisms with Prolonged Use
+
+
+
+  As with other anti-infectives, prolonged use may result in overgrowth of non-susceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and, where appropriate, fluorescein staining.
+
+
+
+    5.4 Avoidance of Contact Lens Wear
+
+
+
+  Patients should be advised not to wear contact lenses if they have signs or symptoms of bacterial conjunctivitis.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

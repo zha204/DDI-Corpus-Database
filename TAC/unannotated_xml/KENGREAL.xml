@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="kengreal" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6         ADVERSE REACTIONS  
+
+  The following adverse reactions are also discussed elsewhere in the labeling:
+
+
+
+ *  Bleeding [see Warnings and Precautions (    5.1    )]  
+      EXCERPT:   The most common adverse reaction is bleeding. (  5.1  ,  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact The Medicines Company at 1-888-977-6326 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+ Figure 1: Bleeding Results in the CHAMPION PHOENIX Studya (All Non-CABG related)     6.1          Clinical Trials Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of KENGREAL has been evaluated in 13,301 subjects in controlled trials, in whom, 5,529 were in the CHAMPION PHOENIX trial.
+
+
+
+   Bleeding  
+
+
+
+ There was a greater incidence of bleeding with KENGREAL than with clopidogrel. No baseline demographic factor altered the relative risk of bleeding with KENGREAL (see Table 1 and Figure 1).
+
+
+
+ Table 1: Major Bleeding Results in the CHAMPION PHOENIX Study (Non-CABG related Bleeding)a 
+   CHAMPION PHOENIX      KENGREAL  (N=5529)    Clopidogrel  (N=5527)   
+ Any GUSTO bleeding,     n (%)  857 (15.5)       602 (10.9)        
+    Severe/life-threatening   b    11 (0.2)         6 (0.1)           
+    Moderate   c    21 (0.4)         14 (0.3)          
+    Mild   d      825 (14.9)       582 (10.5)        
+ Any TIMI bleeding, n (%)  45 (0.8)         17 (0.3)          
+    Major   e     12 (0.2)         6 (0.1)           
+    Minor   f     33 (0.6)         11 (0.2)          
+         Abbreviations: GUSTO: Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries; TIMI: Thrombolysis in Myocardial Infarction
+ 
+
+   a  Safety population is all randomized subjects who received at least one dose of study drug
+
+
+
+   b  intracranial hemorrhage or bleeding resulting in substantial hemodynamic compromise requiring treatment
+
+
+
+   c   requiring blood transfusion but not resulting in hemodynamic compromise
+
+
+
+   d  all other bleeding not included in severe or moderate
+
+
+
+   e  any intracranial hemorrhage, or any overt bleeding associated with a reduction in hemoglobin of &gt;=5 g/dL (or, when hemoglobin is not available, an absolute reduction in hematocrit &gt;=15%)
+
+
+
+   f  any overt sign of bleeding (including observation by imaging techniques) that is associated with a reduction in hemoglobin of &gt;=3 g/dL and &lt;5 g/dL (or, when hemoglobin is not available, an absolute reduction in hematocrit of &gt;=9% and &lt;15%)
+
+
+
+   Figure     1    :         Bleeding Results in the CHAMPION PHOENIX    Study      a      (All Non-CABG related)  
+
+
+
+ 
+
+
+
+   a  Safety population is all randomized subjects who received at least one dose of study drug
+
+
+
+ Note:     The figure above presents effects in various subgroups most of which are baseline characteristics and most of which were pre-specified (patient presentation and weight were not pre-specified subgroups). The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+
+
+   Drug Discontinuation  
+
+
+
+ In CHAMPION PHOENIX the rate of discontinuation for bleeding events was 0.3% for KENGREAL and 0.1% for clopidogrel. Discontinuation for non-bleeding adverse events was low and similar for KENGREAL (0.6%) and for clopidogrel (0.4%). Coronary artery dissection, coronary artery perforation, and dyspnea were the most frequent events leading to discontinuation in patients treated with KENGREAL.
+
+
+
+   Non    -Bleeding Adverse Reactions  
+
+
+
+   Hypersensitivity  
+
+
+
+ Serious cases of hypersensitivity were more frequent with KENGREAL (7/13301) than with control (2/12861). These included anaphylactic reactions, anaphylactic shock, bronchospasm, angioedema, and stridor.
+
+
+
+   Decreased renal function  
+
+
+
+ Worsening renal function was reported in 3.2% of KENGREAL patients with severe renal impairment (creatinine clearance &lt;30 mL/min) compared to 1.4% of clopidogrel patients with severe renal impairment.
+
+
+
+   Dyspnea  
+
+
+
+ Dyspnea was reported more frequently in patients treated with KENGREAL (1.3%) than with control (0.4%).
+</Section>
+    <Section name="warnings and precautions" id="S2">     5       WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Bleeding: Like other drugs that inhibit platelet P2Y12function, KENGREAL can increase the risk of bleeding (  5.1  ) 
+    
+ 
+
+    5.1         Bleeding  
+
+
+
+  Drugs that inhibit platelet P2Y12function, including KENGREAL, increase the risk of bleeding.
+
+
+
+ In CHAMPION PHOENIX bleeding events of all severities were more common with KENGREAL than with clopidogrel [see Adverse Reactions (     6.1     )]  . Bleeding complications with KENGREAL were consistent across a variety of clinically important subgroups (see Figure 1).
+
+
+
+ Once KENGREAL is discontinued, there is no antiplatelet effect after an hour [see Clinical Pharmacology (     12.3     )]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

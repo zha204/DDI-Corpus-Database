@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="intersol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      Adverse Reactions:  InterSol solution is added to AMICUS-derived leukoreduced platelet concentrates after the apheresis procedure is complete. It is not for direct intravenous infusion. InterSol solution is not expected to cause adverse events other than those normally associated with platelet transfusion.
+</Section>
+    <Section name="warnings and precautions" id="S2">     Warnings and Precautions:    
+ 
+
+ *    InterSol solution is NOT FOR DIRECT INTRAVENOUS INFUSION. 
+ *    Do not use if particulate matter is present or if the solution is cloudy. 
+ *    Do not use if the container is damaged, leaking or if there is any visible sign of deterioration. 
+ *    Do not vent. 
+ *    Do not reuse. Discard unused or partially used InterSol solution. 
+ *    Protect from sharp objects. 
+ *    Verify that the InterSol solution has been securely attached to the PAS Connector line to avoid disconnection and leaks. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="glucagen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Side effects may include nausea and vomiting at doses above 1 mg or with rapid injection. Hypotension has been reported up to 2 hours after administration in patients receiving GlucaGen as premedication for upper GI endoscopy procedures. Glucagon exerts positive inotropic and chronotropic effects and may, therefore, cause tachycardia and hypertension. Adverse reactions indicating toxicity of GlucaGen have not been reported. A temporary increase in both blood pressure and pulse rate may occur following the administration of glucagon. Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon's short half-life    [see Drug Interactions (7.1)]    . The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease    [see Warnings and Precautions (5.1)]  .  Anaphylactic reactions may occur in some cases    [see Warnings and Precautions (5.3)]    .
+
+
+
+ The following adverse reactions have been identified during postapproval use of GlucaGen. Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency.
+
+
+
+ Table 1 Frequency of Adverse Reactions 
+  Treatment of severe hypoglycemia                       
+  Frequency (%)                                          Adverse Reaction                                 
+  &lt; 10                                                   Nausea                                           
+  &lt; 1                                                    Vomiting                                         
+  Use as a diagnostic aid                                
+  &lt; 10                                                   Nausea                                           
+  &lt; 1                                                    Vomiting                                         
+  &lt; 1                                                    Hypoglycemia                                     
+  &lt;1                                                     Hypoglycemic coma                                
+          EXCERPT:   Adverse reactions seen with GlucaGen are:
+ 
+
+ *    Nausea and vomiting (  6  ) 
+ *    Temporary increase in blood pressure and pulse may occur after administration. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Novo Nordisk Inc. at 1-800-727-6500 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    .    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Administer cautiously to patients suspected of having pheochromocytoma, insulinoma or glucagonoma due to risk of secondary hypoglycemia. Glucagon may release catecholamines from pheochromocytomas and is contraindicated in patients with this condition. (  5.1  ,  5.2  ) 
+ *    Allergic reactions may occur and include generalized rash, and in rare cases anaphylactic shock with breathing difficulties, and hypotension. (  5.3  ) 
+ *    In order for GlucaGen treatment to reverse hypoglycemia, there must be adequate amounts of glycogen stored in the liver. GlucaGen should be used with caution in patients with conditions resulting in low levels of releasable glucose in the liver. (  5.4  ) 
+ *    Use caution when glucagon is used as a diagnostic aid in diabetic patients because it may cause hyperglycemia. (  5.4  ) 
+ *    Use with caution in patients with known cardiac disease, as glucagon increases myocardial oxygen demand. (  5.5  ) 
+    
+ 
+
+   5.1 Pheochromocytoma
+
+
+
+  Glucagon is contraindicated in patients with pheochromocytoma because Glucagon may stimulate the release of catecholamines from the tumor. If the patient develops a dramatic increase in blood pressure, 5 to 10 mg of phentolamine mesylate has been shown to be effective in lowering blood pressure for the short time that control would be needed.
+
+
+
+    5.2 Insulinoma and Glucagonoma
+
+
+
+  GlucaGen should be administered cautiously to patients suspected of having insulinoma or glucagonoma. In patients with insulinoma, intravenous administration of glucagon may produce an initial increase in blood glucose; however, glucagon administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma. A patient developing symptoms of hypoglycemia after a dose of glucagon should be given glucose orally or intravenously, whichever is most appropriate. Caution should also be observed in administering GlucaGen to patients with glucagonoma.
+
+
+
+    5.3 Hypersensitivity and Allergic Reactions
+
+
+
+  Allergic reactions may occur and include generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension. The anaphylactic reactions have generally occurred in association with endoscopic examination during which patients often received other agents including contrast media and local anesthetics. The patients should be given standard treatment for anaphylaxis including an injection of epinephrine if they encounter respiratory difficulties after GlucaGen injection.
+
+
+
+    5.4 Glycogen Stores and Hypoglycemia
+
+
+
+  In order for GlucaGen treatment to reverse hypoglycemia, adequate amounts of glucose must be stored in the liver (as glycogen). Therefore, GlucaGen should be used with caution in patients with conditions such as prolonged fasting, starvation, adrenal insufficiency or chronic hypoglycemia because these conditions result in low levels of releasable glucose in the liver and an inadequate reversal of hypoglycemia by GlucaGen treatment.
+
+
+
+    5.5 Cardiac Disease
+
+
+
+  Caution should be observed when glucagon is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease.
+
+
+
+    5.6 Laboratory Tests
+
+
+
+  Blood glucose measurements may be considered to monitor the patient's response.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="daklinza" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *    Serious Symptomatic Bradycardia When Coadministered with Sofosbuvir and Amiodarone [ see  Warnings and Precautions (5.2)   ]. 
+      EXCERPT:   Most common adverse reactions (&gt;=10%) observed with DAKLINZA in combination with sofosbuvir were headache and fatigue.  (6.1)  
+ 
+
+    
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Bristol-Myers Squibb at 1-800-721-5072    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Approximately 1900 subjects with chronic HCV infection have been treated with the recommended dose of DAKLINZA in combination with other anti-HCV drugs in clinical trials.
+
+
+
+ In the ALLY-3 trial, 152 treatment-naive and treatment-experienced subjects with HCV genotype 3 infection were treated with DAKLINZA 60 mg once daily in combination with sofosbuvir for 12 weeks. The most common adverse reactions (frequency of 10% or greater) were headache and fatigue. All adverse reactions were mild to moderate in severity. One subject experienced a serious adverse event that was considered unrelated to DAKLINZA, and no subjects discontinued therapy for adverse events.
+
+
+
+ Adverse reactions considered at least possibly related to treatment and occurring at a frequency of 5% or greater are presented in Table 2.
+
+
+
+ Table 2:      Adverse Reactions Reported at &gt;=5% Frequency, DAKLINZA + Sofosbuvir for 12 Weeks 
+ Adverse Reaction                                   n (%)n=152                                            
+  
+  Headache                                           21 (14%)                                             
+  Fatigue                                            21 (14%)                                             
+  Nausea                                             12 (8%)                                              
+  Diarrhea                                           7 (5%)                                               
+          Laboratory Abnormalities
+     Lipase Elevations:  Transient, asymptomatic lipase elevations of greater than 3 times the upper limit of normal (ULN) were observed in 2% of subjects in ALLY-3.
+
+
+
+   6.2 Postmarketing Experience
+
+    Cardiac Disorders:  Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with sofosbuvir in combination with another HCV direct-acting antiviral, including DAKLINZA [  see  Warnings and Precautions (5.2)  and  Drug Interactions (7.3)    ].
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Bradycardia When Coadministered with Sofosbuvir and Amiodarone: Serious symptomatic bradycardia may occur in patients taking amiodarone with sofosbuvir in combination with another HCV direct-acting agent, including DAKLINZA, particularly in patients also receiving beta blockers or those with underlying cardiac comorbidities and/or advanced liver disease. Coadministration of amiodarone with DAKLINZA in combination with sofosbuvir is not recommended. In patients with no alternative treatment options, cardiac monitoring is recommended. (  5.2  ,  6.2  ,  7.3  ) 
+    
+ 
+
+   5.1 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+
+
+
+  The concomitant use of DAKLINZA and other drugs may result in known or potentially significant drug interactions, some of which may lead to [ see  Contraindications (4)  and  Drug Interactions (7)    ]:
+
+
+
+ *    loss of therapeutic effect of DAKLINZA and possible development of resistance, 
+ *    dosage adjustments of concomitant medications or DAKLINZA, 
+ *    possible clinically significant adverse reactions from greater exposures of concomitant drugs or DAKLINZA. 
+    See Table 1 for drugs contraindicated with DAKLINZA due to loss of efficacy and possible development of resistance [ see  Contraindications (4)    ]. See Table 3 for steps to prevent or manage other possible and known significant drug interactions [ see  Drug Interactions (7)    ]. Consider the potential for drug interactions before and during DAKLINZA therapy, review concomitant medications during DAKLINZA therapy, and monitor for the adverse reactions associated with the concomitant drugs.
+ 
+
+    5.2 Serious Symptomatic Bradycardia When Coadministered with Sofosbuvir and Amiodarone
+
+
+
+  Postmarketing cases of symptomatic bradycardia and cases requiring pacemaker intervention have been reported when amiodarone is coadministered with sofosbuvir in combination with another HCV direct-acting antiviral, including DAKLINZA. A fatal cardiac arrest was reported in a patient receiving a sofosbuvir-containing regimen (ledipasvir/sofosbuvir). Bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating HCV treatment. Patients also taking beta blockers or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone. Bradycardia generally resolved after discontinuation of HCV treatment. The mechanism for this bradycardia effect is unknown.
+
+
+
+ Coadministration of amiodarone with DAKLINZA in combination with sofosbuvir is not recommended. For patients taking amiodarone who have no alternative treatment options and who will be coadministered DAKLINZA and sofosbuvir:
+
+
+
+ *    Counsel patients about the risk of serious symptomatic bradycardia 
+ *    Cardiac monitoring in an inpatient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment. 
+    Patients who are taking sofosbuvir in combination with DAKLINZA who need to start amiodarone therapy due to no other alternative treatment options should undergo similar cardiac monitoring as outlined above.
+ 
+
+ Due to amiodarone's long elimination half-life, patients discontinuing amiodarone just prior to starting sofosbuvir in combination with DAKLINZA should also undergo similar cardiac monitoring as outlined above.
+
+
+
+ Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately. Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pain, confusion, or memory problems [ see  Adverse Reactions (6.2)  and  Drug Interactions, Table 3 (7.3)    ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

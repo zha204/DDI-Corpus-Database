@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="iclusig" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The following adverse reactions are discussed in greater detail in other sections of the prescribing information:
+
+
+
+ *  Vascular Occlusion [see  Warnings and Precautions (5.1)  ]  
+ *  Heart Failure [see  Dosage and Administration (2.3)  and  Warnings and Precautions (5.2)  ]  
+ *  Hepatotoxicity [see  Dosage and Administration (2.3)  and  Warnings and Precautions (5.3)  ]  
+ *  Hypertension [see  Warnings and Precautions (5.4)  ]  
+ *  Pancreatitis [see  Dosage and Administration (2.3)  and  Warnings and Precautions (5.5)  ]  
+ *  Neuropathy [see  Warnings and Precautions (5.6)  ]  
+ *  Ocular Toxicity [see  Warnings and Precautions (5.7)  ]  
+ *  Hemorrhage [see  Warnings and Precautions (5.8)  ]  
+ *  Fluid Retention [see  Warnings and Precautions (5.9)  ]  
+ *  Cardiac Arrhythmias [see  Warnings and Precautions (5.10)  ]  
+ *  Myelosuppression [see  Dosage and Administration (2.2)  and  Warnings and Precautions (5.11)  ]  
+    The adverse reactions described in this section were identified in a single-arm, open-label, international, multicenter trial in 449 patients with CML or Ph+ ALL whose disease was considered to be resistant or intolerant to prior tyrosine kinase inhibitor (TKI) therapy including those with the BCR-ABL T315I mutation. All patients received a starting dose of 45 mg Iclusig once daily. At the time of analysis, the median duration of treatment with Iclusig was 337 days in patients with CP-CML, 362 days in patients with AP-CML, 89 days in patients with BP-CML, and 81 days in patients with Ph+ ALL. The median dose intensity was 37 mg or 83% of the expected 45 mg dose. The events of arterial ischemia, cardiac failure, and peripheral neuropathy reported in Tables 5 and 6 below include data from an additional 13 months of follow-up (median duration of treatment CP-CML: 672 days, AP-CML: 590 days, BP-CML: 89 days, Ph+ ALL: 81 days).
+ 
+
+ Adverse reactions reported in more than 10% of all patients treated with Iclusig in this trial are presented in Table 5. Overall, the most common non-hematologic adverse reactions (&gt;= 20%) were hypertension, rash, abdominal pain, fatigue, headache, dry skin, constipation, arthralgia, nausea, and pyrexia.
+
+
+
+ The rates of treatment-emergent adverse events resulting in discontinuation were 13% in CP-CML, 11% in AP-CML, 15% in BP-CML, and 9% in Ph+ ALL. The most common adverse events that led to treatment discontinuation were thrombocytopenia (4%) and infections (1%).
+
+
+
+ Dose modifications (dose delays or dose reductions) due to adverse reactions occurred in 74% of the patients. The most common adverse reactions (&gt;=5%) that led to dose modifications include thrombocytopenia (30%), neutropenia (13%), lipase increased (12%), rash (11%), abdominal pain (11%), pancreatitis (6%), and ALT, AST, or GGT increased (6%).
+
+
+
+ Table 5: Adverse Reactions Occurring in &gt;10% of Patients, Any Group 
+                       CP-CML(N=270)  AP-CML(N=85)  BP-CML(N=62)  Ph+ ALL(N=32)   
+ System Organ Class    Any Grade(%)  CTCAE Grade3 / 4(%)  Any Grade(%)  CTCAE Grade3 / 4(%)  Any Grade(%)  CTCAE Grade3 / 4(%)  Any Grade(%)  CTCAE Grade3 / 4(%)   
+  
+ Adverse drug reactions, reported using MedDRA and graded using NCI-CTC-AE v 4.0 (NCI Common Terminology Criteria for Adverse Events) for assessment of toxicity.   
+ Treatment-emergent, all causality events   
+  
+   Cardiac or Vascular disorders                                                                                                     
+   Hypertension            68          39          71          36          65          26          53          31       
+   Arterial ischemia       20          11          19          9           10          5           3           0        
+   Cardiac Failure         7           4           6           4           15          8           6           3        
+   Gastrointestinal disorders                                                                                                     
+   Abdominal pain          49          10          40          8           34          6           44          6        
+   Constipation            37          2           24          2           26          0           47          3        
+   Nausea                  23          1           27          0           32          2           22          0        
+   Diarrhea                16          1           26          0           18          3           13          3        
+   Vomiting                13          2           24          0           23          2           22          0        
+   Oral mucositis          10          1           15          1           23          0           9           3        
+   GI hemorrhage           2           &lt;1          8           1           11          5           9           6        
+   Blood and lymphatic system disorders                                                                                                     
+   Febrile neutropenia      1           &lt;1          4           4           11          11          25          25       
+   Infections and infestations                                                                                                     
+   Sepsis                  1           1           5           5           8           8           22          22       
+   Pneumonia               3           2           11          9           13          11          9           3        
+   Urinary tract infection      7           1           12          1           0           0           9           0        
+   Upper respiratory tract infection      11          1           8           0           11          2           0           0        
+   Nasopharyngitis         9           0           12          0           3           0           3           0        
+   Cellulitis              2           1           4           2           11          3           0           0        
+   Nervous system disorders                                                                                                     
+   Headache                39          3           28          0           31          3           25          0        
+   Peripheral neuropathy      16          2           11          1           8           0           6           0        
+   Dizziness               11          0           5           0           5           0           3           0        
+   Respiratory, thoracic, and mediastinal disorders                                                                                                     
+   Pleural effusion        3           1           11          2           13          0           19          3        
+   Cough                   12          0           17          0           18          0           6           0        
+   Dyspnea                 11          2           15          2           21          7           6           0        
+   Skin and subcutaneous tissue disorders                                                                                                     
+   Rash and related conditions      54          5           48          8           39          5           34          6        
+   Dry skin                39          2           27          1           24          2           25          0        
+   Musculoskeletal and connective tissue disorders                                                                                                     
+   Arthralgia              26          2           31          1           19          0           13          0        
+   Myalgia                 22          1           20          0           16          0           6           0        
+   Pain in extremity       17          2           17          0           13          0           9           0        
+   Back pain               15          1           11          2           16          2           13          0        
+   Muscle spasms           12          0           5           0           5           0           13          0        
+   Bone pain               12          &lt;1          12          1           11          3           9           3        
+   General disorders and administration site conditions                                                                                                     
+   Fatigue or asthenia      39          3           36          6           35          5           31          3        
+   Pyrexia                 23          1           31          5           32          3           25          0        
+   Edema, peripheral       13          &lt;1          19          0           13          0           22          0        
+   Pain                    8           &lt;1          7           0           16          3           6           3        
+   Chills                  7           0           11          0           13          2           9           0        
+   Metabolism and nutrition disorders                                                                                                     
+   Decreased appetite      8           &lt;1          12          1           8           0           31          0        
+   Investigations                                                                                                       
+   Weight decreased        6           &lt;1          7           0           5           0           13          0        
+   Psychiatric disorders                                                                                                     
+   Insomnia                7           0           12          0           8           0           9           0        
+              Table 6: Serious Adverse Reactions (SAR) 
+                                                                                        N (%)             
+  
+   Cardiovascular disorders                                                                               
+   Arterial ischemic event                                                           53 (11.8%)           
+     Cardiovascular                                                                   28 (6.2%)           
+     Cerebrovascular                                                                  18 (4.0%)           
+     Peripheral vascular                                                              16 (3.6%)           
+   Hemorrhage                                                                         22 (4.9%)           
+     CNS hemorrhage                                                                   10 (2.2%)           
+     Gastrointestinal hemorrhage                                                      10 (2.2%)           
+   Cardiac failure                                                                    22 (4.9%)           
+   Effusions                                                                          13 (2.9%)           
+   Atrial fibrillation                                                                11 (2.4%)           
+   Venous thromboembolism                                                             10 (2.2%)           
+   Hypertension                                                                       8 (1.8%)            
+   Gastrointestinal disorders                                                                             
+   Pancreatitis                                                                       23 (5.1%)           
+   Abdominal pain                                                                     17 (3.8%)           
+   Blood and lymphatic system disorders                                                                   
+   Febrile neutropenia                                                                13 (2.9%)           
+   Thrombocytopenia                                                                   13 (2.9%)           
+   Anemia                                                                             12 (2.7%)           
+   Infections                                                                                             
+   Pneumonia                                                                          24 (5.3%)           
+   Sepsis                                                                             11 (2.4%)           
+   General                                                                                                
+   Pyrexia                                                                            14 (3.1%)           
+          EXCERPT:   The most common non-hematologic adverse reactions (&gt;= 20%) were hypertension, rash, abdominal pain, fatigue, headache, dry skin, constipation, arthralgia, nausea, and pyrexia. Hematologic adverse reactions included thrombocytopenia, anemia, neutropenia, lymphopenia, and leukopenia (  6  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact ARIAD Pharmaceuticals, Inc. at 1-855-55-ARIAD or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+      Laboratory Abnormalities    
+
+
+
+ Myelosuppression was commonly reported in all patient populations. The frequency of grade 3 or 4 thrombocytopenia, neutropenia, and anemia was higher in patients with AP-CML, BP-CML, and Ph+ ALL than in patients with CP-CML (see  Table 7  ).
+
+
+
+ Table 7: Incidence of Clinically Relevant Grade 3/4Reported using NCI-CTC-AE v 4.0 Hematologic Abnormalities 
+ Laboratory Test                       CP-CML(N=270)(%)  AP-CML(N=85)(%)   BP-CML(N=62)(%)   Ph+ ALL(N=32)(%)   
+  
+ ANC=absolute neutrophil count, Hgb=hemoglobin, WBC=white blood cell count   
+  
+   Hematology                           
+   Thrombocytopenia (platelet count decreased)         36                47                57                47          
+   Neutropenia (ANC decreased)                24                51                55                63          
+   Leukopenia (WBC decreased)                 14                35                53                63          
+   Anemia (Hgb decreased)                     9                 26                55                34          
+   Lymphopenia                                10                26                37                22          
+          Table 8: Incidence of Clinically Relevant Non-Hematologic Laboratory Abnormalities 
+ Laboratory Test                                      Safety PopulationN=449     
+ Any Grade(%)                                           CTCAE Grade 3/4(%)       
+  
+ ALT=alanine aminotransferase, AST=aspartate aminotransferase.   
+  
+   Liver function tests                                                                                     
+   ALT increased                                                53                          8               
+   AST increased                                                41                          4               
+   Alkaline phosphatase increased                               37                          2               
+   Albumin decreased                                            28                          1               
+   Bilirubin increased                                          19                          1               
+   Pancreatic enzymes                                                                                       
+   Lipase increased                                             41                         15               
+   Amylase increased                                             3                         &lt;1               
+   Chemistry                                                                                                
+   Glucose increased                                            58                          6               
+   Phosphorus decreased                                         57                          8               
+   Calcium decreased                                            52                          1               
+   Sodium decreased                                             29                          5               
+   Glucose decreased                                            24                          0               
+   Potassium decreased                                          16                          2               
+   Potassium increased                                          15                          2               
+   Sodium increased                                             10                         &lt;1               
+   Bicarbonate decreased                                        11                         &lt;1               
+   Creatinine increased                                          7                         &lt;1               
+   Calcium increased                                             5                          0               
+   Triglycerides increased                                       3                         &lt;1               
+</Section>
+    <Section name="adverse reactions" id="S2">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The following adverse reactions are discussed in greater detail in other sections of the prescribing information:
+
+
+
+ *  Vascular Occlusion [see  Warnings and Precautions (5.1)  ]  
+ *  Heart Failure [see  Dosage and Administration (2.3)  and  Warnings and Precautions (5.2)  ]  
+ *  Hepatotoxicity [see  Dosage and Administration (2.3)  and  Warnings and Precautions (5.3)  ]  
+ *  Hypertension [see  Warnings and Precautions (5.4)  ]  
+ *  Pancreatitis [see  Dosage and Administration (2.3)  and  Warnings and Precautions (5.5)  ]  
+ *  Neuropathy [see  Warnings and Precautions (5.6)  ]  
+ *  Ocular Toxicity [see  Warnings and Precautions (5.7)  ]  
+ *  Hemorrhage [see  Warnings and Precautions (5.8)  ]  
+ *  Fluid Retention [see  Warnings and Precautions (5.9)  ]  
+ *  Cardiac Arrhythmias [see  Warnings and Precautions (5.10)  ]  
+ *  Myelosuppression [see  Dosage and Administration (2.2)  and  Warnings and Precautions (5.11)  ]  
+    The adverse reactions described in this section were identified in a single-arm, open-label, international, multicenter trial in 449 patients with CML or Ph+ ALL whose disease was considered to be resistant or intolerant to prior tyrosine kinase inhibitor (TKI) therapy including those with the BCR-ABL T315I mutation. All patients received a starting dose of 45 mg Iclusig once daily. At the time of analysis, the median duration of treatment with Iclusig was 337 days in patients with CP-CML, 362 days in patients with AP-CML, 89 days in patients with BP-CML, and 81 days in patients with Ph+ ALL. The median dose intensity was 37 mg or 83% of the expected 45 mg dose. The events of arterial ischemia, cardiac failure, and peripheral neuropathy reported in Tables 5 and 6 below include data from an additional 13 months of follow-up (median duration of treatment CP-CML: 672 days, AP-CML: 590 days, BP-CML: 89 days, Ph+ ALL: 81 days).
+ 
+
+ Adverse reactions reported in more than 10% of all patients treated with Iclusig in this trial are presented in Table 5. Overall, the most common non-hematologic adverse reactions (&gt;= 20%) were hypertension, rash, abdominal pain, fatigue, headache, dry skin, constipation, arthralgia, nausea, and pyrexia.
+
+
+
+ The rates of treatment-emergent adverse events resulting in discontinuation were 13% in CP-CML, 11% in AP-CML, 15% in BP-CML, and 9% in Ph+ ALL. The most common adverse events that led to treatment discontinuation were thrombocytopenia (4%) and infections (1%).
+
+
+
+ Dose modifications (dose delays or dose reductions) due to adverse reactions occurred in 74% of the patients. The most common adverse reactions (&gt;=5%) that led to dose modifications include thrombocytopenia (30%), neutropenia (13%), lipase increased (12%), rash (11%), abdominal pain (11%), pancreatitis (6%), and ALT, AST, or GGT increased (6%).
+
+
+
+ Table 5: Adverse Reactions Occurring in &gt;10% of Patients, Any Group 
+                       CP-CML(N=270)  AP-CML(N=85)  BP-CML(N=62)  Ph+ ALL(N=32)   
+ System Organ Class    Any Grade(%)  CTCAE Grade3 / 4(%)  Any Grade(%)  CTCAE Grade3 / 4(%)  Any Grade(%)  CTCAE Grade3 / 4(%)  Any Grade(%)  CTCAE Grade3 / 4(%)   
+  
+ Adverse drug reactions, reported using MedDRA and graded using NCI-CTC-AE v 4.0 (NCI Common Terminology Criteria for Adverse Events) for assessment of toxicity.   
+ Treatment-emergent, all causality events   
+  
+   Cardiac or Vascular disorders                                                                                                     
+   Hypertension            68          39          71          36          65          26          53          31       
+   Arterial ischemia       20          11          19          9           10          5           3           0        
+   Cardiac Failure         7           4           6           4           15          8           6           3        
+   Gastrointestinal disorders                                                                                                     
+   Abdominal pain          49          10          40          8           34          6           44          6        
+   Constipation            37          2           24          2           26          0           47          3        
+   Nausea                  23          1           27          0           32          2           22          0        
+   Diarrhea                16          1           26          0           18          3           13          3        
+   Vomiting                13          2           24          0           23          2           22          0        
+   Oral mucositis          10          1           15          1           23          0           9           3        
+   GI hemorrhage           2           &lt;1          8           1           11          5           9           6        
+   Blood and lymphatic system disorders                                                                                                     
+   Febrile neutropenia      1           &lt;1          4           4           11          11          25          25       
+   Infections and infestations                                                                                                     
+   Sepsis                  1           1           5           5           8           8           22          22       
+   Pneumonia               3           2           11          9           13          11          9           3        
+   Urinary tract infection      7           1           12          1           0           0           9           0        
+   Upper respiratory tract infection      11          1           8           0           11          2           0           0        
+   Nasopharyngitis         9           0           12          0           3           0           3           0        
+   Cellulitis              2           1           4           2           11          3           0           0        
+   Nervous system disorders                                                                                                     
+   Headache                39          3           28          0           31          3           25          0        
+   Peripheral neuropathy      16          2           11          1           8           0           6           0        
+   Dizziness               11          0           5           0           5           0           3           0        
+   Respiratory, thoracic, and mediastinal disorders                                                                                                     
+   Pleural effusion        3           1           11          2           13          0           19          3        
+   Cough                   12          0           17          0           18          0           6           0        
+   Dyspnea                 11          2           15          2           21          7           6           0        
+   Skin and subcutaneous tissue disorders                                                                                                     
+   Rash and related conditions      54          5           48          8           39          5           34          6        
+   Dry skin                39          2           27          1           24          2           25          0        
+   Musculoskeletal and connective tissue disorders                                                                                                     
+   Arthralgia              26          2           31          1           19          0           13          0        
+   Myalgia                 22          1           20          0           16          0           6           0        
+   Pain in extremity       17          2           17          0           13          0           9           0        
+   Back pain               15          1           11          2           16          2           13          0        
+   Muscle spasms           12          0           5           0           5           0           13          0        
+   Bone pain               12          &lt;1          12          1           11          3           9           3        
+   General disorders and administration site conditions                                                                                                     
+   Fatigue or asthenia      39          3           36          6           35          5           31          3        
+   Pyrexia                 23          1           31          5           32          3           25          0        
+   Edema, peripheral       13          &lt;1          19          0           13          0           22          0        
+   Pain                    8           &lt;1          7           0           16          3           6           3        
+   Chills                  7           0           11          0           13          2           9           0        
+   Metabolism and nutrition disorders                                                                                                     
+   Decreased appetite      8           &lt;1          12          1           8           0           31          0        
+   Investigations                                                                                                       
+   Weight decreased        6           &lt;1          7           0           5           0           13          0        
+   Psychiatric disorders                                                                                                     
+   Insomnia                7           0           12          0           8           0           9           0        
+              Table 6: Serious Adverse Reactions (SAR) 
+                                                                                        N (%)             
+  
+   Cardiovascular disorders                                                                               
+   Arterial ischemic event                                                           53 (11.8%)           
+     Cardiovascular                                                                   28 (6.2%)           
+     Cerebrovascular                                                                  18 (4.0%)           
+     Peripheral vascular                                                              16 (3.6%)           
+   Hemorrhage                                                                         22 (4.9%)           
+     CNS hemorrhage                                                                   10 (2.2%)           
+     Gastrointestinal hemorrhage                                                      10 (2.2%)           
+   Cardiac failure                                                                    22 (4.9%)           
+   Effusions                                                                          13 (2.9%)           
+   Atrial fibrillation                                                                11 (2.4%)           
+   Venous thromboembolism                                                             10 (2.2%)           
+   Hypertension                                                                       8 (1.8%)            
+   Gastrointestinal disorders                                                                             
+   Pancreatitis                                                                       23 (5.1%)           
+   Abdominal pain                                                                     17 (3.8%)           
+   Blood and lymphatic system disorders                                                                   
+   Febrile neutropenia                                                                13 (2.9%)           
+   Thrombocytopenia                                                                   13 (2.9%)           
+   Anemia                                                                             12 (2.7%)           
+   Infections                                                                                             
+   Pneumonia                                                                          24 (5.3%)           
+   Sepsis                                                                             11 (2.4%)           
+   General                                                                                                
+   Pyrexia                                                                            14 (3.1%)           
+          EXCERPT:   The most common non-hematologic adverse reactions (&gt;= 20%) were hypertension, rash, abdominal pain, fatigue, headache, dry skin, constipation, arthralgia, nausea, and pyrexia. Hematologic adverse reactions included thrombocytopenia, anemia, neutropenia, lymphopenia, and leukopenia (  6  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact ARIAD Pharmaceuticals, Inc. at 1-855-55-ARIAD or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+      Laboratory Abnormalities    
+
+
+
+ Myelosuppression was commonly reported in all patient populations. The frequency of grade 3 or 4 thrombocytopenia, neutropenia, and anemia was higher in patients with AP-CML, BP-CML, and Ph+ ALL than in patients with CP-CML (see  Table 7  ).
+
+
+
+ Table 7: Incidence of Clinically Relevant Grade 3/4Reported using NCI-CTC-AE v 4.0 Hematologic Abnormalities 
+ Laboratory Test                       CP-CML(N=270)(%)  AP-CML(N=85)(%)   BP-CML(N=62)(%)   Ph+ ALL(N=32)(%)   
+  
+ ANC=absolute neutrophil count, Hgb=hemoglobin, WBC=white blood cell count   
+  
+   Hematology                           
+   Thrombocytopenia (platelet count decreased)         36                47                57                47          
+   Neutropenia (ANC decreased)                24                51                55                63          
+   Leukopenia (WBC decreased)                 14                35                53                63          
+   Anemia (Hgb decreased)                     9                 26                55                34          
+   Lymphopenia                                10                26                37                22          
+          Table 8: Incidence of Clinically Relevant Non-Hematologic Laboratory Abnormalities 
+ Laboratory Test                                      Safety PopulationN=449     
+ Any Grade(%)                                           CTCAE Grade 3/4(%)       
+  
+ ALT=alanine aminotransferase, AST=aspartate aminotransferase.   
+  
+   Liver function tests                                                                                     
+   ALT increased                                                53                          8               
+   AST increased                                                41                          4               
+   Alkaline phosphatase increased                               37                          2               
+   Albumin decreased                                            28                          1               
+   Bilirubin increased                                          19                          1               
+   Pancreatic enzymes                                                                                       
+   Lipase increased                                             41                         15               
+   Amylase increased                                             3                         &lt;1               
+   Chemistry                                                                                                
+   Glucose increased                                            58                          6               
+   Phosphorus decreased                                         57                          8               
+   Calcium decreased                                            52                          1               
+   Sodium decreased                                             29                          5               
+   Glucose decreased                                            24                          0               
+   Potassium decreased                                          16                          2               
+   Potassium increased                                          15                          2               
+   Sodium increased                                             10                         &lt;1               
+   Bicarbonate decreased                                        11                         &lt;1               
+   Creatinine increased                                          7                         &lt;1               
+   Calcium increased                                             5                          0               
+   Triglycerides increased                                       3                         &lt;1               
+</Section>
+    <Section name="boxed warnings" id="S3">
+
+    BOXED WARNING: WARNING: VASCULAR OCCLUSION, HEART FAILURE, and HEPATOTOXICITY
+
+    WARNING: VASCULAR OCCLUSION, HEART FAILURE, and HEPATOTOXICITY  
+
+      Vascular Occlusion:    
+
+
+
+ *  Arterial and venous thrombosis and occlusions have occurred in at least 27% of Iclusig treated patients, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures. Patients with and without cardiovascular risk factors, including patients age 50 years or younger, experienced these events (5.1). 
+ *  Monitor for evidence of thromboembolism and vascular occlusion. Interrupt or stop Iclusig immediately for vascular occlusion. A benefit-risk consideration should guide a decision to restart Iclusig therapy (5.1). 
+      Heart Failure:  
+ 
+
+ *  Heart failure, including fatalities, occurred in 8% of Iclusig-treated patients. Monitor cardiac function. Interrupt or stop Iclusig for new or worsening heart failure (5.2). 
+      Hepatotoxicity:   
+ 
+
+ *  Hepatotoxicity, liver failure and death have occurred in Iclusig-treated patients. Monitor hepatic function. Interrupt Iclusig if hepatotoxicity is suspected (2.3, 5.3). 
+      EXCERPT:     WARNING: VASCULAR OCCLUSION, HEART FAILURE, and HEPATOTOXICITY  
+ 
+
+   See full prescribing information for complete boxed warning  
+
+
+
+ *  Vascular Occlusion: Arterial and venous thrombosis and occlusions have occurred in at least 27% of Iclusig treated patients, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures. Patients with and without cardiovascular risk factors, including patients less than 50 years old, experienced these events. Monitor for evidence of thromboembolism and vascular occlusion. Interrupt or stop Iclusig immediately for vascular occlusion. (5.1). 
+ *  Heart Failure, including fatalities, occurred in 8% of Iclusig-treated patients. Monitor cardiac function. Interrupt or stop Iclusig for new or worsening heart failure (5.2). 
+ *  Hepatotoxicity, liver failure and death have occurred in Iclusig-treated patients. Monitor hepatic function. Interrupt Iclusig if hepatotoxicity is suspected (2.3, 5.3). 
+</Section>
+    <Section name="boxed warnings" id="S4">
+
+    BOXED WARNING: WARNING: VASCULAR OCCLUSION, HEART FAILURE, and HEPATOTOXICITY
+
+    WARNING: VASCULAR OCCLUSION, HEART FAILURE, and HEPATOTOXICITY  
+
+      Vascular Occlusion:    
+
+
+
+ *  Arterial and venous thrombosis and occlusions have occurred in at least 27% of Iclusig treated patients, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures. Patients with and without cardiovascular risk factors, including patients age 50 years or younger, experienced these events (5.1). 
+ *  Monitor for evidence of thromboembolism and vascular occlusion. Interrupt or stop Iclusig immediately for vascular occlusion. A benefit-risk consideration should guide a decision to restart Iclusig therapy (5.1). 
+      Heart Failure:  
+ 
+
+ *  Heart failure, including fatalities, occurred in 8% of Iclusig-treated patients. Monitor cardiac function. Interrupt or stop Iclusig for new or worsening heart failure (5.2). 
+      Hepatotoxicity:   
+ 
+
+ *  Hepatotoxicity, liver failure and death have occurred in Iclusig-treated patients. Monitor hepatic function. Interrupt Iclusig if hepatotoxicity is suspected (2.3, 5.3). 
+      EXCERPT:     WARNING: VASCULAR OCCLUSION, HEART FAILURE, and HEPATOTOXICITY  
+ 
+
+   See full prescribing information for complete boxed warning  
+
+
+
+ *  Vascular Occlusion: Arterial and venous thrombosis and occlusions have occurred in at least 27% of Iclusig treated patients, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures. Patients with and without cardiovascular risk factors, including patients less than 50 years old, experienced these events. Monitor for evidence of thromboembolism and vascular occlusion. Interrupt or stop Iclusig immediately for vascular occlusion. (5.1). 
+ *  Heart Failure, including fatalities, occurred in 8% of Iclusig-treated patients. Monitor cardiac function. Interrupt or stop Iclusig for new or worsening heart failure (5.2). 
+ *  Hepatotoxicity, liver failure and death have occurred in Iclusig-treated patients. Monitor hepatic function. Interrupt Iclusig if hepatotoxicity is suspected (2.3, 5.3). 
+</Section>
+    <Section name="warnings and precautions" id="S5">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypertension: Monitor for high blood pressure and manage as clinically indicated (  5.4  ). 
+ *  Pancreatitis: Monitor serum lipase monthly; interrupt or discontinue Iclusig (  2.3  ,  5.5  ). 
+ *  Neuropathy: Monitor for symptoms of peripheral and cranial neuropathy (  5.6  ). 
+ *  Ocular Toxicity: Conduct comprehensive eye exams at baseline and periodically during treatment (  5.7  ). 
+ *  Hemorrhage: Interrupt Iclusig for serious or severe hemorrhage (  5.8  ). 
+ *  Fluid Retention: Monitor patients for fluid retention; interrupt, reduce, or discontinue Iclusig (  5.9  ). 
+ *  Cardiac Arrhythmias: Monitor for symptoms of arrhythmias (  5.10  ,  6  ). 
+ *  Myelosuppression: Thrombocytopenia, neutropenia, and anemia may require dose interruption or reduction. Monitor complete blood counts every 2 weeks for 3 months and then monthly and as clinically indicated. Interrupt Iclusig for ANC &lt; 1000/mm  3  or thrombocytopenia &lt; 50,000/ mm  3  (  2.2  ,  5.11  ). 
+ *  Tumor Lysis Syndrome: Ensure adequate hydration and correct elevated uric acid levels prior to initiating therapy with Iclusig (  5.12  ). 
+ *  Compromised Wound Healing and Gastrointestinal Perforation: Temporarily interrupt therapy in patients undergoing major surgical procedures (  5.13  ). 
+ *  Embryo-Fetal Toxicity: Can cause fetal harm. Advise women of potential risk to a fetus (  5.14  ,  8.1  ). 
+    
+ 
+
+   5.1 Vascular Occlusion
+
+
+
+   Arterial and venous thrombosis and occlusions, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures have occurred in at least 27% of Iclusig-treated patients from the phase 1 and phase 2 trials. Iclusig can cause fatal and life-threatening vascular occlusion within 2 weeks of starting treatment. Iclusig can also cause recurrent or multi-site vascular occlusion.  
+
+
+
+  In the dose-escalation (phase 1) clinical trial, 48% (31/65) of patients with CML or Ph+ ALL developed vascular occlusive events. The median time to onset of the first vascular occlusion event was 5 months. Iclusig can cause fatal and life-threatening vascular occlusion in patients treated at dose levels as low as 15 mg per day.  
+
+
+
+  Patients with and without cardiovascular risk factors, including patients age 50 years or younger, experienced these events. Vascular occlusion adverse events were more frequent with increasing age and in patients with prior history of ischemia, hypertension, diabetes, or hyperlipidemia (see  Table 4  ).  
+
+
+
+ Table 4: Vascular Occlusion Incidence in Iclusig-Treated Patients in Phase 2 Trial According to Risk Categories 
+                        Prior history of ischemia, hypertension, diabetes, or hyperlipidemia    No history of ischemia, hypertension, diabetes, or hyperlipidemia   
+  
+  Age: 49 or younger                   18%(6/33)                                12%(13/112)                  
+  Age: 50 to 74 years                  33%(50/152)                               18%(20/114)                  
+  Age: 75 and older                   56%(14/25)                                46%(6/13)                   
+  All age groups                     33%(70/210)                               16%(39/239)                  
+  Total                              24%(109/449)                 
+             Arterial Occlusion and Thrombosis    
+ 
+
+  Arterial occlusion and thrombosis occurred in at least 20% (91/449) of Iclusig-treated patients with some patients experiencing events of more than one type. Patients have required revascularization procedures (cerebrovascular, coronary, and peripheral arterial) due to vascular occlusion from Iclusig.  
+
+
+
+  Cardiac vascular occlusion, including fatal and life-threatening myocardial infarction and coronary artery occlusion has occurred in 12% (55/449) of Iclusig-treated patients. Patients have developed heart failure concurrent or subsequent to the myocardial ischemic event.  
+
+
+
+  Cerebrovascular occlusion, including fatal stroke, has occurred in 6% (27/449) of Iclusig-treated patients. Iclusig can cause stenosis over multiple segments in major arterial vessels that supply the brain (e.g., carotid, vertebral, middle cerebral artery).  
+
+
+
+  Peripheral arterial occlusive events, including fatal mesenteric artery occlusion and life-threatening peripheral arterial disease, have occurred in 8% (36/449) of Iclusig-treated patients. Patients have developed digital or distal extremity necrosis and have required amputations.  
+
+
+
+  Clinicians should consider whether the benefits of Iclusig treatment are expected to exceed the risks of therapy. In patients suspected of developing arterial thrombotic events, interrupt or stop Iclusig. A benefit-risk consideration should guide a decision to restart Iclusig therapy. [see  Dosage and Administration (2.3)  ]  .  
+
+
+
+     Venous Thromboembolism    
+
+
+
+  Venous thromboembolic events occurred in 5% (23/449) of Iclusig-treated patients, including deep venous thrombosis (8 patients), pulmonary embolism (6 patients), superficial thrombophlebitis (3 patients), and retinal vein thrombosis (2 patients). Consider dose modification or discontinuation of Iclusig in patients who develop serious venous thromboembolism [see  Dosage and Administration (2.3)  ]  .  
+
+
+
+    5.2 Heart Failure
+
+
+
+   Fatal and serious heart failure or left ventricular dysfunction occurred in 5% of Iclusig-treated patients (N =22). Eight percent of patients (N= 35) experienced any grade of heart failure or left ventricular dysfunction. Monitor patients for signs or symptoms consistent with heart failure and treat as clinically indicated, including interruption of Iclusig. Consider discontinuation of Iclusig in patients who develop serious heart failure [see  Dosage and Administration (2.3)  ]  .  
+
+
+
+    5.3 Hepatotoxicity
+
+
+
+  Iclusig can cause hepatotoxicity, including liver failure and death. Fulminant hepatic failure leading to death occurred in an Iclusig-treated patient within one week of starting Iclusig. Two additional fatal cases of acute liver failure also occurred. The fatal cases occurred in patients with blast phase (BP) CML or Ph+ ALL. Severe hepatotoxicity occurred in all disease cohorts.
+
+
+
+ The incidence of aspartate aminotransferase (ALT) or alanine aminotransferase (AST) elevation was 56% (all grades) and 8% (grade 3 or 4). Iclusig treatment may result in elevation in ALT, AST, or both. ALT or AST elevation was not reversed by the date of last follow-up in 5% of patients.
+
+
+
+ Monitor liver function tests at baseline, then at least monthly or as clinically indicated. Interrupt, reduce or discontinue Iclusig as clinically indicated [see  Dosage and Administration (2.3)  ]  .
+
+
+
+    5.4 Hypertension
+
+
+
+   Treatment-emergent hypertension occurred in 67% of patients (300/449). Eight patients (2%) treated with Iclusig in clinical trials experienced treatment-emergent symptomatic hypertension as a serious adverse reaction, including hypertensive crisis. Patients may require urgent clinical intervention for hypertension associated with confusion, headache, chest pain, or shortness of breath [see  Adverse Reactions (6)  ]  . In patients with baseline systolic BP&lt;140 mm Hg and baseline diastolic BP&lt;90mm Hg, 78% (220/282) experienced treatment-emergent hypertension; 49% (139/282) developed Stage 1 hypertension (defined as systolic BP&gt;=140 mm Hg or diastolic BP&gt;=90 mm Hg) while 29% developed Stage 2 hypertension (defined as systolic BP&gt;=160 mm Hg or diastolic BP&gt;=100 mm Hg). In 131 patients with Stage 1 hypertension at baseline, 61% (80/131) developed Stage 2 hypertension. Monitor and manage blood pressure elevations during Iclusig use and treat hypertension to normalize blood pressure. Interrupt, dose reduce, or stop Iclusig if hypertension is not medically controlled.  
+
+
+
+    5.5 Pancreatitis
+
+
+
+  Clinical pancreatitis occurred in 6% (28/449) of patients (5% grade 3) treated with Iclusig. Pancreatitis resulted in discontinuation or treatment interruption in 6% of patients (25/449). Twenty-two of the 28 cases of pancreatitis resolved within 2 weeks with dose interruption or reduction. The incidence of treatment-emergent lipase elevation was 41%.
+
+
+
+ Check serum lipase every 2 weeks for the first 2 months and then monthly thereafter or as clinically indicated. Consider additional serum lipase monitoring in patients with a history of pancreatitis or alcohol abuse. Dose interruption or reduction may be required. In cases where lipase elevations are accompanied by abdominal symptoms, interrupt treatment with Iclusig and evaluate patients for pancreatitis [see  Dosage and Administration (2.3)  ].  Do not consider restarting Iclusig until patients have complete resolution of symptoms and lipase levels are less than 1.5 * ULN.
+
+
+
+    5.6 Neuropathy
+
+
+
+   Peripheral and cranial neuropathy have occurred in Iclusig-treated patients. Overall, 13% (59/449) of Iclusig-treated patients experienced a peripheral neuropathy event of any grade (2%, grade 3/4). In clinical trials, the most common peripheral neuropathies reported were peripheral neuropathy (4%, 18/449), paresthesia (4%, 17/449), hypoesthesia (2%, 11/449), and hyperesthesia (1%, 5/449). Cranial neuropathy developed in 1% (6/449) of Iclusig-treated patients (&lt;1% grade 3/4).  
+
+
+
+  Of the patients who developed neuropathy, 31% (20/65) developed neuropathy during the first month of treatment. Monitor patients for symptoms of neuropathy, such as hypoesthesia, hyperesthesia, paresthesia, discomfort, a burning sensation, neuropathic pain or weakness. Consider interrupting Iclusig and evaluate if neuropathy is suspected.  
+
+
+
+    5.7 Ocular Toxicity
+
+
+
+   Serious ocular toxicities leading to blindness or blurred vision have occurred in Iclusig-treated patients. Retinal toxicities including macular edema, retinal vein occlusion, and retinal hemorrhage occurred in 3% of Iclusig-treated patients. Conjunctival or corneal irritation, dry eye, or eye pain occurred in 13% of patients. Visual blurring occurred in 6% of patients. Other ocular toxicities include cataracts, glaucoma, iritis, iridocyclitis, and ulcerative keratitis. Conduct comprehensive eye exams at baseline and periodically during treatment [see  Adverse Reactions (6)  ]  .  
+
+
+
+    5.8 Hemorrhage
+
+
+
+  Serious bleeding events, including fatalities, occurred in 5% (22/449) of patients treated with Iclusig. Hemorrhage occurred in 24% of patients. The incidence of serious bleeding events was higher in patients with AP-CML, BP-CML, and Ph+ ALL. Cerebral hemorrhage and gastrointestinal hemorrhage were the most commonly reported serious bleeding events. Most hemorrhagic events, but not all, occurred in patients with grade 4 thrombocytopenia [   see  Warnings and Precautions (5.11)  ]  . Interrupt Iclusig for serious or severe hemorrhage and evaluate [see  Dosage and Administration (2.3)  ]  .
+
+
+
+    5.9 Fluid Retention
+
+
+
+  Fluid retention events judged as serious occurred in 3% (13/449) of patients treated with Iclusig. One instance of brain edema was fatal. Serious fluid retention events in more than 1 patient included: pericardial effusion (6/449, 1%), pleural effusion (5/449, 1%), and ascites (2/449, &lt;1%).
+
+
+
+ In total, fluid retention occurred in 23% of the patients. The most common fluid retention events were peripheral edema (16%), pleural effusion (7%), and pericardial effusion (3%).
+
+
+
+ Monitor patients for fluid retention and manage patients as clinically indicated. Interrupt, reduce, or discontinue Iclusig as clinically indicated [see  Dosage and Administration (2.3)  ].  
+
+
+
+    5.10 Cardiac Arrhythmias
+
+
+
+  Symptomatic bradyarrhythmias that led to a requirement for pacemaker implantation occurred in 1% (3/449) of Iclusig-treated patients. The cardiac rhythms (1 case each) identified were complete heart block, sick sinus syndrome, and atrial fibrillation with bradycardia and pauses. Advise patients to report signs and symptoms suggestive of slow heart rate (fainting, dizziness, or chest pain). Interrupt Iclusig and evaluate.
+
+
+
+ Supraventricular tachyarrhythmias occurred in 5% (25/449) of Iclusig-treated patients. Atrial fibrillation was the most common supraventricular tachyarrhythmia and occurred in 20 patients. The other supraventricular tachyarrhythmias were atrial flutter (4 patients), supraventricular tachycardia (4 patients), and atrial tachycardia (1 patient). For 13 patients, the event led to hospitalization. Advise patients to report signs and symptoms of rapid heart rate (palpitations, dizziness). Interrupt Iclusig and evaluate.
+
+
+
+    5.11 Myelosuppression
+
+
+
+  Severe (grade 3 or 4) myelosuppression occurred in 48% (215/449) of patients treated with Iclusig. The incidence of these events was greater in patients with AP-CML, BP-CML, and Ph+ALL than in patients with CP-CML. Obtain complete blood counts every 2 weeks for the first 3 months and then monthly or as clinically indicated, and adjust the dose as recommended [see  Dosage and Administration (2.2)  ]  .
+
+
+
+    5.12 Tumor Lysis Syndrome
+
+
+
+  Two patients (&lt;1%) treated with Iclusig developed serious tumor lysis syndrome. Both cases occurred in patients with advanced CML. Hyperuricemia occurred in 7% (30/449) of patients; the majority had CP-CML (19 patients). Due to the potential for tumor lysis syndrome in patients with advanced disease (AP-CML, BP-CML, or Ph+ ALL), ensure adequate hydration and treat high uric acid levels prior to initiating therapy with Iclusig.
+
+
+
+    5.13 Compromised Wound Healing and Gastrointestinal Perforation
+
+
+
+  No formal studies of the effect of Iclusig on wound healing have been conducted. Based on the mechanism of action [see  Clinical Pharmacology (12.1)  ]  , Iclusig could compromise wound healing. Serious gastrointestinal perforation (fistula) occurred in one patient 38 days post-cholecystectomy.
+
+
+
+ Interrupt Iclusig for at least 1 week prior to major surgery. The decision when to resume Iclusig after surgery should be based on clinical judgment of adequate wound healing.
+
+
+
+    5.14 Embryo-Fetal Toxicity
+
+
+
+  Iclusig can cause fetal harm when administered to a pregnant woman based on its mechanism of action and findings in animals. Ponatinib caused embryo-fetal toxicity in rats at exposures lower than human exposures at the recommended human dose. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. Advise women to avoid pregnancy while taking Iclusig [see  Use in Specific Populations (8.1)  ]  .
+</Section>
+    <Section name="warnings and precautions" id="S6">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypertension: Monitor for high blood pressure and manage as clinically indicated (  5.4  ). 
+ *  Pancreatitis: Monitor serum lipase monthly; interrupt or discontinue Iclusig (  2.3  ,  5.5  ). 
+ *  Neuropathy: Monitor for symptoms of peripheral and cranial neuropathy (  5.6  ). 
+ *  Ocular Toxicity: Conduct comprehensive eye exams at baseline and periodically during treatment (  5.7  ). 
+ *  Hemorrhage: Interrupt Iclusig for serious or severe hemorrhage (  5.8  ). 
+ *  Fluid Retention: Monitor patients for fluid retention; interrupt, reduce, or discontinue Iclusig (  5.9  ). 
+ *  Cardiac Arrhythmias: Monitor for symptoms of arrhythmias (  5.10  ,  6  ). 
+ *  Myelosuppression: Thrombocytopenia, neutropenia, and anemia may require dose interruption or reduction. Monitor complete blood counts every 2 weeks for 3 months and then monthly and as clinically indicated. Interrupt Iclusig for ANC &lt; 1000/mm  3  or thrombocytopenia &lt; 50,000/ mm  3  (  2.2  ,  5.11  ). 
+ *  Tumor Lysis Syndrome: Ensure adequate hydration and correct elevated uric acid levels prior to initiating therapy with Iclusig (  5.12  ). 
+ *  Compromised Wound Healing and Gastrointestinal Perforation: Temporarily interrupt therapy in patients undergoing major surgical procedures (  5.13  ). 
+ *  Embryo-Fetal Toxicity: Can cause fetal harm. Advise women of potential risk to a fetus (  5.14  ,  8.1  ). 
+    
+ 
+
+   5.1 Vascular Occlusion
+
+
+
+   Arterial and venous thrombosis and occlusions, including fatal myocardial infarction, stroke, stenosis of large arterial vessels of the brain, severe peripheral vascular disease, and the need for urgent revascularization procedures have occurred in at least 27% of Iclusig-treated patients from the phase 1 and phase 2 trials. Iclusig can cause fatal and life-threatening vascular occlusion within 2 weeks of starting treatment. Iclusig can also cause recurrent or multi-site vascular occlusion.  
+
+
+
+  In the dose-escalation (phase 1) clinical trial, 48% (31/65) of patients with CML or Ph+ ALL developed vascular occlusive events. The median time to onset of the first vascular occlusion event was 5 months. Iclusig can cause fatal and life-threatening vascular occlusion in patients treated at dose levels as low as 15 mg per day.  
+
+
+
+  Patients with and without cardiovascular risk factors, including patients age 50 years or younger, experienced these events. Vascular occlusion adverse events were more frequent with increasing age and in patients with prior history of ischemia, hypertension, diabetes, or hyperlipidemia (see  Table 4  ).  
+
+
+
+ Table 4: Vascular Occlusion Incidence in Iclusig-Treated Patients in Phase 2 Trial According to Risk Categories 
+                        Prior history of ischemia, hypertension, diabetes, or hyperlipidemia    No history of ischemia, hypertension, diabetes, or hyperlipidemia   
+  
+  Age: 49 or younger                   18%(6/33)                                12%(13/112)                  
+  Age: 50 to 74 years                  33%(50/152)                               18%(20/114)                  
+  Age: 75 and older                   56%(14/25)                                46%(6/13)                   
+  All age groups                     33%(70/210)                               16%(39/239)                  
+  Total                              24%(109/449)                 
+             Arterial Occlusion and Thrombosis    
+ 
+
+  Arterial occlusion and thrombosis occurred in at least 20% (91/449) of Iclusig-treated patients with some patients experiencing events of more than one type. Patients have required revascularization procedures (cerebrovascular, coronary, and peripheral arterial) due to vascular occlusion from Iclusig.  
+
+
+
+  Cardiac vascular occlusion, including fatal and life-threatening myocardial infarction and coronary artery occlusion has occurred in 12% (55/449) of Iclusig-treated patients. Patients have developed heart failure concurrent or subsequent to the myocardial ischemic event.  
+
+
+
+  Cerebrovascular occlusion, including fatal stroke, has occurred in 6% (27/449) of Iclusig-treated patients. Iclusig can cause stenosis over multiple segments in major arterial vessels that supply the brain (e.g., carotid, vertebral, middle cerebral artery).  
+
+
+
+  Peripheral arterial occlusive events, including fatal mesenteric artery occlusion and life-threatening peripheral arterial disease, have occurred in 8% (36/449) of Iclusig-treated patients. Patients have developed digital or distal extremity necrosis and have required amputations.  
+
+
+
+  Clinicians should consider whether the benefits of Iclusig treatment are expected to exceed the risks of therapy. In patients suspected of developing arterial thrombotic events, interrupt or stop Iclusig. A benefit-risk consideration should guide a decision to restart Iclusig therapy. [see  Dosage and Administration (2.3)  ]  .  
+
+
+
+     Venous Thromboembolism    
+
+
+
+  Venous thromboembolic events occurred in 5% (23/449) of Iclusig-treated patients, including deep venous thrombosis (8 patients), pulmonary embolism (6 patients), superficial thrombophlebitis (3 patients), and retinal vein thrombosis (2 patients). Consider dose modification or discontinuation of Iclusig in patients who develop serious venous thromboembolism [see  Dosage and Administration (2.3)  ]  .  
+
+
+
+    5.2 Heart Failure
+
+
+
+   Fatal and serious heart failure or left ventricular dysfunction occurred in 5% of Iclusig-treated patients (N =22). Eight percent of patients (N= 35) experienced any grade of heart failure or left ventricular dysfunction. Monitor patients for signs or symptoms consistent with heart failure and treat as clinically indicated, including interruption of Iclusig. Consider discontinuation of Iclusig in patients who develop serious heart failure [see  Dosage and Administration (2.3)  ]  .  
+
+
+
+    5.3 Hepatotoxicity
+
+
+
+  Iclusig can cause hepatotoxicity, including liver failure and death. Fulminant hepatic failure leading to death occurred in an Iclusig-treated patient within one week of starting Iclusig. Two additional fatal cases of acute liver failure also occurred. The fatal cases occurred in patients with blast phase (BP) CML or Ph+ ALL. Severe hepatotoxicity occurred in all disease cohorts.
+
+
+
+ The incidence of aspartate aminotransferase (ALT) or alanine aminotransferase (AST) elevation was 56% (all grades) and 8% (grade 3 or 4). Iclusig treatment may result in elevation in ALT, AST, or both. ALT or AST elevation was not reversed by the date of last follow-up in 5% of patients.
+
+
+
+ Monitor liver function tests at baseline, then at least monthly or as clinically indicated. Interrupt, reduce or discontinue Iclusig as clinically indicated [see  Dosage and Administration (2.3)  ]  .
+
+
+
+    5.4 Hypertension
+
+
+
+   Treatment-emergent hypertension occurred in 67% of patients (300/449). Eight patients (2%) treated with Iclusig in clinical trials experienced treatment-emergent symptomatic hypertension as a serious adverse reaction, including hypertensive crisis. Patients may require urgent clinical intervention for hypertension associated with confusion, headache, chest pain, or shortness of breath [see  Adverse Reactions (6)  ]  . In patients with baseline systolic BP&lt;140 mm Hg and baseline diastolic BP&lt;90mm Hg, 78% (220/282) experienced treatment-emergent hypertension; 49% (139/282) developed Stage 1 hypertension (defined as systolic BP&gt;=140 mm Hg or diastolic BP&gt;=90 mm Hg) while 29% developed Stage 2 hypertension (defined as systolic BP&gt;=160 mm Hg or diastolic BP&gt;=100 mm Hg). In 131 patients with Stage 1 hypertension at baseline, 61% (80/131) developed Stage 2 hypertension. Monitor and manage blood pressure elevations during Iclusig use and treat hypertension to normalize blood pressure. Interrupt, dose reduce, or stop Iclusig if hypertension is not medically controlled.  
+
+
+
+    5.5 Pancreatitis
+
+
+
+  Clinical pancreatitis occurred in 6% (28/449) of patients (5% grade 3) treated with Iclusig. Pancreatitis resulted in discontinuation or treatment interruption in 6% of patients (25/449). Twenty-two of the 28 cases of pancreatitis resolved within 2 weeks with dose interruption or reduction. The incidence of treatment-emergent lipase elevation was 41%.
+
+
+
+ Check serum lipase every 2 weeks for the first 2 months and then monthly thereafter or as clinically indicated. Consider additional serum lipase monitoring in patients with a history of pancreatitis or alcohol abuse. Dose interruption or reduction may be required. In cases where lipase elevations are accompanied by abdominal symptoms, interrupt treatment with Iclusig and evaluate patients for pancreatitis [see  Dosage and Administration (2.3)  ].  Do not consider restarting Iclusig until patients have complete resolution of symptoms and lipase levels are less than 1.5 * ULN.
+
+
+
+    5.6 Neuropathy
+
+
+
+   Peripheral and cranial neuropathy have occurred in Iclusig-treated patients. Overall, 13% (59/449) of Iclusig-treated patients experienced a peripheral neuropathy event of any grade (2%, grade 3/4). In clinical trials, the most common peripheral neuropathies reported were peripheral neuropathy (4%, 18/449), paresthesia (4%, 17/449), hypoesthesia (2%, 11/449), and hyperesthesia (1%, 5/449). Cranial neuropathy developed in 1% (6/449) of Iclusig-treated patients (&lt;1% grade 3/4).  
+
+
+
+  Of the patients who developed neuropathy, 31% (20/65) developed neuropathy during the first month of treatment. Monitor patients for symptoms of neuropathy, such as hypoesthesia, hyperesthesia, paresthesia, discomfort, a burning sensation, neuropathic pain or weakness. Consider interrupting Iclusig and evaluate if neuropathy is suspected.  
+
+
+
+    5.7 Ocular Toxicity
+
+
+
+   Serious ocular toxicities leading to blindness or blurred vision have occurred in Iclusig-treated patients. Retinal toxicities including macular edema, retinal vein occlusion, and retinal hemorrhage occurred in 3% of Iclusig-treated patients. Conjunctival or corneal irritation, dry eye, or eye pain occurred in 13% of patients. Visual blurring occurred in 6% of patients. Other ocular toxicities include cataracts, glaucoma, iritis, iridocyclitis, and ulcerative keratitis. Conduct comprehensive eye exams at baseline and periodically during treatment [see  Adverse Reactions (6)  ]  .  
+
+
+
+    5.8 Hemorrhage
+
+
+
+  Serious bleeding events, including fatalities, occurred in 5% (22/449) of patients treated with Iclusig. Hemorrhage occurred in 24% of patients. The incidence of serious bleeding events was higher in patients with AP-CML, BP-CML, and Ph+ ALL. Cerebral hemorrhage and gastrointestinal hemorrhage were the most commonly reported serious bleeding events. Most hemorrhagic events, but not all, occurred in patients with grade 4 thrombocytopenia [   see  Warnings and Precautions (5.11)  ]  . Interrupt Iclusig for serious or severe hemorrhage and evaluate [see  Dosage and Administration (2.3)  ]  .
+
+
+
+    5.9 Fluid Retention
+
+
+
+  Fluid retention events judged as serious occurred in 3% (13/449) of patients treated with Iclusig. One instance of brain edema was fatal. Serious fluid retention events in more than 1 patient included: pericardial effusion (6/449, 1%), pleural effusion (5/449, 1%), and ascites (2/449, &lt;1%).
+
+
+
+ In total, fluid retention occurred in 23% of the patients. The most common fluid retention events were peripheral edema (16%), pleural effusion (7%), and pericardial effusion (3%).
+
+
+
+ Monitor patients for fluid retention and manage patients as clinically indicated. Interrupt, reduce, or discontinue Iclusig as clinically indicated [see  Dosage and Administration (2.3)  ].  
+
+
+
+    5.10 Cardiac Arrhythmias
+
+
+
+  Symptomatic bradyarrhythmias that led to a requirement for pacemaker implantation occurred in 1% (3/449) of Iclusig-treated patients. The cardiac rhythms (1 case each) identified were complete heart block, sick sinus syndrome, and atrial fibrillation with bradycardia and pauses. Advise patients to report signs and symptoms suggestive of slow heart rate (fainting, dizziness, or chest pain). Interrupt Iclusig and evaluate.
+
+
+
+ Supraventricular tachyarrhythmias occurred in 5% (25/449) of Iclusig-treated patients. Atrial fibrillation was the most common supraventricular tachyarrhythmia and occurred in 20 patients. The other supraventricular tachyarrhythmias were atrial flutter (4 patients), supraventricular tachycardia (4 patients), and atrial tachycardia (1 patient). For 13 patients, the event led to hospitalization. Advise patients to report signs and symptoms of rapid heart rate (palpitations, dizziness). Interrupt Iclusig and evaluate.
+
+
+
+    5.11 Myelosuppression
+
+
+
+  Severe (grade 3 or 4) myelosuppression occurred in 48% (215/449) of patients treated with Iclusig. The incidence of these events was greater in patients with AP-CML, BP-CML, and Ph+ALL than in patients with CP-CML. Obtain complete blood counts every 2 weeks for the first 3 months and then monthly or as clinically indicated, and adjust the dose as recommended [see  Dosage and Administration (2.2)  ]  .
+
+
+
+    5.12 Tumor Lysis Syndrome
+
+
+
+  Two patients (&lt;1%) treated with Iclusig developed serious tumor lysis syndrome. Both cases occurred in patients with advanced CML. Hyperuricemia occurred in 7% (30/449) of patients; the majority had CP-CML (19 patients). Due to the potential for tumor lysis syndrome in patients with advanced disease (AP-CML, BP-CML, or Ph+ ALL), ensure adequate hydration and treat high uric acid levels prior to initiating therapy with Iclusig.
+
+
+
+    5.13 Compromised Wound Healing and Gastrointestinal Perforation
+
+
+
+  No formal studies of the effect of Iclusig on wound healing have been conducted. Based on the mechanism of action [see  Clinical Pharmacology (12.1)  ]  , Iclusig could compromise wound healing. Serious gastrointestinal perforation (fistula) occurred in one patient 38 days post-cholecystectomy.
+
+
+
+ Interrupt Iclusig for at least 1 week prior to major surgery. The decision when to resume Iclusig after surgery should be based on clinical judgment of adequate wound healing.
+
+
+
+    5.14 Embryo-Fetal Toxicity
+
+
+
+  Iclusig can cause fetal harm when administered to a pregnant woman based on its mechanism of action and findings in animals. Ponatinib caused embryo-fetal toxicity in rats at exposures lower than human exposures at the recommended human dose. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. Advise women to avoid pregnancy while taking Iclusig [see  Use in Specific Populations (8.1)  ]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

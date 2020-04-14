@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="thyrolar" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  During postmarketing surveillance, the following events have been observed to have occured in patients administered Thyrolar: fatigue, sluggishness, increase in weight, alopecia, palpitations, dry skin, urticaria, headache, hyperhidrosis, pruritus, asthenia, increased blood pressure, arthralgia, myalgia, tremor, hypothyroidism, increase in TSH, decrease in TSH, nausea, chest pain, hypersensitivity, keratoconjunctivitis sicca, increased heart rate, irregular heart rate, anxiety, depression, and insomnia.
+
+
+
+ Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See    OVERDOSAGE    ).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

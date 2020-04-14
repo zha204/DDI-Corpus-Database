@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="amifostine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+    Controlled Trials  
+
+  In the randomized study of patients with ovarian cancer given Amifostine for Injection at a dose of 910 mg/m  2  prior to chemotherapy, transient hypotension was observed in 62% of patients treated.  The mean time of onset was 14 minutes into the 15-minute period of amifostine infusion, and the mean duration was 6 minutes. In some cases, the infusion had to be prematurely terminated due to a more pronounced drop in systolic blood pressure. In general, the blood pressure returned to normal within 5-15 minutes. Fewer than 3% of patients discontinued amifostine due to blood pressure reductions. In the randomized study of patients with head and neck cancer given amifostine at a dose of 200 mg/m  2  prior to radiotherapy, hypotension was observed in 15% of patients treated. (see TABLE 6)
+
+
+
+ TABLE 6 Incidence of Common Adverse Events in Patients Receiving Amifostine for Injection 
+                    Phase III Ovarian Cancer    Trial (WR-1)    910 mg/m      2        Phase III Head and    Neck Cancer Trial (WR-38)    200 mg/m      2       
+                    Per Patient      Per Infusion      Per Patient      Per Infusion     
+   Nausea/Vomiting                                                                         
+       &gt;=Grade 3  36/122 (30%)     53/592 (9%)      12/150 (8%)      13/4314 (&lt;1%)     
+       All Grades  117/122 (96%)    520/592 (88%)    80/150 (53%)     233/4314 (5%)     
+   Hypotension                                                                         
+       &gt;=Grade 3  10/122 (8%)                       4/150 (3%)                         
+       All Grades  75/122 (61%)     159/592 (27%)    22/150 (15%)     46/4314 (1%)      
+           In the randomized study of patients with head and neck cancer, 17% (26/150) discontinued Amifostine for Injection due to adverse events. All but one of these patients continued to receive radiation treatment until completion.
+ 
+
+ Hypotension that requires interruption of the Amifostine for Injection infusion should be treated with fluid infusion and postural management of the patient (supine or Trendelenburg position). If the blood pressure returns to normal within 5 minutes and the patient is asymptomatic, the infusion may be restarted, so that the full dose of amifostine can be administered. Short term, reversible loss of consciousness has been reported rarely.
+
+
+
+ Nausea and/or vomiting occur frequently after Amifostine for Injection infusion and may be severe. In the ovarian cancer randomized study, the incidence of severe nausea/vomiting on day 1 of cyclophosphamide-cisplatin chemotherapy was 10% in patients who did not receive amifostine, and 19% in patients who did receive amifostine. In the randomized study of patients with head and neck cancer, the incidence of severe nausea/vomiting was 8% in patients who received amifostine and 1% in patients who did not receive amifostine.
+
+
+
+ Decrease in serum calcium concentrations is a known pharmacological effect of Amifostine for Injection. At the recommended doses, clinically significant hypocalcemia was reported in 1% of patients in the randomized head and neck cancer study (see  WARNINGS  ).
+
+
+
+ Other effects, which have been described during, or following Amifostine for Injection infusion are flushing/feeling of warmth, chills/feeling of coldness, malaise, fever, rash, dizziness, somnolence, hiccups and sneezing. These effects have not generally precluded the completion of therapy.
+
+
+
+     Clinical Trials and Pharmacovigilance Reports  
+
+  Allergic reactions characterized by one or more of the following manifestations have been observed during or after Amifostine for Injection administration: hypotension, fever, chills/rigors, dyspnea, hypoxia, chest tightness, cutaneous eruptions, pruritus, urticaria and laryngeal edema. Cutaneous eruptions have been commonly reported during clinical trials and were generally non-serious. Serious, sometimes fatal skin reactions including erythema multiforme, and in rare cases, exfoliative dermatitis, Stevens-Johnson syndrome and toxic epidermal necrolysis have also occurred. The reported incidence of serious skin reactions associated with amifostine is higher in patients receiving amifostine as a radioprotectant than in patients receiving amifostine as a chemoprotectant. Rare anaphylactoid reactions and cardiac arrest have also been reported.
+
+
+
+ Hypotension, usually brief systolic and diastolic, has been associated with one or more of the following adverse events: apnea, dyspnea, hypoxia, tachycardia, bradycardia, extrasystoles, chest pain, myocardial ischemia and convulsion. Rare cases of renal failure, myocardial infarction, respiratory and cardiac arrest have been observed during or after hypotension. (See  WARNINGS  and  PRECAUTIONS  )
+
+
+
+ Rare cases of arrhythmias such as atrial fibrillation/flutter and supraventricular tachycardia have been reported. These are sometimes associated with hypotension or allergic reactions.
+
+
+
+ Transient hypertension and exacerbations of preexisting hypertension have been observed rarely after Amifostine for Injection administration.
+
+
+
+ Seizures and syncope have been reported rarely. (See  WARNINGS  and  PRECAUTIONS  )
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

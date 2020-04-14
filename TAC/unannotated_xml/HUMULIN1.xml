@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="humulin1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Hypoglycemia
+
+  Hypoglycemia is one of the most frequent adverse events experienced by insulin users.
+
+
+
+ Symptoms of mild to moderate hypoglycemia may occur suddenly and can include:
+
+
+
+
+ sweating                                           
+                                                                                                         drowsiness                                         
+                                                                                                          
+ dizziness                                          
+                                                                                                         sleep disturbances                                 
+                                                                                                          
+ palpitation                                        
+                                                                                                         anxiety                                            
+                                                                                                          
+ tremor                                             
+                                                                                                         blurred vision                                     
+                                                                                                          
+ hunger                                             
+                                                                                                         slurred speech                                     
+                                                                                                          
+ restlessness                                       
+                                                                                                         depressed mood                                     
+                                                                                                          
+ tingling in the hands, feet, lips, or tongue       
+                                                                                                         irritability                                       
+                                                                                                          
+ lightheadedness                                    
+                                                                                                         abnormal behavior                                  
+                                                                                                          
+ inability to concentrate                           
+                                                                                                         unsteady movement                                  
+                                                                                                          
+ headache                                           
+                                                                                                         personality changes                                
+                                                                                                          
+        Signs of severe hypoglycemia can include:
+ 
+
+
+ disorientation                                     
+                                                                                                         seizures                                           
+                                                                                                          
+ unconsciousness                                    
+                                                                                                         coma                                               
+                                                                                                          
+ death                                              
+                                                                                                                                                              
+        Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as long duration of diabetes, autonomic diabetic neuropathy, use of medications such as beta-adrenergic blockers, changing insulin preparations, or intensified control (3 or more insulin injections per day) of diabetes.
+ 
+
+ Without recognition of early warning symptoms, the patient may not be able to take steps to avoid more serious hypoglycemia. Patients who experience hypoglycemia without early warning symptoms should monitor their blood glucose more frequently, especially prior to activities such as driving. Mild to moderate hypoglycemia may be treated by eating foods or taking drinks that contain sugar. Patients should always carry a quick source of sugar, such as hard candy, non-diet carbohydrate-containing drinks or glucose tablets.
+
+
+
+   Hypokalemia
+
+    See    Precautions  
+
+
+
+   Lipodystrophy
+
+  Administration of insulin subcutaneously can result in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue).
+
+
+
+   Allergy
+
+    Local Allergy  - Patients occasionally experience erythema, local edema, and pruritus at the site of injection. This condition usually is self-limiting. In some instances, this condition may be related to factors other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
+
+
+
+     Systemic Allergy  - Less common, but potentially more serious, is generalized allergy to insulin, which may cause rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating. Severe cases of generalized allergy (anaphylaxis) may be life threatening.
+
+
+
+   Weight Gain
+
+  Weight gain can occur with some insulin therapies and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
+
+
+
+   Peripheral Edema
+
+  Insulin may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+
+
+
+   Drug Interactions
+
+  A number of substances affect glucose metabolism and may require insulin dose adjustment and particularly close monitoring.
+
+
+
+ Drugs that may increase the blood-glucose-lowering effect of Humulin R U-100 and susceptibility to hypoglycemia:
+
+
+
+ *  Oral antihyperglycemic agents, salicylates, sulfa antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors [SSRIs]), pramlintide, disopyramide, fibrates, fluoxetine, propoxyphene, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, beta-adrenergic blockers, inhibitors of pancreatic function (e.g., octreotide), and alcohol. 
+    Drugs that may reduce the blood-glucose-lowering effect:
+ 
+
+ *  Corticosteroids, isoniazid, certain lipid-lowering drugs (e.g., niacin), estrogens, oral contraceptives, phenothiazines, danazol, diuretics, sympathomimetic agents, somatropin, atypical antipsychotics, glucagon, protease inhibitors and thyroid replacement therapy. 
+    Drugs that may increase or decrease blood-glucose-lowering effect:
+ 
+
+ *  Beta-adrenergic blockers, clonidine, lithium salts, and alcohol. 
+ *  Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. 
+    Drugs that may mask the signs of hypoglycemia:
+ 
+
+ *  Beta-adrenergic blockers, clonidine, guanethidine, and reserpine. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

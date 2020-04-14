@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lincocin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following reactions have been reported with the use of lincomycin and are listed by System Organ Class. Frequencies are defined as: common (&gt;=1% and &lt;10%), uncommon (&gt;=0.1% and &lt;1%), rare (&gt;=0.01% and &lt;0.1%) and not known (cannot be estimated from the available data).
+
+
+
+   Gastrointestinal disorders
+
+  Common: persistent diarrhea (4.3%), nausea (1.8%), vomiting (1.6%)Rare: stomatitis (0.04%)Not known: glossitis, abdominal discomfort, anal pruritus
+
+
+
+   Skin and subcutaneous tissue disorders
+
+  Uncommon: rash (0.8%), urticaria (0.1%)Rare: pruritus (0.04%)Not known: Stevens-Johnson syndrome, erythema multiforme (see    WARNINGS    ), dermatitis bullous, dermatitis exfoliative
+
+
+
+   Infections and infestations
+
+  Uncommon: vaginal infection (0.12%)Not known: pseudomembranous colitis,  Clostridium difficile  colitis (see    WARNINGS    )
+
+
+
+   Blood and lymphatic system disorders
+
+  Not known: pancytopenia, agranulocytosis, aplastic anemia, leukopenia, neutropenia, thrombocytopenic purpura
+
+
+
+   Immune system disorders
+
+  Not known: anaphylactic reaction (see    WARNINGS    ) angioedema, serum sickness
+
+
+
+   Hepatobiliary disorders
+
+  Not known: jaundice, liver function test abnormal, transaminases increased
+
+
+
+      Renal and urinary disorders (No direct relationship of LINCOCIN to renal damage has been established.)   
+ 
+
+ Not known: renal impairment, oliguria, proteinuria, azotemia
+
+
+
+   Cardiac disorders
+
+  Not known: cardio-respiratory arrest (see    DOSAGE AND ADMINISTRATION    )
+
+
+
+   Vascular disorders
+
+   Not known: hypotension (see    DOSAGE AND ADMINISTRATION    ), thrombophlebitis (Event has been reported with intravenous injection.) 
+ 
+
+   Ear and labyrinth disorders
+
+  Not known: vertigo, tinnitus
+
+
+
+   General disorders and administration site conditions
+
+   Not known: injection site abscess sterile (Reported with intramuscular injection.) , injection site induration, injection site pain, injection site irritation
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+    Clostridium difficile   associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Lincomycin and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of   C. difficile.  
+
+
+
+ Because lincomycin therapy has been associated with severe colitis which may end fatally, it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate, as described in the     INDICATIONS AND USAGE     section. It should not be used in patients with nonbacterial infections such as most upper respiratory tract infections. 
+
+
+
+   C.diffficile   produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of   C. difficile   cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. 
+
+
+
+ If CDAD is suspected or confirmed, ongoing antibacterial use not directed against   C. difficile   may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of   C. difficile  , and surgical evaluation should be instituted as clinically indicated.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

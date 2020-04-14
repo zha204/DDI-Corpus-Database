@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ixempra" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections.
+
+
+
+ *  Peripheral neuropathy [see Warnings and Precautions (  5.1  )]  
+ *  Myelosuppression [see Warnings and Precautions (  5.2  )]  
+ *  Hypersensitivity reactions [see Warnings and Precautions (  5.4  )]  
+   *  The most common adverse reactions (&gt;=20%) are peripheral sensory neuropathy, fatigue/asthenia, myalgia/arthralgia, alopecia, nausea, vomiting, stomatitis/mucositis, diarrhea, and musculoskeletal pain. Additional reactions occurred in &gt;=20% in combination treatment: palmar-plantar erythrodysesthesia syndrome, anorexia, abdominal pain, nail disorder, and constipation (  6  ). 
+ *  Drug-associated hematologic abnormalities (&gt;40%) include neutropenia, leukopenia, anemia, and thrombocytopenia (  6  ). 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact R-Pharm US at 1-844-586-8953 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
+
+
+
+ Unless otherwise specified, assessment of adverse reactions is based on one randomized study (Study 046) and one single-arm study (Study 081). In Study 046, 369 patients with metastatic breast cancer were treated with IXEMPRA 40 mg/m  2  administered intravenously over 3 hours every 21 days, combined with capecitabine 1000 mg/m  2  twice daily for 2 weeks followed by a 1-week rest period. Patients treated with capecitabine as monotherapy (n=368) in this study received 1250 mg/m twice daily for 2 weeks every 21 days. In Study 081, 126 patients with metastatic or locally advanced breast cancer were treated with IXEMPRA 40 mg/m  2  administered intravenously over 3 hours every 3 weeks.
+
+
+
+ The most common adverse reactions (&gt;=20%) reported by patients receiving IXEMPRA were peripheral sensory neuropathy, fatigue/asthenia, myalgia/arthralgia, alopecia, nausea, vomiting, stomatitis/mucositis, diarrhea, and musculo-skeletal pain. The following additional reactions occurred in &gt;=20% in combination treatment: palmar-plantar erythrodysesthesia (hand-foot) syndrome, anorexia, abdominal pain, nail disorder, and constipation. The most common hematologic abnormalities (&gt;40%) include neutropenia, leukopenia, anemia, and thrombocytopenia.
+
+
+
+   Table 4  presents nonhematologic adverse reactions reported in 5% or more of patients. Hematologic abnormalities are presented separately in  Table 5  .
+
+
+
+ Table 4: Nonhematologic Drug-related Adverse Reactions Occurring in at Least 5% of Patients with Metastatic or Locally Advanced Breast Cancer Treated with IXEMPRA 
+  a System organ class presented as outlined in Guidelines for Preparing Core Clinical Safety Information on Drugs by the Council for International Organizations of Medical Sciences (CIOMS).    
+  b A composite of multiple MedDRA Preferred Terms.     
+  c NCI CTC grading for febrile neutropenia ranges from Grade 3 to 5. Three patients (1 %) experienced Grade 5 (fatal) febrile neutropenia. Other neutropenia-related deaths (9) occurred in the absence of reported febrile neutropenia [see Warnings and Precautions (5.2)].    
+  d No grade 4 reports.                                 
+  e Peripheral sensory neuropathy (graded with the NCI CTC scale) was defined as the occurrence of any of the following: areflexia, burning sensation, dysesthesia, hyperesthesia, hypoesthesia, hyporeflexia, neuralgia, neuritis, neuropathy, neuropathy peripheral, neurotoxicity, painful response to normal stimuli, paresthesia, pallanesthesia, peripheral sensory neuropathy, polyneuropathy, polyneuropathy toxic and sensorimotor disorder.Peripheral motor neuropathy was defined as the occurrence of any of the following: multifocal motor neuropathy, neuromuscular toxicity, peripheral motor neuropathy, and peripheral sensorimotor neuropathy.    
+  f Palmar-plantar erythrodysesthesia (hand-foot syndrome) was graded on a 1 -3 severity scale in Study 046.    
+  
+                                                                                Study 046               Study 081     
+                                                         IXEMPRA with capecitabine n=369      Capecitabine    n=368      IXEMPRA    monotherapy    n=126     
+   System Organ Class  a  /                              Total         Grade 3/4      Total      Grade 3/4      Total      Grade 3/4     
+   Preferred Term                                      (%)           (%)      (%)      (%)      (%)   (%)        
+   Infections and Infestations                                                                                   
+      Upper respiratory tract infection  b             4             0        3        0        6     0          
+   Blood and Lymphatic System Disorders                                                1  d           3  d       
+      Febrile neutropenia                              5             4  c     1        3         
+   Immune System Disorders                                                                            1  d       
+      Hypersensitivity  b                              2             1  d     0        0        5      
+   Metabolism and Nutrition Disorders                                                                            
+      Anorexia  b                                      34            3  d     15       1  d     19    2  d       
+      Dehydration  b                                   5             2        2        &lt;1  d    2     1  d       
+   Psychiatric Disorders                                                                                         
+      Insomnia  b                                      9             &lt;1  d    2        0        5     0          
+   Nervous System Disorders       Peripheral neuropathy                                                            
+           Sensory neuropathy  b,e                     65            21       16       0        62    14         
+           Motor neuropathy  b                         16            5  d     &lt;1       0        10    1  d       
+      Headache                                         8             &lt;1  d    3        0        11    0          
+      Taste disorder  b                                12            0        4        0        6     0          
+      Dizziness                                        8             1  d     5        1  d     7     0          
+   Eye Disorders                                                                                                 
+      Lacrimation increased                            5             0        4        &lt;1  d    4     0          
+   Vascular Disorders                                                                                            
+      Hot flush  b                                     5             0        2        0        6     0          
+   Respiratory, Thoracic, and Mediastinal Disorders                                                              
+      Dyspnea  b                                       7             1        4        1        9     1  d       
+      Cough  b                                         6             0        2        0        2     0          
+   Gastrointestinal Disorders                                                                                    
+      Nausea                                           53            3  d     40       2  d     42    2  d       
+      Vomiting  b                                      39            4  d     24       2        29    1  d       
+      Stomatitis/mucositis  b                          31            4        20       3  d     29    6          
+      Diarrhea  b                                      44            6  d     39       9        22    1  d       
+      Constipation                                     22            0        6        &lt;1  d    16    2  d       
+      Abdominal pain  b                                24            2  d     14       1  d     13    2  d       
+      Gastroesophageal reflux disease  b               7             1  d     8        0        6     0          
+   Skin and Subcutaneous Tissue Disorders                                                                        
+      Alopecia  b                                      31            0        3        0        48    0          
+      Skin rash  b                                     17            1  d     7        0        9     2  d       
+      Nail disorder  b                                 24            2  d     10       &lt;1  d    9     0          
+      Palmar-plantar      erythrodysesthesia syndrome  b    64            18  d    63       17  d    8     2  d       
+      Pruritus                                         5             0        2        0        6     1  d       
+      Skin exfoliation  b                              5             &lt;1  d    3        0        2     0          
+      Skin hyperpigmentation  b                        11            0        14       0        2     0          
+   Musculoskeletal, Connective Tissue, and Bone Disorders                                                              
+      Myalgia/arthralgia  b                            39            8  d     5        &lt;1  d    49    8  d       
+      Musculoskeletal pain  b                          23            2  d     5        0        20    3  d       
+   General Disorders and Administration Site Conditions                                                              
+      Fatigue/asthenia  b                              60            16       29       4        56    13         
+      Edema  b                                         8             0        5        &lt;1  d    9     1  d       
+      Pyrexia                                          10            1  d     4        0        8     1  d       
+      Pain  b                                          9             1  d     2        0        8     3  d       
+      Chest pain  b                                    4             1  d     &lt;1       0        5     1  d       
+   Investigations                                                                                                
+      Weight decreased                                 11            0        3        0        6     0          
+            Table 5: Hematologic Abnormalities in Patients with Metastatic or Locally Advanced Breast Cancer Treated with IXEMPRA 
+  aG-CSF (granulocyte colony stimulating factor) or GM-CSF (granulocyte macrophage colony stimulating factor) was used in 20% and 17% of patients who received IXEMPRA in Study 046 and Study 081, respectively.    
+  
+                             Study 046      Study 081     
+                             IXEMPRA with capecitabinen=369      Capecitabinen=368      IXEMPRAmonotherapyn=126     
+   Hematology Parameter      Grade 3 (%)      Grade 4 (%)      Grade 3 (%)      Grade 4 (%)      Grade 3 (%)      Grade 4 (%)     
+ Neutropenia  a            32            36            9             2             31            23             
+ Leukopenia (WBC)          41            16            5             1             36            13             
+ Anemia (Hgb)              8             2             4             1             6             2              
+ Thrombocytopenia          5             3             2             2             5             2              
+             The following serious adverse reactions were also reported in 1323 patients treated with IXEMPRA as monotherapy or in combination with other therapies in Phase 2 and 3 studies.
+ 
+
+   Infections and Infestations:  sepsis, pneumonia, infection, neutropenic infection, urinary tract infection, bacterial infection, enterocolitis, laryngitis, lower respiratory tract infection
+
+
+
+   Blood and Lymphatic System Disorders:  coagulopathy, lymphopenia
+
+
+
+   Metabolism and Nutrition Disorders:  hyponatremia, metabolic acidosis, hypokalemia, hypovolemia
+
+
+
+   Nervous System Disorders:  cognitive disorder, syncope, cerebral hemorrhage, abnormal coordination, lethargy
+
+
+
+   Cardiac Disorders:  myocardial infarction, supraventricular arrhythmia, left ventricular dysfunction, angina pectoris, atrial flutter, cardiomyopathy, myocardial ischemia
+
+
+
+   Vascular Disorders:  hypotension, thrombosis, embolism, hemorrhage, hypovolemic shock, vasculitis
+
+
+
+   Respiratory, Thoracic, and Mediastinal Disorders:  pneumonitis, hypoxia, respiratory failure, acute pulmonary edema, dysphonia, pharyngolaryngeal pain
+
+
+
+   Gastrointestinal Disorders:  ileus, colitis, impaired gastric emptying, esophagitis, dysphagia, gastritis, gastrointestinal hemorrhage
+
+
+
+   Hepatobiliary Disorders:  acute hepatic failure, jaundice
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  erythema multiforme
+
+
+
+   Musculoskeletal, Connective Tissue, and Bone Disorders:  muscular weakness, muscle spasms, trismus
+
+
+
+   Renal and Urinary Disorders:  nephrolithiasis, renal failure
+
+
+
+   General Disorders and Administration Site Conditions:  chills
+
+
+
+   Investigations:  increased transaminases, increased blood alkaline phosphatase, increased gamma-glutamyltransferase
+
+
+
+   6.2 Postmarketing Experience
+
+  Radiation recall has been reported during postmarketing use of IXEMPRA. Because this reaction was reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: TOXICITY IN HEPATIC IMPAIRMENT
+
+
+
+  WARNING: TOXICITY IN HEPATIC IMPAIRMENT
+
+
+
+    IXEMPRA in combination with capecitabine is contraindicated in patients with AST or ALT &gt;2.5 x ULN or bilirubin &gt;1 x ULN due to increased risk of toxicity and neutropenia-related death
+
+    [see Contraindications (  4  ) and Warnings and Precautions (  5.3  )].  
+
+
+
+   EXCERPT:     WARNING: TOXICITY IN HEPATIC IMPAIRMENT  
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   IXEMPRA      (r)
+
+      in combination with capecitabine must not be given to patients with AST or ALT &gt;2.5 x ULN or bilirubin &gt;1 x ULN due to increased risk of toxicity and neutropenia-related death. (  4  ,   5.3  )  
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Peripheral Neuropathy: Monitor for symptoms of neuropathy, primarily sensory. Neuropathy is cumulative, generally reversible, and should be managed by dose adjustment and delays (  2.2  ,  5.1  ). 
+ *  Myelosuppression: Primarily neutropenia. Monitor with peripheral blood cell counts and adjust dose as appropriate (  2.2  ,  5.2  ). 
+ *  Hypersensitivity reaction: Must premedicate all patients with an H1antagonist and an H2antagonist before treatment (  2.3  ,  5.4  ). 
+ *  Fetal harm can occur when administered to a pregnant woman. Women should be advised not to become pregnant when taking IXEMPRA (  5.5  ,  8.1  ). 
+    
+ 
+
+   5.1 Peripheral Neuropathy
+
+
+
+  Peripheral neuropathy was common (see  Table 3  ). Patients treated with IXEMPRA should be monitored for symptoms of neuropathy, such as burning sensation, hyperesthesia, hypoesthesia, paresthesia, discomfort, or neuropathic pain. Neuropathy occurred early during treatment; ~75% of new onset or worsening neuropathy occurred during the first 3 cycles. Patients experiencing new or worsening symptoms may require a reduction or delay in the dose of IXEMPRA [see Dosage and Administration (  2.2  )].  In clinical studies, peripheral neuropathy was managed through dose reductions, dose delays, and treatment discontinuation. Neuropathy was the most frequent cause of treatment discontinuation due to drug toxicity. In Studies 046 and 081, 80% and 87%, respectively, of patients with peripheral neuropathy who received IXEMPRA had improvement or no worsening of their neuropathy following dose reduction. For patients with grade 3/4 neuropathy in Studies 046 and 081, 76% and 79%, respectively, had documented improvement to baseline or grade 1, twelve weeks after onset.
+
+
+
+ Table 3: Treatment-related Peripheral Neuropathy 
+  a Sensory and motor neuropathy combined.                                
+  b 24% and 27% of patients in 046 and 081, respectively, had preexisting neuropathy (grade 1).    
+  
+                                                                                                          
+                                                                          IXEMPRA           IXEMPRA as     
+                                                                          with capecitabine     monotherapy     
+                                                                          Study 046         Study 081     
+ Peripheral neuropathy (all grades)  a,b                                 67%               63%            
+ Peripheral neuropathy (grades 3/4)  a,b                                 23%               14%            
+ Discontinuation due to neuropathy                                       21%               6%             
+ Median number of cycles to onset of grade 3/4 neuropathy                4                 4              
+ Median time to improvement of grade 3/4 neuropathy to baseline or to grade 1  6.0 weeks         4.6 weeks      
+         A pooled analysis of 1540 cancer patients treated with IXEMPRA indicated that patients with diabetes mellitus or preexisting peripheral neuropathy may be at increased risk of severe neuropathy. Prior therapy with neurotoxic chemotherapy agents did not predict the development of neuropathy. Patients with moderate to severe neuropathy (grade 2 or greater) were excluded from studies with IXEMPRA. Caution should be used when treating patients with diabetes mellitus or preexisting peripheral neuropathy.
+ 
+
+    5.2 Myelosuppression
+
+
+
+  Myelosuppression is dose-dependent and primarily manifested as neutropenia. In clinical studies, grade 4 neutropenia (&lt;500 cells/mm  3  ) occurred in 36% of patients treated with IXEMPRA in combination with capecitabine and 23% of patients treated with IXEMPRA monotherapy. Febrile neutropenia and infection with neutropenia were reported in 5% and 6% of patients treated with IXEMPRA in combination with capecitabine, respectively, and 3% and 5% of patients treated with IXEMPRA as monotherapy, respectively. Neutropenia-related death occurred in 1.9% of 414 patients with normal hepatic function or mild hepatic impairment treated with IXEMPRA in combination with capecitabine. The rate of neutropenia-related deaths was higher (29%, 5 out of 17) in patients with AST or ALT &gt;2.5 x ULN or bilirubin &gt;1.5 x ULN [see  Boxed Warning  , Contraindications (  4  ), and Warnings and Precautions (  5.3  )].  Neutropenia-related death occurred in 0.4% of 240 patients treated with IXEMPRA as monotherapy. No neutropenia-related deaths were reported in 24 patients with AST or ALT &gt;2.5 x ULN or bilirubin &gt;1.5 x ULN treated with IXEMPRA monotherapy. IXEMPRA must not be administered to patients with a neutrophil count &lt;1500 cells/mm  3  . To monitor for myelosuppression, frequent peripheral blood cell counts are recommended for all patients receiving IXEMPRA. Patients who experience severe neutropenia or thrombocytopenia should have their dose reduced [see Dosage and Administration (  2.2  )].  
+
+
+
+    5.3 Hepatic Impairment
+
+
+
+  Patients with baseline AST or ALT &gt;2.5 x ULN or bilirubin &gt;1.5 x ULN experienced greater toxicity than patients with baseline AST or ALT &lt;=2.5 x ULN or bilirubin &lt;=1.5 x ULN when treated with IXEMPRA at 40 mg/m  2  in combination with capecitabine or as monotherapy in breast cancer studies. In combination with capecitabine, the overall frequency of grade 3/4 adverse reactions, febrile neutropenia, serious adverse reactions, and toxicity-related deaths was greater [see Warnings and Precautions (  5.2  )].  With monotherapy, grade 4 neutropenia, febrile neutropenia, and serious adverse reactions were more frequent. The safety and pharmacokinetics of IXEMPRA as monotherapy were evaluated in a dose escalation study in 56 patients with varying degrees of hepatic impairment. Exposure was increased in patients with elevated AST or bilirubin [see Use in Specific Populations (  8.6  )].  
+
+
+
+ IXEMPRA in combination with capecitabine is contraindicated in patients with AST or ALT &gt;2.5 x ULN or bilirubin &gt;1 x ULN due to increased risk of toxicity- and neutropenia-related death [see  Boxed Warning  , Contraindications (  4  ), and Warnings and Precautions (  5.2  )].  Patients who are treated with IXEMPRA as monotherapy should receive a reduced dose depending on the degree of hepatic impairment [see Dosage and Administration (  2.2  )].  Use in patients with AST or ALT &gt;10 x ULN or bilirubin &gt;3 x ULN is not recommended. Limited data are available for patients with AST or ALT &gt;5 x ULN. Caution should be used when treating these patients [see Dosage and Administration (  2.2  )]  
+
+
+
+    5.4 Hypersensitivity Reactions
+
+
+
+  Patients with a history of a severe hypersensitivity reaction to agents containing Cremophor  (r)  EL or its derivatives (eg, polyoxyethylated castor oil) should not be treated with IXEMPRA. All patients should be premedicated with an H1and an H2antagonist approximately 1 hour before IXEMPRA infusion and be observed for hypersensitivity reactions (eg, flushing, rash, dyspnea, and bronchospasm). In case of severe hypersensitivity reactions, infusion of IXEMPRA should be stopped and aggressive supportive treatment (eg, epinephrine, corticosteroids) started. Of the 1323 patients treated with IXEMPRA in clinical studies, 9 patients (1 %) had experienced severe hypersensitivity reactions (including anaphylaxis). Three of the 9 patients were able to be retreated. Patients who experience a hypersensitivity reaction in one cycle of IXEMPRA must be premedicated in subsequent cycles with a corticosteroid in addition to the H1and H2antagonists, and extension of the infusion time should be considered [see Dosage and Administration (  2.3  ) and Contraindications (  4  )]  
+
+
+
+    5.5 Pregnancy
+
+
+
+  Pregnancy Category D.
+
+
+
+ IXEMPRA may cause fetal harm when administered to pregnant women. There are no adequate and well-controlled studies with IXEMPRA in pregnant women. Women should be advised not to become pregnant when taking IXEMPRA. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+
+
+ Ixabepilone was studied for effects on embryo-fetal development in pregnant rats and rabbits given IV doses of 0.02, 0.08, and 0.3 mg/kg/day and 0.01, 0.03, 0.11, and 0.3 mg/kg/day, respectively. There were no teratogenic effects. In rats, an increase in resorptions and post-implantation loss and a decrease in the number of live fetuses and fetal weight was observed at the maternally toxic dose of 0.3 mg/kg/day (approximately one-tenth the human clinical exposure based on AUC). Abnormalities included a reduced ossification of caudal vertebrae, sternebrae, and metacarpals. In rabbits, ixabepilone caused maternal toxicity (death) and embryo-fetal toxicity (resorptions) at 0.3 mg/kg/day (approximately one-tenth the human clinical dose based on body surface area). No fetuses were available at this dose for evaluation.
+
+
+
+    5.6 Cardiac Adverse Reactions
+
+
+
+  The frequency of cardiac adverse reactions (myocardial ischemia and ventricular dysfunction) was higher in the IXEMPRA in combination with capecitabine (1.9%) than in the capecitabine alone (0.3%) treatment group. Supraventricular arrhythmias were observed in the combination arm (0.5%) and not in the capecitabine alone arm. Caution should be exercised in patients with a history of cardiac disease. Discontinuation of IXEMPRA should be considered in patients who develop cardiac ischemia or impaired cardiac function.
+
+
+
+    5.7 Potential for Cognitive Impairment from Excipients
+
+
+
+  Since IXEMPRA contains dehydrated alcohol USP, consideration should be given to the possibility of central nervous system and other effects of alcohol [see Description (  11  )]  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

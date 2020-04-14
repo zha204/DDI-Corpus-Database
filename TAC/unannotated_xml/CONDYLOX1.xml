@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="condylox1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  In clinical trials with Condylox Gel 0.5%, the following local adverse reactions were reported during the treatment of anogenital warts. The severity of local adverse reactions were predominantly mild or moderate and did not increase during the treatment period. Severe reactions were most frequent within the first 2 weeks of treatment.
+
+
+
+
+    Adverse Reaction      Mild              Moderate         Severe         
+  Inflammation     32.2%            30.4%              9.3%           
+  Burning          37.1%            25.9%            11.5%            
+  Erosion          27.0%            20.8%              8.9%           
+  Pain             23.7%            20.4%            11.5%            
+  Itching          32.2%            16.0%              7.8%           
+  Bleeding         19.2%              3.0%             0.7%           
+          Other local adverse reactions reported included stinging (7%), and erythema (5%); less commonly reported local adverse events included desquamation, scabbing, discoloration, tenderness, dryness, crusting, fissures, soreness, ulceration, swelling/edema, tingling, rash, and blisters.
+ 
+
+ The most common systemic adverse event reported during the clinical studies was headache (7%).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

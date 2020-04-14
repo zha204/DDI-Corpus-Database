@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ddavp2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Infrequently, DDAVP has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of DDAVP has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of DDAVP.  DDAVP Injection  has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with  DDAVP Injection  .
+
+
+
+ See    WARNINGS    for the possibility of water intoxication and hyponatremia.
+
+
+
+   Post Marketing:  There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following  DDAVP Injection  in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: INDICATIONS AND USAGE
+
+  INDICATIONS AND USAGE
+
+  Hemophilia A
+
+    DDAVP Injection   4 mcg/mL is indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5%. 
+
+
+
+ DDAVP will often maintain hemostasis in patients with hemophilia A during surgical procedures and postoperatively when administered 30 minutes prior to scheduled procedure.
+
+
+
+ DDAVP will also stop bleeding in hemophilia A patients with episodes of spontaneous or trauma-induced injuries such as hemarthroses, intramuscular hematomas or mucosal bleeding.
+
+
+
+   DDAVP is not indicated for the treatment of hemophilia A with factor VIII coagulant activity levels equal to or less than 5%, or for the treatment of hemophilia B, or in patients who have factor VIII antibodies.
+
+
+
+   
+
+  In certain clinical situations, it may be justified to try DDAVP in patients with factor VIII levels between 2% to 5%; however, these patients should be carefully monitored.
+
+
+
+   von Willebrand's Disease (Type I)
+
+    DDAVP Injection   4 mcg/mL is indicated for patients with mild to moderate classic von Willebrand's Disease (Type I) with factor VIII levels greater than 5%. DDAVP will often maintain hemostasis in patients with mild to moderate von Willebrand's Disease during surgical procedures and postoperatively when administered 30 minutes prior to the scheduled procedure.
+
+
+
+ DDAVP will usually stop bleeding in mild to moderate von Willebrand's patients with episodes of spontaneous or trauma-induced injuries such as hemarthroses, intramuscular hematomas or mucosal bleeding.
+
+
+
+ Those von Willebrand's disease patients who are least likely to respond are those with severe homozygous von Willebrand's disease with factor VIII coagulant activity and factor VIII von Willebrand factor antigen levels less than 1%. Other patients may respond in a variable fashion depending on the type of molecular defect they have. Bleeding time and factor VIII coagulant activity, ristocetin cofactor activity, and von Willebrand factor antigen should be checked during administration of DDAVP to ensure that adequate levels are being achieved.
+
+
+
+ DDAVP is not indicated for the treatment of severe classic von Willebrand's Disease (Type I) and when there is evidence of an abnormal molecular form of factor VIII antigen. (See     WARNINGS  .  )
+
+
+
+   Diabetes Insipidus
+
+    DDAVP Injection   4 mcg/mL is indicated as antidiuretic replacement therapy in the management of central (cranial) diabetes insipidus and for the management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region. DDAVP is ineffective for the treatment of nephrogenic diabetes insipidus.
+
+
+
+ DDAVP is also available as an intranasal preparation. However, this means of delivery can be compromised by a variety of factors that can make nasal insufflation ineffective or inappropriate. These include poor intranasal absorption, nasal congestion and blockage, nasal discharge, atrophy of nasal mucosa, and severe atrophic rhinitis. Intranasal delivery may be inappropriate where there is an impaired level of consciousness. In addition, cranial surgical procedures, such as transsphenoidal hypophysectomy, create situations where an alternative route of administration is needed as in cases of nasal packing or recovery from surgery.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="atridox" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  In clinical trials involving a total of 1436 patients, adverse experiences from all causalities were monitored across treatment groups.
+
+
+
+ In the Circulatory System category, 10 subjects (1.6%) in the ATRIDOX  (r)  group were reported as having "unspecified essential hypertension." Only 1 subject (0.2%) in the Vehicle group, and none in the Scaling and Root Planing or Oral Hygiene groups were reported to have "unspecified essential hypertension." In all cases, the event occurred anywhere from 13 to 134 days post treatment. There is no known association of oral administration of doxycycline with essential hypertension.
+
+
+
+ Two patients in the polymer vehicle group and none in the ATRIDOX  (r)  group (0.2% for both groups combined) reported adverse events consistent with a localized allergic response.
+
+
+
+ Sex, age, race and smoking status did not appear to be correlated with adverse events.
+
+
+
+ The following table lists the incidence of treatment-emergent adverse events from all causalities, across all treatment groups, occurring in &gt;=1% of the entire study population.
+
+
+
+
+  Body System      Doxycycline      Vehicle          OH               SRP              
+  
+  Verbatim Terms   n=609            n=413            n=204            n=210            
+      Circulatory                                                                           
+  High blood pressure   1.6%             0.2%             0.0%             0.0%             
+      Digestive                                                                           
+  Gum discomfort, pain or soreness; loss of attachment; increased pocket depth   18.1%            23.0%            20.1%            21.0%            
+  Toothache, pressure sensitivity   14.3%            14.3%            10.3%            18.1%            
+  Periodontal abscess, exudate, infection, drainage, extreme mobility, suppuration   9.9%             10.9%            10.3%            8.6%             
+  Thermal tooth sensitivity   7.7%             8.5%             4.4%             6.7%             
+  Gum inflammation, swelling, sensitivity   4.1%             5.8%             5.4%             5.7%             
+  Soft tissue erythema, sore mouth, unspecified pain   4.3%             5.3%             2.7%             6.2%             
+  Indigestion, upset stomach, stomachache   3.6%             4.1%             2.9%             3.8%             
+  Diarrhea         3.3%             2.4%             1.0%             1.0%             
+  Tooth mobility, bone loss   2.0%             0.7%             0.5%             2.4%             
+  Periapical abscess, lesion   1.5%             1.9%             1.0%             0.5%             
+  Aphthous ulcer, canker sores   0.7%             1.7%             1.0%             1.4%             
+  Fistula          0.8%             1.5%             1.5%             1.0%             
+  Endodontic abscess, pulpitis   1.5%             1.5%             0.0%             0.5%             
+  Jaw pain         1.1%             0.5%             1.0%             1.9%             
+  Tooth loss       0.8%             1.5%             1.5%             0.0%             
+  Bleeding gums    1.0%             0.7%             0.0%             2.4%             
+      Genitourinary                                                                           
+  Premenstrual tension syndrome   4.4%             3.1%             2.5%             3.3%             
+      Ill-Defined Conditions                                                                           
+  Headache         27.3%            28.1%            23.5%            23.8%            
+  Cough            3.6%             6.1%             2.9%             2.4%             
+  Sleeplessness    3.4%             1.5%             2.0%             2.9%             
+  Body aches, soreness   1.6%             1.2%             1.5%             1.4%             
+  Nausea and vomiting   1.8%             0.7%             2.5%             0.5%             
+  Fever            1.0%             1.9%             1.0%             1.9%             
+      Injury &amp; Poisoning                                                                           
+  Broken tooth     5.1%             4.1%             4.9%             5.7%             
+      Mental                                                                           
+  Tension headache   1.8%             0.7%             0.0%             1.0%             
+      Musculoskeletal                                                                           
+  Muscle aches     6.4%             4.6%             4.9%             3.3%             
+  Backache         3.6%             5.3%             2.5%             6.2%             
+  Pain in arms or legs   1.5%             2.2%             2.0%             2.4%             
+  Lower back pain   1.6%             1.7%             0.5%             2.9%             
+  Neck pain        1.3%             1.7%             1.0%             1.9%             
+  Shoulder pain    1.0%             1.0%             1.5%             1.0%             
+      Nervous System                                                                           
+  Ear infection    1.6%             1.9%             2.0%             0.0%             
+      Respiratory                                                                           
+  Common cold      25.5%            25.2%            18.1%            16.7%            
+  Flu, respiratory   6.1%             9.0%             3.9%             6.7%             
+  Stuffy head, post nasal drip, congestion   5.6%             7.7%             2.9%             4.8%             
+  Sore throat      5.7%             6.5%             2.0%             3.3%             
+  Sinus infection   5.3%             2.7%             1.0%             1.9%             
+  Flu              2.8%             2.9%             2.9%             3.3%             
+  Bronchitis       2.3%             1.9%             1.5%             1.0%             
+  Allergies        1.0%             1.0%             1.0%             1.9%             
+      Skin &amp; Subcutaneous Tissue                                                                           
+  Skin infection or inflammation   1.3%             1.0%             1.0%             1.0%             
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

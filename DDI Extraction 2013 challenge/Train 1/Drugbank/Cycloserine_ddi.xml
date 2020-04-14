@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d128">
+    <sentence id="DDI-DrugBank.d128.s0" text="May interact with wthionamide (Trecator-SC) and isoniazid (Nydrazid).">
+        <entity id="DDI-DrugBank.d128.s0.e0" charOffset="31-41"
+            type="brand" text="Trecator-SC"/>
+        <entity id="DDI-DrugBank.d128.s0.e1" charOffset="48-56"
+            type="drug" text="isoniazid"/>
+        <entity id="DDI-DrugBank.d128.s0.e2" charOffset="59-66"
+            type="brand" text="Nydrazid"/>
+    </sentence>
+</document>

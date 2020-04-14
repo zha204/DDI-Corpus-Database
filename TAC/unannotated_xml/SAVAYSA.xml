@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="savaysa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the prescribing information.
+
+
+
+ *  Increased risk of stroke with discontinuation of SAVAYSA in patients with NVAF [see Warnings and Precautions (  5.2  )]  
+ *  Spinal/epidural anesthesia or puncture [see Warnings and Precautions (  5.4  )]  
+    The most serious adverse reactions reported with SAVAYSA were related to bleeding  [see Warnings and Precautions (  5.3  )]  .
+ 
+
+   EXCERPT:     Treatment of NVAF  : The most common adverse reactions (&gt;= 5%) are bleeding and anemia (  6.1  )
+
+
+
+   Treatment of DVT and PE  : The most common adverse reactions (&gt;= 1%) are bleeding, rash, abnormal liver function tests and anemia (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Daiichi Sankyo, Inc. at 1-877-437-7763 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of SAVAYSA was evaluated in the ENGAGE AF-TIMI 48 and Hokusai VTE studies including 11,130 patients exposed to SAVAYSA 60 mg and 7002 patients exposed to SAVAYSA 30 mg once daily  [see Clinical Studies (  14  )]  .
+
+
+
+   The ENGAGE AF-TIMI 48 Study  
+
+
+
+ In the ENGAGE AF-TIMI 48 study, the median study drug exposure for the SAVAYSA and warfarin treatment groups was 2.5 years.
+
+
+
+ Bleeding was the most common reason for treatment discontinuation. Bleeding led to treatment discontinuation in 3.9% and 4.1% of patients in the SAVAYSA 60 mg and warfarin treatment groups, respectively.
+
+
+
+ In the overall population, Major Bleeding was lower in the SAVAYSA group compared to the warfarin group [HR 0.80 (0.70, 0.91), p&lt;0.001].  Table 6.1  shows Major Bleeding events (percentage of patients with at least one bleeding event, per year) for the indicated population (CrCL &lt;= 95 mL/min).
+
+
+
+ Table 6.1: Adjudicated Bleeding Events for NVAF Patients with CrCL &lt;= 95 mL/min* 
+ Abbreviations: HR = Hazard Ratio versus Warfarin, CI = Confidence Interval, n = number of patients with events, N = number of patients in Safety population,   
+   *  The on treatment period is during treatment or within 2 days of stopping study treatment. The difference in hemorrhagic stroke rate from  Table 14.1  is because  Table 14.1  includes events occurring during treatment or within 3 days of stopping study treatment and this table only includes patients with CrCL &lt;= 95mL/min.   
+   a  A subject can be included in multiple sub-categories if he/she had an event for those categories.   
+   b  Includes all patients with CrCL &lt;= 95 mL/min randomized to receive 60 mg once daily, including those who were dose-reduced to 30 mg once daily because of prespecified baseline conditions.   
+   c  A Major Bleeding event (the study primary safety endpoint) was defined as clinically overt bleeding that met one of the following criteria: fatal bleeding; symptomatic bleeding in a critical site such as retroperitoneal, intracranial, intraocular, intraspinal, intra-articular, pericardial, or intramuscular with compartment syndrome; a clinically overt bleeding event that caused a fall in hemoglobin of at least 2.0 g/dL (or a fall in hematocrit of at least 6.0% in the absence of hemoglobin data), when adjusted for transfusions (1 unit of transfusion = 1.0 g/dL drop in hemoglobin).   
+   d  ICH includes primary hemorrhagic stroke, subarachnoid hemorrhage, epidural/subdural hemorrhage, and ischemic stroke with major hemorrhagic conversion.   
+   e  Gastrointestinal (GI) bleeds include bleeding from upper and lower GI tract. Lower GI tract bleeding includes rectal bleeds.   
+   f  Fatal bleed is a bleeding event during the on treatment period and adjudicated as leading directly to death within 7 days.   
+  
+    Event  a                SAVAYSA 60 mg  b  N = 5417n (%/year)  WarfarinN = 5485n (%/year)  SAVAYSA 60 mg vs. WarfarinHR (95% CI)   
+  Major Bleeding  c         357 (3.1)                  431 (3.7)        0.84 (0.73, 0.97)                     
+    Intracranial   Hemorrhage   (ICH)  d    53 (0.5)                   122 (1.0)        0.44 (0.32, 0.61)                     
+         Hemorrhagic        Stroke  33 (0.3)                   69 (0.6)         0.49 (0.32, 0.74)                     
+         Other ICH          20 (0.2)                   55 (0.5)         0.37 (0.22, 0.62)                     
+    Gastrointestinal  e     205 (1.8)                  150 (1.3)        1.40 (1.13, 1.73)                     
+    Fatal Bleeding  f       21 (0.2)                   42 (0.4)         0.51 (0.30, 0.86)                     
+         ICH                19 (0.2)                   36 (0.3)         0.54 (0.31, 0.94)                     
+         Non-intracranial   2 (&lt;0.1)                   6 (&lt;0.1)         ----                                  
+          The most common site of a Major Bleeding event was the gastrointestinal (GI) tract.  Table 6.2  shows the number of and the rate at which patients experienced GI bleeding in the SAVAYSA 60 mg and warfarin treatment groups.
+ 
+
+ Table 6.2 Gastrointestinal Bleeding Events for NVAF Patients with CrCL &lt;= 95 mL/min* 
+   *  During or within 2 days of stopping study treatment   
+   a  GI bleeding was defined by location as upper or lower GI   
+   b  Lower GI bleeding included anorectal bleeding   
+   c  GUSTO - Severe or life-threatening bleeding that caused hemodynamic compromise and requires intervention   
+  
+                                           SAVAYSAN = 5417n (%/year)       WarfarinN = 5485n (%/year)       
+    Major Gastrointestinal (GI)   Bleeding  a    205 (1.78)                      150 (1.27)                       
+ -   Upper GI                              123 (1.06)                      88 (0.74)                        
+   -   Lower GI  b                         85 (0.73)                       64 (0.54)                        
+    GUSTO  c  Severe GI bleeding           16 (0.14)                       17 (0.14)                        
+    Fatal GI bleeding                      1 (&lt;0.1)                        2 (&lt;0.1)                         
+         The rate of anemia-related adverse events was greater with SAVAYSA 60 mg than with warfarin (9.6% vs. 6.8%).
+ 
+
+ The comparative rates of Major Bleeding on SAVAYSA and warfarin were generally consistent among subgroups (see  Figure 6.1  ). Bleeding rates appeared higher in both treatment arms (SAVAYSA and warfarin) in the following subgroups of patients: those receiving aspirin, those in the United States, those more than 75 years old and those with reduced renal function.
+
+
+
+ Figure 6.1 Adjudicated Major Bleeding in the ENGAGE AF-TIMI 48  *  Study
+
+
+
+ 
+
+
+
+   *  During or within 2 days of stopping study treatmentNote: The figure above presents effects in various subgroups all of which are baseline characteristics and most of which were pre-specified. The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+
+
+ Other Adverse Reactions
+
+
+
+ The most common non-bleeding adverse reactions (&gt;= 1%) for SAVAYSA 60 mg versus warfarin were rash (4.2% vs. 4.1%), and abnormal liver function tests (4.8% vs. 4.6%), respectively.
+
+
+
+ Interstitial Lung Disease (ILD) was reported as a serious adverse event on treatment for SAVAYSA 60 mg and warfarin in 15 (0.2%) and 7 (0.1%) patients, respectively. Many of the cases in both treatment groups were confounded by the use of amiodarone, which has been associated with ILD, or by infectious pneumonia. In the overall study period, there were 5 and 0 fatal ILD cases in the SAVAYSA 60 mg and warfarin groups, respectively.
+
+
+
+ The Hokusai VTE Study
+
+
+
+ In the Hokusai VTE study, the duration of drug exposure for SAVAYSA was &lt;= 6 months for 1561 (37.9%) of patients, &gt; 6 months for 2557 (62.1%) of patients and 12 months for 1661 (40.3%) of patients.
+
+
+
+ Bleeding was the most common reason for treatment discontinuation and occurred in 1.4% and 1.4% of patients in the SAVAYSA and warfarin arms, respectively.
+
+
+
+ Bleeding in Patients with DVT and/or PE in the Hokusai VTE Study
+
+
+
+ The primary safety endpoint was Clinically Relevant Bleeding, defined as the composite of Major and Clinically Relevant Non-Major (CRNM) Bleeding that occurred during or within three days of stopping study treatment. The incidence of Clinically Relevant Bleeding was lower in SAVAYSA than warfarin [HR (95% CI): 0.81 (0.71, 0.94); p =0.004].
+
+
+
+   Table 6.3  shows the number of patients experiencing bleeding events in the Hokusai VTE Study.
+
+
+
+ Table 6.3: Bleeding Events in the Hokusai VTE Study 
+ Abbreviations: N=number of patients in the modified intent-to-treat population; n = number of events; CRNM = clinically relevant non-major   
+   a  Primary Safety Endpoint: Clinically Relevant Bleeding (composite of Major and CRNM).   
+   b  A Major Bleeding event was defined as clinically overt bleeding that met one of the following criteria: associated with a fall in hemoglobin level of 2.0 g/dL or more, or leading to transfusion of two or more units of packed red cells or whole blood; occurring in a critical site or organ: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal; contributing to death.   
+   c  CRNM bleeding was defined as overt bleeding not meeting the criteria for a Major Bleeding event but that was associated with a medical intervention, an unscheduled contact (visit or telephone call) with a physician, temporary cessation of study treatment, or associated with discomfort for the subject such as pain, or impairment of activities of daily life.   
+  
+                                                                 SAVAYSA    (N = 4118)      Warfarin    (N = 4112)     
+  Clinically Relevant Bleeding  a  (Major /CRNM), n (%)        349 (8.5)             423 (10.3)                  
+  Major Bleeding  b  , n (%)                                   56 (1.4)              66 (1.6)                    
+        Fatal bleeding                                         2 (&lt;0.1)              10 (0.2)                    
+        Intracranial fatal                                     0 (0.0)               6 (0.1)                     
+  Non-fatal critical organ bleeding                            13 (0.3)              25 (0.6)                    
+        Intracranial bleeding                                  5 (0.1)               12 (0.3)                    
+  Non-fatal non-critical organ bleeding                        41 (1.0)              33 (0.8)                    
+  Decrease in Hb &gt;= 2g/dL                                      40 (1.0)              33 (0.8)                    
+  Transfusion of &gt;= 2 units of RBC                             28 (0.7)              22 (0.5)                    
+  CRNM Bleeding  c                                             298 (7.2)             368 (8.9)                   
+  Any Bleed                                                    895 (21.7)            1056 (25.6)                 
+         Patients with low body weight (&lt;= 60 kg), CrCL &lt;= 50 mL/min, or concomitant use of select P-gp inhibitors were randomized to receive SAVAYSA 30 mg or warfarin. As compared to all patients who received SAVAYSA or warfarin in the 60 mg cohort, all patients who received SAVAYSA or warfarin in the 30 mg cohort (n= 1452, 17.6% of the entire study population) were older (60.1 vs 54.9 years), more frequently female (66.5% vs 37.7%), more frequently of Asian race (46.0% vs 15.6%) and had more co-morbidities (e.g., history of bleeding, hypertension, diabetes, cardiovascular disease, cancer). Clinically relevant bleeding events occurred in 58/733 (7.9%) of the SAVAYSA patients receiving 30 mg once daily and 92/719 (12.8%) of warfarin patients meeting the above criteria.
+ 
+
+ In the Hokusai VTE study, among all patients the most common bleeding adverse reactions (&gt;= 1%) are shown in  Table 6.4  .
+
+
+
+ Table 6.4: Adverse Reactions Occurring in &gt;= 1% of Patients Treated in Hokusai VTE 
+   a  Adjudicated Any Bleeding by location for all bleeding event categories (including Major and CRNM)   
+   b  Gender specific vaginal bleeding percentage is based on number of female subjects in each treatment group   
+  
+                                                       SAVAYSA 60 mg    (N=4118)    n (%)      Warfarin    (N=4122)    n (%)     
+    Bleeding ADRs  a                                                                                        
+      Vaginal  b                                     158 (9.0)                  126 (7.1)                   
+      Cutaneous soft tissue                          245 (5.9)                  414 (10.0)                  
+      Epistaxis                                      195 (4.7)                  237 (5.7)                   
+      Gastrointestinal bleeding                      171 (4.2)                  150 (3.6)                   
+         Lower gastrointestinal                      141 (3.4)                  126 (3.1)                   
+      Oral/pharyngeal                                138 (3.4)                  162 (3.9)                   
+      Macroscopic hematuria/urethral                 91 (2.2)                   117 (2.8)                   
+      Puncture site                                  56 (1.4)                   99 (2.4)                    
+    Non-Bleeding ADRs                                                                                       
+      Rash                                           147 (3.6)                  151 (3.7)                   
+      Abnormal liver function tests                  322 (7.8)                  322 (7.8)                   
+      Anemia                                         72 (1.7)                   55 (1.3)                    
+          figure6.1 
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING (A) REDUCED EFFICACY IN NONVALVULAR ATRIAL FIBRILLATION PATIENTS WITH CREATININE CLEARANCE  (CRCL) &gt; 95 ML/MIN (B) PREMATURE DISCONTINUATION OF SAVAYSA INCREASES THE RISK OF ISCHEMIC EVENTS (C) SPINAL/EPIDURAL HEMATOMA
+
+  WARNING (A) REDUCED EFFICACY IN NONVALVULAR ATRIAL FIBRILLATION PATIENTS WITH CREATININE CLEARANCE  (CRCL) &gt; 95 ML/MIN (B) PREMATURE DISCONTINUATION OF SAVAYSA INCREASES THE RISK OF ISCHEMIC EVENTS (C) SPINAL/EPIDURAL HEMATOMA
+
+      
+
+
+
+   A. REDUCED EFFICACY IN NONVALVULAR ATRIAL FIBRILLATION PATIENTS WITH CRCL &gt; 95 ML/MIN   
+
+
+
+   SAVAYSA should not be used in patients with CrCL &gt; 95 mL/min.  In the ENGAGE AF-TIMI 48 study, nonvalvular atrial fibrillation patients with CrCL &gt; 95 mL/min had an increased rate of ischemic stroke with SAVAYSA 60 mg once daily compared to patients treated with warfarin. In these patients another anticoagulant should be used   [see Dosage and Administration (  2.1  ), Warnings and Precautions (  5.1  ), and Clinical Studies (  14.1  )]  .  
+
+
+
+   B. PREMATURE DISCONTINUATION OF SAVAYSA INCREASES THE RISK OF ISCHEMIC EVENTS  
+
+
+
+   Premature discontinuation of any oral anticoagulant in the absence of adequate alternative anticoagulation increases the risk of ischemic events. If SAVAYSA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant as described in the transition guidance   [see Dosage and Administration (  2.4  ), Warnings and Precautions (  5.2  ), and Clinical Studies (  14.1  )]  .  
+
+
+
+   C. SPINAL/EPIDURAL HEMATOMA  
+
+
+
+   Epidural or spinal hematomas may occur in patients treated with SAVAYSA who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis. Consider these risks when scheduling patients for spinal procedures. Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:  
+
+
+
+ *  use of indwelling epidural catheters 
+ *  concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants 
+ *  a history of traumatic or repeated epidural or spinal punctures 
+ *  a history of spinal deformity or spinal surgery 
+ *  optimal timing between the administration of SAVAYSA and neuraxial procedures is not known 
+      [see Warnings and Precautions (  5.4  )].  
+ 
+
+   Monitor patients frequently for signs and symptoms of neurological impairment. If neurological compromise is noted, urgent treatment is necessary   [see Warnings and Precautions (  5.4  )]  .  
+
+
+
+   Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated   [see Warnings and Precautions (  5.4  )]  .  
+
+
+
+   EXCERPT:   WARNING  (A) REDUCED EFFICACY IN NONVALVULAR ATRIAL FIBRILLATION PATIENTS WITH  CREATININE CLEARANCE (CRCL) &gt; 95 ML/MIN
+
+         (B) PREMATURE DISCONTINUATION OF SAVAYSA INCREASES THE RISK OF ISCHEMIC EVENTS
+
+         (C) SPINAL/EPIDURAL HEMATOMA  See   full prescribing information for complete boxed warning  .  
+
+         (A) REDUCED EFFICACY IN NONVALVULAR ATRIAL FIBRILLATION PATIENTS WITH CRCL &gt; 95 ML/MIN: SAVAYSA should not be used in patients with CrCL &gt; 95 mL/min.  In the ENGAGE AF-TIMI 48 study, nonvalvular atrial fibrillation patients with CrCL &gt; 95 mL/min had an increased rate of ischemic stroke with SAVAYSA 60 mg once daily compared to patients treated with warfarin. In these patients another anticoagulant should be used (  5.1  ).
+
+         (B) PREMATURE DISCONTINUATION OF SAVAYSA INCREASES THE RISK OF ISCHEMIC EVENTS: Premature discontinuation of any oral anticoagulant in the absence of adequate alternative anticoagulation increases the risk of ischemic events. If SAVAYSA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant as described in the transition guidance (  2.4  ,   5.2  ,   14  ).
+
+         (C) SPINAL/EPIDURAL HEMATOMA: Epidural or spinal hematomas may occur in patients treated with SAVAYSA who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis. Consider these risks when scheduling patients for spinal procedures (  5.4  ).
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Bleeding: Serious and potentially fatal bleeding. Promptly evaluate signs and symptoms of blood loss (  5.2  ) 
+ *  Mechanical heart valves or moderate to severe mitral stenosis: Use is not recommended (  5.5  ) 
+    
+ 
+
+   5.1 Reduced Efficacy in Nonvalvular Atrial Fibrillation Patients with CrCL &gt; 95 mL/min
+
+
+
+  SAVAYSA should not be used in patients with CrCL &gt; 95 mL/min. In the randomized ENGAGE AF-TIMI 48 study, NVAF patients with CrCL &gt; 95 mL/min had an increased rate of ischemic stroke with SAVAYSA 60 mg daily compared to patients treated with warfarin. In these patients another anticoagulant should be used [see Dosage and Administration (  2.1  ), Clinical Studies (  14.1  )].  
+
+
+
+    5.2 Increased Risk of Stroke with Discontinuation of SAVAYSA in Patients with Nonvalvular Atrial Fibrillation
+
+
+
+  Premature discontinuation of any oral anticoagulant in the absence of adequate alternative anticoagulation increases the risk of ischemic events. If SAVAYSA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant as described in the transition guidance [see Dosage and Administration (  2.4  ) and Clinical Studies (  14.1  )].  
+
+
+
+    5.3 Risk of Bleeding
+
+
+
+  SAVAYSA increases the risk of bleeding and can cause serious and potentially fatal bleeding. Promptly evaluate any signs or symptoms of blood loss.
+
+
+
+ Discontinue SAVAYSA in patients with active pathological bleeding.
+
+
+
+ Concomitant use of drugs affecting hemostasis may increase the risk of bleeding. These include aspirin and other antiplatelet agents, other antithrombotic agents, fibrinolytic therapy, and chronic use of nonsteroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (  7.1  )]  .
+
+
+
+ There is no established way to reverse the anticoagulant effects of SAVAYSA, which can be expected to persist for approximately 24 hours after the last dose. The anticoagulant effect of SAVAYSA cannot be reliably monitored with standard laboratory testing. A specific reversal agent for edoxaban is not available. Hemodialysis does not significantly contribute to edoxaban clearance [see Clinical Pharmacology (  12.3  )]  . Protamine sulfate, vitamin K, and tranexamic acid are not expected to reverse the anticoagulant activity of SAVAYSA.
+
+
+
+    5.4 Spinal/Epidural Anesthesia or Puncture
+
+
+
+  When neuraxial anesthesia (spinal/epidural anesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma, which can result in long-term or permanent paralysis.
+
+
+
+ The risk of these events may be increased by the postoperative use of indwelling epidural catheters or the concomitant use of medicinal products affecting hemostasis. Indwelling epidural or intrathecal catheters should not be removed earlier than 12 hours after the last administration of SAVAYSA. The next dose of SAVAYSA should not be administered earlier than 2 hours after the removal of the catheter. The risk may also be increased by traumatic or repeated epidural or spinal puncture.
+
+
+
+ Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel, or bladder dysfunction). If neurological compromise is noted, urgent diagnosis and treatment is necessary. Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
+
+
+
+    5.5 Patients with Mechanical Heart Valves or Moderate to Severe Mitral Stenosis
+
+
+
+  The safety and efficacy of SAVAYSA has not been studied in patients with mechanical heart valves or moderate to severe mitral stenosis. The use of SAVAYSA is not recommended in these patients [see Clinical Studies (  14.1  )]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

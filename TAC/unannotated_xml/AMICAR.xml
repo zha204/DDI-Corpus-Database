@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="amicar" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  AMICAR is generally well tolerated. The following adverse experiences have been reported:
+
+
+
+   General:  Edema, headache, malaise.
+
+
+
+   Hypersensitivity Reactions:  Allergic and anaphylactoid reactions, anaphylaxis.
+
+
+
+   Cardiovascular:  Bradycardia, hypotension, peripheral ischemia, thrombosis.
+
+
+
+   Gastrointestinal:  Abdominal pain, diarrhea, nausea, vomiting.
+
+
+
+   Hematologic:  Agranulocytosis, coagulation disorder, leukopenia, thrombocytopenia.
+
+
+
+   Musculoskeletal:  CPK increased, muscle weakness, myalgia, myopathy (see    WARNINGS    ), myositis, rhabdomyolysis.
+
+
+
+   Neurologic:  Confusion, convulsions, delirium, dizziness, hallucinations, intracranial hypertension, stroke, syncope.
+
+
+
+   Respiratory:  Dyspnea, nasal congestion, pulmonary embolism.
+
+
+
+   Skin:  Pruritis, rash.
+
+
+
+   Special Senses:  Tinnitus, vision decreased, watery eyes.
+
+
+
+   Urogenital:  BUN increased, renal failure. There have been some reports of dry ejaculation during the period of AMICAR treatment. These have been reported to date only in hemophilia patients who received the drug after undergoing dental surgical procedures. However, this symptom resolved in all patients within 24 to 48 hours of completion of therapy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

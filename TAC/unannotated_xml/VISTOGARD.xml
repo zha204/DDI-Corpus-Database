@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vistogard" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Adverse reactions occurring in &gt;2% of patients receiving VISTOGARD included vomiting, nausea, and diarrhea. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Wellstat Therapeutics Corporation at (1-800-914-0071) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions and using a wide range of doses, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of VISTOGARD was assessed in 135 patients (median age 59 years, 56% male) treated in 2 single-arm, open-label, multi-center trials. VISTOGARD was administered at 10 grams orally every 6 hours for 20 doses or at a body surface area adjusted dosage of 6.2 grams/m  2  /dose for 20 doses in four patients between 1 and 7 years of age. The median duration of exposure was 4.8 days, with a median of 20 doses (range 1 to 23). VISTOGARD was discontinued for adverse reactions in two (1.4%) patients. Serious adverse reactions and Grade &gt;=3 adverse reactions were seen in one patient receiving VISTOGARD (Grade 3 nausea and vomiting). Table 2 summarizes the adverse reactions that occurred in greater than 2% of patients in Studies 1 and 2 combined.
+
+
+
+ Table 2 Adverse Reactions in &gt; 2% of Patients Receiving VISTOGARD in Studies 1 and 2 
+                  Adverse Reaction                                     N=135 Patients                     
+  
+                      Vomiting                                            13 (10%)                        
+                       Nausea                                              7 (5%)                         
+                      Diarrhea                                             4 (3%)                         
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  None.
+
+
+
+   EXCERPT:   None. (  5  )
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

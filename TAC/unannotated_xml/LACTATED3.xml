@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lactated3" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Possible adverse effects arising from the irrigation of body cavities, tissues, or indwelling catheters and tubes are usually avoidable when proper procedures are followed. Displaced catheters or drainage tubes can lead to irrigation or infiltration of unintended structures or cavities. Excessive volume or pressure during irrigation of closed cavities may cause undue distension or disruption of tissues. Accidental contamination from careless technique may transmit infection.
+
+
+
+ Should any adverse reaction occur, discontinue the irrigant, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

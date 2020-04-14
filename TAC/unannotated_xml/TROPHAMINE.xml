@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="trophamine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  See     "WARNINGS"      and    "      Special Precautions for Central Venous Nutrition      ."    
+
+
+
+ Reactions reported in clinical studies as a result of infusion of the parenteral fluid were water weight gain, edema, increase in BUN, and mild acidosis.
+
+
+
+ Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.
+
+
+
+ Local reaction at the infusion site, consisting of a warm sensation, erythema, phlebitis and thrombosis, have been reported with peripheral amino acid infusions, especially if other substances are also administered through the same site.
+
+
+
+ If electrolyte supplementation is required during peripheral infusion, it is recommended that additives be administered throughout the day in order to avoid possible venous irritation. Irritating additive medications may require injection at another site and should not be added directly to the amino acid infusate.
+
+
+
+ Symptoms may result from an excess or deficit of one or more of the ions present in the solution; therefore, frequent monitoring of electrolyte levels is essential.
+
+
+
+ Phosphorus deficiency may lead to impaired tissue oxygenation and acute hemolytic anemia. Relative to calcium, excessive phosphorus intake can precipitate hypocalcemia with cramps, tetany and muscular hyperexcitability.
+
+
+
+ If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

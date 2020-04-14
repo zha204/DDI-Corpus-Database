@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="diclegis" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+    *  The following adverse reactions are discussed elsewhere in the labeling: 
+ *    Somnolence [  see Warnings and Precautions (5.1)  ]  
+ *    Falls or other accidents resulting from the effect of the combined use of DICLEGIS with CNS depressants including alcohol [  see Warnings and Precautions (5.1)  ]  
+      EXCERPT:   The most common adverse reaction with DICLEGIS (&gt;=5 percent and exceeding the rate in placebo) is somnolence. (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Duchesnay Inc. at 1-855-722-7734 or    medicalinfo@duchesnayusa.com    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The safety and efficacy of DICLEGIS were compared to placebo in a double-blind, randomized, multi-center trial in 261 women with nausea and vomiting of pregnancy. The mean gestational age at enrollment was 9.3 weeks, range 7 to 14 weeks gestation  [  see Clinical Studies (14)  ]  . Adverse reactions for DICLEGIS that occurred at an incidence &gt;=5 percent and exceeded the incidence for placebo are summarized in Table 1.
+
+
+
+   Table 1: Number (Percent) of Subjects with &gt;= 5 Percent Adverse Reactions in a 15-Day Placebo-Controlled Study of DICLEGIS (Only Those Adverse Reactions Occurring at an Incidence &gt;= 5 Percent and at a Higher Incidence with DICLEGIS than Placebo are Shown)  
+
+
+
+
+                                                  Diclegis  (N = 133)      Placebo  (n = 128)    
+  Somnolence                                      19 (14.3%)               15 (11.7%)           
+        6.2 Postmarketing Experience
+   The following adverse events, listed alphabetically, have been identified during post-approval use of the combination of 10 mg doxylamine succinate and 10 mg pyridoxine hydrochloride. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure  .  
+
+
+
+   Cardiac disorders  : dyspnea, palpitation, tachycardia
+
+
+
+   Ear and labyrinth disorders  : vertigo
+
+
+
+   Eye disorders  : vision blurred, visual disturbances
+
+
+
+   Gastrointestinal disorders  : abdominal distension, abdominal pain, constipation, diarrhea
+
+
+
+   General disorders and administration site conditions  : chest discomfort, fatigue, irritability, malaise
+
+
+
+   Immune system disorders  : hypersensitivity
+
+
+
+   Nervous system disorders  : dizziness, headache, migraines, paresthesia, psychomotor hyperactivity
+
+
+
+   Psychiatric disorders  : anxiety, disorientation, insomnia, nightmares
+
+
+
+   Renal and urinary disorders  : dysuria, urinary retention
+
+
+
+   Skin and subcutaneous tissue disorders  : hyperhidrosis, pruritus, rash, rash maculo-papular
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Activities requiring mental alertness: Avoid engaging in activities requiring complete mental alertness, such as driving or operating heavy machinery, while using DICLEGIS until cleared to do so by a healthcare provider (  5.1  ) 
+ *    Central nervous system (CNS) depressants: Concurrent use with alcohol or other CNS depressants is not recommended (  5.1  ) 
+ *    Anticholinergic actions: Use with caution in patients with asthma, increased intraocular pressure, narrow angle glaucoma, stenosing peptic ulcer, pyloroduodenal obstruction and urinary bladder-neck obstruction (  5.2  ) 
+    
+ 
+
+   5.1 Activities Requiring Mental Alertness
+
+
+
+  DICLEGIS may cause somnolence due to the anticholinergic properties of doxylamine succinate, an antihistamine. Women should avoid engaging in activities requiring complete mental alertness, such as driving or operating heavy machinery, while using DICLEGIS until cleared to do so by their healthcare provider.
+
+
+
+ DICLEGIS use is not recommended if a woman is concurrently using central nervous system (CNS) depressants including alcohol. The combination may result in severe drowsiness leading to falls or accidents [  see Drug Interactions (7.1)  ]  .
+
+
+
+    5.2 Concomitant Medical Conditions
+
+
+
+  DICLEGIS has anticholinergic properties and, therefore, should be used with caution in women with: asthma, increased intraocular pressure, narrow angle glaucoma, stenosing peptic ulcer, pyloroduodenal obstruction and urinary bladder-neck obstruction.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

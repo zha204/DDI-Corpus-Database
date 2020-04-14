@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="pentetate1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  In the U.S. Registry, a total of 646 individuals received at least one dose of either Ca-DTPA or Zn-DTPA. Of these, 632 received Ca-DTPA by one or more routes of administration. Three hundred and twenty-six individuals were dosed by inhalation, 293 by intravenous injection, and 60 by other or unknown routes of administration.
+
+
+
+ Of the individuals that received Ca-DTPA, 393/632 (62%) received one dose and 65 (10%) received two doses. The remaining 174 individuals received three or more doses. The largest number of Ca-DTPA doses to a single individual was 338 delivered over 6.5 years. Overall, the presence or absence of adverse events was recorded in 310/646 individuals. Of these 19 (6.1%) individuals reported at least one adverse event. The total number of recorded adverse events was 20. Of the 20 adverse events, 18 adverse events occurred after treatment with Ca-DTPA. Adverse events included headache, lightheadedness, chest pain, allergic reaction, dermatitis, metallic taste, nausea and diarrhea, and injection site reactions.
+
+
+
+ Cough and/or wheezing were experienced by 2 individuals receiving nebulized Ca-DTPA, one of whom had a history of asthma.
+
+
+
+ In literature reports, prolonged treatment with Ca-DTPA resulted in depletion of zinc, magnesium, manganese and possibly metalloproteinases.  [See  Warnings and Precautions (5.2)  ]  
+
+
+
+   EXCERPT:   There is limited experience with Ca-DTPA. Adverse events included headache, lightheadedness, chest pain, allergic reaction, dermatitis, metallic taste, nausea and diarrhea, and injection site reactions. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact the hameln Pharmacovigilance Department at +44 (0) 7706 210 133 or drugsafety@hameln.co.uk or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: ASTHMA EXACERBATION WITH NEBULIZATION and DEPLETION OF TRACE METALS DURING THERAPY
+
+    WARNING: ASTHMA EXACERBATION WITH NEBULIZATION and DEPLETION OF TRACE METALS DURING THERAPY  
+
+    *  Nebulized Ca-DTPA may be associated with asthma exacerbation. (5.1) 
+ *  Ca-DTPA is associated with depletion of trace metals such as zinc. The magnitude of depletion increases with split daily dosing, with increasing dose and with increased treatment duration. Only a single dose of Ca-DTPA is recommended. Use Zn-DTPA if additional chelation therapy is indicated. Monitor serum zinc levels, serum creatinine, BUN, electrolytes, urinalysis and blood cell counts during Ca-DTPA or Zn-DTPA therapy. (2.4, 5.2) 
+      EXCERPT:   WARNING: ASTHMA EXACERBATION WITH NEBULIZATION and DEPLETION OF TRACE METALS DURING THERAPY
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Nebulized Ca-DTPA may be associated with asthma exacerbation. (5.1) 
+ *  Ca-DTPA is associated with depletion of trace metals such as zinc. The magnitude of depletion increases with split daily dosing, with increasing dose and with increased treatment duration. Only a single dose of Ca-DTPA is recommended. Use Zn-DTPA if additional chelation therapy is indicated. Monitor serum zinc levels, serum creatinine, BUN, electrolytes, urinalysis and blood cell counts during Ca-DTPA or Zn-DTPA therapy. (2.4, 5.2) 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Nebulized Ca-DTPA may be associated with exacerbation of asthma. Monitor patients for signs and symptoms of asthma exacerbation when administering Ca-DTPA by the inhalation route. (  5.1  ) 
+ *  Ca-DTPA is associated with depletion of endogenous trace metals (e.g., zinc, magnesium, manganese). (  5.2  ) 
+ *  Take appropriate safety measures to minimize contamination of care-takers by contaminated body fluids. (  5.3  ) 
+ *  Use Ca-DTPA with caution in individuals with severe hemochromatosis. (  5.4  ) 
+    
+ 
+
+   5.1 Asthma Exacerbation
+
+
+
+  Nebulized Ca-DTPA is associated with asthma exacerbation. Monitor patients for signs and symptoms of asthma exacerbation when administering Ca-DTPA by the inhalation route. [See  Adverse Reactions (6)  ]  
+
+
+
+    5.2 Depletion of Body Trace Mineral Stores
+
+
+
+  Ca-DTPA is associated with depletion of endogenous trace metals (e.g., zinc, magnesium, manganese). The magnitude of depletion increases with split daily dosing, with increasing dose, and with increased treatment duration. [See  Clinical Pharmacology (12.3)  ]  Only a single initial dose of Ca-DTPA is recommended. Use Zn-DTPA if additional chelation therapy is indicated (See Zn-DTPA labeling). If Zn-DTPA is not available, chelation therapy may continue with Ca-DTPA but give mineral supplements containing zinc concomitantly, as appropriate.
+
+
+
+ Monitor serum zinc levels, electrolytes and blood cell counts during Ca-DTPA or Zn-DTPA therapy. Give mineral or vitamin plus mineral supplements that contain zinc as appropriate. [See  Dosage and Administration (2.4)  ]  
+
+
+
+    5.3 Risks to Care-takers
+
+
+
+  Radioactive metals are known to be excreted in the urine, feces, and breast milk. In individuals with recent internal contamination with plutonium, americium, or curium, Ca-DTPA treatment increases excretion of radioactivity in the urine. Take appropriate safety measures to minimize contamination of others. [See  Patient Counseling Information (17)  ]  
+
+
+
+    5.4 Risks for Patients with Hemochromatosis
+
+
+
+  Use of only a single Ca-DTPA dose is particularly important for patients with hemochromatosis. Deaths have been reported in patients with severe hemochromatosis who received Ca-DTPA for more than 1 day, by intramuscular injection. [See  Overdosage (10)  ]  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

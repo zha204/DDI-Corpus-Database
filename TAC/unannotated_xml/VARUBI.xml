@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="varubi" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt;= 5%) are:
+
+
+
+ *  Cisplatin Based Highly Emetogenic Chemotherapy: neutropenia and hiccups (   6.1   ) 
+ *  Moderately Emetogenic Chemotherapy and Combinations of Anthracycline and Cyclophosphamide: decreased appetite, neutropenia and dizziness (   6.1   ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Tesaro at 1-844-4-TESARO or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The safety of VARUBI was evaluated in approximately 2800 patients in 4 controlled clinical trials in patients receiving emetogenic cancer chemotherapy. VARUBI was given in combination with a 5-HT3 receptor antagonist and dexamethasone. On Day 1 of Cycle 1 of chemotherapy, 1567 patients were treated with VARUBI and 1198 of these patients continued into the optional multiple cycle extension for up to 6 cycles of chemotherapy. The median number of cycles administered 180 mg of VARUBI was four. VARUBI 180 mg was administered to 1294 patients.
+
+
+
+ In Cycle 1 adverse reactions were reported in approximately 7% of patients treated with VARUBI compared with approximately 6% of patients treated with control therapy. The most common adverse reactions reported with an incidence of &gt;=3% and greater than control are listed in  Table 2  and  Table 3  .
+
+
+
+ Table 2: Most Common Adverse Reactions in Patients Receiving Cisplatin-Based Highly Emetogenic Chemotherapy (Cycle 1)* 
+   *  all reactions occurring at &gt;= 3% in the VARUBI group and for which the rate for VARUBI exceeds the rate for control   
+  
+                              VARUBI Regimen(VARUBI, Dexamethasone, and 5-HT3Receptor Antagonist)N = 624      Control(Placebo, Dexamethasone, and5-HT3Receptor Antagonist)N = 627     
+ Neutropenia                9%                         8%                          
+ Hiccups                    5%                         4%                          
+ Abdominal Pain             3%                         2%                          
+     Table 3: Most Common Adverse Reactions in Patients Receiving Moderately Emetogenic Chemotherapy and Combinations of Anthracycline and Cyclophosphamide (Cycle 1)* 
+ *all reactions occurring at &gt;= 3% in the VARUBI group and for which the rate for VARUBI exceeds the rate for control.   
+  
+                              VARUBI Regimen(VARUBI, Dexamethasone, and 5-HT3Receptor Antagonist)N = 670      Control(Placebo, Dexamethasone, and5-HT3Receptor Antagonist)N = 674     
+ Decreased appetite         9%                         7%                          
+ Neutropenia                7%                         6%                          
+ Dizziness                  6%                         4%                          
+ Dyspepsia                  4%                         2%                          
+ Urinary tract infection    4%                         3%                          
+ Stomatitis                 4%                         2%                          
+ Anemia                     3%                         2%                          
+      Adverse reactions in the multiple-cycle extensions of highly and moderately emetogenic chemotherapy studies for up to 6 cycles of chemotherapy were generally similar to that observed in Cycle 1.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Interaction with CYP2D6 Substrates with a Narrow Therapeutic Index: The inhibitory effect of a single dose of VARUBI on CYP2D6 lasts at least 7 days and may last longer. Avoid use of pimozide; monitor for adverse reactions if concomitant use with other CYP2D6 substrates with a narrow therapeutic index cannot be avoided (   4    ,   5.1    ,   7.1    )
+
+
+
+ 
+
+
+
+   5.1 Interaction with CYP2D6 Substrates with a Narrow Therapeutic Index
+
+
+
+  The inhibitory effect of VARUBI on CYP2D6 lasts at least 7 days and may last longer after a single dose administration of VARUBI [see Contraindications (  4  ), Drug Interactions (  7  ), Clinical Pharmacology (  12.3  )]  . Avoid use of VARUBI in patients who are receiving pimozide, a CYP2D6 substrate. An increase in plasma concentrations of pimozide may result in QT prolongation. Monitor for adverse reactions if concomitant use of VARUBI and other CYP2D6 substrates with a narrow therapeutic index cannot be avoided.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

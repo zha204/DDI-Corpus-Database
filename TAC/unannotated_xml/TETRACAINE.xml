@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tetracaine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious ocular adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Corneal injury with Intracameral Use [See  Warnings and Precautions (5.1)  ]  
+ *  Corneal Toxicity [See  Warnings and Precautions (5.2)  ]  
+ *  Corneal Injury due to Insensitivity [  See Warnings and Precautions (5.3)  ]  
+    The following adverse reactions have been identified following use of Tetracaine Hydrochloride Ophthalmic Solution 0.5%.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+ 
+
+   Ocular Adverse Reactions  Transient stinging, burning, and conjunctival redness, eye irritation, eye pain, ocular discomfort.
+
+
+
+   EXCERPT:   Ocular adverse events: stinging, burning, conjunctival redness (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc., at 1-800-757-9195 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.   
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:    *  Do not use intracamerally since use may damage corneal endothelial cells (  5.1  ) 
+ *  Prolonged use or abuse may lead to corneal epithelial toxicity and may manifest as epithelial defects which may progress to permanent corneal damage. (  5.2  ) 
+ *  Patients should not touch the eye for at least 10-20 minutes after using anesthetic as accidental injuries can occur due to insensitivity of the eye. (  5.3  ) 
+    
+ 
+
+   5.1 Corneal injury with Intracameral Use
+
+
+
+  Not for injection or intraocular use. Do not use intracamerally because use of Tetracaine   Hydrochloride Ophthalmic Solution 0.5% may lead to damage of the corneal endothelial cells.
+
+
+
+    5.2 Corneal Toxicity
+
+
+
+  Prolonged use or abuse may lead to corneal epithelial toxicity and may manifest as epithelial defects which may progress to permanent corneal damage.
+
+
+
+    5.3 Corneal Injury due to Insensitivity
+
+
+
+  Patients should not touch the eye for at least 10-20 minutes after using anesthetic as accidental injuries can occur due to insensitivity of the eye.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="gleostine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Hematologic Toxicity
+
+  The most frequent and most serious toxicity of Gleostine is delayed myelosuppression. It usually occurs 4 to 6 weeks after drug administration and is dose related. Thrombocytopenia occurs at about 4 weeks postadministration and persists for 1 to 2 weeks. Leukopenia occurs at 5 to 6 weeks after a dose of Gleostine and persists for 1 to 2 weeks. Approximately 65% of patients receiving 130 mg/m  2  develop white blood counts below 5000 wbc/mm  3  . Thirty-six percent developed white blood counts below 3000 wbc/mm  3  . Thrombocytopenia is generally more severe than leukopenia. However, both may be dose-limiting toxicities.
+
+
+
+   Gleostine may produce cumulative myelosuppression, manifested by more depressed indices or longer duration of suppression after repeated doses.  
+
+
+
+   The occurrence of acute leukemia and bone marrow dysplasias have been reported in patients following long-term nitrosourea therapy.  
+
+
+
+   Anemia also occurs, but is less frequent and less severe than thrombocytopenia or leukopenia.  
+
+
+
+   Pulmonary Toxicity
+
+  Pulmonary toxicity characterized by pulmonary infiltrates and/or fibrosis has been reported rarely with Gleostine. Onset of toxicity has occurred after an interval of 6 months or longer from the start of therapy with cumulative doses of Gleostine usually greater than 1100 mg/m  2  . There is 1 report of pulmonary toxicity at a cumulative dose of only 600 mg.
+
+
+
+ Delayed onset pulmonary fibrosis occurring up to 17 years after treatment has been reported in patients who received related nitrosoureas in childhood and early adolescence (1-16 years) combined with cranial radiotherapy for intracranial tumors. There appeared to be some late reduction of pulmonary function of all long-term survivors. This form of lung fibrosis may be slowly progressive and has resulted in death in some cases. In this long-term study of carmustine, all those initially treated at less than 5 years of age died of delayed pulmonary fibrosis.
+
+
+
+   Gastrointestinal Toxicity
+
+  Nausea and vomiting may occur 3 to 6 hours after an oral dose and usually last less than 24 hours. Prior administration of antiemetics is effective in diminishing and sometimes preventing this side effect. Nausea and vomiting can also be reduced if Gleostine is administered to fasting patients.
+
+
+
+   Hepatotoxicity
+
+  A reversible type of hepatic toxicity, manifested by increased transaminase, alkaline phosphatase, and bilirubin levels, has been reported in a small percentage of patients receiving Gleostine.
+
+
+
+   Nephrotoxicity
+
+  Renal abnormalities consisting of progressive azotemia, decrease in kidney size, and renal failure have been reported in patients who received large cumulative doses after prolonged therapy with Gleostine. Kidney damage has also been reported occasionally in patients receiving lower total doses.
+
+
+
+   Other Toxicities
+
+  Stomatitis, alopecia, optic atrophy, and visual disturbances, such as blindness, have been reported infrequently.
+
+
+
+ Neurological reactions, such as disorientation, lethargy, ataxia, and dysarthria have been noted in some patients receiving Gleostine. However, the relationship to medication in these patients is unclear.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+
+
+  WARNINGS
+
+
+
+  Gleostine (lomustine) should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents.
+
+
+
+
+
+ Bone marrow suppression, notably thrombocytopenia and leukopenia, which may contribute to bleeding and overwhelming infections in an already compromised patient, is the most common and severe of the toxic effects of Gleostine (see     WARNINGS     and     ADVERSE REACTIONS    ).
+
+
+
+
+
+ Since the major toxicity is delayed bone marrow suppression, blood counts should be monitored weekly for at least 6 weeks after a dose (see     ADVERSE REACTIONS    ). At the recommended dosage, courses of Gleostine should not be given more frequently than every 6 weeks.
+
+
+
+
+
+ The bone marrow toxicity of Gleostine is cumulative and therefore dosage adjustment must be considered on the basis of nadir blood counts from prior dose (see dosage adjustment table under     DOSAGE AND ADMINISTRATION    ).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

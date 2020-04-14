@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="uvadex" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Side effects of photopheresis (UVADEX    (r)    used with the THERAKOS    (r)    Photopheresis System) were primarily related to hypotension secondary to changes in extracorporeal volume (&gt;1%). In study CTCL 3 (UVADEX    (r)    ), six serious cardiovascular adverse experiences were reported in five patients (5/51, 10%). Five of these six events were not related to photopheresis and did not interfere with the scheduled photopheresis treatments. One patient (1/51, 2%) with ischemic heart disease had an arrhythmia after the first day of photopheresis that was resolved the next day. Six infections were also reported in five patients. Two of the six events were Hickman catheter infections in one patient, which did not interrupt the scheduled photopheresis. The other four infections were not related to photopheresis and did not interfere with scheduled treatments.
+
+
+
+   POSTMARKETING
+
+  An analysis of postmarketing data shows the following events occurred with an incidence of &lt;0.01%: rash, allergic reaction, pyrexia, nausea, dysgeusia.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  UVADEX    (r)     (methoxsalen) Sterile Solution should be used only by physicians who have special competence in the diagnosis and treatment of cutaneous T-cell lymphoma and who have special training and experience in the THERAKOS  (r)   UVAR XTS    (r)     or THERAKOS    (r)     CELLEX    (r)     Photopheresis System. Please consult the appropriate Operator's Manual before using this product.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

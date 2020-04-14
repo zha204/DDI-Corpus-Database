@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="afstyla" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reactions (&gt;0.5% of subjects) reported in clinical trials were dizziness and hypersensitivity.
+
+
+
+    EXCERPT:    *  The most common adverse reactions reported in clinical trials (&gt;0.5% of subjects) were dizziness and hypersensitivity. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact the CSL Behring Pharmacovigilance Department at 1-866-915-6958 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of one drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety, efficacy and pharmacokinetics of AFSTYLA have been evaluated in 258 previously treated patients (PTPs) with severe hemophilia A (&lt;1% endogenous Factor VIII activity) who received at least one dose of AFSTYLA as part of either routine prophylaxis, on-demand treatment of bleeding episodes or perioperative management in two completed clinical trials (an adult/adolescent study [&gt;=12 to 65 years of age] and a pediatric study [&lt;12 years of age]), and an ongoing extension study (0 to &lt;=65 years of age). Patients with a history of, or current FVIII inhibitors, or any first order family history of FVIII inhibitors, patients with known hypersensitivity (allergic reaction or anaphylaxis) to any FVIII product or hamster protein, and patients with evidence of thrombosis, including deep vein thrombosis, stroke, pulmonary embolism, myocardial infarction and arterial embolus within 3 months prior to Day 1 of the study were excluded from study participation.
+
+
+
+ Eighty-four (32.6%) subjects were children &lt;12 years of age (35 [13.6%] 0 to &lt;6 years and 49 [19.0%] &gt;=6 to &lt;12 years), 14 (5.4%) were adolescents (&gt;=12 to &lt;18 years), and 160 (62.0%) were adults (&gt;=18 to &lt;=65 years). There have been a total of 28,418 exposure days (EDs), with at least 28,492 injections of AFSTYLA administered. In the completed studies, a total of 185 subjects achieved at least 50 EDs, of whom 60 subjects achieved &gt;=100 EDs.
+
+
+
+ Adverse reactions (ARs) (summarized in Table 4) were reported for 14 of 258 (5.4%) subjects in all studies. An adverse reaction of hypersensitivity resulted in the withdrawal of one subject. No subject developed neutralizing antibodies (inhibitors) to Factor VIII or antibodies to host cell proteins. No events of anaphylaxis or thrombosis were reported.
+
+
+
+ Table 4. Adverse Reactions Reported for AFSTYLA (N=258) 
+ MedDRA System Organ Class                 Adverse Reactions                  Number of Subjectsn (%)       
+  
+   Immune system disorders                 Hypersensitivity                           4 (1.6)               
+   Nervous system disorders                Dizziness                                  2 (0.8)               
+                                           Paresthesia                                1 (0.4)               
+   Skin and subcutaneous tissue disorders    Rash                                       1 (0.4)               
+ Erythema                                  1.(0.4)                          
+                                           Pruritus                                   1 (0.4)               
+   General disorders and administration site conditions    Pyrexia                                    1 (0.4)               
+ Injection-site pain                       1 (0.4)                          
+                                           Chills                                     1 (0.4)               
+                                           Feeling hot                                1 (0.4)               
+           6.2 Immunogenicity
+   All subjects were monitored for inhibitory and binding antibodies to AFSTYLA, and binding antibodies to chinese hamster ovary (CHO) host cell proteins prior to the first infusion of AFSTYLA, at defined intervals during the studies and at the end of study visit.
+
+
+
+ No subjects developed neutralizing antibodies (inhibitors) to Factor VIII or antibodies against CHO host cell proteins at any time during the clinical studies. Four subjects in the adult/adolescent study and 10 subjects in the pediatric study were negative for non-neutralizing anti-drug antibodies (ADAs) at screening and turned positive during the clinical study. Two of the adult/adolescent subjects and 3 of the pediatric subjects who developed ADAs were negative at end of study visit. No adverse events were associated with the development of ADAs. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, it may be misleading to compare the incidence of antibodies to AFSTYLA with the incidence of antibodies to other products.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions, including anaphylaxis, are possible. Should symptoms occur, immediately discontinue AFSTYLA and administer appropriate treatment. (  5.1  ) 
+ *  Development of Factor VIII neutralizing antibodies (inhibitors) can occur. If expected plasma Factor VIII activity levels are not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures Factor VIII inhibitor concentration. (  5.2  ) 
+ *  If the one-stage clotting assay is used, multiply the result by a conversion factor of 2 to determine the patient's Factor VIII activity level. (  5.3  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Allergic-type hypersensitivity reactions, including anaphylaxis, are possible with AFSTYLA. Inform patients of the early signs of hypersensitivity reactions that may progress to anaphylaxis (including hives, generalized urticaria, tightness of the chest, wheezing, hypotension and pruritus). Immediately discontinue administration and initiate appropriate treatment if hypersensitivity reactions occur.
+
+
+
+ For patients with previous hypersensitivity reactions, consider premedication with antihistamines.
+
+
+
+    5.2 Neutralizing Antibodies
+
+
+
+  Formation of neutralizing antibodies (inhibitors) to Factor VIII can occur following administration of Factor VIII products. Monitor patients for the development of neutralizing antibodies (inhibitors) by appropriate clinical observations and laboratory tests. If expected plasma Factor VIII activity levels are not attained, or if bleeding is not controlled after AFSTYLA administration, the presence of an inhibitor (neutralizing antibody) should be suspected [see  Warnings and Precautions (5.3)  ]  .
+
+
+
+ Contact a specialized hemophilia treatment center if a patient develops an inhibitor.
+
+
+
+    5.3 Monitoring Laboratory Tests
+
+
+
+    *  Monitor plasma Factor VIII activity in patients receiving AFSTYLA using either the chromogenic assay or the one-stage clotting assay, which is routinely used in US clinical laboratories. The chromogenic assay result most accurately reflects the clinical hemostatic potential of AFSTYLA and is preferred. The one-stage clotting assay result underestimates the Factor VIII activity level compared to the chromogenic assay result by approximately one-half. If the one-stage clotting assay is used, multiply the result by a conversion factor of 2 to determine the patient's Factor VIII activity level. Incorrect interpretation of the Factor VIII activity obtained by the one-stage clotting assay could lead to unnecessary additional dosing, higher chronic dosing, or investigations for an inhibitor. 
+ *  Monitor for the development of Factor VIII inhibitors. Perform a Bethesda inhibitor assay if expected plasma Factor VIII activity levels are not attained or if bleeding is not controlled with the expected dose of AFSTYLA. Use Bethesda Units (BU) to report inhibitor levels. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

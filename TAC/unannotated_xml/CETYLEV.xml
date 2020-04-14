@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cetylev" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are described, or described in greater detail, in other sections of the labeling:
+
+
+
+ *  Hypersensitivity Reactions [see  Warnings and Precautions (5.1)  ]  
+ *  Risk for Upper Gastrointestinal Hemorrhage [see  Warnings and Precautions (5.2)  ]  
+    The most common adverse reactions have been identified from clinical studies or postmarketing reports of acetylcysteine. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+ 
+
+ The most common adverse reactions were nausea, vomiting, other gastrointestinal symptoms, and rash with or without fever.
+
+
+
+   EXCERPT:   Most common adverse reactions are nausea and vomiting, other gastrointestinal symptoms, and rash with or without fever. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Arbor Pharmaceuticals LLC at 1- 866-516-4950 or FDA at 1-800-FDA-1088 or      www.fda.gov/medwatch.    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hypersensitivity Reactions, Including Urticaria : Discontinue CETYLEV unless deemed essential to patient management and the reactions can be otherwise controlled (  5.1  ) 
+ *   Risk of Upper Gastrointestinal Hemorrhage : Consider the risk/benefit for patients at risk of hemorrhage (e.g., those with esophageal varices, peptic ulcers, etc.) versus the risk of developing hepatic toxicity, and treat with CETYLEV accordingly.(  5.2  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions, including generalized urticaria have been observed in patients receiving oral acetylcysteine for acetaminophen overdose. If hypersensitivity reactions occur, CETYLEV should be discontinued unless it is deemed essential for patient management and the reactions can be otherwise controlled.
+
+
+
+    5.2 Risk of Upper Gastrointestinal Hemorrhage
+
+
+
+  Occasionally severe and persistent vomiting occurs as a symptom of acute acetaminophen overdose. Treatment with CETYLEV may aggravate the vomiting and increase the risk of upper gastrointestinal hemorrhage in at risk patients (e.g., those with esophageal varices, peptic ulcers, etc.). Consider the risk/benefit for patients at risk of hemorrhage versus the risk of developing hepatic toxicity, and treat with CETYLEV as needed.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

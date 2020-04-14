@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="desoxyn" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following are adverse reactions in decreasing order of severity within each category that have been reported:
+
+
+
+   Cardiovascular:  Elevation of blood pressure, tachycardia and palpitation. Fatal cardiorespiratory arrest has been reported, mostly in the context of abuse/misuse.
+
+
+
+   Central Nervous System:  Psychotic episodes have been rarely reported at recommended doses. Dizziness, dysphoria, overstimulation, euphoria, insomnia, tremor, restlessness and headache. Exacerbation of motor and phonic tics and Tourette's syndrome.
+
+
+
+   Gastrointestinal:  Diarrhea, constipation, dryness of mouth, unpleasant taste and other gastrointestinal disturbances.
+
+
+
+   Hypersensitivity:  Urticaria.
+
+
+
+   Endocrine:  Impotence and changes in libido; frequent or prolonged erections.
+
+
+
+   Musculoskeletal:  Rhabdomyolysis.
+
+
+
+   Miscellaneous:  Suppression of growth has been reported with the long-term use of stimulants in children (see      WARNINGS      ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Recordati Rare Diseases Inc. at 1-888-575-8344 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  METHAMPHETAMINE HAS A HIGH POTENTIAL FOR ABUSE. IT SHOULD THUS BE TRIED ONLY IN WEIGHT REDUCTION PROGRAMS FOR PATIENTS IN WHOM ALTERNATIVE THERAPY HAS BEEN INEFFECTIVE. ADMINISTRATION OF METHAMPHETAMINE FOR PROLONGED PERIODS OF TIME IN OBESITY MAY LEAD TO DRUG DEPENDENCE AND MUST BE AVOIDED. PARTICULAR ATTENTION SHOULD BE PAID TO THE POSSIBILITY OF SUBJECTS OBTAINING METHAMPHETAMINE FOR NON-THERAPEUTIC USE OR DISTRIBUTION TO OTHERS, AND THE DRUG SHOULD BE PRESCRIBED OR DISPENSED SPARINGLY. MISUSE OF METHAMPHETAMINE MAY CAUSE SUDDEN DEATH AND SERIOUS CARDIOVASCULAR ADVERSE EVENTS.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

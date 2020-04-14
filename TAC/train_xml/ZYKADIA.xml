@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="zykadia" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6     ADVERSE REACTIONS  
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  Severe or Persistent Gastrointestinal Toxicity [see Warnings and Precautions (5.1)]  
+ *  Hepatotoxicity [see Warnings and Precautions (5.2)]  
+ *  Interstitial Lung Disease/Pneumonitis [see Warnings and Precautions (5.3)]  
+ *  QT Interval Prolongation [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.2)]  
+ *  Hyperglycemia [see Warnings and Precautions (5.5)]  
+ *  Bradycardia [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.2)]  
+ *  Pancreatitis [see Warnings and Precautions (5.7)]  
+      EXCERPT:   The most common adverse reactions (incidence of at least 25%) are diarrhea, nausea, elevated transaminases, vomiting, abdominal pain, fatigue, decreased appetite, and constipation. (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1     Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety evaluation of ZYKADIA is based on 255 ALK-positive patients in Study 1 (246 patients with NSCLC and 9 patients with other cancers who received ZYKADIA at a dose of 750 mg daily). The median duration of exposure to ZYKADIA was 6 months. The study population characteristics were: median age 53 years, age less than 65 (84%), female (53%), Caucasian (63%), Asian (34%), NSCLC adenocarcinoma histology (90%), never or former smoker (97%), ECOG PS 0 or 1 (89%), brain metastasis (49%), and number of prior therapies 2 or more (67%).
+
+
+
+ Dose reductions due to adverse reactions occurred in 59% of patients treated with ZYKADIA. The most frequent adverse reactions, reported in at least 10% of patients, that led to dose reductions or interruptions were: increased ALT (29%), nausea (20%), increased AST (16%), diarrhea (16%), and vomiting (16%). Serious adverse drug reactions reported in 2% or more of patients in Study 1 were convulsion, pneumonia, ILD/pneumonitis, dyspnea, dehydration, hyperglycemia, and nausea. Fatal adverse reactions in patients treated with ZYKADIA occurred in 5% of patients, consisting of: pneumonia (4 patients), respiratory failure, ILD/pneumonitis, pneumothorax, gastric hemorrhage, general physical health deterioration, pulmonary tuberculosis, cardiac tamponade, and sepsis (1 patient each). Discontinuation of therapy due to adverse reactions occurred in 10% of patients treated with ZYKADIA. The most frequent adverse drug reactions that led to discontinuation in 1% or more of patients in Study 1 were pneumonia, ILD/pneumonitis, and decreased appetite.
+
+
+
+ Tables 2 and 3 summarize the common adverse reactions and laboratory abnormalities observed in ZYKADIA-treated patients.
+
+
+
+ Table 2: Adverse Reactions (&gt;10% for All NCI CTCAE* Grades or &gt;=2% for Grades 3-4) in ALK-Positive Patients Treated with ZYKADIA in Study 1 
+ *National Cancer Institute Common Terminology Criteria for Adverse Events (version 4.03)  a  Abdominal pain (abdominal pain, upper abdominal pain, abdominal discomfort, epigastric discomfort)  b  Esophageal disorder (dyspepsia, gastroesophageal reflux disease, dysphagia)  c  Fatigue (fatigue, asthenia)  d  Rash (rash, maculopapular rash, acneiform dermatitis)   
+  
+                    ZYKADIAN=255     
+                    All Grades       Grade 3-4       
+                    %                %               
+   Gastrointestinal disorders                                       
+     Diarrhea     86               6                 
+     Nausea       80               4                 
+     Vomiting     60               4                 
+     Abdominal pain  a    54               2                 
+     Constipation  29               0                 
+     Esophageal disorder  b    16               1                 
+   General disorders and administration site conditions                                       
+     Fatigue  c    52               5                 
+   Metabolism and nutrition disorders                                       
+     Decreased appetite  34               1                 
+   Skin and subcutaneous tissue disorders                                       
+     Rash  d      16               0                 
+   Respiratory, thoracic and mediastinal disorders                                       
+     Interstitial lung disease/pneumonitis  4                3                 
+         Additional clinically significant adverse reactions occurring in 2% or more of patients treated with ZYKADIA included neuropathy (17%; comprised of paresthesia, muscular weakness, gait disturbance, peripheral neuropathy, hypoesthesia, peripheral sensory neuropathy, dysesthesia, neuralgia, peripheral motor neuropathy, hypotonia, or polyneuropathy), vision disorder (9%; comprised of vision impairment, blurred vision, photopsia, accommodation disorder, presbyopia, or reduced visual acuity), prolonged QT interval (4%), and bradycardia (3%).
+ 
+
+ Table 3: Key Laboratory Abnormalities Occurring in &gt;10% (All NCI CTCAE Grades) of ALK-Positive Patients Treated with ZYKADIA in Study 1 
+                    ZYKADIAN=255     
+                    All Grades       Grade 3-4       
+                    %                %               
+     Hemoglobin decreased  84               5                 
+     Alanine transaminase (ALT) increased  80               27                
+     Aspartate transaminase (AST) increased  75               13                
+     Creatinine increased  58               2                 
+     Glucose increased  49               13                
+     Phosphate decreased  36               7                 
+     Lipase increased  28               10                
+     Bilirubin (total) increased  15               1                 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5     WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Severe or Persistent Gastrointestinal Toxicity : Dose modification due to diarrhea, nausea, vomiting or abdominal pain occurred in 38% of patients. Withhold if not responsive to anti-emetics or anti-diarrheals, then dose reduce ZYKADIA. (  2.2  ,  5.1  ) 
+ *   Hepatotoxicity : ZYKADIA can cause hepatotoxicity. Monitor liver laboratory tests at least monthly. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.2  ,  5.2  ) 
+ *   Interstitial Lung Disease (ILD)/Pneumonitis : Occurred in 4% of patients. Permanently discontinue ZYKADIA in patients diagnosed with treatment-related ILD/pneumonitis. (  2.2  ,  5.3  ) 
+ *   QT Interval Prolongation : ZYKADIA can cause QTc interval prolongation. Monitor electrocardiograms and electrolytes in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or those who are taking medications that are known to prolong the QTc interval. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.2  ,  5.4  ) 
+ *   Hyperglycemia : ZYKADIA can cause hyperglycemia. Monitor fasting glucose prior to treatment and periodically thereafter as clinically indicated. Initiate or optimize anti-hyperglycemic medications as indicated. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.2  ,  5.5  ) 
+ *   Bradycardia : ZYKADIA can cause bradycardia. Monitor heart rate and blood pressure regularly. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.2  ,  5.6  ) 
+ *   Pancreatitis : Elevations of lipase and/or amylase and pancreatitis can occur. Monitor lipase and amylase prior to treatment and periodically thereafter as clinically indicated. (  2.2  ,  5.7  ) 
+ *   Embryofetal Toxicity : ZYKADIA may cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus. (  5.8  ,  8.1  ,  8.7  ) 
+    
+ 
+
+   5.1     Severe or Persistent Gastrointestinal Toxicity
+
+
+
+  Diarrhea, nausea, vomiting, or abdominal pain occurred in 96% of 255 patients including severe cases in 14% of patients treated with ZYKADIA in Study 1. Dose modification due to diarrhea, nausea, vomiting, or abdominal pain occurred in 38% of patients.
+
+
+
+ Monitor and manage patients using standards of care, including anti-diarrheals, anti-emetics, or fluid replacement, as indicated. Based on the severity of the adverse drug reaction, withhold ZYKADIA with resumption at a reduced dose as described in Table 1 [see Dosage and Administration (2.2) and Adverse Reactions (6)]  .
+
+
+
+    5.2     Hepatotoxicity
+
+
+
+   Drug-induced hepatotoxicity occurred in patients treated with ZYKADIA. Elevations in alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (ULN) occurred in 27% of 255 patients in Study 1. One patient (0.4%) required permanent discontinuation due to elevated transaminases, and jaundice. Concurrent elevations in ALT greater than 3 times the ULN and total bilirubin greater than 2 times the ULN, with normal alkaline phosphatase, occurred in less than 1% of patients in clinical studies.  
+
+
+
+ Monitor with liver laboratory tests including ALT, aspartate aminotransferase (AST), and total bilirubin once a month and as clinically indicated, with more frequent testing in patients who develop transaminase elevations. Based on the severity of the adverse drug reaction, withhold ZYKADIA with resumption at a reduced dose, or permanently discontinue ZYKADIA as described in Table 1 [see Dosage and Administration (2.2) and Adverse Reactions (6)]  .
+
+
+
+    5.3     Interstitial Lung Disease (ILD)/Pneumonitis
+
+
+
+  Severe, life-threatening, or fatal ILD/pneumonitis can occur in patients treated with ZYKADIA. In Study 1, pneumonitis was reported in 4% of 255 patients treated with ZYKADIA. CTCAE Grade 3 or 4 ILD/pneumonitis was reported in 3% of patients, and fatal ILD/pneumonitis was reported in 1 patient (0.4%) in Study 1. One percent (1%) of patients discontinued ZYKADIA in Study 1 due to ILD/pneumonitis.
+
+
+
+ Monitor patients for pulmonary symptoms indicative of ILD/pneumonitis. Exclude other potential causes of ILD/pneumonitis, and permanently discontinue ZYKADIA in patients diagnosed with treatment-related ILD/pneumonitis [see Dosage and Administration (2.2) and Adverse Reactions (6)]  .
+
+
+
+    5.4     QT Interval Prolongation
+
+
+
+   QTc interval prolongation, which may lead to an increased risk for ventricular tachyarrhythmias (e.g., Torsade de pointes) or sudden death, occurred in patients treated with ZYKADIA in clinical trials. Three percent (3%) of 255 patients experienced a QTc interval increase over baseline greater than 60 msec in Study 1. Across the development program of ZYKADIA, one of 304 patients (less than 1%) treated with ZYKADIA doses ranging from 50 to 750 mg was found to have a QTc greater than 500 msec and 3% of patients had an increase from baseline QTc greater than 60 msec. A pharmacokinetic analysis suggested that ZYKADIA causes concentration-dependent increases in the QTc interval.  
+
+
+
+ When possible, avoid use of ZYKADIA in patients with congenital long QT syndrome. Conduct periodic monitoring with electrocardiograms (ECGs) and electrolytes in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or those who are taking medications that are known to prolong the QTc interval. Withhold ZYKADIA in patients who develop a QTc interval greater than 500 msec on at least 2 separate ECGs until the QTc interval is less than 481 msec or recovery to baseline if the QTc interval is greater than or equal to 481 msec, then resume ZYKADIA at a reduced dose as described in Table 1. Permanently discontinue ZYKADIA in patients who develop QTc interval prolongation in combination with Torsade de pointes or polymorphic ventricular tachycardia or signs/symptoms of serious arrhythmia [see Dosage and Administration (2.2) and Clinical Pharmacology (12.2)]  .
+
+
+
+    5.5     Hyperglycemia
+
+
+
+  Hyperglycemia can occur in patients receiving ZYKADIA. In Study 1, CTCAE Grade 3-4 hyperglycemia, based on laboratory values, occurred in 13% of 255 patients. There was a 6-fold increase in the risk of CTCAE Grade 3-4 hyperglycemia in patients with diabetes or glucose intolerance and a 2-fold increase in patients taking corticosteroids.
+
+
+
+  Monitor fasting serum glucose prior to the start of ZYKADIA treatment and periodically thereafter as clinically indicated. Initiate or optimize anti-hyperglycemic medications as indicated. Based on the severity of the adverse drug reaction, withhold ZYKADIA until hyperglycemia is adequately controlled, then resume ZYKADIA at a reduced dose as described in Table 1. If adequate hyperglycemic control cannot be achieved with optimal medical management, permanently discontinue ZYKADIA [see Dosage and Administration (2.2) and Adverse Reactions (6)]  .  
+
+
+
+    5.6     Bradycardia
+
+
+
+  Bradycardia can occur in patients receiving ZYKADIA. In Study 1, sinus bradycardia, defined as a heart rate of less than 50 beats per minute, was noted as a new finding in 1% of 255 patients. Bradycardia was reported as an adverse drug reaction in 3% of patients in Study 1.
+
+
+
+ Avoid using ZYKADIA in combination with other agents known to cause bradycardia (e.g., beta-blockers, non-dihydropyridine calcium channel blockers, clonidine, and digoxin) to the extent possible. Monitor heart rate and blood pressure regularly. In cases of symptomatic bradycardia that is not life-threatening, withhold ZYKADIA until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, evaluate the use of concomitant medications, and adjust the dose of ZYKADIA. Permanently discontinue ZYKADIA for life-threatening bradycardia if no contributing concomitant medication is identified; however, if associated with a concomitant medication known to cause bradycardia or hypotension, withhold ZYKADIA until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, and if the concomitant medication can be adjusted or discontinued, resume ZYKADIA at a reduced dose as described in Table 1 upon recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, with frequent monitoring [see Dosage and Administration (2.2) and Adverse Reactions (6)]  .
+
+
+
+    5.7     Pancreatitis
+
+
+
+   Pancreatitis, including one fatality, has been reported in less than 1% of patients receiving ZYKADIA in clinical trials. CTCAE Grade 3-4 elevations of lipase and/or amylase occurred in 15% of patients receiving ZYKADIA in Study 1. Monitor lipase and amylase prior to the start of ZYKADIA treatment and periodically thereafter as clinically indicated. Based on the severity of the laboratory abnormalities, withhold ZYKADIA with resumption at a reduced dose as described in Table 1 [see Dosage and Administration (2.2) and Adverse Reactions (6)]  .  
+
+
+
+    5.8     Embryofetal Toxicity
+
+
+
+  Based on its mechanism of action, ZYKADIA may cause fetal harm when administered to a pregnant woman. In animal studies, administration of ceritinib to rats and rabbits during organogenesis at maternal plasma exposures below the recommended human dose of 750 mg daily caused increases in skeletal anomalies in rats and rabbits. Apprise women of reproductive potential of the potential hazard to a fetus [see Use in Specific Populations (8.1)]  . Advise females of reproductive potential to use effective contraception during treatment with ZYKADIA and for at least 2 weeks following completion of therapy [see Use in Specific Populations (8.7)]  .
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="Severity" start="141" len="6" str="Severe" />
+    <Mention id="M2" section="S1" type="Severity" start="151" len="10" str="Persistent" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="162" len="25" str="Gastrointestinal Toxicity" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="231" len="14" str="Hepatotoxicity" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="289" len="25" str="Interstitial Lung Disease" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="315" len="11" str="Pneumonitis" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="370" len="24" str="QT Interval Prolongation" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="471" len="13" str="Hyperglycemia" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="528" len="11" str="Bradycardia" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="616" len="12" str="Pancreatitis" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="751" len="8" str="diarrhea" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="761" len="6" str="nausea" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="769" len="22" str="elevated transaminases" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="793" len="8" str="vomiting" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="803" len="14" str="abdominal pain" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="819" len="7" str="fatigue" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="828" len="18" str="decreased appetite" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="852" len="12" str="constipation" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="2112" len="13" str="increased ALT" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2133" len="6" str="nausea" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2147" len="13" str="increased AST" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2168" len="8" str="diarrhea" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2188" len="8" str="vomiting" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2286" len="10" str="convulsion" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="2298" len="9" str="pneumonia" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="2309" len="3" str="ILD" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="2313" len="11" str="pneumonitis" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="2326" len="7" str="dyspnea" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="2335" len="11" str="dehydration" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="2348" len="13" str="hyperglycemia" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="2367" len="6" str="nausea" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="2375" len="5" str="Fatal" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="2475" len="9" str="pneumonia" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="2499" len="19" str="respiratory failure" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="2520" len="3" str="ILD" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="2524" len="11" str="pneumonitis" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="2537" len="12" str="pneumothorax" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="2551" len="18" str="gastric hemorrhage" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="2571" len="37" str="general physical health deterioration" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="2610" len="22" str="pulmonary tuberculosis" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="2634" len="17" str="cardiac tamponade" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="2657" len="6" str="sepsis" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="2895" len="9" str="pneumonia" />
+    <Mention id="M44" section="S1" type="AdverseReaction" start="2906" len="3" str="ILD" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="2910" len="11" str="pneumonitis" />
+    <Mention id="M46" section="S1" type="AdverseReaction" start="2927" len="18" str="decreased appetite" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="3311" len="14" str="Abdominal pain" />
+    <Mention id="M48" section="S1" type="AdverseReaction" start="3327" len="14" str="abdominal pain" />
+    <Mention id="M49" section="S1" type="AdverseReaction" start="3343" len="20" str="upper abdominal pain" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="3365" len="20" str="abdominal discomfort" />
+    <Mention id="M51" section="S1" type="AdverseReaction" start="3387" len="21" str="epigastric discomfort" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="3414" len="19" str="Esophageal disorder" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="3435" len="9" str="dyspepsia" />
+    <Mention id="M54" section="S1" type="AdverseReaction" start="3446" len="31" str="gastroesophageal reflux disease" />
+    <Mention id="M55" section="S1" type="AdverseReaction" start="3479" len="9" str="dysphagia" />
+    <Mention id="M56" section="S1" type="AdverseReaction" start="3494" len="7" str="Fatigue" />
+    <Mention id="M57" section="S1" type="AdverseReaction" start="3503" len="7" str="fatigue" />
+    <Mention id="M58" section="S1" type="AdverseReaction" start="3512" len="8" str="asthenia" />
+    <Mention id="M59" section="S1" type="AdverseReaction" start="3526" len="4" str="Rash" />
+    <Mention id="M60" section="S1" type="AdverseReaction" start="3532" len="4" str="rash" />
+    <Mention id="M61" section="S1" type="AdverseReaction" start="3538" len="18" str="maculopapular rash" />
+    <Mention id="M62" section="S1" type="AdverseReaction" start="3558" len="20" str="acneiform dermatitis" />
+    <Mention id="M63" section="S1" type="AdverseReaction" start="3806" len="8" str="Diarrhea" />
+    <Mention id="M64" section="S1" type="AdverseReaction" start="3860" len="6" str="Nausea" />
+    <Mention id="M65" section="S1" type="AdverseReaction" start="3914" len="8" str="Vomiting" />
+    <Mention id="M66" section="S1" type="AdverseReaction" start="3968" len="14" str="Abdominal pain" />
+    <Mention id="M67" section="S1" type="AdverseReaction" start="4030" len="12" str="Constipation" />
+    <Mention id="M68" section="S1" type="AdverseReaction" start="4085" len="19" str="Esophageal disorder" />
+    <Mention id="M69" section="S1" type="AdverseReaction" start="4247" len="7" str="Fatigue" />
+    <Mention id="M70" section="S1" type="AdverseReaction" start="4379" len="18" str="Decreased appetite" />
+    <Mention id="M71" section="S1" type="AdverseReaction" start="4521" len="4" str="Rash" />
+    <Mention id="M72" section="S1" type="AdverseReaction" start="4665" len="25" str="Interstitial lung disease" />
+    <Mention id="M73" section="S1" type="AdverseReaction" start="4691" len="11" str="pneumonitis" />
+    <Mention id="M74" section="S1" type="AdverseReaction" start="4867" len="10" str="neuropathy" />
+    <Mention id="M75" section="S1" type="AdverseReaction" start="4897" len="11" str="paresthesia" />
+    <Mention id="M76" section="S1" type="AdverseReaction" start="4910" len="17" str="muscular weakness" />
+    <Mention id="M77" section="S1" type="AdverseReaction" start="4929" len="16" str="gait disturbance" />
+    <Mention id="M78" section="S1" type="AdverseReaction" start="4947" len="21" str="peripheral neuropathy" />
+    <Mention id="M79" section="S1" type="AdverseReaction" start="4970" len="12" str="hypoesthesia" />
+    <Mention id="M80" section="S1" type="AdverseReaction" start="4984" len="29" str="peripheral sensory neuropathy" />
+    <Mention id="M81" section="S1" type="AdverseReaction" start="5015" len="11" str="dysesthesia" />
+    <Mention id="M82" section="S1" type="AdverseReaction" start="5028" len="9" str="neuralgia" />
+    <Mention id="M83" section="S1" type="AdverseReaction" start="5039" len="27" str="peripheral motor neuropathy" />
+    <Mention id="M84" section="S1" type="AdverseReaction" start="5068" len="9" str="hypotonia" />
+    <Mention id="M85" section="S1" type="AdverseReaction" start="5082" len="14" str="polyneuropathy" />
+    <Mention id="M86" section="S1" type="AdverseReaction" start="5099" len="15" str="vision disorder" />
+    <Mention id="M87" section="S1" type="AdverseReaction" start="5133" len="17" str="vision impairment" />
+    <Mention id="M88" section="S1" type="AdverseReaction" start="5152" len="14" str="blurred vision" />
+    <Mention id="M89" section="S1" type="AdverseReaction" start="5168" len="9" str="photopsia" />
+    <Mention id="M90" section="S1" type="AdverseReaction" start="5179" len="22" str="accommodation disorder" />
+    <Mention id="M91" section="S1" type="AdverseReaction" start="5203" len="10" str="presbyopia" />
+    <Mention id="M92" section="S1" type="AdverseReaction" start="5218" len="21" str="reduced visual acuity" />
+    <Mention id="M93" section="S1" type="AdverseReaction" start="5242" len="21" str="prolonged QT interval" />
+    <Mention id="M94" section="S1" type="AdverseReaction" start="5274" len="11" str="bradycardia" />
+    <Mention id="M95" section="S1" type="AdverseReaction" start="5584" len="20" str="Hemoglobin decreased" />
+    <Mention id="M96" section="S1" type="AdverseReaction" start="5647,5674" len="20,9" str="Alanine transaminase increased" />
+    <Mention id="M97" section="S1" type="AdverseReaction" start="5669,5674" len="3,9" str="ALT increased" />
+    <Mention id="M98" section="S1" type="AdverseReaction" start="5726,5755" len="22,9" str="Aspartate transaminase increased" />
+    <Mention id="M99" section="S1" type="AdverseReaction" start="5750,5755" len="3,9" str="AST increased" />
+    <Mention id="M100" section="S1" type="AdverseReaction" start="5807" len="20" str="Creatinine increased" />
+    <Mention id="M101" section="S1" type="AdverseReaction" start="5870" len="17" str="Glucose increased" />
+    <Mention id="M102" section="S1" type="AdverseReaction" start="5930" len="19" str="Phosphate decreased" />
+    <Mention id="M103" section="S1" type="AdverseReaction" start="5992" len="16" str="Lipase increased" />
+    <Mention id="M104" section="S1" type="AdverseReaction" start="6051,6062,6069" len="9,5,9" str="Bilirubin total increased" />
+    <Mention id="M105" section="S2" type="AdverseReaction" start="131" len="8" str="diarrhea" />
+    <Mention id="M106" section="S2" type="AdverseReaction" start="141" len="6" str="nausea" />
+    <Mention id="M107" section="S2" type="AdverseReaction" start="149" len="8" str="vomiting" />
+    <Mention id="M108" section="S2" type="AdverseReaction" start="161" len="14" str="abdominal pain" />
+    <Mention id="M109" section="S2" type="AdverseReaction" start="318" len="14" str="Hepatotoxicity" />
+    <Mention id="M110" section="S2" type="Factor" start="343" len="3" str="can" />
+    <Mention id="M111" section="S2" type="AdverseReaction" start="353" len="14" str="hepatotoxicity" />
+    <Mention id="M112" section="S2" type="AdverseReaction" start="505" len="25" str="Interstitial Lung Disease" />
+    <Mention id="M113" section="S2" type="AdverseReaction" start="532" len="3" str="ILD" />
+    <Mention id="M114" section="S2" type="AdverseReaction" start="537" len="11" str="Pneumonitis" />
+    <Mention id="M115" section="S2" type="AdverseReaction" start="697" len="24" str="QT Interval Prolongation" />
+    <Mention id="M116" section="S2" type="Factor" start="732" len="3" str="can" />
+    <Mention id="M117" section="S2" type="AdverseReaction" start="742" len="25" str="QTc interval prolongation" />
+    <Mention id="M118" section="S2" type="AdverseReaction" start="1068" len="13" str="Hyperglycemia" />
+    <Mention id="M119" section="S2" type="Factor" start="1092" len="3" str="can" />
+    <Mention id="M120" section="S2" type="AdverseReaction" start="1102" len="13" str="hyperglycemia" />
+    <Mention id="M121" section="S2" type="AdverseReaction" start="1366" len="11" str="Bradycardia" />
+    <Mention id="M122" section="S2" type="Factor" start="1388" len="3" str="can" />
+    <Mention id="M123" section="S2" type="AdverseReaction" start="1398" len="11" str="bradycardia" />
+    <Mention id="M124" section="S2" type="AdverseReaction" start="1547" len="12" str="Pancreatitis" />
+    <Mention id="M125" section="S2" type="AdverseReaction" start="1562" len="20" str="Elevations of lipase" />
+    <Mention id="M126" section="S2" type="AdverseReaction" start="1562,1590" len="13,7" str="Elevations of amylase" />
+    <Mention id="M127" section="S2" type="AdverseReaction" start="1602" len="12" str="pancreatitis" />
+    <Mention id="M128" section="S2" type="Factor" start="1615" len="3" str="can" />
+    <Mention id="M129" section="S2" type="AdverseReaction" start="1749" len="20" str="Embryofetal Toxicity" />
+    <Mention id="M130" section="S2" type="Factor" start="1780" len="3" str="may" />
+    <Mention id="M131" section="S2" type="AdverseReaction" start="1790" len="10" str="fetal harm" />
+    <Mention id="M132" section="S2" type="AdverseReaction" start="1975" len="8" str="Diarrhea" />
+    <Mention id="M133" section="S2" type="AdverseReaction" start="1975" len="8" str="Diarrhea" />
+    <Mention id="M134" section="S2" type="AdverseReaction" start="1985" len="6" str="nausea" />
+    <Mention id="M135" section="S2" type="AdverseReaction" start="1985" len="6" str="nausea" />
+    <Mention id="M136" section="S2" type="AdverseReaction" start="1993" len="8" str="vomiting" />
+    <Mention id="M137" section="S2" type="AdverseReaction" start="1993" len="8" str="vomiting" />
+    <Mention id="M138" section="S2" type="AdverseReaction" start="2006" len="14" str="abdominal pain" />
+    <Mention id="M139" section="S2" type="AdverseReaction" start="2006" len="14" str="abdominal pain" />
+    <Mention id="M140" section="S2" type="Severity" start="2063" len="6" str="severe" />
+    <Mention id="M141" section="S2" type="AdverseReaction" start="2153" len="8" str="diarrhea" />
+    <Mention id="M142" section="S2" type="AdverseReaction" start="2163" len="6" str="nausea" />
+    <Mention id="M143" section="S2" type="AdverseReaction" start="2171" len="8" str="vomiting" />
+    <Mention id="M144" section="S2" type="AdverseReaction" start="2184" len="14" str="abdominal pain" />
+    <Mention id="M145" section="S2" type="AdverseReaction" start="2605" len="14" str="hepatotoxicity" />
+    <Mention id="M146" section="S2" type="AdverseReaction" start="2663" len="38" str="Elevations in alanine aminotransferase" />
+    <Mention id="M147" section="S2" type="Severity" start="2721" len="33" str="5 times the upper limit of normal" />
+    <Mention id="M148" section="S2" type="AdverseReaction" start="2866" len="22" str="elevated transaminases" />
+    <Mention id="M149" section="S2" type="AdverseReaction" start="2894" len="8" str="jaundice" />
+    <Mention id="M150" section="S2" type="AdverseReaction" start="2915" len="17" str="elevations in ALT" />
+    <Mention id="M151" section="S2" type="Severity" start="2946" len="15" str="3 times the ULN" />
+    <Mention id="M152" section="S2" type="AdverseReaction" start="2966,2995" len="15,15" str="total bilirubin 2 times the ULN" />
+    <Mention id="M153" section="S2" type="Severity" start="3627" len="6" str="Severe" />
+    <Mention id="M154" section="S2" type="Severity" start="3635" len="16" str="life-threatening" />
+    <Mention id="M155" section="S2" type="AdverseReaction" start="3656" len="5" str="fatal" />
+    <Mention id="M156" section="S2" type="AdverseReaction" start="3662" len="3" str="ILD" />
+    <Mention id="M157" section="S2" type="AdverseReaction" start="3662" len="3" str="ILD" />
+    <Mention id="M158" section="S2" type="AdverseReaction" start="3666" len="11" str="pneumonitis" />
+    <Mention id="M159" section="S2" type="AdverseReaction" start="3666" len="11" str="pneumonitis" />
+    <Mention id="M160" section="S2" type="Factor" start="3678" len="3" str="can" />
+    <Mention id="M161" section="S2" type="AdverseReaction" start="3734" len="11" str="pneumonitis" />
+    <Mention id="M162" section="S2" type="Severity" start="3809" len="7" str="Grade 3" />
+    <Mention id="M163" section="S2" type="Severity" start="3809,3820" len="5,1" str="Grade 4" />
+    <Mention id="M164" section="S2" type="AdverseReaction" start="3822" len="3" str="ILD" />
+    <Mention id="M165" section="S2" type="AdverseReaction" start="3826" len="11" str="pneumonitis" />
+    <Mention id="M166" section="S2" type="AdverseReaction" start="3874" len="5" str="fatal" />
+    <Mention id="M167" section="S2" type="AdverseReaction" start="3880" len="3" str="ILD" />
+    <Mention id="M168" section="S2" type="AdverseReaction" start="3884" len="11" str="pneumonitis" />
+    <Mention id="M169" section="S2" type="AdverseReaction" start="4009" len="3" str="ILD" />
+    <Mention id="M170" section="S2" type="AdverseReaction" start="4013" len="11" str="pneumonitis" />
+    <Mention id="M171" section="S2" type="AdverseReaction" start="4362" len="25" str="QTc interval prolongation" />
+    <Mention id="M172" section="S2" type="Factor" start="4420" len="4" str="risk" />
+    <Mention id="M173" section="S2" type="AdverseReaction" start="4429" len="28" str="ventricular tachyarrhythmias" />
+    <Mention id="M174" section="S2" type="AdverseReaction" start="4465" len="18" str="Torsade de pointes" />
+    <Mention id="M175" section="S2" type="AdverseReaction" start="4488" len="12" str="sudden death" />
+    <Mention id="M176" section="S2" type="AdverseReaction" start="4613" len="21" str="QTc interval increase" />
+    <Mention id="M177" section="S2" type="Severity" start="4662" len="7" str="60 msec" />
+    <Mention id="M178" section="S2" type="AdverseReaction" start="4833" len="25" str="QTc greater than 500 msec" />
+    <Mention id="M179" section="S2" type="AdverseReaction" start="4885" len="26" str="increase from baseline QTc" />
+    <Mention id="M180" section="S2" type="Severity" start="4925" len="7" str="60 msec" />
+    <Mention id="M181" section="S2" type="Factor" start="4961" len="9" str="suggested" />
+    <Mention id="M182" section="S2" type="AdverseReaction" start="5015" len="29" str="increases in the QTc interval" />
+    <Mention id="M183" section="S2" type="AdverseReaction" start="5982" len="13" str="Hyperglycemia" />
+    <Mention id="M184" section="S2" type="Factor" start="5996" len="3" str="can" />
+    <Mention id="M185" section="S2" type="Severity" start="6055" len="7" str="Grade 3" />
+    <Mention id="M186" section="S2" type="Severity" start="6055,6063" len="5,1" str="Grade 4" />
+    <Mention id="M187" section="S2" type="Severity" start="6055" len="9" str="Grade 3-4" />
+    <Mention id="M188" section="S2" type="AdverseReaction" start="6065" len="13" str="hyperglycemia" />
+    <Mention id="M189" section="S2" type="Factor" start="6176" len="4" str="risk" />
+    <Mention id="M190" section="S2" type="Severity" start="6190" len="7" str="Grade 3" />
+    <Mention id="M191" section="S2" type="Severity" start="6190" len="9" str="Grade 3-4" />
+    <Mention id="M192" section="S2" type="Severity" start="6190,6198" len="5,1" str="Grade 4" />
+    <Mention id="M193" section="S2" type="AdverseReaction" start="6200" len="13" str="hyperglycemia" />
+    <Mention id="M194" section="S2" type="AdverseReaction" start="6912" len="11" str="Bradycardia" />
+    <Mention id="M195" section="S2" type="Factor" start="6924" len="3" str="can" />
+    <Mention id="M196" section="S2" type="AdverseReaction" start="6977" len="17" str="sinus bradycardia" />
+    <Mention id="M197" section="S2" type="AdverseReaction" start="7009" len="43" str="heart rate of less than 50 beats per minute" />
+    <Mention id="M198" section="S2" type="AdverseReaction" start="7104" len="11" str="Bradycardia" />
+    <Mention id="M199" section="S2" type="AdverseReaction" start="8326" len="12" str="Pancreatitis" />
+    <Mention id="M200" section="S2" type="AdverseReaction" start="8354" len="8" str="fatality" />
+    <Mention id="M201" section="S2" type="Severity" start="8454" len="7" str="Grade 3" />
+    <Mention id="M202" section="S2" type="Severity" start="8454" len="9" str="Grade 3-4" />
+    <Mention id="M203" section="S2" type="Severity" start="8454,8462" len="5,1" str="Grade 4" />
+    <Mention id="M204" section="S2" type="AdverseReaction" start="8464" len="20" str="elevations of lipase" />
+    <Mention id="M205" section="S2" type="AdverseReaction" start="8464,8492" len="13,7" str="elevations of amylase" />
+    <Mention id="M206" section="S2" type="Factor" start="8960" len="3" str="may" />
+    <Mention id="M207" section="S2" type="AdverseReaction" start="8970" len="10" str="fetal harm" />
+    <Mention id="M208" section="S2" type="AdverseReaction" start="9193" len="31" str="increases in skeletal anomalies" />
+    <Mention id="M209" section="S2" type="Animal" start="9228" len="4" str="rats" />
+    <Mention id="M210" section="S2" type="Animal" start="9237" len="7" str="rabbits" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M3" arg2="M1" />
+    <Relation id="RL2" type="Effect" arg1="M3" arg2="M2" />
+    <Relation id="RL3" type="Hypothetical" arg1="M111" arg2="M110" />
+    <Relation id="RL4" type="Hypothetical" arg1="M117" arg2="M116" />
+    <Relation id="RL5" type="Hypothetical" arg1="M120" arg2="M119" />
+    <Relation id="RL6" type="Hypothetical" arg1="M123" arg2="M122" />
+    <Relation id="RL7" type="Hypothetical" arg1="M125" arg2="M128" />
+    <Relation id="RL8" type="Hypothetical" arg1="M126" arg2="M128" />
+    <Relation id="RL9" type="Hypothetical" arg1="M127" arg2="M128" />
+    <Relation id="RL10" type="Hypothetical" arg1="M131" arg2="M130" />
+    <Relation id="RL11" type="Effect" arg1="M133" arg2="M140" />
+    <Relation id="RL12" type="Effect" arg1="M135" arg2="M140" />
+    <Relation id="RL13" type="Effect" arg1="M137" arg2="M140" />
+    <Relation id="RL14" type="Effect" arg1="M139" arg2="M140" />
+    <Relation id="RL15" type="Effect" arg1="M146" arg2="M147" />
+    <Relation id="RL16" type="Effect" arg1="M150" arg2="M151" />
+    <Relation id="RL17" type="Hypothetical" arg1="M156" arg2="M160" />
+    <Relation id="RL18" type="Effect" arg1="M157" arg2="M153" />
+    <Relation id="RL19" type="Effect" arg1="M157" arg2="M154" />
+    <Relation id="RL20" type="Hypothetical" arg1="M157" arg2="M160" />
+    <Relation id="RL21" type="Hypothetical" arg1="M158" arg2="M160" />
+    <Relation id="RL22" type="Effect" arg1="M159" arg2="M153" />
+    <Relation id="RL23" type="Effect" arg1="M159" arg2="M154" />
+    <Relation id="RL24" type="Hypothetical" arg1="M159" arg2="M160" />
+    <Relation id="RL25" type="Effect" arg1="M164" arg2="M162" />
+    <Relation id="RL26" type="Effect" arg1="M164" arg2="M163" />
+    <Relation id="RL27" type="Effect" arg1="M165" arg2="M163" />
+    <Relation id="RL28" type="Effect" arg1="M165" arg2="M162" />
+    <Relation id="RL29" type="Hypothetical" arg1="M173" arg2="M172" />
+    <Relation id="RL30" type="Hypothetical" arg1="M174" arg2="M172" />
+    <Relation id="RL31" type="Hypothetical" arg1="M175" arg2="M172" />
+    <Relation id="RL32" type="Effect" arg1="M176" arg2="M177" />
+    <Relation id="RL33" type="Effect" arg1="M179" arg2="M180" />
+    <Relation id="RL34" type="Hypothetical" arg1="M182" arg2="M181" />
+    <Relation id="RL35" type="Hypothetical" arg1="M183" arg2="M184" />
+    <Relation id="RL36" type="Effect" arg1="M188" arg2="M185" />
+    <Relation id="RL37" type="Effect" arg1="M188" arg2="M187" />
+    <Relation id="RL38" type="Effect" arg1="M188" arg2="M186" />
+    <Relation id="RL39" type="Effect" arg1="M193" arg2="M191" />
+    <Relation id="RL40" type="Effect" arg1="M193" arg2="M190" />
+    <Relation id="RL41" type="Effect" arg1="M193" arg2="M192" />
+    <Relation id="RL42" type="Hypothetical" arg1="M193" arg2="M189" />
+    <Relation id="RL43" type="Hypothetical" arg1="M194" arg2="M195" />
+    <Relation id="RL44" type="Effect" arg1="M204" arg2="M202" />
+    <Relation id="RL45" type="Effect" arg1="M204" arg2="M201" />
+    <Relation id="RL46" type="Effect" arg1="M204" arg2="M203" />
+    <Relation id="RL47" type="Effect" arg1="M205" arg2="M201" />
+    <Relation id="RL48" type="Effect" arg1="M205" arg2="M202" />
+    <Relation id="RL49" type="Effect" arg1="M205" arg2="M203" />
+    <Relation id="RL50" type="Hypothetical" arg1="M207" arg2="M206" />
+    <Relation id="RL51" type="Hypothetical" arg1="M208" arg2="M209" />
+    <Relation id="RL52" type="Hypothetical" arg1="M208" arg2="M210" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="gastrointestinal toxicity">
+      <Normalization id="AR1.N1" meddra_pt="Gastrointestinal toxicity" meddra_pt_id="10059024" />
+    </Reaction>
+    <Reaction id="AR2" str="hepatotoxicity">
+      <Normalization id="AR2.N1" meddra_pt="Hepatotoxicity" meddra_pt_id="10019851" />
+    </Reaction>
+    <Reaction id="AR3" str="interstitial lung disease">
+      <Normalization id="AR3.N1" meddra_pt="Interstitial lung disease" meddra_pt_id="10022611" />
+    </Reaction>
+    <Reaction id="AR4" str="pneumonitis">
+      <Normalization id="AR4.N1" meddra_pt="Pneumonitis" meddra_pt_id="10035742" />
+    </Reaction>
+    <Reaction id="AR5" str="qt interval prolongation">
+      <Normalization id="AR5.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="QT interval prolonged" meddra_llt_id="10037703" />
+    </Reaction>
+    <Reaction id="AR6" str="hyperglycemia">
+      <Normalization id="AR6.N1" meddra_pt="Hyperglycaemia" meddra_pt_id="10020635" meddra_llt="Hyperglycemia" meddra_llt_id="10020639" />
+    </Reaction>
+    <Reaction id="AR7" str="bradycardia">
+      <Normalization id="AR7.N1" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Reaction>
+    <Reaction id="AR8" str="pancreatitis">
+      <Normalization id="AR8.N1" meddra_pt="Pancreatitis" meddra_pt_id="10033645" />
+    </Reaction>
+    <Reaction id="AR9" str="diarrhea">
+      <Normalization id="AR9.N1" meddra_pt="Diarrhoea" meddra_pt_id="10012735" meddra_llt="Diarrhea" meddra_llt_id="10012727" />
+    </Reaction>
+    <Reaction id="AR10" str="nausea">
+      <Normalization id="AR10.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR11" str="elevated transaminases">
+      <Normalization id="AR11.N1" meddra_pt="Transaminases increased" meddra_pt_id="10054889" />
+    </Reaction>
+    <Reaction id="AR12" str="vomiting">
+      <Normalization id="AR12.N1" meddra_pt="Vomiting" meddra_pt_id="10047700" />
+    </Reaction>
+    <Reaction id="AR13" str="abdominal pain">
+      <Normalization id="AR13.N1" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Reaction>
+    <Reaction id="AR14" str="fatigue">
+      <Normalization id="AR14.N1" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Reaction>
+    <Reaction id="AR15" str="decreased appetite">
+      <Normalization id="AR15.N1" meddra_pt="Decreased appetite" meddra_pt_id="10061428" />
+    </Reaction>
+    <Reaction id="AR16" str="constipation">
+      <Normalization id="AR16.N1" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Reaction>
+    <Reaction id="AR17" str="increased alt">
+      <Normalization id="AR17.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" meddra_llt="ALT increased" meddra_llt_id="10001845" />
+    </Reaction>
+    <Reaction id="AR18" str="increased ast">
+      <Normalization id="AR18.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" meddra_llt="AST increased" meddra_llt_id="10003544" />
+    </Reaction>
+    <Reaction id="AR19" str="convulsion">
+      <Normalization id="AR19.N1" meddra_pt="Seizure" meddra_pt_id="10039906" meddra_llt="Convulsion" meddra_llt_id="10010904" />
+    </Reaction>
+    <Reaction id="AR20" str="pneumonia">
+      <Normalization id="AR20.N1" meddra_pt="Pneumonia" meddra_pt_id="10035664" />
+    </Reaction>
+    <Reaction id="AR21" str="ild">
+      <Normalization id="AR21.N1" meddra_pt="Interstitial lung disease" meddra_pt_id="10022611" />
+    </Reaction>
+    <Reaction id="AR22" str="dyspnea">
+      <Normalization id="AR22.N1" meddra_pt="Dyspnoea" meddra_pt_id="10013968" meddra_llt="Dyspnea" meddra_llt_id="10013963" />
+    </Reaction>
+    <Reaction id="AR23" str="dehydration">
+      <Normalization id="AR23.N1" meddra_pt="Dehydration" meddra_pt_id="10012174" />
+    </Reaction>
+    <Reaction id="AR24" str="fatal">
+      <Normalization id="AR24.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR25" str="respiratory failure">
+      <Normalization id="AR25.N1" meddra_pt="Respiratory failure" meddra_pt_id="10038695" />
+    </Reaction>
+    <Reaction id="AR26" str="pneumothorax">
+      <Normalization id="AR26.N1" meddra_pt="Pneumothorax" meddra_pt_id="10035759" />
+    </Reaction>
+    <Reaction id="AR27" str="gastric hemorrhage">
+      <Normalization id="AR27.N1" meddra_pt="Gastric haemorrhage" meddra_pt_id="10017788" meddra_llt="Gastric hemorrhage" meddra_llt_id="10017789" />
+    </Reaction>
+    <Reaction id="AR28" str="general physical health deterioration">
+      <Normalization id="AR28.N1" meddra_pt="General physical health deterioration" meddra_pt_id="10049438" />
+    </Reaction>
+    <Reaction id="AR29" str="pulmonary tuberculosis">
+      <Normalization id="AR29.N1" meddra_pt="Pulmonary tuberculosis" meddra_pt_id="10037440" />
+    </Reaction>
+    <Reaction id="AR30" str="cardiac tamponade">
+      <Normalization id="AR30.N1" meddra_pt="Cardiac tamponade" meddra_pt_id="10007610" />
+    </Reaction>
+    <Reaction id="AR31" str="sepsis">
+      <Normalization id="AR31.N1" meddra_pt="Sepsis" meddra_pt_id="10040047" />
+    </Reaction>
+    <Reaction id="AR32" str="upper abdominal pain">
+      <Normalization id="AR32.N1" meddra_pt="Abdominal pain upper" meddra_pt_id="10000087" meddra_llt="Upper abdominal pain" meddra_llt_id="10046272" />
+    </Reaction>
+    <Reaction id="AR33" str="abdominal discomfort">
+      <Normalization id="AR33.N1" meddra_pt="Abdominal discomfort" meddra_pt_id="10000059" />
+    </Reaction>
+    <Reaction id="AR34" str="epigastric discomfort">
+      <Normalization id="AR34.N1" meddra_pt="Epigastric discomfort" meddra_pt_id="10053155" />
+    </Reaction>
+    <Reaction id="AR35" str="esophageal disorder">
+      <Normalization id="AR35.N1" meddra_pt="Oesophageal disorder" meddra_pt_id="10061318" meddra_llt="Esophageal disorder" meddra_llt_id="10015380" />
+    </Reaction>
+    <Reaction id="AR36" str="dyspepsia">
+      <Normalization id="AR36.N1" meddra_pt="Dyspepsia" meddra_pt_id="10013946" />
+    </Reaction>
+    <Reaction id="AR37" str="gastroesophageal reflux disease">
+      <Normalization id="AR37.N1" meddra_pt="Gastrooesophageal reflux disease" meddra_pt_id="10017885" meddra_llt="Gastroesophageal reflux disease" meddra_llt_id="10066874" />
+    </Reaction>
+    <Reaction id="AR38" str="dysphagia">
+      <Normalization id="AR38.N1" meddra_pt="Dysphagia" meddra_pt_id="10013950" />
+    </Reaction>
+    <Reaction id="AR39" str="asthenia">
+      <Normalization id="AR39.N1" meddra_pt="Asthenia" meddra_pt_id="10003549" />
+    </Reaction>
+    <Reaction id="AR40" str="rash">
+      <Normalization id="AR40.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR41" str="maculopapular rash">
+      <Normalization id="AR41.N1" meddra_pt="Rash maculo-papular" meddra_pt_id="10037868" meddra_llt="Maculopapular rash" meddra_llt_id="10025424" />
+    </Reaction>
+    <Reaction id="AR42" str="acneiform dermatitis">
+      <Normalization id="AR42.N1" meddra_pt="Dermatitis acneiform" meddra_pt_id="10012432" meddra_llt="Acneiform dermatitis" meddra_llt_id="10000520" />
+    </Reaction>
+    <Reaction id="AR43" str="neuropathy">
+      <Normalization id="AR43.N1" meddra_pt="Neuropathy peripheral" meddra_pt_id="10029331" meddra_llt="Neuropathy" meddra_llt_id="10029328" />
+    </Reaction>
+    <Reaction id="AR44" str="paresthesia">
+      <Normalization id="AR44.N1" meddra_pt="Paraesthesia" meddra_pt_id="10033775" meddra_llt="Paresthesia" meddra_llt_id="10033987" />
+    </Reaction>
+    <Reaction id="AR45" str="muscular weakness">
+      <Normalization id="AR45.N1" meddra_pt="Muscular weakness" meddra_pt_id="10028372" />
+    </Reaction>
+    <Reaction id="AR46" str="gait disturbance">
+      <Normalization id="AR46.N1" meddra_pt="Gait disturbance" meddra_pt_id="10017577" />
+    </Reaction>
+    <Reaction id="AR47" str="peripheral neuropathy">
+      <Normalization id="AR47.N1" meddra_pt="Neuropathy peripheral" meddra_pt_id="10029331" />
+    </Reaction>
+    <Reaction id="AR48" str="hypoesthesia">
+      <Normalization id="AR48.N1" meddra_pt="Hypoaesthesia" meddra_pt_id="10020937" meddra_llt="Hypoesthesia" meddra_llt_id="10020976" />
+    </Reaction>
+    <Reaction id="AR49" str="peripheral sensory neuropathy">
+      <Normalization id="AR49.N1" meddra_pt="Peripheral sensory neuropathy" meddra_pt_id="10034620" />
+    </Reaction>
+    <Reaction id="AR50" str="dysesthesia">
+      <Normalization id="AR50.N1" meddra_pt="Dysaesthesia" meddra_pt_id="10013886" meddra_llt="Dysesthesia" meddra_llt_id="10062872" />
+    </Reaction>
+    <Reaction id="AR51" str="neuralgia">
+      <Normalization id="AR51.N1" meddra_pt="Neuralgia" meddra_pt_id="10029223" />
+    </Reaction>
+    <Reaction id="AR52" str="peripheral motor neuropathy">
+      <Normalization id="AR52.N1" meddra_pt="Peripheral motor neuropathy" meddra_pt_id="10034580" />
+    </Reaction>
+    <Reaction id="AR53" str="hypotonia">
+      <Normalization id="AR53.N1" meddra_pt="Hypotonia" meddra_pt_id="10021118" />
+    </Reaction>
+    <Reaction id="AR54" str="polyneuropathy">
+      <Normalization id="AR54.N1" meddra_pt="Polyneuropathy" meddra_pt_id="10036105" />
+    </Reaction>
+    <Reaction id="AR55" str="vision disorder">
+      <Normalization id="AR55.N1" meddra_pt="Vision disorders" meddra_pt_id="10047518" flag="HLGT" />
+    </Reaction>
+    <Reaction id="AR56" str="vision impairment">
+      <Normalization id="AR56.N1" meddra_pt="Visual impairment" meddra_pt_id="10047571" />
+    </Reaction>
+    <Reaction id="AR57" str="blurred vision">
+      <Normalization id="AR57.N1" meddra_pt="Vision blurred" meddra_pt_id="10047513" meddra_llt="Blurred vision" meddra_llt_id="10005886" />
+    </Reaction>
+    <Reaction id="AR58" str="photopsia">
+      <Normalization id="AR58.N1" meddra_pt="Photopsia" meddra_pt_id="10034962" />
+    </Reaction>
+    <Reaction id="AR59" str="accommodation disorder">
+      <Normalization id="AR59.N1" meddra_pt="Accommodation disorder" meddra_pt_id="10000389" />
+    </Reaction>
+    <Reaction id="AR60" str="presbyopia">
+      <Normalization id="AR60.N1" meddra_pt="Presbyopia" meddra_pt_id="10036628" />
+    </Reaction>
+    <Reaction id="AR61" str="reduced visual acuity">
+      <Normalization id="AR61.N1" meddra_pt="Visual acuity reduced" meddra_pt_id="10047531" />
+    </Reaction>
+    <Reaction id="AR62" str="prolonged qt interval">
+      <Normalization id="AR62.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="QT interval prolonged" meddra_llt_id="10037703" />
+    </Reaction>
+    <Reaction id="AR63" str="hemoglobin decreased">
+      <Normalization id="AR63.N1" meddra_pt="Haemoglobin decreased" meddra_pt_id="10018884" meddra_llt="Hemoglobin decreased" meddra_llt_id="10019483" />
+    </Reaction>
+    <Reaction id="AR64" str="alanine transaminase increased">
+      <Normalization id="AR64.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" />
+    </Reaction>
+    <Reaction id="AR65" str="alt increased">
+      <Normalization id="AR65.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" meddra_llt="ALT increased" meddra_llt_id="10001845" />
+    </Reaction>
+    <Reaction id="AR66" str="aspartate transaminase increased">
+      <Normalization id="AR66.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" />
+    </Reaction>
+    <Reaction id="AR67" str="ast increased">
+      <Normalization id="AR67.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" meddra_llt="AST increased" meddra_llt_id="10003544" />
+    </Reaction>
+    <Reaction id="AR68" str="creatinine increased">
+      <Normalization id="AR68.N1" meddra_pt="Blood creatinine increased" meddra_pt_id="10005483" meddra_llt="Creatinine increased" meddra_llt_id="10011368" />
+    </Reaction>
+    <Reaction id="AR69" str="glucose increased">
+      <Normalization id="AR69.N1" meddra_pt="Blood glucose increased" meddra_pt_id="10005557" meddra_llt="Glucose increased" meddra_llt_id="10018421" />
+    </Reaction>
+    <Reaction id="AR70" str="phosphate decreased">
+      <Normalization id="AR70.N1" meddra_pt="Blood phosphorus decreased" meddra_pt_id="10049471" meddra_llt="Phosphate decreased" meddra_llt_id="10034930" />
+    </Reaction>
+    <Reaction id="AR71" str="lipase increased">
+      <Normalization id="AR71.N1" meddra_pt="Lipase increased" meddra_pt_id="10024574" />
+    </Reaction>
+    <Reaction id="AR72" str="bilirubin total increased">
+      <Normalization id="AR72.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" meddra_llt="Bilirubin total increased" meddra_llt_id="10056806" />
+    </Reaction>
+    <Reaction id="AR73" str="qtc interval prolongation">
+      <Normalization id="AR73.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR74" str="elevations of lipase">
+      <Normalization id="AR74.N1" meddra_pt="Lipase increased" meddra_pt_id="10024574" />
+    </Reaction>
+    <Reaction id="AR75" str="elevations of amylase">
+      <Normalization id="AR75.N1" meddra_pt="Amylase increased" meddra_pt_id="10002016" />
+    </Reaction>
+    <Reaction id="AR76" str="embryofetal toxicity">
+      <Normalization id="AR76.N1" meddra_pt="Maternal drugs affecting foetus" meddra_pt_id="10026923" meddra_llt="Drug toxicity NEC affecting foetus" meddra_llt_id="10013750" />
+    </Reaction>
+    <Reaction id="AR77" str="fetal harm">
+      <Normalization id="AR77.N1" meddra_pt="Foetal damage" meddra_pt_id="10016852" meddra_llt="Fetal damage" meddra_llt_id="10054743" />
+    </Reaction>
+    <Reaction id="AR78" str="elevations in alanine aminotransferase">
+      <Normalization id="AR78.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" />
+    </Reaction>
+    <Reaction id="AR79" str="jaundice">
+      <Normalization id="AR79.N1" meddra_pt="Jaundice" meddra_pt_id="10023126" />
+    </Reaction>
+    <Reaction id="AR80" str="elevations in alt">
+      <Normalization id="AR80.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" meddra_llt="ALT increased" meddra_llt_id="10001845" />
+    </Reaction>
+    <Reaction id="AR81" str="total bilirubin 2 times the uln">
+      <Normalization id="AR81.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" meddra_llt="Bilirubin total increased" meddra_llt_id="10056806" />
+    </Reaction>
+    <Reaction id="AR82" str="ventricular tachyarrhythmias">
+      <Normalization id="AR82.N1" meddra_pt="Ventricular tachyarrhythmia" meddra_pt_id="10065341" />
+    </Reaction>
+    <Reaction id="AR83" str="torsade de pointes">
+      <Normalization id="AR83.N1" meddra_pt="Torsade de pointes" meddra_pt_id="10044066" />
+    </Reaction>
+    <Reaction id="AR84" str="sudden death">
+      <Normalization id="AR84.N1" meddra_pt="Sudden death" meddra_pt_id="10042434" />
+    </Reaction>
+    <Reaction id="AR85" str="qtc interval increase">
+      <Normalization id="AR85.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR86" str="qtc greater than 500 msec">
+      <Normalization id="AR86.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR87" str="increase from baseline qtc">
+      <Normalization id="AR87.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR88" str="increases in the qtc interval">
+      <Normalization id="AR88.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR89" str="sinus bradycardia">
+      <Normalization id="AR89.N1" meddra_pt="Sinus bradycardia" meddra_pt_id="10040741" />
+    </Reaction>
+    <Reaction id="AR90" str="heart rate of less than 50 beats per minute">
+      <Normalization id="AR90.N1" meddra_pt="Heart rate decreased" meddra_pt_id="10019301" />
+    </Reaction>
+    <Reaction id="AR91" str="fatality">
+      <Normalization id="AR91.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+  </Reactions>
+</Label>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="technetium" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Several cases of allergic dermatological reactions have been reported in association with the use of Technetium Tc 99m Medronate.Several reactions have also been reported in association with other radiopharmaceuticals of the diphosphonate class, particularly Technetium Tc 99m Medronate. These are usually hypersensitivity reactions characterized by itching, various skin rashes, hypotension, chills, nausea, fever, and vomiting. One death secondary to cardiac arrhythmia following the administration of Technetium Tc 99m Medronate has been reported. In addition, one case of cardiac arrest in a patient also undergoing pulmonary function testing one and one-half hours after the performance of a bone scan using Technetium Tc 99m Medronate has been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

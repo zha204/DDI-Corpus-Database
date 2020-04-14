@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="idkit" track="TAC2017_ADR">
+  <Text>
+    <Section name="warnings and precautions" id="S1">    WARNINGS AND PRECAUTIONS
+
+
+
+    *  For in vitro diagnostic use only. The  13  C-urea tablet and Citrica Powder are dissolved in a glass of water and the resulting solution is taken orally as part of the diagnostic procedure. 
+ *  Phenylketonurics: Contains Phenylalanine, 84 mg per dosage unit of Citrica Powder. 
+ *  In the case of accidental overdose - drink water and call the physician. 
+ *  A negative result does not rule out the possibility of H. pylori infection.  False negative results can occur with this procedure. If clinical signs suggest H. pylori infection, retest with a new sample or an alternate method. 
+ *  A false positive test may (rarely) occur due to urease associated with other gastric spiral organisms observed in humans such as Helicobacter heilmanni. 
+ *  A false positive test could occur in patients who have achlorhydria. 
+ *  Antimicrobials, proton pump inhibitors, and bismuth preparations are known to suppress H. pylori . Ingesting these medications within two weeks prior to performing the breath test may produce false negative test results. 
+ *  Tiny particles may remain visible in the reconstituted  13      C-urea and Citrica solution after thorough mixing for up to five minutes. However, if more substantial particulate matter is still present after five minutes of mixing, the solution should not be used, and a new kit should be opened. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

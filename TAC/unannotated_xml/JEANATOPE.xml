@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="jeanatope" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  Although the immunological properties of serum albumin are believed to be
+
+
+
+ virtually unaltered by the iodinated process, there is a theoretical possibility that
+
+
+
+ allergic reactions may occur in patients receiving additional doses a number of 
+
+
+
+ weeks after an initial dose.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

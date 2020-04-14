@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d411">
+    <sentence id="DDI-DrugBank.d411.s0" text="The magnitude and relative importance of the effects noted below are likely to be patient specific and may vary by such factors as age, gender, race, intercurrent illnesses, dose of either agent, additional concomitant medications, and timing of drug administration."/>
+    <sentence id="DDI-DrugBank.d411.s1" text="Any agent that alters thyroid hormone synthesis, secretion, distribution, effect on target tissues, metabolism, or elimination may alter the optimal therapeutic dose of levothyroxine sodium.">
+        <entity id="DDI-DrugBank.d411.s1.e0" charOffset="169-181"
+            type="drug" text="levothyroxine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s2" text="Levothyroxine Sodium Absorption: The following agents may bind and decrease absorption of levothyroxine sodium from the gastrointestinal tract: aluminum hydoxide, cholestyramine resin, colestipol hydrochloride, ferrous sulfate, sodium polystyrene sulfonate, soybean flour (e.g., infant formula), sucralfate.">
+        <entity id="DDI-DrugBank.d411.s2.e0" charOffset="0-19"
+            type="drug" text="Levothyroxine Sodium"/>
+        <entity id="DDI-DrugBank.d411.s2.e1" charOffset="90-109"
+            type="drug" text="levothyroxine sodium"/>
+        <entity id="DDI-DrugBank.d411.s2.e2" charOffset="144-160"
+            type="drug" text="aluminum hydoxide"/>
+        <entity id="DDI-DrugBank.d411.s2.e3" charOffset="163-176"
+            type="drug" text="cholestyramine"/>
+        <entity id="DDI-DrugBank.d411.s2.e4" charOffset="185-208"
+            type="drug" text="colestipol hydrochloride"/>
+        <entity id="DDI-DrugBank.d411.s2.e5" charOffset="211-225"
+            type="drug" text="ferrous sulfate"/>
+        <entity id="DDI-DrugBank.d411.s2.e6" charOffset="228-255"
+            type="drug" text="sodium polystyrene sulfonate"/>
+        <entity id="DDI-DrugBank.d411.s2.e7" charOffset="296-305"
+            type="drug" text="sucralfate"/>
+        <ddi id="DDI-DrugBank.d411.s2.d0" e1="DDI-DrugBank.d411.s2.e1"
+            e2="DDI-DrugBank.d411.s2.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s2.d1" e1="DDI-DrugBank.d411.s2.e1"
+            e2="DDI-DrugBank.d411.s2.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s2.d2" e1="DDI-DrugBank.d411.s2.e1"
+            e2="DDI-DrugBank.d411.s2.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s2.d3" e1="DDI-DrugBank.d411.s2.e1"
+            e2="DDI-DrugBank.d411.s2.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s2.d4" e1="DDI-DrugBank.d411.s2.e1"
+            e2="DDI-DrugBank.d411.s2.e6" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s2.d5" e1="DDI-DrugBank.d411.s2.e1"
+            e2="DDI-DrugBank.d411.s2.e7" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s3" text="Binding to Serum Proteins: The following agents may either inhibit levothyroxine sodium binding to serum proteins or alter the concentrations of serum binding proteins: androgens and related anabolic hormones, asparaginase, clofibrate, estrogens and estrogen-containing compounds, 5-fluorouracil, furosemide, glucocorticoids, meclofenamic acid, mefenamic acid, methadone, perphenazine, phenylbutazone, phenytoin, salicylates, tamoxifen.">
+        <entity id="DDI-DrugBank.d411.s3.e0" charOffset="67-86"
+            type="drug" text="levothyroxine sodium"/>
+        <entity id="DDI-DrugBank.d411.s3.e1" charOffset="169-177"
+            type="group" text="androgens"/>
+        <entity id="DDI-DrugBank.d411.s3.e2" charOffset="191-207"
+            type="group" text="anabolic hormones"/>
+        <entity id="DDI-DrugBank.d411.s3.e3" charOffset="210-221"
+            type="drug" text="asparaginase"/>
+        <entity id="DDI-DrugBank.d411.s3.e4" charOffset="224-233"
+            type="drug" text="clofibrate"/>
+        <entity id="DDI-DrugBank.d411.s3.e5" charOffset="236-244"
+            type="group" text="estrogens"/>
+        <entity id="DDI-DrugBank.d411.s3.e6" charOffset="250-278"
+            type="group" text="estrogen-containing compounds"/>
+        <entity id="DDI-DrugBank.d411.s3.e7" charOffset="281-294"
+            type="drug" text="5-fluorouracil"/>
+        <entity id="DDI-DrugBank.d411.s3.e8" charOffset="297-306"
+            type="drug" text="furosemide"/>
+        <entity id="DDI-DrugBank.d411.s3.e9" charOffset="309-323"
+            type="group" text="glucocorticoids"/>
+        <entity id="DDI-DrugBank.d411.s3.e10" charOffset="326-342"
+            type="drug" text="meclofenamic acid"/>
+        <entity id="DDI-DrugBank.d411.s3.e11" charOffset="345-358"
+            type="drug" text="mefenamic acid"/>
+        <entity id="DDI-DrugBank.d411.s3.e12" charOffset="361-369"
+            type="drug" text="methadone"/>
+        <entity id="DDI-DrugBank.d411.s3.e13" charOffset="372-383"
+            type="drug" text="perphenazine"/>
+        <entity id="DDI-DrugBank.d411.s3.e14" charOffset="386-399"
+            type="drug" text="phenylbutazone"/>
+        <entity id="DDI-DrugBank.d411.s3.e15" charOffset="402-410"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d411.s3.e16" charOffset="413-423"
+            type="group" text="salicylates"/>
+        <entity id="DDI-DrugBank.d411.s3.e17" charOffset="426-434"
+            type="drug" text="tamoxifen"/>
+        <ddi id="DDI-DrugBank.d411.s3.d0" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d1" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d2" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d3" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d4" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d5" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e6" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d6" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e7" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d7" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e8" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d8" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e9" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d9" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e10" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d10" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e11" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d11" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e12" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d12" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e13" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d13" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e14" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d14" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e15" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d15" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e16" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d411.s3.d16" e1="DDI-DrugBank.d411.s3.e0"
+            e2="DDI-DrugBank.d411.s3.e17" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s4" text="Thyroid Physiology: The following agents may alter thyroid hormone or TSH levels, generally by effects on thyroid hormone synthesis, secretion, distribution, metabolism, hormone action, or elimination, or altered TSH secretion: aminoglutethimide, p-aminosalicylic acid, amiodarone, androgens and related anabolic hormones, complex anions (thiocyanate, perchlorate, pertechnetate), antithyroid drugs, b-adrenergic blocking agents, carbamazepine, chloral hydrate, diazepam, dopamine and dopamine agonists, ethionamide, glucocorticoids, heparin, hepatic enzyme inducers, insulin, iodinated cholestographic agents, iodine-containing compounds, levodopa, lovastatin, lithium, 6-mercaptopurine, metoclopramide, mitotane, nitroprusside, phenobarbital, phenytoin, resorcinol, rifampin, somatostatin analogs, sulfonamides, sulfonylureas, thiazide diuretics.">
+        <entity id="DDI-DrugBank.d411.s4.e0" charOffset="228-244"
+            type="drug" text="aminoglutethimide"/>
+        <entity id="DDI-DrugBank.d411.s4.e1" charOffset="247-267"
+            type="drug" text="p-aminosalicylic acid"/>
+        <entity id="DDI-DrugBank.d411.s4.e2" charOffset="270-279"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-DrugBank.d411.s4.e3" charOffset="282-290"
+            type="group" text="androgens"/>
+        <entity id="DDI-DrugBank.d411.s4.e4" charOffset="339-349"
+            type="drug" text="thiocyanate"/>
+        <entity id="DDI-DrugBank.d411.s4.e5" charOffset="352-362"
+            type="drug" text="perchlorate"/>
+        <entity id="DDI-DrugBank.d411.s4.e6" charOffset="365-377"
+            type="drug" text="pertechnetate"/>
+        <entity id="DDI-DrugBank.d411.s4.e7" charOffset="381-397"
+            type="group" text="antithyroid drugs"/>
+        <entity id="DDI-DrugBank.d411.s4.e8" charOffset="400-427"
+            type="group" text="b-adrenergic blocking agents"/>
+        <entity id="DDI-DrugBank.d411.s4.e9" charOffset="430-442"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d411.s4.e10" charOffset="445-459"
+            type="drug" text="chloral hydrate"/>
+        <entity id="DDI-DrugBank.d411.s4.e11" charOffset="462-469"
+            type="drug" text="diazepam"/>
+        <entity id="DDI-DrugBank.d411.s4.e12" charOffset="472-479"
+            type="drug" text="dopamine"/>
+        <entity id="DDI-DrugBank.d411.s4.e13" charOffset="485-501"
+            type="group" text="dopamine agonists"/>
+        <entity id="DDI-DrugBank.d411.s4.e14" charOffset="504-514"
+            type="drug" text="ethionamide"/>
+        <entity id="DDI-DrugBank.d411.s4.e15" charOffset="517-531"
+            type="group" text="glucocorticoids"/>
+        <entity id="DDI-DrugBank.d411.s4.e16" charOffset="534-540"
+            type="drug" text="heparin"/>
+        <entity id="DDI-DrugBank.d411.s4.e17" charOffset="568-574"
+            type="drug" text="insulin"/>
+        <entity id="DDI-DrugBank.d411.s4.e18" charOffset="611-637"
+            type="group" text="iodine-containing compounds"/>
+        <entity id="DDI-DrugBank.d411.s4.e19" charOffset="640-647"
+            type="drug" text="levodopa"/>
+        <entity id="DDI-DrugBank.d411.s4.e20" charOffset="650-659"
+            type="drug" text="lovastatin"/>
+        <entity id="DDI-DrugBank.d411.s4.e21" charOffset="662-668"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d411.s4.e22" charOffset="671-686"
+            type="drug" text="6-mercaptopurine"/>
+        <entity id="DDI-DrugBank.d411.s4.e23" charOffset="689-702"
+            type="drug" text="metoclopramide"/>
+        <entity id="DDI-DrugBank.d411.s4.e24" charOffset="705-712"
+            type="drug" text="mitotane"/>
+        <entity id="DDI-DrugBank.d411.s4.e25" charOffset="715-727"
+            type="drug" text="nitroprusside"/>
+        <entity id="DDI-DrugBank.d411.s4.e26" charOffset="730-742"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-DrugBank.d411.s4.e27" charOffset="745-753"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d411.s4.e28" charOffset="756-765"
+            type="drug" text="resorcinol"/>
+        <entity id="DDI-DrugBank.d411.s4.e29" charOffset="768-775"
+            type="drug" text="rifampin"/>
+        <entity id="DDI-DrugBank.d411.s4.e30" charOffset="778-797"
+            type="group" text="somatostatin analogs"/>
+        <entity id="DDI-DrugBank.d411.s4.e31" charOffset="800-811"
+            type="group" text="sulfonamides"/>
+        <entity id="DDI-DrugBank.d411.s4.e32" charOffset="814-826"
+            type="group" text="sulfonylureas"/>
+        <entity id="DDI-DrugBank.d411.s4.e33" charOffset="829-846"
+            type="group" text="thiazide diuretics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s5" text="Adrenocorticoids: Metabolic clearance of adrenocorticoids is decreased in hypothyroid patients and increased in hyperthyroid patients, and may therefore change with changing thyroid status."/>
+    <sentence id="DDI-DrugBank.d411.s6" text="Amiodarone: Amiodarone therapy alone can cause hypothyroidism or hyperthyroidism.">
+        <entity id="DDI-DrugBank.d411.s6.e0" charOffset="0-9"
+            type="drug" text="Amiodarone"/>
+        <entity id="DDI-DrugBank.d411.s6.e1" charOffset="12-21"
+            type="drug" text="Amiodarone"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s7" text="Anticoagulants (Oral): The hypoprothrombinemic effect of anticoagulants may be potentiated, apparently by increased catabloism of vitamin K-dependent clotting factors.">
+        <entity id="DDI-DrugBank.d411.s7.e0" charOffset="0-13"
+            type="group" text="Anticoagulants"/>
+        <entity id="DDI-DrugBank.d411.s7.e1" charOffset="57-70"
+            type="group" text="anticoagulants"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s8" text="Antidiabetic Agents (Insulin, Sulfonylureas): Requirements for insulin or oral antidiabetic agents may be reduced in hypothyroid patients with diabetes mellitus and may subsequently increase with the initiation of thyroid hormone replacement therapy.">
+        <entity id="DDI-DrugBank.d411.s8.e0" charOffset="0-18"
+            type="group" text="Antidiabetic Agents"/>
+        <entity id="DDI-DrugBank.d411.s8.e1" charOffset="21-27"
+            type="drug" text="Insulin"/>
+        <entity id="DDI-DrugBank.d411.s8.e2" charOffset="30-42"
+            type="group" text="Sulfonylureas"/>
+        <entity id="DDI-DrugBank.d411.s8.e3" charOffset="63-69"
+            type="drug" text="insulin"/>
+        <entity id="DDI-DrugBank.d411.s8.e4" charOffset="79-97"
+            type="group" text="antidiabetic agents"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s9" text="b-Adrenergic Blocking Agents: Actions of some of beta-blocking agents may be impaired when hypothyroid patients become euthyroid.">
+        <entity id="DDI-DrugBank.d411.s9.e0" charOffset="0-27"
+            type="group" text="b-Adrenergic Blocking Agents"/>
+        <entity id="DDI-DrugBank.d411.s9.e1" charOffset="49-68"
+            type="group" text="beta-blocking agents"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s10" text="Cytokines (interferon, interleukin): Cytokines have been reported to induce both hyperthyroidism and hypothyroidism.">
+        <entity id="DDI-DrugBank.d411.s10.e0" charOffset="0-8"
+            type="group" text="Cytokines"/>
+        <entity id="DDI-DrugBank.d411.s10.e1" charOffset="11-20"
+            type="group" text="interferon"/>
+        <entity id="DDI-DrugBank.d411.s10.e2" charOffset="23-33"
+            type="group" text="interleukin"/>
+        <entity id="DDI-DrugBank.d411.s10.e3" charOffset="37-45"
+            type="group" text="Cytokines"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s11" text="Digitalis Glycosides: Therapeutic effects of digitalis glycosides may be reduced.">
+        <entity id="DDI-DrugBank.d411.s11.e0" charOffset="0-19"
+            type="group" text="Digitalis Glycosides"/>
+        <entity id="DDI-DrugBank.d411.s11.e1" charOffset="45-64"
+            type="group" text="digitalis glycosides"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s12" text="Serum digitalis levels may be decreased in hyperthyroidism or when a hypothyroid patient becomes euthyroid.">
+        <entity id="DDI-DrugBank.d411.s12.e0" charOffset="6-14"
+            type="group" text="digitalis"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s13" text="Ketamine: Marked hypertension and tachycardia have been reported in association with concomitant administration of levothyroxine sodium and ketamine.">
+        <entity id="DDI-DrugBank.d411.s13.e0" charOffset="0-7"
+            type="drug" text="Ketamine"/>
+        <entity id="DDI-DrugBank.d411.s13.e1" charOffset="115-134"
+            type="drug" text="levothyroxine sodium"/>
+        <entity id="DDI-DrugBank.d411.s13.e2" charOffset="140-147"
+            type="drug" text="ketamine"/>
+        <ddi id="DDI-DrugBank.d411.s13.d0" e1="DDI-DrugBank.d411.s13.e1"
+            e2="DDI-DrugBank.d411.s13.e2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s14" text="Maprotiline: Risk of cardiac arrhythmias may increase.">
+        <entity id="DDI-DrugBank.d411.s14.e0" charOffset="0-10"
+            type="drug" text="Maprotiline"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s15" text="Sodium Iodide (123I and 131I), Sodium Pertechnetate Tc99m: Uptake of radiolabeled ions may be decreased.">
+        <entity id="DDI-DrugBank.d411.s15.e0" charOffset="0-12"
+            type="drug" text="Sodium Iodide"/>
+        <entity id="DDI-DrugBank.d411.s15.e1" charOffset="31-56"
+            type="drug" text="Sodium Pertechnetate Tc99m"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s16" text="Somatrem/Somatropin: Excessive concurrent use of thyroid hormone may accelerate epiphyseal closure.">
+        <entity id="DDI-DrugBank.d411.s16.e0" charOffset="0-7"
+            type="drug" text="Somatrem"/>
+        <entity id="DDI-DrugBank.d411.s16.e1" charOffset="9-18"
+            type="drug" text="Somatropin"/>
+        <entity id="DDI-DrugBank.d411.s16.e2" charOffset="49-63"
+            type="group" text="thyroid hormone"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s17" text="Untreated hypothyroidism may interfere with the growth response to somatrem or somatropin.">
+        <entity id="DDI-DrugBank.d411.s17.e0" charOffset="67-74"
+            type="drug" text="somatrem"/>
+        <entity id="DDI-DrugBank.d411.s17.e1" charOffset="79-88"
+            type="drug" text="somatropin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s18" text="Theophylline: Theophylline clearance may decrease in hypothyroid patients and return toward normal when a euthyroid state is achieved.">
+        <entity id="DDI-DrugBank.d411.s18.e0" charOffset="0-11"
+            type="drug" text="Theophylline"/>
+        <entity id="DDI-DrugBank.d411.s18.e1" charOffset="14-25"
+            type="drug" text="Theophylline"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s19" text="Tricyclic Antidepressants: Concurrent use may increase the therapeutic and toxic effects of both drugs, possibly due to increased catecholamine sensitivity.">
+        <entity id="DDI-DrugBank.d411.s19.e0" charOffset="0-24"
+            type="group" text="Tricyclic Antidepressants"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s20" text="Onset of action of tricyclics may be accelerated.">
+        <entity id="DDI-DrugBank.d411.s20.e0" charOffset="19-28"
+            type="group" text="tricyclics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d411.s21" text="Sympathomimetic Agents: Possible increased risk of coronary insufficiency in patients with coronary artery disease.">
+        <entity id="DDI-DrugBank.d411.s21.e0" charOffset="0-21"
+            type="group" text="Sympathomimetic Agents"/>
+    </sentence>
+</document>

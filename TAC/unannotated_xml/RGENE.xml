@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="rgene" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions associated with 1670 infusions in premarketing studies were as follows:
+
+
+
+ Non-specific side effects consisting of nausea, vomiting, headache, flushing, numbness and local venous irritation were reported in approximately 3% of the patients.
+
+
+
+ One patient had an allergic reaction which was manifested as a confluent macular rash with reddening and swelling of the hands and face. The rash subsided rapidly after the infusion was terminated and 50 mg of diphenhydramine were administered. One patient had an apparent decrease in platelet count from 150,000 to 60,000. One patient with a history of acrocyanosis had an exacerbation of this condition following infusion of R-Gene 10.
+
+
+
+   Post Marketing Experience
+
+  The following adverse events have been reported during post-marketing use: extravasation leading to burn-like reaction and/or skin necrosis requiring surgical intervention, hypersensitivity reactions including anaphylaxis, and hematuria that in some cases occurred 1-2 days after an R-Gene 10 administration. Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

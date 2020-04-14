@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="pediatric0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  There have been rare reports of anaphylactic reactions following parenteral multivitamin administration. Rare reports of anaphylactoid reactions have also been reported after large intravenous doses of thiamine. The risk, however, is negligible if thiamine is coadministered with other vitamins of the B group. There have been no reports of fatal anaphylactoid reactions associated with multivitamin preparations for infusion.
+
+
+
+ There have been rare reports of the following types of reactions:
+
+
+
+ Dermatologic - rash, erythema, pruritis
+
+
+
+ CNS - headache, dizziness, agitation, anxiety
+
+
+
+ Ophthalmic - diplopia
+
+
+
+ Allergic - urticaria, shortness of breath, wheezing and angioedema.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

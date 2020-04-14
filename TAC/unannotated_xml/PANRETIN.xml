@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="panretin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The safety of Panretin(r) gel has been assessed in clinical studies of 385 patients with AIDS-related KS. Adverse events associated with the use of Panretin(r) gel in patients with AIDS-related KS occurred almost exclusively at the site of application. The dermal toxicity begins as erythema; with continued application of Panretin(r) gel, erythema may increase and edema may develop. Dermal toxicity may become treatment-limiting, with intense erythema, edema, and vesiculation. Usually, however, adverse events are mild to moderate in severity; they led to withdrawal from the study in only 7% of the patients. Severe local (application site) skin adverse events occurred in about 10% of patients in the U.S. study (versus 0% in the vehicle control). Table 2 lists the adverse events that occurred at the application site with an incidence of at least 5% during the double-blind phase in the Panretin(r) gel-treated group and in the vehicle control group in either of the two controlled studies. Adverse events were reported at other sites but generally were similar in the two groups.
+
+
+
+ TABLE 2: Adverse Events with an Incidence of at Least 5% at the Application Site in Either Controlled Study in Patients Receiving Panretin(r) Gel or Vehicle Control 
+ Includes Investigator terms:  1  Erythema, scaling, irritation, redness, rash, dermatitis  2  Burning, pain  3  Itching, pruritus  4  Flaking, peeling, desquamation, exfoliation  5  Excoriation, cracking, scab, crusting, drainage, eschar, fissure or oozing  6  Stinging, tingling  7  Edema, swelling, inflammation   
+  
+ Adverse Event Term          Study 1               Study 2          
+                       Panretin(r) GelN=134 Pts.%  Vehicle GelN=134 Pts.%  Panretin(r) GelN=36 Pts.%  Vehicle GelN=46 Pts.%   
+ Rash  1                        77                    11                    25                    4             
+ Pain  2                        34                    7                     0                     4             
+ Pruritus  3                    11                    4                     8                     4             
+ Exfoliative dermatitis  4             9                     2                     3                     0             
+ Skin disorder  5               8                     1                     0                     0             
+ Paresthesia  6                 3                     0                     22                    7             
+ Edema  7                       8                     3                     3                     0             
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

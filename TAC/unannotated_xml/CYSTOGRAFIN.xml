@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cystografin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Retrograde genitourinary procedures may cause such complications as hematuria, perforation of the urethra or bladder, introduction of infection into the genitourinary tract, and oliguria or anuria.
+
+
+
+ If intravasation of this drug occurs, the reactions which may be associated with intravenous administration may possibly be encountered. Hypersensitivity or anaphylactoid reactions may occur. Severe reactions may be manifested by edema of the face and glottis, respiratory distress, convulsions or shock; such reactions may prove fatal unless promptly controlled by such emergency measures as maintenance of a clear airway and immediate use of oxygen and resuscitative drugs.
+
+
+
+   Endocrine:  Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants. Some patients were treated for hypothyroidism.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

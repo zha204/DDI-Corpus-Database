@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="technivie" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  TECHNIVIE should be administered with ribavirin (RBV). Refer to the prescribing information for ribavirin for a list of ribavirin-associated adverse reactions.
+
+
+
+ The following adverse reaction is described below and elsewhere in the labeling:
+
+
+
+ *  Increased Risk of ALT Elevations [see Warnings and Precautions (  5.1  )]  
+      EXCERPT:   The most commonly reported adverse reactions (incidence greater than 10% of subjects, all grades) observed with treatment with ombitasvir, paritaprevir and ritonavir with ribavirin for 12 weeks were asthenia, fatigue, nausea and insomnia. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AbbVie Inc. at 1-800-633-9110 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of ombitasvir, paritaprevir and ritonavir cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety assessment of TECHNIVIE is based on data from a clinical study that included 135 HCV genotype 4-infected subjects without cirrhosis, 91 who received ombitasvir 25 mg, paritaprevir 150 mg and ritonavir 100 mg (administered as one ombitasvir 25 mg tablet, three paritaprevir 50 mg tablets and one ritonavir 100 mg capsule) once daily with ribavirin for 12 weeks and 44 subjects without cirrhosis who received ombitasvir 25 mg, paritaprevir 150 mg, and ritonavir 100 mg (administered as one ombitasvir 25 mg tablet, three paritaprevir 50 mg tablets and one ritonavir 100 mg capsule) once daily without ribavirin for 12 weeks (PEARL-I).
+
+
+
+ Adverse reactions that occurred in subjects treated with ombitasvir, paritaprevir and ritonavir with or without ribavirin for 12 weeks are listed in  Table 3  . The majority of adverse reactions in PEARL-I were mild in severity. None of the subjects who received ombitasvir, paritaprevir and ritonavir with ribavirin experienced a serious adverse reaction. None of the subjects receiving ombitasvir, paritaprevir and ritonavir with or without ribavirin discontinued treatment due to an adverse reaction.
+
+
+
+ Table 3. Selected Adverse Reactions (All Grades) with &gt;=5% Frequency Reported in Subjects Treated with Ombitasvir, Paritaprevir and Ritonavir with or without Ribavirin for 12 Weeks 
+                    PEARL-I         
+   Adverse Reaction      Ombitasvir, paritaprevir,    ritonavir + RBV    12 Weeks    N = 91    %      Ombitasvir, paritaprevir,    ritonavir    12 Weeks    N = 44    %     
+  
+ Asthenia         29               25                
+ Fatigue          15               7                 
+ Nausea           14               9                 
+ Insomnia         13               5                 
+ Pruritus*        7                5                 
+ Skin reactions  $,#    7                5                 
+ *Grouped term 'pruritus' includes the preferred terms pruritus and pruritus generalized.  $  Grouped term 'skin reactions' includes the preferred terms rash, erythema, eczema, rash maculo-papular, rash macular, dermatitis, rash papular, skin exfoliation, rash pruritic, rash erythematous, rash generalized, dermatitis allergic, dermatitis contact, exfoliative rash, photosensitivity reaction, psoriasis, skin reaction, ulcer and urticaria.  #  The majority of events were graded as mild in severity. There were no serious events or severe cutaneous reactions, such as Stevens Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), erythema multiforme (EM) or drug rash with eosinophilia and systemic symptoms (DRESS).   
+        Laboratory Abnormalities  
+ 
+
+   Serum ALT Elevations  
+
+
+
+ None of the 135 HCV GT4 infected subjects treated with TECHNIVIE experienced post-baseline serum ALT levels greater than 5 times the upper limit of normal (ULN) after starting treatment  [see Warnings and Precautions (  5.1  )]  .
+
+
+
+   Serum Bilirubin Elevations  
+
+
+
+ Post-baseline elevations in bilirubin at least 2 times ULN were observed in 5% (7/134) of subjects receiving TECHNIVIE; all of whom were also receiving RBV. These bilirubin increases were predominately indirect and related to the inhibition of the bilirubin transporters OATP1B1/1B3 by paritaprevir and possibly ribavirin-induced hemolysis. Bilirubin elevations occurred early after initiation of treatment, peaked by study Week 1, and generally resolved with ongoing therapy. Bilirubin elevations were generally not associated with serum ALT elevations.
+
+
+
+   Anemia/Decreased Hemoglobin  
+
+
+
+ The mean change from baseline in hemoglobin levels in subjects treated with TECHNIVIE in combination with ribavirin was -2.1 g/dL and the mean change in subjects treated with TECHNIVIE alone was -0.4 g/dL. Decreases in hemoglobin levels occurred early in treatment (Week 1-2) with further reductions through Week 3. Hemoglobin values remained low during the remainder of treatment and returned towards baseline levels by post-treatment Week 4. One subject treated with TECHNIVIE with ribavirin had a single hemoglobin level decrease to less than 8 g/dL during treatment. Four percent (4/91) of subjects treated with TECHNIVIE with ribavirin underwent ribavirin dose reductions to manage anemia/decreased hemoglobin levels; none received a blood transfusion or erythropoietin. No subjects treated with TECHNIVIE alone had a hemoglobin level less than 8 g/dL.
+
+
+
+   6.2 Post-Marketing Experience
+
+  Hypersensitivity reactions (including angioedema) have been observed.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   ALT Elevations : Discontinue ethinyl estradiol-containing medications prior to starting TECHNIVIE (alternative contraceptive methods are recommended). Perform hepatic laboratory testing on all patients during the first 4 weeks of treatment. For ALT elevations on TECHNIVIE, monitor closely and follow recommendations in full prescribing information. (  5.1  ) 
+ *   Risks Associated With Ribavirin Combination Treatment : The warnings and precautions for ribavirin also apply to this combination regimen. (  5.2  ) 
+ *   Drug Interactions : The concomitant use of TECHNIVIE and certain other drugs may result in known or potentially significant drug interactions, some of which may lead to loss of therapeutic effect of TECHNIVIE. (  5.3  ) 
+    
+ 
+
+   5.1 Increased Risk of ALT Elevations
+
+
+
+  During clinical trials with ombitasvir, paritaprevir and ritonavir with or without dasabuvir and with or without ribavirin, elevations of ALT to greater than 5 times the upper limit of normal (ULN) occurred in approximately 1% of subjects [see Adverse Reactions (  6.1  )]  . ALT elevations were typically asymptomatic, occurred during the first 4 weeks of treatment, and declined within two to eight weeks of onset with continued dosing.
+
+
+
+ These ALT elevations were significantly more frequent in female subjects who were using ethinyl estradiol-containing medications such as combined oral contraceptives, contraceptive patches or contraceptive vaginal rings. Ethinyl estradiol-containing medications must be discontinued prior to starting therapy with TECHNIVIE [see Contraindications (  4  )]  . Alternative methods of contraception (e.g., progestin only contraception or non-hormonal methods) are recommended during TECHNIVIE therapy. Ethinyl estradiol-containing medications can be restarted approximately 2 weeks following completion of treatment with TECHNIVIE.
+
+
+
+ Women using estrogens other than ethinyl estradiol, such as estradiol and conjugated estrogens used in hormone replacement therapy had a rate of ALT elevation similar to those not receiving any estrogens. Due to the limited number of subjects taking these other estrogens in clinical studies, caution is warranted for co-administration with TECHNIVIE [see Adverse Reactions (  6.1  )]  .
+
+
+
+ Hepatic laboratory testing should be performed during the first 4 weeks of starting treatment and as clinically indicated thereafter. If ALT is found to be elevated above baseline levels, it should be repeated and monitored closely:
+
+
+
+ *  Patients should be instructed to consult their health care professional without delay if they have onset of fatigue, weakness, lack of appetite, nausea and vomiting, jaundice or discolored feces. 
+ *  Consider discontinuing TECHNIVIE if ALT levels remain persistently greater than 10 times the ULN. 
+ *  Discontinue TECHNIVIE if ALT elevation is accompanied by signs or symptoms of liver inflammation or increasing conjugated bilirubin, alkaline phosphatase, or INR. 
+       5.2 Risks Associated With Ribavirin Combination Treatment
+ 
+
+  The warnings and precautions for ribavirin, in particular the pregnancy avoidance warning, apply to this combination regimen. Refer to the ribavirin prescribing information for a full list of the warnings and precautions for ribavirin.
+
+
+
+    5.3 Risk of Adverse Reactions or Reduced Therapeutic Effect Due to Drug Interactions
+
+
+
+  The concomitant use of TECHNIVIE and certain other drugs may result in known or potentially significant drug interactions, some of which may lead to:
+
+
+
+ *  Loss of therapeutic effect of TECHNIVIE and possible development of resistance 
+ *  Possible clinically significant adverse reactions from greater exposures of concomitant drugs or components of TECHNIVIE. 
+    See  Table 4  for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (  7  )]  . Consider the potential for drug interactions prior to and during TECHNIVIE therapy; review concomitant medications during TECHNIVIE therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (  4  ) and Drug Interactions (  7  )]  .
+ 
+
+    5.4 Risk of HIV-1 Protease Inhibitor Drug Resistance in HCV/HIV-1 Co-infected Patients
+
+
+
+  The ritonavir component of TECHNIVIE is also an HIV-1 protease inhibitor and can select for HIV-1 protease inhibitor resistance-associated substitutions. Any HCV/HIV-1 co-infected patients treated with TECHNIVIE should also be on a suppressive antiretroviral drug regimen to reduce the risk of HIV-1 protease inhibitor drug resistance.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

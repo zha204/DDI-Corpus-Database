@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cholbam" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt;=1%) are diarrhea, reflux esophagitis, malaise, jaundice, skin lesion, nausea, abdominal pain, intestinal polyp , urinary tract infection, and peripheral neuropathy. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Manchester Pharmaceuticals, Inc. A wholly owned subsidiary of Retrophin, Inc. at 1 -844-Cholbam or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Clinical safety experience with CHOLBAM consists of:
+
+
+
+ *  Trial 1: a non-randomized, open-label, single-arm trial of 50 patients with bile acid synthesis disorders due to SEDs and 29 patients with PDs including Zellweger spectrum disorders. Safety data are available over the 18 years of the trial. 
+ *  Trial 2: an extension trial of 12 new patients (10 SED and 2 PD) along with 31 (21 SED and 10 PD) patients who rolled-over from Trial 1. Safety data are available for 3 years and 11 months of treatment. 
+    Adverse events were not collected systematically in either of these trials. Most patients received an oral dose of 10 to 15 mg/kg/day of CHOLBAM.
+ 
+
+     Deaths  
+
+
+
+ In Trial 1, among the 50 patients with SEDs, 5 patients aged 1 year or less died, which included three patients originally diagnosed with AKR1D1 deficiency, one with 3beta-HSD deficiency and one with CYP7A1 deficiency. The cause of death was attributed to progression of underlying liver disease in every patient.
+
+
+
+ Of the 29 patients in Trial 1 with PDs including Zellweger spectrum disorders, 12 patients between the ages of 7 months and 2.5 years died. In the majority of these patients (8/12), the cause of death was attributed to progression of underlying liver disease or to a worsening of their primary illness.
+
+
+
+ Two additional patients in Trial 1 (1 SED and 1 PD) died who had been off study medication for more than one year with the cause of death most likely being a progression of their underlying liver disease. Of the patients who died with disease progression, laboratory testing showed abnormal serum transaminases, bilirubin, or cholestasis on liver biopsy suggesting worsening of their underlying cholestasis.
+
+
+
+ In Trial 2, among the 31 patients with SED, two patients (1 new patient and 1 who rolled over from Trial 1) died. The cause of death in both cases was unrelated to their primary treatment or progression of their underlying liver disease.
+
+
+
+ Of the 12 patients with PD in Trial 2, four patients died between the ages of 4 and 8 years (1 new patient and 3 who rolled over from Trial 1). The cause of death in three of these patients was attributed to progression of underlying liver disease or to a worsening of their primary illness.
+
+
+
+     Worsening Liver Impairment  
+
+
+
+ Seven patients in Trial 1(4 SED and 3 PD) and 3 patients in Trial 2 (1 SED and 2 PD) experienced worsening serum transaminases, elevated bilirubin values, or worsening cholestasis on liver biopsy during treatment.
+
+
+
+     Common Adverse Reactions  
+
+
+
+ There were 12 adverse reactions reported across 9 patients in the trials, with diarrhea being the most common reaction in approximately 2% of the patient population. All other adverse reactions represented 1% of the patient population. The breakdown by trial follows:
+
+
+
+ Table 3: Most Common Adverse Reactions in Trials 1 and 2 
+ Adverse Reactions                     Trial 1               Trial 2                  Overall (%)             
+  
+ Diarrhea                                 1                     2                        3 (2%)               
+ Reflux Esophagitis                       1                     0                        1 (1%)               
+ Malaise                                  1                     0                        1 (1%)               
+ Jaundice                                 1                     0                        1 (1%)               
+ Skin lesion                              1                     0                        1 (1%)               
+ Nausea                                   0                     1                        1 (1%)               
+ Abdominal Pain                           0                     1                        1 (1%)               
+ Intestinal Polyp                         0                     1                        1 (1%)               
+ Urinary Tract Infection                  0                     1                        1 (1%)               
+ Peripheral Neuropathy                    0                     1                        1 (1%)               
+          Only one of the reactions (peripheral neuropathy) resulted in discontinuation of medication for a patient in Trial 2. An additional five SED patients (3 from Trial 1 and 2 from Trial 2) and 1 PD patient (Trial 1) discontinued medication and withdrew from the study due to a worsening of their primary disease.
+ 
+
+ The development of symptomatic cholelithiasis requiring cholecystectomy has been reported in a single patient with 3beta-HSD deficiency.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    Exacerbation of Liver Impairment:  Monitor liver function and discontinue CHOLBAM if liver function worsens while on treatment (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Exacerbation of Liver Impairment
+
+
+
+  Monitor liver function and discontinue CHOLBAM in patients who develop worsening of liver function while on treatment. Concurrent elevations of serum gamma glutamyltransferase (GGT), alanine aminotransferase (ALT) may indicate CHOLBAM overdose. [see  Overdosage (10)  ].  Discontinue treatment with CHOLBAM at any time if there are clinical or laboratory indicators of worsening liver function or cholestasis.
+
+
+
+ Evidence of liver impairment was present before treatment with CHOLBAM in approximately 86% (44/51) of patients with bile acid synthesis disorders due to SEDs and in approximately 50% (14/28) of patients with PDs including Zellweger spectrum disorders. Five of the patients (3 SED and 2 PD) with liver impairment at baseline experienced worsening serum transaminases, elevated bilirubin values, or worsening cholestasis on liver biopsy following treatment. An additional 5 patients (2 SED and 3 PD) who did not have baseline cholestasis experienced an exacerbation of their liver disease while on treatment. Exacerbation of liver impairment by CHOLBAM in these patients cannot be ruled out.
+
+
+
+ Six patients with single enzyme defects underwent liver transplant, including four patients diagnosed with AKR1D1 deficiency, one with 3beta-HSD deficiency, and one with CYP7A1 deficiency.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vascepa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common reported adverse reaction (incidence &gt;2% and greater than placebo) was arthralgia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amarin Pharma Inc. at 1-855-VASCEPA (1-855-827-2372) or contact the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse reactions reported in at least 2% and at a greater rate than placebo for patients treated with VASCEPA based on pooled data across two clinical studies are listed in Table 1.
+
+
+
+ Table 1. Adverse Reactions Occurring at Incidence &gt;2% and Greater than Placebo in Double-Blind, Placebo-Controlled TrialsStudies included patients with triglycerides values of 200 to 2000 mg/dL. 
+ Adverse Reaction                          Placebo(N=309)   VASCEPA(N=622)    
+ n                                                %                n                %          
+  
+ Arthralgia                                       3               1.0              14               2.3         
+           An additional adverse reaction from clinical studies was oropharyngeal pain.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   In patients with hepatic impairment, monitor ALT and AST levels periodically during therapy. (  5.1  )
+
+
+
+ Use with caution in patients with known hypersensitivity to fish and/or shellfish. (  5.2  )
+
+
+
+ 
+
+
+
+   5.1 Monitoring: Laboratory Tests
+
+
+
+  In patients with hepatic impairment, alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels should be monitored periodically during therapy with VASCEPA.
+
+
+
+    5.2 Fish Allergy
+
+
+
+  VASCEPA contains ethyl esters of the omega-3 fatty acid, eicosapentaenoic acid (EPA), obtained from the oil of fish. It is not known whether patients with allergies to fish and/or shellfish are at increased risk of an allergic reaction to VASCEPA. VASCEPA should be used with caution in patients with known hypersensitivity to fish and/or shellfish.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="corifact" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reactions reported in frequency &gt;1% are joint inflammation, hypersensitivity, rash, pruritus, erythema, hematoma, arthralgia, headache, elevated thrombin-antithrombin levels, and increased blood lactate dehydrogenase.
+
+
+
+ The serious adverse reactions, reported in one subject each (frequency 0.5%), were hypersensitivity, acute ischemia, and neutralizing antibodies against FXIII.
+
+
+
+    EXCERPT:    *  The most common adverse reactions reported in clinical trials (&gt;1%) were joint inflammation, hypersensitivity, rash, pruritus, erythema, hematoma, arthralgia, headache, elevated thrombin-antithrombin levels, and increased blood lactate dehydrogenase (  6  ). 
+ *  Serious adverse reactions reported in clinical trials were hypersensitivity, acute ischemia, and neutralizing antibodies against FXIII (  5.1  ,  6  ). 
+      To report SUSPECTED ADVERSE REACTIONS, contact the CSL Behring Pharmacovigilance Department at 1-866-915-6958 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+    Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.  
+
+
+
+ Twelve clinical studies included a total of 188 subjects, 108 subjects were &lt;16 years of age  [see  Use in Specific Populations (8.4)  ]  and a total of approximately 4314 infusions of Corifact were administered in the studies.
+
+
+
+     Efficacy and Safety Study  
+
+
+
+ A 12-month, prospective, open-label, multicenter efficacy and safety study was conducted in 25 males and 16 females ranging in age from less than 1 year to 42 years old (2 infants, 8 children, 8 adolescents, and 23 adults). There were no reports of deaths, life-threatening events, or adverse events that led to discontinuation or withdrawal from the study. Four subjects received FXIII in the peri-operative setting, and no treatment-related AEs were reported. An additional subject was pre-treated with plasma and experienced a hypersensitivity reaction.
+
+
+
+   6.2 Immunogenicity
+
+  A case of neutralizing antibodies against FXIII was reported in the postmarketing clinical study. The patient received prophylactic treatment with Corifact for ten years. Concomitant medications included interferon for hepatitis C infection. This patient presented with bruising, and post-infusion FXIII levels were found to be lower than expected. Over several weeks, FXIII recovery values decreased, so the dose and frequency of treatments were increased. Neutralizing antibodies to FXIII were detected, interferon treatment was discontinued, and the subject underwent plasmapheresis. Within a month, neutralizing antibodies were no longer detectable, FXIII recovery levels improved, and the previous prophylactic regimen was resumed.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reaction may occur (  5.1  ). 
+ *  Inhibitory antibodies have been detected in patients receiving Corifact (  5.2  ). 
+ *  Thrombotic events have been reported with Corifact (  5.3  ). 
+ *  May carry a risk of transmitting infectious agents e.g., viruses, and theoretically, the Creutzfeldt-Jakob Disease (CJD) agent (  5.4  ). 
+    
+ 
+
+   5.1 Hypersensitivity
+
+
+
+  Hypersensitivity reactions have been observed with Corifact. If signs or symptoms of anaphylaxis or hypersensitivity reactions (including urticaria, rash, tightness of the chest, wheezing, hypotension) occur, immediately discontinue administration [see  Patient Counseling Information (17)  ]  and institute appropriate treatment.
+
+
+
+    5.2 Immunogenicity
+
+
+
+  Development of inhibitory antibodies against FXIII has been detected in patients receiving Corifact. Monitor patients for development of inhibitory antibodies. Presence of inhibitory antibodies may manifest as an inadequate response to treatment. If expected plasma FXIII activity levels are not attained, or if breakthrough bleeding occurs while receiving prophylaxis, perform an assay that measures FXIII inhibitory antibody concentrations.
+
+
+
+    5.3 Thromboembolic Risk
+
+
+
+  Thromboembolic complications have been reported. Monitor patients with known risk factors for thrombotic events.
+
+
+
+    5.4 Transmission of Infectious Agents
+
+
+
+  Corifact is made from human plasma. Because this product is made from human blood, it may carry a risk of transmitting infectious agents, e.g., viruses, and theoretically, the Creutzfeldt-Jakob disease (CJD) agent. This also applies to unknown or emerging viruses and other pathogens.
+
+
+
+ All infections thought by a physician to have been possibly transmitted by this product are to be reported by the physician or other healthcare provider to the CSL Behring Pharmacovigilance Department at 1-866-915-6958 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .
+
+
+
+    5.5 Monitoring Laboratory Tests
+
+
+
+    *  Monitor patient's trough FXIII activity level during treatment with Corifact [  see  Administration (2.2)  ] . 
+ *  If breakthrough bleeding occurs, or if expected peak plasma FXIII activity levels are not attained, perform an investigation to determine the presence of FXIII inhibitory antibodies [see  Clinical Pharmacology (12.3)  ] . 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

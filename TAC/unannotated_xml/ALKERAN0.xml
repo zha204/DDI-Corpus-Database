@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="alkeran0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Hematologic
+
+  The most common side effect is bone marrow suppression leading to leukopenia, thrombocytopenia, and anemia. Although bone marrow suppression frequently occurs, it is usually reversible if melphalan is withdrawn early enough. However, irreversible bone marrow failure has been reported.
+
+
+
+   Gastrointestinal
+
+  Nausea, vomiting, diarrhea, and oral ulceration occur. Hepatic disorders ranging from abnormal liver function tests to clinical manifestations such as hepatitis and jaundice have been reported.
+
+
+
+   Miscellaneous
+
+  Other reported adverse reactions include: pulmonary fibrosis (including fatal outcomes) and interstitial pneumonitis, skin hypersensitivity, maculopapular rashes, vasculitis, alopecia, and hemolytic anemia. Allergic reactions, including urticaria, edema, skin rashes, and rare anaphylaxis, have occurred after multiple courses of treatment. Cardiac arrest has also been reported rarely in association with such reports.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  ALKERAN (melphalan) should be administered under the supervision of a qualified physician experienced in the use of cancer chemotherapeutic agents. Severe bone marrow suppression with resulting infection or bleeding may occur. Melphalan is leukemogenic in humans.
+
+
+
+ Melphalan produces chromosomal aberrations in vitro and in vivo and, therefore, should be considered potentially mutagenic in humans.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

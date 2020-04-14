@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ciclopirox0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In clinical trials, 140 (39%) of 359 subjects treated with ciclopirox gel reported adverse experiences, irrespective of relationship to test materials, which resulted in 8 subjects discontinuing treatment. The most frequent experience reported was skin burning sensation upon application, which occurred in approximately 34% of seborrheic dermatitis patients and 7% of tinea pedis patients. Adverse experiences occurring between 1% to 5% were contact dermatitis and pruritus. Other reactions that occurred in less than 1% included dry skin, acne, rash, alopecia, pain upon application, eye pain, and facial edema.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

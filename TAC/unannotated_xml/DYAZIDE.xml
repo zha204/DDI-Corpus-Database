@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dyazide" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse effects are listed in decreasing order of severity.
+
+
+
+   Hypersensitivity
+
+  Anaphylaxis, rash, urticaria, subacute cutaneous lupus erythematosus-like reactions, photosensitivity.
+
+
+
+   Cardiovascular
+
+  Arrhythmia, postural hypotension.
+
+
+
+   Metabolic
+
+  Diabetes mellitus, hyperkalemia, hypokalemia, hyponatremia, acidosis, hypercalcemia, hyperglycemia, glycosuria, hyperuricemia, hypochloremia.
+
+
+
+   Gastrointestinal
+
+  Jaundice and/or liver enzyme abnormalities, pancreatitis, nausea and vomiting, diarrhea, constipation, abdominal pain.
+
+
+
+   Renal
+
+   Acute renal failure (one case of irreversible renal failure has been reported), interstitial nephritis, renal stones composed primarily of triamterene, elevated BUN, and serum creatinine, abnormal urinary sediment.
+
+
+
+   Hematologic
+
+  Leukopenia, thrombocytopenia and purpura, megaloblastic anemia.
+
+
+
+   Musculoskeletal
+
+  Muscle cramps.
+
+
+
+   Central Nervous System
+
+  Weakness, fatigue, dizziness, headache, dry mouth.
+
+
+
+   Miscellaneous
+
+  Impotence, sialadenitis.
+
+
+
+ Thiazides alone have been shown to cause the following additional adverse reactions:
+
+
+
+   Central Nervous System
+
+  Paresthesias, vertigo.
+
+
+
+   Ophthalmic
+
+  Xanthopsia, transient blurred vision.
+
+
+
+   Respiratory
+
+  Allergic pneumonitis, pulmonary edema, respiratory distress.
+
+
+
+   Other
+
+  Necrotizing vasculitis, exacerbation of lupus.
+
+
+
+   Hematologic
+
+  Aplastic anemia, agranulocytosis, hemolytic anemia.
+
+
+
+   Neonate and infancy
+
+  Thrombocytopenia and pancreatitis-rarely, in newborns whose mothers have received thiazides during pregnancy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

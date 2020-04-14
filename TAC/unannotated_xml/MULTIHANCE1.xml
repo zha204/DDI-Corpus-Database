@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="multihance1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6  ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  Nephrogenic systemic fibrosis [see Warnings and Precautions  (5.1)  ]  
+ *  Hypersensitivity reactions [see Warnings and Precautions  (5.2)  ]  
+      EXCERPT:   The most commonly reported adverse reactions are nausea (1.3%) and headache (1.2%).  (6)  
+ 
+
+  
+
+
+
+     To report SUSPECTED ADVERSE REACTIONS, contact Bracco Diagnostics Inc. at 1-800-257-5181 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1  Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     Adults    
+
+
+
+ In all clinical trials with MultiHance, a total of 4967 adult subjects (137 healthy volunteers and 4830 patients) received MultiHance at doses ranging from 0.005 to 0.4 mmol/kg. There were 2838 (57%) men and 2129 (43%) women with a mean age of 56.5 years (range 18 to 93 years). A total of 4403 (89%) subjects were Caucasian, 134 (3%) Black, 275 (6%) Asian, 40 (1%) Hispanic, 70 (1%) in other racial groups, and for 45 (1%) subjects, race was not reported.
+
+
+
+ The most commonly reported adverse reactions in adult subjects who received MultiHance were nausea (1.3%) and headache (1.2%). Most adverse reactions were mild to moderate in intensity. One subject experienced a serious anaphylactoid reaction with laryngeal spasm and dyspnea [  see Warnings and Precautions  (5.2)    ]. Serious adverse reactions consisting of convulsions, pulmonary edema, acute necrotizing pancreatitis, and anaphylactoid reactions were reported in 0.1% of subjects in clinical trials.
+
+
+
+ Adverse reactions that occurred in at least 0.5% of 4967 adult subjects who received MultiHance are listed below (Table 2), in decreasing order of occurrence within each system.
+
+
+
+ TABLE 2: ADVERSE REACTIONS REPORTED IN &gt;= 0.5% OF ADULT SUBJECTS WHO RECEIVED MULTIHANCE IN CLINICAL TRIALS 
+ Number of subjects dosed   4967                        
+ Number of subjects with any adverse reaction  517 (10.4%)                 
+ Gastrointestinal Disorders                              
+ Nausea                     67 (1.3%)                   
+ General Disorders and Administration Site Disorders                              
+ Feeling Hot                49 (1.0%)                   
+ Injection Site Reaction    58 (1.2%)                   
+ Nervous System Disorders                               
+ Headache                   60 (1.2%)                   
+ Dysgeusia                  33 (0.7%)                   
+ Paresthesia                24 (0.5%)                   
+ Dizziness                  24 (0.5%)                   
+      The following adverse reactions occurred in less than 0.5% of the 4967 adult subjects who received MultiHance. Serious adverse reactions described above are not repeated below.    Blood and Lymphatic System Disorders:    Basophilia;    Cardiac Disorders:    Atrioventricular block first degree;    Eye Disorders:    Eye pruritus, eye swelling, ocular hyperemia, visual disturbance;    Gastrointestinal Disorders:    Abdominal pain or discomfort diarrhea, dry mouth, lip swelling, paraesthesia oral, tongue edema, vomiting;    General Disorders and Administration Site Conditions:    Chest pain or discomfort, chills, malaise;    Immune System Disorders:    Hypersensitivity;    Investigations:    Nonspecific changes in laboratory tests (including hematology, blood chemistry, liver enzymes and urinalysis), blood pressure and electrocardiogram parameters (including PR, QRS and QT intervals and ST-T segment changes).    Musculoskeletal and Connective Tissue Disorders:    Myalgia;    Nervous System Disorders:    Parosmia, tremor;    Respiratory, Thoracic and Mediastinal Disorders:    Dyspnea, laryngospasm, nasal congestion, sneezing, wheezing;    Skin and Subcutaneous Tissue Disorders:    Hyperhidrosis, pruritus, rash, swelling face, urticaria.
+ 
+
+     Pediatric    
+
+
+
+ In clinical trials of MultiHance in MRI of the CNS, 217 pediatric subjects received MultiHance at a dose of 0.1 mmol/kg. A total of 112 (52%) subjects were male and the overall mean age was 8.3 years (range 4 days to 17 years). A total of 168 (77%) subjects were Caucasian, 12 (6%) Black, 12 (6%) Asian, 24 (11%), Hispanic, and 1 (&lt;1%) in other racial groups.
+
+
+
+ Adverse reactions were reported for 14 (6.5%) of the subjects. The frequency and the nature of the adverse reactions were similar to those seen in the adult patients. The most commonly reported adverse reactions were vomiting (1.4%), pyrexia (0.9%), and hyperhidrosis (0.9%). No subject died during study participation. A serious adverse reaction of worsening of vomiting was reported for one (0.5%) patient with a brain tumor (glioma) for which a causal relationship to MultiHance could not be excluded.
+
+
+
+   6.2  Post-marketing Experience
+
+  The following adverse reactions have been identified during post approval use of MultiHance. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Anaphylactic, anaphylactoid and hypersensitivity reactions manifested with various degrees of severity up to anaphylactic shock, loss of consciousness and death. The reactions generally involved signs or symptoms of respiratory, cardiovascular, and/or mucocutaneous abnormalities.
+
+
+
+ Extravasation of MultiHance may lead to injection site reactions, characterized by local pain or burning sensation, swelling, blistering, and necrosis [    see Warnings and Precautions  (5.4)      ].
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+  WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+      Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities. NSF may result in fatal or debilitating systemic fibrosis affecting the skin, muscle and internal organs.    
+
+
+
+ *  The risk for NSF appears highest among patients with:chronic, severe kidney disease (GFR &lt;30 mL/min/1.73m2), oracute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (e.g. age &gt; 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing. 
+ *  For patients at highest risk for NSF, do not exceed the recommended MultiHance dose and allow a sufficient period of time for elimination of the drug from the body prior to re-administration. [see Warnings and Precautions (5.1)] 
+      EXCERPT:       WARNING: NEPHROGENIC SYSTEMIC FIBROSIS    
+ 
+
+       See full prescribing information for complete boxed warning      
+
+
+
+     Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities.     
+
+
+
+ *  The risk for NSF appears highest among patients with:chronic, severe kidney disease (GFR &lt;30 mL/min/1.73m2), or acute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (e.g. age &gt; 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing (5.1). 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5  WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Nephrogenic Systemic Fibrosis has occurred in patients with impaired elimination of GBCAs. Higher than recommended dosing or repeated dosing appears to increase the risk  (5.1)   
+ *  Hypersensitivity: anaphylactic/anaphylactoid reactions with cardiovascular, respiratory and cutaneous manifestations, ranging from mild to severe reactions including shock can occur. Monitor patients closely for need of emergency cardiorespiratory support.  (5.2)   
+    
+ 
+
+   5.1  Nephrogenic Systemic Fibrosis (NSF)
+
+
+
+  Gadolinium-based contrast agents (GBCAs) increase the risk for nephrogenic systemic fibrosis (NSF) among patients with impaired elimination of the drugs. Avoid use of GBCAs among these patients unless the diagnostic information is essential and not available with non-contrast enhanced MRI or other modalities. The GBCA-associated NSF risk appears highest for patients with chronic, severe kidney disease (GFR &lt;30 mL/min/1.73m  2  ) as well as patients with acute kidney injury. The risk appears lower for patients with chronic, moderate kidney disease (GFR 30-59 mL/min/1.73m  2  ) and little, if any, for patients with chronic, mild kidney disease (GFR 60-89 mL/min/1.73m  2  ). NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs. Report any diagnosis of NSF following MultiHance administration to Bracco Diagnostics (1-800-257-5181) or FDA (1-800-FDA-1088 or  www.fda.gov/medwatch    ).
+
+
+
+ Screen patients for acute kidney injury and other conditions that may reduce renal function. Features of acute kidney injury consist of rapid (over hours to days) and usually reversible decrease in kidney function, commonly in the setting of surgery, severe infection, injury or drug-induced kidney toxicity. Serum creatinine levels and estimated GFR may not reliably assess renal function in the setting of acute kidney injury. For patients at risk for chronically reduced renal function (e.g., age &gt; 60 years, diabetes mellitus or chronic hypertension), estimate the GFR through laboratory testing.
+
+
+
+ Among the factors that may increase the risk for NSF are repeated or higher than recommended doses of a GBCA and the degree of renal impairment at the time of exposure. Record the specific GBCA and the dose administered to a patient. For patients at highest risk for NSF, do not exceed the recommended MultiHance dose and allow a sufficient period of time for elimination of the drug prior to re-administration. For patients receiving hemodialysis, physicians may consider the prompt initiation of hemodialysis following the administration of a GBCA in order to enhance the contrast agent's elimination. The usefulness of hemodialysis in the prevention of NSF is unknown [  see Dosage and Administration  (2)  and Clinical Pharmacology  (12)      ].
+
+
+
+    5.2  Hypersensitivity Reactions
+
+
+
+  Anaphylactic and anaphylactoid reactions have been reported, involving cardiovascular, respiratory, and/or cutaneous manifestations. Some patients experienced circulatory collapse and died. In most cases, initial symptoms occurred within minutes of MultiHance administration and resolved with prompt emergency treatment.
+
+
+
+ Prior to MultiHance administration, ensure the availability of personnel trained and medications to treat hypersensitivity reactions. If such a reaction occurs stop MultiHance and immediately begin appropriate therapy.  Additionally, consider the risk for hypersensitivity reactions, especially in patients with a history of hypersensitivity reactions or a history of asthma or other allergic disorders. Observe patients for signs and symptoms of a hypersensitivity reaction during and for up to 2 hours after MultiHance administration.
+
+
+
+    5.3  Acute Renal Failure
+
+
+
+  In patients with renal insufficiency, acute renal failure requiring dialysis or worsening renal function have occurred with the use of gadolinium-based contrast agents. The risk of renal failure may increase with increasing dose of the contrast agent. Screen all patients for renal dysfunction by obtaining a history and/or laboratory tests. Consider follow-up renal function assessments for patients with a history of renal dysfunction.
+
+
+
+    5.4  Extravasation and Injection Site Reactions
+
+
+
+  Extravasation of MultiHance may lead to injection site reactions, characterized by local pain or burning sensation, swelling, blistering, and necrosis. In animal experiments, local reactions including eschar and necrosis were noted even on Day 8 post perivenous injection of MultiHance. Exercise caution to avoid local extravasation during intravenous administration of MultiHance. If extravasation occurs, evaluate and treat as necessary if local reactions develop.
+
+
+
+    5.5  Cardiac Arrhythmias
+
+
+
+  Cardiac arrhythmias have been observed in patients receiving MultiHance in clinical trials [  see Adverse Reactions  (6.1)      ]. Assess patients for underlying conditions or medications that predispose to arrhythmias.
+
+
+
+ A double-blind, placebo-controlled, 24-hour post dose continuous monitoring, crossover study in 47 subjects evaluated the effect of 0.2 mmol/kg MultiHance on ECG intervals, including QTc. The average changes in QTc values compared with placebo were minimal (&lt; 5 msec). QTc prolongation between 30 and 60 msec were noted in 20 subjects who received MultiHance vs. 11 subjects who received placebo. Prolongations &gt;= 61 msec were noted in 6 subjects who received MultiHance and in 3 subjects who received placebo. None of these subjects had associated malignant arrhythmias. The effects on QTc by MultiHance dose, other drugs, and medical conditions were not systematically studied.
+
+
+
+    5.6  Interference with Visualization of Certain Lesions
+
+
+
+  Certain lesions seen on non-contrast images may not be seen on contrast-images. Exercise caution when interpreting contrast MR images in the absence of companion non-contrast MR images.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

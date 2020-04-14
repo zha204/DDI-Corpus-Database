@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="silvadene" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Several cases of transient leukopenia have been reported in patients receiving silver sulfadiazine therapy.  1,2,3  Leukopenia associated with silver sulfadiazine administration is primarily characterized by decreased neutrophil count. Maximal white blood cell depression occurs within 2 to 4 days of initiation of therapy. Rebound to normal leukocyte levels follows onset within 2 to 3 days. Recovery is not influenced by continuation of silver sulfadiazine therapy. An increased incidence of leukopenia has been reported in patients treated concurrently with cimetidine.
+
+
+
+ Other infrequently occurring events include skin necrosis, erythema multiforme, skin discoloration, burning sensation, rashes, and interstitial nephritis.
+
+
+
+ Reduction in bacterial growth after application of topical antibacterial agents has been reported to permit spontaneous healing of deep partial-thickness burns by preventing conversion of the partial thickness to full thickness by sepsis. However, reduction in bacterial colonization has caused delayed separation, in some cases necessitating escharotomy in order to prevent contracture.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="diethylpropion" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+    Cardiovascular:  Precordial pain, arrhythmia (including ventricular), ECG changes, tachycardia, elevation of blood pressure, palpitation and rare reports of pulmonary hypertension. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination, have been reported. Valvulopathy has been very rarely reported with diethylpropion hydrochloride monotherapy, but the causal relationship remains uncertain.
+
+
+
+   Central Nervous System:  In a few epileptics an increase in convulsive episodes has been reported; rarely psychotic episodes at recommended doses; dyskinesia, blurred vision, overstimulation, nervousness, restlessness, dizziness, jitteriness, insomnia, anxiety, euphoria, depression, dysphoria, tremor, mydriasis, drowsiness, malaise, headache, and cerebrovascular accident
+
+
+
+   Gastrointestinal:  Vomiting, diarrhea, abdominal discomfort, dryness of the mouth, unpleasant taste, nausea, constipation, other gastrointestinal disturbances
+
+
+
+   Allergic:  Urticaria, rash, ecchymosis, erythema
+
+
+
+   Endocrine:  Impotence, changes in libido, gynecomastia, menstrual upset
+
+
+
+   Hematopoietic System:  Bone marrow depression, agranulocytosis, leukopenia
+
+
+
+   Miscellaneous:  A variety of miscellaneous adverse reactions has been reported by physicians. These include complaints such as dysuria, dyspnea, hair loss, muscle pain, increased sweating, and polyuria.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

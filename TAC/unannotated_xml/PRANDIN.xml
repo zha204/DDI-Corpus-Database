@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="prandin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Hypoglycemia: See    PRECAUTIONS    and    OVERDOSAGE    sections.
+
+
+
+ PRANDIN has been administered to 2931 individuals during clinical trials. Approximately 1500 of these individuals with type 2 diabetes have been treated for at least 3 months, 1000 for at least 6 months, and 800 for at least 1 year. The majority of these individuals (1228) received PRANDIN in one of five 1-year, active-controlled trials. The comparator drugs in these 1-year trials were oral sulfonylurea drugs (SU) including glyburide and glipizide. Over one year, 13% of PRANDIN patients were discontinued due to adverse events, as were 14% of SU patients. The most common adverse events leading to withdrawal were hyperglycemia, hypoglycemia, and related symptoms (see    PRECAUTIONS    ). Mild or moderate hypoglycemia occurred in 16% of PRANDIN patients, 20% of glyburide patients, and 19% of glipizide patients.
+
+
+
+ The table below lists common adverse events for PRANDIN patients compared to both placebo (in trials 12 to 24 weeks duration) and to glyburide and glipizide in one year trials. The adverse event profile of PRANDIN was generally comparable to that for sulfonylurea drugs (SU).
+
+
+
+ Commonly Reported Adverse Events (% of Patients)Events &gt;= 2% for the PRANDIN group in the placebo-controlled studies and &gt;= events in the placebo group 
+  EVENT                    PRANDIN                 PLACEBO                PRANDIN           SU                 
+  N = 352                  N = 108                 N = 1228               N = 498           
+  Placebo controlled studies    Active controlled studies    
+  Metabolic                                        
+  Hypoglycemia             31See trial description in CLINICAL PHARMACOLOGY, Clinical Trials    7                      16                20                 
+                           
+  Respiratory                                      
+  URI                      16                      8                      10                10                 
+  Sinusitis                6                       2                      3                 4                  
+  Rhinitis                 3                       3                      7                 8                  
+  Bronchitis               2                       1                      6                 7                  
+                           
+  Gastrointestinal                                 
+  Nausea                   5                       5                      3                 2                  
+  Diarrhea                 5                       2                      4                 6                  
+  Constipation             3                       2                      2                 3                  
+  Vomiting                 3                       3                      2                 1                  
+  Dyspepsia                2                       2                      4                 2                  
+                           
+  Musculoskeletal                                  
+  Arthralgia               6                       3                      3                 4                  
+  Back Pain                5                       4                      6                 7                  
+                           
+  Other                                            
+  Headache                 11                      10                     9                 8                  
+  Paresthesia              3                       3                      2                 1                  
+  Chest pain               3                       1                      2                 1                  
+  Urinary tract infection    2                       1                      3                 3                  
+  Tooth disorder           2                       0                      &lt;1                &lt;1                 
+  Allergy                  2                       0                      1                 &lt;1                 
+             Cardiovascular Events
+   In one-year trials comparing PRANDIN to sulfonylurea drugs, the incidence of angina was comparable (1.8%) for both treatments, with an incidence of chest pain of 1.8% for PRANDIN and 1.0% for sulfonylureas. The incidence of other selected cardiovascular events (hypertension, abnormal EKG, myocardial infarction, arrhythmias, and palpitations) was &lt;= 1% and not different between PRANDIN and the comparator drugs.
+
+
+
+ The incidence of total serious cardiovascular adverse events, including ischemia, was higher for repaglinide (4%) than for sulfonylurea drugs (3%) in controlled comparator clinical trials. In 1-year controlled trials, PRANDIN treatment was not associated with excess mortality when compared to the rates observed with other oral hypoglycemic agent therapies.
+
+
+
+ Summary of Serious Cardiovascular Events (% of total patients with events) in Trials Comparing PRANDIN to Sulfonylureas 
+                                           PRANDIN                         SUglyburide and glipizide         
+  Total Exposed                            1228                            498                               
+  Serious CV Events                        4%                              3%                                
+  Cardiac Ischemic Events                  2%                              2%                                
+  Deaths due to CV Events                  0.5%                            0.4%                              
+          Seven controlled clinical trials included PRANDIN combination therapy with NPH-insulin (n=431), insulin formulations alone (n=388) or other combinations (sulfonylurea plus NPH-insulin or PRANDIN plus metformin) (n=120). There were six serious adverse events of myocardial ischemia in patients treated with PRANDIN plus NPH-insulin from two studies, and one event in patients using insulin formulations alone from another study.
+ 
+
+   Infrequent Adverse Events (&lt;1% of Patients)
+
+  Less common adverse clinical or laboratory events observed in clinical trials included elevated liver enzymes, thrombocytopenia, leukopenia, and anaphylactoid reactions.
+
+
+
+ Although no causal relationship with repaglinide has been established, postmarketing experience includes reports of the following rare adverse events: alopecia, hemolytic anemia, pancreatitis, Stevens-Johnson Syndrome, and severe hepatic dysfunction including jaundice and hepatitis.
+
+
+
+   Combination Therapy with Thiazolidinediones
+
+  During 24-week treatment clinical trials of PRANDIN-rosiglitazone or PRANDIN-pioglitazone combination therapy (a total of 250 patients in combination therapy), hypoglycemia (blood glucose &lt; 50 mg/dL) occurred in 7% of combination therapy patients in comparison to 7% for PRANDIN monotherapy, and 2% for thiazolidinedione monotherapy.
+
+
+
+ Peripheral edema was reported in 12 out of 250 PRANDIN-thiazolidinedione combination therapy patients and 3 out of 124 thiazolidinedione monotherapy patients, with no cases reported in these trials for PRANDIN monotherapy. When corrected for dropout rates of the treatment groups, the percentage of patients having events of peripheral edema per 24 weeks of treatment were 5% for PRANDIN-thiazolidinedione combination therapy, and 4% for thiazolidinedione monotherapy. There were reports in 2 of 250 patients (0.8%) treated with PRANDIN-thiazolidinedione therapy of episodes of edema with congestive heart failure. Both patients had a prior history of coronary artery disease and recovered after treatment with diuretic agents. No comparable cases in the monotherapy treatment groups were reported.
+
+
+
+ Mean change in weight from baseline was +4.9 kg for PRANDIN-thiazolidinedione therapy. There were no patients on PRANDIN-thiazolidinedione combination therapy who had elevations of liver transaminases (defined as 3 times the upper limit of normal levels).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>
