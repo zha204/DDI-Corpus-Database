@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="alocril" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently reported adverse experience was headache (~40%).
+
+
+
+ Ocular burning, irritation and stinging, unpleasant taste, and nasal congestion have been reported to occur in 10 - 30% of patients. Other events occurring between 1 - 10% included asthma, conjunctivitis, eye redness, photophobia, and rhinitis.
+
+
+
+ Some of these events were similar to the underlying ocular disease being studied.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

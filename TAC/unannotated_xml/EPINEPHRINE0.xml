@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="epinephrine0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions
+
+  Transient and minor side effects of anxiety, headache, fear and palpitations occur only with systemic therapeutic doses, especially in hyperthyroid individuals. Adverse effects such as cardiac arrhythmias and excessive rise in blood pressure may occur with systemic therapeutic doses or with inadvertent overdosage. Other adverse reactions include cerebral hemorrhage, hemiplegia, subarachnoid hemorrhage, anginal pain in patients with angina pectoris, anxiety, restlessness, headache, tremor, weakness, dizziness, pallor and respiratory difficulty. Such reactions are unlikely when epinephrine is diluted to 1:200,000 for injection with local anesthetic agents.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

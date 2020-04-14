@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="phoxillum" track="TAC2017_ADR">
+  <Text>
+    <Section name="warnings and precautions" id="S1">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hemodynamic status and fluid, electrolyte and acid-base balance should be monitored. Abnormalities may be corrected by the use of appropriate formulations of PRISMASOL and PHOXILLUM solutions (  5.1  ) 
+ *  Antidiabetic therapy may need adjustment during treatment with dextrose containing formulations (  5.2  ) 
+     To report SUSPECTED ADVERSE REACTIONS, contact Gambro at 1-800-651-2623 or FDA 1-800-FDA-1088 or www.fda.gov/medwatch    
+ 
+
+ 
+
+
+
+   5.1 Electrolyte and Volume Abnormalities
+
+
+
+   Monitor hemodynamic status and fluid, electrolyte and acid-base balance throughout the procedure. During hemofiltration or hemodiafiltration using PRISMASOL or PHOXILLUM replacement solutions, abnormalities in the plasma concentration of potassium, calcium, magnesium, and phosphate may develop. These abnormalities may be corrected by changing the formulations of replacement solution or by supplementation [see  Dosage and Administration (2)  ].    
+
+
+
+    5.2 Hyperglycemia with Dextrose Containing Solutions
+
+
+
+  The use of PRISMASOL replacement solutions containing dextrose may increase the risk for hyperglycemia in patients with impaired glucose tolerance. Patients may require initiation of or modification of antidiabetic therapy during treatment with PRISMASOL solutions containing dextrose. Monitor blood glucose.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

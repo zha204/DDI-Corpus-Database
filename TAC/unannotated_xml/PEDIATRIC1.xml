@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="pediatric1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling.
+
+
+
+ *    Allergic reactions to thiamine [ see Warnings and Precautions (  5.2  ) ]. 
+ *    Hypervitaminosis A [ see Warnings and Precautions (  5.3  ) ] 
+    The following adverse reactions have been identified during postapproval use of the vitamins in INFUVITE PEDIATRIC. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+ 
+
+ *      Dermatologic: rash, erythema, pruritis 
+ *      CNS: headache, dizziness, agitation, anxiety 
+ *      Ophthalmic: diplopia 
+      EXCERPT:   Adverse reactions have included anaphylaxis, rash, erythema, pruritis, headache, dizziness, agitation, anxiety, diplopia (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Sandoz Inc. at 1-800-525-8747    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Risk of Aluminum Toxicity: For at risk patients (renal failure or those with prolonged therapy), consider periodic monitoring of aluminum levels (  5.1  ) 
+ *     Allergic Reactions: to thiamine may occur (  5.2  ) 
+ *     Hypervitaminosis  A : Patients with renal failure or liver disease may be at higher risk (  5.3  ) 
+ *     Vitamin K Antagonizes Warfarin's Anticoagulant Action: Monitor INR (  5.4  ,  7.2  ) 
+ *     Interferes with  Megaloblastic  Anemia Diagnosis: Avoid during testing for this disorder (  5.5  ) 
+ *     Risk of Vitamin Deficiencies or Excesses: Monitor blood vitamin concentrations (  5.6  ) 
+ *     False Negative Urine Glucose Tests: due to vitamin C (  5.7  ) 
+ *     Risk of Vitamin E Toxicity: Additional oral and parenteral vitamin E may result in elevated vitamin E blood concentrations in infants (  5.8  ) 
+ *     Low Vitamin A Levels: Monitor vitamin A levels (  5.9  ) 
+ *     Risk of E-  Ferol  Syndrome: due to polysorbates (  5.10  ) 
+    
+ 
+
+   5.1 Aluminum Toxicity
+
+
+
+  INFUVITE PEDIATRIC contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration in pediatric patients with renal impairment. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solution, which contain aluminum.
+
+
+
+ Patients with renal impairment, including premature neonates who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. Consider periodic monitoring of aluminum levels with prolonged parenteral administration of INFUVITE PEDIATRIC.
+
+
+
+    5.2 Allergic Reactions to Thiamine
+
+
+
+  Allergic reactions such as urticaria, shortness of breath, wheezing and angioedema have been reported following intravenous administration of thiamine, which is found in INFUVITE PEDIATRIC. There have been rare reports of anaphylaxis following intravenous doses of thiamine. No fatal anaphylaxis associated with INFUVITE PEDIATRIC has been reported.
+
+
+
+    5.3. Hypervitaminosis A
+
+
+
+  Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver disease with vitamin A, an ingredient found in INFUVITE PEDIATRIC, should be undertaken with caution [ See Use in Specific Populations (     8.6     ,     8.7     )  ]. Blood levels of Vitamin A should be monitored periodically.
+
+
+
+    5.4 Vitamin K Antagonizes the Anticoagulant Action of Warfarin
+
+
+
+  Vitamin K, which is found in INFUVITE PEDIATRIC ,  antagonizes the anticoagulant action of warfarin.   In patients who are on warfarin anticoagulant therapy receiving parenteral multivitamins such as with INFUVITE PEDIATRIC blood levels of prothrombin/INR should be periodically monitored to determine if dose of warfarin needs to be adjusted.
+
+
+
+    5.5 Interferes with Diagnosis of Megaloblastic Anemia
+
+
+
+  Avoid the use of INFUVITE PEDIATRIC in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. The folic acid and the cyanocobalamin in INFUVITE PEDIATRIC can mask serum deficits of folic acid and cyanocobalamin in these patients.
+
+
+
+    5.6 Potential to Develop Vitamin Deficiencies or Excesses
+
+
+
+  In patients receiving parenteral multivitamins such as with INFUVITE PEDIATRIC, blood concentration should be periodically monitored to determine if vitamin deficiencies or excesses are developing. INFUVITE PEDIATRIC may not correct long-standing specific vitamin deficiencies. The administration of additional doses of specific vitamins may be required [ see Dosage and Administration (     2.2  )  ].
+
+
+
+    5.7 Interference with Urine Glucose Testing
+
+
+
+  INFUVITE PEDIATRIC contains vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations.
+
+
+
+    5.8 Vitamin E Overdose in Infants Receiving Additional Vitamin E
+
+
+
+  Avoid additional oral or parental doses of vitamin E in infants. Daily dose of INFUVITE PEDIATRIC contains adequate concentrations of vitamin E required to achieve normal blood levels of vitamin E. Therefore, additional vitamin E supplementations of patients receiving INFUVITE PEDIATRIC may result in elevated blood concentrations of vitamin E and potential vitamin E toxicity in infants.
+
+
+
+    5.9 Risk of Low Vitamin A Levels
+
+
+
+  Vitamin A may adhere to plastic, resulting in lower vitamin A concentrations after administration of INFUVITE PEDIATRIC. Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of vitamin A may be required, especially in low-birth weight infants.
+
+
+
+    5.10 Risk of E-Ferol Syndrome in Low-Birth Weight Infants
+
+
+
+  E-Ferol syndrome manifested by thrombocytopenia, renal dysfunction, hepatomegaly, cholestasis, ascites, hypotension and metabolic acidosis has been reported in low-birth weight infants following administration of polysorbates which are found in INFUVITE PEDIATRIC. No E-Ferol syndrome associated with INFUVITE PEDIATRIC has been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

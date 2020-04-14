@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="otovel" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+
+
+ Hypersensitivity Reactions [  see  Warnings and Precautions (5.1)    ]
+
+
+
+   EXCERPT:   The most common adverse reactions that occurred in &gt;=1 patient were otorrhea, excessive granulation tissue, ear infection, ear pruritus, tympanic membrane disorder, auricular swelling and balance disorder (  6.1  )
+
+
+
+     
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Arbor Pharmaceuticals at 1-866-516-4950 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical trials, 224 patients with AOMT were treated with OTOVEL for a median duration of 7 days. All the patients received at least one dose of OTOVEL. There were 220 patients who received at least one dose of ciprofloxacin (CIPRO) and 213 patients received at least one dose of fluocinolone acetonide (FLUO).
+
+
+
+ The most common adverse reactions that occurred in 1 or more patients are as follows:
+
+
+
+   Table 1: Selected Adverse Reactions that Occurred in 1 or more Patients in the OTOVEL Group  
+
+
+
+
+  Adverse Reactions1         Number (%) of Patients     
+                             OTOVEL  N=224              CIPRO  N=220               FLUO  N=213                
+  Otorrhea                   12 (5.4%)                  9 (4.1%)                   12 (5.6%)                  
+  Excessive granulation tissue    3 (1.3%)                   0 (0.0%)                   2 (0.9%)                   
+  Ear infection              2 (0.9%)                   3 (1.4%)                   1 (0.5%)                   
+  Ear pruritus               2 (0.9%)                   1 (0.5%)                   1 (0.5%)                   
+  Tympanic membrane disorder    2 (0.9%)                   0 (0.0%)                   0 (0.0%)                   
+  Auricular swelling         1 (0.4%)                   1 (0.5%)                   0 (0.0%)                   
+  Balance disorder           1 (0.4%)                   0 (0.0%)                   0 (0.0%)                   
+        1  Selected adverse reactions that occurred in &gt;= 1 patient in the OTOVEL group derived from all reported adverse events that could be related to the study drug or the drug class.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of ciprofloxacin and fluocinolone acetonide otic solution, 0.3% / 0.025% outside the US. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ 
+
+
+
+ *   Immune system disorders : allergic reaction. 
+ *   Infections and infestations : candidiasis. 
+ *   Nervous system disorders : dysgeusia, paresthesia (tingling in ears), dizziness, headache. 
+ *   Ear and labyrinth disorders : ear discomfort, hypoacusis, tinnitus, ear congestion. 
+ *   Vascular disorders : flushing. 
+ *   Skin and subcutaneous tissue disorders : skin exfoliation. 
+ *   Injury, poisoning and procedural complications : device occlusion (tympanostomy tube obstruction). 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hypersensitivity : Discontinue use at the first appearance of a skin rash or any other sign of hypersensitivity. (   5.1   ) 
+ *  Potential for Microbial Overgrowth: Prolonged use may result in the overgrowth of non-susceptible bacteria and fungi. If such infections occur, discontinue use and institute alternative therapy. (   5.2   ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  OTOVEL should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity. Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving systemic quinolones. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria and itching. Serious acute hypersensitivity reactions may require immediate emergency treatment.
+
+
+
+    5.2 Potential for Microbial Overgrowth with Prolonged Use
+
+
+
+  Prolonged use of OTOVEL may result in overgrowth of non-susceptible bacteria and fungi. If the infection is not improved after one week of treatment, cultures should be obtained to guide further treatment. If such infections occur, discontinue use and institute alternative therapy.
+
+
+
+    5.3 Continued or Recurrent Otorrhea
+
+
+
+  If otorrhea persists after a full course of therapy, or if two or more episodes of otorrhea occur within 6 months, further evaluation is recommended to exclude an underlying condition such as cholesteatoma, foreign body, or a tumor.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

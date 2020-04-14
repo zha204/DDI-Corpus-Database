@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vasostrict" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions associated with the use of vasopressin were identified in the literature. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+
+
+ Bleeding/lymphatic system disorders: Hemorrhagic shock, decreased platelets, intractable bleeding
+
+
+
+ Cardiac disorders: Right heart failure, atrial fibrillation, bradycardia, myocardial ischemia
+
+
+
+ Gastrointestinal disorders: Mesenteric ischemia
+
+
+
+ Hepatobiliary: Increased bilirubin levels
+
+
+
+ Renal/urinary disorders: Acute renal insufficiency
+
+
+
+ Vascular disorders: Distal limb ischemia
+
+
+
+ Metabolic: Hyponatremia
+
+
+
+ Skin: Ischemic lesions
+
+
+
+   EXCERPT:   The most common adverse reactions include decreased cardiac output, bradycardia, tachyarrhythmias, hyponatremia and ischemia (coronary, mesenteric, skin, digital). (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Can worsen cardiac function. (  5.1  ) 
+    
+ 
+
+   5.1 Worsening Cardiac Function
+
+
+
+  Use in patients with impaired cardiac response may worsen cardiac output.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

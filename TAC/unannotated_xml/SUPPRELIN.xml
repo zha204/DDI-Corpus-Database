@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="supprelin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6 ADVERSE REACTIONS  
+
+   EXCERPT:    *  The most common adverse reaction is implant site reaction (51.1%), including complications related to the insertion or removal of the implant (  6  ). 
+ *  Adverse events related to suppression of endogenous sex steroid secretion may occur (  6.1  ). 
+      To report SUSPECTED ADVERSE REACTIONS, contact Endo Pharmaceuticals Solutions Inc., at 1-800-462-3636 or FDA at 1-800-FDA-1088 or      www.fda.gov/medwatch    
+ 
+
+ 
+
+    6.1 Overall Adverse Reaction Profile  
+
+  The most common adverse reactions with SUPPRELIN LA involved the implant site. Local reactions after implant insertion include bruising, pain, soreness, erythema and swelling.
+
+
+
+ During the early phase of therapy, gonadotropins and sex steroids rise above baseline because of the natural stimulatory effect of the drug. Therefore, an increase in clinical signs and symptoms may be observed  [see Warnings and Precautions (  5.1  )]  .
+
+
+
+     6.2 Adverse Reactions in Clinical Trials  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of SUPPRELIN LA in children with CPP was evaluated in two single-arm clinical trials conducted in a total of 47 patients (44 females and 3 males) over a period of time ranging from 9 to 18 months. The most commonly reported adverse reaction was implant site reaction, which was reported by 24 of 47 (51.1%) patients. Implant site reaction includes discomfort, bruising, soreness, pain, tingling, itching, implant area protrusion and swelling. Two subjects experienced a serious adverse reaction: 1 subject who coincidentally had Stargardt's Disease experienced amblyopia and 1 subject had a benign pituitary tumor (pituitary adenoma). One subject discontinued the study due to an adverse reaction of infection at the implant site. There were no clinically meaningful findings in standard clinical hematology and chemistry tests and/or in vital signs. The incidence of implantation adverse events reported by more than 2 patients are summarized in Table 1.
+
+
+
+ Table 1: Incidence of implantation adverse reactions reported by &gt;= 2 patients treated with SUPPRELIN LA in both clinical trials 
+    Adverse Reactions       N=47N (%)      
+  Implant site reaction   24 (51.1)        
+  Keloid scar      3 (6.4)          
+  Scar             3 (6.4)          
+  Suture related complication   3 (6.4)          
+  Application site pain   2 (4.3)          
+  Post procedural pain   2 (4.3)          
+        The following adverse reactions were reported as possibly related or related in 1 patient each: wound infection, breast tenderness, dysmenorrhea, epistaxis, erythema, feeling cold, gynecomastia, headache, menorrhagia, migraine, mood swings, pituitary tumor benign, pruritus, weight increased, disease progression and influenza-like illness. The adverse reaction metrorrhagia was reported as possibly related or related in 2 patients.
+ 
+
+     6.3  Post-marketing Experience  
+
+  The following adverse reactions have been identified during post approval use of SUPPRELIN LA.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   General Disorders and Administration Site Conditions  :  implant breakage  Nervous System Disorders  :  seizures
+</Section>
+    <Section name="warnings and precautions" id="S2">     5 WARNINGS AND PRECAUTIONS  
+
+
+
+  EXCERPT:   Initial Agonistic Action: Initial transient increases of estradiol and/or testosterone may cause a temporary worsening of symptoms (  5.1  ).
+
+
+
+ 
+
+
+
+    5.1 Initial Agonistic Action  
+
+
+
+  SUPPRELIN LA, like other GnRH agonists, initially causes a transient increase in serum concentrations of estradiol in females and testosterone in both sexes during the first week of treatment. Patients may experience worsening of symptoms or onset of new symptoms during this period. However, within 4 weeks of histrelin therapy, suppression of gonadal steroids occurs and manifestations of puberty decrease.
+
+
+
+     5.2 Implant Insertion/Removal Procedure  
+
+
+
+  Implant insertion is a surgical procedure and it is important that the insertion instructions are followed to avoid potential complications. The insertion and removal of the implant should be done aseptically. Proper surgical technique is critical in minimizing adverse events related to the insertion and the removal of the histrelin implant. On occasion, localizing and/or removal of implant products have been difficult and imaging techniques were used, including ultrasound, CT, or MRI (note: the histrelin implant is not radiopaque). In some cases the implant broke during removal and multiple pieces were recovered. Confirm that the entire implant has been removed. If the implant was not retrieved completely, the remaining pieces should be removed following the instructions in the Suggested Removal Procedure section [see Dosage and Administration (  2.2   )].   Rare events of spontaneous extrusion of the implant have been observed in clinical trials. During SUPPRELIN LA treatment, patients should be evaluated for evidence of clinical and biochemical suppression of CPP manifestations (see  Section 5.3  , Monitoring and Laboratory tests). Detailed instructions on the insertion and removal procedures of the implant are provided above [see Dosage and Administration (  2.2  )]  .
+
+
+
+     5.3 Monitoring and Laboratory Tests  
+
+
+
+  LH, FSH and estradiol or testosterone should be monitored at 1 month post implantation then every 6 months thereafter. Additionally, height (for calculation of height velocity) and bone age should be assessed every 6-12 months.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

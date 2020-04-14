@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nipent" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Most patients treated for hairy cell leukemia in the five NCI-sponsored Phase 2 studies and the Phase 3 SWOG study experienced an adverse event. The following table lists the most frequently occurring adverse events in patients treated with NIPENT (both frontline and IFN-refractory patients) compared with IFN (frontline only), regardless of drug association. The drug association of some adverse events is uncertain as they may be associated with the disease itself (eg, infection, hematologic suppression), but other events, such as the gastrointestinal symptoms, rashes, and abnormal liver function tests, can in many cases be attributed to the drug. Most adverse events that were assessed for severity were either mild or moderate, and diminished in frequency with continued therapy.
+
+
+
+
+ NR = Not Reported  a   Occurring in more than 10% of patients, in any group, regardless of drug association  b   Includes only nausea with vomiting  c   These figures represent only unspecified infections. Refer to infection table.  d   Elevated liver enzymes and liver disorder for SWOG   
+  
+                                                        Percent of Patients    
+  All Adverse Eventsa                                   Frontline,  Treated  With NIPENT  N=180    Frontline,  Treated  With IFN  N=176    IFN-Refractory,  Treated With  NIPENT  N=197    
+  Nausea and/or Vomiting                                63                22               53b                
+  Fever                                                 46                59              42                  
+  Rash                                                  43                30              26                  
+  Fatigue                                               42                55              29                  
+  Leukopenia                                            22                15              60                  
+  Pruritus                                              21                6               10                  
+  Coughing/Increased Cough                              20                15              17                  
+  Myalgia                                               19                36              11                  
+  Chills                                                19                34              11                  
+  Headache                                              17                29              13                  
+  Diarrhea                                              17                17              15                  
+  Abdominal Pain                                        16                15              4                   
+  Anorexia                                              13                10              16                  
+  Upper Respiratory Infection                           13                8               16                  
+  Asthenia                                              12                13              10                  
+  Stomatitis                                            12                7               5                   
+  Rhinitis                                              11                15              10                  
+  Dyspnea                                               11                13              8                   
+  Anemia                                                8                 5               35                  
+  Pain                                                  8                 19              20                  
+  Pharyngitis                                           8                 11              10                  
+  Sweating/Increased Sweating                           8                 21              10                  
+  Viral Infection                                       8                 17              NR                  
+  Infection                                             7c                2c              36                  
+  Arthralgia                                            6                 14              3                   
+  Thrombocytopenia                                      6                 6               32                  
+  Skin Disorder                                         4                 5               17                  
+  Allergic Reaction                                     2                 1               11                  
+  Hepatic Disorder/Elevated Liver Function Testsd       2                 2               19                  
+  Neurologic Disorder, CNS/CNS Toxicity                 1                 NR              11                  
+  Lung Disorder/Disease                                 NR                1               12                  
+  Nausea                                                NR                NR              22                  
+  Genitourinary Disorder                                NR                NR              15                  
+          The total incidence for all types of infections is considerably higher for both treatment groups in the SWOG 8691 study than is listed in the table above. An intent-to-treat analysis of infections found that 38% of patients treated with NIPENT and 34% of patients treated with IFN averaged 2.4 and 1.9 documented infections during treatment, respectively. The following table lists the different types of infections that were reported as adverse events during the initial phase of the SWOG study. There were no apparent differences in the types of infection between the 2 treatment groups, with the possible exception of herpes zoster which was reported more frequently for NIPENT (8%) than for IFN (1%).
+ 
+
+
+                                               Percent of Patients            
+  Type of Infection                            Frontline, Treated  With NIPENT  N=180    Frontline, Treated  With IFN  N=176    
+  Upper Respiratory Infection                  13                               8                            
+  Rhinitis                                     11                             15                             
+  Herpes Zoster                                  8                              1                            
+  Pharyngitis                                    8                            11                             
+  Viral Infection                                8                            17                             
+  Infection (Unspecified)                        7                              2                            
+  Sinusitis                                      6                              4                            
+  Cellulitis                                     6                              3                            
+  Bacterial Infection                            5                              4                            
+  Pneumonia                                      5                              7                            
+  Conjunctivitis                                 4                              2                            
+  Furunculosis                                   4                            &lt;1                             
+  Herpes Simplex                                 4                              1                            
+  Bronchitis                                     3                              2                            
+  Sepsis                                         3                              2                            
+  Urinary Tract Infection                        3                              3                            
+  Abscess, Skin                                  2                              4                            
+  Moniliasis, Oral                               2                            &lt;1                             
+  Mycotic Infection, Skin                      &lt;1                               3                            
+  Osteomyelitis                                  1                              0                            
+         The drug relatedness of the adverse events listed below cannot be excluded. The following adverse events occurred in 3% to 10% of NIPENT-treated patients in the initial phase of the SWOG study:
+ 
+
+     Body as a Whole    -Chest Pain, Death, Face Edema, Peripheral Edema
+
+
+
+     Cardiovascular System    -Hemorrhage, Hypotension
+
+
+
+     Digestive System    -Dental Abnormalities, Dyspepsia, Flatulence, Gingivitis
+
+
+
+     Hemic and Lymphatic System    -Agranulocytosis
+
+
+
+     Laboratory Deviations    -Elevated Creatinine
+
+
+
+     Musculoskeletal System    -Arthralgia
+
+
+
+     Nervous System    -Confusion, Dizziness, Insomnia, Paresthesia, Somnolence
+
+
+
+     Psychobiologic Function    -Anxiety, Depression, Nervousness
+
+
+
+     Respiratory System    -Asthma
+
+
+
+     Skin &amp; Appendages    -Skin Dry, Urticaria
+
+
+
+ The remaining adverse events which occurred in less than 3% of NIPENT-treated patients during the initial phase of the SWOG study:
+
+
+
+     Body as a Whole    -Flu-like Symptoms, Hangover Effect, Neoplasm
+
+
+
+     Cardiovascular System    -Angina Pectoris, Arrhythmia, A-V Block, Bradycardia, Extrasystoles Ventricular, Heart Arrest, Heart Failure, Hypertension, Pericardial Effusion, Phlebitis, Pulmonary Embolus, Sinus Arrest, Tachycardia, Thrombophlebitis Deep, Vasculitis
+
+
+
+     Digestive System    -Constipation, Dysphagia, Glossitis, Ileus
+
+
+
+     Hemic and Lymphatic System    -Acute Leukemia, Anemia-Hemolytic, Aplastic Anemia
+
+
+
+     Laboratory Deviations    -Hypercalcemia, Hyponatremia
+
+
+
+     Musculoskeletal System    -Arthritis, Gout
+
+
+
+     Nervous System    -Amnesia, Ataxia, Convulsions, Dreaming Abnormal, Dysarthria, Encephalitis, Hyperkinesia, Meningism, Neuralgia, Neuritis, Neuropathy, Paralysis, Syncope, Twitching, Vertigo
+
+
+
+     Psychobiologic Function    -Decrease/Loss Libido, Emotional Lability, Hallucination, Hostility, Neurosis, Thinking Abnormal
+
+
+
+     Respiratory System    -Bronchospasm, Larynx Edema
+
+
+
+     Skin and Appendages    -Acne, Alopecia, Eczema, Petechial Rash, Photosensitivity Reaction
+
+
+
+     Special Senses    -Amblyopia, Deafness, Earache, Eyes Dry, Labyrinthitis, Lacrimation Disorder, Nonreactive Eye, Photophobia, Retinopathy, Tinnitus, Unusual Taste, Vision Abnormal, Watery Eyes
+
+
+
+     Urogenital System    -Amenorrhea, Breast Lump, Impotence, Kidney Function Abnormal, Nephropathy, Renal Failure, Renal Insufficiency, Renal Stone
+
+
+
+ One patient with hairy cell leukemia treated with NIPENT during another clinical study developed unilateral uveitis with vision loss.
+
+
+
+ Nineteen (5%) patients withdrew from the Phase 3 SWOG 8691 study because of adverse events; 9 during initial NIPENT treatment, 4 during NIPENT crossover, 5 during initial IFN treatment, and 1 during both initial IFN treatment and NIPENT crossover. In the Phase 2 studies in IFN-refractory hairy cell leukemia, 11% of patients withdrew from treatment with NIPENT due to an adverse event.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  NIPENT should be administered under the supervision of a physician qualified and experienced in the use of cancer chemotherapeutic agents. The use of higher doses than those specified (see     DOSAGE AND ADMINISTRATION    ) is not recommended. Dose-limiting severe renal, liver, pulmonary, and CNS toxicities occurred in Phase 1 studies that used NIPENT at higher doses (20-50 mg/m  2   in divided doses over 5 days) than recommended.
+
+
+
+ In a clinical investigation in patients with refractory chronic lymphocytic leukemia using NIPENT at the recommended dose in combination with fludarabine phosphate, 4 of 6 patients entered in the study had severe or fatal pulmonary toxicity. The use of NIPENT in combination with fludarabine phosphate is not recommended.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="starlix" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  In clinical trials, approximately 2,600 patients with Type 2 diabetes were treated with Starlix  (r)  (nateglinide). Of these, approximately 1,335 patients were treated for 6 months or longer and approximately 190 patients for one year or longer.
+
+
+
+ Hypoglycemia was relatively uncommon in all treatment arms of the clinical trials. Only 0.3% of Starlix patients discontinued due to hypoglycemia. Symptoms suggestive of hypoglycemia have been observed after administration of nateglinide. These symptoms included sweating, trembling, dizziness, increased appetite, palpitations, nausea, fatigue, and weakness.
+
+
+
+ Gastrointestinal symptoms, especially diarrhea and nausea, were no more common in patients using the combination of Starlix and metformin than in patients receiving metformin alone. Likewise, peripheral edema was no more common in patients using the combination of Starlix and rosiglitazone than in patients receiving rosiglitazone alone. The following table lists events that occurred more frequently in Starlix patients than placebo patients in controlled clinical trials.
+
+
+
+ Common Adverse Events (&gt;= 2% in Starlix(r) patients) in Starlix(r) Monotherapy Trials (% of patients) 
+                    Placebo          Starlix      (r)       
+                    N=458            N=1441          
+   Preferred Term                                       
+ Upper Respiratory Infection  8.1              10.5              
+ Back Pain        3.7              4.0               
+ Flu Symptoms     2.6              3.6               
+ Dizziness        2.2              3.6               
+ Arthropathy      2.2              3.3               
+ Diarrhea         3.1              3.2               
+ Accidental Trauma  1.7              2.9               
+ Bronchitis       2.6              2.7               
+ Coughing         2.2              2.4               
+ Hypoglycemia     0.4              2.4               
+         During post-marketing experience, rare cases of hypersensitivity reactions such as rash, itching and urticaria have been reported. Similarly, cases of jaundice, cholestatic hepatitis and elevated liver enzymes have been reported.
+ 
+
+     Laboratory Abnormalities  
+
+    Uric    A    cid:  There were increases in mean uric acid levels for patients treated with Starlix alone, Starlix in combination with metformin, metformin alone, and glyburide alone. The respective differences from placebo were 0.29 mg/dL, 0.45 mg/dL, 0.28 mg/dL, and 0.19 mg/dL. The clinical significance of these findings is unknown.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

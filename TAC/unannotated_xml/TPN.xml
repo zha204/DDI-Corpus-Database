@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tpn" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Symptoms may result from an excess or deficit of one or more of the ions present in TPN Electrolytes. Therefore, frequent monitoring of electrolyte blood levels is recommended. Sodium excess can cause edema and exacerbation of congestive heart failure. Excess potassium can cause deviations from the normal ECG (electrocardiogram). Potassium deficits can impair neuromuscular function, causing muscle weakness or frank paralysis, intestinal dilatation and ileus. Calcium deficits can produce neuromuscular hyperexcitability, ranging from paresthesias, cramps and laryngospasm to tetany and grand mal seizures. Depressed calcium levels can accompany administration of parenteral phosphorous or large amounts of albumin. Magnesium deficiency can precipitate neuromuscular dysfunction, hyperirritability, psychotic behavior, tachycardia and hypertension. Magnesium excess can cause muscle weakness, ECG changes, sedation and mental confusion.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vonvendi" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reaction observed in &gt;=2% of subjects in clinical trials (n=66) was generalized pruritus.
+
+
+
+   EXCERPT:   The most common adverse reaction observed (&gt;=2% of subjects) was generalized pruritus. (6.1)
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Baxalta US Inc. at 1-800-999-1785 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The safety profile of VONVENDI was evaluated in three prospective, multicenter trials; two of which were conducted in subjects with von Willebrand disease (n = 66) and one was conducted in subjects with hemophilia A (n = 12). The adverse reactions reported in the two von Willebrand disease trials are listed in Table 2.
+
+
+
+ Table 2 Summary of Adverse Reactions in Patients with von Willebrand DiseaseThis trial was done using ADVATE [Antihemophilic factor (Recombinant)], a recombinant factor VIII. 
+  System Organ Class (SOC)    Adverse Reaction           Number of Subjects (%)  (n=66)    Number of Infusions (%)  (n=355)    
+  Cardiac Disorders         Tachycardia                1 (1.52%)                  1 (0.28%)                  
+  Gastrointestinal Disorders    Nausea                     1 (1.52%)                  1 (0.28%)                  
+  General Disorders and Administration Site Conditions    Infusion site paresthesia    1 (1.52%)                  1 (0.28%)                  
+  Chest discomfort          1 (1.52%)                  1 (0.28%)                  
+  Skin and Subcutaneous Tissues Disorders    Generalized pruritus       2 (3.03%)                  2 (0.56%)                  
+  Vascular Disorder         Hot flush                  1 (1.52%)                  1 (0.28%)                  
+  Hypertension              1 (1.52%)                  2 (0.56%)                  
+  Nervous System Disorders    Dizziness                  1 (1.52%)                  1 (0.28%)                  
+  Dysgeusia                 1 (1.52%)                  1 (0.28%)                  
+  Tremor                    1 (1.52%)                  1 (0.28%)                  
+  Investigations            Heart rate increase        1 (1.52%)                  1 (0.28%)                  
+  Electrocardiogram T wave inversions    1 (1.52%)                  1 (0.28%)                  
+            Immunogenicity  
+ 
+
+ The immunogenicity of VONVENDI was assessed in clinical trials by assessing the development of neutralizing antibodies against rVWF and rFVIII, as well as binding antibodies against rVWF, rFurin, Chinese hamster ovary (CHO) protein and mouse IgG. No treatment-related development of binding or neutralizing antibodies against VWF or of neutralizing antibodies against FVIII was observed. Moreover, binding antibodies against potential impurities such as rFurin, CHO-protein or mouse IgG did not develop after treatment with VONVENDI.
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, it is misleading to compare the incidence of antibodies to VONVENDI in the studies described above with the incidence of antibodies in other studies or to other products.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Thromboembolic reactions can occur, particularly in patients with risk factors for thrombosis. Monitor for early signs of thrombosis. In patients requiring frequent doses of VONVENDI with recombinant factor VIII, monitor plasma levels of factor VIII activity because an excessive rise in factor VIII levels can increase the risk for thromboembolic events. (5.1) 
+ *    Hypersensitivity reactions, including anaphylaxis, may occur. Discontinue VONVENDI if hypersensitivity symptoms occur and administer appropriate emergency treatment. (5.2) 
+ *    Inhibitors to von Willebrand factor and/or factor VIII can occur. If the expected plasma levels of VWF activity (VWF:RCo) are not attained, or if bleeding is not controlled with an appropriate dose, perform an appropriate assay to determine if an anti-VWF or an anti-FVIII is present. (5.3) 
+    
+ 
+
+   5.1 Thromboembolic Reactions
+
+
+
+  Thromboembolic reactions, including disseminated intravascular coagulation (DIC), venous thrombosis, pulmonary embolism, myocardial infarction, and stroke, can occur, particularly in patients with known risk factors for thrombosis. Monitor for early signs and symptoms of thrombosis such as pain, swelling, discoloration, dyspnea, cough, hemoptysis, and syncope.
+
+
+
+ In patients requiring frequent doses of VONVENDI with recombinant factor VIII, monitor plasma levels for FVIII:C activity because an excessive rise in factor VIII levels can increase the risk of thromboembolic complications.
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions, including anaphylaxis, may occur. Symptoms can include anaphylactic shock, generalized urticaria, angioedema, chest tightness, hypotension, shock, lethargy, nausea, vomiting, paresthesia, pruritus, restlessness, wheezing and/or acute respiratory distress. If signs and symptoms of severe allergic reactions occur, immediately discontinue administration of VONVENDI and provide appropriate supportive care.
+
+
+
+ VONVENDI contains trace amounts of mouse immunoglobulin G (MuIgG) and hamster proteins less than or equal to 2 ng/IU VONVENDI. Patients treated with this product may develop hypersensitivity reactions to non-human mammalian proteins.
+
+
+
+    5.3 Neutralizing Antibodies
+
+
+
+  Neutralizing antibodies (inhibitors) to von Willebrand factor and/or factor VIII can occur. If the expected plasma levels of VWF activity (VWF:RCo) are not attained, perform an appropriate assay to determine if anti-VWF or anti-FVIII inhibitors are present. Consider other therapeutic options and direct the patient to a physician with experience in the care of either von Willebrand disease or hemophilia A.
+
+
+
+ In patients with high levels of inhibitors to VWF or factor VIII, VONVENDI therapy may not be effective and infusion of this protein may lead to severe hypersensitivity reactions. Since inhibitor antibodies can occur concomitantly with anaphylactic reactions, evaluate patients experiencing an anaphylactic reaction for the presence of inhibitors.
+
+
+
+    5.4 Monitoring Laboratory Tests
+
+
+
+    *    Monitor plasma levels of VWF:RCo and factor VIII activities in patients receiving VONVENDI to avoid sustained excessive von Willebrand factor and/or factor VIII activity levels, which may increase the risk of thrombotic events, particularly in patients with known clinical or laboratory risk factors. 
+ *    Monitor for development of von Willebrand factor and/or factor VIII inhibitors when suspected. Perform appropriate inhibitor assays to determine if von Willebrand factor and/or factor VIII inhibitors are present if bleeding is not controlled with the expected dose of VONVENDI. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

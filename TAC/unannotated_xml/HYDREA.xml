@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hydrea" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are described in detail in other labeling sections:
+
+
+
+ *    Myelosuppression [see  Warnings and Precautions (5.1)  ]  
+ *    Malignancies [see  Warnings and Precautions (5.2)  ]  
+ *    Embryo-fetal toxicity [see    Warnings and Precautions (5.3)    ]  
+ *    Vasculitic toxicities [see    Warnings and Precautions (5.4)    ]  
+ *    Risks with concomitant use of antiretroviral drugs [see  Warnings and Precautions (5.5)  ]  
+ *    Radiation recall [see  Warnings and Precautions (5.6)  ]  
+ *    Macrocytosis [see  Warnings and Precautions (5.7)  ]  
+      EXCERPT:   Most common adverse reactions (&gt;=30%) are hematological, gastrointestinal symptoms, and anorexia.  (6)  
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Bristol-Myers Squibb at 1-800-721-5072    or FDA at 1-800-FDA-1088 or        www.fda.gov/medwatch.      
+
+
+
+ 
+
+  Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of HYDREA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
+
+
+
+ *     Gastrointestinal disorders: stomatitis, anorexia, nausea, vomiting, diarrhea, and constipation 
+ *     Skin and subcutaneous tissue disorders: maculopapular rash, skin ulceration, dermatomyositis-like skin changes, peripheral and facial erythema, hyperpigmentation, atrophy of skin and nails, scaling, violet papules, and alopecia 
+ *     Renal and urinary disorders: dysuria, elevations in serum uric acid, blood urea nitrogen (BUN), and creatinine levels 
+ *     Nervous system disorders: headache, dizziness, drowsiness, disorientation, hallucinations, and convulsions 
+ *     General Disorders: fever, chills, malaise, edema, and asthenia 
+ *     Hepatobiliary disorders: elevation of hepatic enzymes 
+ *     Respiratory disorders: diffuse pulmonary infiltrates, dyspnea, and pulmonary fibrosis 
+    Adverse reactions observed with combined hydroxyurea and irradiation therapy are similar to those reported with the use of hydroxyurea or radiation treatment alone. These effects primarily include bone marrow depression (anemia and leukopenia), gastric irritation, and mucositis. Almost all patients receiving an adequate course of combined hydroxyurea and irradiation therapy will demonstrate concurrent leukopenia. Platelet depression (&lt;100,000 cells/mm  3  ) has occurred in the presence of marked leukopenia. HYDREA may potentiate some adverse reactions usually seen with irradiation alone, such as gastric distress and mucositis.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Myelosuppression: Do not give if bone marrow function is markedly depressed. Monitor hematology labs and interrupt, reduce dose as appropriate. (  5.1  ) 
+ *    Malignancies: Advise protection from sun exposure and monitor for secondary malignancies. (  5.2  ) 
+ *    Embryo-fetal toxicity can cause fetal harm Advise of potential risk to a fetus and use of effective contraception. (  5.3  ,  8.1  ) 
+ *    Vasculitic toxicities: Discontinue HYDREA and initiate alternative management if this occurs. (  5.4  ) 
+ *    Risks with concomitant use of antiretroviral drugs: Pancreatitis, hepatotoxicity, and neuropathy have occurred. Monitor for signs and symptoms in patients with HIV infection using antiretroviral drugs; discontinue HYDREA, and implement treatment. (  5.5  ) 
+ *    Radiation recall: Monitor for skin erythema in patients who previously received radiation and manage symptomatically. (  5.6  ) 
+    
+ 
+
+   5.1 Myelosuppression
+
+
+
+  Hydroxyurea causes severe myelosuppression. Treatment with hydroxyurea should not be initiated if bone marrow function is markedly depressed. Bone marrow suppression may occur, and leukopenia is generally its first and most common manifestation. Thrombocytopenia and anemia occur less often and are seldom seen without a preceding leukopenia. Bone marrow depression is more likely in patients who have previously received radiotherapy or cytotoxic cancer chemotherapeutic agents; use hydroxyurea cautiously in such patients.
+
+
+
+ Evaluate hematologic status prior to and during treatment with HYDREA. Provide supportive care and modify dose or discontinue HYDREA as needed. Recovery from myelosuppression is usually rapid when therapy is interrupted.
+
+
+
+    5.2 Malignancies
+
+
+
+  Hydroxyurea is a human carcinogen. In patients receiving long-term hydroxyurea for myeloproliferative disorders, secondary leukemia has been reported. Skin cancer has also been reported in patients receiving long-term hydroxyurea. Advise protection from sun exposure and monitor for the development of secondary malignancies.
+
+
+
+    5.3 Embryo-Fetal Toxicity
+
+
+
+  Hydroxyurea may cause fetal harm when administered to a pregnant woman. Hydroxyurea is genotoxic. Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models, including mice, hamsters, cats, miniature swine, dogs, and monkeys at doses within 1-fold of the human dose given on a mg/m  2  basis. Hydroxyurea is embryotoxic and causes fetal malformations at 180 mg/kg/day in rats and at 30 mg/kg/day in rabbits. Single doses of &gt;=375 mg/kg to rats caused growth retardation and impaired learning ability. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during and after treatment with HYDREA for at least 30 days after therapy. Females of reproductive potential should also ensure that their male partner, who is/has taken HYDREA, uses effective contraception during and after treatment for at least 1 year after therapy. Advise males of reproductive potential to use effective contraception during and after treatment with HYDREA for at least 1 year after therapy [see Use in Specific Populations (  8.1  ,  8.3  )]  .
+
+
+
+    5.4 Vasculitic Toxicities
+
+
+
+  Cutaneous vasculitic toxicities, including vasculitic ulcerations and gangrene, have occurred in patients with myeloproliferative disorders during therapy with hydroxyurea. These vasculitic toxicities were reported most often in patients with a history of, or currently receiving, interferon therapy. If cutaneous vasculitic ulcers occur, institute treatment and discontinue HYDREA.
+
+
+
+    5.5 Risks with Concomitant Use of Antiretroviral Drugs
+
+
+
+  Pancreatitis, hepatotoxicity, and peripheral neuropathy have occurred when hydroxyurea was administered concomitantly with antiretroviral drugs, including didanosine and stavudine [see     Drug Interactions (7.1)     ]  .
+
+
+
+    5.6 Radiation Recall
+
+
+
+  Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema. Monitor for skin erythema in patients who previously received radiation and manage symptomatically.
+
+
+
+    5.7 Macrocytosis
+
+
+
+  HYDREA may cause macrocytosis, which is self-limiting, and is often seen early in the course of treatment. The morphologic change resembles pernicious anemia, but is not related to vitamin B12or folic acid deficiency. This may mask the diagnosis of pernicious anemia. Prophylactic administration of folic acid is recommended.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

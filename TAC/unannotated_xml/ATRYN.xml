@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="atryn" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The serious adverse reaction that has been reported in clinical studies is hemorrhage (intra-abdominal, hemarthrosis and post procedural). The most common adverse events reported in clinical trials at a frequency of &gt;= 5% are hemorrhage and infusion site reaction.
+
+
+
+   EXCERPT:   Most common adverse reactions reported in clinical trials at a frequency of &gt;= 5% were hemorrhage and infusion site reaction. (  6  )
+
+
+
+  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Lundbeck Inc. at 1-800-455-1141 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse reactions that occurred in clinical trials with hereditary AT deficient patients are shown in Table 3 by System Organ Class.
+
+
+
+ Table 3: Adverse Reactions in Hereditary AT Deficient Patients (one event per patient, 2% of total population, n=47) 
+   Gastrointestinal Disorders                                                                           
+    Intra-abdominal Hemorrhage                                                                          
+   General Disorders and Administration Site Disorders                                                  
+    Application Site Pruritus                                                                           
+    Feeling Hot                                                                                         
+    Non-cardiac Chest Pain                                                                              
+   Investigations                                                                                       
+    Hepatic Enzyme Abnormal                                                                             
+   Musculoskeletal and Connective Tissue Disorders                                                      
+    Hemarthrosis                                                                                        
+   Renal and Urinary Disorders                                                                          
+    Hematuria                                                                                           
+   Vascular Disorders                                                                                   
+    Hematoma                                                                                            
+         Immunogenicity  
+ 
+
+ For ATryn, a potential safety issue is the development of an immunological reaction to the recombinant protein or any of the potential contaminating proteins. Assays were developed and used to detect antibodies directed against antithrombin (Recombinant), goat AT, or goat-milk proteins. No confirmed specific immunological reaction was seen in any of the patients tested, nor were there any clinical adverse events that might indicate such a response.
+
+
+
+ A post-marketing patient registry has been established to collect additional data on the immunogenic potential of ATryn in patients treated with ATryn on more than one occasion. Physicians are encouraged to participate in the registry by collecting pre- and post-treatment serum samples from patients according to instructions provided by Lundbeck Inc. and submitting them to Lundbeck Inc. for analysis for the development of antibodies to antithrombin (Recombinant). Serum samples should be collected within one week before initiation of treatment and on days 1, 7 and 28 days from initiation of treatment. Physicians wanting to participate in this program are encouraged to contact Lundbeck Inc. at 1-800-455-1141. Lundbeck Inc. will provide detailed instructions for the collection, processing and shipping of samples, as well as all tubes and labels that are necessary for the collection and processing of samples.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Anaphylaxis and severe hypersensitivity reactions are possible. Should symptoms occur, treatment with the product should be discontinued, and emergency treatment should be administered. (  5.1  ) 
+ *  The anticoagulant effect of drugs that use antithrombin to exert their anticoagulation may be altered when ATryn is added or withdrawn. To avoid excessive or insufficient anticoagulation, regularly perform coagulation tests suitable for the anticoagulant used, at close intervals, especially in the first hours following the start or withdrawal of ATryn and monitor patients for bleeding or thrombosis. (  5.2  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Allergic-type hypersensitivity reactions are possible. Patients must be closely monitored and carefully observed for any symptoms throughout the infusion period. Patients should be informed of the early signs of hypersensitivity reactions including hives, generalized urticaria, tightness of the chest, wheezing, hypotension, and anaphylaxis. If these symptoms occur during administration, treatment must be discontinued immediately and emergency treatment should be administered.
+
+
+
+    5.2 Coagulation Monitoring Tests
+
+
+
+  The anticoagulant effect of drugs that use antithrombin to exert their anticoagulation may be altered when ATryn is added or withdrawn. To avoid excessive or insufficient anticoagulation, coagulation tests suitable for the anticoagulant used (e.g., aPTT and anti-Factor Xa activity) are to be performed regularly, at close intervals, and in particular in the first hours following the start or withdrawal of ATryn. Additionally, monitor the patients for the occurrence of bleeding or thrombosis in such situation.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

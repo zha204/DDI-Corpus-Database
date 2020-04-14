@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hextend" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    -------------------------------------------------ADVERSE REACTIONS---------------------------------------------
+
+  Serious adverse reactions (ARs) observed in clinical trials of critically ill adult patients include:
+
+
+
+ *    Increased mortality in severe sepsis and other conditions requiring ICU admission 
+ *    Increased need for renal replacement therapy in severe sepsis and other conditions requiring ICU admission [see   Postmarketing Experience   and   CLINICAL STUDIES   ] 
+    In clinical trials comparing the plasma volume expanding properties of HEXTEND (n=60) with those of 6% Hetastarch in 0.9% Sodium Chloride Injection (n=59), there were no significant differences in the number of adverse or serious adverse events between the two groups.
+ 
+
+ Reported adverse reactions with isotonic solutions containing 6% hetastarch include:
+
+
+
+     General    
+
+
+
+ Hypersensitivity (see    WARNINGS AND PRECAUTIONS    ).
+
+
+
+ Death, life-threatening anaphylactic/anaphylactoid reactions, cardiac arrest, ventricular fibrillation, severe hypotension, non-cardiac pulmonary edema, laryngeal edema, bronchospasm, angioedema, wheezing, restlessness, tachypnea, stridor, fever, chest pain, bradycardia, tachycardia, shortness of breath, chills, urticaria, pruritus, facial and periorbital edema, coughing, sneezing, flushing, erythema multiforme, and rash.
+
+
+
+     Cardiovascular    
+
+
+
+ Circulatory overload, congestive heart failure, and pulmonary edema (see    WARNINGS AND PRECAUTIONS    ).
+
+
+
+     Hematologic    
+
+
+
+ Intracranial bleeding, bleeding and/or anemia due to hemodilution (see    WARNINGS AND PRECAUTIONS    ) and/or Factor VIII deficiency, acquired von Willebrand's-like syndrome, and coagulopathy including rare cases of disseminated intravascular coagulopathy and hemolysis. With extensive clinical use of 6% Hetastarch in 0.9% Sodium Chloride Injection, rare cases of disseminated intravascular coagulopathy and hemolysis have been observed.
+
+
+
+     Metabolic    
+
+
+
+ Metabolic acidosis.
+
+
+
+     Other    
+
+
+
+ Vomiting, peripheral edema of the lower extremities, submaxillary and parotid glandular enlargement, mild influenza-like symptoms, headaches, and muscle pains. Hydroxyethyl starch-associated pruritus has been reported in some patients with deposits of hydroxyethyl starch in peripheral nerves.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: MORTALITYRENAL REPLACEMENT THERAPY
+
+  WARNING: MORTALITYRENAL REPLACEMENT THERAPY
+
+    *  In critically ill adult patients, including patients with sepsis, use of hydroxyethyl starch (HES) products, including HEXTEND, increases the risk of oMortality oRenal replacement therapy 
+ *  Do not use HES products, including HEXTEND, in critically ill adult patients including patients with sepsis 
+</Section>
+    <Section name="warnings and precautions" id="S3">    ------------------------------------------WARNINGS AND PRECAUTIONS--------------------------------------
+
+
+
+    *    Avoid use in patients with pre-existing renal dysfunction 
+ *    Discontinue use of HEXTEND at the first sign of renal injury 
+ *    Continue to monitor renal function in hospitalized patients for at least 90 days as use of renal replacement therapy (RRT) has been reported up to 90 days after administration of HES products 
+ *    Monitor the coagulation status of patients undergoing open heart surgery in association with cardiopulmonary bypass as excess bleeding has been reported with HES solutions in this population. Discontinue use of HEXTEND at the first sign of coagulopathy 
+ *    Monitor liver function in patients receiving HES products, including HEXTEND 
+    Solutions containing calcium should not be administered simultaneously with blood through the same administration set because of the likelihood of coagulation.
+ 
+
+ Life threatening anaphylactic/anaphylactoid reactions have been rarely reported with solutions containing hetastarch; death has occurred, but a causal relationship has not been established. Patients who develop severe anaphylactic/anaphylactoid reactions may need continued supportive care until symptoms have resolved.
+
+
+
+ Hypersensitivity reactions can occur even after solutions containing hetastarch have been discontinued.
+
+
+
+ Solutions which contain potassium should be used with great care, if at all, in patients with hyperkalemia and severe renal failure and in situations in which potassium retention is present.
+
+
+
+ Solutions containing sodium ions should be used with great care, if at all, in patients with congestive heart failure and severe renal insufficiency and in clinical states in which edema with sodium retention occurs.
+
+
+
+ In patients with diminished renal function, administration of solutions containing sodium or potassium ions may result in sodium or potassium retention.
+
+
+
+ Solutions containing lactate ions should be used with great care in patients with metabolic or respiratory alkalosis. The administration of lactate ions should be performed with great care when dealing with conditions in which an increased level or an impaired utilization of these ions occurs, such as severe hepatic insufficiency.
+
+
+
+ DO NOT USE IN LEUKAPHERESIS.
+
+
+
+   Usage in Plasma Volume Expansion    
+
+
+
+ Large volumes of isotonic solutions containing 6% hetastarch (HEXTEND or 6% Hetastarch in 0.9% Sodium Chloride Injection) may transiently alter the coagulation mechanism due to hemodilution and a direct inhibitory action on Factor VIII. Hemodilution by isotonic solutions containing 6% hetastarch may also result in a 24 hour decline of total protein, albumin, and fibrinogen levels and in transient prolongation of prothrombin, activated partial thromboplastin, clotting, and bleeding times.
+
+
+
+ Increased bleeding has been reported in patients undergoing open heart surgery in association with cardiopulmonary bypass following the use of 6% Hetastarch in 0.9% Sodium Chloride Injection.  5,6  Although the electrolyte content of HEXTEND resembles that of the principal ionic constituents of normal plasma, its 6% Hetastarch component is identical to that of 6% Hetastarch in 0.9% Sodium Chloride Injection and has a direct inhibitory action on Factor VIII. There are no retrospective studies similar to those with 6% Hetastarch in 0.9% Sodium Chloride Injection that compare HEXTEND to albumin in cardiopulmonary bypass surgery nor have any adequate and well-controlled clinical studies been performed.
+
+
+
+ Hematocrit may be decreased and plasma proteins diluted excessively by administration of large volumes of isotonic solutions containing 6% hetastarch. Administration of packed red cells, platelets, and fresh frozen plasma should be considered if excessive dilution occurs.
+
+
+
+ In randomized, controlled, comparative studies of 6% Hetastarch in 0.9% Sodium Chloride Injection (n = 92) and Albumin (n = 85) in surgical patients, no patient in either treatment group had a bleeding complication and no significant difference was found in the amount of blood loss between the treatment groups.  1-4  
+
+
+
+ HEXTEND has not been adequately evaluated to establish its safety in situations other than treatment of hypovolemia in elective surgery. In some cases, the use of isotonic solutions containing 6% hetastarch has been associated with coagulation abnormalities in conjunction with an acquired, reversible von Willebrand's-like syndrome and/or Factor VIII deficiency when used over a period of days. Replacement therapy should be considered if a severe Factor VIII or von Willebrand deficiency is identified. If a coagulopathy develops, it may take several days to resolve. Certain conditions may affect the safe use of isotonic solutions containing 6% hetastarch on a chronic basis. For example, in patients with subarachnoid hemorrhage where an isotonic solution containing 6% hetastarch is used repeatedly over a period of days for the prevention of cerebral vasospasm, significant clinical bleeding may occur. Intracranial bleeding resulting in death has been reported with the use of 6% Hetastarch in 0.9% Sodium Chloride Injection.  7  
+
+
+
+ The possibility of circulatory overload should be kept in mind. Caution should be used when the risk of pulmonary edema and/or congestive heart failure is increased. Special care should be exercised in patients who have impaired renal clearance since this is the principal way in which hetastarch is eliminated and in clinical states in which edema with sodium retention occurs.
+
+
+
+ Indirect bilirubin levels of 8.3 mg/L (normal 0.0-7.0 mg/L) have been reported in 2 out of 20 normal subjects who received multiple infusions of 6% Hetastarch in 0.9% Sodium Chloride Injection. Total bilirubin was within normal limits at all times; indirect bilirubin returned to normal by 96 hours following the final infusion. The significance, if any, of these elevations is not known; however, caution should be observed before administering isotonic solutions containing 6% hetastarch to patients with a history of liver disease.
+
+
+
+ If a hypersensitivity effect occurs, administration of the drug should be discontinued and appropriate treatment and supportive measures should be undertaken (see   WARNINGS AND PRECAUTIONS    ).
+
+
+
+ Caution should be used when administering solutions containing hetastarch to patients allergic to corn because such patients can also be allergic to hetastarch.
+
+
+
+ HEXTEND should be used with caution in patients who have been anticoagulated with other drugs that negatively influence the coagulation system.
+
+
+
+ Clinical evaluation and periodic laboratory determinations are necessary to monitor changes in fluid balance, electrolyte concentrations, acid-base balance, and coagulation parameters during prolonged parenteral therapy or whenever the condition of the patient warrants such evaluation.
+
+
+
+ Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus.
+
+
+
+ Caution must be exercised in the administration of parenteral fluids, especially those containing sodium ions, to patients receiving corticosteroids or corticotropin.
+
+
+
+ Potassium containing solutions should be used with caution in the presence of cardiac disease, particularly in digitalized patients or in the presence of renal disease.
+
+
+
+ Solutions containing lactate ions should be used with caution as excess administration may result in metabolic alkalosis.
+
+
+
+ Elevated serum amylase levels may be observed temporarily following administration of solutions containing hetastarch although no association with pancreatitis has been demonstrated. Serum amylase levels cannot be used to assess or to evaluate for pancreatitis for 3-5 days after administration of solutions containing hetastarch. Elevated serum amylase levels persist for longer periods of time in patients with renal impairment. Solutions containing hetastarch have not been shown to increase serum lipase.
+
+
+
+ One report suggests that in the presence of renal glomerular damage, larger molecules of hetastarch can leak into the urine and elevate the specific gravity. The elevation of specific gravity can obscure the diagnosis of renal failure.
+
+
+
+ Hetastarch is not eliminated by hemodialysis. The utility of other extracorporeal elimination techniques has not been evaluated.
+
+
+
+ If administration is by pressure infusion, all air should be withdrawn or expelled from the bag through the medication port prior to infusion.
+
+
+
+   Carcinogenesis, Mutagenesis, Impairment of Fertility    
+
+
+
+ Long-term studies of animals have not been performed to evaluate the carcinogenic potential of hetastarch.
+
+
+
+   Teratogenic Effects: Pregnancy Category C.    
+
+
+
+ 6% Hetastarch in 0.9% Sodium Chloride Injection has been shown to have an embryocidal effect on New Zealand rabbits when given intravenously over the entire organogenesis period in a daily dose 1/2 times the maximum recommended therapeutic human dose (1500 mL) and on BD rats when given intraperitoneally, from the 16th to the 21st day of pregnancy, in a daily dose 2.3 times the maximum recommended therapeutic human dose. When 6% Hetastarch in 0.9% Sodium Chloride Injection was administered to New Zealand rabbits, BD rats, and Swiss mice with intravenous daily doses of 2 times, 1/3 times, and 1 times the maximum recommended therapeutic human dose, respectively, over several days during the period of gestation, no evidence of teratogenicity was evident. There are no adequate and well controlled studies in pregnant women. HEXTEND should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+   Nursing Mothers    
+
+
+
+ It is not known whether hetastarch is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when HEXTEND is administered to a nursing woman.
+
+
+
+   Pediatric Use    
+
+
+
+ The safety and effectiveness of HEXTEND in pediatric patients have not been established. Adequate, well-controlled clinical trials to establish the safety and effectiveness of HEXTEND in pediatric patients have not been conducted. However, in one small double-blind study, 47 infants, children, and adolescents (ages 1 year to 15.5 years) scheduled for repair of congenital heart disease with moderate hypothermia were randomized to receive either 6% Hetastarch in 0.9% Sodium Chloride Injection or Albumin as a postoperative volume expander during the first 24 hours after surgery. Thirty-eight children required colloid replacement therapy, of which 20 children received 6% Hetastarch in 0.9% Sodium Chloride Injection. No differences were found in the coagulation parameters or in the amount of replacement fluids required in the children receiving 20 mL/kg or less of either colloid replacement therapy. In children who received greater than 20 mL/kg of 6% Hetastarch in 0.9% Sodium Chloride Injection, an increase in prothrombin time was demonstrated (p = 0.006).  8  There were no neonates included in this study.
+
+
+
+   Geriatric Use    
+
+
+
+ Of the total number of patients in clinical trials of HEXTEND (n=119), 30% were 65 or older while 12% were 70 or older. Other reported experience with 6% Hetastarch in 0.9% Sodium Chloride Injection has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+
+
+ This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

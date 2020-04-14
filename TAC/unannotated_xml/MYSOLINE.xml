@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="mysoline" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistant or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to Mysoline and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

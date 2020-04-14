@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d367">
+    <sentence id="DDI-DrugBank.d367.s0" text="Most (98%) of plasma doxazosin is protein bound.">
+        <entity id="DDI-DrugBank.d367.s0.e0" charOffset="21-29"
+            type="drug" text="doxazosin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s1" text="In vitro data in human plasma indicate that doxazosin mesylate has no effect on protein binding of digoxin, warfarin, phenytoin or indomethacin.">
+        <entity id="DDI-DrugBank.d367.s1.e0" charOffset="44-61"
+            type="drug" text="doxazosin mesylate"/>
+        <entity id="DDI-DrugBank.d367.s1.e1" charOffset="99-105"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d367.s1.e2" charOffset="108-115"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d367.s1.e3" charOffset="118-126"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d367.s1.e4" charOffset="131-142"
+            type="drug" text="indomethacin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s2" text="There is no information on the effect of other highly plasma protein bound drugs on doxazosin binding.">
+        <entity id="DDI-DrugBank.d367.s2.e0" charOffset="84-92"
+            type="drug" text="doxazosin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s3" text="Doxazosin mesylate has been administered without any evidence of an adverse drug interaction to patients receiving thiazide diuretics, beta-blocking agents, and nonsteroidal anti-inflammatory drugs.">
+        <entity id="DDI-DrugBank.d367.s3.e0" charOffset="0-17"
+            type="drug" text="Doxazosin mesylate"/>
+        <entity id="DDI-DrugBank.d367.s3.e1" charOffset="115-132"
+            type="group" text="thiazide diuretics"/>
+        <entity id="DDI-DrugBank.d367.s3.e2" charOffset="135-153"
+            type="group" text="beta-blocking agent"/>
+        <entity id="DDI-DrugBank.d367.s3.e3" charOffset="161-196"
+            type="group" text="nonsteroidal anti-inflammatory drugs"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s4" text="In a placebo-controlled trial in normal volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin (p=0.006), and a slight but not statistically significant increase in mean Cmax and mean half-life of doxazosin.">
+        <entity id="DDI-DrugBank.d367.s4.e0" charOffset="96-104"
+            type="drug" text="doxazosin"/>
+        <entity id="DDI-DrugBank.d367.s4.e1" charOffset="145-154"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBank.d367.s4.e2" charOffset="219-227"
+            type="drug" text="doxazosin"/>
+        <entity id="DDI-DrugBank.d367.s4.e3" charOffset="331-339"
+            type="drug" text="doxazosin"/>
+        <ddi id="DDI-DrugBank.d367.s4.d0" e1="DDI-DrugBank.d367.s4.e0"
+            e2="DDI-DrugBank.d367.s4.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s5" text="The clinical significance of this increase in doxazosin AUC is unknown.">
+        <entity id="DDI-DrugBank.d367.s5.e0" charOffset="46-54"
+            type="drug" text="doxazosin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s6" text="In clinical trials, doxazosin mesylate tablets have been administered to patients on a variety of concomitant medications;">
+        <entity id="DDI-DrugBank.d367.s6.e0" charOffset="20-37"
+            type="drug" text="doxazosin mesylate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s7" text="while no formal interaction studies have been conducted, no interactions were observed."/>
+    <sentence id="DDI-DrugBank.d367.s8" text="Doxazosin mesylate tablets have been used with the following drugs or drug classes: 1.">
+        <entity id="DDI-DrugBank.d367.s8.e0" charOffset="0-17"
+            type="drug" text="Doxazosin mesylate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s9" text="Analgesic/anti-inflammatory (e.g., acetaminophen, aspirin, codeine and codeine combinations, ibuprofen, indomethacin).">
+        <entity id="DDI-DrugBank.d367.s9.e0" charOffset="0-8"
+            type="group" text="Analgesic"/>
+        <entity id="DDI-DrugBank.d367.s9.e1" charOffset="10-26"
+            type="group" text="anti-inflammatory"/>
+        <entity id="DDI-DrugBank.d367.s9.e2" charOffset="35-47"
+            type="drug" text="acetaminophen"/>
+        <entity id="DDI-DrugBank.d367.s9.e3" charOffset="50-56"
+            type="brand" text="aspirin"/>
+        <entity id="DDI-DrugBank.d367.s9.e4" charOffset="59-65"
+            type="drug" text="codeine"/>
+        <entity id="DDI-DrugBank.d367.s9.e5" charOffset="71-77"
+            type="drug" text="codeine"/>
+        <entity id="DDI-DrugBank.d367.s9.e6" charOffset="93-101"
+            type="drug" text="ibuprofen"/>
+        <entity id="DDI-DrugBank.d367.s9.e7" charOffset="104-115"
+            type="drug" text="indomethacin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s10" text="2."/>
+    <sentence id="DDI-DrugBank.d367.s11" text="Antibiotics (e.g., erythromycin, trimethoprim and sulfamethoxazole, amoxicillin).">
+        <entity id="DDI-DrugBank.d367.s11.e0" charOffset="0-10"
+            type="group" text="Antibiotics"/>
+        <entity id="DDI-DrugBank.d367.s11.e1" charOffset="19-30"
+            type="drug" text="erythromycin"/>
+        <entity id="DDI-DrugBank.d367.s11.e2" charOffset="33-44"
+            type="drug" text="trimethoprim"/>
+        <entity id="DDI-DrugBank.d367.s11.e3" charOffset="50-65"
+            type="drug" text="sulfamethoxazole"/>
+        <entity id="DDI-DrugBank.d367.s11.e4" charOffset="68-78"
+            type="drug" text="amoxicillin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s12" text="3."/>
+    <sentence id="DDI-DrugBank.d367.s13" text="Antihistamines (e.g., chlorpheniramine).">
+        <entity id="DDI-DrugBank.d367.s13.e0" charOffset="0-13"
+            type="group" text="Antihistamines"/>
+        <entity id="DDI-DrugBank.d367.s13.e1" charOffset="22-37"
+            type="group" text="chlorpheniramine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s14" text="4."/>
+    <sentence id="DDI-DrugBank.d367.s15" text="Cardiovascular agents (e.g., atenolol, hydrochlorothiazide, propranolol).">
+        <entity id="DDI-DrugBank.d367.s15.e0" charOffset="29-36"
+            type="drug" text="atenolol"/>
+        <entity id="DDI-DrugBank.d367.s15.e1" charOffset="39-57"
+            type="drug" text="hydrochlorothiazide"/>
+        <entity id="DDI-DrugBank.d367.s15.e2" charOffset="60-70"
+            type="drug" text="propranolol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s16" text="5."/>
+    <sentence id="DDI-DrugBank.d367.s17" text="Corticosteroids.">
+        <entity id="DDI-DrugBank.d367.s17.e0" charOffset="0-14"
+            type="group" text="Corticosteroids"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s18" text="6."/>
+    <sentence id="DDI-DrugBank.d367.s19" text="Gastrointestinal agents (e.g., antacids).">
+        <entity id="DDI-DrugBank.d367.s19.e0" charOffset="31-38"
+            type="group" text="antacids"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s20" text="7."/>
+    <sentence id="DDI-DrugBank.d367.s21" text="Hypoglycemics and endocrine drugs.">
+        <entity id="DDI-DrugBank.d367.s21.e0" charOffset="0-12"
+            type="group" text="Hypoglycemics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s22" text="8."/>
+    <sentence id="DDI-DrugBank.d367.s23" text="Sedatives and tranquilizers (e.g., diazepam).">
+        <entity id="DDI-DrugBank.d367.s23.e0" charOffset="0-8"
+            type="group" text="Sedatives"/>
+        <entity id="DDI-DrugBank.d367.s23.e1" charOffset="14-26"
+            type="group" text="tranquilizers"/>
+        <entity id="DDI-DrugBank.d367.s23.e2" charOffset="35-42"
+            type="drug" text="diazepam"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s24" text="9."/>
+    <sentence id="DDI-DrugBank.d367.s25" text="Cold and flu remedies."/>
+</document>

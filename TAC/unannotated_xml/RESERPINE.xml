@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="reserpine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been observed with rauwolfia preparations, but there has not been enough systematic collection of data to support an estimate of their frequency. Consequently the reactions are categorized by organ system and are listed in decreasing order of severity and not frequency.
+
+
+
+   Digestive
+
+  Vomiting, diarrhea, nausea, anorexia, dryness of mouth, hypersecretion.
+
+
+
+   Cardiovascular
+
+  Arrhythmias (particularly when used concurrently with digitalis or quinidine), syncope, angina-like symptoms, bradycardia, edema.
+
+
+
+   Respiratory
+
+  Dyspnea, epistaxis, nasal congestion.
+
+
+
+   Neurologic
+
+  Rare parkinsonian syndrome and other extrapyramidal tract symptoms; dizziness; headache; paradoxical anxiety; depression; nervousness; nightmares; dull sensorium; drowsiness.
+
+
+
+   Musculoskeletal
+
+  Muscular aches.
+
+
+
+   Genitourinary
+
+  Pseudolactation, impotence, dysuria, gynecomastia, decreased libido, breast engorgement.
+
+
+
+   Metabolic
+
+  Weight gain.
+
+
+
+   Special Senses
+
+  Deafness, optic atrophy, glaucoma, uveitis, conjunctival injection.
+
+
+
+   Hypersensitive Reactions
+
+  Purpura, rash, pruritus.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

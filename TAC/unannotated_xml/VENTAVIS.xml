@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ventavis" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6. ADVERSE REACTIONS
+
+  EXCERPT:   Most common (&gt;=3% placebo adjusted) adverse reactions are vasodilation (flushing), cough increased, headache, trismus, insomnia, nausea, hypotension, vomiting, alkaline phosphatase increased, flu syndrome, back pain, tongue pain, palpitations, syncope, GGT increased, muscle cramps, hemoptysis, and pneumonia (  6.1  ).  To report SUSPECTED ADVERSE REACTIONS, contact Actelion at 1-866-228-3546 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Pre-marketing safety data on Ventavis were obtained from 215 patients with pulmonary arterial hypertension receiving iloprost in two 12-week clinical trials and two long-term extensions. Patients received inhaled Ventavis for periods of from 1 day to more than 3 years. The median number of weeks of exposure was 15. Forty patients completed 12 months of open-label treatment with iloprost.
+
+
+
+ The following table shows adverse events reported by at least 4 Ventavis patients and reported at least 3% more frequently for Ventavis patients than placebo patients in the 12-week placebo-controlled study.
+
+
+
+ Table 1: Adverse Events in Phase 3 Clinical Trial 
+ Adverse Event                  Ventavisn = 101            Placebon = 102          Placebo subtracted %       
+  
+ Vasodilation (flushing)               27                        9                          18                
+ Cough increased                       39                        26                         13                
+ Headache                              30                        20                         10                
+ Trismus                               12                        3                           9                
+ Insomnia                              8                         2                           6                
+ Nausea                                13                        8                           5                
+ Hypotension                           11                        6                           5                
+ Vomiting                              7                         2                           5                
+ Alk phos increased                    6                         1                           5                
+ Flu syndrome                          14                        10                          4                
+ Back pain                             7                         3                           4                
+ Tongue pain                           4                         0                           4                
+ Palpitations                          7                         4                           3                
+ Syncope                               8                         5                           3                
+ GGT increased                         6                         3                           3                
+ Muscle cramps                         6                         3                           3                
+ Hemoptysis                            5                         2                           3                
+ Pneumonia                             4                         1                           3                
+          Pre-marketing serious adverse events reported with the use of inhaled Ventavis and not shown in Table 1 include congestive heart failure, chest pain, supraventricular tachycardia, dyspnea, peripheral edema, and kidney failure.
+ 
+
+ In a small clinical trial (the STEP trial)  [see  Clinical Studies (14)  ]  , safety trends in patients receiving concomitant bosentan and Ventavis were consistent with those observed in the larger experience of the Phase 3 study in patients receiving only Ventavis or bosentan.
+
+
+
+     Adverse events with higher doses  
+
+
+
+ In a study in healthy subjects (n=160), inhaled doses of iloprost solution were given every 2 hours, beginning with 5 mcg and increasing up to 20 mcg for a total of 6 dose inhalations (total cumulative dose of 70 mcg) or up to the highest dose tolerated in a subgroup of 40 subjects. There were 13 subjects (32%) who failed to reach the highest scheduled dose (20 mcg). Five were unable to increase the dose because of (mild to moderate) transient chest pain/discomfort/tightness, usually accompanied by headache, nausea, and dizziness. The remaining 8 subjects discontinued for other reasons.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during the postapproval use of Ventavis. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Cases of bronchospasm and wheezing have been reported, particularly in patients with a history of hyperreactive airways  [see  Warnings and Precautions (5.3)  ]  . Bleeding events most commonly reported as epistaxis and hemoptysis were observed on Ventavis treatment  [see  Drug Interactions (7.3)  ]  . Cases of thrombocytopenia, dizziness, diarrhea, mouth and tongue irritation, nasal congestion, dysgeusia, hypersensitivity, and rash have also been reported with the use of Ventavis.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5. WARNINGS AND PRECAUTIONS
+
+
+
+  Ventavis solution should not be allowed to come into contact with the skin or eyes; oral ingestion of Ventavis solution should be avoided.
+
+
+
+    EXCERPT:    *  Hypotension leading to syncope has been observed. Ventavis should not be administered in patients with systolic blood pressure below 85 mmHg (  5.1  ). 
+ *  Pulmonary venous hypertension: Discontinue if pulmonary edema is present (  5.2  ). 
+ *  May cause bronchospasm: Patients with a history of hyperreactive airway disease may be more sensitive (  5.3  ). 
+    
+ 
+
+   5.1 Risk of Syncope
+
+
+
+  Monitor vital signs while initiating Ventavis. Do not initiate Ventavis in patients with systolic blood pressure below 85 mmHg. Syncope can also occur in association with pulmonary arterial hypertension, particularly in association with physical exertion. The occurrence of exertional syncope may reflect a therapeutic gap or insufficient efficacy, and the need to adjust dose or change therapy should be considered.
+
+
+
+    5.2 Pulmonary Venous Hypertension
+
+
+
+  Should signs of pulmonary edema occur when inhaled Ventavis is administered in patients with pulmonary hypertension, stop treatment immediately, as this may be a sign of pulmonary venous hypertension.
+
+
+
+    5.3 Bronchospasm
+
+
+
+  Ventavis inhalation can induce bronchospasm. Bronchospasm may be more severe or frequent in patients with a history of hyperreactive airways. Ventavis has not been evaluated in patients with chronic obstructive pulmonary disease (COPD), severe asthma, or with acute pulmonary infections.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

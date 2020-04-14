@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="exelderm1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  There were no systemic effects and only infrequent cutaneous adverse reactions in 1185 patients treated with sulconazole nitrate cream in controlled clinical trials. Approximately 3% of these patients reported itching, 3% burning or stinging, and 1% redness. These complaints did not usually interfere with treatment.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

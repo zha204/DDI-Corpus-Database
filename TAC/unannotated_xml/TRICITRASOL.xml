@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tricitrasol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Citrate reactions or toxicity may occur with the infusion of blood products containing citrate anticoagulant  1. 9 11  . The recipient of the citrated blood product should be monitored for the signs and symptoms of citrate toxicity  1. 9 11  . The signs and symptoms of citrate toxicity begin with paresthesia, a "tingling" sensation around the mouth or in the extremities, followed by severe reactions that are characterized by chills, stomach cramps, or pressure in the chest, followed by more severe reactions that are characterized by hypotension and possible cardiac arrhythmia  1. 9 11  . Citrate toxicity may occur more frequently in patients that are hypothermic  10  , have impaired liver or renal function  10  , or have low calcium levels because of an underlying disease  9  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

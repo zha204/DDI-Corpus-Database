@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="8mop" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    VII. ADVERSE REACTIONS
+
+  A. METHOXSALEN:
+
+  The most commonly reported side effect of methoxsalen alone is nausea, which occurs with approximately 10% of all patients. This effect may be minimized or avoided by instructing the patient to take methoxsalen with milk or food, or to divide the dose into two portions, taken approximately one-half hour apart. Other effects include nervousness, insomnia, and psychological depression.
+
+
+
+   B. COMBINED METHOXSALEN/UVA THERAPY:
+
+  1. PRURITUS:
+
+  This adverse reaction occurs with approximately 10% of all patients. In most cases, pruritus can be alleviated with frequent application of bland emollients or other topical agents; severe pruritus may require systemic treatment. If pruritus is unresponsive to these measures, shield pruritic areas from further UVA exposure until the condition resolves. If intractable pruritus is generalized, UVA treatment should be discontinued until the pruritus disappears.
+
+
+
+   2. ERYTHEMA:
+
+  Mild, transient erythema at 24-48 hours after PUVA therapy is an expected reaction and indicates that a therapeutic interaction between methoxsalen and UVA occurred. An area showing moderate erythema (greater than Grade 2 - See  Table 1  for grades of erythema) should be shielded during subsequent UVA exposures until the erythema has resolved. Erythema greater than Grade 2 which appears within 24 hours after UVA treatment may signal a potentially severe burn. Erythema may become progressively worse over the next 24 hours, since the peak erythemal reaction characteristically occurs 48 hours or later after methoxsalen ingestion. The patient should be protected from further UVA exposures and sunlight, and should be monitored closely.
+
+
+
+   3. IMPORTANT DIFFERENCES BETWEEN PUVA ERYTHEMA AND SUNBURN:
+
+  PUVA-induced inflammation differs from sunburn or UVB phototherapy in several ways. The  in situ  depth of photochemistry is deeper within the tissue because UVA is transmitted further into the skin. The DNA lesions induced by PUVA are very different from UV-induced thymine dimers and may lead to a DNA crosslink. This DNA lesion may be more problematic to the cell because crosslinks are more lethal and psoralen-DNA photoproducts may be "new" or unfamiliar substrates for DNA repair enzymes. DNA synthesis is also suppressed longer after PUVA. The time course of delayed erythema is different with PUVA and may not involve the usual mediators seen in sunburn. PUVA-induced redness may be just beginning at 24 hours, when UVB erythema has already passed its peak. The erythema dose-response curve is also steeper for PUVA. Compared to equally erythemogenic doses of UVB, the histologic alterations induced by PUVA show more dermal vessel damage and longer duration of epidermal and dermal abnormalities.
+
+
+
+   4. OTHER ADVERSE REACTIONS:
+
+  Those reported include edema, dizziness, headache, malaise, depression, hypopigmentation, vesiculation and bullae formation, non-specific rash, herpes simplex, miliaria, urticaria, folliculitis, gastrointestinal disturbances, cutaneous tenderness, leg cramps, hypotension, and extension of psoriasis.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  Methoxsalen with UV radiation should be used only by physicians who have special competence in the diagnosis and treatment of psoriasis and vitiligo and who have special training and experience in photochemotherapy. Psoralen and ultraviolet radiation therapy should be under constant supervision of such a physician. For the treatment of patients with psoriasis, photochemotherapy should be restricted to patients with severe, recalcitrant, disabling psoriasis which is not adequately responsive to other forms of therapy, and only when the diagnosis is certain. Because of the possibilities of ocular damage, aging of the skin, and skin cancer (including melanoma), the patient should be fully informed by the physician of the risks inherent in this therapy. When methoxsalen is used in combination with photopheresis, refer to the UVAR* System Operator's Manual for specific warnings, cautions, indications, and instructions related to photopheresis.
+
+
+
+ 
+
+
+
+
+
+    BOXED WARNING: 
+
+    CAUTION: 8-MOP  (r)   Capsules (Methoxsalen Hard Gelatin Capsules) may not be interchanged with Oxsoralen-Ultra  (r)   Capsules (Methoxsalen Soft Gelatin Capsules) without retitration of the patient.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

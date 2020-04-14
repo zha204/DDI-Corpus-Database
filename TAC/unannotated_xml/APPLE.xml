@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="apple" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+    (1) Local Reactions  - A mild burning immediately after the injection is to be expected; this usually subsides in 10 to 20 seconds. Reactions at the site of injection (erythema, swelling, pruritus) may be immediate or delayed. Immediate wheal and erythema reactions are ordinarily of little consequence; but if very large, may be the first manifestation of a systemic reaction. Delayed reactions start several hours after injection with local edema, erythema, itching or pain. The reactions are most apparent 24 hours after injection and usually require no treatment. Antihistamines may be administered orally if necessary. Large local reactions may be treated by local applications of cold, wet dressings and/or the use of oral antihistamines. These reactions should be considered a warning of possible severe systemic reaction and need for temporarily reduced dosage. In such cases the next therapeutic dose should be reduced to the last dose which did not elicit a reaction and subsequent doses increased more slowly.
+
+
+
+ (  2) Systemic Reactions  - Most severe systemic reactions occur within 30 minutes of injection but may occur at anytime subsequent to treatment. Symptoms may range from mild to life-threatening (due to anaphylaxis). Systemic reactions are characterized by one or more of the following symptoms: sneezing, mild to severe generalized urticaria, itching other than at the injection site, extensive or generalized edema, wheezing, asthma, dyspnea, cyanosis, tachycardia, lacrimation, marked perspiration, cough, hypotension, syncope and upper airway obstruction. Symptoms may progress to anaphylactic shock and death.
+
+
+
+ If a systemic or anaphylactic reaction does occur, apply a tourniquet above the site of injection and inject 1:1,000 epinephrine-hydrochloride intramuscularly into the opposite arm or gluteal area. Loosen the tourniquet at least every 10 minutes. Do not obstruct arterial blood flow with the tourniquet.
+
+
+
+ 1:1,000 EPHEDRINE DOSAGE: 
+
+
+
+ ADULT: 0.3 mL to 0.5 mL should be injected intramuscularly or subcutaneously. Repeat in 5 to 10 minutes if necessary.
+
+
+
+ PEDIATRIC: Suggested dosage for infants to 2 years of age is 0.05 mL to 0.1 mL; for children 2 to 6 years, 0.15 mL; and children 6 to 12 years, 0.2 mL.
+
+
+
+ Doses may be repeated every 20 minutes, depending on the severity of the condition and the response of the patient. After administration of epinephrine, profound shock or vasomotor collapse should be treated with intravenous fluids, and vasoactive drugs if necessary. An open airway should be insured. Give oxygen by mask. Intravenous antihistamine, inhaled bronchodilators, theophyllin and/or adrenal corticosteroids may be used if necessary after adequate epinephrine and circulatory support has been given. Emergency resuscitation measures and personnel trained in their use must be available immediately in the event of a serious systemic or anaphylactic reaction not responsive to the above measures.
+
+
+
+ If the patient is continued on immunotherapy, a decrease of at least 50% in the next dose should follow serious systemic reactions. Increases in dose should be made cautiously. Repeated systemic reactions are sufficient reason for discontinuation of increased dosages.  
+
+
+
+ (3) To report suspected ADVERSE REACTIONS, contact Allergy Laboratories, Inc. 800-654-3971 or FDA 800-FDA-1088 or www.fda/gov/medwatch.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+    WARNINGS  
+
+  This product is intended for use by physicians who are experienced in the administration of allergenic extracts and the emergency care of anaphylaxis, or for use under the guidance of an allergy specialist.
+
+
+
+ Patients should be instructed to recognize adverse reaction symptoms and cautioned to contact physicians' office if reaction symptoms occur. As with all allergenic extracts, severe systemic reactions may occur. In certain individuals these life threatening reactions may be fatal. Patients should be observed for at least 20 to 30 minutes following treatment and emergency measures as well as personnel trained in their use should be immediately available in the event of a life threatening reaction. Serious adverse reactions can be reported to the US Food and Drug Administration MedWatch, 5600 Fishers Lane, Rockville, Maryland 20852-9787, (800) FDA-1088, or www.fda/gov/medwatch. 
+
+
+
+ This product should not be injected intravenously. Patients who are taking non-selective beta blockers may be more reactive to allergens given for testing and may be unresponsive to the usual doses of epinephrine used to treat allergic reactions. Refer to the Warnings, Precautions, Adverse Reactions and Dosage sections below.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

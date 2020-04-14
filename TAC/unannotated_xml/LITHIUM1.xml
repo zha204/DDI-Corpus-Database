@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lithium1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The occurrence and severity of adverse reactions are generally directly related to serum lithium concentrations and to individual patient sensitivity to lithium. They generally occur more frequently and with greater severity at higher concentrations.
+
+
+
+ Adverse reactions may be encountered at serum lithium concentrations below 1.5 mEq/L. Mild to moderate adverse reactions may occur at concentrations from 1.5 to 2.5 mEq/L, and moderate to severe reactions may be seen at concentrations from 2.0 mEq/L and above.
+
+
+
+ Fine hand tremor, polyuria, and mild thirst may occur during initial therapy for the acute manic phase and may persist throughout treatment. Transient and mild nausea and general discomfort may also appear during the first few days of lithium administration.
+
+
+
+ These side effects usually subside with continued treatment or with a temporary reduction or cessation of dosage. If persistent, a cessation of lithium therapy may be required. Diarrhea, vomiting, drowsiness, muscular weakness, and lack of coordination may be early signs of lithium intoxication, and can occur at lithium concentrations below 2.0 mEq/L. At higher concentrations, giddiness, ataxia, blurred vision, tinnitus, and a large output of dilute urine may be seen. Serum lithium concentrations above 3.0 mEq/L may produce a complex clinical picture involving multiple organs and organ systems. Serum lithium concentrations should not be permitted to exceed 2.0 mEq/L during the acute treatment phase.
+
+
+
+ The following reactions have been reported and appear to be related to serum lithium concentrations, including concentrations within the therapeutic range:
+
+
+
+   Central Nervous System:  tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes. Cases of Pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use. If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields and eventual blindness due to optic atrophy. Lithium should be discontinued, if clinically possible, if this syndrome occurs.  Cardiovascular:  cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome (See      WARNINGS      and      PATIENT            COUNSELING    INFORMATION      ).  Gastrointestinal:  anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.  Genitourinary:  glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.  Dermatologic:  drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.  Autonomic Nervous System:  blurred vision, dry mouth, impotence/sexual dysfunction.  Thyroid Abnormalities:  euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.  131  Iodine uptake may be elevated (see      PRECAUTIONS      ). Paradoxically, rare cases of hyperthyroidism have been reported.  EEG Changes:  diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.  EKG Changes:  reversible flattening, isoelectricity or inversion of T-waves.  Miscellaneous:  fatigue, lethargy, transient scotomata, exophthalmos, dehydration, weight loss, leucocytosis, headache, transient hyperglycemia, hypercalcemia, hyperparathyroidism, albuminuria, excessive weight gain, edematous swelling of ankles or wrists, metallic taste, dysgeusia/taste distortion, salty taste, thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, and dental caries.
+
+
+
+ Some reports of nephrogenic diabetes insipidus, hyperparathyroidism, and hypothyroidism which persist after lithium discontinuation have been received.
+
+
+
+ A few reports have been received of the development of painful discoloration of fingers and toes and coldness of the extremities within one day of starting lithium treatment. The mechanism through which these symptoms (resembling Raynaud's Syndrome) developed is not known. Recovery followed discontinuance.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels. Facilities for prompt and accurate serum lithium determinations should be available before initiating therapy (see       DOSAGE AND ADMINISTRATION      ).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

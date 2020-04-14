@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="inomax" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from the clinical studies does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+
+
+
+   EXCERPT:   Methemoglobinemia and NO2levels are dose dependent. The most common adverse reaction is hypotension (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact INO Therapeutics at 1-877-566-9466 and http://www.inomax.com/ or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Controlled studies have included 325 patients on INOmax doses of 5 to 80 ppm and 251 patients on placebo. Total mortality in the pooled trials was 11% on placebo and 9% on INOmax, a result adequate to exclude INOmax mortality being more than 40% worse than placebo.
+
+
+
+ In both the NINOS and CINRGI studies, the duration of hospitalization was similar in INOmax and placebo-treated groups.
+
+
+
+ From all controlled studies, at least 6 months of follow-up is available for 278 patients who received INOmax and 212 patients who received placebo. Among these patients, there was no evidence of an adverse effect of treatment on the need for rehospitalization, special medical services, pulmonary disease, or neurological sequelae.
+
+
+
+ In the NINOS study, treatment groups were similar with respect to the incidence and severity of intracranial hemorrhage, Grade IV hemorrhage, periventricular leukomalacia, cerebral infarction, seizures requiring anticonvulsant therapy, pulmonary hemorrhage, or gastrointestinal hemorrhage.
+
+
+
+ In CINRGI, the only adverse reaction (&gt;2% higher incidence on INOmax than on placebo) was hypotension (14% vs. 11%).
+
+
+
+   6.2 Post-Marketing Experience
+
+    Accidental Exposure  
+
+
+
+ Based upon post-marketing experience, accidental exposure to nitric oxide for inhalation in hospital staff has been associated with chest discomfort, dizziness, dry throat, dyspnea, and headache.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Rebound: Abrupt discontinuation of INOmax may lead to worsening oxygenation and increasing pulmonary artery pressure (  5.1  ).
+
+
+
+ Methemoglobinemia: Methemoglobin increases with the dose of nitric oxide; following discontinuation or reduction of nitric oxide, methemoglobin levels return to baseline over a period of hours (  5.2  ).
+
+
+
+ Elevated NO2Levels: Monitor NO2levels continuously with a suitable Nitric Oxide Delivery System (  5.3  ).
+
+
+
+ Heart Failure: In patients with pre-existing left ventricular dysfunction, INOmax may increase pulmonary capillary wedge pressure leading to pulmonary edema (  5.4  ).
+
+
+
+ 
+
+
+
+   5.1 Rebound Pulmonary Hypertension Syndrome following Abrupt Discontinuation
+
+
+
+  Wean from INOmax [ see  Dosage and Administration (2.2)    ]. Abrupt discontinuation of INOmax may lead to worsening oxygenation and increasing pulmonary artery pressure, i.e., Rebound Pulmonary Hypertension Syndrome. Signs and symptoms of Rebound Pulmonary Hypertension Syndrome include hypoxemia, systemic hypotension, bradycardia, and decreased cardiac output. If Rebound Pulmonary Hypertension occurs, reinstate INOmax therapy immediately.
+
+
+
+    5.2 Hypoxemia from Methemoglobinemia
+
+
+
+  Nitric oxide combines with hemoglobin to form methemoglobin, which does not transport oxygen. Methemoglobin levels increase with the dose of INOmax; it can take 8 hours or more before steady-state methemoglobin levels are attained. Monitor methemoglobin and adjust the dose of INOmax to optimize oxygenation.
+
+
+
+ If methemoglobin levels do not resolve with decrease in dose or discontinuation of INOmax, additional therapy may be warranted to treat methemoglobinemia [ see  Overdosage (10)    ].
+
+
+
+    5.3 Airway Injury from Nitrogen Dioxide
+
+
+
+  Nitrogen dioxide (NO2) forms in gas mixtures containing NO and O2. Nitrogen dioxide may cause airway inflammation and damage to lung tissues. If the concentration of NO2in the breathing circuit exceeds 0.5 ppm, decrease the dose of INOmax.
+
+
+
+ If there is an unexpected change in NO2concentration, when measured in the breathing circuit, then the delivery system should be assessed in accordance with the Nitric Oxide Delivery System O&amp;M Manual troubleshooting section, and the NO2analyzer should be recalibrated. The dose of INOmax and/or FiO2should be adjusted as appropriate.
+
+
+
+    5.4 Heart Failure
+
+
+
+  Patients with left ventricular dysfunction treated with INOmax may experience pulmonary edema, increased pulmonary capillary wedge pressure, worsening of left ventricular dysfunction, systemic hypotension, bradycardia and cardiac arrest. Discontinue INOmax while providing symptomatic care.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

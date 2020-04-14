@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="durezol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Adverse reactions associated with ophthalmic steroids include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation; secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera.
+
+
+
+   6.1 Ocular Surgery
+
+  Ocular adverse reactions occurring in 5-15% of subjects in clinical studies with DUREZOL included corneal edema, ciliary and conjunctival hyperemia, eye pain, photophobia, posterior capsule opacification, anterior chamber cells, anterior chamber flare, conjunctival edema, and blepharitis.  Other ocular adverse reactions occurring in 1-5% of subjects included reduced visual acuity, punctate keratitis, eye inflammation, and iritis.  Ocular adverse reactions occurring in &lt; 1% of subjects included application site discomfort or irritation, corneal pigmentation and striae, episcleritis, eye pruritis, eyelid irritation and crusting, foreign body sensation, increased lacrimation, macular edema, sclera hyperemia, and uveitis.  Most of these reactions may have been the consequence of the surgical procedure.
+
+
+
+   6.2 Endogenous Anterior Uveitis
+
+  A total of 200 subjects participated in the clinical trials for endogenous anterior uveitis, of which 106 were exposed to DUREZOL.  The most common adverse reactions of those exposed to DUREZOL occurring in 5-10% of subjects included blurred vision, eye irritation, eye pain, headache, increased IOP, iritis, limbal and conjunctival hyperemia, punctate keratitis, and uveitis.  Adverse reactions occurring in 2-5% of subjects included anterior chamber flare, corneal edema, dry eye, iridocyclitis, photophobia, and reduced visual acuity.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Intraocular pressure (IOP) increase- Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. If this product is used for 10 days or longer, IOP should be monitored.  (  5.1  )
+ 
+    
+
+ item{ Cataracts- Use of corticosteroids may result in posterior subcapsular cataract formation. (  5.2  )
+ 
+
+ item{ Delayed healing- The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. The initial prescription and renewal of the medication order beyond 28 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining. (  5.3  )
+ 
+
+ item{ Bacterial infections- Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. In acute purulent conditions, steroids may mask infection or enhance existing infection. If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated. (  5.4  )
+ 
+
+ item{ Viral infections- Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex). (  5.5  )
+ 
+
+ item{ Fungal infections- Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use. (  5.6  )
+ 
+
+}}  To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc. at 1-800-757-9195 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+
+
+   5.1 IOP Increase
+
+
+
+  Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. Steroids should be used with caution in the presence of glaucoma. If this product is used for 10 days or longer, intraocular pressure should be monitored.
+
+
+
+    5.2 Cataracts
+
+
+
+  Use of corticosteroids may result in posterior subcapsular cataract formation.
+
+
+
+    5.3 Delayed Healing
+
+
+
+  The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. The initial prescription and renewal of the medication order beyond 28 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+
+
+
+    5.4 Bacterial Infections
+
+
+
+  Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. In acute purulent conditions, steroids may mask infection or enhance existing infection. If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.
+
+
+
+    5.5 Viral Infections
+
+
+
+  Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
+
+
+
+    5.6 Fungal Infections
+
+
+
+  Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use. Fungal culture should be taken when appropriate.
+
+
+
+    5.7 Topical Ophthalmic Use Only
+
+
+
+  DUREZOL is not indicated for intraocular administration.
+
+
+
+    5.8 Contact Lens Wear
+
+
+
+  DUREZOL should not be instilled while wearing contact lenses. Remove contact lenses prior to instillation of DUREZOL. The preservative in DUREZOL may be absorbed by soft contact lenses.  Lenses may be reinserted after 10 minutes following administration of DUREZOL.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="DrugClass" start="61" len="19" str="ophthalmic steroids" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="89" len="29" str="elevated intraocular pressure" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="149" len="18" str="optic nerve damage" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="169,193" len="13,7" str="visual acuity defects" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="169,187" len="6,13" str="visual field defects" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="202" len="40" str="posterior subcapsular cataract formation" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="244" len="26" str="secondary ocular infection" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="244,296" len="26,14" str="secondary ocular infection herpes simplex" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="316" len="24" str="perforation of the globe" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="418" len="24" str="Ocular adverse reactions" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="516" len="13" str="corneal edema" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="531,556" len="7,9" str="ciliary hyperemia" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="543" len="22" str="conjunctival hyperemia" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="567" len="8" str="eye pain" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="577" len="11" str="photophobia" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="590" len="31" str="posterior capsule opacification" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="623" len="22" str="anterior chamber cells" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="647" len="22" str="anterior chamber flare" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="671" len="18" str="conjunctival edema" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="695" len="11" str="blepharitis" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="779" len="21" str="reduced visual acuity" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="802" len="18" str="punctate keratitis" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="822" len="16" str="eye inflammation" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="844" len="6" str="iritis" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="917" len="27" str="application site discomfort" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="917,948" len="16,10" str="application site irritation" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="960" len="20" str="corneal pigmentation" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="960,985" len="7,6" str="corneal striae" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="993" len="12" str="episcleritis" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="1007" len="12" str="eye pruritis" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="1021" len="17" str="eyelid irritation" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="1021,1043" len="6,8" str="eyelid crusting" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="1053" len="22" str="foreign body sensation" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="1077" len="21" str="increased lacrimation" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="1100" len="13" str="macular edema" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="1115" len="16" str="sclera hyperemia" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="1137" len="7" str="uveitis" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="1503" len="14" str="blurred vision" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="1519" len="14" str="eye irritation" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="1535" len="8" str="eye pain" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="1545" len="8" str="headache" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="1555" len="13" str="increased IOP" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="1570" len="6" str="iritis" />
+    <Mention id="M44" section="S1" type="AdverseReaction" start="1578,1602" len="6,9" str="limbal hyperemia" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="1589" len="22" str="conjunctival hyperemia" />
+    <Mention id="M46" section="S1" type="AdverseReaction" start="1613" len="18" str="punctate keratitis" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="1637" len="7" str="uveitis" />
+    <Mention id="M48" section="S1" type="AdverseReaction" start="1704" len="22" str="anterior chamber flare" />
+    <Mention id="M49" section="S1" type="AdverseReaction" start="1728" len="13" str="corneal edema" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="1743" len="7" str="dry eye" />
+    <Mention id="M51" section="S1" type="AdverseReaction" start="1752" len="13" str="iridocyclitis" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="1767" len="11" str="photophobia" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="1784" len="21" str="reduced visual acuity" />
+    <Mention id="M54" section="S2" type="AdverseReaction" start="53,80" len="20,8" str="Intraocular pressure increase" />
+    <Mention id="M55" section="S2" type="AdverseReaction" start="75,80" len="3,8" str="IOP increase" />
+    <Mention id="M56" section="S2" type="DrugClass" start="107" len="15" str="corticosteroids" />
+    <Mention id="M57" section="S2" type="AdverseReaction" start="137" len="8" str="glaucoma" />
+    <Mention id="M58" section="S2" type="AdverseReaction" start="151" len="25" str="damage to the optic nerve" />
+    <Mention id="M59" section="S2" type="AdverseReaction" start="178" len="24" str="defects in visual acuity" />
+    <Mention id="M60" section="S2" type="AdverseReaction" start="178,207" len="7,16" str="defects fields of vision" />
+    <Mention id="M61" section="S2" type="DrugClass" start="341" len="15" str="corticosteroids" />
+    <Mention id="M62" section="S2" type="AdverseReaction" start="371" len="30" str="posterior subcapsular cataract" />
+    <Mention id="M63" section="S2" type="DrugClass" start="461" len="8" str="steroids" />
+    <Mention id="M64" section="S2" type="AdverseReaction" start="497" len="13" str="delay healing" />
+    <Mention id="M65" section="S2" type="AdverseReaction" start="515,541" len="8,14" str="increase bleb formation" />
+    <Mention id="M66" section="S2" type="AdverseReaction" start="617" len="12" str="perforations" />
+    <Mention id="M67" section="S2" type="DrugClass" start="679" len="8" str="steroids" />
+    <Mention id="M68" section="S2" type="DrugClass" start="1000" len="15" str="corticosteroids" />
+    <Mention id="M69" section="S2" type="AdverseReaction" start="1020" len="26" str="suppress the host response" />
+    <Mention id="M70" section="S2" type="AdverseReaction" start="1079" len="27" str="secondary ocular infections" />
+    <Mention id="M71" section="S2" type="DrugClass" start="1465" len="8" str="steroids" />
+    <Mention id="M72" section="S2" type="AdverseReaction" start="1505,1537" len="10,27" str="exacerbate viral infections of the eye" />
+    <Mention id="M73" section="S2" type="AdverseReaction" start="1505,1576" len="10,14" str="exacerbate herpes simplex" />
+    <Mention id="M74" section="S2" type="AdverseReaction" start="1632" len="31" str="Fungal infections of the cornea" />
+    <Mention id="M75" section="S2" type="DrugClass" start="1734" len="7" str="steroid" />
+    <Mention id="M76" section="S2" type="DrugClass" start="2080" len="15" str="corticosteroids" />
+    <Mention id="M77" section="S2" type="AdverseReaction" start="2110" len="8" str="glaucoma" />
+    <Mention id="M78" section="S2" type="AdverseReaction" start="2124" len="25" str="damage to the optic nerve" />
+    <Mention id="M79" section="S2" type="AdverseReaction" start="2151" len="24" str="defects in visual acuity" />
+    <Mention id="M80" section="S2" type="AdverseReaction" start="2151,2180" len="7,16" str="defects fields of vision" />
+    <Mention id="M81" section="S2" type="DrugClass" start="2386" len="15" str="corticosteroids" />
+    <Mention id="M82" section="S2" type="AdverseReaction" start="2416" len="30" str="posterior subcapsular cataract" />
+    <Mention id="M83" section="S2" type="DrugClass" start="2501" len="8" str="steroids" />
+    <Mention id="M84" section="S2" type="AdverseReaction" start="2537" len="13" str="delay healing" />
+    <Mention id="M85" section="S2" type="AdverseReaction" start="2555,2581" len="8,14" str="increase bleb formation" />
+    <Mention id="M86" section="S2" type="AdverseReaction" start="2657" len="12" str="perforations" />
+    <Mention id="M87" section="S2" type="DrugClass" start="2719" len="8" str="steroids" />
+    <Mention id="M88" section="S2" type="DrugClass" start="3035" len="15" str="corticosteroids" />
+    <Mention id="M89" section="S2" type="AdverseReaction" start="3055" len="26" str="suppress the host response" />
+    <Mention id="M90" section="S2" type="AdverseReaction" start="3114" len="27" str="secondary ocular infections" />
+    <Mention id="M91" section="S2" type="DrugClass" start="3495" len="8" str="steroids" />
+    <Mention id="M92" section="S2" type="AdverseReaction" start="3535,3567" len="10,27" str="exacerbate viral infections of the eye" />
+    <Mention id="M93" section="S2" type="AdverseReaction" start="3535,3606" len="10,14" str="exacerbate herpes simplex" />
+    <Mention id="M94" section="S2" type="AdverseReaction" start="3657" len="31" str="Fungal infections of the cornea" />
+    <Mention id="M95" section="S2" type="DrugClass" start="3759" len="7" str="steroid" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M2" arg2="M1" />
+    <Relation id="RL2" type="Hypothetical" arg1="M3" arg2="M1" />
+    <Relation id="RL3" type="Hypothetical" arg1="M4" arg2="M1" />
+    <Relation id="RL4" type="Hypothetical" arg1="M5" arg2="M1" />
+    <Relation id="RL5" type="Hypothetical" arg1="M6" arg2="M1" />
+    <Relation id="RL6" type="Hypothetical" arg1="M7" arg2="M1" />
+    <Relation id="RL7" type="Hypothetical" arg1="M8" arg2="M1" />
+    <Relation id="RL8" type="Hypothetical" arg1="M9" arg2="M1" />
+    <Relation id="RL9" type="Hypothetical" arg1="M57" arg2="M56" />
+    <Relation id="RL10" type="Hypothetical" arg1="M58" arg2="M56" />
+    <Relation id="RL11" type="Hypothetical" arg1="M59" arg2="M56" />
+    <Relation id="RL12" type="Hypothetical" arg1="M60" arg2="M56" />
+    <Relation id="RL13" type="Hypothetical" arg1="M62" arg2="M61" />
+    <Relation id="RL14" type="Hypothetical" arg1="M64" arg2="M63" />
+    <Relation id="RL15" type="Hypothetical" arg1="M65" arg2="M63" />
+    <Relation id="RL16" type="Hypothetical" arg1="M66" arg2="M67" />
+    <Relation id="RL17" type="Hypothetical" arg1="M69" arg2="M68" />
+    <Relation id="RL18" type="Hypothetical" arg1="M70" arg2="M68" />
+    <Relation id="RL19" type="Hypothetical" arg1="M72" arg2="M71" />
+    <Relation id="RL20" type="Hypothetical" arg1="M73" arg2="M71" />
+    <Relation id="RL21" type="Hypothetical" arg1="M74" arg2="M75" />
+    <Relation id="RL22" type="Hypothetical" arg1="M77" arg2="M76" />
+    <Relation id="RL23" type="Hypothetical" arg1="M78" arg2="M76" />
+    <Relation id="RL24" type="Hypothetical" arg1="M79" arg2="M76" />
+    <Relation id="RL25" type="Hypothetical" arg1="M80" arg2="M76" />
+    <Relation id="RL26" type="Hypothetical" arg1="M82" arg2="M81" />
+    <Relation id="RL27" type="Hypothetical" arg1="M84" arg2="M83" />
+    <Relation id="RL28" type="Hypothetical" arg1="M85" arg2="M83" />
+    <Relation id="RL29" type="Hypothetical" arg1="M86" arg2="M87" />
+    <Relation id="RL30" type="Hypothetical" arg1="M89" arg2="M88" />
+    <Relation id="RL31" type="Hypothetical" arg1="M90" arg2="M88" />
+    <Relation id="RL32" type="Hypothetical" arg1="M92" arg2="M91" />
+    <Relation id="RL33" type="Hypothetical" arg1="M93" arg2="M91" />
+    <Relation id="RL34" type="Hypothetical" arg1="M94" arg2="M95" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="ocular adverse reactions">
+      <Normalization id="AR1.N1" meddra_pt="Eye symptom" meddra_pt_id="10075536" />
+    </Reaction>
+    <Reaction id="AR2" str="corneal edema">
+      <Normalization id="AR2.N1" meddra_pt="Corneal oedema" meddra_pt_id="10011033" meddra_llt="Corneal edema" meddra_llt_id="10011007" />
+    </Reaction>
+    <Reaction id="AR3" str="ciliary hyperemia">
+      <Normalization id="AR3.N1" meddra_pt="Ciliary hyperaemia" meddra_pt_id="10052129" meddra_llt="Ciliary hyperemia" meddra_llt_id="10054354" />
+    </Reaction>
+    <Reaction id="AR4" str="conjunctival hyperemia">
+      <Normalization id="AR4.N1" meddra_pt="Conjunctival hyperaemia" meddra_pt_id="10051625" meddra_llt="Conjunctival hyperemia" meddra_llt_id="10054364" />
+    </Reaction>
+    <Reaction id="AR5" str="eye pain">
+      <Normalization id="AR5.N1" meddra_pt="Eye pain" meddra_pt_id="10015958" />
+    </Reaction>
+    <Reaction id="AR6" str="photophobia">
+      <Normalization id="AR6.N1" meddra_pt="Photophobia" meddra_pt_id="10034960" />
+    </Reaction>
+    <Reaction id="AR7" str="posterior capsule opacification">
+      <Normalization id="AR7.N1" meddra_pt="Posterior capsule opacification" meddra_pt_id="10036346" />
+    </Reaction>
+    <Reaction id="AR8" str="anterior chamber cells">
+      <Normalization id="AR8.N1" meddra_pt="Anterior chamber cell" meddra_pt_id="10053781" />
+    </Reaction>
+    <Reaction id="AR9" str="anterior chamber flare">
+      <Normalization id="AR9.N1" meddra_pt="Anterior chamber flare" meddra_pt_id="10052127" />
+    </Reaction>
+    <Reaction id="AR10" str="conjunctival edema">
+      <Normalization id="AR10.N1" meddra_pt="Conjunctival oedema" meddra_pt_id="10010726" meddra_llt="Conjunctival edema" meddra_llt_id="10010715" />
+    </Reaction>
+    <Reaction id="AR11" str="blepharitis">
+      <Normalization id="AR11.N1" meddra_pt="Blepharitis" meddra_pt_id="10005148" />
+    </Reaction>
+    <Reaction id="AR12" str="reduced visual acuity">
+      <Normalization id="AR12.N1" meddra_pt="Visual acuity reduced" meddra_pt_id="10047531" />
+    </Reaction>
+    <Reaction id="AR13" str="punctate keratitis">
+      <Normalization id="AR13.N1" meddra_pt="Punctate keratitis" meddra_pt_id="10037508" />
+    </Reaction>
+    <Reaction id="AR14" str="eye inflammation">
+      <Normalization id="AR14.N1" meddra_pt="Eye inflammation" meddra_pt_id="10015943" />
+    </Reaction>
+    <Reaction id="AR15" str="iritis">
+      <Normalization id="AR15.N1" meddra_pt="Iritis" meddra_pt_id="10022955" />
+    </Reaction>
+    <Reaction id="AR16" str="application site discomfort">
+      <Normalization id="AR16.N1" meddra_pt="Application site discomfort" meddra_pt_id="10063072" />
+    </Reaction>
+    <Reaction id="AR17" str="application site irritation">
+      <Normalization id="AR17.N1" meddra_pt="Application site irritation" meddra_pt_id="10003046" />
+    </Reaction>
+    <Reaction id="AR18" str="corneal pigmentation">
+      <Normalization id="AR18.N1" meddra_pt="Corneal pigmentation" meddra_pt_id="10011040" />
+    </Reaction>
+    <Reaction id="AR19" str="corneal striae">
+      <Normalization id="AR19.N1" meddra_pt="Corneal striae" meddra_pt_id="10052118" />
+    </Reaction>
+    <Reaction id="AR20" str="episcleritis">
+      <Normalization id="AR20.N1" meddra_pt="Episcleritis" meddra_pt_id="10015084" />
+    </Reaction>
+    <Reaction id="AR21" str="eye pruritis">
+      <Normalization id="AR21.N1" meddra_pt="Eye pruritus" meddra_pt_id="10052140" />
+    </Reaction>
+    <Reaction id="AR22" str="eyelid irritation">
+      <Normalization id="AR22.N1" meddra_pt="Eyelid irritation" meddra_pt_id="10057385" />
+    </Reaction>
+    <Reaction id="AR23" str="eyelid crusting">
+      <Normalization id="AR23.N1" meddra_pt="Eyelid margin crusting" meddra_pt_id="10052132" />
+    </Reaction>
+    <Reaction id="AR24" str="foreign body sensation">
+      <Normalization id="AR24.N1" meddra_pt="Sensation of foreign body" meddra_pt_id="10061549" />
+    </Reaction>
+    <Reaction id="AR25" str="increased lacrimation">
+      <Normalization id="AR25.N1" meddra_pt="Lacrimation increased" meddra_pt_id="10023644" />
+    </Reaction>
+    <Reaction id="AR26" str="macular edema">
+      <Normalization id="AR26.N1" meddra_pt="Macular oedema" meddra_pt_id="10025415" meddra_llt="Macular edema" meddra_llt_id="10054467" />
+    </Reaction>
+    <Reaction id="AR27" str="sclera hyperemia">
+      <Normalization id="AR27.N1" meddra_pt="Scleral hyperaemia" meddra_pt_id="10059096" meddra_llt="Scleral hyperemia" meddra_llt_id="10059104" />
+    </Reaction>
+    <Reaction id="AR28" str="uveitis">
+      <Normalization id="AR28.N1" meddra_pt="Uveitis" meddra_pt_id="10046851" />
+    </Reaction>
+    <Reaction id="AR29" str="blurred vision">
+      <Normalization id="AR29.N1" meddra_pt="Vision blurred" meddra_pt_id="10047513" meddra_llt="Blurred vision" meddra_llt_id="10005886" />
+    </Reaction>
+    <Reaction id="AR30" str="eye irritation">
+      <Normalization id="AR30.N1" meddra_pt="Eye irritation" meddra_pt_id="10015946" />
+    </Reaction>
+    <Reaction id="AR31" str="headache">
+      <Normalization id="AR31.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR32" str="increased iop">
+      <Normalization id="AR32.N1" meddra_pt="Intraocular pressure increased" meddra_pt_id="10022806" />
+    </Reaction>
+    <Reaction id="AR33" str="limbal hyperemia">
+      <Normalization id="AR33.N1" meddra_pt="Ciliary hyperaemia" meddra_pt_id="10052129" meddra_llt="Limbal hyperemia" meddra_llt_id="10063468" />
+    </Reaction>
+    <Reaction id="AR34" str="dry eye">
+      <Normalization id="AR34.N1" meddra_pt="Dry eye" meddra_pt_id="10013774" />
+    </Reaction>
+    <Reaction id="AR35" str="iridocyclitis">
+      <Normalization id="AR35.N1" meddra_pt="Iridocyclitis" meddra_pt_id="10022941" />
+    </Reaction>
+    <Reaction id="AR36" str="intraocular pressure increase">
+      <Normalization id="AR36.N1" meddra_pt="Intraocular pressure increased" meddra_pt_id="10022806" />
+    </Reaction>
+    <Reaction id="AR37" str="iop increase">
+      <Normalization id="AR37.N1" meddra_pt="Intraocular pressure increased" meddra_pt_id="10022806" meddra_llt="Increased intraocular pressure" meddra_llt_id="10021667" />
+    </Reaction>
+  </Reactions>
+</Label>

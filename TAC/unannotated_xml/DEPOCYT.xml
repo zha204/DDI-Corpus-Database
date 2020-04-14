@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="depocyt" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described in greater detail in other sections of the label  :  
+
+
+
+ *  Chemical Arachnoiditis [see Warnings and Precautions (  5.1  )]  
+ *  Neurotoxicity [see Warnings and Precautions (  5.2  )]  
+ *  Transient elevations in CSF protein and CSF white blood cells [see Warnings and Precautions (  5.3  )]  
+      EXCERPT:   Most common adverse reactions (incidence &gt;=20%) are headache, arachnoiditis, confusion, abnormal gait , convulsions, weakness, pyrexia, fatigue, nausea, vomiting , constipation, and back pain. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Sigma-Tau Pharmaceuticals, Inc. at 1-888-393-4584 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Most Frequently Reported Reactions
+
+  After intrathecal administration of cytarabine the most frequently reported reactions (&gt;= 10%) are headache NOS, nausea, vomiting NOS, arachnoiditis, weakness, confusion, pyrexia, fatigue, constipation, back pain, gait abnormal NOS, convulsions NOS, dizziness NOS, lethargy, pain in limb, insomnia, urinary tract infection NOS, neck pain, death NOS, pain, memory impairment, dehydration, anemia NOS, diarrhea NOS, appetite decreased NOS, thrombocytopenia, edema peripheral, arthralgia, neck stiffness, vision blurred, muscle weakness, neutropenia, hypoesthesia, agitation, and dyspnea NOS.
+
+
+
+   6.2 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The toxicity database consists of the observations made during Phase 1-4 studies. The most common adverse reactions in all patients and in patients with lymphoma are shown in  Table 1  . The incidences of symptoms possibly reflecting meningeal irritation are shown in  Table 2  .
+
+
+
+ Table 1.  Incidence of adverse reactions occurring in &gt; 10% of patients in all Phase 1-4 adult study patients and in patients with lymphomatous meningitis receiving DepoCyt 50 mg or an active comparator 
+                                                                    Lymphoma    
+ System Organ Class / Preferred Term       All DepoCyt(N=257)  DepoCyt(N=33)  Ara-C(N=28)   
+ Nervous System Disorders                                                                                           
+    Headache NOS                              144      (56%)           17      (52%)           9       (32%)        
+    Arachnoiditis                             108      (42%)           14      (42%)           10      (36%)        
+    Confusion                                  86      (33%)           12      (36%)           3       (11%)        
+    Gait abnormal NOS                          60      (23%)           7       (21 %)          8       (29%)        
+    Convulsions NOS                            52      (20%)           7       (21%)           1       (4%)         
+    Dizziness NOS                              47      (18%)           7       (21%)           6       (21%)        
+    Memory impairment                          36      (14%)           4       (12%)           1       (4%)         
+    Hypoesthesia                               26      (10%)           4       (12%)           3       (11%)        
+    Tremor                                     22      (9%)            5       (15%)           5       (18%)        
+    Peripheral neuropathy NOS                  9       (4%)            4       (12%)           1       (4%)         
+    Syncope                                    8       (3%)            0       (0%)            3       (11%)        
+    Neuropathy NOS                             7       (3%)            3       (9%)            3       (11%)        
+    Peripheral sensory neuropathy              7       (3%)            2       (6%)            3       (11%)        
+    Reflexes abnormal                          7       (3%)            0       (0%)            3       (11%)        
+ General Disorders and Administration SiteConditions                                                                           
+    Weakness                                  103      (40%)           13      (39%)           15      (54%)        
+    Pyrexia                                    81      (32%)           15      (45%)           12      (43%)        
+    Fatigue                                    64      (25%)           9       (27%)           13      (46%)        
+    Lethargy                                   41      (16%)           4       (12%)           4       (14%)        
+    Death NOS                                  35      (14%)           9       (27%)           5       (18%)        
+    Pain NOS                                   35      (14%)           3       (9%)            5       (18%)        
+    Edema peripheral                           27      (11 %)          6       (18%)           7       (25%)        
+    Fall                                       12      (5%)            0       (0%)            3       (11%)        
+    Mucosal inflammation NOS                   8       (3%)            4       (12%)           2       (7%)         
+    Edema NOS                                  6       (2%)            1       (3%)            6       (21%)        
+ Gastrointestinal Disorders                                                                                         
+    Nausea                                    117      (46%)           11      (33%)           15      (54%)        
+    Vomiting NOS                              112      (44%)           11      (33%)           9       (32%)        
+    Constipation                               64      (25%)           8       (24%)           7       (25%)        
+    Diarrhea NOS                               31      (12%)           9       (27%)           9       (32%)        
+    Abdominal pain NOS                         22      (9%)            5       (15%)           4       (14%)        
+    Dysphagia                                  20      (8%)            3       (9%)            3       (11%)        
+    Hemorrhoids                                8       (3%)            0       (0%)            3       (11%)        
+ Musculoskeletal and Connective TissueDisorders                                                                           
+    Back pain                                  61      (24%)           7       (21%)           5       (18%)        
+    Pain in limb                               39      (15%)           4       (12%)           8       (29%)        
+    Neck pain                                  36      (14%)           5       (15%)           3       (11%)        
+    Arthralgia                                 29      (11%)           3       (9%)            4       (14%)        
+    Neck stiffness                             28      (11%)           2       (6%)            4       (14%)        
+    Muscle weakness NOS                        25      (10%)           5       (15%)           2       (7%)         
+ Psychiatric Disorders                                                                                              
+    Insomnia                                   35      (14%)           6       (18%)           7       (25%)        
+    Agitation                                  26      (10%)           5       (15%)           2       (7%)         
+    Depression                                 21      (8%)            6       (18%)           4       (14%)        
+    Anxiety                                    17      (7%)            1       (3%)            3       (11%)        
+ Infections and Infestations                                                                                        
+    Urinary tract infection NOS                35      (14%)           6       (18%)           5       (18%)        
+    Pneumonia NOS                              16      (6%)            2       (6%)            3       (11%)        
+ Metabolism and Nutrition Disorders                                                                                 
+    Dehydration                                33      (13%)           6       (18%)           3       (11%)        
+    Appetite decreased NOS                     29      (11%)           4       (12%)           3       (11%)        
+    Hyponatremia                               18      (7%)            4       (12%)           1       (4%)         
+    Hypokalemia                                17      (7%)            5       (15%)           2       (7%)         
+    Hyperglycemia                              15      (6%)            4       (12%)           2       (7%)         
+    Anorexia                                   14      (5%)            1       (3%)            5       (18%)        
+ Investigations                                                                                                     
+    Platelet count decreased                   8       (3%)            0       (0%)            3       (11%)        
+ Renal and Urinary Disorders                                                                                        
+    Incontinence NOS                           19      (7%)            3       (9%)            5       (18%)        
+    Urinary retention                          14      (5%)            0       (0%)            3       (11%)        
+ Respiratory, Thoracic and MediastinalDisorders                                                                           
+    Dyspnea NOS                                25      (10%)           4       (12%)           6       (21%)        
+    Cough                                      17      (7%)            3       (9%)            6       (21%)        
+ Eye Disorders                                                                                                      
+    Vision blurred                             29      (11%)           4       (12%)           4       (14%)        
+ Blood and Lymphatic Disorders                                                                                      
+    Anemia NOS                                 31      (12%)           6       (18%)           5       (18%)        
+    Thrombocytopenia                           27      (11%)           8       (24%)           9       (32%)        
+    Neutropenia                                26      (10%)           12      (36%)           7       (25%)        
+ Skin and Subcutaneous TissueDisorders                                                                              
+    Contusion                                  6       (2%)            1       (3%)            3       (11%)        
+    Pruritus NOS                               6       (2%)            0       (0%)            4       (14%)        
+    Sweating increased                         6       (2%)            1       (3%)            3       (11%)        
+ Vascular Disorders                                                                                                 
+    Hypotension NOS                            21      (8%)            6       (18%)           2       (7%)         
+    Hypertension NOS                           15      (6%)            5       (15%)           1       (4%)         
+ Ear and Labyrinth Disorders                                                                                        
+    Hypacusis                                  15      (6%)            6       (18%)           3       (11%)        
+ Cardiac Disorders                                                                                                  
+    Tachycardia NOS                            22      (9%)            0       (0%)            5       (18%)        
+ Neoplasms Benign, Malignant andUnspecified (Incl Cysts and Polyps)                                                                           
+    Diffuse Large B-Cell Lymphoma NOS          1       (0%)            1       (3%)            3       (11%)        
+            Table 2. Incidence of adverse reactions possibly reflecting meningeal irritation occurring in &gt; 10% of all studied adult patients receiving DepoCyt 50 mg or an active comparator* 
+ * Hydrocephalus acquired, CSF pleocytosis and meningism occurred in &lt;= 10% of all studied adult patients receivingDepoCyt or an active comparator   
+  
+ System Organ Class / Preferred Term       DepoCyt(N=257)  MTX(N=78)   Ara-C(N=28)   
+ Nervous System Disorders                                                                                           
+    Headache NOS                              145      (56%)           33      (42%)           9       (32%)        
+    Arachnoiditis                             108      (42%)           15      (19%)           10      (36%)        
+    Convulsions NOS                            56      (22%)           11      (14%)           1       (4%)         
+ Gastrointestinal Disorders                                                                                         
+    Nausea                                    117      (46%)           24      (31%)           15      (54%)        
+    Vomiting NOS                              112      (44%)           22      (28%)           9       (32%)        
+ Musculoskeletal and Connective Tissue Disorders                                                                           
+    Back pain                                  61      (24%)           15      (19%)           5       (18%)        
+    Neck pain                                  36      (14%)           6       (8%)            3       (11%)        
+    Neck stiffness                             28      (11%)           1       (1%)            4       (14%)        
+ General Disorders and AdministrationSite Conditions                                                                           
+    Pyrexia                                    81      (32%)           15      (19%)           12      (43%)        
+             During the clinical studies, 2 deaths related to DepoCyt were reported. One patient at the 125 mg dose level died of encephalopathy 36 hours after receiving an intraventricular dose of DepoCyt. This patient, however, was also receiving concomitant whole brain irradiation and had previously received intraventricular methotrexate. The other patient received DepoCyt, 50 mg by the intraventricular route and developed focal seizures progressing to status epilepticus. This patient died approximately 8 weeks after the last dose of study medication. In the controlled lymphoma study, the patient incidence of seizures was higher in the DepoCyt group (4/17, 23.5%) than in the cytarabine group (1/16, 6.3%). The death of 1 additional patient was considered "possibly" related to DepoCyt. He was a 63-year-old with extensive lymphoma involving the nasopharynx, brain, and meninges with multiple neurologic deficits who died of apparent disease progression 4 days after his second dose of DepoCyt.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: CHEMICAL ARACHNOIDITIS
+
+  WARNING: CHEMICAL ARACHNOIDITIS
+
+  Chemical arachnoiditis, a syndrome manifested primarily by nausea, vomiting, headache and fever, was a common adverse event in all clinical studies.  If left untreated, chemical arachnoiditis may be fatal.  Patients receiving DepoCyt should be treated concurrently with dexamethasone to mitigate the symptoms of chemical arachnoiditis.  [  see Warnings and Precautions (  5.1  ,   5.2  )  ]
+
+
+
+   EXCERPT:   WARNING: CHEMICAL ARACHNOIDITIS ADVERSE REACTIONS
+
+
+
+   See full prescribing information for complete boxed warning  
+
+
+
+ Chemical arachnoiditis, a syndrome manifested primarily by nausea, vomiting, headache and fever, was a common adverse event in all clinical studies.  If left untreated, chemical arachnoiditis may be fatal.  Patients receiving DepoCyt should be treated concurrently with dexamethasone to mitigate the symptoms of chemical arachnoiditis.  (  5.1  ,   5.2  ))
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Neurotoxicity: Myelopathy and other neurologic toxicity may occur. Reduce the dose or discontinue DepoCyt. (  5.2  ) 
+ *  Embryo-fetal Toxicity: May cause fetal harm. Advise women of potential harm to a fetus and to avoid pregnancy if receiving DepoCyt. (  5.4  ) 
+    
+ 
+
+   5.1 Chemical Arachnoiditis
+
+
+
+  Chemical arachnoiditis, a syndrome manifested primarily by nausea, vomiting, headache and fever, has been a common adverse event in all studies. If chemical arachnoiditis is suspected, exclude other inflammatory, infectious, or neoplastic conditions. If left untreated, chemical arachnoiditis may be fatal. The incidence and severity of chemical arachnoiditis can be reduced by coadministration of dexamethasone. Patients receiving DepoCyt should be treated concurrently with dexamethasone to mitigate the symptoms of chemical arachnoiditis [ see Dosage and Administration (  2  )  ].
+
+
+
+ Toxic effects may be related to a single dose or to cumulative administration. Because toxic effects can occur at any time during therapy (although they are most likely to occur within 5 days of drug administration), patients receiving intrathecal therapy with DepoCyt should be monitored continuously for the development of neurotoxicity. If patients develop neurotoxicity, reduce subsequent doses of DepoCyt. If neurotoxicity persists, discontinue DepoCyt [ see Warnings and Precautions (  5.3  )  ]
+
+
+
+ Hydrocephalus has also been reported, possibly precipitated by arachnoiditis.
+
+
+
+ Arachnoiditis is an expected and well-documented side effect of both neoplastic meningitis and of intrathecal chemotherapy. The incidence of severe and life-threatening arachnoiditis in patients receiving DepoCyt was 19% (48/257) in all patients and 30% (10/33) in patients with lymphomatous meningitis. In the early dose-finding study, chemical arachnoiditis was observed in 100% of cycles without dexamethasone prophylaxis. When concurrent dexamethasone was administered, chemical arachnoiditis was observed in 33% of cycles.
+
+
+
+    5.2 Neurotoxicity
+
+
+
+  Intrathecal administration of cytarabine may cause myelopathy and other neurologic toxicity and can rarely lead to a permanent neurologic deficit. Administration of intrathecal cytarabine in combination with other chemotherapeutic agents or with cranial/spinal irradiation may increase this risk of neurotoxicity.
+
+
+
+ Blockage to CSF flow may result in increased free cytarabine concentrations in the CSF and an increased risk of neurotoxicity. Therefore, as with any intrathecal cytotoxic therapy, consideration should be given to the need for assessment of CSF flow before treatment is started.
+
+
+
+ Following intrathecal administration of DepoCyt, central nervous system toxicity, including persistent extreme somnolence, hemiplegia, visual disturbances including blindness which may be total and permanent, deafness and cranial nerve palsies have been reported. Symptoms and signs of peripheral neuropathy, such as pain, numbness, paresthesia, weakness, and impaired bowel and bladder control have also been observed. In some cases, a combination of neurological signs and symptoms has been reported as Cauda Equina Syndrome.
+
+
+
+ If patients develop neurotoxicity, reduce subsequent doses of DepoCyt or discontinue DepoCyt Headache, nausea, and fever are expected in early signs of neurotoxicity.
+
+
+
+    5.3 Transient Elevations in CSF Protein and CSF White Blood Cells
+
+
+
+  Transient elevations in CSF protein and white blood cell counts have been observed in patients following DepoCyt administration.
+
+
+
+    5.4 Embryo-fetal Toxicity
+
+
+
+  Cytarabine, the active component of DepoCyt, can cause fetal harm if a pregnant woman is exposed to the drug systemically. The systemic exposure of cytarabine following intrathecal administration of DepoCyt is negligible. Cytarabine was teratogenic in mice and rats. Cytarabine was embryotoxic in mice when administered during the period of organogenesis. If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to a fetus. [See Use in Specific Populations, Sec.  8.1  ]  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

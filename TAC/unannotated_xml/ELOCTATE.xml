@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="eloctate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Common adverse reactions (&gt;=1% of subjects) reported in clinical trials were arthralgia and malaise.
+
+
+
+   EXCERPT:   Common adverse reactions (incidence &gt;=1%) observed in clinical trials were arthralgia and malaise. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact BIOGEN IDEC at 1-855-693-5628 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of one drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In the multi-center, prospective, open-label, clinical trial of ELOCTATE, 164 adolescent and adult, previously treated patients (PTPs, exposed to a Factor VIII containing product for &gt;=150 exposure days) with severe Hemophilia A (&lt;1% endogenous FVIII activity or a genetic mutation consistent with severe Hemophilia A) received at least one dose of ELOCTATE as part of either routine prophylaxis, on-demand treatment of bleeding episodes or perioperative management. A total of 146 (89%) subjects were treated for at least 26 weeks and 23 (14%) subjects were treated for at least 39 weeks.
+
+
+
+ Adverse reactions (ARs) (summarized in  Table 3  ) were reported for nine (5.5 %) subjects treated with routine prophylaxis or episodic (on-demand) therapy.
+
+
+
+ Two subjects were withdrawn from study due to adverse reactions of rash and arthralgia. In the study, no inhibitors were detected and no events of anaphylaxis were reported.
+
+
+
+ Table 3: Adverse Reactions Reported for ELOCTATE (N=164) 
+  *Investigator term: vascular pain after injection of study drug    
+  
+   MedDRA System Organ Class        MedDRA Preferred Term                Number of Subjects    n (%)      
+   General disorders and administration site conditions    MalaiseChest painFeeling coldFeeling hot  2 (1.2)1 (0.6)1 (0.6)1 (0.6)       
+   Nervous system disorders       DizzinessDysgeusiaHeadache           1 (0.6)1 (0.6)1 (0.6)              
+   Musculoskeletal disorders      ArthralgiaJoint swellingMyalgia      2 (1.2)1 (0.6)1 (0.6)              
+   Gastrointestinal disorders     Abdominal pain, lowerAbdominal pain, upper  1 (0.6)1 (0.6)                     
+   Vascular disorders             Angiopathy  *  Hypertension          1 (0.6)1 (0.6)                     
+   Cardiac disorders              Bradycardia                          1 (0.6)                            
+   Injury, poisoning, and procedural complications    Procedural hypotension               1 (0.6)                            
+   Respiratory, thoracic, and mediastinal disorders    Cough                                1 (0.6)                            
+   Skin and subcutaneous tissue disorders    Rash                                 1 (0.6)                            
+           6.2 Immunogenicity
+   Clinical trial subjects were monitored for neutralizing antibodies to Factor VIII. No subjects developed confirmed, neutralizing antibodies to Factor VIII. One 25 year old subject had a transient, positive, neutralizing antibody of 0.73 BU at week 14, which was not confirmed upon repeat testing 18 days later and thereafter.
+
+
+
+ The detection of antibodies that are reactive to Factor VIII is highly dependent on many factors, including: the sensitivity and specificity of the assay, sample handling, timing of sample collection, concomitant medications and underlying disease.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions, including anaphylaxis, are possible. (  5.1  ) 
+ *  Development of Factor VIII neutralizing antibodies (inhibitors) may occur. If expected plasma Factor VIII activity levels are not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures Factor VIII inhibitor concentration. (  5.2  ,  5.3  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions, including anaphylaxis, are possible with ELOCTATE. Early signs of hypersensitivity reactions that can progress to anaphylaxis may include angioedema, chest tightness, dyspnea, wheezing, urticaria, and pruritus. Immediately discontinue administration and initiate appropriate treatment if hypersensitivity reactions occur.
+
+
+
+    5.2 Neutralizing Antibodies
+
+
+
+  Formation of neutralizing antibodies (inhibitors) to Factor VIII can occur following administration of ELOCTATE. Monitor all patients for the development of Factor VIII inhibitors by appropriate clinical observations and laboratory tests. If the plasma Factor VIII level fails to increase as expected or if bleeding is not controlled after ELOCTATE administration, suspect the presence of an inhibitor (neutralizing antibody). [ see Monitoring Laboratory Tests  (  5.3  )]
+
+
+
+    5.3 Monitoring Laboratory Tests
+
+
+
+    *  Monitor plasma Factor VIII activity by performing a validated test (e.g., one stage clotting assay), to confirm that adequate Factor VIII levels have been achieved and maintained. [ see Dosage and Administration (  2  )] 
+ *  Monitor for the development of Factor VIII inhibitors. Perform a Bethesda inhibitor assay if expected Factor VIII plasma levels are not attained, or if bleeding is not controlled with the expected dose of ELOCTATE. Use Bethesda Units (BU) to report inhibitor levels. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

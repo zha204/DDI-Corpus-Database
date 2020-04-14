@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ilaris" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6     ADVERSE REACTIONS  
+
+  Three hundred ninety-five patients, including approximately 250 children (aged 2 to 17 years) have been treated with ILARIS in interventional trials in CAPS or SJIA. The most frequently reported adverse drug reactions were infections predominantly of the upper respiratory tract. The majority of the events were mild to moderate although serious infections were observed. The type and frequency of adverse drug reactions appeared to be consistent over time.
+
+
+
+ Opportunistic infections have also been reported in patients treated with ILARIS  [see Warnings and Precautions (5.1)]  .
+
+
+
+   EXCERPT:     CAPS:  The most common adverse reactions greater than 10% reported by patients with CAPS treated with ILARIS are nasopharyngitis, diarrhea, influenza, headache and nausea. (  6  )
+
+
+
+   SJIA:  The most common adverse drug reactions greater than 10% reported by patients with SJIA treated with ILARIS are infections (nasopharyngitis and upper respiratory tract infections), abdominal pain and injection site reactions. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1     Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   Treatment of CAPS  
+
+
+
+ The data described herein reflect exposure to ILARIS in 104 adult and pediatric CAPS patients, including 20 FCAS, 72 MWS, 10 MWS/NOMID (Neonatal Onset Multisystem Inflammatory Disorder) overlap, 1 non-FCAS non-MWS, and 1 misdiagnosed in placebo-controlled (35 patients) and uncontrolled trials. Sixty-two patients were exposed to ILARIS for at least 6 months, 56 for at least 1 year and 4 for at least 3 years. A total of 9 serious adverse reactions were reported for CAPS patients. Among these were vertigo (2 patients), infections (3 patients), including intra-abdominal abscess following appendectomy (1 patient). The most commonly reported adverse reactions associated with ILARIS treatment in the CAPS patients were nasopharyngitis, diarrhea, influenza, headache, and nausea. One patient discontinued treatment due to potential infection.
+
+
+
+ CAPS Study 1 investigated the safety of ILARIS in an 8-week, open-label period (Part 1), followed by a 24-week, randomized withdrawal period (Part 2), followed by a 16-week, open-label period (Part 3). All patients were treated with ILARIS 150 mg subcutaneously or 2 mg/kg if body weight was greater than or equal to 15 kg and less than or equal to 40 kg (see Table 1).
+
+
+
+ Since all CAPS patients received ILARIS in Part 1, there are no controlled data on adverse events (AEs). Data in Table 1 are for all AEs for all CAPS patients receiving canakinumab. In CAPS Study 1, no pattern was observed for any type or frequency of adverse events throughout the three study periods.
+
+
+
+ Table 1 Number (%) of Patients with AEs by Preferred Terms, in &gt;10% of Patients in Parts 1 to 3 of the Phase 3 Trial for CAPS Patients 
+    Preferred Term      ILARISN=35n (%)     
+ n % of Patients with Adverse Events  35 (100)          
+     Nasopharyngitis  12 (34)           
+     Diarrhea     7 (20)            
+     Influenza    6 (17)            
+     Rhinitis     6 (17)            
+     Nausea       5 (14)            
+     Headache     5 (14)            
+     Bronchitis   4 (11)            
+     Gastroenteritis  4 (11)            
+     Pharyngitis  4 (11)            
+     Weight increased  4 (11)            
+ Musculoskeletal pain  4 (11)            
+ Vertigo          4 (11)            
+          Vertigo  
+ 
+
+ Vertigo has been reported in 9% to 14% of patients in CAPS studies, exclusively in MWS patients, and reported as a serious adverse event in two cases. All events resolved with continued treatment with ILARIS.
+
+
+
+   Injection Site Reactions  
+
+
+
+ In CAPS Study 1, subcutaneous injection site reactions were observed in 9% of patients in Part 1 with mild tolerability reactions; in Part 2, one patient each (7%) had a mild or a moderate tolerability reaction and, in Part 3, one patient had a mild local tolerability reaction. No severe injection-site reactions were reported and none led to discontinuation of treatment.
+
+
+
+   Treatment of SJIA  
+
+
+
+ A total of 201 SJIA patients aged 2 to less than 20 years have received ILARIS in clinical trials. The safety of ILARIS compared to placebo was investigated in two phase 3 studies  [see Clinical Studies (14.2)]  . Patients in SJIA Study 1 received a single dose of ILARIS 4 mg/kg (n=43) or placebo (n=41) via subcutaneous injection and were assessed at Day 15 for the efficacy endpoints and had a safety analysis up to Day 29. SJIA Study 2 was a two-part study with an open-label, single-arm active treatment period (Part I) followed by a randomized, double-blind, placebo-controlled, event-driven withdrawal design (Part II). Overall, 177 patients were enrolled into the study and received ILARIS 4 mg/kg (up to 300 mg maximum) in Part I, and 100 patients received ILARIS 4 mg/kg (up to 300 mg maximum) every 4 weeks or placebo in Part II. Adverse drug reactions listed in Table 2 showed higher rates than placebo from both trials. The adverse drug reactions associated with ILARIS treatment in SJIA patients were infections, abdominal pain, and injection site reactions. Serious infections (e.g., pneumonia, varicella, gastroenteritis, measles, sepsis, otitis media, sinusitis, adenovirus, lymph node abscess, pharyngitis) were observed in approximately 4% to 5% (0.02 to 0.17 per 100 patient-days) of patients receiving ILARIS in both studies.
+
+
+
+ Adverse reactions are listed according to MedDRA version 15.0 system organ class.
+
+
+
+ Table 2 Tabulated Summary of Adverse Drug Reactions from Pivotal SJIA Clinical Trials 
+ n= number of patients^ IR=Exposure adjusted incidence rate per 100 patient-days* No injection site reaction led to study discontinuation   
+  
+                    SJIA Study 2      SJIA Study 1     
+                    Part I           Part II                                           
+                  ILARISN=177n (%)(IR)^  ILARISN=50n (%)(IR)  PlaceboN=50n (%)(IR)  ILARISN=43n (%)(IR)  PlaceboN=41n (%)(IR)   
+   Infections and infestations     
+ All Infections (e.g., nasopharyngitis, (viral) upper respiratory tract infection, pneumonia, rhinitis, pharyngitis, tonsillitis, sinusitis, urinary tract infection, gastroenteritis, viral infection)  97 (54.8%)(0.91)  27 (54%)(0.59)   19 (38%)(0.63)   13 (30.2%)(1.26)  5 (12.2%)(1.37)   
+   Gastrointestinal disorders     
+ Abdominal pain (upper)  25 (14.1%)(0.16)  8 (16%)(0.15)    6 (12%)(0.08)    3 (7%)(0.25)     1 (2.4%)(0.23)    
+   Skin and subcutaneous tissue disorders     
+ Injection site reaction*                                                                                        
+      mild        19 (10.7%)       6 (12.0%)        2 (4.0%)         0                3 (7.3%)          
+      moderate    2 (1.1%)         1 (2.0%)         0                0                0                 
+              6.2     Hypersensitivity
+   During clinical trials, no anaphylactic reactions have been reported. In CAPS trials one patient discontinued and in SJIA trials no patients discontinued due to hypersensitivity reactions. ILARIS should not be administered to any patients with known clinical hypersensitivity to ILARIS  [see Contraindications (4) and Warnings and Precautions (5.3)]  .
+
+
+
+   6.3     Immunogenicity
+
+  A biosensor binding assay or a bridging immunoassay was used to detect antibodies directed against canakinumab in patients who received ILARIS. Antibodies against ILARIS were observed in approximately 1.5% and 3.1% of the patients treated with ILARIS for CAPS and SJIA, respectively. No neutralizing antibodies were detected. No apparent correlation of antibody development to clinical response or adverse events was observed. The CAPS clinical studies employed the biosensor binding assay, and most of the SJIA clinical studies employed the bridging assay. The data obtained in an assay are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, underlying disease, and the number of patients tested. For these reasons, comparison of the incidence of antibodies to canakinumab between the CAPS and SJIA clinical studies or with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.4     Laboratory Findings
+
+    Hematology  
+
+
+
+ During clinical trials with ILARIS, mean values decreased for white blood cells, neutrophils and platelets.
+
+
+
+ In the randomized, placebo-controlled portion of SJIA Study 2 decreased white blood cell counts (WBC) less than or equal to 0.8 times lower limit of normal (LLN) were reported in 5 patients (10.4%)in the ILARIS group compared to 2 (4.0%) in the placebo group. Transient decreases in absolute neutrophil count (ANC) to less than 1x10  9  /L were reported in 3 patients (6.0%) in the ILARIS group compared to1 patient (2.0%) in the placebo group. One case of ANC less than 0.5x10  9  /L was observed in the ILARIS group and none in the placebo group.
+
+
+
+ Mild (less than LLN and greater than 75x10  9  /L) and transient decreases in platelet counts were observed in 3 (6.3%) ILARIS treated patients versus 1 (2.0%) placebo-treated patient.
+
+
+
+   Hepatic Transaminases  
+
+
+
+ Elevations of transaminases have been observed in patients treated with ILARIS.
+
+
+
+ In the randomized, placebo-controlled portion of SJIA Study 2, high ALT and/or AST greater than or equal to 3 times upper limit of normal (ULN) were reported in 2 (4.1%) ILARIS-treated patients and 1 (2.0%) placebo patient. All patients had normal values at the next visit.
+
+
+
+   Bilirubin  
+
+
+
+ Asymptomatic and mild elevations of serum bilirubin have been observed in patients treated with ILARIS without concomitant elevations of transaminases.
+</Section>
+    <Section name="warnings and precautions" id="S2">     5     WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Interleukin-1 blockade may interfere with immune response to infections. Treatment with medications that work through inhibition of IL-1 has been associated with an increased risk of serious infections. ILARIS has been associated with an increased incidence of serious infections. Physicians should exercise caution when administering ILARIS to patients with infections, a history of recurring infections or underlying conditions which may predispose them to infections. Discontinue treatment with ILARIS if a patient develops a serious infection. Do not administer ILARIS to patients during an active infection requiring medical intervention. (  5.1  ) 
+ *  Live vaccines should not be given concurrently with ILARIS. Prior to initiation of therapy with ILARIS, patients should receive all recommended vaccinations. (  5.4  ) 
+    
+ 
+
+   5.1     Serious Infections
+
+
+
+  ILARIS has been associated with an increased risk of serious infections. Physicians should exercise caution when administering ILARIS to patients with infections, a history of recurring infections or underlying conditions which may predispose them to infections. ILARIS should not be administered to patients during an active infection requiring medical intervention. Administration of ILARIS should be discontinued if a patient develops a serious infection.
+
+
+
+  Infections, predominantly of the upper respiratory tract, in some instances serious, have been reported with ILARIS. Generally, the observed infections responded to standard therapy. Isolated cases of unusual or opportunistic infections (e.g., aspergillosis, atypical mycobacterial infections, cytomegalovirus, herpes zoster) were reported during ILARIS treatment. A causal relationship of ILARIS to these events cannot be excluded. In clinical trials, ILARIS has not been administered concomitantly with tumor necrosis factor (TNF) inhibitors. An increased incidence of serious infections has been associated with administration of another IL-1 blocker in combination with TNF inhibitors. Coadministration of ILARIS with TNF inhibitors is not recommended because this may increase the risk of serious infections [see Drug Interactions (7.1)]  .  
+
+
+
+ Drugs that affect the immune system by blocking TNF have been associated with an increased risk of new tuberculosis and reactivation of latent tuberculosis (TB). It is possible that use of IL-1 inhibitors such as ILARIS increases the risk of reactivation of tuberculosis or of opportunistic infections.
+
+
+
+ Prior to initiating immunomodulatory therapies, including ILARIS, patients should be evaluated for active and latent tuberculosis infection. Appropriate screening tests should be performed in all patients. ILARIS has not been studied in patients with a positive tuberculosis screen, and the safety of ILARIS in individuals with latent tuberculosis infection is unknown. Patients testing positive in tuberculosis screening should be treated according to standard medical practice prior to therapy with ILARIS. All patients should be instructed to seek medical advice if signs, symptoms, or high risk exposure suggestive of tuberculosis (e.g., persistent cough, weight loss, subfebrile temperature) appear during or after ILARIS therapy.
+
+
+
+ Healthcare providers should follow current CDC guidelines both to evaluate for and to treat possible latent tuberculosis infections before initiating therapy with ILARIS.
+
+
+
+    5.2     Immunosuppression
+
+
+
+  The impact of treatment with anti-interleukin-1 (IL-1) therapy on the development of malignancies is not known. However, treatment with immunosuppressants, including ILARIS, may result in an increase in the risk of malignancies.
+
+
+
+    5.3     Hypersensitivity
+
+
+
+  Hypersensitivity reactions have been reported with ILARIS therapy. During clinical trials, no anaphylactic reactions have been reported. It should be recognized that symptoms of the underlying disease being treated may be similar to symptoms of hypersensitivity. ILARIS should not be administered to any patients with known clinical hypersensitivity to ILARIS [see Contraindications (4) and Adverse Reactions (6.2)]  .
+
+
+
+    5.4     Immunizations
+
+
+
+  Live vaccines should not be given concurrently with ILARIS [see Drug Interactions (7.2)]  . Since no data are available on either the efficacy or on the risks of secondary transmission of infection by live vaccines in patients receiving ILARIS, live vaccines should not be given concurrently with ILARIS. In addition, because ILARIS may interfere with normal immune response to new antigens, vaccinations may not be effective in patients receiving ILARIS. No data are available on the effectiveness of vaccinations with inactivated (killed) antigens in patients receiving ILARIS [see Drug Interactions (7.2)]  .
+
+
+
+ Because IL-1 blockade may interfere with immune response to infections, it is recommended that prior to initiation of therapy with ILARIS, adult and pediatric patients receive all recommended vaccinations, as appropriate, including pneumococcal vaccine and inactivated influenza vaccine. (See current recommended immunization schedules at the website of the Centers for Disease Control, http://www.cdc.gov/vaccines/schedules/index.html).
+
+
+
+    5.5     Macrophage Activation Syndrome
+
+
+
+  Macrophage activation syndrome (MAS) is a known, life-threatening disorder that may develop in patients with rheumatic conditions, in particular SJIA, and should be aggressively treated. Physicians should be attentive to symptoms of infection or worsening of SJIA, as these are known triggers for MAS. Eleven cases of MAS were observed in 201 SJIA patients treated with canakinumab in clinical trials. Based on the clinical trial experience, ILARIS does not appear to increase the incidence of MAS in SJIA patients, but no definitive conclusion can be made.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="258" len="10" str="infections" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="258,283" len="10,30" str="infections of the upper respiratory tract" />
+    <Mention id="M3" section="S1" type="Severity" start="347" len="4" str="mild" />
+    <Mention id="M4" section="S1" type="Severity" start="347" len="16" str="mild to moderate" />
+    <Mention id="M5" section="S1" type="Severity" start="355" len="8" str="moderate" />
+    <Mention id="M6" section="S1" type="Severity" start="373" len="7" str="serious" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="381" len="10" str="infections" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="381" len="10" str="infections" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="497" len="24" str="Opportunistic infections" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="751" len="15" str="nasopharyngitis" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="768" len="8" str="diarrhea" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="778" len="9" str="influenza" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="789" len="8" str="headache" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="802" len="6" str="nausea" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="942" len="10" str="infections" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="954" len="15" str="nasopharyngitis" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="974" len="34" str="upper respiratory tract infections" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="1011" len="14" str="abdominal pain" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="1030" len="24" str="injection site reactions" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2065" len="7" str="vertigo" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2087" len="10" str="infections" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2122" len="23" str="intra-abdominal abscess" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2286" len="15" str="nasopharyngitis" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2303" len="8" str="diarrhea" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="2313" len="9" str="influenza" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="2324" len="8" str="headache" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="2338" len="6" str="nausea" />
+    <Mention id="M28" section="S1" type="Factor" start="2388" len="9" str="potential" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="2398" len="9" str="infection" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="3337" len="15" str="Nasopharyngitis" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="3378" len="8" str="Diarrhea" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="3415" len="9" str="Influenza" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="3452" len="8" str="Rhinitis" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="3489" len="6" str="Nausea" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="3526" len="8" str="Headache" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="3563" len="10" str="Bronchitis" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="3600" len="15" str="Gastroenteritis" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="3641" len="11" str="Pharyngitis" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="3678" len="16" str="Weight increased" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="3716" len="20" str="Musculoskeletal pain" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="3758" len="7" str="Vertigo" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="3818" len="7" str="Vertigo" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="3818" len="7" str="Vertigo" />
+    <Mention id="M44" section="S1" type="Severity" start="3933" len="7" str="serious" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="4081" len="37" str="subcutaneous injection site reactions" />
+    <Mention id="M46" section="S1" type="Severity" start="4309" len="4" str="mild" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="4314" len="27" str="local tolerability reaction" />
+    <Mention id="M48" section="S1" type="Negation" start="4343" len="2" str="No" />
+    <Mention id="M49" section="S1" type="Severity" start="4346" len="6" str="severe" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="4353" len="24" str="injection-site reactions" />
+    <Mention id="M51" section="S1" type="AdverseReaction" start="5483" len="10" str="infections" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="5495" len="14" str="abdominal pain" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="5515" len="24" str="injection site reactions" />
+    <Mention id="M54" section="S1" type="Severity" start="5541" len="7" str="Serious" />
+    <Mention id="M55" section="S1" type="AdverseReaction" start="5549" len="10" str="infections" />
+    <Mention id="M56" section="S1" type="AdverseReaction" start="5567" len="9" str="pneumonia" />
+    <Mention id="M57" section="S1" type="AdverseReaction" start="5578" len="9" str="varicella" />
+    <Mention id="M58" section="S1" type="AdverseReaction" start="5589" len="15" str="gastroenteritis" />
+    <Mention id="M59" section="S1" type="AdverseReaction" start="5606" len="7" str="measles" />
+    <Mention id="M60" section="S1" type="AdverseReaction" start="5615" len="6" str="sepsis" />
+    <Mention id="M61" section="S1" type="AdverseReaction" start="5623" len="12" str="otitis media" />
+    <Mention id="M62" section="S1" type="AdverseReaction" start="5637" len="9" str="sinusitis" />
+    <Mention id="M63" section="S1" type="AdverseReaction" start="5648" len="10" str="adenovirus" />
+    <Mention id="M64" section="S1" type="AdverseReaction" start="5660" len="18" str="lymph node abscess" />
+    <Mention id="M65" section="S1" type="AdverseReaction" start="5680" len="11" str="pharyngitis" />
+    <Mention id="M66" section="S1" type="AdverseReaction" start="6450" len="10" str="Infections" />
+    <Mention id="M67" section="S1" type="AdverseReaction" start="6468" len="15" str="nasopharyngitis" />
+    <Mention id="M68" section="S1" type="AdverseReaction" start="6486,6493" len="5,33" str="viral upper respiratory tract infection" />
+    <Mention id="M69" section="S1" type="AdverseReaction" start="6528" len="9" str="pneumonia" />
+    <Mention id="M70" section="S1" type="AdverseReaction" start="6539" len="8" str="rhinitis" />
+    <Mention id="M71" section="S1" type="AdverseReaction" start="6549" len="11" str="pharyngitis" />
+    <Mention id="M72" section="S1" type="AdverseReaction" start="6562" len="11" str="tonsillitis" />
+    <Mention id="M73" section="S1" type="AdverseReaction" start="6575" len="9" str="sinusitis" />
+    <Mention id="M74" section="S1" type="AdverseReaction" start="6586" len="23" str="urinary tract infection" />
+    <Mention id="M75" section="S1" type="AdverseReaction" start="6611" len="15" str="gastroenteritis" />
+    <Mention id="M76" section="S1" type="AdverseReaction" start="6628" len="15" str="viral infection" />
+    <Mention id="M77" section="S1" type="AdverseReaction" start="6771,6787" len="14,5" str="Abdominal pain upper" />
+    <Mention id="M78" section="S1" type="AdverseReaction" start="6931" len="23" str="Injection site reaction" />
+    <Mention id="M79" section="S1" type="Negation" start="7320" len="2" str="no" />
+    <Mention id="M80" section="S1" type="AdverseReaction" start="7323" len="22" str="anaphylactic reactions" />
+    <Mention id="M81" section="S1" type="AdverseReaction" start="7457" len="26" str="hypersensitivity reactions" />
+    <Mention id="M82" section="S1" type="AdverseReaction" start="8795,8809" len="9,17" str="decreased white blood cells" />
+    <Mention id="M83" section="S1" type="AdverseReaction" start="8795,8828" len="9,11" str="decreased neutrophils" />
+    <Mention id="M84" section="S1" type="AdverseReaction" start="8795,8844" len="9,9" str="decreased platelets" />
+    <Mention id="M85" section="S1" type="AdverseReaction" start="8921" len="33" str="decreased white blood cell counts" />
+    <Mention id="M86" section="S1" type="AdverseReaction" start="8921,8956" len="9,3" str="decreased WBC" />
+    <Mention id="M87" section="S1" type="Severity" start="8983" len="31" str="0.8 times lower limit of normal" />
+    <Mention id="M88" section="S1" type="Severity" start="9119" len="9" str="Transient" />
+    <Mention id="M89" section="S1" type="AdverseReaction" start="9129" len="38" str="decreases in absolute neutrophil count" />
+    <Mention id="M90" section="S1" type="AdverseReaction" start="9129,9169" len="12,3" str="decreases in ANC" />
+    <Mention id="M91" section="S1" type="Severity" start="9187" len="11" str="1x10 9 /L" />
+    <Mention id="M92" section="S1" type="AdverseReaction" start="9316" len="27" str="ANC less than 0.5x10 9 /L" />
+    <Mention id="M93" section="S1" type="Severity" start="9412" len="4" str="Mild" />
+    <Mention id="M94" section="S1" type="Severity" start="9428" len="3" str="LLN" />
+    <Mention id="M95" section="S1" type="Severity" start="9449" len="12" str="75x10 9 /L" />
+    <Mention id="M96" section="S1" type="Severity" start="9467" len="9" str="transient" />
+    <Mention id="M97" section="S1" type="AdverseReaction" start="9477" len="28" str="decreases in platelet counts" />
+    <Mention id="M98" section="S1" type="AdverseReaction" start="9631" len="27" str="Elevations of transaminases" />
+    <Mention id="M99" section="S1" type="AdverseReaction" start="9778" len="8" str="high ALT" />
+    <Mention id="M100" section="S1" type="AdverseReaction" start="9778,9794" len="4,3" str="high AST" />
+    <Mention id="M101" section="S1" type="Severity" start="9823" len="29" str="3 times upper limit of normal" />
+    <Mention id="M102" section="S1" type="Severity" start="10028" len="4" str="mild" />
+    <Mention id="M103" section="S1" type="AdverseReaction" start="10033" len="29" str="elevations of serum bilirubin" />
+    <Mention id="M104" section="S1" type="Negation" start="10114" len="7" str="without" />
+    <Mention id="M105" section="S1" type="AdverseReaction" start="10134" len="27" str="elevations of transaminases" />
+    <Mention id="M106" section="S2" type="DrugClass" start="147" len="48" str="medications that work through inhibition of IL-1" />
+    <Mention id="M107" section="S2" type="Severity" start="242" len="7" str="serious" />
+    <Mention id="M108" section="S2" type="AdverseReaction" start="250" len="10" str="infections" />
+    <Mention id="M109" section="S2" type="Severity" start="320" len="7" str="serious" />
+    <Mention id="M110" section="S2" type="AdverseReaction" start="328" len="10" str="infections" />
+    <Mention id="M111" section="S2" type="Factor" start="975" len="4" str="risk" />
+    <Mention id="M112" section="S2" type="Severity" start="983" len="7" str="serious" />
+    <Mention id="M113" section="S2" type="AdverseReaction" start="991" len="10" str="infections" />
+    <Mention id="M114" section="S2" type="AdverseReaction" start="1394" len="10" str="Infections" />
+    <Mention id="M115" section="S2" type="AdverseReaction" start="1394" len="10" str="Infections" />
+    <Mention id="M116" section="S2" type="AdverseReaction" start="1394,1420" len="10,30" str="Infections of the upper respiratory tract" />
+    <Mention id="M117" section="S2" type="AdverseReaction" start="1394,1420" len="10,30" str="Infections of the upper respiratory tract" />
+    <Mention id="M118" section="S2" type="Severity" start="1470" len="7" str="serious" />
+    <Mention id="M119" section="S2" type="AdverseReaction" start="1535" len="10" str="infections" />
+    <Mention id="M120" section="S2" type="AdverseReaction" start="1595,1620" len="7,10" str="unusual infections" />
+    <Mention id="M121" section="S2" type="AdverseReaction" start="1606" len="24" str="opportunistic infections" />
+    <Mention id="M122" section="S2" type="AdverseReaction" start="1620,1688" len="10,15" str="infections cytomegalovirus" />
+    <Mention id="M123" section="S2" type="AdverseReaction" start="1638" len="13" str="aspergillosis" />
+    <Mention id="M124" section="S2" type="AdverseReaction" start="1653" len="33" str="atypical mycobacterial infections" />
+    <Mention id="M125" section="S2" type="AdverseReaction" start="1705" len="13" str="herpes zoster" />
+    <Mention id="M126" section="S2" type="Severity" start="1965" len="7" str="serious" />
+    <Mention id="M127" section="S2" type="AdverseReaction" start="1973" len="10" str="infections" />
+    <Mention id="M128" section="S2" type="DrugClass" start="2035" len="12" str="IL-1 blocker" />
+    <Mention id="M129" section="S2" type="Factor" start="2480" len="4" str="risk" />
+    <Mention id="M130" section="S2" type="AdverseReaction" start="2488" len="28" str="reactivation of tuberculosis" />
+    <Mention id="M131" section="S2" type="AdverseReaction" start="2523" len="24" str="opportunistic infections" />
+    <Mention id="M132" section="S2" type="Factor" start="3709" len="4" str="risk" />
+    <Mention id="M133" section="S2" type="AdverseReaction" start="3717" len="12" str="malignancies" />
+    <Mention id="M134" section="S2" type="AdverseReaction" start="3768" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M135" section="S2" type="Negation" start="3859" len="2" str="no" />
+    <Mention id="M136" section="S2" type="AdverseReaction" start="3862" len="22" str="anaphylactic reactions" />
+    <Mention id="M137" section="S2" type="Factor" start="4554" len="3" str="may" />
+    <Mention id="M138" section="S2" type="AdverseReaction" start="4558" len="37" str="interfere with normal immune response" />
+    <Mention id="M139" section="S2" type="AdverseReaction" start="5644" len="3" str="MAS" />
+    <Mention id="M140" section="S2" type="AdverseReaction" start="5820" len="3" str="MAS" />
+    <Mention id="M141" section="S2" type="Factor" start="5846" len="24" str="no definitive conclusion" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M7" arg2="M6" />
+    <Relation id="RL2" type="Effect" arg1="M8" arg2="M3" />
+    <Relation id="RL3" type="Effect" arg1="M8" arg2="M5" />
+    <Relation id="RL4" type="Effect" arg1="M8" arg2="M4" />
+    <Relation id="RL5" type="Hypothetical" arg1="M29" arg2="M28" />
+    <Relation id="RL6" type="Effect" arg1="M43" arg2="M44" />
+    <Relation id="RL7" type="Effect" arg1="M47" arg2="M46" />
+    <Relation id="RL8" type="Effect" arg1="M50" arg2="M49" />
+    <Relation id="RL9" type="Negated" arg1="M50" arg2="M48" />
+    <Relation id="RL10" type="Effect" arg1="M55" arg2="M54" />
+    <Relation id="RL11" type="Negated" arg1="M80" arg2="M79" />
+    <Relation id="RL12" type="Effect" arg1="M85" arg2="M87" />
+    <Relation id="RL13" type="Effect" arg1="M86" arg2="M87" />
+    <Relation id="RL14" type="Effect" arg1="M89" arg2="M88" />
+    <Relation id="RL15" type="Effect" arg1="M89" arg2="M91" />
+    <Relation id="RL16" type="Effect" arg1="M90" arg2="M88" />
+    <Relation id="RL17" type="Effect" arg1="M90" arg2="M91" />
+    <Relation id="RL18" type="Effect" arg1="M97" arg2="M96" />
+    <Relation id="RL19" type="Effect" arg1="M97" arg2="M93" />
+    <Relation id="RL20" type="Effect" arg1="M97" arg2="M95" />
+    <Relation id="RL21" type="Effect" arg1="M97" arg2="M94" />
+    <Relation id="RL22" type="Effect" arg1="M99" arg2="M101" />
+    <Relation id="RL23" type="Effect" arg1="M100" arg2="M101" />
+    <Relation id="RL24" type="Effect" arg1="M103" arg2="M102" />
+    <Relation id="RL25" type="Negated" arg1="M105" arg2="M104" />
+    <Relation id="RL26" type="Effect" arg1="M108" arg2="M107" />
+    <Relation id="RL27" type="Hypothetical" arg1="M108" arg2="M106" />
+    <Relation id="RL28" type="Effect" arg1="M110" arg2="M109" />
+    <Relation id="RL29" type="Effect" arg1="M113" arg2="M112" />
+    <Relation id="RL30" type="Hypothetical" arg1="M113" arg2="M111" />
+    <Relation id="RL31" type="Effect" arg1="M115" arg2="M118" />
+    <Relation id="RL32" type="Effect" arg1="M117" arg2="M118" />
+    <Relation id="RL33" type="Effect" arg1="M127" arg2="M126" />
+    <Relation id="RL34" type="Hypothetical" arg1="M127" arg2="M128" />
+    <Relation id="RL35" type="Hypothetical" arg1="M130" arg2="M129" />
+    <Relation id="RL36" type="Hypothetical" arg1="M131" arg2="M129" />
+    <Relation id="RL37" type="Hypothetical" arg1="M133" arg2="M132" />
+    <Relation id="RL38" type="Negated" arg1="M136" arg2="M135" />
+    <Relation id="RL39" type="Hypothetical" arg1="M138" arg2="M137" />
+    <Relation id="RL40" type="Hypothetical" arg1="M140" arg2="M141" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="infections">
+      <Normalization id="AR1.N1" meddra_pt="Infection" meddra_pt_id="10021789" />
+    </Reaction>
+    <Reaction id="AR2" str="infections of the upper respiratory tract">
+      <Normalization id="AR2.N1" meddra_pt="Upper respiratory tract infection" meddra_pt_id="10046306" />
+    </Reaction>
+    <Reaction id="AR3" str="opportunistic infections">
+      <Normalization id="AR3.N1" meddra_pt="Opportunistic infection" meddra_pt_id="10030901" />
+    </Reaction>
+    <Reaction id="AR4" str="nasopharyngitis">
+      <Normalization id="AR4.N1" meddra_pt="Nasopharyngitis" meddra_pt_id="10028810" />
+    </Reaction>
+    <Reaction id="AR5" str="diarrhea">
+      <Normalization id="AR5.N1" meddra_pt="Diarrhoea" meddra_pt_id="10012735" meddra_llt="Diarrhea" meddra_llt_id="10012727" />
+    </Reaction>
+    <Reaction id="AR6" str="influenza">
+      <Normalization id="AR6.N1" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Reaction>
+    <Reaction id="AR7" str="headache">
+      <Normalization id="AR7.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR8" str="nausea">
+      <Normalization id="AR8.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR9" str="upper respiratory tract infections">
+      <Normalization id="AR9.N1" meddra_pt="Upper respiratory tract infection" meddra_pt_id="10046306" />
+    </Reaction>
+    <Reaction id="AR10" str="abdominal pain">
+      <Normalization id="AR10.N1" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Reaction>
+    <Reaction id="AR11" str="injection site reactions">
+      <Normalization id="AR11.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR12" str="vertigo">
+      <Normalization id="AR12.N1" meddra_pt="Vertigo" meddra_pt_id="10047340" />
+    </Reaction>
+    <Reaction id="AR13" str="intra-abdominal abscess">
+      <Normalization id="AR13.N1" meddra_pt="Abdominal abscess" meddra_pt_id="10060921" meddra_llt="Intra-abdominal abscess" meddra_llt_id="10059621" />
+    </Reaction>
+    <Reaction id="AR14" str="infection">
+      <Normalization id="AR14.N1" meddra_pt="Infection" meddra_pt_id="10021789" />
+    </Reaction>
+    <Reaction id="AR15" str="rhinitis">
+      <Normalization id="AR15.N1" meddra_pt="Rhinitis" meddra_pt_id="10039083" />
+    </Reaction>
+    <Reaction id="AR16" str="bronchitis">
+      <Normalization id="AR16.N1" meddra_pt="Bronchitis" meddra_pt_id="10006451" />
+    </Reaction>
+    <Reaction id="AR17" str="gastroenteritis">
+      <Normalization id="AR17.N1" meddra_pt="Gastroenteritis" meddra_pt_id="10017888" />
+    </Reaction>
+    <Reaction id="AR18" str="pharyngitis">
+      <Normalization id="AR18.N1" meddra_pt="Pharyngitis" meddra_pt_id="10034835" />
+    </Reaction>
+    <Reaction id="AR19" str="weight increased">
+      <Normalization id="AR19.N1" meddra_pt="Weight increased" meddra_pt_id="10047899" />
+    </Reaction>
+    <Reaction id="AR20" str="musculoskeletal pain">
+      <Normalization id="AR20.N1" meddra_pt="Musculoskeletal pain" meddra_pt_id="10028391" />
+    </Reaction>
+    <Reaction id="AR21" str="subcutaneous injection site reactions">
+      <Normalization id="AR21.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR22" str="local tolerability reaction">
+      <Normalization id="AR22.N1" meddra_pt="Local reaction" meddra_pt_id="10024769" />
+    </Reaction>
+    <Reaction id="AR23" str="pneumonia">
+      <Normalization id="AR23.N1" meddra_pt="Pneumonia" meddra_pt_id="10035664" />
+    </Reaction>
+    <Reaction id="AR24" str="varicella">
+      <Normalization id="AR24.N1" meddra_pt="Varicella" meddra_pt_id="10046980" />
+    </Reaction>
+    <Reaction id="AR25" str="measles">
+      <Normalization id="AR25.N1" meddra_pt="Measles" meddra_pt_id="10027011" />
+    </Reaction>
+    <Reaction id="AR26" str="sepsis">
+      <Normalization id="AR26.N1" meddra_pt="Sepsis" meddra_pt_id="10040047" />
+    </Reaction>
+    <Reaction id="AR27" str="otitis media">
+      <Normalization id="AR27.N1" meddra_pt="Otitis media" meddra_pt_id="10033078" />
+    </Reaction>
+    <Reaction id="AR28" str="sinusitis">
+      <Normalization id="AR28.N1" meddra_pt="Sinusitis" meddra_pt_id="10040753" />
+    </Reaction>
+    <Reaction id="AR29" str="adenovirus">
+      <Normalization id="AR29.N1" meddra_pt="Adenovirus infection" meddra_pt_id="10060931" />
+    </Reaction>
+    <Reaction id="AR30" str="lymph node abscess">
+      <Normalization id="AR30.N1" meddra_pt="Lymph node abscess" meddra_pt_id="10050167" />
+    </Reaction>
+    <Reaction id="AR31" str="viral upper respiratory tract infection">
+      <Normalization id="AR31.N1" meddra_pt="Viral upper respiratory tract infection" meddra_pt_id="10047482" />
+    </Reaction>
+    <Reaction id="AR32" str="tonsillitis">
+      <Normalization id="AR32.N1" meddra_pt="Tonsillitis" meddra_pt_id="10044008" />
+    </Reaction>
+    <Reaction id="AR33" str="urinary tract infection">
+      <Normalization id="AR33.N1" meddra_pt="Urinary tract infection" meddra_pt_id="10046571" />
+    </Reaction>
+    <Reaction id="AR34" str="viral infection">
+      <Normalization id="AR34.N1" meddra_pt="Viral infection" meddra_pt_id="10047461" />
+    </Reaction>
+    <Reaction id="AR35" str="abdominal pain upper">
+      <Normalization id="AR35.N1" meddra_pt="Abdominal pain upper" meddra_pt_id="10000087" />
+    </Reaction>
+    <Reaction id="AR36" str="injection site reaction">
+      <Normalization id="AR36.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR37" str="hypersensitivity reactions">
+      <Normalization id="AR37.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR38" str="decreased white blood cells">
+      <Normalization id="AR38.N1" meddra_pt="White blood cell count decreased" meddra_pt_id="10047942" />
+    </Reaction>
+    <Reaction id="AR39" str="decreased neutrophils">
+      <Normalization id="AR39.N1" meddra_pt="Neutrophil count decreased" meddra_pt_id="10029366" />
+    </Reaction>
+    <Reaction id="AR40" str="decreased platelets">
+      <Normalization id="AR40.N1" meddra_pt="Platelet count decreased" meddra_pt_id="10035528" meddra_llt="Platelets decreased" meddra_llt_id="10035545" />
+    </Reaction>
+    <Reaction id="AR41" str="decreased white blood cell counts">
+      <Normalization id="AR41.N1" meddra_pt="White blood cell count decreased" meddra_pt_id="10047942" />
+    </Reaction>
+    <Reaction id="AR42" str="decreased wbc">
+      <Normalization id="AR42.N1" meddra_pt="White blood cell count decreased" meddra_pt_id="10047942" meddra_llt="WBC decreased" meddra_llt_id="10056731" />
+    </Reaction>
+    <Reaction id="AR43" str="decreases in absolute neutrophil count">
+      <Normalization id="AR43.N1" meddra_pt="Neutrophil count decreased" meddra_pt_id="10029366" meddra_llt="Absolute neutrophil count decreased" meddra_llt_id="10059234" />
+    </Reaction>
+    <Reaction id="AR44" str="decreases in anc">
+      <Normalization id="AR44.N1" meddra_pt="Neutrophil count decreased" meddra_pt_id="10029366" meddra_llt="Absolute neutrophil count decreased" meddra_llt_id="10059234" />
+    </Reaction>
+    <Reaction id="AR45" str="anc less than 0.5x10 9 /l">
+      <Normalization id="AR45.N1" meddra_pt="Neutrophil count decreased" meddra_pt_id="10029366" meddra_llt="Absolute neutrophil count decreased" meddra_llt_id="10059234" />
+    </Reaction>
+    <Reaction id="AR46" str="decreases in platelet counts">
+      <Normalization id="AR46.N1" meddra_pt="Platelet count decreased" meddra_pt_id="10035528" />
+    </Reaction>
+    <Reaction id="AR47" str="elevations of transaminases">
+      <Normalization id="AR47.N1" meddra_pt="Transaminases increased" meddra_pt_id="10054889" />
+    </Reaction>
+    <Reaction id="AR48" str="high alt">
+      <Normalization id="AR48.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" meddra_llt="ALT high" meddra_llt_id="10075801" />
+    </Reaction>
+    <Reaction id="AR49" str="high ast">
+      <Normalization id="AR49.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" meddra_llt="AST high" meddra_llt_id="10075800" />
+    </Reaction>
+    <Reaction id="AR50" str="elevations of serum bilirubin">
+      <Normalization id="AR50.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" meddra_llt="Serum bilirubin increased" meddra_llt_id="10040159" />
+    </Reaction>
+    <Reaction id="AR51" str="unusual infections">
+      <Normalization id="AR51.N1" meddra_pt="Infection" meddra_pt_id="10021789" />
+    </Reaction>
+    <Reaction id="AR52" str="infections cytomegalovirus">
+      <Normalization id="AR52.N1" meddra_pt="Cytomegalovirus infection" meddra_pt_id="10011831" />
+    </Reaction>
+    <Reaction id="AR53" str="aspergillosis">
+      <Normalization id="AR53.N1" meddra_pt="Aspergillus infection" meddra_pt_id="10074171" meddra_llt="Aspergillosis" meddra_llt_id="10003488" />
+    </Reaction>
+    <Reaction id="AR54" str="atypical mycobacterial infections">
+      <Normalization id="AR54.N1" meddra_pt="Atypical mycobacterial infection" meddra_pt_id="10061663" />
+    </Reaction>
+    <Reaction id="AR55" str="herpes zoster">
+      <Normalization id="AR55.N1" meddra_pt="Herpes zoster" meddra_pt_id="10019974" />
+    </Reaction>
+    <Reaction id="AR56" str="reactivation of tuberculosis">
+      <Normalization id="AR56.N1" meddra_pt="Tuberculosis" meddra_pt_id="10044755" meddra_llt="Tuberculosis reactivated" meddra_llt_id="10045025" />
+    </Reaction>
+    <Reaction id="AR57" str="malignancies">
+      <Normalization id="AR57.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" />
+    </Reaction>
+    <Reaction id="AR58" str="interfere with normal immune response">
+      <Normalization id="AR58.N1" meddra_pt="Decreased immune responsiveness" meddra_pt_id="10011968" />
+    </Reaction>
+    <Reaction id="AR59" str="mas">
+      <Normalization id="AR59.N1" meddra_pt="Histiocytosis haematophagic" meddra_pt_id="10048595" meddra_llt="Macrophage activation syndrome" meddra_llt_id="10053867" />
+    </Reaction>
+  </Reactions>
+</Label>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="condylox0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  In clinical trials, the following local adverse reactions were reported at some point during treatment.
+
+
+
+
+    Adverse Experience       Males            Females        
+  Burning          64%              78%              
+  Pain             50%              72%              
+  Inflammation     71%              63%              
+  Erosion          67%              67%              
+  Itching          50%              65%              
+         Reports of burning and pain were more frequent and of greater severity in women than in men.
+ 
+
+ Adverse effects reported in less than 5% of the patients included pain with intercourse, insomnia, tingling, bleeding, tenderness, chafing, malodor, dizziness, scarring, vesicle formation, crusting edema, dryness/peeling, foreskin irretraction, hematuria, vomiting and ulceration.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

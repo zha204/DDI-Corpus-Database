@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sclerosol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Talc administration has been described in more than 1500 patients reported in the medical literature. Patients with malignant pleural effusions were treated with talc via poudrage or slurry. In general, with respect to reported adverse experiences, it is difficult to distinguish the effects of talc from the effects of the procedure(s) associated with its administration. The most reported common adverse experiences were fever and pain. Almost all of the cases of fever, and over half of the cases of pain, were in patients who received diagnostic biopsies at the time of talc administration.
+
+
+
+     Infections:  Empyema was a rare complication of talc administration and/or the procedure. Biopsies had been obtained prior to onset in over half the reported cases.
+
+
+
+     Respiratory:  Rare instances of pneumonia, ARDS, dyspnea, bronchopleural fistula, hemoptysis, and pulmonary emboli have been reported.
+
+
+
+     Cardiovascular:  Tachycardia, myocardial infarction, hypotension, hypovolemia, and asystolic arrest associated with surgery and/or anesthesia have been rarely reported.
+
+
+
+     Delivery Procedure:  Adverse reactions due to the delivery procedure and the chest tube may include: infection at the site of thoracostomy or thoracoscopy, localized bleeding, and subcutaneous empyema.
+
+
+
+     Chronic Toxicity:  Lange et al. (Thorax 1988;43:559) reported on 114 consecutive cases of idiopathic spontaneous pneumothorax treated with talc poudrage (60 patients), or simple drainage (54 patients) via an intercostal tube. Pulmonary function tests (FEV1, VC, TLC, and RV) 22 to 35 years after treatment, showed no significant differences in the incidence of pleural changes between the two groups. Two patients treated with talc poudrage had more extensive pleural thickening with calcification. The mean total lung capacities were 89% of predicted in the talc group and 96% in the drainage only group. Fourteen patients (12 lifelong heavy smokers, 2 non-smokers) had airflow limitation (5 severe). Source and purity of the talc used was not reported. No cases of mesothelioma were reported. One case report noted the occurrence of adenocarcinoma of the chest wall two years after pleurodesis following 10 g of 1% iodized talc (administered for recurrent pneumothorax).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

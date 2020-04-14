@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="xylocaine0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS:
+
+  Adverse experiences following the administration of lidocaine are similar in nature to those observed with other amide local anesthetic agents. These adverse experiences are, in general, dose-related and may result from high plasma levels caused by excessive dosage or rapid absorption, or may result from a hypersensitivity, idiosyncrasy, or diminished tolerance on the part of the patient. Serious adverse experiences are generally systemic in nature. The following types are those most commonly reported:
+
+
+
+ There have been rare reports of endotracheal tube occlusion associated with the presence of dried jelly residue in the inner lumen of the tube (see also  WARNINGS  and  DOSAGE AND ADMINISTRATION  ).
+
+
+
+   Central Nervous System
+
+  CNS manifestations are excitatory and/or depressant and may be characterized by lightheadedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression, and arrest. The excitatory manifestations may be very brief or may not occur at all, in which case the first manifestation of toxicity may be drowsiness merging into unconsciousness and respiratory arrest.
+
+
+
+ Drowsiness following the administration of lidocaine is usually an early sign of a high blood level of the drug and may occur as a consequence of rapid absorption.
+
+
+
+   Cardiovascular System
+
+  Cardiovascular manifestations are usually depressant and are characterized by bradycardia, hypotension, and cardiovascular collapse, which may lead to cardiac arrest.
+
+
+
+   Allergic
+
+  Allergic reactions are characterized by cutaneous lesions, urticaria, edema, or anaphylactoid reactions. Allergic reactions may occur as a result of sensitivity either to the local anesthetic agent or to other components in the formulation. Allergic reactions as a result of sensitivity to lidocaine are extremely rare and, if they occur, should be managed by conventional means. The detection of sensitivity by skin testing is of doubtful value.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

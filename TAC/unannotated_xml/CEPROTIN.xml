@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ceprotin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The common adverse reactions related to CEPROTIN treatment observed were the following hypersensitivity or allergic reactions: lightheadedness and itching and rash.
+
+
+
+    EXCERPT:    *    The common adverse reactions observed in clinical trials were rash, itching and lightheadedness. (  2.1  ,  5.1  ,  6  ) 
+    To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare Corporation at 1-866-888-2472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+ 
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in one clinical study of a drug cannot be directly compared with rates in the clinical studies of the same drug or another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety profile of CEPROTIN was based on 121 patients from clinical studies and compassionate use in severe congenital Protein C deficiency. Duration of exposure ranged from 1 day to 8 years. One patient experienced hypersensitivity/allergic reactions (itching and rash) and lightheadedness which were determined by the investigator to be related to CEPROTIN.
+
+
+
+ No inhibiting antibodies to CEPROTIN have been observed in clinical studies. However, the potential for developing antibodies cannot be ruled out.
+
+
+
+   6.2 Post-marketing Experience
+
+  The following adverse reactions have been identified during postapproval use of CEPROTIN:
+
+
+
+ Psychiatric Disorders: Restlessness
+
+
+
+ Skin and Subcutaneous Tissue Disorders: Hyperhydrosis
+
+
+
+ General Disorders and Administration Site Conditions: Injection Site Reaction
+
+
+
+ Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Discontinue administration if symptoms of hypersensitivity/allergic reactions occur. (  2.1  ,  5.1  ,  6  ) 
+ *    Made from pooled human plasma. The possibility of transmitting infectious agents cannot be ruled out. (  5.2  ,  11  ) 
+ *    Simultaneous administration with tPA and/or anticoagulants may increase risk of bleeding. (  5.3  ) 
+ *    Contains heparin. If heparin-induced thrombocytopenia is suspected, check platelet counts immediately and discontinue administration.  (  5.4  ) 
+ *    Contains sodium &gt;200 mg. Inform patients on a low sodium diet and/or patients with renal impairment. (  5.5  ) 
+    
+ 
+
+   5.1 Hypersensitivity / Allergic Reactions
+
+
+
+  CEPROTIN may contain traces of mouse protein and/or heparin as a result of the manufacturing process. Allergic reactions to mouse protein and/or heparin cannot be ruled out. If symptoms of hypersensitivity/allergic reaction occur, discontinue the injection/infusion. In case of anaphylactic shock, the current medical standards for treatment are to be observed.
+
+
+
+    5.2 Transmission of Infectious Agents
+
+
+
+  Because CEPROTIN is made from human plasma, it may carry a risk of transmitting infectious agents, e.g., viruses, and theoretically, the Creutzfeldt-Jakob disease (CJD) agent.
+
+
+
+  ALL infections suspected by a physician possibly to have been transmitted by this product should be reported by the physician or other healthcare provider to Baxter Healthcare Corporation, at 1-866-888-2472. Discuss the risks and benefits of this product with your patient.  
+
+
+
+    5.3 Bleeding Episodes
+
+
+
+  Several bleeding episodes have been observed in clinical studies. Concurrent anticoagulant medication may have been responsible for these bleeding episodes. However, it cannot be completely ruled out that the administration of CEPROTIN further contributed to these bleeding events.
+
+
+
+ Simultaneous administration of CEPROTIN and tissue plasminogen activator (tPA) may further increase the risk of bleeding from tPA.
+
+
+
+    5.4 Heparin-induced Thrombocytopenia (HIT)
+
+
+
+  CEPROTIN contains trace amounts of heparin which may lead to Heparin-induced Thrombocytopenia, which can be associated with a rapid decrease of the number of thrombocytes. Identifying HIT is complicated because these symptoms may already be present in acute phase patients with severe congenital protein C deficiency. Determine the platelet count immediately and consider discontinuation of CEPROTIN.
+
+
+
+    5.5 Low Sodium Diet / Renal Impairment
+
+
+
+  Inform patients on a low sodium diet that the quantity of sodium in the maximum daily dose of CEPROTIN exceeds 200 mg. Monitor patients with renal impairment closely for sodium overload.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ridaura" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The adverse reactions incidences listed below are based on observations of 1) 4,784 RIDAURA treated patients in clinical trials (2,474 U.S., 2,310 foreign), of whom 2,729 were treated more than one year and 573 for more than three years; and 2) postmarketing experience. The highest incidence is during the first six months of treatment; however, reactions can occur after many months of therapy. With rare exceptions, all patients were on concomitant nonsteroidal anti-inflammatory therapy; some of them were also taking low dosages of corticosteroids.
+
+
+
+   Reactions occurring in more than 1% of RIDAURA-treated patients
+
+    Gastrointestinal:  loose stools or diarrhea (47%); abdominal pain (14%); nausea with or without vomiting (10%); constipation; anorexia*; flatulence*; dyspepsia*; dysgeusia.
+
+
+
+   Dermatological:  rash (24%); pruritus (17%); hair loss; urticaria.
+
+
+
+   Mucous Membrane:  stomatitis (13%); conjunctivitis*; glossitis.
+
+
+
+   Hematological:  anemia; leukopenia; thrombocytopenia; eosinophilia.
+
+
+
+   Renal:  proteinuria*; hematuria.
+
+
+
+   Hepatic:  elevated liver enzymes.
+
+
+
+ *Reactions marked with an asterisk occurred in 3-9% of the patients. The other reactions listed occurred in 1-3%.
+
+
+
+   Reactions occurring in less than 1% of RIDAURA-treated patients
+
+    Gastrointestinal:  dysphagia; gastrointestinal bleeding; melena; positive stool for occult blood; ulcerative enterocolitis.
+
+
+
+   Dermatological:  angioedema.
+
+
+
+   Mucous Membrane:  gingivitis.
+
+
+
+   Hematological:  aplastic anemia; neutropenia; agranulocytosis; pure red cell aplasia; pancytopenia.
+
+
+
+   Hepatic:  jaundice.
+
+
+
+   Respiratory:  interstitial pneumonitis.
+
+
+
+   Neurological:  peripheral neuropathy.
+
+
+
+   Ocular:  gold deposits in the lens or cornea unassociated clinically with eye disorders or visual impairment.
+
+
+
+  Reactions marked with a dagger occurred in 0.1-1% of the patients. The other reactions listed occurred in less than 0.1%.
+
+
+
+   Reactions reported with injectable gold preparations, but not with RIDAURA (auranofin) (based on clinical trials and on postmarketing experience)
+
+    Cutaneous Reactions:  generalized exfoliative dermatitis.
+
+
+
+ Incidence of Adverse Reactions for Specific Categories-18 Comparative Trials 
+                                          RIDAURA(445 patients)           Injectable Gold(445 patients)    
+ Proteinuria                              0.9%                            5.4%                             
+ Rash                                     26%                             39%                              
+ Diarrhea                                 42.5%                           13%                              
+ Stomatitis                               13%                             18%                              
+ Anemia                                   3.1%                            2.7%                             
+ Leukopenia                               1.3%                            2.2%                             
+ Thrombocytopenia                         0.9%                            2.2%                             
+ Elevated liver                                                                                            
+   function tests                         1.9%                            1.7%                             
+ Pulmonary                                0.2%                            0.2%                             
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  RIDAURA  (r)   (auranofin) contains gold and, like other gold-containing drugs, can cause gold toxicity, signs of which include: fall in hemoglobin, leukopenia below 4,000 WBC/cu mm, granulocytes below 1,500/cu mm, decrease in platelets below 150,000/cu mm, proteinuria, hematuria, pruritus, rash, stomatitis or persistent diarrhea. Therefore, the results of recommended laboratory work (See   PRECAUTIONS  ) should be reviewed before writing each RIDAURA prescription. Like other gold preparations, RIDAURA is only indicated for use in selected patients with active rheumatoid arthritis. Physicians planning to use RIDAURA should be experienced with chrysotherapy and should thoroughly familiarize themselves with the toxicity and benefits of RIDAURA.
+
+
+
+ In addition, the following precautions should be routinely employed:
+
+
+
+ *  The possibility of adverse reactions should be explained to patients before starting therapy. 
+ *  Patients should be advised to report promptly any symptoms suggesting toxicity. (See PRECAUTIONS-Information for Patients.) 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

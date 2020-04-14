@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d260">
+    <sentence id="DDI-DrugBank.d260.s0" text="Probenecid : Probenecid is known to interact with the metabolism or renal tubular excretion of many drugs (e.g., acetaminophen, acyclovir, angiotensin-converting enzyme inhibitors, aminosalicylic acid, barbiturates, benzodiazepines, bumetanide, clofibrate, methotrexate, famotidine, furosemide, nonsteroidal anti-inflammatory agents, theophylline, and zidovudine).">
+        <entity id="DDI-DrugBank.d260.s0.e0" charOffset="0-9"
+            type="drug" text="Probenecid"/>
+        <entity id="DDI-DrugBank.d260.s0.e1" charOffset="13-22"
+            type="drug" text="Probenecid"/>
+        <entity id="DDI-DrugBank.d260.s0.e2" charOffset="113-125"
+            type="drug" text="acetaminophen"/>
+        <entity id="DDI-DrugBank.d260.s0.e3" charOffset="128-136"
+            type="drug" text="acyclovir"/>
+        <entity id="DDI-DrugBank.d260.s0.e4" charOffset="139-178"
+            type="group" text="angiotensin-converting enzyme inhibitors"/>
+        <entity id="DDI-DrugBank.d260.s0.e5" charOffset="181-199"
+            type="drug" text="aminosalicylic acid"/>
+        <entity id="DDI-DrugBank.d260.s0.e6" charOffset="202-213"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d260.s0.e7" charOffset="216-230"
+            type="group" text="benzodiazepines"/>
+        <entity id="DDI-DrugBank.d260.s0.e8" charOffset="233-242"
+            type="drug" text="bumetanide"/>
+        <entity id="DDI-DrugBank.d260.s0.e9" charOffset="245-254"
+            type="drug" text="clofibrate"/>
+        <entity id="DDI-DrugBank.d260.s0.e10" charOffset="257-268"
+            type="drug" text="methotrexate"/>
+        <entity id="DDI-DrugBank.d260.s0.e11" charOffset="271-280"
+            type="drug" text="famotidine"/>
+        <entity id="DDI-DrugBank.d260.s0.e12" charOffset="283-292"
+            type="drug" text="furosemide"/>
+        <entity id="DDI-DrugBank.d260.s0.e13" charOffset="295-324"
+            type="group" text="nonsteroidal anti-inflammatory"/>
+        <entity id="DDI-DrugBank.d260.s0.e14" charOffset="334-345"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d260.s0.e15" charOffset="352-361"
+            type="drug" text="zidovudine"/>
+        <ddi id="DDI-DrugBank.d260.s0.d0" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d1" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d2" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d3" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d4" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e6" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d5" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e7" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d6" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e8" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d7" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e9" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d8" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e10" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d9" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e11" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d10" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e12" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d11" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e13" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d12" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e14" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d260.s0.d13" e1="DDI-DrugBank.d260.s0.e1"
+            e2="DDI-DrugBank.d260.s0.e15" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d260.s1" text="Concomitant medications should be carefully assessed."/>
+    <sentence id="DDI-DrugBank.d260.s2" text="Zidovudine should either be temporarily discontinued or decreased by 50% when coadministered with probenecid on the day of VISTIDE infusion.">
+        <entity id="DDI-DrugBank.d260.s2.e0" charOffset="0-9"
+            type="drug" text="Zidovudine"/>
+        <entity id="DDI-DrugBank.d260.s2.e1" charOffset="98-107"
+            type="drug" text="probenecid"/>
+        <entity id="DDI-DrugBank.d260.s2.e2" charOffset="123-129"
+            type="brand" text="VISTIDE"/>
+        <ddi id="DDI-DrugBank.d260.s2.d0" e1="DDI-DrugBank.d260.s2.e0"
+            e2="DDI-DrugBank.d260.s2.e1" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d260.s3" text="Nephrotoxic agents : Concomitant administration of VISTIDE and agents with nephrotoxic potential [e.g., intravenous aminoglycosides (e.g., tobramycin, gentamicin, and amikacin), amphotericin B, foscarnet, intravenous pentamidine, vancomycin, and non-steroidal anti-inflammatory agents] is contraindicated.">
+        <entity id="DDI-DrugBank.d260.s3.e0" charOffset="51-57"
+            type="brand" text="VISTIDE"/>
+        <entity id="DDI-DrugBank.d260.s3.e1" charOffset="116-130"
+            type="group" text="aminoglycosides"/>
+        <entity id="DDI-DrugBank.d260.s3.e2" charOffset="139-148"
+            type="drug" text="tobramycin"/>
+        <entity id="DDI-DrugBank.d260.s3.e3" charOffset="151-160"
+            type="drug" text="gentamicin"/>
+        <entity id="DDI-DrugBank.d260.s3.e4" charOffset="167-174"
+            type="drug" text="amikacin"/>
+        <entity id="DDI-DrugBank.d260.s3.e5" charOffset="178-191"
+            type="drug" text="amphotericin B"/>
+        <entity id="DDI-DrugBank.d260.s3.e6" charOffset="194-202"
+            type="drug" text="foscarnet"/>
+        <entity id="DDI-DrugBank.d260.s3.e7" charOffset="217-227"
+            type="drug" text="pentamidine"/>
+        <entity id="DDI-DrugBank.d260.s3.e8" charOffset="230-239"
+            type="drug" text="vancomycin"/>
+        <entity id="DDI-DrugBank.d260.s3.e9" charOffset="246-283"
+            type="group" text="non-steroidal anti-inflammatory agents"/>
+        <ddi id="DDI-DrugBank.d260.s3.d0" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e1" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d1" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e2" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d2" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e3" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d3" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e4" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d4" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e5" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d5" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e6" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d6" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e7" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d7" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e8" type="advise"/>
+        <ddi id="DDI-DrugBank.d260.s3.d8" e1="DDI-DrugBank.d260.s3.e0"
+            e2="DDI-DrugBank.d260.s3.e9" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d260.s4" text="Such agents must be discontinued at least seven days prior to starting therapy with VISTIDE.">
+        <entity id="DDI-DrugBank.d260.s4.e0" charOffset="84-90"
+            type="brand" text="VISTIDE"/>
+    </sentence>
+</document>

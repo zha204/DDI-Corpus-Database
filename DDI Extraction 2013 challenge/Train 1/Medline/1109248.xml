@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d106">
+    <sentence id="DDI-MedLine.d106.s0" text="Clinical implications of warfarin interactions with five sedatives.&#xa;">
+        <entity id="DDI-MedLine.d106.s0.e0" charOffset="25-32"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-MedLine.d106.s0.e1" charOffset="57-65"
+            type="group" text="sedatives"/>
+        <ddi id="DDI-MedLine.d106.s0.d0" e1="DDI-MedLine.d106.s0.e0"
+            e2="DDI-MedLine.d106.s0.e1" type="int"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s1" text="The intensity, uniformity and time course of anticoagulant interference by phenobarbital, secobarbital, glutethimide, chloral hydrate and methaqualone were systematically investigated in 16 patients receiving coumarin therapy. ">
+        <entity id="DDI-MedLine.d106.s1.e0" charOffset="45-57"
+            type="group" text="anticoagulant"/>
+        <entity id="DDI-MedLine.d106.s1.e1" charOffset="75-87"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-MedLine.d106.s1.e2" charOffset="90-101"
+            type="drug" text="secobarbital"/>
+        <entity id="DDI-MedLine.d106.s1.e3" charOffset="104-115"
+            type="drug" text="glutethimide"/>
+        <entity id="DDI-MedLine.d106.s1.e4" charOffset="118-132"
+            type="drug" text="chloral hydrate"/>
+        <entity id="DDI-MedLine.d106.s1.e5" charOffset="138-149"
+            type="drug" text="methaqualone"/>
+        <entity id="DDI-MedLine.d106.s1.e6" charOffset="209-216"
+            type="group" text="coumarin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s2" text="Each subject received an individualized fixed daily dose of warfarin and served as his own pre- and postsedative treatment control. ">
+        <entity id="DDI-MedLine.d106.s2.e0" charOffset="60-67"
+            type="drug" text="warfarin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s3" text="Prothrombin times were measured four times weekly during five long-term experiments. "/>
+    <sentence id="DDI-MedLine.d106.s4" text="Anticoagulant inhibition was observed during the administration of phenobarbital, secobarbital and glutethimide; ">
+        <entity id="DDI-MedLine.d106.s4.e0" charOffset="67-79"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-MedLine.d106.s4.e1" charOffset="82-93"
+            type="drug" text="secobarbital"/>
+        <entity id="DDI-MedLine.d106.s4.e2" charOffset="99-110"
+            type="drug" text="glutethimide"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s5" text="there was no significant change in prothrombin test results during the trials of chloral hydrate and methaqualone. ">
+        <entity id="DDI-MedLine.d106.s5.e0" charOffset="81-95"
+            type="drug" text="chloral hydrate"/>
+        <entity id="DDI-MedLine.d106.s5.e1" charOffset="101-112"
+            type="drug" text="methaqualone"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s6" text="Barbiturates and glutethimide should not be administered to patients receiving coumarin drugs. ">
+        <entity id="DDI-MedLine.d106.s6.e0" charOffset="0-11"
+            type="group" text="Barbiturates"/>
+        <entity id="DDI-MedLine.d106.s6.e1" charOffset="17-28"
+            type="drug" text="glutethimide"/>
+        <entity id="DDI-MedLine.d106.s6.e2" charOffset="79-92"
+            type="group" text="coumarin drugs"/>
+        <ddi id="DDI-MedLine.d106.s6.d0" e1="DDI-MedLine.d106.s6.e0"
+            e2="DDI-MedLine.d106.s6.e2" type="advise"/>
+        <ddi id="DDI-MedLine.d106.s6.d1" e1="DDI-MedLine.d106.s6.e1"
+            e2="DDI-MedLine.d106.s6.e2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s7" text="The concurrent use of drugs from these groups is decreasing according to a survey of 200 hospital medical records. "/>
+    <sentence id="DDI-MedLine.d106.s8" text="Chloral hydrate and methaqualone interact pharmacologically with orally administered anticoagulant agents, but the effect is not clinically significant. ">
+        <entity id="DDI-MedLine.d106.s8.e0" charOffset="0-14"
+            type="drug" text="Chloral hydrate"/>
+        <entity id="DDI-MedLine.d106.s8.e1" charOffset="20-31"
+            type="drug" text="methaqualone"/>
+        <entity id="DDI-MedLine.d106.s8.e2" charOffset="85-104"
+            type="group" text="anticoagulant agents"/>
+        <ddi id="DDI-MedLine.d106.s8.d0" e1="DDI-MedLine.d106.s8.e0"
+            e2="DDI-MedLine.d106.s8.e2" type="int"/>
+        <ddi id="DDI-MedLine.d106.s8.d1" e1="DDI-MedLine.d106.s8.e1"
+            e2="DDI-MedLine.d106.s8.e2" type="int"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d106.s9" text="It is concluded that chloral hydrate and methaqualone may be administered safely without additional caution in prothrombin test monitoring during oral anticoagulant therapy.">
+        <entity id="DDI-MedLine.d106.s9.e0" charOffset="21-35"
+            type="drug" text="chloral hydrate"/>
+        <entity id="DDI-MedLine.d106.s9.e1" charOffset="41-52"
+            type="drug" text="methaqualone"/>
+        <entity id="DDI-MedLine.d106.s9.e2" charOffset="151-163"
+            type="group" text="anticoagulant"/>
+    </sentence>
+</document>

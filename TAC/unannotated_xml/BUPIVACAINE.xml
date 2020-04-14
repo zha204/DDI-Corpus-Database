@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bupivacaine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Reactions to BUPIVACAINE HCl are characteristic of those associated with other amide-type local anesthetics. A major cause of adverse reactions to this group of drugs is excessive plasma levels, which may be due to overdosage, inadvertent intravascular injection, or slow metabolic degradation.
+
+
+
+ Excessive plasma levels of the amide-type local anesthetics cause systemic reactions involving the central nervous system and the cardiovascular system. The    central nervous system effects    are characterized by excitation or depression. The first manifestation may be nervousness, dizziness, blurred vision, or tremors, followed by drowsiness, convulsions, unconsciousness, and possibly respiratory arrest. Since excitement may be transient or absent, the first manifestation may be drowsiness, sometimes merging into unconsciousness and respiratory arrest. Other central nervous system effects may be nausea, vomiting, chills, constriction of the pupils, or tinnitus. The    cardiovascular manifestations    of excessive plasma levels may include depression of the myocardium, blood pressure changes (usually hypotension), and cardiac arrest.    Allergic reactions,    which may be due to hypersensitivity, idiosyncrasy, or diminished tolerance, are characterized by cutaneous lesions (e.g., urticaria), edema, and other manifestations of allergy. Detection of sensitivity by skin testing is of doubtful value.
+
+
+
+ Transient facial swelling and puffiness may occur near the injection site.
+
+
+
+     Treatment of Reactions:    Toxic effects of local anesthetics require symptomatic treatment; there is no specific cure. The dentist should be prepared to maintain an airway and to support ventilation with oxygen and assisted or controlled respiration as required. Supportive treatment of the cardiovascular system includes intravenous fluids and, when appropriate, vasopressors (preferably those that stimulate the myocardium). Convulsions may be controlled with oxygen and intravenous administration, in small increments, of a barbiturate, as follows: preferably, an ultra-short-acting barbiturate such as thiopental or thiamylal; if this is not available, a short-acting barbiturate (e.g., secobarbital or pentobarbital) or diazepam. Intravenous barbiturates or anticonvulsant agents should only be administered by those familiar with their use.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

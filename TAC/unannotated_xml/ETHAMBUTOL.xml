@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ethambutol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  ETHAMBUTOL may produce decreases in visual acuity, including irreversible blindness, which appear to be due to optic neuritis. Optic neuropathy including optic neuritis or retrobulbar neuritis occurring in association with ethambutol therapy may be characterized by one or more of the following events: decreased visual acuity, scotoma, color blindness, and/or visual defect. These events have also been reported in the absence of a diagnosis of optic or retrobulbar neuritis.
+
+
+
+ Patients should be advised to report promptly to their physician any change of visual acuity.
+
+
+
+ The change in visual acuity may be unilateral or bilateral and hence each eye must be tested separately and both eyes tested together. Testing of visual acuity should be performed before beginning ETHAMBUTOL HCI therapy and periodically during drug administration, except that it should be done monthly when a patient is on a dosage of more than 15 mg per kilogram per day. Snellen eye charts are recommended for testing of visual acuity. Studies have shown that there are definite fluctuations of one or two lines of the Snellen chart in the visual acuity of many tuberculous patients not receiving ETHAMBUTOL HCI.
+
+
+
+ The following table may be useful in interpreting possible changes in visual acuity attributable to ETHAMBUTOL.
+
+
+
+
+ Initial                   Reading                  Significant                Decreased                    
+ Snellen                   Indicating               Number                     Number                       
+ Reading                   Significant              of Lines                   of Points                    
+                           Decrease                                                                         
+ 20/13                     20/25                    3                          12                           
+ 20/15                     20/25                    2                          10                           
+ 20/20                     20/30                    2                          10                           
+ 20/25                     20/40                    2                          15                           
+ 20/30                     20/50                    2                          20                           
+ 20/40                     20/70                    2                          30                           
+ 20/50                     20/70                    1                          20                           
+          In general, changes in visual acuity less than those indicated under "Significant Number of Lines" and "Decrease Number of Points" may be due to chance variation, limitations of the testing method, or physiologic variability. Conversely, changes in visual acuity equaling or exceeding those under "Significant Number of Lines" and "Decrease Number of Points" indicate need for retesting and careful evaluation of the patient's visual status. If careful evaluation confirms the magnitude of visual change and fails to reveal another cause, ETHAMBUTOL HCI should be discontinued and the patient reevaluated at frequent intervals. Progressive decreases in visual acuity during therapy must be considered to be due to ETHAMBUTOL.
+ 
+
+ If corrective glasses are used prior to treatment, these must be worn during visual acuity testing. During 1 to 2 years of therapy, a refractive error may develop which must be corrected in order to obtain accurate test results. Testing the visual acuity through a pinhole eliminates refractive error. Patients developing visual abnormality during ETHAMBUTOL HCI treatment may show subjective visual symptoms before, or simultaneously with, the demonstration of decreases in visual acuity, and all patients receiving ETHAMBUTOL HCI should be questioned periodically about blurred vision and other subjective eye symptoms.
+
+
+
+ Recovery of visual acuity generally occurs over a period of weeks to months after the drug has been discontinued. Some patients have received ETHAMBUTOL HCI again after such recovery without recurrence of loss of visual acuity. Other adverse reactions reported include: hypersensitivity, anaphylactic/anaphylactoid reaction, dermatitis, erythema multiforme, pruritus, and joint pain; anorexia, nausea, vomiting, gastrointestinal upset, and abdominal pain; fever, malaise, headache, and dizziness; mental confusion, disorientation, and possible hallucinations; thrombocytopenia, leucopenia, and neutropenia. Numbness and tingling of the extremities due to peripheral neuritis have been reported. Elevated serum uric acid levels occur and precipitation of acute gout has been reported. Pulmonary infiltrates, with or without eosinophilia, also have been reported during ETHAMBUTOL HCI therapy. Liver toxicities, including fatalities, have been reported. (See    WARNINGS    ). Since ETHAMBUTOL HCI is recommended for therapy in conjunction with one or more other antituberculous drugs, these changes may be related to the concurrent therapy. Hypersensitivity syndrome consisting of cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, and one or more of the following: hepatitis, pneumonitis, nephritis, myocarditis, pericarditis. Fever and lymphadenopathy may be present.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

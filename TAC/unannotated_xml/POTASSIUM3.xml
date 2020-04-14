@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="potassium3" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea.
+
+
+
+   EXCERPT:   Most common adverse reactions are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact 727-530-1633 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Gastrointestinal Irritation : Dilute before use, take with meals (  5.1  ) 
+    
+ 
+
+   5.1 Gastrointestinal Irritation
+
+
+
+  May cause gastrointestinal irritation if administered undiluted. Increased dilution of the solution and taking with meals may reduce gastrointestinal irritation [see  Dosage and Administration (2.1)  ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

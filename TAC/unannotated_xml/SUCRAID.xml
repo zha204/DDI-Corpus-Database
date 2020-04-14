@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sucraid" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse experiences with Sucraid in clinical trials were generally minor and were frequently associated with the underlying disease.
+
+
+
+ In clinical studies of up to 54 months duration, physicians treated a total of 52 patients with Sucraid. The adverse experiences and respective number of patients reporting each event (in parenthesis) were as follows: abdominal pain (4), vomiting (3), nausea (2), diarrhea (2), constipation (2), insomnia (1) headache (1) nervousness (1) and dehydration (1).
+
+
+
+ Note: diarrhea and abdominal pain can be a part of the clinical presentation of the  genetically determined sucrase deficiency,  which is part of congenital sucrase-isomaltase deficiency (CSID).
+
+
+
+ One asthmatic child experienced a serious hypersensitivity reaction (wheezing) probably related to sacrosidase (see  Warnings  ). The event resulted in withdrawal of the patient from the trial but resolved with no sequelae.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

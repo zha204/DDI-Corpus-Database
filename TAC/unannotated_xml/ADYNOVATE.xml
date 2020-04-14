@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="adynovate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Common adverse reactions (&gt;=1% of subjects) reported in the clinical studies were headache and nausea.
+
+
+
+   EXCERPT:   Common adverse reactions reported in &gt;=1% of subjects in the clinical studies were headache and nausea. (6)
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Baxalta US Inc. at 1-800-999-1785 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of ADYNOVATE was evaluated in 169 previously treated patients (PTPs) with severe hemophilia A (factor VIII less than 1% of normal), who received at least one dose of ADYNOVATE in 2 multi-center, prospective, open label clinical studies and 3 ongoing clinical studies. The median duration of participation per subject was 333 (min-max: 1-593) days and the median number of exposure days to ADYNOVATE per subject was 96 (min-max: 1-170). Table 2 lists the adverse reactions reported during clinical studies.
+
+
+
+ Table 2 Adverse Reactions Reported for ADYNOVATE 
+  MedDRA  System Organ Class    MedDRA Preferred Term      Number of Subjects n (%)  (N=169)    Percent per Infusion  (N = 13579)    
+  Gastrointestinal Disorders    Diarrhea                   1 (0.6%)                   0.01%                      
+  Nausea                     2 (1.2%)                   0.01%                      
+  Nervous System Disorders    Headache                   5 (3.0%)                   0.06%                      
+  Vascular Disorders         Flushing                   1 (0.6%)                   0.01%                      
+          No events of hypersensitivity were reported.
+ 
+
+ Two cases of acute pancreatitis, with no precipitating cause identified in one case, were reported in adults during an extension study of the clinical trial which evaluated 137 subjects. Administration of ADYNOVATE continued and both cases resolved.
+
+
+
+   6.2 Immunogenicity
+
+  The risk of the development of factor VIII inhibitors with the use of ADYNOVATE was evaluated in 2 completed and 3 ongoing clinical trials. Study subjects consisted of adult (n= 143 with &gt;= prior 150 EDs) and pediatric PTPs [(&lt;6 years of age with &gt;=50 prior EDs (n= 3), &gt;=6 years of age with &gt;=150 prior EDs (n= 23)]. In 120 adult and pediatric PTPs who were treated for at least 50 exposure days with ADYNOVATE, the factor VIII inhibitor frequency was 0 (95% CI of 0 to 0.03). None of the 169 individual subjects who received at least one infusion of ADYNOVATE developed neutralizing antibodies to factor VIII.
+
+
+
+ Immunogenicity also was evaluated by measuring the development of binding IgG and IgM antibodies against factor VIII, PEGylated (PEG)-factor VIII, PEG and Chinese hamster ovary (CHO) protein using validated ELISA assays. None of the 169 treated subjects with at least one infusion of ADYNOVATE developed a persistent binding antibody response to any of these antigens. Thirteen subjects in total showed pre-existing antibodies to factor VIII (n=1), PEG-factor VIII (n=12) and/or PEG (n=3) prior to the first exposure to ADYNOVATE. Eight subjects who tested negative at screening developed transient IgG antibodies against factor VIII (n= 5), or PEG-FVIII (n= 3) at one or two consecutive study visits. Binding antibodies that were detected prior to exposure to ADYNOVATE or that transiently developed during the study could not be correlated to any impaired treatment efficacy, altered PK parameters, or adverse reactions. No subject had pre-existing or treatment-emergent antibodies to CHO protein.
+
+
+
+ The detection of antibodies that are reactive to factor VIII is highly dependent on many factors, including: the sensitivity and specificity of the assay, sample handling, timing of sample collection, concomitant medications and underlying disease. For these reasons, comparison of the incidence of antibodies to ADYNOVATE with the incidence of antibodies to other products may be misleading.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Hypersensitivity reactions, including anaphylaxis, are possible. Should 
+   *     symptoms occur, discontinue treatment with ADYNOVATE and 
+ *     administer appropriate treatment. (5.1) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions are possible with ADYNOVATE. Allergic-type hypersensitivity reactions, including anaphylaxis, have been reported with other recombinant antihemophilic factor VIII products, including the parent molecule, ADVATE. Early signs of hypersensitivity reactions that can progress to anaphylaxis may include angioedema, chest tightness, dyspnea, wheezing, urticaria, and pruritus. Immediately discontinue administration and initiate appropriate treatment if hypersensitivity reactions occur.
+
+
+
+    5.2 Neutralizing Antibodies
+
+
+
+  Formation of neutralizing antibodies (inhibitors) to factor VIII can occur following administration of ADYNOVATE. Monitor patients regularly for the development of factor VIII inhibitors by appropriate clinical observations and laboratory tests. Perform an assay that measures factor VIII inhibitor concentration if the plasma factor VIII level fails to increase as expected, or if bleeding is not controlled with expected dose.
+
+
+
+    5.3 Monitoring Laboratory Tests
+
+
+
+    *    Monitor plasma factor VIII activity by performing a validated one-stage clotting assay to confirm the adequate factor VIII levels have been achieved and maintained [see Dosage and Administration (2)]. 
+ *    Monitor for the development of factor VIII inhibitors. Perform the Bethesda inhibitor assay to determine if factor VIII inhibitor is present. If expected factor VIII activity plasma levels are not attained, or if bleeding is not controlled with the expected dose of ADYNOVATE, use Bethesda Units (BU) to determine inhibitor levels. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

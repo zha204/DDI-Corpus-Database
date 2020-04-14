@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="viracept" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The safety of VIRACEPT was studied in over 5000 patients who received drug either alone or in combination with nucleoside analogues. The majority of adverse events were of mild intensity. The most frequently reported adverse event among patients receiving VIRACEPT was diarrhea, which was generally of mild to moderate intensity.
+
+
+
+ Drug-related clinical adverse experiences of moderate or severe intensity in &gt;= 2% of patients treated with VIRACEPT coadministered with d4T and 3TC (Study 542) for up to 48 weeks or with ZDV plus 3TC (Study 511) for up to 24 weeks are presented in Table 12.
+
+
+
+ Table 12 Percentage of Patients with Treatment-EmergentIncludes those adverse events at least possibly related to study drug or of unknown relationship and excludes concurrent HIV conditions Adverse Events of Moderate or Severe Intensity Reported in &gt;= 2% of Patients 
+                      Study 511    24 weeks      Study 542    48 weeks     
+ Adverse Events     Placebo+ ZDV/3TC(n=101)  500 mg TID VIRACEPT + ZDV/3TC(n=97)  750 mg TID VIRACEPT + ZDV/3TC(n=100)  1250 mg BID VIRACEPT + d4T/3TC(n=344)  750 mg TID VIRACEPT + d4T/3TC(n=210)   
+  
+ Digestive System                                                                                                 
+   Diarrhea                3%                14%               20%                20%                15%          
+   Nausea                  4%                3%                 7%                3%                 3%           
+   Flatulence              0                 5%                 2%                1%                 1%           
+ Skin/Appendages                                                                                                  
+   Rash                    1%                1%                 3%                2%                 1%           
+            Adverse events occurring in less than 2% of patients receiving VIRACEPT in all phase II/III clinical trials and considered at least possibly related or of unknown relationship to treatment and of at least moderate severity are listed below.
+ 
+
+   Body as a Whole  : abdominal pain, accidental injury, allergic reaction, asthenia, back pain, fever, headache, malaise, pain, and redistribution/accumulation of body fat (see  PRECAUTIONS, Fat Redistribution  ).
+
+
+
+   Digestive System  : anorexia, dyspepsia, epigastric pain, gastrointestinal bleeding, hepatitis, mouth ulceration, pancreatitis and vomiting.
+
+
+
+   Hemic/Lymphatic System  : anemia, leukopenia and thrombocytopenia.
+
+
+
+   Metabolic/Nutritional System  : increases in alkaline phosphatase, amylase, creatine phosphokinase, lactic dehydrogenase, SGOT, SGPT and gamma glutamyl transpeptidase; hyperlipemia, hyperuricemia, hyperglycemia, hypoglycemia, dehydration, and liver function tests abnormal.
+
+
+
+   Musculoskeletal System  : arthralgia, arthritis, cramps, myalgia, myasthenia and myopathy.
+
+
+
+   Nervous System  : anxiety, depression, dizziness, emotional lability, hyperkinesia, insomnia, migraine, paresthesia, seizures, sleep disorder, somnolence and suicide ideation.
+
+
+
+   Respiratory System  : dyspnea, pharyngitis, rhinitis, and sinusitis.
+
+
+
+   Skin/Appendages  : dermatitis, folliculitis, fungal dermatitis, maculopapular rash, pruritus, sweating, and urticaria.
+
+
+
+   Special Senses  : acute iritis and eye disorder.
+
+
+
+   Urogenital System  : kidney calculus, sexual dysfunction and urine abnormality.
+
+
+
+   Post-Marketing Experience
+
+  The following additional adverse experiences have been reported from postmarketing surveillance as at least possibly related or of unknown relationship to VIRACEPT:
+
+
+
+   Body as a Whole:  hypersensitivity reactions (including bronchospasm, moderate to severe rash, fever and edema).
+
+
+
+   Cardiovascular System:  QTc prolongation, torsades de pointes.
+
+
+
+   Digestive System  : jaundice.
+
+
+
+   Metabolic/Nutritional System:  bilirubinemia, metabolic acidosis.
+
+
+
+   Laboratory Abnormalities
+
+  The percentage of patients with marked laboratory abnormalities in Studies 542 and 511 are presented in Table 13. Marked laboratory abnormalities are defined as a Grade 3 or 4 abnormality in a patient with a normal baseline value or a Grade 4 abnormality in a patient with a Grade 1 abnormality at baseline.
+
+
+
+ Table 13 Percentage of Patients by Treatment Group With Marked Laboratory Abnormalities Marked laboratory abnormalities are defined as a shift from Grade 0 at baseline to at least Grade 3 or from Grade 1 to Grade 4 in &gt; 2% of Patients 
+                       Study 511          Study 542       
+                    Placebo+ ZDV/3TC(n=101)  500 mg TID VIRACEPT + ZDV/3TC(n=97)  750 mg TID VIRACEPT + ZDV/3TC(n=100)  1250 mg BID VIRACEPT + d4T/3TC(n=344)  750 mg TID VIRACEPT + d4T/3TC(n=210)   
+  
+ Hematology                                                                                                       
+   Hemoglobin              6%                3%                 2%                 0                  0           
+   Neutrophils             4%                3%                 5%                2%                 1%           
+   Lymphocytes             1%                6%                 1%                1%                  0           
+ Chemistry                                                                                                        
+   ALT (SGPT)              6%                1%                 1%                2%                 1%           
+   AST (SGOT)              4%                1%                 0                 2%                 1%           
+   Creatine Kinase         7%                2%                 2%                NA                 NA           
+              Pediatric Population
+   VIRACEPT has been studied in approximately 400 pediatric patients in clinical trials from birth to 13 years of age. The adverse event profile seen during pediatric clinical trials was similar to that for adults.
+
+
+
+ The most commonly reported drug-related, treatment-emergent adverse events reported in the pediatric studies included: diarrhea, leukopenia/neutropenia, rash, anorexia and abdominal pain. Diarrhea, regardless of assigned relationship to study drug, was reported in 39% to 47% of pediatric patients receiving VIRACEPT in 2 of the larger treatment trials. Leukopenia/neutropenia was the laboratory abnormality most commonly reported as a significant event across the pediatric studies.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

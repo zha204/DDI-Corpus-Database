@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d170">
+    <sentence id="DDI-DrugBank.d170.s0" text="Agents Affecting Cytochrome P450 3A4 Isoenzyme System Fentanyl is metabolized mainly via the human cytochrome P450 3A4 isoenzyme system (CYP3A4), therefore potential interactions may occur when DURAGESIC  is given concurrently with agents that affect CYP3A4 activity.">
+        <entity id="DDI-DrugBank.d170.s0.e0" charOffset="54-61"
+            type="drug" text="Fentanyl"/>
+        <entity id="DDI-DrugBank.d170.s0.e1" charOffset="194-202"
+            type="brand" text="DURAGESIC"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d170.s1" text="Coadminstration with agents that induce 3A4 activity may reduce the efficacy of DURAGESIC .">
+        <entity id="DDI-DrugBank.d170.s1.e0" charOffset="80-88"
+            type="brand" text="DURAGESIC"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d170.s2" text="The concomitant use of transdermal fentanyl with ritonavir or other potent 3A4 inhibitors such as ketoconazole, itraconazole, troleandomycin, clarithromycin, nelfinavir, and nefazadone may result in an increase in fentanyl plasma concentrations.">
+        <entity id="DDI-DrugBank.d170.s2.e0" charOffset="35-42"
+            type="drug" text="fentanyl"/>
+        <entity id="DDI-DrugBank.d170.s2.e1" charOffset="49-57"
+            type="drug" text="ritonavir"/>
+        <entity id="DDI-DrugBank.d170.s2.e2" charOffset="98-109"
+            type="drug" text="ketoconazole"/>
+        <entity id="DDI-DrugBank.d170.s2.e3" charOffset="112-123"
+            type="drug" text="itraconazole"/>
+        <entity id="DDI-DrugBank.d170.s2.e4" charOffset="126-139"
+            type="drug" text="troleandomycin"/>
+        <entity id="DDI-DrugBank.d170.s2.e5" charOffset="142-155"
+            type="drug" text="clarithromycin"/>
+        <entity id="DDI-DrugBank.d170.s2.e6" charOffset="158-167"
+            type="drug" text="nelfinavir"/>
+        <entity id="DDI-DrugBank.d170.s2.e7" charOffset="214-221"
+            type="drug" text="fentanyl"/>
+        <ddi id="DDI-DrugBank.d170.s2.d0" e1="DDI-DrugBank.d170.s2.e0"
+            e2="DDI-DrugBank.d170.s2.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d170.s2.d1" e1="DDI-DrugBank.d170.s2.e0"
+            e2="DDI-DrugBank.d170.s2.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d170.s2.d2" e1="DDI-DrugBank.d170.s2.e0"
+            e2="DDI-DrugBank.d170.s2.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d170.s2.d3" e1="DDI-DrugBank.d170.s2.e0"
+            e2="DDI-DrugBank.d170.s2.e4" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d170.s2.d4" e1="DDI-DrugBank.d170.s2.e0"
+            e2="DDI-DrugBank.d170.s2.e5" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d170.s2.d5" e1="DDI-DrugBank.d170.s2.e0"
+            e2="DDI-DrugBank.d170.s2.e6" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d170.s3" text="The concomitant use of other CYP3A4 inhibitors such as diltiazem and erythromycin with transdermal fentanyl may also result in an increase in fentanyl plasma concentrations, which could increase or prolong adverse drug effects and may cause serious respiratory depression.">
+        <entity id="DDI-DrugBank.d170.s3.e0" charOffset="55-63"
+            type="drug" text="diltiazem"/>
+        <entity id="DDI-DrugBank.d170.s3.e1" charOffset="69-80"
+            type="drug" text="erythromycin"/>
+        <entity id="DDI-DrugBank.d170.s3.e2" charOffset="99-106"
+            type="drug" text="fentanyl"/>
+        <entity id="DDI-DrugBank.d170.s3.e3" charOffset="142-149"
+            type="drug" text="fentanyl"/>
+        <ddi id="DDI-DrugBank.d170.s3.d0" e1="DDI-DrugBank.d170.s3.e0"
+            e2="DDI-DrugBank.d170.s3.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d170.s3.d1" e1="DDI-DrugBank.d170.s3.e1"
+            e2="DDI-DrugBank.d170.s3.e2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d170.s4" text="In this situation, special patient care and observation are appropriate."/>
+    <sentence id="DDI-DrugBank.d170.s5" text="Central Nervous System Depressants: The concomitant use of DURAGESIC  (fentanyl transdermal system) with other central nervous system depressants, including but not limited to other opioids, sedatives, hypnotics, tranquilizers (e.g., benzodiazepines), general anesthetics, phenothiazines, skeletal muscle relaxants, and alcohol, may cause respiratory depression, hypotension, and profound sedation, or potentially result in coma or death.">
+        <entity id="DDI-DrugBank.d170.s5.e0" charOffset="0-33"
+            type="group" text="Central Nervous System Depressants"/>
+        <entity id="DDI-DrugBank.d170.s5.e1" charOffset="59-67"
+            type="brand" text="DURAGESIC"/>
+        <entity id="DDI-DrugBank.d170.s5.e2" charOffset="71-78"
+            type="drug" text="fentanyl"/>
+        <entity id="DDI-DrugBank.d170.s5.e3" charOffset="111-144"
+            type="group" text="central nervous system depressants"/>
+        <entity id="DDI-DrugBank.d170.s5.e4" charOffset="182-188"
+            type="group" text="opioids"/>
+        <entity id="DDI-DrugBank.d170.s5.e5" charOffset="191-199"
+            type="group" text="sedatives"/>
+        <entity id="DDI-DrugBank.d170.s5.e6" charOffset="202-210"
+            type="group" text="hypnotics"/>
+        <entity id="DDI-DrugBank.d170.s5.e7" charOffset="213-225"
+            type="group" text="tranquilizers"/>
+        <entity id="DDI-DrugBank.d170.s5.e8" charOffset="234-248"
+            type="group" text="benzodiazepines"/>
+        <entity id="DDI-DrugBank.d170.s5.e9" charOffset="260-270"
+            type="group" text="anesthetics"/>
+        <entity id="DDI-DrugBank.d170.s5.e10" charOffset="273-286"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d170.s5.e11" charOffset="289-313"
+            type="group" text="skeletal muscle relaxants"/>
+        <entity id="DDI-DrugBank.d170.s5.e12" charOffset="320-326"
+            type="drug" text="alcohol"/>
+        <ddi id="DDI-DrugBank.d170.s5.d0" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d1" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d2" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d3" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d4" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d5" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d6" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e9" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d7" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e10" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d8" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e11" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d9" e1="DDI-DrugBank.d170.s5.e1"
+            e2="DDI-DrugBank.d170.s5.e12" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d10" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d11" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d12" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d13" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d14" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d15" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d16" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e9" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d17" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e10" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d18" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e11" type="effect"/>
+        <ddi id="DDI-DrugBank.d170.s5.d19" e1="DDI-DrugBank.d170.s5.e2"
+            e2="DDI-DrugBank.d170.s5.e12" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d170.s6" text="When such combined therapy is contemplated, the dose of one or both agents should be significantly reduced."/>
+    <sentence id="DDI-DrugBank.d170.s7" text="MAO Inhibitors: DURAGESIC  is not recommended for use in patients who have received MAOI within 14 days because severe and unpredictable potentiation by MAO inhibitors has been reported with opioid analgesics">
+        <entity id="DDI-DrugBank.d170.s7.e0" charOffset="0-13"
+            type="group" text="MAO Inhibitors"/>
+        <entity id="DDI-DrugBank.d170.s7.e1" charOffset="16-24"
+            type="brand" text="DURAGESIC"/>
+        <entity id="DDI-DrugBank.d170.s7.e2" charOffset="84-87"
+            type="group" text="MAOI"/>
+        <entity id="DDI-DrugBank.d170.s7.e3" charOffset="153-166"
+            type="group" text="MAO inhibitors"/>
+        <entity id="DDI-DrugBank.d170.s7.e4" charOffset="191-207"
+            type="group" text="opioid analgesics"/>
+        <ddi id="DDI-DrugBank.d170.s7.d0" e1="DDI-DrugBank.d170.s7.e1"
+            e2="DDI-DrugBank.d170.s7.e2" type="advise"/>
+        <ddi id="DDI-DrugBank.d170.s7.d1" e1="DDI-DrugBank.d170.s7.e3"
+            e2="DDI-DrugBank.d170.s7.e4" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d170.s8" text="."/>
+    <sentence id="DDI-DrugBank.d170.s9" text=""/>
+</document>

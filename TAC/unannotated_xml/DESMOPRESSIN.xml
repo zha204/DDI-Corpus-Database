@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="desmopressin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Infrequently, high dosages of intranasal Desmopressin Acetate have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported.
+
+
+
+ The following table lists the percent of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis.
+
+
+
+
+ ADVERSE REACTION                      PLACEBO(N=59)%        Desmopressin acetate 20 mcg(N=60)%  Desmopressin acetate 40 mcg(N=61)%   
+  
+ BODY AS A WHOLE                                                                                              
+   Abdominal Pain                             0                        2                       2              
+   Asthenia                                   0                        0                       2              
+   Chills                                     0                        0                       2              
+   Headache                                   0                        2                       5              
+ NERVOUS SYSTEM                                                                                               
+   Dizziness                                  0                        0                       3              
+ RESPIRATORY SYSTEM                                                                                           
+   Epistaxis                                  2                        3                       0              
+   Nostril Pain                               0                        2                       0              
+   Rhinitis                                   2                        8                       3              
+ DIGESTIVE SYSTEM                                                                                             
+   Gastrointestinal Disorder                  0                        2                       0              
+   Nausea                                     0                        0                       2              
+ SPECIAL SENSES                                                                                               
+   Conjunctivitis                             0                        2                       0              
+   Edema Eyes                                 0                        2                       0              
+   Lachrymation Disorder                      0                        0                       2              
+            Post Marketing
+   There have been rare reports of hyponatremia convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
+
+
+
+ See    WARNINGS    for the possibility of water intoxication and hyponatremia.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

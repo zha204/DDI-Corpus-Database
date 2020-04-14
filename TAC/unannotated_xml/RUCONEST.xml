@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ruconest" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The serious adverse reaction in clinical studies of RUCONEST was anaphylaxis.
+
+
+
+ The most common adverse reactions (&gt;= 2%) reported in all clinical trials were headache, nausea, and diarrhea.
+
+
+
+    EXCERPT:    *  The serious adverse reaction reported in clinical trials was anaphylactic reaction. (  6  ) 
+ *  The common adverse reactions (&gt;= 2%) reported in clinical trials were headache, nausea, and diarrhea. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Salix Pharmaceuticals, Inc. at 1-800-508-0024 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+    Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.  
+
+
+
+ The RUCONEST clinical development program evaluated a combined total of 940 administrations in 236 subjects (symptomatic and non-symptomatic). In clinical studies, a total of 205 symptomatic HAE patients received treatment with RUCONEST for a combined total of 650 acute angioedema attacks. Among these HAE patients, 83 were treated for a single HAE attack and 122 were treated for multiple attacks.
+
+
+
+ Three randomized, placebo-controlled clinical trials (RCTs) were conducted in which 137 patients experiencing acute HAE attacks received RUCONEST (either an initial 50 U/kg or 100 U/kg body weight dose) or placebo (saline solution).
+
+
+
+   Table 2  shows all adverse reactions (ARs) in the RCTs, compared with the placebo group.
+
+
+
+ Table 2. Adverse reactions occurring in &gt;= 2% of subjects in the three RCT studies 
+ * Includes 5 patients who received an additional 50 U/kg doseMedDRA: Medical Dictionary for Regulatory Activities, version 15.0.** Events only occurring in placebo patients are not listed   
+  
+  MedDRA Preferred Term          RUCONEST  100 U/kg (N=29)  n(%)    RUCONEST  50 U/kg* (N=66)  n(%)    Placebo**  (N=47)  n(%)    
+  Total number of patients with adverse reactions    4 (14%)                   6 (9%)                    13 (28%)                
+  Headache                       3 (10%)                   0                         2 (4%)                  
+  Sneezing                       0                         1 (2%)                    0                       
+  Angioedema                     1 (3%)                    0                         0                       
+  Erythema marginatum            0                         1 (2%)                    0                       
+  Skin burning sensation         0                         1 (2%)                    0                       
+  Back pain                      0                         2 (3%)                    0                       
+  C-reactive protein increased    0                         1 (2%)                    0                       
+  Fibrin D-dimer increased       0                         1 (2%)                    0                       
+  Vertigo                        1 (3%)                    0                         0                       
+  Procedural headache            0                         1 (2%)                    0                       
+  Lipoma                         0                         1 (2%)                    0                       
+            Integrated RCT and Open-Label Extension (OLE) Studies  
+ 
+
+ In a total of seven RCT and OLE studies, 205 patients experiencing acute HAE attacks were treated with RUCONEST for a total of 650 HAE attacks. Included in this population were 124 patients who were treated at the 50 U/kg dosage strength for one or more attacks.
+
+
+
+   Table 3  shows adverse reactions in &gt;= 2% of patients in any RUCONEST group for the integrated dataset combining all seven RCT and OLE studies in patients experiencing acute HAE attacks.
+
+
+
+ Table 3. Adverse reactions in the seven RCT and OLE studies occurring &gt;= 2% of RUCONEST-treated patients (all doses), irrespective of causality 
+ * RUCONEST doses: doses up to 100 U/kgMedDRA: Medical Dictionary for Regulatory Activities, version 15.0.   
+  
+  MedDRA Preferred Term           All RUCONEST doses* N=205  n(%)    
+  Headache                        19 (9%)                            
+  Nausea                          5 (2%)                             
+  Diarrhea                        5 (2%)                             
+          Immunogenicity  
+ 
+
+ As with all therapeutic proteins, there is potential for immunogenicity.  Pre- and post-exposure samples from 205 HAE patients treated for 650 acute attacks with RUCONEST were tested for the antibodies against plasma-derived C1INH or rhC1INH and for antibodies against host-related impurities (HRI).  Testing was performed prior to and after treatment of a first attack and subsequent repeated attacks at 7, 22 or 28, and 90 days after RUCONEST treatment.
+
+
+
+ Prior to the first exposure to RUCONEST, the frequency of anti-C1INH antibodies varied from 1.2% to 1.6% of samples.  After the first exposure, the frequency of anti-C1INH antibodies varied from 0.6% to 1.0% of samples tested.  After repeated exposures, the frequency of anti-C1INH antibodies varied from 0.5 to 2.2% of samples tested.  The frequency of anti-HRI antibodies was 1.0% in pre-exposure samples, and after the first exposure varied from 3.5% to 4.6%. After repeated exposure, the frequency of anti-HRI antibodies varied from 5.7% to 17% of samples. At least 10% of subjects formed a specific antibody response to RUCONEST after five treated HAE attacks.  No anti-C1INH neutralizing antibodies were detected. Observed anti-C1INH and anti-HRI antibodies were not associated with adverse clinical findings. 
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to RUCONEST with the incidence of antibodies to other products may be misleading.
+
+
+
+   Postmarketing Experience  
+
+
+
+ Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate the frequency of these reactions or establish a causal relationship to product exposure.
+
+
+
+ Adverse reactions in HAE patients receiving RUCONEST include abdominal pain and rash.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions, including anaphylaxis may occur. Should symptoms occur, discontinue RUCONEST and administer appropriate treatment. (  5.1  ) 
+ *  Serious arterial and venous thromboembolic (TE) events have been reported at the recommended dose of plasma derived C1 esterase inhibitor products in patients with risk factors. Monitor patients with known risk factors for TE events during and after RUCONEST administration. (  5.2  ) 
+    
+ 
+
+   5.1 Hypersensitivity
+
+
+
+  Severe hypersensitivity reactions may occur [see  Patient Counseling Information (17)  ].    The signs and symptoms of hypersensitivity reactions may include hives, generalized urticaria, tightness of the chest, wheezing, hypotension, and/or anaphylaxis during or after injection of RUCONEST. Should symptoms occur, discontinue RUCONEST and institute appropriate treatment.  Because hypersensitivity reactions may have symptoms similar to HAE attacks, treatment methods should be carefully considered. 
+
+
+
+    5.2 Thromboembolic Events
+
+
+
+  Serious arterial and venous thromboembolic (TE) events have been reported at the recommended dose of plasma derived C1 esterase inhibitor products in patients with risk factors.  Risk factors may include the presence of an indwelling venous catheter/access device, prior history of thrombosis, underlying atherosclerosis, use of oral contraceptives or certain androgens, morbid obesity, and immobility.  Monitor patients with known risk factors for TE events during and after RUCONEST administration.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

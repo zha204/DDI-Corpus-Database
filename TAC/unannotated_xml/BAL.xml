@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bal" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  One of the most consistent responses to Dimercaprol Injection USP is a rise in blood pressure accompanied by tachycardia. This rise is roughly proportional to the dose administered. Doses larger than those recommended may cause other transitory signs and symptoms in approximate order of frequency as follows: (1) nausea and, in some instance, vomiting; (2) headache; (3) a burning sensation in the lips, mouth and throat; (4) a feeling of constriction, even pain, in the throat, chest, or hands; (5) conjunctivitis, lacrimation, blepharal spasm, rhinorrhea, and salivation; (6) tingling of the hands; (7) a burning sensation in the penis; (8) sweating of the forehead, hands and other areas; (9) abdominal pain; and (10) occasional appearance of painful sterile abscesses. Many of the above symptoms are accompanied by a feeling of anxiety, weakness, and unrest and often are relieved by administration of antihistamine.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

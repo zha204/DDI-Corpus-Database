@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="human" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most serious adverse reactions are anaphylactic shock, heart failure and pulmonary edema. The most common adverse reactions are anaphylactoid type reactions.
+
+
+
+ Adverse reactions to Human Albumin Grifols 20% normally resolve when the infusion rate is slowed or the infusion is stopped. In case of severe reactions, the infusion is stopped and appropriate treatment initiated.
+
+
+
+   EXCERPT:   The most common adverse reactions are anaphylactoid type reactions. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Grifols Biologicals Inc. at 1-888-GRIFOLS (1-888-474-3657) or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  No clinical studies were done using Human Albumin Grifols 20%.
+
+
+
+   6.2 Post-marketing Experience
+
+    Because adverse reactions are reported voluntarily post-approval from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to product exposure. The following adverse reactions have been identified during post-approval use of human albumin, including Human Albumin Grifols (all strengths) in decreasing order of significance:  
+
+
+
+ *  Anaphylactic shock 
+ *  Heart failure 
+ *  Pulmonary edema 
+ *  Hypotension 
+ *  Tachycardia 
+ *  Vomiting 
+ *  Urticaria 
+ *  Rash 
+ *  Headache 
+ *  Chills 
+ *  Fever 
+ *  Flushing 
+ *  Nausea 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Suspicion of allergic or anaphylactic reactions requires immediate discontinuation of the injection and implementation of appropriate medical treatment. (  5.1  ) 
+ *  Hypervolemia may occur if the dosage and rate of infusion are not adjusted to the patient's volume status. Use with caution in conditions where hypervolemia and its consequences or hemodilution could represent a special risk to the patient. (  5.2  ) 
+ *  When concentrated albumin is administered, care must be taken to assure adequate hydration of the patient. (  5.3  ) 
+ *  Monitor electrolytes, coagulation and hematology parameters, and hemodynamic status when albumin is administered. (  5.4  ,  5.5  ,  5.6  ) 
+ *  Do not dilute with sterile water for injection. (  5.7  ) 
+ *  This product is made from human plasma and may contain infectious agents, e.g., viruses and, theoretically, the Creutzfeldt-Jakob disease agent. (  5.8  ) 
+    
+ 
+
+   5.1 Hypersensitivity
+
+
+
+    *  Suspicion of allergic or anaphylactic reactions requires immediate discontinuation of the infusion and implementation of appropriate medical treatment. 
+       5.2 Hypervolemia/Hemodilution
+ 
+
+  Hypervolemia may occur if the dosage and rate of infusion are not adjusted to the patient's volume status . At the first clinical signs of cardiovascular overload (headache, dyspnea, jugular venous distention, increased blood pressure), the infusion must be slowed or stopped immediately.
+
+
+
+ Use albumin with caution in conditions where hypervolemia and its consequences or hemodilution could represent a special risk to the patient. Examples of such conditions are:
+
+
+
+ *  Decompensated heart failure 
+ *  Hypertension 
+ *  Esophageal varices 
+ *  Pulmonary edema 
+ *  Hemorrhagic diathesis 
+ *  Severe anemia 
+ *  Renal and post-renal anuria 
+       5.3 Dehydration
+ 
+
+  The colloid-osmotic effect of human albumin 20% is approximately four times that of blood plasma. Therefore, when concentrated albumin is administered, care must be taken to assure adequate hydration of the patient. Patients should be monitored carefully to guard against circulatory overload and hyperhydration. Patients with marked dehydration require administration of additional fluids.
+
+
+
+    5.4 Electrolyte Imbalance
+
+
+
+  20% - 25% human albumin solutions are relatively low in electrolytes compared to 4% - 5% human albumin solutions. Monitor regularly the electrolyte status of the patient and take appropriate steps to restore or maintain the electrolyte balance when albumin is administered.
+
+
+
+    5.5 Coagulation Abnormalities
+
+
+
+  Regular monitoring of coagulation and hematology parameters is necessary if comparatively large volumes are to be replaced. Care must be taken to ensure adequate substitution of other blood constituents (coagulation factors, electrolytes, platelets and erythrocytes).
+
+
+
+    5.6 Laboratory Monitoring
+
+
+
+  Monitor regularly hemodynamic parameters during administration of Human Albumin Grifols 20%; this may include:
+
+
+
+ *  Arterial blood pressure and pulse rate 
+ *  Central venous pressure 
+ *  Pulmonary artery occlusion pressure 
+ *  Urine output 
+ *  Electrolytes 
+ *  Hematocrit/hemoglobin 
+       5.7 Application Precautions
+ 
+
+  Human Albumin Grifols 20% must not be diluted with sterile water for injection as this may cause hemolysis in recipients. The product can be diluted in an isotonic solution (e.g., 5% Dextrose in Water or 0.9% sodium chloride) [see Dosage and Administration  (  2.2  )].
+
+
+
+    5.8 Transmissible Infectious Agents
+
+
+
+  Albumin is a derivative of human blood. Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases. A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) is also considered extremely remote. No cases of transmission of viral diseases or CJD have ever been identified for Human Albumin Grifols 20%.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

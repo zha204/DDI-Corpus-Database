@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hexalen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Gastrointestinal  
+
+  With continuous high-dose daily HEXALEN  (r)  capsules, nausea and vomiting of gradual onset occur frequently. Although in most instances these symptoms are controllable with anti-emetics, at times the severity requires HEXALEN  (r)  capsules dose reduction or, rarely, discontinuation of HEXALEN  (r)  capsules therapy. In some instances, a tolerance of these symptoms develops after several weeks of therapy. The incidence and severity of nausea and vomiting are reduced with moderate-dose administration of HEXALEN  (r)  capsules. In 2 clinical studies of single-agent HEXALEN  (r)  capsules utilizing a moderate, intermittent dose and schedule, only 1 patient (1%) discontinued HEXALEN  (r)  capsules due to severe nausea and vomiting.
+
+
+
+     Neurotoxicity  
+
+  Peripheral neuropathy and central nervous system symptoms (mood disorders, disorders of consciousness, ataxia, dizziness, vertigo) have been reported. They are more likely to occur in patients receiving continuous high-dose daily HEXALEN  (r)  (altretamine) capsules than moderate-dose HEXALEN  (r)  capsules administered on an intermittent schedule. Neurologic toxicity has been reported to be reversible when therapy is discontinued. Data from a randomized trial of HEXALEN  (r)  capsules and cisplatin plus or minus pyridoxine in ovarian cancer indicated that pyridoxine significantly reduced neurotoxicity; however, it adversely affected response duration suggesting that pyridoxine should not be administered with HEXALEN  (r)  capsules and/or cisplatin (1).
+
+
+
+     Hematologic  
+
+  HEXALEN  (r)  capsules causes mild to moderate dose-related myelosuppression. Leukopenia below 3000 WBC/mm  3  occurred in &lt;15% of patients on a variety of intermittent or continuous dose regimens. Less than 1% had leukopenia below 1000 WBC/mm  3  . Thrombocytopenia below 50,000 platelets/mm  3  was seen in &lt;10% of patients. When given in doses of 8-12 mg/kg/day over a 21 day course, nadirs of leukocyte and platelet counts were reached by 3-4 weeks, and normal counts were regained by 6 weeks. With continuous administration at doses of 6-8 mg/kg/day, nadirs are reached in 6-8 weeks (median).
+
+
+
+ Data in the following table are based on the experience of 76 patients with ovarian cancer previously treated with a cisplatin-based combination regimen who received single-agent HEXALEN  (r)  capsules. In one study, HEXALEN  (r)  capsules, 260 mg/m  2  /day, was administered for 14 days of a 28 day cycle. In another study, HEXALEN  (r)  capsules, 6-8 mg/kg/day, was administered for 21 days of a 28 day cycle.
+
+
+
+ ADVERSE EXPERIENCES IN 76 PREVIOUSLY TREATED OVARIAN CANCER PATIENTS RECEIVING SINGLE-AGENT HEXALEN(r) CAPSULES 
+ Adverse Experiences                                                          % Patients                  
+  
+   Gastrointestinal  Nausea and Vomiting    Mild to Moderate    SevereIncreased Alkaline Phosphatase        33           32     19               
+   Neurologic  Peripheral Sensory Neuropathy    Mild    Moderate to SevereAnorexia and FatigueSeizures     31           22     91     1            
+   Hematologic  Leukopenia    WBC 2000-2999/mm  3      WBC &lt;2000/mm  3  Thrombocytopenia    Platelets 75,000-99,000/mm  3      Platelets &lt;75,000/mm  3  Anemia    Mild    Moderate to Severe  5          4     19          6     333           20       13   
+   Renal  Serum Creatinine 1.6-3.75 mg/dlBUN    25-40 mg%    41-60 mg%    &gt;60 mg%       7     9          5     3     1        
+        Additional adverse reaction information is available from 13 single-agent altretamine studies (total of 1014 patients) conducted under the auspices of the National Cancer Institute. The treated patients had a variety of tumors and many were heavily pretreated with other chemotherapies; most of these trials utilized high, continuous daily doses of altretamine (612 mg/kg/day). In general, adverse reaction experiences were similar in the two trials described above. Additional toxicities, not reported in the above table, included hepatic toxicity, skin rash, pruritus and alopecia, each occurring in &lt;1% of patients.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+WARNINGS
+
+
+
+  
+
+WARNINGS
+
+
+
+    *  HEXALEN(r) capsules should only be given under the supervision of a physician experienced in the use of antineoplastic agents. 
+ *  Peripheral blood counts should be monitored at least monthly, prior to the initiation of each course of HEXALEN(r) capsules, and as clinically indicated (see Adverse Reactions). 
+ *  Because of the possibility of HEXALEN(r) capsules-related neurotoxicity, neurologic examination should be performed regularly during HEXALEN(r) capsules administration (see Adverse Reactions). 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

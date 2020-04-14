@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="thallous" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    
+
+    ADVERSE REACTIONS:  Following the administration of Thallous Chloride Tl 201 Injection, adverse anaphylactoid reactions have been reported (characterized by cardiovascular, respiratory, and cutaneous symptoms), some severe enough to require treatment. Hypotension, pruritus, flushing and diffuse rash which responds to antihistamines have been reported. Other reported events include itching, nausea/vomiting, mild diarrhea, tremor, shortness of breath, chills, fever, conjunctivitis, sweating and blurred vision.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

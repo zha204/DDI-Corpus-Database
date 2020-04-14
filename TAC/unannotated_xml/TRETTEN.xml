@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tretten" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reactions reported in clinical trials (&gt;=1%), were headache, pain in the extremities, injection site pain, and increase in fibrin D dimer levels.
+
+
+
+   EXCERPT:   The most common adverse reactions reported in the clinical trials (&gt;=1%) were headache, pain in the extremities, injection site pain, D dimer increase.  (6)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Novo Nordisk Inc. at 1-844-873-8836 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ During clinical development, TRETTEN was administered to 77 patients with congenital factor XIII A-subunit deficiency (3:2, male: female ratio) for a total of 1990 doses. Fifty patients (65%) were between the ages of 18 and 77 years (received 1338 doses), 21 patients (27%) were between the ages of 6 and less than 18 years old (received 560 doses), and 6 patients (8%) were less than 6 years old (received 92 doses). Patients were exposed for up to 4.5 years.
+
+
+
+ Of the 77 patients, 68 received 1979 monthly doses of 35 IU/kg of TRETTEN for routine prophylaxis of bleeding. Eleven single doses of TRETTEN have been administered to nine patients for pharmacokinetic investigations.
+
+
+
+ The adverse drug reactions reported included headache, pain in the extremities, pain at the injection site, and increase in fibrin D dimer levels (without evidence of thromboembolic events).
+
+
+
+   Immunogenicity  
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to TRETTEN with the incidence of antibodies to other products may be misleading.
+
+
+
+ Low level, non-neutralizing antibodies were seen in four of the 77 patients with congenital FXIII A-subunit deficiency. They were all under the age of 18 years. Three of these patients discontinued from trial after development of antibodies. All four     patients received at least two     doses, with at least one dose given subsequent to the formation of the non-neutralizing antibodies. These antibodies were not found to be of clinical significance.
+
+
+
+ In another study including 50 healthy subjects (29 males, 21 females), who were given 2 doses of TRETTEN, one subject developed low-titer, transient non-neutralizing antibodies after receiving the first dose of TRETTEN. The antibodies had no inhibitory activity, and the antibodies disappeared in the 6-month follow up.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Discontinue if allergic or hypersensitivity reactions occur. (  5.1  ) 
+ *    Monitor patients for thrombosis. (  5.2  ) 
+ *    Analyze for neutralizing antibodies if FXIII activity fails to reach expected levels or if reduced therapeutic effect is observed. (  5.3  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  TRETTEN may cause allergic reactions. If signs or symptoms of anaphylaxis or hypersensitivity reactions (including urticaria, rash, tightness of the chest, wheezing, hypotension) occur, discontinue immediately and institute appropriate treatment.
+
+
+
+    5.2 Thromboembolic Risk
+
+
+
+  Thromboembolic complications may occur. Monitor patients with conditions that predispose to thrombosis for signs and symptoms of thrombosis after administration of TRETTEN.
+
+
+
+    5.3 Inhibitors
+
+
+
+  Inhibitory antibodies may occur with TRETTEN. Patients with inhibitory antibodies may manifest as an inadequate response to treatment. If expected plasma FXIII activity levels are not attained, or if breakthrough bleeding occurs while receiving prophylaxis, perform an assay that measures FXIII inhibitory antibody concentrations.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

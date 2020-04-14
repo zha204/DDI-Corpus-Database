@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="evoclin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (&gt;1%) are headache and application site reactions including burning, pruritus, and dryness. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Prestium Pharma, Inc. at 1-866-897-5002 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ A total of 439 subjects with mild to moderate acne vulgaris were treated once daily for 12 weeks with EVOCLIN Foam.
+
+
+
+ The incidence of adverse reactions occurring in &gt;=1% of the subjects in clinical trials comparing EVOCLIN Foam, and its vehicle is presented in Table 1.
+
+
+
+ Table 1: Adverse Reactions Occurring in &gt;=1% of Subjects 
+   Adverse Reactions                                Number (%) of Subjects    
+                                                    EVOCLIN Foam         Vehicle Foam     
+   N = 439                                          N = 154             
+   Headache                                         12 (3%)              1 (1%)           
+   Application site burning                         27 (6%)              14 (9%)          
+   Application site pruritus                        5 (1%)               5 (3%)           
+   Application site dryness                         4 (1%)               5 (3%)           
+   Application site reaction, not otherwise specified     3 (1%)               4 (3%)           
+         In a contact sensitization study, none of the 203 subjects developed evidence of allergic contact sensitization to EVOCLIN Foam.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of EVOCLIN Foam: application site pain, application site erythema, diarrhea, urticaria, abdominal pain, hypersensitivity, rash, abdominal discomfort, nausea, seborrhea, application site rash, dizziness, pain of skin, colitis (including pseudomembranous colitis), and hemorraghic diarrhea. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Abdominal pain and gastrointestinal disturbances, as well as gram-negative folliculitis, have also been reported in association with the use of topical formulations of clindamycin. Orally and parenterally administered clindamycin have been associated with severe colitis, which may end fatally.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Colitis: Clindamycin can cause severe colitis, which may result in death. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of clindamycin. EVOCLIN Foam should be discontinued if significant diarrhea occurs. (  5.1  ) 
+    
+ 
+
+   5.1 Colitis
+
+
+
+  Systemic absorption of clindamycin has been demonstrated following topical use of this product. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical clindamycin. If significant diarrhea occurs, EVOCLIN Foam should be discontinued. [ See Adverse Reactions (  6.2  ).  ]
+
+
+
+ Severe colitis has occurred following oral or parenteral administration of clindamycin with an onset of up to several weeks following cessation of therapy. Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen severe colitis. Severe colitis may result in death.
+
+
+
+ Studies indicate a toxin(s) produced by Clostridia  is one primary cause of antibiotic-associated colitis. The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus. Stool cultures for Clostridium difficile  and stool assay for C. difficile  toxin may be helpful diagnostically.
+
+
+
+    5.2 Irritation
+
+
+
+  EVOCLIN Foam can cause irritation. Concomitant topical acne thereapy should be used with caution since a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents. If irritation or dermatitis occurs, clindamycin should be discontinued.
+
+
+
+ Avoid contact of EVOCLIN Foam with eyes, mouth, lips, other mucous membranes or areas of broken skin. If contact occurs, rinse thoroughly with water.
+
+
+
+ EVOCLIN Foam should be prescribed with caution in atopic individuals.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

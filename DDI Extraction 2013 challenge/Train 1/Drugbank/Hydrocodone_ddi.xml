@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d396">
+    <sentence id="DDI-DrugBank.d396.s0" text="Patients receiving other narcotic analgesics, antipsychotics, antianxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone and acetaminophen tablets may exhibit an additive CNS depression.">
+        <entity id="DDI-DrugBank.d396.s0.e0" charOffset="25-43"
+            type="group" text="narcotic analgesics"/>
+        <entity id="DDI-DrugBank.d396.s0.e1" charOffset="46-59"
+            type="group" text="antipsychotics"/>
+        <entity id="DDI-DrugBank.d396.s0.e2" charOffset="62-79"
+            type="group" text="antianxiety agents"/>
+        <entity id="DDI-DrugBank.d396.s0.e3" charOffset="91-105"
+            type="group" text="CNS depressants"/>
+        <entity id="DDI-DrugBank.d396.s0.e4" charOffset="118-124"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d396.s0.e5" charOffset="146-156"
+            type="drug" text="hydrocodone"/>
+        <entity id="DDI-DrugBank.d396.s0.e6" charOffset="162-174"
+            type="drug" text="acetaminophen"/>
+        <ddi id="DDI-DrugBank.d396.s0.d0" e1="DDI-DrugBank.d396.s0.e0"
+            e2="DDI-DrugBank.d396.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d396.s0.d1" e1="DDI-DrugBank.d396.s0.e1"
+            e2="DDI-DrugBank.d396.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d396.s0.d2" e1="DDI-DrugBank.d396.s0.e2"
+            e2="DDI-DrugBank.d396.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d396.s0.d3" e1="DDI-DrugBank.d396.s0.e3"
+            e2="DDI-DrugBank.d396.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d396.s0.d4" e1="DDI-DrugBank.d396.s0.e4"
+            e2="DDI-DrugBank.d396.s0.e5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d396.s1" text="When combined therapy is contemplated, the dose of one or both agents should be reduced."/>
+    <sentence id="DDI-DrugBank.d396.s2" text="The use of MAO inhibitors or tricyclic antidepressants with hydrocodone preparations may increase the effect of either the antidepressant or hydrocodone.">
+        <entity id="DDI-DrugBank.d396.s2.e0" charOffset="11-24"
+            type="group" text="MAO inhibitors"/>
+        <entity id="DDI-DrugBank.d396.s2.e1" charOffset="29-53"
+            type="group" text="tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d396.s2.e2" charOffset="60-70"
+            type="drug" text="hydrocodone"/>
+        <entity id="DDI-DrugBank.d396.s2.e3" charOffset="123-136"
+            type="group" text="antidepressant"/>
+        <entity id="DDI-DrugBank.d396.s2.e4" charOffset="141-151"
+            type="drug" text="hydrocodone"/>
+        <ddi id="DDI-DrugBank.d396.s2.d0" e1="DDI-DrugBank.d396.s2.e0"
+            e2="DDI-DrugBank.d396.s2.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d396.s2.d1" e1="DDI-DrugBank.d396.s2.e1"
+            e2="DDI-DrugBank.d396.s2.e2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d396.s3" text="The concurrent use of anticholinergics with hydrocodone may produce paralytic ileus.">
+        <entity id="DDI-DrugBank.d396.s3.e0" charOffset="22-37"
+            type="group" text="anticholinergics"/>
+        <entity id="DDI-DrugBank.d396.s3.e1" charOffset="44-54"
+            type="drug" text="hydrocodone"/>
+        <ddi id="DDI-DrugBank.d396.s3.d0" e1="DDI-DrugBank.d396.s3.e0"
+            e2="DDI-DrugBank.d396.s3.e1" type="effect"/>
+    </sentence>
+</document>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="amphadase" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions have been identified during post-approval use of hyaluronidase products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The most frequently reported adverse reactions have been local injection site reactions.Hyaluronidase has been reported to enhance the adverse reactions associated with co-administered drug products. Edema has been reported most frequently in association with hypodermoclysis.Allergic reactions (urticaria, angioedema) have been reported in less than 0.1% of patients receiving hyaluronidase. Anaphylactic-like reactions following retrobulbar block or intravenous injections have occurred, rarely.
+
+
+
+   EXCERPT:   Allergic and anaphylactic-like reactions have been reported, rarely (6)  To report SUSPECTED ADVERSE REACTIONS, contact Amphastar Pharmaceuticals, Inc. at 1-800-423-4136 or FDA at 1-800-FDA-1088 or      www.fda.gov/medwatch.    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+        
+ 
+
+    EXCERPT:    Spread of Localized Infection (5.1)   Ocular Damage (5.2) Enzyme Inactivation with Intravenous Administration (5.3)
+ 
+
+ 
+
+
+
+   5.1 Spread of Localized Infection
+
+
+
+   Hyaluronidase should not be injected into or around an infected or acutely inflamed area because of the danger of spreading a localized infection.  Hyaluronidase should not be used to reduce the swelling of bites or stings.
+ 
+
+    5.2 Ocular Damage
+
+
+
+  Hyaluronidase should not be applied directly to the cornea.
+
+
+
+    5.3 Enzyme Inactivation with Intravenous Administration
+
+
+
+  Hyaluronidase should not be used for intravenous injections because the enzyme is rapidly inactivated.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

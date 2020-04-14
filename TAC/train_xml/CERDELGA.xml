@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cerdelga" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (&gt;=10%) are: fatigue, headache, nausea, diarrhea, back pain, pain in extremities, and upper abdominal pain (  6.1  )  To report SUSPECTED ADVERSE REACTIONS, contact Genzyme Corporation at 1-800-745-4447 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The most common adverse reactions to CERDELGA (occurring in &gt;=10% of the 126 GD1 patients treated with CERDELGA across Trials 1 and 2) were fatigue, headache, nausea, diarrhea, back pain, pain in extremities, and upper abdominal pain.
+
+
+
+ The adverse reaction profile of CERDELGA is based on two controlled studies, Trials 1 and 2. Table 1 presents the profile from the 9-month double-blind, randomized, placebo-controlled trial of 40 treatment-naive patients (Trial 1). Patients were between the ages of 16 and 63 on the date of the first dose of study drug, and included 20 males and 20 females.
+
+
+
+ Table 1: Adverse Reactions Occurring in &gt;=10% of Treatment-Naive GD1 Patients and More Frequently than Placebo (Trial 1) 
+                                                       CERDELGA(N=20)                Placebo(N=20)          
+ Adverse Reaction                                      Patientsn (%)                 Patientsn (%)          
+  
+   Arthralgia                                             9 ( 45)                       2 ( 10)             
+   Headache                                               8 ( 40)                       6 ( 30)             
+   Migraine                                               2 ( 10)                       0 ( 0)              
+   Flatulence                                             2 ( 10)                       1 ( 5)              
+   Nausea                                                 2 ( 10)                       1 ( 5)              
+   Oropharyngeal pain                                     2 ( 10)                       1 ( 5)              
+         Table 2 presents the profile from the 12-month open-label, randomized, imiglucerase-controlled trial of 159 treated patients switching from enzyme replacement therapy (ERT) (Trial 2). Patients were between the ages of 18 and 69 on the date of the first dose of CERDELGA, and included 87 females and 72 males.
+ 
+
+ Table 2: Adverse Reactions Occurring in &gt;=5% of GD1 Patients Switching from Enzyme Replacement Therapy to CERDELGA and More Frequently than Imiglucerase (Trial 2)Trial 2 was not designed to support comparative claims for CERDELGA for the adverse reactions reported in this table. 
+                                                      CERDELGA(N=106)             Imiglucerase(N=53)        
+ Adverse Reaction                                      Patientsn (%)                 Patientsn (%)          
+  
+ Fatigue                                                  15 ( 14)                      1 ( 2)              
+ Headache                                                 14 ( 13)                      1 ( 2)              
+ Nausea                                                   13 ( 12)                      0 ( 0)              
+ Diarrhea                                                 13 ( 12)                      2 ( 4)              
+ Back pain                                                13 ( 12)                      3 ( 6)              
+ Pain in extremity                                        12 ( 11)                      1 ( 2)              
+ Upper abdominal pain                                     11 ( 10)                      0 ( 0)              
+ Dizziness                                                 9 ( 8)                       0 ( 0)              
+ Asthenia                                                  9 ( 8)                       0 ( 0)              
+ Cough                                                     7 ( 7)                       2 ( 4)              
+ Dyspepsia                                                 7 ( 7)                       1 ( 2)              
+ Gastroesophageal reflux disease                           7 ( 7)                       0 ( 0)              
+ Constipation                                              5 ( 5)                       0 ( 0)              
+ Palpitations                                              5 ( 5)                       0 ( 0)              
+ Rash                                                      5 ( 5)                       0 ( 0)              
+         In an uncontrolled study, with up to 4 years of treatment, in 26 patients, the types and incidences of adverse reactions were similar to Trials 1 and 2.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  ECG Changes and Potential for Cardiac Arrhythmias: Not recommended in patients with pre-existing cardiac disease, long QT syndrome, and concomitant use of Class IA and Class III antiarrhythmics (  5.2  ) 
+    
+ 
+
+   5.1 Drug-Drug Interactions
+
+
+
+  Eliglustat is a CYP2D6 and CYP3A substrate. Drugs that inhibit CYP2D6 and CYP3A metabolism pathways may significantly increase the exposure to eliglustat and result in prolongation of the PR, QTc, and/or QRS cardiac intervals that could result in cardiac arrhythmias [see  Clinical Pharmacology (12.2)  ]  . Some drugs that are inhibitors of CYP2D6 and CYP3A are contraindicated with CERDELGA depending on the patient's CYP2D6 metabolizer status [see  Contraindications (4)  ]  . See  Table 3  and  Table 4  for other potentially significant drug interactions [see  Drug Interactions (7.1)  ]  .
+
+
+
+    5.2 ECG Changes and Potential for Cardiac Arrhythmias
+
+
+
+  Use of CERDELGA in patients with pre-existing cardiac conditions has not been studied during clinical trials. Because CERDELGA is predicted to cause increases in ECG intervals (PR, QTc, and QRS) at substantially elevated eliglustat plasma concentrations, use of CERDELGA is not recommended in patients with pre-existing cardiac disease (congestive heart failure, recent acute myocardial infarction, bradycardia, heart block, ventricular arrhythmia), long QT syndrome, and in combination with Class IA (e.g., quinidine, procainamide) and Class III (e.g., amiodarone, sotalol) antiarrhythmic medications [see  Clinical Pharmacology (12.2)  ]  .
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="85" len="7" str="fatigue" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="94" len="8" str="headache" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="104" len="6" str="nausea" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="112" len="8" str="diarrhea" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="122" len="9" str="back pain" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="133" len="19" str="pain in extremities" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="158" len="20" str="upper abdominal pain" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="776" len="7" str="fatigue" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="785" len="8" str="headache" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="795" len="6" str="nausea" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="803" len="8" str="diarrhea" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="813" len="9" str="back pain" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="824" len="19" str="pain in extremities" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="849" len="20" str="upper abdominal pain" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="1584" len="10" str="Arthralgia" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="1693" len="8" str="Headache" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="1802" len="8" str="Migraine" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="1911" len="10" str="Flatulence" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="2020" len="6" str="Nausea" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2129" len="18" str="Oropharyngeal pain" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="3060" len="7" str="Fatigue" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="3169" len="8" str="Headache" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="3278" len="6" str="Nausea" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="3387" len="8" str="Diarrhea" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="3496" len="9" str="Back pain" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="3714" len="20" str="Upper abdominal pain" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="3823" len="9" str="Dizziness" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="3932" len="8" str="Asthenia" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="4041" len="5" str="Cough" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="4150" len="9" str="Dyspepsia" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="4259" len="31" str="Gastroesophageal reflux disease" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="4368" len="12" str="Constipation" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="4477" len="12" str="Palpitations" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="4586" len="4" str="Rash" />
+    <Mention id="M35" section="S2" type="AdverseReaction" start="52" len="11" str="ECG Changes" />
+    <Mention id="M36" section="S2" type="Factor" start="68" len="9" str="Potential" />
+    <Mention id="M37" section="S2" type="AdverseReaction" start="82" len="19" str="Cardiac Arrhythmias" />
+    <Mention id="M38" section="S2" type="AdverseReaction" start="468,488,508" len="12,2,17" str="prolongation PR cardiac intervals" />
+    <Mention id="M39" section="S2" type="AdverseReaction" start="468,492,508" len="12,3,17" str="prolongation QTc cardiac intervals" />
+    <Mention id="M40" section="S2" type="AdverseReaction" start="468,504" len="12,21" str="prolongation QRS cardiac intervals" />
+    <Mention id="M41" section="S2" type="Factor" start="531" len="5" str="could" />
+    <Mention id="M42" section="S2" type="AdverseReaction" start="547" len="19" str="cardiac arrhythmias" />
+    <Mention id="M43" section="S2" type="AdverseReaction" start="1111,1139" len="26,2" str="increases in ECG intervals PR" />
+    <Mention id="M44" section="S2" type="AdverseReaction" start="1111,1143" len="26,3" str="increases in ECG intervals QTc" />
+    <Mention id="M45" section="S2" type="AdverseReaction" start="1111,1152" len="26,3" str="increases in ECG intervals QRS" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M37" arg2="M36" />
+    <Relation id="RL2" type="Hypothetical" arg1="M42" arg2="M41" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="fatigue">
+      <Normalization id="AR1.N1" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Reaction>
+    <Reaction id="AR2" str="headache">
+      <Normalization id="AR2.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR3" str="nausea">
+      <Normalization id="AR3.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR4" str="diarrhea">
+      <Normalization id="AR4.N1" meddra_pt="Diarrhoea" meddra_pt_id="10012735" meddra_llt="Diarrhea" meddra_llt_id="10012727" />
+    </Reaction>
+    <Reaction id="AR5" str="back pain">
+      <Normalization id="AR5.N1" meddra_pt="Back pain" meddra_pt_id="10003988" />
+    </Reaction>
+    <Reaction id="AR6" str="pain in extremities">
+      <Normalization id="AR6.N1" meddra_pt="Pain in extremity" meddra_pt_id="10033425" />
+    </Reaction>
+    <Reaction id="AR7" str="upper abdominal pain">
+      <Normalization id="AR7.N1" meddra_pt="Abdominal pain upper" meddra_pt_id="10000087" meddra_llt="Upper abdominal pain" meddra_llt_id="10046272" />
+    </Reaction>
+    <Reaction id="AR8" str="arthralgia">
+      <Normalization id="AR8.N1" meddra_pt="Arthralgia" meddra_pt_id="10003239" />
+    </Reaction>
+    <Reaction id="AR9" str="migraine">
+      <Normalization id="AR9.N1" meddra_pt="Migraine" meddra_pt_id="10027599" />
+    </Reaction>
+    <Reaction id="AR10" str="flatulence">
+      <Normalization id="AR10.N1" meddra_pt="Flatulence" meddra_pt_id="10016766" />
+    </Reaction>
+    <Reaction id="AR11" str="oropharyngeal pain">
+      <Normalization id="AR11.N1" meddra_pt="Oropharyngeal pain" meddra_pt_id="10068319" />
+    </Reaction>
+    <Reaction id="AR12" str="dizziness">
+      <Normalization id="AR12.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR13" str="asthenia">
+      <Normalization id="AR13.N1" meddra_pt="Asthenia" meddra_pt_id="10003549" />
+    </Reaction>
+    <Reaction id="AR14" str="cough">
+      <Normalization id="AR14.N1" meddra_pt="Cough" meddra_pt_id="10011224" />
+    </Reaction>
+    <Reaction id="AR15" str="dyspepsia">
+      <Normalization id="AR15.N1" meddra_pt="Dyspepsia" meddra_pt_id="10013946" />
+    </Reaction>
+    <Reaction id="AR16" str="gastroesophageal reflux disease">
+      <Normalization id="AR16.N1" meddra_pt="Gastrooesophageal reflux disease" meddra_pt_id="10017885" meddra_llt="Gastroesophageal reflux disease" meddra_llt_id="10066874" />
+    </Reaction>
+    <Reaction id="AR17" str="constipation">
+      <Normalization id="AR17.N1" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Reaction>
+    <Reaction id="AR18" str="palpitations">
+      <Normalization id="AR18.N1" meddra_pt="Palpitations" meddra_pt_id="10033557" />
+    </Reaction>
+    <Reaction id="AR19" str="rash">
+      <Normalization id="AR19.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR20" str="ecg changes">
+      <Normalization id="AR20.N1" meddra_pt="Electrocardiogram change" meddra_pt_id="10061116" meddra_llt="Change in ECG" meddra_llt_id="10008396" />
+    </Reaction>
+    <Reaction id="AR21" str="cardiac arrhythmias">
+      <Normalization id="AR21.N1" meddra_pt="Arrhythmia" meddra_pt_id="10003119" meddra_llt="Cardiac arrhythmia" meddra_llt_id="10007518" />
+    </Reaction>
+    <Reaction id="AR22" str="prolongation pr cardiac intervals">
+      <Normalization id="AR22.N1" meddra_pt="Electrocardiogram PR prolongation" meddra_pt_id="10053657" meddra_llt="Electrocardiogram PR interval prolonged" meddra_llt_id="10053655" />
+    </Reaction>
+    <Reaction id="AR23" str="prolongation qtc cardiac intervals">
+      <Normalization id="AR23.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR24" str="prolongation qrs cardiac intervals">
+      <Normalization id="AR24.N1" meddra_pt="Electrocardiogram QRS complex prolonged" meddra_pt_id="10014380" meddra_llt="QRS prolonged" meddra_llt_id="10037697" />
+    </Reaction>
+    <Reaction id="AR25" str="increases in ecg intervals pr">
+      <Normalization id="AR25.N1" meddra_pt="Electrocardiogram PR prolongation" meddra_pt_id="10053657" meddra_llt="Electrocardiogram PR interval prolonged" meddra_llt_id="10053655" />
+    </Reaction>
+    <Reaction id="AR26" str="increases in ecg intervals qtc">
+      <Normalization id="AR26.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR27" str="increases in ecg intervals qrs">
+      <Normalization id="AR27.N1" meddra_pt="Electrocardiogram QRS complex prolonged" meddra_pt_id="10014380" />
+    </Reaction>
+  </Reactions>
+</Label>

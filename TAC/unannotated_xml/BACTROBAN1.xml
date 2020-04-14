@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bactroban1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+
+
+ *    Systemic allergic reactions [see Warnings and Precautions (5.1)]  
+ *    Eye irritation [see Warnings and Precautions (5.2)]  
+ *    Local irritation [see Warnings and Precautions (5.3)]  
+ *     Clostridium difficile- associated diarrhea [see Warnings and Precautions (5.4)]  
+   *    The most frequent adverse reactions (at least 1% in US trials) were headache, rhinitis, respiratory disorders, pharyngitis, taste perversion, burning/stinging, cough, and pruritus. (  6.1  ) 
+      EXCERPT:   To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical trials, 210 domestic (US) and 2,130 foreign adult subjects received BACTROBAN nasal ointment. Less than 1% of domestic or foreign subjects in clinical trials were withdrawn due to adverse reactions.
+
+
+
+ The most frequently reported adverse reactions in foreign clinical trials were rhinitis (1%), taste perversion (0.8%), and pharyngitis (0.5%).
+
+
+
+ In domestic clinical trials, 17% (36 of 210) of adults treated with BACTROBAN nasal ointment reported adverse reactions thought to be at least possibly drug related. Table 1 shows the incidence of adverse reactions that were reported in at least 1% of adults enrolled in clinical trials conducted in the US.
+
+
+
+   Table 1. Adverse Reactions (&gt;=1% Incidence) - Adults in US Trials  
+
+
+
+
+  Adverse Reactions                         % of Subjects Experiencing Reactions  BACTROBAN Nasal Ointment  (n = 210)    
+  Headache                                  9%                                                  
+  Rhinitis                                  6%                                                  
+  Respiratory disorder, including  upper respiratory tract congestion    5%                                                  
+  Pharyngitis                               4%                                                  
+  Taste perversion                          3%                                                  
+  Burning/stinging                          2%                                                  
+  Cough                                     2%                                                  
+  Pruritus                                  1%                                                  
+        The following adverse reactions possibly drug related were reported in less than 1% of adults enrolled in domestic clinical trials: blepharitis, diarrhea, dry mouth, ear pain, epistaxis, nausea, and rash.
+ 
+
+   6.2 Postmarketing Experience
+
+  In addition to adverse reactions reported from clinical trials, the following reactions have been identified during postmarketing use of BACTROBAN nasal ointment. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal relationship to BACTROBAN nasal ointment.
+
+
+
+   Immune System Disorders  
+
+
+
+ Systemic allergic reactions, including anaphylaxis, urticaria, angioedema, and generalized rash  [see Warnings and Precautions (5.1)]  .
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Severe Allergic Reactions: Including anaphylaxis, urticaria, angioedema, and generalized rash have been reported in patients treated with formulations of BACTROBAN. (  5.1  ) 
+ *    Eye Irritation: Avoid contact with eyes. (  5.2  ) 
+ *    Local Irritation: Discontinue in the event of sensitization or severe local irritation. (  5.3  ) 
+ *     Clostridium difficile- associated Diarrhea (CDAD): If diarrhea occurs, evaluate patients for CDAD. (  5.4  ) 
+ *    Potential for Microbial Overgrowth: Prolonged use may result in overgrowth of nonsusceptible microorganisms, including fungi. (  5.5  ) 
+    
+ 
+
+   5.1 Severe Allergic Reactions
+
+
+
+  Systemic allergic reactions, including anaphylaxis, urticaria, angioedema, and generalized rash have been reported in patients treated with formulations of BACTROBAN [see Adverse Reactions (6.2)].  
+
+
+
+    5.2 Eye Irritation
+
+
+
+  Avoid contact with the eyes. In case of accidental contact, rinse well with water. Application of BACTROBAN nasal ointment to the eye under testing conditions has caused severe symptoms such as burning and tearing. These symptoms resolved within days to weeks after discontinuation of the ointment.
+
+
+
+    5.3 Local Irritation
+
+
+
+  In the event of a sensitization or severe local irritation from BACTROBAN nasal ointment, usage should be discontinued.
+
+
+
+    5.4 Clostridium difficile  -associated Diarrhea
+
+
+
+   Clostridium difficile  -associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including BACTROBAN nasal ointment, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile  .
+
+
+
+  C. difficile  produces toxins A and B which contribute to the development of CDAD. Hypertoxin-producing strains of C. difficile  cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial drug use. Careful medical history is necessary since CDAD has been reported to occur over 2 months after the administration of antibacterial agents.
+
+
+
+ If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile  may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile  , and surgical evaluation should be instituted as clinically indicated.
+
+
+
+    5.5 Potential for Microbial Overgrowth
+
+
+
+  As with other antibacterial products, prolonged use of BACTROBAN nasal ointment may result in overgrowth of nonsusceptible microorganisms, including fungi [see Dosage and Administration (2)]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

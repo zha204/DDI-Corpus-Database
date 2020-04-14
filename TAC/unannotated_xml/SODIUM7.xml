@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sodium7" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions involve the possibility of phosphorus intoxication. Phosphorus intoxication results in a reduction of serum calcium and the symptoms are those of hypocalcemic tetany. See WARNINGS.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

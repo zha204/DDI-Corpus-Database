@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ms" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The adverse reactions caused by morphine are essentially those observed with other opioid analgesics. They include the following major hazards: respiratory depression, apnea, and to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
+
+
+
+   Most Frequently Observed
+
+  Constipation, lightheadedness, dizziness, sedation, nausea, vomiting, sweating, dysphoria, and euphoria.
+
+
+
+ Some of these effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain. Some adverse reactions in ambulatory patients may be alleviated if the patient lies down.
+
+
+
+   Less Frequently Observed Reactions
+
+  Central Nervous System: Weakness, headache, agitation, tremor, uncoordinated muscle movements, seizure, alterations of mood (nervousness, apprehension, depression, floating feelings), dreams, muscle rigidity, transient hallucinations and disorientation, visual disturbances, insomnia, increased intracranial pressure
+
+
+
+ Gastrointestinal: Dry mouth, biliary tract spasm, laryngospasm, anorexia, diarrhea, cramps, taste alteration, constipation, ileus, intestinal obstruction, dyspepsia, increases in hepatic enzymes
+
+
+
+ Cardiovascular: Flushing of the face, chills, tachycardia, bradycardia, palpitation, faintness, syncope, hypotension, hypertension
+
+
+
+ Genitourinary: Urine retention or hesitance, amenorrhea, reduced libido and/or potency
+
+
+
+ Dermatologic: Pruritus, urticaria, other skin rashes, edema, diaphoresis
+
+
+
+ Other: Antidiuretic effect, paresthesia, bronchospasm, muscle tremor, blurred vision, nystagmus, diplopia, miosis, anaphylaxis
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+    *100 mg and 200 mg are for use in opioid-tolerant patients only   
+
+
+
+ 
+
+
+
+
+
+    BOXED WARNING: WARNING:
+
+  WARNING:
+
+    MS CONTIN contains morphine sulfate, an opioid agonist and a Schedule II controlled substance, with an abuse liability similar to other opioid analgesics.  
+
+
+
+   Morphine can be abused in a manner similar to other opioid agonists, legal or illicit. This should be considered when prescribing or dispensing MS CONTIN in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.  
+
+
+
+   MS CONTIN Tablets are a controlled-release oral formulation of morphine sulfate indicated for the management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.  
+
+
+
+   MS CONTIN Tablets are NOT intended for use as a prn analgesic.  
+
+
+
+   MS CONTIN 100 and 200 mg Tablets ARE FOR USE IN OPIOID-TOLERANT PATIENTS ONLY. These tablet strengths may cause fatal respiratory depression when administered to patients not previously exposed to opioids.   
+
+
+
+   MS CONTIN TABLETS ARE TO BE SWALLOWED WHOLE AND ARE NOT TO BE BROKEN, CHEWED, DISSOLVED, OR CRUSHED. TAKING BROKEN, CHEWED, DISSOLVED, OR CRUSHED MS CONTIN TABLETS LEADS TO RAPID RELEASE AND ABSORPTION OF A POTENTIALLY FATAL DOSE OF MORPHINE.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

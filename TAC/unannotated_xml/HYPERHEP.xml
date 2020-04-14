@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hyperhep" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  Local pain and tenderness at the injection site, urticaria and angioedema may occur; anaphylactic reactions, although rare, have been reported following the injection of human immune globulin preparations.  [19]  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

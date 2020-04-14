@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="jetrea" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6  ADVERSE REACTIONS
+
+  The following adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *    Decreased Vision [see Warnings and Precautions  (5.1)  ]  
+ *    Intravitreal Injection Procedure Associated Effects [see Warnings and Precautions  (5.2)  and Dosage and Administration  (2.4)  ]  
+ *    Potential for Lens Subluxation [see Warnings and Precautions  (5.3)  ]  
+ *    Retinal Breaks [see Warnings and Precautions  (5.4)  and Dosage and Administration  (2.4)  ]  
+   *  The most commonly reported reactions (&gt;= 5%) in patients treated with JETREA were vitreous floaters, conjunctival hemorrhage, eye pain, photopsia, blurred vision, macular hole, reduced visual acuity, visual impairment, and retinal edema.  (6.1)   
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact ThromboGenics Inc. at 1-855-253-7396 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
+
+
+
+ Approximately 800 patients have been treated with an intravitreal injection of JETREA. Of these, 465 patients received an intravitreal injection of ocriplasmin 0.125 mg (187 patients received vehicle) in the 2 vehicle-controlled studies (Study 1 and Study 2).
+
+
+
+ The most common adverse reactions (incidence 5% - 20% listed in descending order of frequency) in the vehicle-controlled clinical studies were: vitreous floaters, conjunctival hemorrhage, eye pain, photopsia, blurred vision, macular hole, reduced visual acuity, visual impairment, and retinal edema.
+
+
+
+ Less common adverse reactions observed in the studies at a frequency of 2% - &lt; 5% in patients treated with JETREA included macular edema, increased intraocular pressure, anterior chamber cell, photophobia, vitreous detachment, ocular discomfort, iritis, cataract, dry eye, metamorphopsia, conjunctival hyperemia, and retinal degeneration.
+
+
+
+ Dyschromatopsia was reported in 2% of patients injected with JETREA, with the majority of cases reported from two uncontrolled clinical studies. In approximately half of these dyschromatopsia cases there were also electroretinographic (ERG) changes reported (a- and b-wave amplitude decrease).
+
+
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is potential for immunogenicity. Immunogenicity for this product has not been evaluated.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5  WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Decreases in vision due to progression of the condition with traction may occur requiring surgical intervention. Patients should be monitored and instructed to report any symptoms without delay.  (5.1)   
+ *  Intravitreal injection procedure associated effects (intraocular inflammation/infection, intraocular hemorrhage and increased IOP) may occur following an intravitreal injection. Patients should be monitored and instructed to report any symptoms without delay.  (5.2)   
+ *  Potential for lens subluxation.  (5.3)   
+    
+ 
+
+   5.1 Decreased Vision
+
+
+
+  A decrease of &gt;= 3 line of best corrected visual acuity (BCVA) was experienced by 5.6% of patients treated with JETREA and 3.2% of patients treated with vehicle in the controlled trials [see Clinical Studies  (14)  ]  .
+
+
+
+ The majority of these decreases in vision were due to progression of the condition with traction and many required surgical intervention. Patients should be monitored appropriately [see Dosage and Administration  (2.4)  ]  .
+
+
+
+    5.2 Intravitreal Injection Procedure Associated Effects
+
+
+
+  Intravitreal injections are associated with intraocular inflammation / infection, intraocular hemorrhage and increased intraocular pressure (IOP). In the controlled trials, intraocular inflammation occurred in 7.1% of patients injected with JETREA vs. 3.7% of patients injected with vehicle. Most of the post-injection intraocular inflammation events were mild and transient. Intraocular hemorrhage occurred in 2.4% vs. 3.7% of patients injected with JETREA vs. vehicle, respectively. Increased intraocular pressure occurred in 4.1% vs. 5.3% of patients injected with JETREA vs. vehicle, respectively.
+
+
+
+    5.3 Potential for Lens Subluxation
+
+
+
+  One case of lens subluxation was reported in a premature infant who received an intravitreal injection of 0.175 mg (1.4 times higher than the recommended dose) [see Pediatric Use  (8.4)  ]  . Lens subluxation was observed in three animal species (monkey, rabbit, minipig) following a single intravitreal injection that achieved vitreous concentrations of ocriplasmin 1.4 times higher than achieved with the recommended treatment dose. Administration of a second intravitreal dose in monkeys, 28 days apart, produced lens subluxation in 100% of the treated eyes [see Nonclinical Toxicology  (13.2)  ]  .
+
+
+
+    5.4 Retinal Breaks
+
+
+
+  In the controlled trials, the incidence of retinal detachment was 0.9% in the JETREA group and 1.6% in the vehicle group, while the incidence of retinal tear (without detachment) was 1.1% in the JETREA group and 2.7% in the vehicle group. Most of these events occurred during or after vitrectomy in both groups. The incidence of retinal detachment that occurred pre-vitrectomy was 0.4% in the JETREA group and none in the vehicle group, while the incidence of retinal tear (without detachment) that occurred pre-vitrectomy was none in the JETREA group and 0.5% in the vehicle group.
+
+
+
+    5.5 Dyschromatopsia
+
+
+
+  Dyschromatopsia (generally described as yellowish vision) was reported in 2% of all patients injected with JETREA. In approximately half of these dyschromatopsia cases there were also electroretinographic (ERG) changes reported (a- and b-wave amplitude decrease).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

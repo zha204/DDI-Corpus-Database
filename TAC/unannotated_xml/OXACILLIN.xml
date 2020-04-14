@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="oxacillin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Body as a Whole
+
+  The reported incidence of allergic reactions to penicillin ranges from 0.7 to 10 percent (see  WARNINGS  ). Sensitization is usually the result of treatment but some individuals have had immediate reactions when first treated. In such cases, it is thought that the patients may have had prior exposure to the drug via trace amounts present in milk and vaccines.
+
+
+
+ Two types of allergic reactions to penicillins are noted clinically, immediate and delayed.
+
+
+
+ Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death. Such immediate anaphylactic reactions are very rare (see  WARNINGS  ) and usually occur after parenteral therapy but have occurred in patients receiving oral therapy. Another type of immediate reaction, an accelerated reaction, may occur between 20 minutes and 48 hours after administration and may include urticaria, pruritus, and fever. Although laryngeal edema, laryngospasm, and hypotension occasionally occur, fatality is uncommon. Delayed allergic reactions to penicillin therapy usually occur after 48 hours and sometimes as late as 2 to 4 weeks after initiation of therapy. Manifestations of this type of reaction include serum sickness-like symptoms (  i.e.  , fever, malaise, urticaria, myalgia, arthralgia, abdominal pain) and various skin rashes. Nausea, vomiting, diarrhea, stomatitis, black or hairy tongue, and other symptoms of gastrointestinal irritation may occur, especially during oral penicillin therapy.
+
+
+
+   Nervous System Reactions
+
+  Neurotoxic reactions similar to those observed with penicillin G may occur with large intravenous doses of oxacillin, especially with patients with renal insufficiency.
+
+
+
+   Urogenital Reactions
+
+  Renal tubular damage and interstitial nephritis have been associated infrequently with the administration of oxacillin. Manifestations of this reaction may include rash, fever, eosinophilia, hematuria, proteinuria, and renal insufficiency.
+
+
+
+   Gastrointestinal Reactions
+
+  Pseudomembranous colitis has been reported with the use of oxacillin. The onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see  WARNINGS  ).
+
+
+
+   Metabolic Reactions
+
+  Hepatotoxicity, characterized by fever, nausea, and vomiting associated with abnormal liver function tests, mainly elevated SGOT levels, has been associated with the use of oxacillin.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

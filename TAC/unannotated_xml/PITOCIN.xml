@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="pitocin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been reported in the mother:
+
+
+
+
+ Anaphylactic reaction                               Premature ventricular contractions                   
+ Postpartum hemorrhage                               Pelvic hematoma                                      
+ Cardiac arrhythmia                                  Subarachnoid hemorrhage                              
+ Fatal afibrinogenemia                               Hypertensive episodes                                
+ Nausea                                              Rupture of the uterus                                
+ Vomiting                                                                                                 
+        Excessive dosage or hypersensitivity to the drug may result in uterine hypertonicity, spasm, tetanic contraction, or rupture of the uterus.
+ 
+
+ The possibility of increased blood loss and afibrinogenemia should be kept in mind when administering the drug.
+
+
+
+ Severe water intoxication with convulsions and coma has occurred, associated with a slow oxytocin infusion over a 24-hour period. Maternal death due to oxytocin-induced water intoxication has been reported.
+
+
+
+ The following adverse reactions have been reported in the fetus or neonate:
+
+
+
+
+ Due to induced uterine motility:                    Due to use of oxytocin in the mother:                
+   Bradycardia                                         Low Apgar scores at five minutes                   
+   Premature ventricular contractions and other arrhythmias    Neonatal jaundice                                  
+   Permanent CNS or brain damage                       Neonatal retinal hemorrhage                        
+   Fetal death                                                                                            
+   Neonatal seizures have been reported with the use of Pitocin.                                                       
+        For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: INDICATIONS AND USAGE
+
+  INDICATIONS AND USAGE
+
+    IMPORTANT NOTICE  
+
+  Elective induction of labor is defined as the initiation of labor in a pregnant individual who has no medical indications for induction. Since the available data are inadequate to evaluate the benefits-to-risks considerations, Pitocin is not indicated for elective induction of labor.
+
+
+
+   Antepartum
+
+  Pitocin is indicated for the initiation or improvement of uterine contractions, where this is desirable and considered suitable for reasons of fetal or maternal concern, in order to achieve vaginal delivery. It is indicated for (1) induction of labor in patients with a medical indication for the initiation of labor, such as Rh problems, maternal diabetes, preeclampsia at or near term, when delivery is in the best interests of mother and fetus or when membranes are prematurely ruptured and delivery is indicated; (2) stimulation or reinforcement of labor, as in selected cases of uterine inertia; (3) as adjunctive therapy in the management of incomplete or inevitable abortion. In the first trimester, curettage is generally considered primary therapy. In second trimester abortion, oxytocin infusion will often be successful in emptying the uterus. Other means of therapy, however, may be required in such cases. 
+
+
+
+   Postpartum
+
+  Pitocin is indicated to produce uterine contractions during the third stage of labor and to control postpartum bleeding or hemorrhage. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

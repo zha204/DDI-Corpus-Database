@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="prepidil" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  PREPIDIL Gel is generally well-tolerated. In controlled trials, in which 1731 women were entered, the following events were reported at an occurrence of &gt;= 1%:
+
+
+
+
+ Adverse Reaction                                          PGE2(N = 884)            Control(N = 847)        
+  
+ Maternal                                                      N (%)                      N (%)             
+   Uterine contractile abnormality                           58 (6.6)                   34 (4.0)            
+   Any gastrointestinal effect                               50 (5.7)                   22 (2.6)            
+   Back pain                                                 27 (3.1)                     0 (0)             
+   Warm feeling in vagina                                    13 (1.5)                     0 (0)             
+   Fever                                                     12 (1.4)                   10 (1.2)            
+ Fetal                                                                                                      
+   Any fetal heart rate abnormality                         150 (17.0)                 123 (14.5)           
+   Bradycardia                                               36 (4.1)                   26 (3.1)            
+   Deceleration                                                                                             
+     Late                                                    25 (2.8)                   18 (2.1)            
+     Variable                                                38 (4.3)                   29 (3.4)            
+     Unspecified                                             19 (2.1)                   19 (2.2)            
+         In addition, in other trials amnionitis and intrauterine fetal sepsis have been associated with extra-amniotic intrauterine administration of PGE2. Uterine rupture has been reported in association with the use of PREPIDIL Gel intracervically. Additional events reported in the literature, associated by the authors with the use of PREPIDIL Gel, included premature rupture of membranes, fetal depression (1 min Apgar &lt; 7), and fetal acidosis (umbilical artery pH &lt; 7.15).
+ 
+
+   Post-marketing surveillance
+
+  Blood and lymphatic system disorders
+
+  An increased risk of post-partum disseminated intravascular coagulation has been described in patients whose labor was induced by pharmacological means, either with dinoprostone or oxytocin (see section    WARNINGS  )  . The frequency of this adverse event, however, appears to be rare (&lt;1 per 1,000 labors).
+
+
+
+   Immune system disorders
+
+  Hypersensitivity reactions (e.g., Anaphylactic reaction, Anaphylactic shock, Anaphylactoid reaction).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

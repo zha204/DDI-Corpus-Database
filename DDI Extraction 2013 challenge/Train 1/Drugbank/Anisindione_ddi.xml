@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d64">
+    <sentence id="DDI-DrugBank.d64.s0" text="Addition or deletion of any drug from the therapeutic regimen of patients receiving oral anticoagulants may affect patient response to the anticoagulant.">
+        <entity id="DDI-DrugBank.d64.s0.e0" charOffset="89-102"
+            type="group" text="anticoagulants"/>
+        <entity id="DDI-DrugBank.d64.s0.e1" charOffset="139-151"
+            type="group" text="anticoagulant"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s1" text="Frequent determination of prothrombin time and close monitoring of the patient is essential to ascertain when adjustment of dosage of anticoagulant may be needed.">
+        <entity id="DDI-DrugBank.d64.s1.e0" charOffset="134-146"
+            type="group" text="anticoagulant"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s2" text="Because of the variability of individual patient response, multiple interacting mechanisms with some drugs, the dependency of the extent of the interaction on the dosage and duration of therapy, and the possible administration of several interacting drugs simultaneously, it is difficult to predict the direction and degree of the ultimate effect of concomitant medications on anticoagulant response.">
+        <entity id="DDI-DrugBank.d64.s2.e0" charOffset="377-389"
+            type="group" text="anticoagulant"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s3" text="For example, since cholestyramine may reduce the gastrointestinal absorption of both the oral anticoagulants and vitamin K, the net effects are unpredictable.">
+        <entity id="DDI-DrugBank.d64.s3.e0" charOffset="19-32"
+            type="drug" text="cholestyramine"/>
+        <entity id="DDI-DrugBank.d64.s3.e1" charOffset="94-107"
+            type="group" text="anticoagulants"/>
+        <entity id="DDI-DrugBank.d64.s3.e2" charOffset="113-121"
+            type="group" text="vitamin K"/>
+        <ddi id="DDI-DrugBank.d64.s3.d0" e1="DDI-DrugBank.d64.s3.e0"
+            e2="DDI-DrugBank.d64.s3.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d64.s3.d1" e1="DDI-DrugBank.d64.s3.e0"
+            e2="DDI-DrugBank.d64.s3.e2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s4" text="Chloral hydrate may cause an increased prothrombin response by displacing the anticoagulant from protein binding sites or a diminished prothrombin response through increased metabolism of the unbound drug by hepatic enzyme induction, thus leading to inter-patient variation in ultimate prothrombin effect.">
+        <entity id="DDI-DrugBank.d64.s4.e0" charOffset="0-14"
+            type="drug" text="Chloral hydrate"/>
+        <entity id="DDI-DrugBank.d64.s4.e1" charOffset="78-90"
+            type="group" text="anticoagulant"/>
+        <ddi id="DDI-DrugBank.d64.s4.d0" e1="DDI-DrugBank.d64.s4.e0"
+            e2="DDI-DrugBank.d64.s4.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s5" text="An interacting drug which leads to a decrease in prothrombin time necessitating an increased dose of oral anticoagulant to maintain an adequate degree of anticoagulation may, if abruptly discontinued, increase the risk of subsequent bleeding.">
+        <entity id="DDI-DrugBank.d64.s5.e0" charOffset="106-118"
+            type="group" text="anticoagulant"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s6" text="Drugs that have been reported to diminish oral anticoagulant response, ie, decreased prothrom-bin time response, in man significantly include: adrenocortical steroids;">
+        <entity id="DDI-DrugBank.d64.s6.e0" charOffset="47-59"
+            type="group" text="anticoagulant"/>
+        <entity id="DDI-DrugBank.d64.s6.e1" charOffset="143-165"
+            type="group" text="adrenocortical steroids"/>
+        <ddi id="DDI-DrugBank.d64.s6.d0" e1="DDI-DrugBank.d64.s6.e0"
+            e2="DDI-DrugBank.d64.s6.e1" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s7" text="alcohol*;">
+        <entity id="DDI-DrugBank.d64.s7.e0" charOffset="0-6" type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s8" text="antacids;">
+        <entity id="DDI-DrugBank.d64.s8.e0" charOffset="0-7"
+            type="group" text="antacids"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s9" text="antihistamines;">
+        <entity id="DDI-DrugBank.d64.s9.e0" charOffset="0-13"
+            type="group" text="antihistamines"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s10" text="barbiturates;">
+        <entity id="DDI-DrugBank.d64.s10.e0" charOffset="0-11"
+            type="group" text="barbiturates"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s11" text="carbamazepine;">
+        <entity id="DDI-DrugBank.d64.s11.e0" charOffset="0-12"
+            type="drug" text="carbamazepine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s12" text="chloral hydrate*;">
+        <entity id="DDI-DrugBank.d64.s12.e0" charOffset="0-14"
+            type="drug" text="chloral hydrate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s13" text="chlordiazepoxide;">
+        <entity id="DDI-DrugBank.d64.s13.e0" charOffset="0-15"
+            type="drug" text="chlordiazepoxide"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s14" text="cholestyramine;">
+        <entity id="DDI-DrugBank.d64.s14.e0" charOffset="0-13"
+            type="drug" text="cholestyramine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s15" text="diet high in vitamin K;">
+        <entity id="DDI-DrugBank.d64.s15.e0" charOffset="13-21"
+            type="group" text="vitamin K"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s16" text="diuretics*;">
+        <entity id="DDI-DrugBank.d64.s16.e0" charOffset="0-8"
+            type="group" text="diuretics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s17" text="ethchlorvynol;">
+        <entity id="DDI-DrugBank.d64.s17.e0" charOffset="0-12"
+            type="drug" text="ethchlorvynol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s18" text="glutethimide;">
+        <entity id="DDI-DrugBank.d64.s18.e0" charOffset="0-11"
+            type="drug" text="glutethimide"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s19" text="griseofulvin;">
+        <entity id="DDI-DrugBank.d64.s19.e0" charOffset="0-11"
+            type="drug" text="griseofulvin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s20" text="haloperidol;">
+        <entity id="DDI-DrugBank.d64.s20.e0" charOffset="0-10"
+            type="drug" text="haloperidol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s21" text="meprobamate;">
+        <entity id="DDI-DrugBank.d64.s21.e0" charOffset="0-10"
+            type="drug" text="meprobamate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s22" text="oral contraceptives;">
+        <entity id="DDI-DrugBank.d64.s22.e0" charOffset="5-18"
+            type="group" text="contraceptives"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s23" text="paraldehyde;">
+        <entity id="DDI-DrugBank.d64.s23.e0" charOffset="0-10"
+            type="drug" text="paraldehyde"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s24" text="primidone;">
+        <entity id="DDI-DrugBank.d64.s24.e0" charOffset="0-8"
+            type="drug" text="primidone"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s25" text="ranitidine*;">
+        <entity id="DDI-DrugBank.d64.s25.e0" charOffset="0-9"
+            type="drug" text="ranitidine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s26" text="rifampin;">
+        <entity id="DDI-DrugBank.d64.s26.e0" charOffset="0-7"
+            type="drug" text="rifampin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s27" text="unreliable prothrombin time determinations;"/>
+    <sentence id="DDI-DrugBank.d64.s28" text="vitamin C;">
+        <entity id="DDI-DrugBank.d64.s28.e0" charOffset="0-8"
+            type="drug" text="vitamin C"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s29" text="Drugs that have been reported to diminish oral anticoagulant response, ie, decreased prothrom-bin time response, in man significantly include: adrenocortical steroids;alcohol*;antacids;antihistamines;barbiturates;carbamazepine;chloral hydrate*;chlordiazepoxide;cholestyramine;diet high in vitamin K;diuretics*;ethchlorvynol;glutethimide;griseofulvin;haloperidol;meprobamate;oral contraceptives;paraldehyde;primidone;ranitidine*;rifampin;unreliable prothrombin time determinations;vitamin C;warfarin sodium under-dosage.">
+        <entity id="DDI-DrugBank.d64.s29.e0" charOffset="47-59"
+            type="group" text="anticoagulant"/>
+        <entity id="DDI-DrugBank.d64.s29.e1" charOffset="143-165"
+            type="group" text="adrenocortical steroids"/>
+        <entity id="DDI-DrugBank.d64.s29.e2" charOffset="167-173"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d64.s29.e3" charOffset="176-183"
+            type="group" text="antacids"/>
+        <entity id="DDI-DrugBank.d64.s29.e4" charOffset="185-198"
+            type="group" text="antihistamines"/>
+        <entity id="DDI-DrugBank.d64.s29.e5" charOffset="200-211"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d64.s29.e6" charOffset="213-225"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d64.s29.e7" charOffset="227-241"
+            type="drug" text="chloral hydrate"/>
+        <entity id="DDI-DrugBank.d64.s29.e8" charOffset="244-259"
+            type="drug" text="chlordiazepoxide"/>
+        <entity id="DDI-DrugBank.d64.s29.e9" charOffset="261-274"
+            type="drug" text="cholestyramine"/>
+        <entity id="DDI-DrugBank.d64.s29.e10" charOffset="289-297"
+            type="group" text="vitamin K"/>
+        <entity id="DDI-DrugBank.d64.s29.e11" charOffset="299-307"
+            type="group" text="diuretics"/>
+        <entity id="DDI-DrugBank.d64.s29.e12" charOffset="310-322"
+            type="drug" text="ethchlorvynol"/>
+        <entity id="DDI-DrugBank.d64.s29.e13" charOffset="324-335"
+            type="drug" text="glutethimide"/>
+        <entity id="DDI-DrugBank.d64.s29.e14" charOffset="337-348"
+            type="drug" text="griseofulvin"/>
+        <entity id="DDI-DrugBank.d64.s29.e15" charOffset="350-360"
+            type="drug" text="haloperidol"/>
+        <entity id="DDI-DrugBank.d64.s29.e16" charOffset="362-372"
+            type="drug" text="meprobamate"/>
+        <entity id="DDI-DrugBank.d64.s29.e17" charOffset="379-392"
+            type="group" text="contraceptives"/>
+        <entity id="DDI-DrugBank.d64.s29.e18" charOffset="394-404"
+            type="drug" text="paraldehyde"/>
+        <entity id="DDI-DrugBank.d64.s29.e19" charOffset="406-414"
+            type="drug" text="primidone"/>
+        <entity id="DDI-DrugBank.d64.s29.e20" charOffset="416-425"
+            type="drug" text="ranitidine"/>
+        <entity id="DDI-DrugBank.d64.s29.e21" charOffset="428-435"
+            type="drug" text="rifampin"/>
+        <entity id="DDI-DrugBank.d64.s29.e22" charOffset="480-488"
+            type="drug" text="vitamin C"/>
+        <entity id="DDI-DrugBank.d64.s29.e23" charOffset="490-504"
+            type="drug" text="warfarin sodium"/>
+        <ddi id="DDI-DrugBank.d64.s29.d0" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d1" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d2" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d3" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d4" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d5" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d6" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d7" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d8" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e9" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d9" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e10" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d10" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e11" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d11" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e12" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d12" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e13" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d13" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e14" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d14" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e15" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d15" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e16" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d16" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e17" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d17" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e18" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d18" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e19" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d19" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e20" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d20" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e21" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d21" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e22" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s29.d22" e1="DDI-DrugBank.d64.s29.e0"
+            e2="DDI-DrugBank.d64.s29.e23" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s30" text="Drugs that reportedly may increase oral anticoagulant response, ie, increased prothrombin response, in man include:alcohol*;">
+        <entity id="DDI-DrugBank.d64.s30.e0" charOffset="40-52"
+            type="group" text="anticoagulant"/>
+        <entity id="DDI-DrugBank.d64.s30.e1" charOffset="115-121"
+            type="drug" text="alcohol"/>
+        <ddi id="DDI-DrugBank.d64.s30.d0" e1="DDI-DrugBank.d64.s30.e0"
+            e2="DDI-DrugBank.d64.s30.e1" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s31" text="allopurinol;">
+        <entity id="DDI-DrugBank.d64.s31.e0" charOffset="0-10"
+            type="drug" text="allopurinol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s32" text="aminosalicylic acid;">
+        <entity id="DDI-DrugBank.d64.s32.e0" charOffset="0-18"
+            type="drug" text="aminosalicylic acid"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s33" text="amiodarone;">
+        <entity id="DDI-DrugBank.d64.s33.e0" charOffset="0-9"
+            type="drug" text="amiodarone"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s34" text="anabolic steroids;">
+        <entity id="DDI-DrugBank.d64.s34.e0" charOffset="0-16"
+            type="group" text="anabolic steroids"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s35" text="antibiotics;">
+        <entity id="DDI-DrugBank.d64.s35.e0" charOffset="0-10"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s36" text="bromelains;">
+        <entity id="DDI-DrugBank.d64.s36.e0" charOffset="0-9"
+            type="drug" text="bromelains"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s37" text="chloral hydrate*;">
+        <entity id="DDI-DrugBank.d64.s37.e0" charOffset="0-14"
+            type="drug" text="chloral hydrate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s38" text="chlorpropamide;">
+        <entity id="DDI-DrugBank.d64.s38.e0" charOffset="0-13"
+            type="drug" text="chlorpropamide"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s39" text="chymotrypsin;">
+        <entity id="DDI-DrugBank.d64.s39.e0" charOffset="0-11"
+            type="drug" text="chymotrypsin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s40" text="cimetidine;">
+        <entity id="DDI-DrugBank.d64.s40.e0" charOffset="0-9"
+            type="drug" text="cimetidine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s41" text="cinchophen;">
+        <entity id="DDI-DrugBank.d64.s41.e0" charOffset="0-9"
+            type="drug" text="cinchophen"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s42" text="clofibrate;">
+        <entity id="DDI-DrugBank.d64.s42.e0" charOffset="0-9"
+            type="drug" text="clofibrate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s43" text="dextran;">
+        <entity id="DDI-DrugBank.d64.s43.e0" charOffset="0-6"
+            type="drug" text="dextran"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s44" text="dextrothyroxine;">
+        <entity id="DDI-DrugBank.d64.s44.e0" charOffset="0-14"
+            type="drug" text="dextrothyroxine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s45" text="diazoxide;">
+        <entity id="DDI-DrugBank.d64.s45.e0" charOffset="0-8"
+            type="drug" text="diazoxide"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s46" text="dietary deficiencies;"/>
+    <sentence id="DDI-DrugBank.d64.s47" text="diflunisal;">
+        <entity id="DDI-DrugBank.d64.s47.e0" charOffset="0-9"
+            type="drug" text="diflunisal"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s48" text="diuretics*;">
+        <entity id="DDI-DrugBank.d64.s48.e0" charOffset="0-8"
+            type="group" text="diuretics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s49" text="disulfiram;">
+        <entity id="DDI-DrugBank.d64.s49.e0" charOffset="0-9"
+            type="drug" text="disulfiram"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s50" text="drugs affecting blood elements;"/>
+    <sentence id="DDI-DrugBank.d64.s51" text="ethacrynic acid;">
+        <entity id="DDI-DrugBank.d64.s51.e0" charOffset="0-14"
+            type="drug" text="ethacrynic acid"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s52" text="fenoprofen;">
+        <entity id="DDI-DrugBank.d64.s52.e0" charOffset="0-9"
+            type="drug" text="fenoprofen"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s53" text="glucagon;">
+        <entity id="DDI-DrugBank.d64.s53.e0" charOffset="0-7"
+            type="drug" text="glucagon"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s54" text="hepatotoxic drugs;"/>
+    <sentence id="DDI-DrugBank.d64.s55" text="ibuprofen;">
+        <entity id="DDI-DrugBank.d64.s55.e0" charOffset="0-8"
+            type="drug" text="ibuprofen"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s56" text="indomethacin;">
+        <entity id="DDI-DrugBank.d64.s56.e0" charOffset="0-11"
+            type="drug" text="indomethacin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s57" text="influenza virus vaccine;">
+        <entity id="DDI-DrugBank.d64.s57.e0" charOffset="0-22"
+            type="group" text="influenza virus vaccine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s58" text="inhalation anesthetics;">
+        <entity id="DDI-DrugBank.d64.s58.e0" charOffset="11-21"
+            type="group" text="anesthetics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s59" text="mefenamic acid;">
+        <entity id="DDI-DrugBank.d64.s59.e0" charOffset="0-13"
+            type="drug" text="mefenamic acid"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s60" text="methyldopa;">
+        <entity id="DDI-DrugBank.d64.s60.e0" charOffset="0-9"
+            type="drug" text="methyldopa"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s61" text="methylphenidate;">
+        <entity id="DDI-DrugBank.d64.s61.e0" charOffset="0-14"
+            type="drug" text="methylphenidate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s62" text="metronidazole;">
+        <entity id="DDI-DrugBank.d64.s62.e0" charOffset="0-12"
+            type="drug" text="metronidazole"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s63" text="miconazole;">
+        <entity id="DDI-DrugBank.d64.s63.e0" charOffset="0-9"
+            type="drug" text="miconazole"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s64" text="monoamine oxidase inhibitors;">
+        <entity id="DDI-DrugBank.d64.s64.e0" charOffset="0-27"
+            type="group" text="monoamine oxidase inhibitors"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s65" text="nalidixic acid;">
+        <entity id="DDI-DrugBank.d64.s65.e0" charOffset="0-13"
+            type="drug" text="nalidixic acid"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s66" text="naproxen;">
+        <entity id="DDI-DrugBank.d64.s66.e0" charOffset="0-7"
+            type="drug" text="naproxen"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s67" text="oxolinic acid;">
+        <entity id="DDI-DrugBank.d64.s67.e0" charOffset="0-12"
+            type="drug" text="oxolinic acid"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s68" text="oxyphenbutazone;">
+        <entity id="DDI-DrugBank.d64.s68.e0" charOffset="0-14"
+            type="drug" text="oxyphenbutazone"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s69" text="pentoxifylline;">
+        <entity id="DDI-DrugBank.d64.s69.e0" charOffset="0-13"
+            type="drug" text="pentoxifylline"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s70" text="phenylbutazone;">
+        <entity id="DDI-DrugBank.d64.s70.e0" charOffset="0-13"
+            type="drug" text="phenylbutazone"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s71" text="phenyramidol;">
+        <entity id="DDI-DrugBank.d64.s71.e0" charOffset="0-11"
+            type="drug_n" text="phenyramidol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s72" text="phenytoin;">
+        <entity id="DDI-DrugBank.d64.s72.e0" charOffset="0-8"
+            type="drug" text="phenytoin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s73" text="prolonged hot weather;"/>
+    <sentence id="DDI-DrugBank.d64.s74" text="prolonged narcotics;">
+        <entity id="DDI-DrugBank.d64.s74.e0" charOffset="0-18"
+            type="group" text="prolonged narcotics"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s75" text="pyrazolones;">
+        <entity id="DDI-DrugBank.d64.s75.e0" charOffset="0-10"
+            type="group" text="pyrazolones"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s76" text="quinidine;">
+        <entity id="DDI-DrugBank.d64.s76.e0" charOffset="0-8"
+            type="drug" text="quinidine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s77" text="quinine;">
+        <entity id="DDI-DrugBank.d64.s77.e0" charOffset="0-6"
+            type="drug" text="quinine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s78" text="ranitidine*;">
+        <entity id="DDI-DrugBank.d64.s78.e0" charOffset="0-9"
+            type="drug" text="ranitidine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s79" text="salicylates;sulfinpyrazone;">
+        <entity id="DDI-DrugBank.d64.s79.e0" charOffset="0-10"
+            type="group" text="salicylates"/>
+        <entity id="DDI-DrugBank.d64.s79.e1" charOffset="12-25"
+            type="drug" text="sulfinpyrazone"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s80" text="sulfonamides, long acting;">
+        <entity id="DDI-DrugBank.d64.s80.e0" charOffset="0-11"
+            type="group" text="sulfonamides"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s81" text="sulindac;">
+        <entity id="DDI-DrugBank.d64.s81.e0" charOffset="0-7"
+            type="drug" text="sulindac"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s82" text="thyroid drugs;">
+        <entity id="DDI-DrugBank.d64.s82.e0" charOffset="0-12"
+            type="group" text="thyroid drugs"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s83" text="tolbutamide;">
+        <entity id="DDI-DrugBank.d64.s83.e0" charOffset="0-10"
+            type="drug" text="tolbutamide"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s84" text="triclofos sodium;">
+        <entity id="DDI-DrugBank.d64.s84.e0" charOffset="0-15"
+            type="drug" text="triclofos sodium"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s85" text="trimethoprim/sulfamethoxazole;">
+        <entity id="DDI-DrugBank.d64.s85.e0" charOffset="0-11"
+            type="drug" text="trimethoprim"/>
+        <entity id="DDI-DrugBank.d64.s85.e1" charOffset="13-28"
+            type="drug" text="sulfamethoxazole"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s86" text="unreliable prothrombin time determinations;"/>
+    <sentence id="DDI-DrugBank.d64.s87" text="Drugs that reportedly may increase oral anticoagulant response, ie, increased prothrombin response, in man include:alcohol*;allopurinol;aminosalicylic acid;amiodarone;anabolic steroids;antibiotics;bromelains;chloral hydrate*;chlorpropamide;chymotrypsin;cimetidine;cinchophen;clofibrate;dextran;dextrothyroxine;diazoxide;dietary deficiencies;diflunisal;disulfiram;drugs affecting blood elements;ethacrynic acid;fenoprofen;glucagon;hepatotoxic drugs;ibuprofen;indomethacin;influenza virus vaccine;inhalation anesthetics;mefenamic acid;methyldopa;methylphenidate;metronidazole;miconazole;monoamine oxidase inhibitors;nalidixic acid;naproxen;oxolinic acid;oxyphenbutazone;pentoxifylline;phenylbutazone;phenyramidol;phenytoin;prolonged hot weather;prolonged narcotics;pyrazolones;quinidine;quinine;ranitidine*;salicylates;sulfinpyrazone;sulfonamides, long acting;sulindac;thyroid drugs;tolbutamide;triclofos sodium;trimethoprim/sulfamethoxazole;unreliable prothrombin time determinations;warfarin sodium overdosage.">
+        <entity id="DDI-DrugBank.d64.s87.e0" charOffset="40-52"
+            type="group" text="anticoagulant"/>
+        <entity id="DDI-DrugBank.d64.s87.e1" charOffset="115-121"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d64.s87.e2" charOffset="124-134"
+            type="drug" text="allopurinol"/>
+        <entity id="DDI-DrugBank.d64.s87.e3" charOffset="136-154"
+            type="drug" text="aminosalicylic acid"/>
+        <entity id="DDI-DrugBank.d64.s87.e4" charOffset="156-165"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-DrugBank.d64.s87.e5" charOffset="167-183"
+            type="group" text="anabolic steroids"/>
+        <entity id="DDI-DrugBank.d64.s87.e6" charOffset="185-195"
+            type="group" text="antibiotics"/>
+        <entity id="DDI-DrugBank.d64.s87.e7" charOffset="197-206"
+            type="drug" text="bromelains"/>
+        <entity id="DDI-DrugBank.d64.s87.e8" charOffset="208-222"
+            type="drug" text="chloral hydrate"/>
+        <entity id="DDI-DrugBank.d64.s87.e9" charOffset="225-238"
+            type="drug" text="chlorpropamide"/>
+        <entity id="DDI-DrugBank.d64.s87.e10" charOffset="240-251"
+            type="drug" text="chymotrypsin"/>
+        <entity id="DDI-DrugBank.d64.s87.e11" charOffset="253-262"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBank.d64.s87.e12" charOffset="264-273"
+            type="drug" text="cinchophen"/>
+        <entity id="DDI-DrugBank.d64.s87.e13" charOffset="275-284"
+            type="drug" text="clofibrate"/>
+        <entity id="DDI-DrugBank.d64.s87.e14" charOffset="286-292"
+            type="drug" text="dextran"/>
+        <entity id="DDI-DrugBank.d64.s87.e15" charOffset="294-308"
+            type="drug" text="dextrothyroxine"/>
+        <entity id="DDI-DrugBank.d64.s87.e16" charOffset="310-318"
+            type="drug" text="diazoxide"/>
+        <entity id="DDI-DrugBank.d64.s87.e17" charOffset="341-350"
+            type="drug" text="diflunisal"/>
+        <entity id="DDI-DrugBank.d64.s87.e18" charOffset="352-361"
+            type="drug" text="disulfiram"/>
+        <entity id="DDI-DrugBank.d64.s87.e19" charOffset="394-408"
+            type="drug" text="ethacrynic acid"/>
+        <entity id="DDI-DrugBank.d64.s87.e20" charOffset="410-419"
+            type="drug" text="fenoprofen"/>
+        <entity id="DDI-DrugBank.d64.s87.e21" charOffset="421-428"
+            type="drug" text="glucagon"/>
+        <entity id="DDI-DrugBank.d64.s87.e22" charOffset="448-456"
+            type="drug" text="ibuprofen"/>
+        <entity id="DDI-DrugBank.d64.s87.e23" charOffset="458-469"
+            type="drug" text="indomethacin"/>
+        <entity id="DDI-DrugBank.d64.s87.e24" charOffset="471-493"
+            type="group" text="influenza virus vaccine"/>
+        <entity id="DDI-DrugBank.d64.s87.e25" charOffset="506-516"
+            type="group" text="anesthetics"/>
+        <entity id="DDI-DrugBank.d64.s87.e26" charOffset="518-531"
+            type="drug" text="mefenamic acid"/>
+        <entity id="DDI-DrugBank.d64.s87.e27" charOffset="533-542"
+            type="drug" text="methyldopa"/>
+        <entity id="DDI-DrugBank.d64.s87.e28" charOffset="544-558"
+            type="drug" text="methylphenidate"/>
+        <entity id="DDI-DrugBank.d64.s87.e29" charOffset="560-572"
+            type="drug" text="metronidazole"/>
+        <entity id="DDI-DrugBank.d64.s87.e30" charOffset="574-583"
+            type="drug" text="miconazole"/>
+        <entity id="DDI-DrugBank.d64.s87.e31" charOffset="585-612"
+            type="group" text="monoamine oxidase inhibitors"/>
+        <entity id="DDI-DrugBank.d64.s87.e32" charOffset="614-627"
+            type="drug" text="nalidixic acid"/>
+        <entity id="DDI-DrugBank.d64.s87.e33" charOffset="629-636"
+            type="drug" text="naproxen"/>
+        <entity id="DDI-DrugBank.d64.s87.e34" charOffset="638-650"
+            type="drug" text="oxolinic acid"/>
+        <entity id="DDI-DrugBank.d64.s87.e35" charOffset="652-666"
+            type="drug" text="oxyphenbutazone"/>
+        <entity id="DDI-DrugBank.d64.s87.e36" charOffset="668-681"
+            type="drug" text="pentoxifylline"/>
+        <entity id="DDI-DrugBank.d64.s87.e37" charOffset="683-696"
+            type="drug" text="phenylbutazone"/>
+        <entity id="DDI-DrugBank.d64.s87.e38" charOffset="698-709"
+            type="drug_n" text="phenyramidol"/>
+        <entity id="DDI-DrugBank.d64.s87.e39" charOffset="711-719"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d64.s87.e40" charOffset="743-761"
+            type="group" text="prolonged narcotics"/>
+        <entity id="DDI-DrugBank.d64.s87.e41" charOffset="763-773"
+            type="group" text="pyrazolones"/>
+        <entity id="DDI-DrugBank.d64.s87.e42" charOffset="775-783"
+            type="drug" text="quinidine"/>
+        <entity id="DDI-DrugBank.d64.s87.e43" charOffset="785-791"
+            type="drug" text="quinine"/>
+        <entity id="DDI-DrugBank.d64.s87.e44" charOffset="793-802"
+            type="drug" text="ranitidine"/>
+        <entity id="DDI-DrugBank.d64.s87.e45" charOffset="805-815"
+            type="group" text="salicylates"/>
+        <entity id="DDI-DrugBank.d64.s87.e46" charOffset="817-830"
+            type="drug" text="sulfinpyrazone"/>
+        <entity id="DDI-DrugBank.d64.s87.e47" charOffset="832-843"
+            type="group" text="sulfonamides"/>
+        <entity id="DDI-DrugBank.d64.s87.e48" charOffset="858-865"
+            type="drug" text="sulindac"/>
+        <entity id="DDI-DrugBank.d64.s87.e49" charOffset="867-879"
+            type="group" text="thyroid drugs"/>
+        <entity id="DDI-DrugBank.d64.s87.e50" charOffset="881-891"
+            type="drug" text="tolbutamide"/>
+        <entity id="DDI-DrugBank.d64.s87.e51" charOffset="893-908"
+            type="drug" text="triclofos sodium"/>
+        <entity id="DDI-DrugBank.d64.s87.e52" charOffset="910-921"
+            type="drug" text="trimethoprim"/>
+        <entity id="DDI-DrugBank.d64.s87.e53" charOffset="923-938"
+            type="drug" text="sulfamethoxazole"/>
+        <entity id="DDI-DrugBank.d64.s87.e54" charOffset="983-997"
+            type="drug" text="warfarin sodium"/>
+        <ddi id="DDI-DrugBank.d64.s87.d0" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d1" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d2" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d3" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d4" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d5" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d6" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d7" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d8" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e9" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d9" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e10" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d10" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e11" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d11" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e12" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d12" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e13" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d13" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e14" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d14" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e15" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d15" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e16" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d16" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e17" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d17" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e18" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d18" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e19" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d19" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e20" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d20" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e21" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d21" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e22" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d22" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e23" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d23" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e24" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d24" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e25" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d25" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e26" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d26" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e27" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d27" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e28" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d28" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e29" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d29" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e30" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d30" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e31" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d31" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e32" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d32" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e33" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d33" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e34" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d34" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e35" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d35" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e36" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d36" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e37" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d37" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e38" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d38" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e39" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d39" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e40" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d40" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e41" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d41" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e42" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d42" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e43" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d43" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e44" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d44" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e45" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d45" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e46" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d46" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e47" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d47" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e48" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d48" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e49" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d49" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e50" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d50" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e51" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d51" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e52" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d52" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e53" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s87.d53" e1="DDI-DrugBank.d64.s87.e0"
+            e2="DDI-DrugBank.d64.s87.e54" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s88" text="Oral anticoagulants may potentiate the hypoglycemic action of hypoglycemic agents, eg, tolbutamide and chlorpropamide, by inhibiting their metabolism in the liver.">
+        <entity id="DDI-DrugBank.d64.s88.e0" charOffset="5-18"
+            type="group" text="anticoagulants"/>
+        <entity id="DDI-DrugBank.d64.s88.e1" charOffset="62-80"
+            type="group" text="hypoglycemic agents"/>
+        <entity id="DDI-DrugBank.d64.s88.e2" charOffset="87-97"
+            type="drug" text="tolbutamide"/>
+        <entity id="DDI-DrugBank.d64.s88.e3" charOffset="103-116"
+            type="drug" text="chlorpropamide"/>
+        <ddi id="DDI-DrugBank.d64.s88.d0" e1="DDI-DrugBank.d64.s88.e0"
+            e2="DDI-DrugBank.d64.s88.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d64.s88.d1" e1="DDI-DrugBank.d64.s88.e0"
+            e2="DDI-DrugBank.d64.s88.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d64.s88.d2" e1="DDI-DrugBank.d64.s88.e0"
+            e2="DDI-DrugBank.d64.s88.e3" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s89" text="Because oral anticoagulants may interfere with the hepatic metabolism of phenytoin, toxic levels of the anticonvulsant may occur when an oral anticoagulant and phenytoin are administered concurrently.">
+        <entity id="DDI-DrugBank.d64.s89.e0" charOffset="13-26"
+            type="group" text="anticoagulants"/>
+        <entity id="DDI-DrugBank.d64.s89.e1" charOffset="73-81"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d64.s89.e2" charOffset="104-117"
+            type="group" text="anticonvulsant"/>
+        <entity id="DDI-DrugBank.d64.s89.e3" charOffset="142-154"
+            type="group" text="anticoagulant"/>
+        <entity id="DDI-DrugBank.d64.s89.e4" charOffset="160-168"
+            type="drug" text="phenytoin"/>
+        <ddi id="DDI-DrugBank.d64.s89.d0" e1="DDI-DrugBank.d64.s89.e0"
+            e2="DDI-DrugBank.d64.s89.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d64.s89.d1" e1="DDI-DrugBank.d64.s89.e3"
+            e2="DDI-DrugBank.d64.s89.e4" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s90" text="Drugs that reduce the number of blood platelets by causing bone marrow depression (such as antineoplastic agents) or drugs which inhibit platelet function (eg, aspirin and other non-steroidal anti-inflammatory drugs, dipyridamole, hydrochloroquine, clofibrate, dextran) may increase the bleeding tendency produced by anticoagulants without altering prothrombin time determinations.">
+        <entity id="DDI-DrugBank.d64.s90.e0" charOffset="91-111"
+            type="group" text="antineoplastic agents"/>
+        <entity id="DDI-DrugBank.d64.s90.e1" charOffset="160-166"
+            type="brand" text="aspirin"/>
+        <entity id="DDI-DrugBank.d64.s90.e2" charOffset="178-214"
+            type="group" text="non-steroidal anti-inflammatory drugs"/>
+        <entity id="DDI-DrugBank.d64.s90.e3" charOffset="217-228"
+            type="drug" text="dipyridamole"/>
+        <entity id="DDI-DrugBank.d64.s90.e4" charOffset="231-246"
+            type="drug" text="hydrochloroquine"/>
+        <entity id="DDI-DrugBank.d64.s90.e5" charOffset="249-258"
+            type="drug" text="clofibrate"/>
+        <entity id="DDI-DrugBank.d64.s90.e6" charOffset="261-267"
+            type="drug" text="dextran"/>
+        <entity id="DDI-DrugBank.d64.s90.e7" charOffset="317-330"
+            type="group" text="anticoagulants"/>
+        <ddi id="DDI-DrugBank.d64.s90.d0" e1="DDI-DrugBank.d64.s90.e0"
+            e2="DDI-DrugBank.d64.s90.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s90.d1" e1="DDI-DrugBank.d64.s90.e1"
+            e2="DDI-DrugBank.d64.s90.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s90.d2" e1="DDI-DrugBank.d64.s90.e2"
+            e2="DDI-DrugBank.d64.s90.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s90.d3" e1="DDI-DrugBank.d64.s90.e3"
+            e2="DDI-DrugBank.d64.s90.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s90.d4" e1="DDI-DrugBank.d64.s90.e4"
+            e2="DDI-DrugBank.d64.s90.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s90.d5" e1="DDI-DrugBank.d64.s90.e5"
+            e2="DDI-DrugBank.d64.s90.e7" type="effect"/>
+        <ddi id="DDI-DrugBank.d64.s90.d6" e1="DDI-DrugBank.d64.s90.e6"
+            e2="DDI-DrugBank.d64.s90.e7" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s91" text="The beneficial effects on arterial thrombus formation from combined therapy with antiplatelet and anticoagulant medication must be weighed against an increased risk of inducing hemorrhage.">
+        <entity id="DDI-DrugBank.d64.s91.e0" charOffset="81-92;112-121"
+            type="group" text="antiplatelet medication"/>
+        <entity id="DDI-DrugBank.d64.s91.e1" charOffset="98-121"
+            type="group" text="anticoagulant medication"/>
+        <ddi id="DDI-DrugBank.d64.s91.d0" e1="DDI-DrugBank.d64.s91.e0"
+            e2="DDI-DrugBank.d64.s91.e1" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s92" text="*Increased and decreased prothrombin time responses have been reported."/>
+    <sentence id="DDI-DrugBank.d64.s93" text="Drug/Laboratory Test Interferences: Dicumarol and indanedione anticoagulants, including anisindione, or their metabolites may color alkaline urine red-orange, which may interfere with spectrophotometrically determined urinary laboratory tests.">
+        <entity id="DDI-DrugBank.d64.s93.e0" charOffset="36-44"
+            type="drug" text="Dicumarol"/>
+        <entity id="DDI-DrugBank.d64.s93.e1" charOffset="50-75"
+            type="group" text="indanedione anticoagulants"/>
+        <entity id="DDI-DrugBank.d64.s93.e2" charOffset="88-98"
+            type="drug" text="anisindione"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d64.s94" text="The color reverses when the test sample is acidified in vitro to a pH below 4."/>
+</document>

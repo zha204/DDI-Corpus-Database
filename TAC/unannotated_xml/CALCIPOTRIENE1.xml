@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="calcipotriene1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

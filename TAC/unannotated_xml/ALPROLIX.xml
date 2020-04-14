@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="alprolix" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Common adverse reactions (incidence &gt;=1%) reported in clinical trials were headache and oral paresthesia.
+
+
+
+   EXCERPT:   Common adverse reactions (incidence &gt;=1%) from clinical trials were headache and oral paresthesia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Biogen Idec, Inc. at 1-800-456-2255 or FDA at 1-800-FDA-1088 or  
+
+
+
+   www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In the multi-center, prospective, open-label clinical trial with ALPROLIXTM, 123 previously treated patients (PTPs, exposed to a Factor IX containing product for &gt;=100 exposure days) were evaluated, with 115 subjects treated for at least 26 weeks and 56 subjects treated for at least 52 weeks.
+
+
+
+ Adverse reactions (ARs) were reported in 10 of 119 (8.4%) subjects treated with routine prophylaxis or episodic (on-demand) therapy. They are summarized in  Table 3  .
+
+
+
+ No subject was withdrawn from study due to an adverse reaction. In the study, no inhibitors were detected and no events of anaphylaxis were reported.
+
+
+
+ Table 3: Summary of Adverse Reactions 
+  *119 previously treated patients (PTPs) on routine prophylaxis or episodic (on-demand) therapy    
+  
+   System Organ Class                                  Adverse Reactions    (AR)      Number of Subjects    (%)    N=119*     
+   Nervous system disorders                          HeadacheDizzinessDysgeusia  2 (1.7)1 (0.8)1 (0.8)      
+   Gastrointestinal disorders                        Paresthesia oralBreath odor  2 (1.7)1 (0.8)             
+   General disorders and administration site conditions    FatigueInfusion site pain  1 (0.8)1 (0.8)             
+   Cardiac disorders                                 Palpitations               1 (0.8)                    
+   Renal and urinary disorders                       Obstructive uropathy       1 (0.8)                    
+   Vascular disorders                                Hypotension                1 (0.8)                    
+         Obstructive uropathy was reported in one subject with hematuria who developed an obstructing clot in the urinary collecting system. The event resolved with hydration and the subject continued prophylactic treatment with ALPROLIXTM. A causal relationship of clot formation to ALPROLIXTM was not established.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions, including anaphylaxis, may occur. Should symptoms occur, discontinue ALPROLIXTM and administer appropriate treatment. (  5.1  ) 
+ *  Development of neutralizing antibodies (inhibitors) to ALPROLIXTM may occur. Perform an assay that measures Factor IX inhibitor concentration if plasma Factor IX level fails to increase as expected or if bleeding is not controlled with an appropriate dose. (  5.2  ,  5.4  ) 
+ *  The use of Factor IX products has been associated with the development of thromboembolic complications. (  5.3  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Allergic-type hypersensitivity reactions, including anaphylaxis, have been reported with Factor IX replacement products, and are possible with ALPROLIXTM. Early signs of allergic reactions, which can progress to anaphylaxis, may include angioedema, chest tightness, hypotension, rash, nausea, vomiting, paresthesia, restlessness, wheezing and dyspnea. Discontinue use of ALPROLIXTM if hypersensitivity symptoms occur, and initiate appropriate treatment.
+
+
+
+    5.2 Neutralizing Antibodies (Inhibitors)
+
+
+
+  Formation of neutralizing antibodies (inhibitors) to Factor IX has been reported during factor replacement therapy in the treatment of hemophilia B. Monitor all patients regularly for the development of inhibitors by appropriate clinical observations and laboratory tests [ see Warnings and Precautions  (  5.4  )].
+
+
+
+ An association between the occurrence of a Factor IX inhibitor and allergic reactions has been reported  1  . Evaluate patients experiencing allergic reactions for the presence of an inhibitor. Closely observe patients for signs and symptoms of acute hypersensitivity reactions, particularly during the early phases of exposure to the product.
+
+
+
+ Individuals with Factor IX inhibitors may be at an increased risk of anaphylaxis upon subsequent challenge with ALPROLIXTM.
+
+
+
+    5.3 Thromboembolic Complications
+
+
+
+  The use of Factor IX products has been associated with the development of thromboembolic complications, especially in individuals receiving continuous infusion through a central venous catheter. ALPROLIXTM should be administered as bolus infusion over several minutes [ see Dosage and Administration  (  2.3  )]. The safety of ALPROLIXTM administration by continuous infusion has not been studied.
+
+
+
+    5.4 Monitoring Laboratory Tests
+
+
+
+    *  To confirm adequate Factor IX levels have been achieved and maintained, monitor plasma Factor IX activity by performing the one-stage clotting assay [ see Dosage and Administration (  2.1  )]. Factor IX results can be affected by the type of aPTT reagent used. Measurement with a one-stage clotting assay using a kaolin-based aPTT reagent will likely result in an underestimation of activity level. 
+ *  Monitor for the development of Factor IX inhibitors if the expected Factor IX activity levels in plasma are not attained, or if bleeding is not controlled with the recommended dose of ALPROLIXTM. Perform a Bethesda assay to determine if Factor IX inhibitors are present. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="potassium4" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  One of the most severe adverse effects is hyperkalemia (see    CONTRAINDICATIONS,    WARNINGS    and    OVERDOSAGE    ). There also have been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration and perforation (see    CONTRAINDICATIONS    and    WARNINGS    ).
+
+
+
+ The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by taking the dose with meals or reducing the amount taken at one time.
+
+
+
+ Skin rash has been reported rarely.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

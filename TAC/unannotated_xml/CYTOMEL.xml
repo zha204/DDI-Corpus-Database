@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cytomel" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions
+
+  Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see  Overdosage  ).
+
+
+
+ In rare instances, allergic skin reactions have been reported with Cytomel (liothyronine sodium) Tablets.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="trifluridine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequent adverse reactions reported during controlled clinical trials were mild, transient burning or stinging upon instillation (4.6%) and palpebral edema (2.8%). Other adverse reactions in decreasing order of reported frequency were superficial punctate keratopathy, epithelial keratopathy, hypersensitivity reaction, stromal edema, irritation, keratitis sicca, hyperemia, and increased intraocular pressure.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

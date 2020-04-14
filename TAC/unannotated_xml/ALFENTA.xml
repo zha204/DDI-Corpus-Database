@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="alfenta" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most common adverse reactions of opioids are respiratory depression and skeletal muscle rigidity, particularly of the truncal muscles. ALFENTA may produce muscular rigidity that involves the skeletal muscles of the neck and extremities. See  CLINICAL PHARMACOLOGY  ,  WARNINGS  , and  PRECAUTIONS  on the management of respiratory depression and skeletal muscle rigidity.
+
+
+
+ The adverse experience profile from 696 patients receiving ALFENTA for Monitored Anesthesia Care (MAC) is similar to the profile established with ALFENTA during general anesthesia. Respiratory events reported during MAC included hypoxia, apnea, and bradypnea. Other adverse events reported by patients receiving ALFENTA for MAC, in order of decreasing frequency, were nausea, hypotension, vomiting, pruritus, confusion, somnolence and agitation.
+
+
+
+ The following adverse reaction information is derived from controlled and open clinical trials in 785 patients who received intravenous ALFENTA during induction and maintenance of general anesthesia. The controlled trials included treatment comparisons with fentanyl, thiopental sodium, enflurane, saline placebo and halothane. The incidence of certain side effects is influenced by the type of use, e.g., chest wall rigidity has a higher reported incidence in clinical trials of alfentanil induction, and by the type of surgery, e.g., nausea and vomiting have a higher reported incidence in patients undergoing gynecologic surgery. The overall reports of nausea and vomiting with ALFENTA were comparable to fentanyl.
+
+
+
+   Incidence Greater than 1% - Probably Causally Related (Derived from clinical trials)
+
+   
+ Gastrointestinal:               nausea (28%),vomiting (18%)                                              
+ Cardiovascular:                 arrhythmia, bradycardia (14%),hypertension (18%),hypotension (10%),tachycardia (12%)   
+ Musculoskeletal:                chest wall rigidity (17%),skeletal muscle movements                      
+ Respiratory:                    apnea, postoperative respiratory depression                              
+ Central Nervous System:         blurred vision, dizziness, sleepiness/postoperative sedation             
+          Incidence Less than 1% - Probably Causally Related (Derived from clinical trials)
+   Adverse events reported in post-marketing surveillance, not seen in clinical trials, are  italicized  .
+
+
+
+
+   Body as a whole:                anaphylaxis                                                            
+ Central Nervous System:         headache,  myoclonic movements  , postoperative confusion, postoperative euphoria, shivering   
+ Dermatological:                 itching, urticaria*                                                      
+ Injection Site:                 pain                                                                     
+   Musculoskeletal:                skeletal muscle rigidity of neck and extremities                       
+ Respiratory:                    bronchospasm, hypercarbia, laryngospasm                                  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sklice" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:    Most common adverse reactions (incidence &lt;1%) are conjunctivitis, ocular hyperemia, eye irritation, dandruff, dry skin, and skin burning sensation. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Sanofi Pasteur, Inc. at 1-800-835-3592 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The data described below reflect exposure to a single 10 minute treatment of SKLICE Lotion in 379 patients, ages 6 months and older, in placebo-controlled trials. Of these subjects, 47 subjects were age 6 months to 4 years, 179 subjects were age 4 to 12 years, 56 subjects were age 12 to 16 years and 97 subjects were age 16 or older.  Adverse reactions, reported in less than 1% of subjects treated with SKLICE Lotion, include conjunctivitis, ocular hyperemia, eye irritation, dandruff, dry skin, and skin burning sensation.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:  Accidental ingestion in pediatric patients may occur:  Administer only under direct adult supervision.    (5.1)   
+
+
+
+   5.1 Ingestion in Pediatric Patients
+
+
+
+  In order to prevent ingestion, SKLICE Lotion should only be administered to pediatric patients under the direct supervision of an adult.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

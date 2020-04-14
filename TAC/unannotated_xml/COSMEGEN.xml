@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cosmegen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Toxic effects (excepting nausea and vomiting) usually do not become apparent until two to four days after a course of therapy is stopped, and may not peak until one to two weeks have elapsed. Deaths have been reported. However, adverse reactions are usually reversible on discontinuance of therapy. They include the following:
+
+
+
+   Miscellaneous:  Sepsis (including neutropenic sepsis) with fatal outcome, infection, malaise, fatigue, lethargy, fever, myalgia, proctitis, hypocalcemia and growth retardation.
+
+
+
+   Oral:  cheilitis, dysphagia, esophagitis, ulcerative stomatitis, pharyngitis.
+
+
+
+   Lung:  pneumonitis.
+
+
+
+   Gastrointestinal:  anorexia, nausea, vomiting, abdominal pain, diarrhea, gastrointestinal ulceration. Nausea and vomiting, which occur early during the first few hours after administration, may be alleviated by the administration of anti-emetics.
+
+
+
+   Hepatic:  liver toxicity including liver function test abnormalities, ascites, hepatomegaly, hepatitis, hepatic failure with reports of death, hepatic veno-occlusive disease which may be associated with intravascular clotting disorder and multi-organ failure (see  PRECAUTIONS, Veno-occlusive Disease  ).
+
+
+
+   Hematologic:  anemia, even to the point of aplastic anemia, agranulocytosis, leukopenia, thrombocytopenia, pancytopenia, reticulocytopenia, neutropenia, febrile neutropenia. Platelet and white cell counts should be performed  frequently  to detect severe hematopoietic depression. If either count markedly decreases, the drug should be withheld to allow marrow recovery. This often takes up to three weeks.
+
+
+
+   Dermatologic:  alopecia, skin eruptions, acne, erythema multiforme, flare-up of erythema or increased pigmentation of previously irradiated skin. Toxic Epidermal Necrolysis (TEN) and Stevens Johnson Syndrome (SJS) have been observed from postmarketing experience.
+
+
+
+   Soft tissues:  Dactinomycin is extremely corrosive. If extravasation occurs during intravenous use, severe damage to soft tissues will occur. In at least one instance, this has led to contracture of the arms. Epidermolysis, erythema, and edema, at times severe, have been reported with regional limb perfusion.
+
+
+
+   Laboratory Tests:  Many abnormalities of renal, hepatic, and bone marrow function have been reported in patients with neoplastic diseases receiving COSMEGEN. Renal, hepatic, and bone marrow functions should be assessed frequently.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Recordati Rare Diseases Inc. at 1-888-575-8344 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+    WARNING  
+
+
+
+ COSMEGEN(r) (dactinomycin for injection) should be administered only under the supervision of a physician who is experienced in the use of cancer chemotherapeutic agents.
+
+
+
+ This drug is   HIGHLY TOXIC   and both powder and solution must be handled and administered with care. Inhalation of dust or vapors and contact with skin or mucous membranes, especially those of the eyes, must be avoided. Avoid exposure during pregnancy. Due to the toxic properties of dactinomycin (e.g., corrosivity, carcinogenicity, mutagenicity, teratogenicity), special handling procedures should be reviewed prior to handling and followed diligently. Dactinomycin is extremely corrosive to soft tissue. If extravasation occurs during intravenous use, severe damage to soft tissues will occur. In at least one instance, this has led to contracture of the arms.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

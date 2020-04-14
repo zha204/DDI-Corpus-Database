@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ulesfia" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6             ADVERSE REACTIONS  
+
+  EXCERPT:   Most common adverse reactions (&gt; 1% and more common than with placebo): ocular irritation, application site irritation, and application site anesthesia and hypoesthesia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Lachlan Pharmaceuticals at 1-866-416-9637 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1             Clinical Trials Experience  
+
+        Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+       The rates of adverse reactions below were derived from two randomized, multi-center, vehicle-controlled clinical trials and one open-label study in subjects with head lice infestation.
+
+
+
+       Skin, scalp, and ocular irritation were monitored in the clinical trials. All subjects were queried about the presence of skin and scalp symptoms; the results are presented in Table 2.
+
+
+
+  
+
+
+
+       Table 2: Monitored Adverse Reactions - Application Site Symptoms 
+ Event            ULESFIA    (r)    Lotion  Vehicle           
+ Application siteIrritation  2% (11/478)      1% (2/336)        
+ Application siteanesthesia &amp;hypoesthesia  2% (10/478)      0% (0/336)        
+ Pain             1% (5/478)       0% (1/336)        
+               The subset of subjects who did not have pruritus, erythema, edema or pyoderma of skin and scalp, or ocular irritation prior to treatment were assessed for these signs and symptoms after treatment; the results are presented in Table 3.
+ 
+
+      
+
+
+
+ Table 3: Monitored Adverse Reactions - Pruritus, Erythema, Pyoderma and Ocular Irritation with Onset After Treatment 
+ Signs/Symptoms   ULESFIA    (r)    Lotion  Vehicle           
+ Pruritus         12% (14/116)     4% (3/67)         
+ Erythema         10% (32/309)     9% (19/217)       
+ Pyoderma         7% (22/308)      4% (10/230)       
+ Ocular irritation  6% (26/428)      1% (3/313)        
+               Other less common reactions (less than 1% but more than 0.1%) were, in decreasing order of incidence: application site dryness, application site excoriation, paraesthesia, application site dermatitis, excoriation, thermal burn, dandruff, erythema, rash, and skin exfoliation.
+</Section>
+    <Section name="warnings and precautions" id="S2">     5           WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Neonatal toxicity: Risk of gasping syndrome if benzyl alcohol is used in neonates. (  5.1  ) 
+ *  Eye irritation: Avoid eye exposure. Flush immediately with water if ULESFIA   (r)    Lotion comes into contact with eyes. (  5.2  ) 
+ *  Contact dermatitis: May occur with ULESFIA   (r)    Lotion. (  5.3  ) 
+ *  Use in children: ULESFIA   (r)    Lotion should only be used on children under the direct supervision of an adult. Keep out of reach of children. (  5.4  ) 
+    
+ 
+
+    5.   1           Neonatal Toxicity  
+
+
+
+        Intravenous administration of products containing benzyl alcohol has been associated with neonatal gasping syndrome consisting of severe metabolic acidosis, gasping respirations, progressive hypotension, seizures, central nervous system depression, intraventricular hemorrhage, and death in preterm, low birth weight infants. Neonates (i.e. patients less than 1 month of age or preterm infants with a corrected age of less than 44 weeks) could be at risk for gasping syndrome if treated with ULESFIA   (r)     Lotion  [see     Use in Specific Populations     (     8.4     )]  .  
+
+
+
+      
+
+
+
+     5.2           Eye Irritation      
+
+
+
+        Avoid eye exposure. ULESFIA   (r)     Lotion may cause eye irritation. If ULESFIA   (r)     Lotion comes in contact with the eyes, flush them immediately with water. If irritation persists, consult a physician.
+
+
+
+      
+
+
+
+     5.   3           Contact Dermatitis  
+
+
+
+        ULESFIA   (r)     Lotion may cause allergic or irritant dermatitis.
+
+
+
+      
+
+
+
+     5.4           Use in Children      
+
+
+
+        ULESFIA   (r)     Lotion should only be used on children (6 months of age and older) under the direct supervision of an adult. Keep out of reach of children.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

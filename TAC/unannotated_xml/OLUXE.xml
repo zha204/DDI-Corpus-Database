@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="oluxe" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *  The most common adverse reactions (incidence &gt;=1%) are application site atrophy and application site reaction. (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Prestium Pharma, Inc. at 1-866-897-5002 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In controlled clinical trials involving 821 subjects exposed to OLUX-E Foam and vehicle foam, the pooled incidence of local adverse reactions in trials for atopic dermatitis and psoriasis with OLUX-E Foam was 1.9% for application site atrophy and 1.6% for application site reaction. Most local adverse events were rated as mild to moderate and they were not affected by age, race, or gender.
+
+
+
+ The following additional local adverse reactions have been reported with topical corticosteroids: folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. They may occur more frequently with the use of occlusive dressings and higher potency corticosteroids, such as clobetasol propionate.
+
+
+
+ Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations.
+
+
+
+   6.2 Postmarketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The following adverse reactions have been identified during post-approval use of clobetasol formulations: erythema, pruritus, burning, alopecia, and dryness.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  OLUX-E Foam has been shown to suppress the HPA axis.  Systemic absorption of OLUX-E Foam may produce reversible HPA axis suppression, Cushing's syndrome, hyperglycemia, and unmask latent diabetes. (  5.1  ) 
+ *  Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression. (5.1) 
+ *  Modify use should HPA axis suppression develop. (  5.1  ) 
+ *  High potency corticosteroids, large treatment surface areas, prolonged use, use of occlusive dressings, altered skin barrier, and liver failure may predispose patients to HPA axis suppression. (5.1) 
+ *  Pediatric patients may be more susceptible to systemic toxicity when treated with topical corticosteroids. (5.1, 8.4) 
+ *  The propellant in OLUX-E Foam is flammable. Avoid fire, flame, or smoking during and immediately following application. (5.4)) 
+    
+ 
+
+   5.1 Effects on Endocrine System
+
+
+
+  OLUX-E Foam has been shown to suppress the hypothalamic-pituitary-adrenal (HPA) axis.
+
+
+
+ Systemic absorption of OLUX-E has caused reversible HPA axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid. Use of OLUX-E Foam for longer than 2 weeks may suppress the immune system. [see Nonclinical Toxicology (  13.1    ) ].  
+
+
+
+ In a trial including 37 subjects aged 12 years and older with at least 30% body surface area (BSA), adrenal suppression was identified in 6 out of 37 subjects (16.2%) after 2 weeks of treatment with OLUX-E. [see Clinical Pharmacology(  12.2  )].  
+
+
+
+ Because of the potential for systemic absorption, use of OLUX-E may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.
+
+
+
+ An adrenocorticotrophic hormone (ACTH) stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids.
+
+
+
+ Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids.
+
+
+
+ Use of more than 1 corticosteroid-containing product at the same time may increase the total systemic corticosteroid exposure.
+
+
+
+ Pediatric patients may be more susceptible to systemic toxicity from equivalent doses because of their larger skin surface- to-body mass ratios. [  see Use in Specific Populations (    8.4   )].  
+
+
+
+    5.2 Local Adverse Reactions with Topical Corticosteroids
+
+
+
+  Local adverse reactions may be more likely to occur with occlusive use, prolonged use, or use of higher potency corticosteroids. Reactions may include atrophy, striae, telangiectasias, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible.
+
+
+
+ Allergic contact dermatitis to any component of topical corticosteroids is usually diagnosed by a failure to heal rather than a clinical exacerbation. Clinical diagnosis of allergic contact dermatitis can be confirmed by patch testing.
+
+
+
+ If irritation develops, treatment with OLUX-E Foam should be discontinued and appropriate therapy instituted.
+
+
+
+    5.3 Concomitant Skin Infections
+
+
+
+  Concomitant skin infections should be treated with an appropriate antimicrobial agent. If the infection persists, OLUX-E Foam should be discontinued until the infection has been adequately treated.
+
+
+
+    5.4 Flammable Contents
+
+
+
+  The propellant in OLUX-E Foam is flammable. Avoid fire, flame, or smoking during and immediately following application. Do not puncture and/or incinerate the containers. Do not expose containers to heat and/or store at temperatures above 120 degrees F (49 degrees C).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

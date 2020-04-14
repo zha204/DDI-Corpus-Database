@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="idelvion" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reaction (incidence &gt;=1%) reported in clinical trials was headache.
+
+
+
+   EXCERPT:   The most common adverse reaction (incidence &gt;=1%) reported in clinical trials was headache. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact CSL Behring Pharmacovigilance Department at 1-866-915-6958 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In five multicenter, prospective, open-label clinical trials with IDELVION, 111 previously treated patients (PTPs; exposed to a Factor IX-containing product for &gt;=100 exposure days) received at least one infusion of IDELVION as part of on-demand treatment of bleeding episodes, perioperative management of major and minor surgical, dental, or other invasive procedures, routine prophylaxis, or pharmacokinetic evaluation. Twenty-seven children were &lt;12 years of age, 9 adolescents were 12 to &lt;18 years of age, and 75 adults were &gt;=18 to &lt;=65 years of age. A total of 8,274 injections were administered over a median of 600 days (range: 25 to 1,288 days).
+
+
+
+ Adverse reactions that occurred in &gt;0.5% of subjects are listed in Table 4.
+
+
+
+ Table 4. Summary of Adverse Reactions 
+ MedDRA StandardSystem Organ Class              Adverse Reaction           Number of subjectsn (%), (N=111)   
+  
+   Nervous system disorders                     Headache                   2 (1.8)                          
+                                                Dizziness                  1 (0.9)                          
+   Immune system disorders                      Hypersensitivity           1 (0.9)                          
+   Skin and subcutaneous tissue disorders       Rash                       1 (0.9)                          
+                                                Eczema                     1 (0.9)                          
+           6.2 Immunogenicity
+   All subjects were monitored for inhibitory and binding antibodies to rIX-FP (specifically rFIX, pdFIX and albumin), and binding antibodies to CHO host cell proteins at the following time points: at screening, at 2-4 weeks, 12 weeks following the first infusion of IDELVION, every 3 months thereafter (every 6 months for binding antibodies in children). No subjects developed antibodies to Factor IX, or non-neutralizing antibodies against factor IX, albumin and CHO protein at any of the time points following infusion of IDELVION.
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, it may be misleading to compare the incidence of antibodies to IDELVION in the studies described above with the incidence of antibodies in other studies or to other products.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions, including anaphylaxis, are possible. Should symptoms occur, discontinue IDELVION and administer appropriate treatment. (  5.1  ) 
+ *  Development of neutralizing antibodies (inhibitors) to IDELVION may occur. If expected Factor IX plasma recovery in patient plasma is not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures Factor IX inhibitor concentration. (  5.2  ,  5.5  ) 
+ *  Thromboembolism (e.g., pulmonary embolism, venous thrombosis, and arterial thrombosis) may occur when using Factor IX-containing products. (  5.3  ) 
+ *  Nephrotic syndrome has been reported following immune tolerance induction with Factor IX-containing products in hemophilia B patients with Factor IX inhibitors and a history of allergic reactions to Factor IX. (  5.4  ) 
+ *  Factor IX activity assay results may vary with the type of activated partial thromboplastin time reagent used. (  5.5  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions, including anaphylaxis, are possible. Early signs of hypersensitivity reactions, which can progress to anaphylaxis include angioedema, chest tightness, hypotension, generalized urticaria, wheezing, and dyspnea. If hypersensitivity symptoms occur, immediately discontinue administration and initiate appropriate treatment.
+
+
+
+ IDELVION contains trace amounts of Chinese hamster ovary (CHO) proteins. Patients treated with this product may develop hypersensitivity to these non-human mammalian proteins.
+
+
+
+    5.2 Neutralizing Antibodies
+
+
+
+  The formation of neutralizing antibodies (inhibitors) to Factor IX may occur. Monitor all patients treated with IDELVION for the development of neutralizing antibodies (inhibitors) by appropriate clinical observations or laboratory tests. Perform an assay that measures Factor IX inhibitor concentration if expected plasma Factor IX activity levels are not attained, or if the bleeding is not controlled with an appropriate dose.
+
+
+
+ Patients with Factor IX inhibitors are at an increased risk of severe hypersensitivity reactions or anaphylaxis if re-exposed to Factor IX. Evaluate patients experiencing allergic reactions for the presence of an inhibitor and closely monitor patients with inhibitors for signs and symptoms of acute hypersensitivity reactions, particularly during early phases of exposure to the product [see  Warnings and Precautions (5.1)  ]  .
+
+
+
+    5.3 Thromboembolic Complications
+
+
+
+  Thromboembolism (e.g., pulmonary embolism, venous thrombosis, and arterial thrombosis) may occur when using Factor IX-containing products. Because of the potential risk for thromboembolism with the use of Factor IX products, monitor for early signs of thromboembolism and consumptive coagulopathy when administering IDELVION to patients with liver disease, fibrinolysis, perioperative status, or risk factors for thromboembolic events or disseminated intravascular coagulation.
+
+
+
+    5.4 Nephrotic Syndrome
+
+
+
+  Nephrotic syndrome has been reported following attempted immune tolerance induction in hemophilia B patients with Factor IX inhibitors and a history of allergic reactions. The safety and efficacy of using IDELVION for immune tolerance induction have not been established.
+
+
+
+    5.5 Monitoring Laboratory Tests
+
+
+
+    *  Monitor Factor IX plasma levels by a one-stage clotting assay to confirm that adequate Factor IX levels have been achieved and maintained [see  Dosage and Administration (2.1)  ] . Factor IX activity assay results may vary with the type of activated partial thromboplastin time (aPTT) reagent used in the assay system.  1  For example, kaolin-based aPTT reagents along with other reagents designed to exhibit low responsiveness to lupus anticoagulant  2  have been shown to result in approximately 50% lower than expected recovery based on labeled potency. 
+ *  Consistent with similar findings for other recombinant Factor IX products, overestimation of Factor IX activity in spiked samples of IDELVION (mean overestimation 32%) occurred at low Factor IX levels with commonly used aPTT reagents.  3   
+ *  Monitor patients for the development of inhibitors if expected Factor IX activity plasma levels are not attained, or if bleeding is not controlled with the recommended dose of IDELVION. Assays used to determine if a Factor IX inhibitor is present should be titered in Bethesda Units (BUs). 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

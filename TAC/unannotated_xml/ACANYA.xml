@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="acanya" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The following selected adverse reactions occurred in less than 0.2% of patients: application site pain (0.1%); application site exfoliation (0.1%); and application site irritation (0.1%). (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trial may not reflect the rates observed in practice. Because clinical trials are also conducted under widely varying conditions, adverse reactions observed in the clinical trials of a drug cannot always be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The following selected adverse reactions occurred in less than 0.2% of patients treated with ACANYA Gel: application site pain (0.1%); application site exfoliation (0.1%); and application site irritation (0.1%).
+
+
+
+ During clinical trials, subjects were assessed for local cutaneous signs and symptoms of erythema, scaling, itching, burning and stinging. Most local skin reactions increased and peaked around week 4 and continually decreased over time reaching near baseline levels by week 12. The percentage of subjects that had symptoms present before treatment, the maximum value recorded during treatment, and the percent with symptoms present at week 12 are shown in Table 1.
+
+
+
+ Table 1: Local Skin Reactions - Percent of Subjects with Symptoms Present. Combined Results from the Two Phase 3 Trials (N = 773) 
+             Before Treatment(Baseline)  Maximum DuringTreatment  End of Treatment(Week 12)   
+                Mild        Mod.       Severe       Mild        Mod.       Severe       Mild        Mod.       Severe     
+  
+   Erythema      22          4           0           25          5          &lt; 1          15          2           0        
+   Scaling       8          &lt; 1          0           18          3           0           8           1           0        
+   Itching       10          2           0           15          2           0           6          &lt; 1          0        
+   Burning       3          &lt; 1          0           8           2           0           2          &lt; 1          0        
+   Stinging      2          &lt; 1          0           6           1           0           1          &lt; 1          0        
+                  6.2 Postmarketing Experience
+   Anaphylaxis, as well as allergic reactions leading to hospitalizations, has been reported in postmarketing use of products containing clindamycin/benzoyl peroxide.
+
+
+
+ Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Colitis: Orally and parenterally administered clindamycin has been associated with severe colitis, which may result in death. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin. ACANYA Gel should be discontinued if significant diarrhea occurs. (  5.1  ) 
+ *  Ultraviolet Light and Environmental Exposure: Minimize sun exposure following drug application. (  5.2  ) 
+    
+ 
+
+   5.1 Colitis
+
+
+
+  Systemic absorption of clindamycin has been demonstrated following topical use of clindamycin. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin. When significant diarrhea occurs, ACANYA Gel should be discontinued.
+
+
+
+ Severe colitis has occurred following oral and parenteral administration of clindamycin with an onset of up to several weeks following cessation of therapy. Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen severe colitis. Severe colitis may result in death.
+
+
+
+ Studies indicate toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis. The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus. Stool cultures for Clostridium difficile  and stool assay for C. difficile  toxin may be helpful diagnostically.
+
+
+
+    5.2 Ultraviolet Light and Environmental Exposure
+
+
+
+  Minimize sun exposure including use of tanning beds or sun lamps following drug application [ see  Nonclinical Toxicology (13.1)    ] .  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

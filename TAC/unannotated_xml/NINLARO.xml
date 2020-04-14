@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ninlaro" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are described in detail in other sections of the prescribing information:
+
+
+
+ *  Thrombocytopenia [ see  Warnings and Precautions (5.1)   ] 
+ *  Gastrointestinal Toxicities [ see  Warnings and Precautions (5.2)   ] 
+ *  Peripheral Neuropathy [ see  Warnings and Precautions (5.3)   ] 
+ *  Peripheral Edema [ see  Warnings and Precautions (5.4)   ] 
+ *  Cutaneous Reactions [ see  Warnings and Precautions (5.5)   ] 
+ *  Hepatotoxicity [ see  Warnings and Precautions (5.6)   ] 
+      EXCERPT:   The most common adverse reactions (&gt;= 20%) are diarrhea, constipation, thrombocytopenia, peripheral neuropathy, nausea, peripheral edema, vomiting, and back pain. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Takeda Pharmaceuticals America, Inc. at 1-844-617-6468 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety population from the randomized, double-blind, placebo-controlled clinical study included 720 patients with relapsed and/or refractory multiple myeloma, who received NINLARO in combination with lenalidomide and dexamethasone (NINLARO regimen; N=360) or placebo in combination with lenalidomide and dexamethasone (placebo regimen; N=360).
+
+
+
+ The most frequently reported adverse reactions (&gt;= 20%) in the NINLARO regimen and greater than the placebo regimen were diarrhea, constipation, thrombocytopenia, peripheral neuropathy, nausea, peripheral edema, vomiting, and back pain. Serious adverse reactions reported in &gt;= 2% of patients included thrombocytopenia (2%) and diarrhea (2%). For each adverse reaction, one or more of the three drugs was discontinued in &lt;= 1% of patients in the NINLARO regimen.
+
+
+
+ Table 4 summarizes the adverse reactions occurring in at least 5% of patients with at least a 5% difference between the NINLARO regimen and the placebo regimen.
+
+
+
+ Table 4: Non-Hematologic Adverse Reactions Occurring in &gt;= 5% of Patients with a &gt;= 5% Difference Between the NINLARO Regimen and the Placebo Regimen (All Grades, Grade 3 and Grade 4) 
+                                           NINLARO + Lenalidomide and DexamethasoneN=360  Placebo + Lenalidomide and DexamethasoneN=360   
+ System Organ Class /Preferred Term          N (%)       N (%)      
+                                              All       Grade 3     Grade 4       All       Grade 3     Grade 4     
+  
+   Note: Adverse reactions included as preferred terms are based on MedDRA version 16.0.     
+  
+   Infections and infestations                                                                                      
+   Upper respiratory tract infection        69 (19)     1 (&lt; 1)        0        52 (14)     2 (&lt; 1)        0        
+   Nervous system disorders                                                                                         
+   Peripheral neuropathies                  100 (28)     7 (2)         0        77 (21)      7 (2)         0        
+   Gastrointestinal disorders                                                                                       
+   Diarrhea                                 151 (42)     22 (6)        0        130 (36)     8 (2)         0        
+   Constipation                             122 (34)    1 (&lt; 1)        0        90 (25)     1 (&lt; 1)        0        
+   Nausea                                   92 (26)      6 (2)         0        74 (21)        0           0        
+   Vomiting                                 79 (22)      4 (1)         0        38 (11)     2 (&lt; 1)        0        
+   Skin and subcutaneous tissue disorders                                                                             
+   Rash                                     68 (19)      9 (3)         0        38 (11)      5 (1)         0        
+   Musculoskeletal and connective tissue disorders                                                                             
+   Back pain                                74 (21)     2 (&lt; 1)        0        57 (16)      9 (3)         0        
+   General disorders and administration site conditions                                                                             
+   Edema peripheral                         91 (25)      8 (2)         0        66 (18)      4 (1)         0        
+             Table 5 represents pooled information from adverse event and laboratory data.
+ 
+
+ Table 5: Thrombocytopenia and Neutropenia 
+                               NINLARO + Lenalidomide and DexamethasoneN=360  Placebo + Lenalidomide and DexamethasoneN=360   
+                                     N (%)               N (%)          
+                                   Any Grade           Grade 3-4           Any Grade           Grade 3-4        
+  
+ Thrombocytopenia                   281 (78)            93 (26)             196 (54)            39 (11)         
+ Neutropenia                        240 (67)            93 (26)             239 (66)            107 (30)        
+               Eye Disorders  
+ 
+
+ Eye disorders were reported with many different preferred terms but in aggregate, the frequency was 26% in patients in the NINLARO regimen and 16% of patients in the placebo regimen. The most common adverse reactions were blurred vision (6% in the NINLARO regimen and 3% in the placebo regimen), dry eye (5% in the NINLARO regimen and 1% in the placebo regimen), and conjunctivitis (6% in the NINLARO regimen and 1% in the placebo regimen). Grade 3 adverse reactions were reported in 2% of patients in the NINLARO regimen and 1% in the placebo regimen.
+
+
+
+     Adverse Reactions Reported Outside of the Randomized Controlled Trial  
+
+
+
+ The following serious adverse reactions have each been reported at a frequency of &lt; 1%: acute febrile neutrophilic dermatosis (Sweet's syndrome), Stevens-Johnson syndrome, transverse myelitis, posterior reversible encephalopathy syndrome, tumor lysis syndrome, and thrombotic thrombocytopenic purpura.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Thrombocytopenia: Monitor platelet counts at least monthly during treatment and adjust dosing, as needed. (  2.2  ,  5.1  ) 
+ *  Gastrointestinal Toxicities: Adjust dosing for severe diarrhea, constipation, nausea, and vomiting, as needed. (  2.2  ,  5.2  ) 
+ *  Peripheral Neuropathy: Monitor patients for symptoms of peripheral neuropathy and adjust dosing, as needed. (  2.2  ,  5.3  ) 
+ *  Peripheral Edema: Monitor for fluid retention. Investigate for underlying causes, when appropriate. Adjust dosing, as needed. (  2.2  ,  5.4  ) 
+ *  Cutaneous Reactions: Monitor patients for rash and adjust dosing, as needed. (  2.2  ,  5.5  ) 
+ *  Hepatotoxicity: Monitor hepatic enzymes during treatment. (  5.6  ) 
+ *  Embryo-Fetal Toxicity: NINLARO can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception. (  5.7  ,  8.1  ) 
+    
+ 
+
+   5.1 Thrombocytopenia
+
+
+
+  Thrombocytopenia has been reported with NINLARO with platelet nadirs typically occurring between Days 14-21 of each 28-day cycle and recovery to baseline by the start of the next cycle. Three percent of patients in the NINLARO regimen and 1% of patients in the placebo regimen had a platelet count &lt;= 10,000/mm  3  during treatment. Less than 1% of patients in both regimens had a platelet count &lt;= 5000/mm  3  during treatment. Discontinuations due to thrombocytopenia were similar in both regimens (&lt; 1% of patients in the NINLARO regimen and 2% of patients in the placebo regimen discontinued one or more of the three drugs).The rate of platelet transfusions was 6% in the NINLARO regimen and 5% in the placebo regimen.
+
+
+
+ Monitor platelet counts at least monthly during treatment with NINLARO. Consider more frequent monitoring during the first three cycles. Manage thrombocytopenia with dose modifications [ see  Dosage and Administration (2.2)    ] and platelet transfusions as per standard medical guidelines.
+
+
+
+    5.2 Gastrointestinal Toxicities
+
+
+
+  Diarrhea, constipation, nausea, and vomiting, have been reported with NINLARO, occasionally requiring use of antidiarrheal and antiemetic medications, and supportive care. Diarrhea was reported in 42% of patients in the NINLARO regimen and 36% in the placebo regimen, constipation in 34% and 25%, respectively, nausea in 26% and 21%, respectively, and vomiting in 22% and 11%, respectively. Diarrhea resulted in discontinuation of one or more of the three drugs in 1% of patients in the NINLARO regimen and &lt; 1% of patients in the placebo regimen. Adjust dosing for Grade 3 or 4 symptoms [ see  Dosage and Administration (2.2)    ] .  
+
+
+
+    5.3 Peripheral Neuropathy
+
+
+
+  The majority of peripheral neuropathy adverse reactions were Grade 1 (18% in the NINLARO regimen and 14% in the placebo regimen) and Grade 2 (8% in the NINLARO regimen and 5% in the placebo regimen). Grade 3 adverse reactions of peripheral neuropathy were reported at 2% in both regimens; there were no Grade 4 or serious adverse reactions.
+
+
+
+ The most commonly reported reaction was peripheral sensory neuropathy (19% and 14% in the NINLARO and placebo regimen, respectively). Peripheral motor neuropathy was not commonly reported in either regimen (&lt; 1%). Peripheral neuropathy resulted in discontinuation of one or more of the three drugs in 1% of patients in both regimens. Patients should be monitored for symptoms of neuropathy. Patients experiencing new or worsening peripheral neuropathy may require dose modification [ see  Dosage and Administration (2.2)    ] .  
+
+
+
+    5.4 Peripheral Edema
+
+
+
+  Peripheral edema was reported in 25% and 18% of patients in the NINLARO and placebo regimens, respectively. The majority of peripheral edema adverse reactions were Grade 1 (16% in the NINLARO regimen and 13% in the placebo regimen) and Grade 2 (7% in the NINLARO regimen and 4% in the placebo regimen).
+
+
+
+ Grade 3 peripheral edema was reported in 2% and 1% of patients in the NINLARO and placebo regimens, respectively. There was no Grade 4 peripheral edema reported. There were no discontinuations reported due to peripheral edema. Evaluate for underlying causes and provide supportive care, as necessary. Adjust dosing of dexamethasone per its prescribing information or NINLARO for Grade 3 or 4 symptoms [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.5 Cutaneous Reactions
+
+
+
+  Rash was reported in 19% of patients in the NINLARO regimen and 11% of patients in the placebo regimen. The majority of the rash adverse reactions were Grade 1 (10% in the NINLARO regimen and 7% in the placebo regimen) or Grade 2 (6% in the NINLARO regimen and 3% in the placebo regimen). Grade 3 rash was reported in 3% of patients in the NINLARO regimen and 1% of patients in the placebo regimen. There were no Grade 4 or serious adverse reactions of rash reported. The most common type of rash reported in both regimens included maculo-papular and macular rash. Rash resulted in discontinuation of one or more of the three drugs in &lt; 1% of patients in both regimens. Manage rash with supportive care or with dose modification if Grade 2 or higher [ see  Dosage and Administration (2.2)    ] .  
+
+
+
+    5.6 Hepatotoxicity
+
+
+
+  Drug-induced liver injury, hepatocellular injury, hepatic steatosis, hepatitis cholestatic and hepatotoxicity have each been reported in &lt; 1% of patients treated with NINLARO. Events of liver impairment have been reported (6% in the NINLARO regimen and 5% in the placebo regimen). Monitor hepatic enzymes regularly and adjust dosing for Grade 3 or 4 symptoms [ see  Dosage and Administration (2.2)    ] .  
+
+
+
+    5.7 Embryo-Fetal Toxicity
+
+
+
+  NINLARO can cause fetal harm when administered to a pregnant woman based on the mechanism of action and findings in animals. There are no adequate and well-controlled studies in pregnant women using NINLARO. Ixazomib caused embryo-fetal toxicity in pregnant rats and rabbits at doses resulting in exposures that were slightly higher than those observed in patients receiving the recommended dose.
+
+
+
+ Females of reproductive potential should be advised to avoid becoming pregnant while being treated with NINLARO. If NINLARO is used during pregnancy or if the patient becomes pregnant while taking NINLARO, the patient should be apprised of the potential hazard to the fetus. Advise females of reproductive potential that they must use effective contraception during treatment with NINLARO and for 90 days following the final dose [ see  Use in Specific Populations (8.1  ,  8.3)  and  Nonclinical Toxicology (13.1)    ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

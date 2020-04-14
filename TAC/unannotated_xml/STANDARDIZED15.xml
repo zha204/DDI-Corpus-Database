@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="standardized15" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+    Local:  Reactions at the site of injection may be immediate or delayed. Immediate wheal and erythema reactions are ordinarily of little consequence, but if very large, may be the first manifestation of systemic reaction. If large local reactions occur, the patient should be observed for systemic symptoms for which treatment is outlined below. However, systemic reactions may occur in the absence of large local reactions.
+
+
+
+ Delayed reactions start several hours after injection with local edema, erythema, itching or pain. They are usually at their peak at 24 hours and usually require no treatment. Antihistamine drugs may be administered orally.
+
+
+
+ The next therapeutic dose should be reduced to the dose which did not elicit a reaction, and subsequent doses increased more slowly, i.e., use of intermediate dilutions.
+
+
+
+   Systemic:  Reports from regulatory authorities in Sweden to the FDA, indicated that several deaths have been associated with the use of mite extracts. The FDA was subsequently informed that these deaths may have been related to use by physicians untrained in the administration of potent extracts rather than a product defect. It should be noted that anaphylaxis and deaths following the injection of mite and other extracts have also been reported by The British Committee on Safety in Medicine.  9  Fatalities from immunotherapy in the United States since 1945 have been extensively reviewed by Lockey, R F, et al  10  ,     Reid M J et al.  11    and more recently by Bernstein, D. I. et al  23  . With careful attention to dosage and administration, such reactions occur infrequently, but it must be remembered that allergenic extracts are highly potent to sensitive individuals and OVERDOSE could result in anaphylactic symptoms. Therefore, it is imperative that physicians administering allergenic extracts understand and be prepared for the treatment of severe reactions.
+
+
+
+ Systemic reactions are characterized by one or more of the following symptoms: Sneezing, mild to severe general urticaria, itching other than at the injection site, extensive or generalized edema, wheezing, asthma, dyspnea, cyanosis, hypotension, syncope and upper airway obstruction. Symptoms may progress to shock and death. Patients should always be observed for 20 to 30 minutes after any injection. Volume expanders and vasopressor agents may be required to reverse hypotension. Inhalational bronchodilators and parenteral aminophylline may be required to reverse bronchospasm. Severe airway obstruction, unresponsive to bronchodilator, may require tracheal intubation and use of oxygen. In the event of a marked systemic reaction, application of a tourniquet above the injection site and the administration 0.2 mL to 1.0 mL of Epinephrine Injection (1:1000) is recommended. Maximal recommended dose for children under 2 years of age is 0.3 mL. Maximal recommended dose for children between 2 and 12 years of age is 0.5 mL. The tourniquet should not be left in place without loosening for 90 seconds every 15 minutes.
+
+
+
+ The next therapeutic injection of extract should be reduced to the dose which did not elicit a reaction, and subsequent doses increased more slowly, i.e., use of intermediate dilutions.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+    WARNINGS  
+
+  Standardized allergenic extract is intended for use by physicians who are experienced in the administration of standardized (AU/mL) allergenic extracts for immunotherapy and the emergency care of anaphylaxis, or for use under the guidance of an allergy specialist.  Standardized allergenic extracts are not directly interchangeable with allergenic extracts of the same labeled potency from different manufacturers.  The patient must be re-evaluated with the newly selected extract.  The initial dose must be based on skin testing as described in the dosage and administration section of this insert.  Patients being switched from other types of extracts to standardized allergenic extracts should be started as though they were coming under treatment for the first time.  Patients should be instructed to recognize adverse reaction symptoms and cautioned to contact the physician's office if reaction symptoms occur.  As with all allergenic extracts, severe systemic reactions may occur.  Patients with unstable asthma or steroid dependent asthmatics and patients with underlying cardiovascular disease are at greater risk.  In certain individuals, these life-threatening reactions may result in death.  Patients should be observed for 20 to 30 minutes following treatment, and emergency measures, as well as personnel trained in their use, should be immediately available in the event of a life-threatening reaction.
+
+
+
+ This product should not be injected intravenously.  Deep subcutaneous routes have proven to be safe.  See the   warnings  ,   precautions  ,   adverse reactions   and   over-dosage   sections below.
+
+
+
+ Sensitive patients may experience severe anaphylactic reactions resulting in respiratory obstruction, shock, coma and/or death.
+
+
+
+ Patients receiving beta-blockers may not be responsive to epinephrine or inhaled bronchodilators.  Respiratory obstruction not responding to parenteral or inhaled bronchodilators may require theophylline, oxygen, intubation and the use of life support systems.  Parenteral fluid and/or plasma expanders may be utilized for treatment of shock.  Adrenocorticosteroids may be administered parenterally or intravenously.  Refer to the warnings, precautions and adverse reaction sections below.
+
+
+
+ Adverse events are to be reported to MedWatch (1-800-FDA-1088), Adverse Event Reporting, Food and Drug Administration, 5600 Fishers Lane, Rockville, MD 20852-9787.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

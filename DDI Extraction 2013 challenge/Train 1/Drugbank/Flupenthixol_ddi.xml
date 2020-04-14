@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d13">
+    <sentence id="DDI-DrugBank.d13.s0" text="Drug Interactions: Flupenthixol may interact with some drugs, like Monoamine oxidase inhibitors (MAOI): MAOI could theoretically affect flupenthixol pharmacodynamics - Arecoline - Eproxindine - Ethanol: Flupenthixol and Ethanol cause additive CNS depression - Tricyclic antidepressants: Flupenthixol increases the effect of Tricyclic antidepressants">
+        <entity id="DDI-DrugBank.d13.s0.e0" charOffset="19-30"
+            type="drug" text="Flupenthixol"/>
+        <entity id="DDI-DrugBank.d13.s0.e1" charOffset="67-94"
+            type="group" text="Monoamine oxidase inhibitors"/>
+        <entity id="DDI-DrugBank.d13.s0.e2" charOffset="97-100"
+            type="group" text="MAOI"/>
+        <entity id="DDI-DrugBank.d13.s0.e3" charOffset="104-107"
+            type="group" text="MAOI"/>
+        <entity id="DDI-DrugBank.d13.s0.e4" charOffset="136-147"
+            type="drug" text="flupenthixol"/>
+        <entity id="DDI-DrugBank.d13.s0.e5" charOffset="168-176"
+            type="drug_n" text="Arecoline"/>
+        <entity id="DDI-DrugBank.d13.s0.e6" charOffset="194-200"
+            type="drug" text="Ethanol"/>
+        <entity id="DDI-DrugBank.d13.s0.e7" charOffset="203-214"
+            type="drug" text="Flupenthixol"/>
+        <entity id="DDI-DrugBank.d13.s0.e8" charOffset="220-226"
+            type="drug" text="Ethanol"/>
+        <entity id="DDI-DrugBank.d13.s0.e9" charOffset="260-284"
+            type="group" text="Tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d13.s0.e10" charOffset="287-298"
+            type="drug" text="Flupenthixol"/>
+        <entity id="DDI-DrugBank.d13.s0.e11" charOffset="324-348"
+            type="group" text="Tricyclic antidepressants"/>
+        <ddi id="DDI-DrugBank.d13.s0.d0" e1="DDI-DrugBank.d13.s0.e0"
+            e2="DDI-DrugBank.d13.s0.e1" type="int"/>
+        <ddi id="DDI-DrugBank.d13.s0.d1" e1="DDI-DrugBank.d13.s0.e0"
+            e2="DDI-DrugBank.d13.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d13.s0.d2" e1="DDI-DrugBank.d13.s0.e3"
+            e2="DDI-DrugBank.d13.s0.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d13.s0.d3" e1="DDI-DrugBank.d13.s0.e7"
+            e2="DDI-DrugBank.d13.s0.e8" type="effect"/>
+        <ddi id="DDI-DrugBank.d13.s0.d4" e1="DDI-DrugBank.d13.s0.e10"
+            e2="DDI-DrugBank.d13.s0.e11" type="effect"/>
+    </sentence>
+</document>

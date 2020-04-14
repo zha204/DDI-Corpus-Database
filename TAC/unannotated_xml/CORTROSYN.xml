@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cortrosyn" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Since CORTROSYN  (r)  (cosyntropin) for Injection is intended for diagnostic and not therapeutic use, adverse reactions other than a rare hypersensitivity reaction are not anticipated. A rare hypersensitivity reaction usually associated with a pre-existing allergic disease and/or a previous reaction to natural ACTH is possible. Symptoms may include slight whealing with splotchy erythema at the injection site. There have been rare reports of anaphylactic reaction. The following adverse reactions have been reported in patients after the administration of CORTROSYN  (r)  and the association has been neither confirmed nor refuted:
+
+
+
+ ? bradycardia? tachycardia? hypertension? peripheral edema? rash
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

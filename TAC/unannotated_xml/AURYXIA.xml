@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="auryxia" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *  In clinical trials, likely adverse reactions occurring with Auryxia included diarrhea, discolored feces, constipation, nausea, and vomiting (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Keryx Biopharmaceuticals at 1-844-445-3799 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to adverse reaction rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse  reactions  to a drug are most readily ascertained by comparison with placebo, but there is little placebo-controlled experience with Auryxia, so this section describes adverse  events  with Auryxia, some of which may be disease-related, rather than treatment-related.
+
+
+
+ A total of 289 patients were treated with Auryxia and 149 patients were treated with active control (sevelamer carbonate and/or calcium acetate) during the 52-week, randomized, open-label, active control phase of a trial in patients on dialysis. A total of 322 patients were treated with Auryxia for up to 28 days in three short-term trials. Across these trials, 557 unique patients were treated with Auryxia; dosage regimens in these trials ranged from 210 mg to 2,520 mg of ferric iron per day, equivalent to 1 to 12 tablets of Auryxia. In these trials, adverse events reported for Auryxia were similar to those reported for the active control group.
+
+
+
+ Adverse events reported in more than 5% of patients treated with Auryxia in these trials included diarrhea (21%), nausea (11%), constipation (8%), vomiting (7%), and cough (6%).
+
+
+
+ During the 52-week, active-control period, 60 patients (21%) on Auryxia discontinued study drug because of an adverse event, as compared to 21 patients (14%) in the active control arm. Patients who were previously intolerant to any of the active control treatments (calcium acetate and sevelamer carbonate) were not eligible to enroll in the study. Gastrointestinal adverse reactions were the most common reason for discontinuing Auryxia (14%).
+
+
+
+ Auryxia is associated with discolored feces (dark stools) related to the iron content, but this staining is not clinically relevant and does not affect laboratory tests for occult bleeding, which detect heme rather than non-heme iron in the stool.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Iron overload: Monitor ferritin and TSAT. Patients may require a reduction in dose or discontinuation of IV iron. (  5.1  ) 
+ *  Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6 years of age. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately. (  5.2  ) 
+ *  Patients with gastrointestinal bleeding or inflammation: Safety has not been established. (  5.3  ) 
+    
+ 
+
+   5.1 Iron Overload
+
+
+
+  Iron absorption from Auryxia may lead to excessive elevations in iron stores. Increases in serum ferritin and transferrin saturation (TSAT) levels were observed in clinical trials. In a 56-week safety and efficacy trial in which concomitant use of Auryxia and IV iron was permitted, 55 (19%) of patients treated with Auryxia had a ferritin level &gt;1500 ng/mL as compared with 13 (9%) of patients treated with active control.
+
+
+
+ Assess iron parameters (e.g., serum ferritin and TSAT) prior to initiating Auryxia and monitor iron parameters while on therapy [see Contraindications (  4  ), Overdosage (  10  ) and Clinical Pharmacology (  12.2  )]  . Patients receiving IV iron may require a reduction in dose or discontinuation of IV iron therapy.
+
+
+
+    5.2 Accidental Overdose of Iron
+
+
+
+  Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6 years of age. Keep this product out of the reach of children. In case of accidental overdose, call a doctor or poison control center immediately.
+
+
+
+    5.3 Patients with Gastrointestinal Bleeding or Inflammation
+
+
+
+  Patients with inflammatory bowel disease or active, symptomatic gastrointestinal bleeding were excluded from clinical trials. Safety has not been established in these populations.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

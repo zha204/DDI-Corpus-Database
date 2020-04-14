@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d18">
+    <sentence id="DDI-DrugBank.d18.s0" text="Tablets: The benzodiazepines, including lorazepam, produce CNS-depressant effects when administered with such medications as barbiturates or alcohol.">
+        <entity id="DDI-DrugBank.d18.s0.e0" charOffset="13-27"
+            type="group" text="benzodiazepines"/>
+        <entity id="DDI-DrugBank.d18.s0.e1" charOffset="40-48"
+            type="drug" text="lorazepam"/>
+        <entity id="DDI-DrugBank.d18.s0.e2" charOffset="125-136"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d18.s0.e3" charOffset="141-147"
+            type="drug" text="alcohol"/>
+        <ddi id="DDI-DrugBank.d18.s0.d0" e1="DDI-DrugBank.d18.s0.e0"
+            e2="DDI-DrugBank.d18.s0.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s0.d1" e1="DDI-DrugBank.d18.s0.e0"
+            e2="DDI-DrugBank.d18.s0.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s0.d2" e1="DDI-DrugBank.d18.s0.e1"
+            e2="DDI-DrugBank.d18.s0.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s0.d3" e1="DDI-DrugBank.d18.s0.e1"
+            e2="DDI-DrugBank.d18.s0.e3" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d18.s1" text="Injection: Lorazepam injection, like other injectable benzodiazepines, produces depression of the central nervous system when administered with ethyl alcohol, phenothiazines, barbiturates, MAO inhibitors, and other antidepressants.When scopolamine is used concomitantly with injectable lorazepam, an increased incidence of sedation, hallucinations, and irrational behavior has been observed.">
+        <entity id="DDI-DrugBank.d18.s1.e0" charOffset="11-19"
+            type="drug" text="Lorazepam"/>
+        <entity id="DDI-DrugBank.d18.s1.e1" charOffset="54-68"
+            type="group" text="benzodiazepines"/>
+        <entity id="DDI-DrugBank.d18.s1.e2" charOffset="144-156"
+            type="drug" text="ethyl alcohol"/>
+        <entity id="DDI-DrugBank.d18.s1.e3" charOffset="159-172"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d18.s1.e4" charOffset="175-186"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d18.s1.e5" charOffset="189-202"
+            type="group" text="MAO inhibitors"/>
+        <entity id="DDI-DrugBank.d18.s1.e6" charOffset="215-229"
+            type="group" text="antidepressants"/>
+        <entity id="DDI-DrugBank.d18.s1.e7" charOffset="236-246"
+            type="drug" text="scopolamine"/>
+        <entity id="DDI-DrugBank.d18.s1.e8" charOffset="286-294"
+            type="drug" text="lorazepam"/>
+        <ddi id="DDI-DrugBank.d18.s1.d0" e1="DDI-DrugBank.d18.s1.e0"
+            e2="DDI-DrugBank.d18.s1.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d1" e1="DDI-DrugBank.d18.s1.e0"
+            e2="DDI-DrugBank.d18.s1.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d2" e1="DDI-DrugBank.d18.s1.e0"
+            e2="DDI-DrugBank.d18.s1.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d3" e1="DDI-DrugBank.d18.s1.e0"
+            e2="DDI-DrugBank.d18.s1.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d4" e1="DDI-DrugBank.d18.s1.e0"
+            e2="DDI-DrugBank.d18.s1.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d5" e1="DDI-DrugBank.d18.s1.e1"
+            e2="DDI-DrugBank.d18.s1.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d6" e1="DDI-DrugBank.d18.s1.e1"
+            e2="DDI-DrugBank.d18.s1.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d7" e1="DDI-DrugBank.d18.s1.e1"
+            e2="DDI-DrugBank.d18.s1.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d8" e1="DDI-DrugBank.d18.s1.e1"
+            e2="DDI-DrugBank.d18.s1.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d9" e1="DDI-DrugBank.d18.s1.e1"
+            e2="DDI-DrugBank.d18.s1.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d18.s1.d10" e1="DDI-DrugBank.d18.s1.e7"
+            e2="DDI-DrugBank.d18.s1.e8" type="effect"/>
+    </sentence>
+</document>

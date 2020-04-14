@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="plasmanate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Hypotension may occur, particularly following rapid infusion or intraarterial administration to patients on cardiopulmonary bypass. The blood pressure may normalize spontaneously after the slowing or discontinuation of the infusion. Vasopressors will also correct the hypotension.
+
+
+
+ Flushing, urticaria, back pain, nausea and headache have been occasionally reported by conscious patients.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

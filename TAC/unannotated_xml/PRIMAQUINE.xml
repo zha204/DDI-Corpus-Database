@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="primaquine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Gastrointestinal:  Nausea, vomiting, epigastric distress, and abdominal cramps.
+
+
+
+   Hematologic:  Leukopenia, hemolytic anemia in G6PD deficient individuals, and methemoglobinemia in nicotinamide adenine dinucleotide (NADH) methemoglobin reductase deficient individuals.
+
+
+
+   Cardiac:  Cardiac arrhythmia and QT interval prolongation (see  PRECAUTIONS  ,  OVERDOSAGE  ).
+
+
+
+   Nervous System:  Dizziness.
+
+
+
+   Skin and Soft Tissue:  Rash, pruritus.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

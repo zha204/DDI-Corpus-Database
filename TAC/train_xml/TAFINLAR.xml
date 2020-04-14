@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tafinlar" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in another section of the label:
+
+
+
+ *    New Primary Malignancies [see Warnings and Precautions (5.1)]  
+ *    Tumor Promotion in BRAF Wild-Type Melanoma [see Warnings and Precautions (5.2)]  
+ *    Hemorrhage [see Warnings and Precautions (5.3)]  
+ *    Venous Thromboembolism [see Warnings and Precautions (5.4)]  
+ *    Cardiomyopathy [see Warnings and Precautions (5.5)]  
+ *    Ocular Toxicities [see Warnings and Precautions (5.6)]  
+ *    Serious Febrile Reactions [see Warnings and Precautions (5.7)]  
+ *    Serious Skin Toxicity [see Warnings and Precautions (5.8)]  
+ *    Hyperglycemia [see Warnings and Precautions (5.9)]  
+ *    Glucose-6-Phosphate Dehydrogenase Deficiency [see Warnings and Precautions (5.10)]  
+   *    Most common adverse reactions (&gt;=20%) for TAFINLAR as a single agent are hyperkeratosis, headache, pyrexia, arthralgia, papilloma, alopecia, and palmar-plantar erythrodysesthesia syndrome. (  6.1  ) 
+ *    Most common adverse reactions (&gt;=20%) for TAFINLAR in combination with trametinib are pyrexia, chills, fatigue, rash, nausea, vomiting, diarrhea, abdominal pain, peripheral edema, cough, headache, arthralgia, night sweats, decreased appetite, constipation, and myalgia. (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described in the Warnings and Precautions section and below reflect exposure to TAFINLAR as a single agent and in combination with trametinib.
+
+
+
+   BRAF V600E Unresectable or Metastatic Melanoma:  
+
+
+
+ The safety of TAFINLAR as a single agent was evaluated in 586 patients with BRAF V600 mutation-positive unresectable or metastatic melanoma, previously treated or untreated, who received TAFINLAR 150 mg orally twice daily until disease progression or unacceptable toxicity, including 181 patients treated for at least 6 months and 86 additional patients treated for more than 12 months. TAFINLAR was studied in open-label, single-arm trials and in an open-label, randomized, active-controlled trial. The median daily dose of TAFINLAR was 300 mg (range: 118 to 300 mg).
+
+
+
+ Table 3 and Table 4 present adverse drug reactions and laboratory abnormalities identified from analyses of Trial 1  [see Clinical Studies (14.1)].  Trial 1, a multicenter, international, open-label, randomized (3:1), controlled trial allocated 250 patients with unresectable or metastatic BRAF V600E mutation-positive melanoma to receive TAFINLAR 150 mg orally twice daily (n = 187) or dacarbazine 1,000 mg/m  2  intravenously every 3 weeks (n = 63). The trial excluded patients with abnormal left ventricular ejection fraction or cardiac valve morphology (&gt;=Grade 2), corrected QT interval &gt;=480 milliseconds on electrocardiogram, or a known history of glucose-6-phosphate dehydrogenase deficiency. The median duration on treatment was 4.9 months for patients treated with TAFINLAR and 2.8 months for dacarbazine-treated patients. The population exposed to TAFINLAR was 60% male, 99% white, and had a median age of 53 years.
+
+
+
+ The most commonly occurring adverse reactions (&gt;=20%) in patients treated with TAFINLAR were, in order of decreasing frequency: hyperkeratosis, headache, pyrexia, arthralgia, papilloma, alopecia, and palmar-plantar erythrodysesthesia syndrome (PPES).
+
+
+
+ The incidence of adverse events resulting in permanent discontinuation of study medication in Trial 1 was 3% for patients treated with TAFINLAR and 3% for patients treated with dacarbazine. The most frequent (&gt;=2%) adverse reactions leading to dose reduction of TAFINLAR were pyrexia (9%), PPES (3%), chills (3%), fatigue (2%), and headache (2%).
+
+
+
+ Table 3. Selected Common Adverse Reactions Occurring in &gt;=10% (All Grades) or &gt;=2% (Grades 3 or 4) of Patients Treated With TAFINLARa 
+                                                                TAFINLARN = 187    Dacarbazine N = 59    
+  Primary System Organ Class  Preferred Term                    All  Grades (%)    Grades  3 and 4b  (%)    All  Grades (%)    Grades  3 and 4  (%)    
+  Skin and subcutaneous tissue disorders                                                                       
+                                                               Hyperkeratosis                                               
+                                                                                                                              37           1          0            0         
+                                                               Alopecia                                                     
+                                                                                                                              22           NAf        2            NAf       
+                                                               Palmar-plantar erythrodysesthesia syndrome                   
+                                                                                                                              20           2          2            0         
+                                                               Rash                                                         
+                                                                                                                              17           0          0            0         
+  Nervous system disorders                                                                                     
+                                                               Headache                                                     
+                                                                                                                              32           0          8            0         
+  General disorders and administration site conditions                                                         
+                                                               Pyrexia                                                      
+                                                                                                                              28           3          10           0         
+  Musculoskeletal and connective tissue disorders                                                              
+                                                               Arthralgia                                                   
+                                                                                                                              27           1          2            0         
+                                                               Back pain                                                    
+                                                                                                                              12           3          7            0         
+                                                               Myalgia                                                      
+                                                                                                                              11           0          0            0         
+  Neoplasms benign, malignant, and unspecified (including cysts and polyps)                                                   
+                                                               Papilloma  c                                                 
+                                                                                                                              27           0          2            0         
+                                                               cuSCC  d, e                                                  
+                                                                                                                              7            4          0            0         
+  Respiratory, thoracic, and mediastinal disorders                                                             
+                                                               Cough                                                        
+                                                                                                                              12           0          5            0         
+  Gastrointestinal disorders                                                                                   
+                                                               Constipation                                                 
+                                                                                                                              11           2          14           0         
+  Infections and infestations                                                                                  
+                                                               Nasopharyngitis                                              
+                                                                                                                              10           0          3            0         
+             a  Adverse drug reactions, reported using MedDRA and graded using CTCAE version 4.0 for assessment of toxicity.
+ 
+
+   b  Grade 4 adverse reactions limited to hyperkeratosis (n = 1) and constipation (n = 1).
+
+
+
+   c  Includes skin papilloma and papilloma.
+
+
+
+   d  Includes squamous cell carcinoma of the skin and keratoacanthoma.
+
+
+
+   e  Cases of cutaneous squamous cell carcinoma were required to be reported as Grade 3 per protocol.
+
+
+
+   f  NA = not applicable.
+
+
+
+ Table 4. Incidence of Laboratory Abnormalities Increased From Baseline Occurring at a Higher Incidence in Patients Treated With TAFINLAR in Trial 1 [Between-Arm Difference of &gt;=5% (All Grades) or &gt;=2% (Grades 3 or 4)] 
+  Test                                           TAFINLAR  N = 187    DTIC  N = 59    
+  All  Grades  (%)                               Grades  3 and 4  (%)    All  Grades  (%)    Grades  3 and 4  (%)    
+  Hyperglycemia                                  50              6               43              0               
+  Hypophosphatemia                               37              6a              14              2               
+  Increased alkaline phosphatase                 19              0               14              2               
+  Hyponatremia                                   8               2               3               0               
+             a  Grade 4 laboratory abnormality limited to hypophosphatemia (n = 1).
+ 
+
+ Other clinically important adverse reactions observed in &lt;10% of patients (N = 586) treated with TAFINLAR were:
+
+
+
+   Gastrointestinal Disorders:  Pancreatitis.
+
+
+
+   Immune System Disorders:  Hypersensitivity manifesting as bullous rash.
+
+
+
+   Renal and Urinary Disorders:  Interstitial nephritis.
+
+
+
+   BRAF V600E or V600K Unresectable or Metastatic Melanoma:  
+
+
+
+ The safety of TAFINLAR in combination with trametinib was evaluated in Trial 2 and other trials consisting of a total of 202 patients with BRAF V600 mutation-positive unresectable or metastatic melanoma who received TAFINLAR 150 mg orally twice daily in combination with trametinib 2 mg orally once daily until disease progression or unacceptable toxicity. Among these 202 patients, 66 (33%) were exposed to TAFINLAR and 68 (34%) were exposed to trametinib for greater than 6 to 12 months while 40 (20%) were exposed to TAFINLAR and 36 (18%) were exposed to trametinib for greater than one year. The median age was 54 years, 57% were male, and &gt;99% were white.
+
+
+
+ Table 5 presents adverse reactions from Trial 2, a multicenter, open-label, randomized trial of 162 patients with BRAF V600E or V600K mutation-positive melanoma receiving TAFINLAR 150 mg twice daily in combination with trametinib 2 mg orally once daily (n = 55), TAFINLAR 150 mg orally twice daily in combination with trametinib 1 mg once daily (n = 54), and TAFINLAR as a single agent 150 mg orally twice daily (n = 53)  [see Clinical Studies (14.2)]  . Patients with abnormal LVEF, history of acute coronary syndrome within 6 months, current evidence of Class II or greater congestive heart failure (New York Heart Association), history RVO or RPED, QTc interval &gt;=480 msec, treatment refractory hypertension, uncontrolled arrhythmias, history of pneumonitis or interstitial lung disease, or a known history of G6PD deficiency were excluded. The median duration of treatment was 10.9 months for both TAFINLAR and trametinib (2-mg orally once-daily treatment group) when used in combination, 10.6 months for both TAFINLAR and trametinib (1-mg orally once-daily treatment group) when used in combination, and 6.1 months for TAFINLAR as a single agent.
+
+
+
+ In Trial 2, 13% of patients receiving TAFINLAR in combination with trametinib experienced adverse reactions resulting in permanent discontinuation of trial medication(s). The most common adverse reaction resulting in permanent discontinuation was pyrexia (4%). Adverse reactions led to dose reductions in 49% and dose interruptions in 67% of patients treated with TAFINLAR in combination with trametinib. Pyrexia, chills, and nausea were the most common reasons cited for dose reductions and pyrexia, chills, and decreased ejection fraction were the most common reasons cited for dose interruptions of TAFINLAR and trametinib when used in combination.
+
+
+
+ Table 5. Common Adverse Drug Reactions Occurring in &gt;=10% at (All Grades) or &gt;=5% (Grades 3 or 4) of Patients Treated With TAFINLAR in Combination With Trametinib in Trial 2 
+  Adverse Reactions          TAFINLAR plus Trametinib 2 mg  N = 55    TAFINLAR plus Trametinib 1 mg  N = 54    TAFINLAR  N = 53    
+  All Gradesa                Grades  3 and 4    All Gradesa    Grades  3 and 4    All  Gradesa    Grades  3 and 4    
+  General disorders and administrative site conditions    
+                            Pyrexia                   
+                                                        71                 5             69                 9             26         0         
+                            Chills                    
+                                                        58                 2             50                 2             17         0         
+                            Fatigue                   
+                                                        53                 4             57                 2             40         6         
+                            Edema peripheral  b       
+                                                        31                 0             28                 0             17         0         
+  Skin and subcutaneous tissue disorders    
+                            Rash  c                   
+                                                        45                 0             43                 2             53         0         
+                            Night Sweats              
+                                                        24                 0             15                 0             6          0         
+                            Dry skin                  
+                                                        18                 0             9                  0             6          0         
+                            Dermatitis acneiform      
+                                                        16                 0             11                 0             4          0         
+                            Actinic keratosis         
+                                                        15                 0             7                  0             9          0         
+                            Erythema                  
+                                                        15                 0             6                  0             2          0         
+                            Pruritus                  
+                                                        11                 0             11                 0             13         0         
+  Gastrointestinal disorders    
+                            Nausea                    
+                                                        44                 2             46                 6             21         0         
+                            Vomiting                  
+                                                        40                 2             43                 4             15         0         
+                            Diarrhea                  
+                                                        36                 2             26                 0             28         0         
+                            Abdominal pain  d         
+                                                        33                 2             24                 2             21         2         
+                            Constipation              
+                                                        22                 0             17                 2             11         0         
+                            Dry mouth                 
+                                                        11                 0             11                 0             6          0         
+  Nervous system disorders    
+                            Headache                  
+                                                        29                 0             37                 2             28         0         
+                            Dizziness                 
+                                                        16                 0             13                 0             9          0         
+  Respiratory, thoracic, and mediastinal disorders    
+                            Cough                     
+                                                        29                 0             11                 0             21         0         
+                            Oropharyngeal pain        
+                                                        13                 0             7                  0             0          0         
+  Musculoskeletal, connective tissue, and bone disorders    
+                            Arthralgia                
+                                                        27                 0             44                 0             34         0         
+                            Myalgia                   
+                                                        22                 2             24                 0             23         2         
+                            Back pain                 
+                                                        18                 5             11                 0             11         2         
+                            Muscle spasms             
+                                                        16                 0             2                  0             4          0         
+                            Pain in extremity         
+                                                        16                 0             11                 2             19         0         
+  Metabolism and nutritional disorders    
+                            Decreased appetite        
+                                                        22                 0             30                 0             19         0         
+                            Dehydration               
+                                                        11                 0             6                  2             2          0         
+  Psychiatric Disorders      
+                            Insomnia                  
+                                                        18                 0             11                 0             8          2         
+  Vascular disorders         
+                            Hemorrhage  e             
+                                                        16                 5             11                 0             2          0         
+  Infections and infestations    
+                            Urinary tract infection   
+                                                        13                 2             6                  0             9          2         
+  Renal and urinary disorders    
+                            Renal failure  f          
+                                                        7                  7             2                  0             0          0         
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.
+ 
+
+   b  Includes the following terms: peripheral edema, edema, and lymphedema.
+
+
+
+   c  Includes the following terms: rash, rash generalized, rash pruritic, rash erythematous, rash papular, rash vesicular, rash macular, and rash maculo-papular.
+
+
+
+   d  Includes the following terms: abdominal pain, abdominal pain upper, abdominal pain lower, and abdominal discomfort.
+
+
+
+   e  Includes the following terms: brain stem hemorrhage, cerebral hemorrhage, gastric hemorrhage, epistaxis, gingival hemorrhage, hematuria, vaginal hemorrhage, hemorrhage intracranial, eye hemorrhage, and vitreous hemorrhage.
+
+
+
+   f  Includes the following terms: renal failure and renal failure acute.
+
+
+
+ Other clinically important adverse reactions (N = 202) observed in &lt;10% of patients treated with TAFINLAR in combination with trametinib were:
+
+
+
+   Eye Disorders:  Vision blurred, transient blindness.
+
+
+
+   Gastrointestinal Disorders:  Stomatitis, pancreatitis.
+
+
+
+   General Disorders and Administration Site Conditions:  Asthenia.
+
+
+
+   Infections and Infestations:  Cellulitis, folliculitis, paronychia, rash pustular.
+
+
+
+   Neoplasms Benign, Malignant, and Unspecified (including cysts and polyps):  Skin papilloma.
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  Palmar-plantar erythrodysesthesia syndrome, hyperkeratosis, hyperhidrosis.
+
+
+
+   Vascular Disorders:  Hypertension.
+
+
+
+ Table 6. Treatment-Emergent Laboratory Abnormalities Occurring at &gt;=10% (All Grades) or &gt;=2% (Grades 3 or 4)] of Patients Treated With TAFINLAR in Combination With Trametinib in Trial 2 
+  Tests                                TAFINLAR plus Trametinib 2 mg  N = 55    TAFINLAR plus Trametinib 1 mg  N = 54    TAFINLAR  N = 53    
+  All  Grades                          Grades  3 and 4    All  Grades    Grades  3 and 4    All  Grades    Grades  3 and 4a    
+  Hematology                           
+                                      Leukopenia                          
+                                                                            62            5             46            4             21        0          
+                                      Lymphopenia                         
+                                                                            55            22            59            19            40        6          
+                                      Neutropenia                         
+                                                                            55            13            37            2             9         2          
+                                      Anemia                              
+                                                                            55            4             46            7             28        0          
+                                      Thrombocytopenia                    
+                                                                            31            4             31            2             8         0          
+  Liver Function Tests                 
+                                      Increased AST                       
+                                                                            60            5             54            0             15        0          
+                                      Increased alkaline phosphatase      
+                                                                            60            2             67            6             26        2          
+                                      Increased ALT                       
+                                                                            42            4             35            4             11        0          
+                                      Hyperbilirubinemia                  
+                                                                            15            0             7             4             0         0          
+  Chemistry                            
+                                      Hyperglycemia                       
+                                                                            58            5             67            6             49        2          
+                                      Increased GGT                       
+                                                                            56            11            54            17            38        2          
+                                      Hyponatremia                        
+                                                                            55            11            48            15            36        2          
+                                      Hypoalbuminemia                     
+                                                                            53            0             43            2             23        0          
+                                      Hypophosphatemia                    
+                                                                            47            5             41            11            40        0          
+                                      Hypokalemia                         
+                                                                            29            2             15            2             23        6          
+                                      Increased creatinine                
+                                                                            24            5             20            2             9         0          
+                                      Hypomagnesemia                      
+                                                                            18            2             2             0             6         0          
+                                      Hyperkalemia                        
+                                                                            18            0             22            0             15        4          
+                                      Hypercalcemia                       
+                                                                            15            0             19            2             4         0          
+                                      Hypocalcemia                        
+                                                                            13            0             20            0             9         0          
+               a  No Grade 4 events were reported in patients receiving TAFINLAR as a single agent.
+ 
+
+ ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; GGT = Gamma glutamyltransferase.
+
+
+
+   QT Prolongation:  In Trial 2, QTcF prolongation to &gt;500 msec occurred in 4% (2/55) of patients treated with TAFINLAR in combination with trametinib and in 2% (1/53) of patients treated with TAFINLAR as a single agent. The QTcF was increased more than 60 msec from baseline in 13% (7/55) of patients treated with TAFINLAR in combination with trametinib and 2% (1/53) of patients treated with TAFINLAR as a single agent.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   Review the Full Prescribing Information for trametinib prior to initiation of TAFINLAR in combination with trametinib. The following serious adverse reactions of trametinib as a single agent, which may occur when TAFINLAR is used in combination with trametinib, are not described in the Full Prescribing Information for TAFINLAR:  
+
+
+
+ *     Retinal vein occlusion  
+ *     Interstitial lung disease  
+   *    New primary malignancies, cutaneous and non-cutaneous, can occur when TAFINLAR is administered as a single agent or in combination with trametinib. Monitor patients for new malignancies prior to initiation of therapy, while on therapy, and following discontinuation of TAFINLAR or the combination therapy. (  5.1  ,  2.3  ) 
+ *    Tumor Promotion in BRAF Wild-Type Melanoma: Increased cell proliferation can occur with BRAF inhibitors. (  5.2  ) 
+ *    Hemorrhage: Major hemorrhagic events can occur in patients receiving TAFINLAR in combination with trametinib. Monitor for signs and symptoms of bleeding. (  5.3  ) 
+ *    Venous Thromboembolism: Deep vein thrombosis and pulmonary embolism can occur in patients receiving TAFINLAR in combination with trametinib. (  5.4  ,  2.3  ) 
+ *    Cardiomyopathy: Assess LVEF before treatment with TAFINLAR in combination with trametinib, after one month of treatment, then every 2 to 3 months thereafter. (  5.5  ,  2.3  ) 
+ *    Ocular Toxicities: Perform ophthalmologic evaluation for any visual disturbances. (  5.6  ,  2.3  ) 
+ *    Serious Febrile Reactions: Incidence and severity of pyrexia are increased with TAFINLAR in combination with trametinib. (  5.7  ,  2.3  ) 
+ *    Serious Skin Toxicity: Monitor for skin toxicities and for secondary infections. Discontinue for intolerable Grade 2, or Grade 3 or 4 rash not improving within 3 weeks despite interruption of TAFINLAR. (  5.8  ,  2.3  ) 
+ *    Hyperglycemia: Monitor serum glucose levels in patients with pre-existing diabetes or hyperglycemia. (  5.9  ) 
+ *    Glucose-6-Phosphate Dehydrogenase Deficiency: Closely monitor for hemolytic anemia. (  5.10  ) 
+ *    Embryofetal Toxicity: Can cause fetal harm. Advise females of reproductive potential of potential risk to a fetus. TAFINLAR may render hormonal contraceptives less effective and an alternative method of contraception should be used. (  5.11  ,  8.1  ) 
+      EXCERPT:   
+ 
+
+   5.1 New Primary Malignancies
+
+
+
+  New primary malignancies, cutaneous and non-cutaneous, can occur when TAFINLAR is administered as a single agent or when used in combination with trametinib.
+
+
+
+  Cutaneous Malignancies:  
+
+
+
+ TAFINLAR results in an increased incidence of cutaneous squamous cell carcinoma, keratoacanthoma, and melanoma. TAFINLAR when used in combination with trametinib results in an increased incidence of basal cell carcinoma.  
+
+
+
+ In Trial 1, cutaneous squamous cell carcinomas and keratoacanthomas (cuSCC) occurred in 7% (14/187) of patients treated with TAFINLAR and in none of the patients treated with dacarbazine.
+
+
+
+ Across clinical trials of TAFINLAR (N = 586), the incidence of cuSCC was 11%. The median time to first cuSCC was 9 weeks (range: 1 to 53 weeks). Of those patients who developed new cuSCC, approximately 33% developed one or more cuSCC with continued administration of TAFINLAR. The median time between diagnosis of the first cuSCC and the second cuSCC was 6 weeks.
+
+
+
+ In Trial 1, the incidence of new primary malignant melanomas was 2% (3/187) for patients receiving TAFINLAR while no dacarbazine-treated patient was diagnosed with new primary malignant melanoma.
+
+
+
+  In Trial 2, the incidence of basal cell carcinoma was increased in patients receiving TAFINLAR in combination with trametinib: 9% (5/55) of patients receiving TAFINLAR in combination with trametinib compared with 2% (1/53) of patients receiving TAFINLAR as a single agent. The range of time to diagnosis of basal cell carcinoma was 28 to 249 days in patients receiving TAFINLAR in combination with trametinib and was 197 days for the patient receiving TAFINLAR as a single agent.  
+
+
+
+  Cutaneous squamous cell carcinoma (SCC), including keratoacanthoma, occurred in 7% of patients receiving TAFINLAR in combination with trametinib and 19% of patients receiving TAFINLAR as a single agent. The range of time to diagnosis of cuSCC was 136 to197 days in the combination arm and was 9 to 197 days in the arm receiving TAFINLAR as a single agent.  
+
+
+
+  New primary melanoma occurred in 2% (1/53) of patients receiving TAFINLAR as a single agent and in none of the 55 patients receiving TAFINLAR in combination with trametinib.  
+
+
+
+  Perform dermatologic evaluations prior to initiation of TAFINLAR as a single agent or in combination with trametinib, every 2 months while on therapy, and for up to 6 months following discontinuation of TAFINLAR. No dose modifications of TAFINLAR or trametinib are required in patients who develop new primary cutaneous malignancies.  
+
+
+
+   Non-cutaneous Malignancies:    
+
+
+
+  Based on its mechanism of action, TAFINLAR may promote the growth and development of malignancies with activation of RAS through mutation or other mechanisms [see Warnings and Precautions (5.2)]  . In patients receiving TAFINLAR in combination with trametinib four cases of non-cutaneous malignancies were identified: KRAS mutation-positive pancreatic adenocarcinoma (n = 1), recurrent NRAS mutation-positive colorectal carcinoma (n = 1), head and neck carcinoma (n = 1), and glioblastoma (n = 1). Monitor patients receiving the combination closely for signs or symptoms of non-cutaneous malignancies. Permanently discontinue TAFINLAR for RAS mutation-positive non-cutaneous malignancies. If used in combination with trametinib, no dose modification of trametinib is required for patients who develop non-cutaneous malignancies.  
+
+
+
+    5.2 Tumor Promotion in BRAF Wild-Type Melanoma
+
+
+
+  In vitro experiments have demonstrated paradoxical activation of MAP-kinase signaling and increased cell proliferation in BRAF wild-type cells which are exposed to BRAF inhibitors. Confirm evidence of BRAF V600E or V600K  mutation status prior to initiation of TAFINLAR as  a single agent or combination therapy   [see Indications and Usage (1), Dosage and Administration (2.1)]  .
+
+
+
+     5.3 Hemorrhage  
+
+
+
+   Hemorrhages, including major hemorrhages defined as symptomatic bleeding in a critical area or organ, can occur when TAFINLAR is used in combination with trametinib.  
+
+
+
+  In Trial 2, treatment with TAFINLAR in combination with trametinib resulted in an increased incidence and severity of any hemorrhagic event: 16% (9/55) of patients treated with TAFINLAR in combination with trametinib compared with 2% (1/53) of patients treated with TAFINLAR as a single agent. The major hemorrhagic events of intracranial or gastric hemorrhage occurred in 5% (3/55) of patients treated with TAFINLAR in combination with trametinib compared with none of the 53 patients treated with TAFINLAR as a single agent. Intracranial hemorrhage was fatal in 4% (2/55) of patients receiving TAFINLAR in combination with trametinib.  
+
+
+
+  Permanently discontinue TAFINLAR and trametinib for all Grade 4 hemorrhagic events and for any Grade 3 hemorrhagic events that do not improve. Withhold TAFINLAR for Grade 3 hemorrhagic events; if improved resume at a lower dose level. Withhold trametinib for up to 3 weeks for Grade 3 hemorrhagic events; if improved, resume at a lower dose level.  
+
+
+
+     5.4 Venous Thromboembolism  
+
+
+
+   Venous thromboembolism can occur when TAFINLAR is used in combination with trametinib.  
+
+
+
+  In Trial 2, treatment with TAFINLAR in combination with trametinib resulted in an increased incidence of deep venous thrombosis (DVT) and pulmonary embolism (PE): 7% (4/55) of patients treated with TAFINLAR in combination with trametinib compared with none of the 53 patients treated with TAFINLAR as a single agent. Pulmonary embolism was fatal in 2% (1/55) of patients receiving TAFINLAR in combination with trametinib.  
+
+
+
+  Advise patients to immediately seek medical care if they develop symptoms of DVT or PE, such as shortness of breath, chest pain, or arm or leg swelling. Permanently discontinue TAFINLAR and trametinib for life-threatening PE. Withhold trametinib and continue TAFINLAR at the same dose for uncomplicated DVT or PE; if improved within 3 weeks, trametinib may be resumed at a lower dose level [see Dosage and Administration (2.3)]    .
+
+
+
+     5.5 Cardiomyopathy  
+
+
+
+   Cardiomyopathy can occur when TAFINLAR is used in combination with trametinib and with trametinib as a single agent [refer to Full Prescribing Information for trametinib]  .  
+
+
+
+  In Trial 2, cardiomyopathy occurred in 9% (5/55) of patients treated with TAFINLAR in combination with trametinib and in none of patients treated with TAFINLAR as a single agent. The median time to onset of cardiomyopathy in patients treated with TAFINLAR in combination with trametinib was 86 days (range: 27 to 253 days). Cardiomyopathy was identified within the first month of treatment with TAFINLAR in combination with trametinib in two of five patients. Development of cardiomyopathy resolved in all five patients following dose reduction (4/55) and/or dose interruption (1/55).  
+
+
+
+  Across clinical trials of TAFINLAR administered in combination with trametinib (N = 202), 8% of patients developed evidence of cardiomyopathy (decrease in LVEF below institutional lower limits of normal with an absolute decrease in LVEF &gt;=10% below baseline). Two percent demonstrated a decrease in LVEF below institutional lower limits of normal with an absolute decrease in LVEF of &gt;=20% below baseline.  
+
+
+
+  Assess LVEF by echocardiogram or multigated acquisition (MUGA) scan before initiation of TAFINLAR in combination with trametinib, one month after initiation, and then at 2- to 3-month intervals while on treatment with the combination. Withhold treatment with trametinib and continue TAFINLAR at the same dose if absolute LVEF value decreases by 10% from pretreatment values and is less than the lower limit of normal. For symptomatic cardiomyopathy or persistent, asymptomatic LV dysfunction that does not resolve within 4 weeks, permanently discontinue trametinib and withhold TAFINLAR. Resume TAFINLAR at the same dose level upon recovery of cardiac function [see Dosage and Administration (2.3)]    .
+
+
+
+     5.6 Ocular Toxicities  
+
+
+
+    Retinal Pigment Epithelial Detachment (RPED):    
+
+
+
+  Retinal pigment epithelial detachments (RPED) can occur when TAFINLAR is used in combination with trametinib and with trametinib as a single agent [refer to Full Prescribing Information for trametinib]  . Retinal detachments resulting from trametinib are often bilateral and multifocal, occurring in the macular region of the retina.  
+
+
+
+  In Trial 2, ophthalmologic examinations including retinal evaluation were performed pretreatment and at regular intervals during treatment. RPED occurred in 2% (1/55) of patients receiving TAFINLAR in combination with trametinib. Across clinical trials of TAFINLAR administered in combination with trametinib (N = 202), the incidence of RPED was 1% (2/202).  
+
+
+
+  Perform ophthalmological evaluation at any time a patient reports visual disturbances and compare with baseline, if available. If TAFINLAR is used in combination with trametinib, do not modify the dose of TAFINLAR. Withhold trametinib if RPED is diagnosed. If resolution of the RPED is documented on repeat ophthalmological evaluation within 3 weeks, resume trametinib at a lower dose level. Discontinue trametinib if no improvement after 3 weeks [see Dosage and Administration (2.3)].    
+
+
+
+   Uveitis and Iritis:    
+
+
+
+  Uveitis and iritis can occur when TAFINLAR is administered as a single agent or when used in combination with trametinib.  
+
+
+
+  Uveitis (including iritis) occurred in 1% (6/586) of patients treated with TAFINLAR as a single agent and uveitis occurred in 1% (2/202) of patients treated with TAFINLAR in combination with trametinib. Symptomatic treatment employed in clinical trials included steroid and mydriatic ophthalmic drops. Monitor patients for visual signs and symptoms of uveitis (e.g., change in vision, photophobia, eye pain). If diagnosed, withhold TAFINLAR for up to 6 weeks until uveitis/iritis resolves to Grade 0-1. If TAFINLAR is used in combination with trametinib, do not modify the dose of trametinib.  
+
+
+
+    5.7 Serious Febrile Reactions
+
+
+
+   Serious febrile reactions and fever of any severity complicated by hypotension, rigors or chills, dehydration, or renal failure, can occur when TAFINLAR is administered as a single agent or when used in combination with trametinib. The incidence and severity of pyrexia are increased when TAFINLAR is used in combination with trametinib compared with TAFINLAR as a single agent [see Adverse Reactions (6.1)].    
+
+
+
+ In Trial 1, the incidence of fever (serious and non-serious) was 28% in patients treated with TAFINLAR and 10% in patients treated with dacarbazine. In patients treated with TAFINLAR, the median time to initial onset of fever (any severity) was 11 days (range: 1 to 202 days) and the median duration of fever was 3 days (range: 1 to 129 days). Serious febrile reactions and fever of any severity complicated by hypotension, rigors or chills occurred in 3.7% (7/187) of patients treated with TAFINLAR and in none of the 59 patients treated with dacarbazine.  
+
+
+
+  In Trial 2, the incidence of fever (serious and non-serious) was 71% (39/55) in patients treated with TAFINLAR in combination with trametinib and 26% (14/53) in patients treated with TAFINLAR as a single agent. Serious febrile reactions and fever of any severity complicated by hypotension, rigors or chills occurred in 25% (14/55) of patients treated with TAFINLAR in combination with trametinib compared with 2% (1/53) of patients treated with TAFINLAR as a single agent. Fever was complicated with chills/rigors in 51% (28/55), dehydration in 9% (5/55), renal failure in 4% (2/55), and syncope in 4% (2/55) of patients in Trial 2.  
+
+
+
+  In patients treated with TAFINLAR in combination with trametinib, the median time to initial onset of fever was 30 days compared with 19 days in patients treated with TAFINLAR as a single agent; the median duration of fever was 6 days with the combination compared with 4 days with TAFINLAR as a single agent.  
+
+
+
+  Across clinical trials of TAFINLAR administered in combination with trametinib (N = 202), the incidence of pyrexia was 57% (116/202).  
+
+
+
+ Withhold TAFINLAR for fever of 101.3oF or higher. Withhold trametinib for any fever higher than 104oF. Withhold TAFINLAR, and trametinib if used in combination, for any serious febrile reaction or fever complicated by hypotension, rigors or chills, dehydration, or renal failure and evaluate for signs and symptoms of infection. Refer to Table 2 for recommended dose modifications for adverse reactions [see Dosage and Administration (2.3)].  Prophylaxis with antipyretics may be required when resuming TAFINLAR or trametinib.  
+
+
+
+     5.8 Serious Skin Toxicity  
+
+
+
+   Serious skin toxicity can occur when TAFINLAR is used in combination with trametinib and with trametinib as a single agent [refer to Full Prescribing Information for trametinib]  .  
+
+
+
+  In Trial 2, the incidence of any skin toxicity was similar for patients receiving TAFINLAR in combination with trametinib (65% [36/55]) compared with patients receiving TAFINLAR as a single agent (68% [36/53]). The median time to onset of skin toxicity in patients treated with TAFINLAR in combination with trametinib was 37 days (range: 1 to 225 days) and median time to resolution of skin toxicity was 33 days (range: 3 to 421 days). No patient required dose reduction or permanent discontinuation of TAFINLAR or trametinib for skin toxicity.  
+
+
+
+  Across clinical trials of TAFINLAR in combination with trametinib (N = 202), severe skin toxicity and secondary infections of the skin requiring hospitalization occurred in 2.5% (5/202) of patients treated with TAFINLAR in combination with trametinib.  
+
+
+
+  Withhold TAFINLAR, and trametinib if used in combination, for intolerable or severe skin toxicity. TAFINLAR and trametinib may be resumed at lower dose levels in patients with improvement or recovery from skin toxicity within 3 weeks [see Dosage and Administration (2.3)]  .  
+
+
+
+    5.9 Hyperglycemia
+
+
+
+   Hyperglycemia can occur when TAFINLAR is administered as a single agent or when used in combination with trametinib  .
+
+
+
+ In Trial 1, 5 of 12 patients with a history of diabetes required more intensive hypoglycemic therapy while taking TAFINLAR. The incidence of Grade 3 hyperglycemia based on laboratory values was 6% (12/187) in patients treated with TAFINLAR compared with none of the dacarbazine-treated patients.
+
+
+
+  In Trial 2, the incidence of Grade 3 hyperglycemia based on laboratory values was 5% (3/55) in patients treated with TAFINLAR in combination with trametinib compared with 2% (1/53) in patients treated with TAFINLAR as a single agent.  
+
+
+
+  Monitor serum glucose levels as clinically appropriate when TAFINLAR is administered as a single agent or when used in combination with trametinib in patients with pre-existing diabetes or hyperglycemia. Advise patients to report symptoms of severe hyperglycemia such as excessive thirst or any increase in the volume or frequency of urination  .
+
+
+
+    5.10 Glucose-6-Phosphate Dehydrogenase Deficiency
+
+
+
+  TAFINLAR, which contains a sulfonamide moiety, confers a potential risk of hemolytic anemia in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency. Closely observe patients with G6PD deficiency for signs of hemolytic anemia.
+
+
+
+    5.11 Embryofetal Toxicity
+
+
+
+  Based on its mechanism of action, TAFINLAR can cause fetal harm when administered to a pregnant woman. Dabrafenib was teratogenic and embryotoxic in rats at doses three times greater than the human exposure at the recommended clinical dose. If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)]  .
+
+
+
+ Advise female patients of reproductive potential to use a highly effective non-hormonal method of contraception since TAFINLAR can render hormonal contraceptives ineffective , during treatment and for at least 2 weeks after treatment with TAFINLAR or for 4 months after treatment with TAFINLAR in combination with trametinib  . Advise patients to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking TAFINLAR [see Drug Interactions (7.2), Use in Specific Populations (8.6)].  
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="137" len="20" str="Primary Malignancies" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="203" len="42" str="Tumor Promotion in BRAF Wild-Type Melanoma" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="291" len="10" str="Hemorrhage" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="347" len="22" str="Venous Thromboembolism" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="415" len="14" str="Cardiomyopathy" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="475" len="17" str="Ocular Toxicities" />
+    <Mention id="M7" section="S1" type="Severity" start="538" len="7" str="Serious" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="546" len="17" str="Febrile Reactions" />
+    <Mention id="M9" section="S1" type="Severity" start="609" len="7" str="Serious" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="617" len="13" str="Skin Toxicity" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="676" len="13" str="Hyperglycemia" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="735" len="44" str="Glucose-6-Phosphate Dehydrogenase Deficiency" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="901" len="14" str="hyperkeratosis" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="917" len="8" str="headache" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="927" len="7" str="pyrexia" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="936" len="10" str="arthralgia" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="948" len="9" str="papilloma" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="959" len="8" str="alopecia" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="973" len="42" str="palmar-plantar erythrodysesthesia syndrome" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="1120" len="7" str="pyrexia" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="1129" len="6" str="chills" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="1137" len="7" str="fatigue" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="1146" len="4" str="rash" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="1152" len="6" str="nausea" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="1160" len="8" str="vomiting" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="1170" len="8" str="diarrhea" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="1180" len="14" str="abdominal pain" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="1196" len="16" str="peripheral edema" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="1214" len="5" str="cough" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="1221" len="8" str="headache" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="1231" len="10" str="arthralgia" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="1243" len="12" str="night sweats" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="1257" len="18" str="decreased appetite" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="1277" len="12" str="constipation" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="1295" len="7" str="myalgia" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="3624" len="14" str="hyperkeratosis" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="3640" len="8" str="headache" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="3650" len="7" str="pyrexia" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="3659" len="10" str="arthralgia" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="3671" len="9" str="papilloma" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="3682" len="8" str="alopecia" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="3696" len="42" str="palmar-plantar erythrodysesthesia syndrome" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="3740" len="4" str="PPES" />
+    <Mention id="M44" section="S1" type="AdverseReaction" start="4027" len="7" str="pyrexia" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="4041" len="4" str="PPES" />
+    <Mention id="M46" section="S1" type="AdverseReaction" start="4052" len="6" str="chills" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="4065" len="7" str="fatigue" />
+    <Mention id="M48" section="S1" type="AdverseReaction" start="4083" len="8" str="headache" />
+    <Mention id="M49" section="S1" type="AdverseReaction" start="4670" len="14" str="Hyperkeratosis" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="4969" len="8" str="Alopecia" />
+    <Mention id="M51" section="S1" type="AdverseReaction" start="5268" len="42" str="Palmar-plantar erythrodysesthesia syndrome" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="5567" len="4" str="Rash" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="5978" len="8" str="Headache" />
+    <Mention id="M54" section="S1" type="AdverseReaction" start="6389" len="7" str="Pyrexia" />
+    <Mention id="M55" section="S1" type="AdverseReaction" start="6800" len="10" str="Arthralgia" />
+    <Mention id="M56" section="S1" type="AdverseReaction" start="7099" len="9" str="Back pain" />
+    <Mention id="M57" section="S1" type="AdverseReaction" start="7398" len="7" str="Myalgia" />
+    <Mention id="M58" section="S1" type="AdverseReaction" start="7824" len="9" str="Papilloma" />
+    <Mention id="M59" section="S1" type="AdverseReaction" start="8123" len="5" str="cuSCC" />
+    <Mention id="M60" section="S1" type="AdverseReaction" start="8534" len="5" str="Cough" />
+    <Mention id="M61" section="S1" type="AdverseReaction" start="8945" len="12" str="Constipation" />
+    <Mention id="M62" section="S1" type="AdverseReaction" start="9356" len="15" str="Nasopharyngitis" />
+    <Mention id="M63" section="S1" type="Severity" start="9726" len="7" str="Grade 4" />
+    <Mention id="M64" section="S1" type="AdverseReaction" start="9763" len="14" str="hyperkeratosis" />
+    <Mention id="M65" section="S1" type="AdverseReaction" start="9790" len="12" str="constipation" />
+    <Mention id="M66" section="S1" type="AdverseReaction" start="9830" len="14" str="skin papilloma" />
+    <Mention id="M67" section="S1" type="AdverseReaction" start="9849" len="9" str="papilloma" />
+    <Mention id="M68" section="S1" type="AdverseReaction" start="9878" len="35" str="squamous cell carcinoma of the skin" />
+    <Mention id="M69" section="S1" type="AdverseReaction" start="9918" len="15" str="keratoacanthoma" />
+    <Mention id="M70" section="S1" type="AdverseReaction" start="9953" len="33" str="cutaneous squamous cell carcinoma" />
+    <Mention id="M71" section="S1" type="Severity" start="10019" len="7" str="Grade 3" />
+    <Mention id="M72" section="S1" type="AdverseReaction" start="10501" len="13" str="Hyperglycemia" />
+    <Mention id="M73" section="S1" type="AdverseReaction" start="10615" len="16" str="Hypophosphatemia" />
+    <Mention id="M74" section="S1" type="AdverseReaction" start="10729" len="30" str="Increased alkaline phosphatase" />
+    <Mention id="M75" section="S1" type="AdverseReaction" start="10843" len="12" str="Hyponatremia" />
+    <Mention id="M76" section="S1" type="Severity" start="10971" len="7" str="Grade 4" />
+    <Mention id="M77" section="S1" type="AdverseReaction" start="11013" len="16" str="hypophosphatemia" />
+    <Mention id="M78" section="S1" type="AdverseReaction" start="11190" len="12" str="Pancreatitis" />
+    <Mention id="M79" section="S1" type="AdverseReaction" start="11236" len="16" str="Hypersensitivity" />
+    <Mention id="M80" section="S1" type="AdverseReaction" start="11268" len="12" str="bullous rash" />
+    <Mention id="M81" section="S1" type="AdverseReaction" start="11318" len="22" str="Interstitial nephritis" />
+    <Mention id="M82" section="S1" type="AdverseReaction" start="13479" len="7" str="pyrexia" />
+    <Mention id="M83" section="S1" type="AdverseReaction" start="13637" len="7" str="Pyrexia" />
+    <Mention id="M84" section="S1" type="AdverseReaction" start="13646" len="6" str="chills" />
+    <Mention id="M85" section="S1" type="AdverseReaction" start="13658" len="6" str="nausea" />
+    <Mention id="M86" section="S1" type="AdverseReaction" start="13724" len="7" str="pyrexia" />
+    <Mention id="M87" section="S1" type="AdverseReaction" start="13733" len="6" str="chills" />
+    <Mention id="M88" section="S1" type="AdverseReaction" start="13745" len="27" str="decreased ejection fraction" />
+    <Mention id="M89" section="S1" type="AdverseReaction" start="14400" len="7" str="Pyrexia" />
+    <Mention id="M90" section="S1" type="AdverseReaction" start="14599" len="6" str="Chills" />
+    <Mention id="M91" section="S1" type="AdverseReaction" start="14798" len="7" str="Fatigue" />
+    <Mention id="M92" section="S1" type="AdverseReaction" start="14997" len="16" str="Edema peripheral" />
+    <Mention id="M93" section="S1" type="AdverseReaction" start="15241" len="4" str="Rash" />
+    <Mention id="M94" section="S1" type="AdverseReaction" start="15440" len="12" str="Night Sweats" />
+    <Mention id="M95" section="S1" type="AdverseReaction" start="15639" len="8" str="Dry skin" />
+    <Mention id="M96" section="S1" type="AdverseReaction" start="15838" len="20" str="Dermatitis acneiform" />
+    <Mention id="M97" section="S1" type="AdverseReaction" start="16037" len="17" str="Actinic keratosis" />
+    <Mention id="M98" section="S1" type="AdverseReaction" start="16236" len="8" str="Erythema" />
+    <Mention id="M99" section="S1" type="AdverseReaction" start="16435" len="8" str="Pruritus" />
+    <Mention id="M100" section="S1" type="AdverseReaction" start="16667" len="6" str="Nausea" />
+    <Mention id="M101" section="S1" type="AdverseReaction" start="16866" len="8" str="Vomiting" />
+    <Mention id="M102" section="S1" type="AdverseReaction" start="17065" len="8" str="Diarrhea" />
+    <Mention id="M103" section="S1" type="AdverseReaction" start="17264" len="14" str="Abdominal pain" />
+    <Mention id="M104" section="S1" type="AdverseReaction" start="17463" len="12" str="Constipation" />
+    <Mention id="M105" section="S1" type="AdverseReaction" start="17662" len="9" str="Dry mouth" />
+    <Mention id="M106" section="S1" type="AdverseReaction" start="17892" len="8" str="Headache" />
+    <Mention id="M107" section="S1" type="AdverseReaction" start="18091" len="9" str="Dizziness" />
+    <Mention id="M108" section="S1" type="AdverseReaction" start="18345" len="5" str="Cough" />
+    <Mention id="M109" section="S1" type="AdverseReaction" start="18544" len="18" str="Oropharyngeal pain" />
+    <Mention id="M110" section="S1" type="AdverseReaction" start="18804" len="10" str="Arthralgia" />
+    <Mention id="M111" section="S1" type="AdverseReaction" start="19003" len="7" str="Myalgia" />
+    <Mention id="M112" section="S1" type="AdverseReaction" start="19202" len="9" str="Back pain" />
+    <Mention id="M113" section="S1" type="AdverseReaction" start="19401" len="13" str="Muscle spasms" />
+    <Mention id="M114" section="S1" type="AdverseReaction" start="19600" len="17" str="Pain in extremity" />
+    <Mention id="M115" section="S1" type="AdverseReaction" start="19842" len="18" str="Decreased appetite" />
+    <Mention id="M116" section="S1" type="AdverseReaction" start="20041" len="11" str="Dehydration" />
+    <Mention id="M117" section="S1" type="AdverseReaction" start="20270" len="8" str="Insomnia" />
+    <Mention id="M118" section="S1" type="AdverseReaction" start="20499" len="10" str="Hemorrhage" />
+    <Mention id="M119" section="S1" type="AdverseReaction" start="20732" len="23" str="Urinary tract infection" />
+    <Mention id="M120" section="S1" type="AdverseReaction" start="20965" len="13" str="Renal failure" />
+    <Mention id="M121" section="S1" type="AdverseReaction" start="21278" len="16" str="peripheral edema" />
+    <Mention id="M122" section="S1" type="AdverseReaction" start="21296" len="5" str="edema" />
+    <Mention id="M123" section="S1" type="AdverseReaction" start="21307" len="10" str="lymphedema" />
+    <Mention id="M124" section="S1" type="AdverseReaction" start="21358" len="4" str="rash" />
+    <Mention id="M125" section="S1" type="AdverseReaction" start="21364" len="16" str="rash generalized" />
+    <Mention id="M126" section="S1" type="AdverseReaction" start="21382" len="13" str="rash pruritic" />
+    <Mention id="M127" section="S1" type="AdverseReaction" start="21397" len="17" str="rash erythematous" />
+    <Mention id="M128" section="S1" type="AdverseReaction" start="21416" len="12" str="rash papular" />
+    <Mention id="M129" section="S1" type="AdverseReaction" start="21430" len="14" str="rash vesicular" />
+    <Mention id="M130" section="S1" type="AdverseReaction" start="21446" len="12" str="rash macular" />
+    <Mention id="M131" section="S1" type="AdverseReaction" start="21464" len="19" str="rash maculo-papular" />
+    <Mention id="M132" section="S1" type="AdverseReaction" start="21524" len="14" str="abdominal pain" />
+    <Mention id="M133" section="S1" type="AdverseReaction" start="21540" len="20" str="abdominal pain upper" />
+    <Mention id="M134" section="S1" type="AdverseReaction" start="21562" len="20" str="abdominal pain lower" />
+    <Mention id="M135" section="S1" type="AdverseReaction" start="21588" len="20" str="abdominal discomfort" />
+    <Mention id="M136" section="S1" type="AdverseReaction" start="21649" len="21" str="brain stem hemorrhage" />
+    <Mention id="M137" section="S1" type="AdverseReaction" start="21672" len="19" str="cerebral hemorrhage" />
+    <Mention id="M138" section="S1" type="AdverseReaction" start="21693" len="18" str="gastric hemorrhage" />
+    <Mention id="M139" section="S1" type="AdverseReaction" start="21713" len="9" str="epistaxis" />
+    <Mention id="M140" section="S1" type="AdverseReaction" start="21724" len="19" str="gingival hemorrhage" />
+    <Mention id="M141" section="S1" type="AdverseReaction" start="21745" len="9" str="hematuria" />
+    <Mention id="M142" section="S1" type="AdverseReaction" start="21756" len="18" str="vaginal hemorrhage" />
+    <Mention id="M143" section="S1" type="AdverseReaction" start="21776" len="23" str="hemorrhage intracranial" />
+    <Mention id="M144" section="S1" type="AdverseReaction" start="21801" len="14" str="eye hemorrhage" />
+    <Mention id="M145" section="S1" type="AdverseReaction" start="21821" len="19" str="vitreous hemorrhage" />
+    <Mention id="M146" section="S1" type="AdverseReaction" start="21881" len="13" str="renal failure" />
+    <Mention id="M147" section="S1" type="AdverseReaction" start="21899" len="19" str="renal failure acute" />
+    <Mention id="M148" section="S1" type="AdverseReaction" start="22089" len="14" str="Vision blurred" />
+    <Mention id="M149" section="S1" type="AdverseReaction" start="22105" len="19" str="transient blindness" />
+    <Mention id="M150" section="S1" type="AdverseReaction" start="22161" len="10" str="Stomatitis" />
+    <Mention id="M151" section="S1" type="AdverseReaction" start="22173" len="12" str="pancreatitis" />
+    <Mention id="M152" section="S1" type="AdverseReaction" start="22248" len="8" str="Asthenia" />
+    <Mention id="M153" section="S1" type="AdverseReaction" start="22294" len="10" str="Cellulitis" />
+    <Mention id="M154" section="S1" type="AdverseReaction" start="22306" len="12" str="folliculitis" />
+    <Mention id="M155" section="S1" type="AdverseReaction" start="22320" len="10" str="paronychia" />
+    <Mention id="M156" section="S1" type="AdverseReaction" start="22332" len="13" str="rash pustular" />
+    <Mention id="M157" section="S1" type="AdverseReaction" start="22429" len="14" str="Skin papilloma" />
+    <Mention id="M158" section="S1" type="AdverseReaction" start="22492" len="42" str="Palmar-plantar erythrodysesthesia syndrome" />
+    <Mention id="M159" section="S1" type="AdverseReaction" start="22536" len="14" str="hyperkeratosis" />
+    <Mention id="M160" section="S1" type="AdverseReaction" start="22552" len="13" str="hyperhidrosis" />
+    <Mention id="M161" section="S1" type="AdverseReaction" start="22594" len="12" str="Hypertension" />
+    <Mention id="M162" section="S1" type="AdverseReaction" start="23147" len="10" str="Leukopenia" />
+    <Mention id="M163" section="S1" type="AdverseReaction" start="23376" len="11" str="Lymphopenia" />
+    <Mention id="M164" section="S1" type="AdverseReaction" start="23605" len="11" str="Neutropenia" />
+    <Mention id="M165" section="S1" type="AdverseReaction" start="23834" len="6" str="Anemia" />
+    <Mention id="M166" section="S1" type="AdverseReaction" start="24063" len="16" str="Thrombocytopenia" />
+    <Mention id="M167" section="S1" type="AdverseReaction" start="24332" len="13" str="Increased AST" />
+    <Mention id="M168" section="S1" type="AdverseReaction" start="24561" len="30" str="Increased alkaline phosphatase" />
+    <Mention id="M169" section="S1" type="AdverseReaction" start="24790" len="13" str="Increased ALT" />
+    <Mention id="M170" section="S1" type="AdverseReaction" start="25019" len="18" str="Hyperbilirubinemia" />
+    <Mention id="M171" section="S1" type="AdverseReaction" start="25288" len="13" str="Hyperglycemia" />
+    <Mention id="M172" section="S1" type="AdverseReaction" start="25517" len="13" str="Increased GGT" />
+    <Mention id="M173" section="S1" type="AdverseReaction" start="25746" len="12" str="Hyponatremia" />
+    <Mention id="M174" section="S1" type="AdverseReaction" start="25975" len="15" str="Hypoalbuminemia" />
+    <Mention id="M175" section="S1" type="AdverseReaction" start="26204" len="16" str="Hypophosphatemia" />
+    <Mention id="M176" section="S1" type="AdverseReaction" start="26433" len="11" str="Hypokalemia" />
+    <Mention id="M177" section="S1" type="AdverseReaction" start="26662" len="20" str="Increased creatinine" />
+    <Mention id="M178" section="S1" type="AdverseReaction" start="26891" len="14" str="Hypomagnesemia" />
+    <Mention id="M179" section="S1" type="AdverseReaction" start="27120" len="12" str="Hyperkalemia" />
+    <Mention id="M180" section="S1" type="AdverseReaction" start="27349" len="13" str="Hypercalcemia" />
+    <Mention id="M181" section="S1" type="AdverseReaction" start="27578" len="12" str="Hypocalcemia" />
+    <Mention id="M182" section="S1" type="AdverseReaction" start="28008" len="17" str="QTcF prolongation" />
+    <Mention id="M183" section="S1" type="Severity" start="28030" len="8" str="500 msec" />
+    <Mention id="M184" section="S1" type="AdverseReaction" start="28200" len="18" str="QTcF was increased" />
+    <Mention id="M185" section="S1" type="Severity" start="28229" len="21" str="60 msec from baseline" />
+    <Mention id="M186" section="S2" type="AdverseReaction" start="379" len="22" str="Retinal vein occlusion" />
+    <Mention id="M187" section="S2" type="AdverseReaction" start="411" len="25" str="Interstitial lung disease" />
+    <Mention id="M188" section="S2" type="AdverseReaction" start="451" len="31" str="primary malignancies, cutaneous" />
+    <Mention id="M189" section="S2" type="AdverseReaction" start="451,487" len="20,13" str="primary malignancies non-cutaneous" />
+    <Mention id="M190" section="S2" type="Factor" start="502" len="3" str="can" />
+    <Mention id="M191" section="S2" type="AdverseReaction" start="778" len="42" str="Tumor Promotion in BRAF Wild-Type Melanoma" />
+    <Mention id="M192" section="S2" type="AdverseReaction" start="822" len="28" str="Increased cell proliferation" />
+    <Mention id="M193" section="S2" type="DrugClass" start="866" len="15" str="BRAF inhibitors" />
+    <Mention id="M194" section="S2" type="AdverseReaction" start="900" len="10" str="Hemorrhage" />
+    <Mention id="M195" section="S2" type="Severity" start="912" len="5" str="Major" />
+    <Mention id="M196" section="S2" type="AdverseReaction" start="918" len="18" str="hemorrhagic events" />
+    <Mention id="M197" section="S2" type="Factor" start="937" len="3" str="can" />
+    <Mention id="M198" section="S2" type="AdverseReaction" start="1071" len="22" str="Venous Thromboembolism" />
+    <Mention id="M199" section="S2" type="AdverseReaction" start="1095" len="20" str="Deep vein thrombosis" />
+    <Mention id="M200" section="S2" type="AdverseReaction" start="1120" len="18" str="pulmonary embolism" />
+    <Mention id="M201" section="S2" type="Factor" start="1139" len="3" str="can" />
+    <Mention id="M202" section="S2" type="AdverseReaction" start="1237" len="14" str="Cardiomyopathy" />
+    <Mention id="M203" section="S2" type="AdverseReaction" start="1420" len="17" str="Ocular Toxicities" />
+    <Mention id="M204" section="S2" type="Severity" start="1527" len="7" str="Serious" />
+    <Mention id="M205" section="S2" type="AdverseReaction" start="1535" len="17" str="Febrile Reactions" />
+    <Mention id="M206" section="S2" type="AdverseReaction" start="1580" len="7" str="pyrexia" />
+    <Mention id="M207" section="S2" type="Severity" start="1673" len="7" str="Serious" />
+    <Mention id="M208" section="S2" type="AdverseReaction" start="1681" len="13" str="Skin Toxicity" />
+    <Mention id="M209" section="S2" type="AdverseReaction" start="1900" len="13" str="Hyperglycemia" />
+    <Mention id="M210" section="S2" type="AdverseReaction" start="2018" len="44" str="Glucose-6-Phosphate Dehydrogenase Deficiency" />
+    <Mention id="M211" section="S2" type="AdverseReaction" start="2120" len="20" str="Embryofetal Toxicity" />
+    <Mention id="M212" section="S2" type="Factor" start="2142" len="3" str="Can" />
+    <Mention id="M213" section="S2" type="AdverseReaction" start="2152" len="10" str="fetal harm" />
+    <Mention id="M214" section="S2" type="AdverseReaction" start="2435" len="31" str="primary malignancies, cutaneous" />
+    <Mention id="M215" section="S2" type="AdverseReaction" start="2435,2471" len="20,13" str="primary malignancies non-cutaneous" />
+    <Mention id="M216" section="S2" type="Factor" start="2486" len="3" str="can" />
+    <Mention id="M217" section="S2" type="AdverseReaction" start="2670" len="33" str="cutaneous squamous cell carcinoma" />
+    <Mention id="M218" section="S2" type="AdverseReaction" start="2705" len="15" str="keratoacanthoma" />
+    <Mention id="M219" section="S2" type="AdverseReaction" start="2726" len="8" str="melanoma" />
+    <Mention id="M220" section="S2" type="AdverseReaction" start="2823" len="20" str="basal cell carcinoma" />
+    <Mention id="M221" section="S2" type="AdverseReaction" start="2863" len="34" str="cutaneous squamous cell carcinomas" />
+    <Mention id="M222" section="S2" type="AdverseReaction" start="2902" len="16" str="keratoacanthomas" />
+    <Mention id="M223" section="S2" type="AdverseReaction" start="2920" len="5" str="cuSCC" />
+    <Mention id="M224" section="S2" type="AdverseReaction" start="3106" len="5" str="cuSCC" />
+    <Mention id="M225" section="S2" type="AdverseReaction" start="3146" len="5" str="cuSCC" />
+    <Mention id="M226" section="S2" type="AdverseReaction" start="3224" len="5" str="cuSCC" />
+    <Mention id="M227" section="S2" type="AdverseReaction" start="3271" len="5" str="cuSCC" />
+    <Mention id="M228" section="S2" type="AdverseReaction" start="3367" len="5" str="cuSCC" />
+    <Mention id="M229" section="S2" type="AdverseReaction" start="3388" len="5" str="cuSCC" />
+    <Mention id="M230" section="S2" type="AdverseReaction" start="3444" len="27" str="primary malignant melanomas" />
+    <Mention id="M231" section="S2" type="AdverseReaction" start="3641" len="20" str="basal cell carcinoma" />
+    <Mention id="M232" section="S2" type="AdverseReaction" start="3919" len="20" str="basal cell carcinoma" />
+    <Mention id="M233" section="S2" type="AdverseReaction" start="4099" len="33" str="Cutaneous squamous cell carcinoma" />
+    <Mention id="M234" section="S2" type="AdverseReaction" start="4134" len="3" str="SCC" />
+    <Mention id="M235" section="S2" type="AdverseReaction" start="4150" len="15" str="keratoacanthoma" />
+    <Mention id="M236" section="S2" type="AdverseReaction" start="4336" len="5" str="cuSCC" />
+    <Mention id="M237" section="S2" type="AdverseReaction" start="4466" len="16" str="primary melanoma" />
+    <Mention id="M238" section="S2" type="Factor" start="5065" len="3" str="may" />
+    <Mention id="M239" section="S2" type="AdverseReaction" start="5107" len="12" str="malignancies" />
+    <Mention id="M240" section="S2" type="AdverseReaction" start="5296" len="26" str="non-cutaneous malignancies" />
+    <Mention id="M241" section="S2" type="AdverseReaction" start="5340" len="48" str="KRAS mutation-positive pancreatic adenocarcinoma" />
+    <Mention id="M242" section="S2" type="AdverseReaction" start="5398" len="53" str="recurrent NRAS mutation-positive colorectal carcinoma" />
+    <Mention id="M243" section="S2" type="AdverseReaction" start="5461" len="23" str="head and neck carcinoma" />
+    <Mention id="M244" section="S2" type="AdverseReaction" start="5498" len="12" str="glioblastoma" />
+    <Mention id="M245" section="S2" type="AdverseReaction" start="6002" len="28" str="increased cell proliferation" />
+    <Mention id="M246" section="S2" type="DrugClass" start="6076" len="15" str="BRAF inhibitors" />
+    <Mention id="M247" section="S2" type="AdverseReaction" start="6325" len="11" str="Hemorrhages" />
+    <Mention id="M248" section="S2" type="Severity" start="6348" len="5" str="major" />
+    <Mention id="M249" section="S2" type="AdverseReaction" start="6354" len="11" str="hemorrhages" />
+    <Mention id="M250" section="S2" type="AdverseReaction" start="6377" len="20" str="symptomatic bleeding" />
+    <Mention id="M251" section="S2" type="Factor" start="6427" len="3" str="can" />
+    <Mention id="M252" section="S2" type="AdverseReaction" start="6620" len="17" str="hemorrhagic event" />
+    <Mention id="M253" section="S2" type="Severity" start="6796" len="5" str="major" />
+    <Mention id="M254" section="S2" type="AdverseReaction" start="6802" len="18" str="hemorrhagic events" />
+    <Mention id="M255" section="S2" type="AdverseReaction" start="6824,6848" len="12,10" str="intracranial hemorrhage" />
+    <Mention id="M256" section="S2" type="AdverseReaction" start="6840" len="18" str="gastric hemorrhage" />
+    <Mention id="M257" section="S2" type="AdverseReaction" start="7025" len="23" str="Intracranial hemorrhage" />
+    <Mention id="M258" section="S2" type="AdverseReaction" start="7053" len="5" str="fatal" />
+    <Mention id="M259" section="S2" type="AdverseReaction" start="7535" len="22" str="Venous thromboembolism" />
+    <Mention id="M260" section="S2" type="Factor" start="7558" len="3" str="can" />
+    <Mention id="M261" section="S2" type="AdverseReaction" start="7734" len="22" str="deep venous thrombosis" />
+    <Mention id="M262" section="S2" type="AdverseReaction" start="7758" len="3" str="DVT" />
+    <Mention id="M263" section="S2" type="AdverseReaction" start="7767" len="18" str="pulmonary embolism" />
+    <Mention id="M264" section="S2" type="AdverseReaction" start="7787" len="2" str="PE" />
+    <Mention id="M265" section="S2" type="AdverseReaction" start="7946" len="18" str="Pulmonary embolism" />
+    <Mention id="M266" section="S2" type="AdverseReaction" start="7969" len="5" str="fatal" />
+    <Mention id="M267" section="S2" type="AdverseReaction" start="8526" len="14" str="Cardiomyopathy" />
+    <Mention id="M268" section="S2" type="Factor" start="8541" len="3" str="can" />
+    <Mention id="M269" section="S2" type="AdverseReaction" start="8719" len="14" str="cardiomyopathy" />
+    <Mention id="M270" section="S2" type="AdverseReaction" start="8914" len="14" str="cardiomyopathy" />
+    <Mention id="M271" section="S2" type="AdverseReaction" start="9031" len="14" str="Cardiomyopathy" />
+    <Mention id="M272" section="S2" type="AdverseReaction" start="9182" len="14" str="cardiomyopathy" />
+    <Mention id="M273" section="S2" type="AdverseReaction" start="9426" len="14" str="cardiomyopathy" />
+    <Mention id="M274" section="S2" type="AdverseReaction" start="9442" len="16" str="decrease in LVEF" />
+    <Mention id="M275" section="S2" type="Severity" start="9465" len="36" str="institutional lower limits of normal" />
+    <Mention id="M276" section="S2" type="AdverseReaction" start="9510" len="25" str="absolute decrease in LVEF" />
+    <Mention id="M277" section="S2" type="Severity" start="9538" len="18" str="10% below baseline" />
+    <Mention id="M278" section="S2" type="AdverseReaction" start="9586" len="16" str="decrease in LVEF" />
+    <Mention id="M279" section="S2" type="Severity" start="9609" len="36" str="institutional lower limits of normal" />
+    <Mention id="M280" section="S2" type="AdverseReaction" start="9654" len="25" str="absolute decrease in LVEF" />
+    <Mention id="M281" section="S2" type="Severity" start="9685" len="18" str="20% below baseline" />
+    <Mention id="M282" section="S2" type="AdverseReaction" start="10510" len="38" str="Retinal pigment epithelial detachments" />
+    <Mention id="M283" section="S2" type="AdverseReaction" start="10550" len="4" str="RPED" />
+    <Mention id="M284" section="S2" type="Factor" start="10556" len="3" str="can" />
+    <Mention id="M285" section="S2" type="AdverseReaction" start="10715" len="19" str="Retinal detachments" />
+    <Mention id="M286" section="S2" type="AdverseReaction" start="10991" len="4" str="RPED" />
+    <Mention id="M287" section="S2" type="AdverseReaction" start="11188" len="4" str="RPED" />
+    <Mention id="M288" section="S2" type="AdverseReaction" start="11741" len="7" str="Uveitis" />
+    <Mention id="M289" section="S2" type="AdverseReaction" start="11753" len="6" str="iritis" />
+    <Mention id="M290" section="S2" type="Factor" start="11760" len="3" str="can" />
+    <Mention id="M291" section="S2" type="AdverseReaction" start="11870" len="7" str="Uveitis" />
+    <Mention id="M292" section="S2" type="AdverseReaction" start="11889" len="6" str="iritis" />
+    <Mention id="M293" section="S2" type="AdverseReaction" start="11976" len="7" str="uveitis" />
+    <Mention id="M294" section="S2" type="Severity" start="12508" len="7" str="Serious" />
+    <Mention id="M295" section="S2" type="AdverseReaction" start="12516" len="17" str="febrile reactions" />
+    <Mention id="M296" section="S2" type="AdverseReaction" start="12538" len="5" str="fever" />
+    <Mention id="M297" section="S2" type="AdverseReaction" start="12575" len="11" str="hypotension" />
+    <Mention id="M298" section="S2" type="AdverseReaction" start="12588" len="6" str="rigors" />
+    <Mention id="M299" section="S2" type="AdverseReaction" start="12598" len="6" str="chills" />
+    <Mention id="M300" section="S2" type="AdverseReaction" start="12606" len="11" str="dehydration" />
+    <Mention id="M301" section="S2" type="AdverseReaction" start="12622" len="13" str="renal failure" />
+    <Mention id="M302" section="S2" type="Factor" start="12637" len="3" str="can" />
+    <Mention id="M303" section="S2" type="AdverseReaction" start="12770" len="7" str="pyrexia" />
+    <Mention id="M304" section="S2" type="AdverseReaction" start="12954" len="5" str="fever" />
+    <Mention id="M305" section="S2" type="AdverseReaction" start="12954" len="5" str="fever" />
+    <Mention id="M306" section="S2" type="Severity" start="12961" len="7" str="serious" />
+    <Mention id="M307" section="S2" type="AdverseReaction" start="13145" len="5" str="fever" />
+    <Mention id="M308" section="S2" type="AdverseReaction" start="13228" len="5" str="fever" />
+    <Mention id="M309" section="S2" type="Severity" start="13269" len="7" str="Serious" />
+    <Mention id="M310" section="S2" type="AdverseReaction" start="13277" len="17" str="febrile reactions" />
+    <Mention id="M311" section="S2" type="AdverseReaction" start="13299" len="5" str="fever" />
+    <Mention id="M312" section="S2" type="AdverseReaction" start="13336" len="11" str="hypotension" />
+    <Mention id="M313" section="S2" type="AdverseReaction" start="13349" len="6" str="rigors" />
+    <Mention id="M314" section="S2" type="AdverseReaction" start="13359" len="6" str="chills" />
+    <Mention id="M315" section="S2" type="AdverseReaction" start="13518" len="5" str="fever" />
+    <Mention id="M316" section="S2" type="AdverseReaction" start="13518" len="5" str="fever" />
+    <Mention id="M317" section="S2" type="Severity" start="13525" len="7" str="serious" />
+    <Mention id="M318" section="S2" type="Severity" start="13700" len="7" str="Serious" />
+    <Mention id="M319" section="S2" type="AdverseReaction" start="13708" len="17" str="febrile reactions" />
+    <Mention id="M320" section="S2" type="AdverseReaction" start="13730" len="5" str="fever" />
+    <Mention id="M321" section="S2" type="AdverseReaction" start="13767" len="11" str="hypotension" />
+    <Mention id="M322" section="S2" type="AdverseReaction" start="13780" len="6" str="rigors" />
+    <Mention id="M323" section="S2" type="AdverseReaction" start="13790" len="6" str="chills" />
+    <Mention id="M324" section="S2" type="AdverseReaction" start="13963" len="5" str="Fever" />
+    <Mention id="M325" section="S2" type="AdverseReaction" start="13990" len="6" str="chills" />
+    <Mention id="M326" section="S2" type="AdverseReaction" start="13997" len="6" str="rigors" />
+    <Mention id="M327" section="S2" type="AdverseReaction" start="14020" len="11" str="dehydration" />
+    <Mention id="M328" section="S2" type="AdverseReaction" start="14046" len="13" str="renal failure" />
+    <Mention id="M329" section="S2" type="AdverseReaction" start="14078" len="7" str="syncope" />
+    <Mention id="M330" section="S2" type="AdverseReaction" start="14232" len="5" str="fever" />
+    <Mention id="M331" section="S2" type="AdverseReaction" start="14348" len="5" str="fever" />
+    <Mention id="M332" section="S2" type="AdverseReaction" start="14554" len="7" str="pyrexia" />
+    <Mention id="M333" section="S2" type="Severity" start="15158" len="7" str="Serious" />
+    <Mention id="M334" section="S2" type="AdverseReaction" start="15166" len="13" str="skin toxicity" />
+    <Mention id="M335" section="S2" type="Factor" start="15180" len="3" str="can" />
+    <Mention id="M336" section="S2" type="AdverseReaction" start="15379" len="13" str="skin toxicity" />
+    <Mention id="M337" section="S2" type="AdverseReaction" start="15585" len="13" str="skin toxicity" />
+    <Mention id="M338" section="S2" type="AdverseReaction" start="15732" len="13" str="skin toxicity" />
+    <Mention id="M339" section="S2" type="Severity" start="15975" len="6" str="severe" />
+    <Mention id="M340" section="S2" type="AdverseReaction" start="15982" len="13" str="skin toxicity" />
+    <Mention id="M341" section="S2" type="AdverseReaction" start="16000" len="32" str="secondary infections of the skin" />
+    <Mention id="M342" section="S2" type="AdverseReaction" start="16465" len="13" str="Hyperglycemia" />
+    <Mention id="M343" section="S2" type="Factor" start="16479" len="3" str="can" />
+    <Mention id="M344" section="S2" type="Severity" start="16729" len="7" str="Grade 3" />
+    <Mention id="M345" section="S2" type="AdverseReaction" start="16737" len="13" str="hyperglycemia" />
+    <Mention id="M346" section="S2" type="Severity" start="16918" len="7" str="Grade 3" />
+    <Mention id="M347" section="S2" type="AdverseReaction" start="16926" len="13" str="hyperglycemia" />
+    <Mention id="M348" section="S2" type="Factor" start="17606" len="4" str="risk" />
+    <Mention id="M349" section="S2" type="AdverseReaction" start="17614" len="16" str="hemolytic anemia" />
+    <Mention id="M350" section="S2" type="Factor" start="17859" len="3" str="can" />
+    <Mention id="M351" section="S2" type="AdverseReaction" start="17869" len="10" str="fetal harm" />
+    <Mention id="M352" section="S2" type="AdverseReaction" start="17934" len="11" str="teratogenic" />
+    <Mention id="M353" section="S2" type="AdverseReaction" start="17950" len="11" str="embryotoxic" />
+    <Mention id="M354" section="S2" type="Animal" start="17965" len="4" str="rats" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M8" arg2="M7" />
+    <Relation id="RL2" type="Effect" arg1="M10" arg2="M9" />
+    <Relation id="RL3" type="Effect" arg1="M64" arg2="M63" />
+    <Relation id="RL4" type="Effect" arg1="M65" arg2="M63" />
+    <Relation id="RL5" type="Effect" arg1="M70" arg2="M71" />
+    <Relation id="RL6" type="Effect" arg1="M77" arg2="M76" />
+    <Relation id="RL7" type="Effect" arg1="M182" arg2="M183" />
+    <Relation id="RL8" type="Effect" arg1="M184" arg2="M185" />
+    <Relation id="RL9" type="Hypothetical" arg1="M188" arg2="M190" />
+    <Relation id="RL10" type="Hypothetical" arg1="M189" arg2="M190" />
+    <Relation id="RL11" type="Hypothetical" arg1="M192" arg2="M193" />
+    <Relation id="RL12" type="Effect" arg1="M196" arg2="M195" />
+    <Relation id="RL13" type="Hypothetical" arg1="M196" arg2="M197" />
+    <Relation id="RL14" type="Hypothetical" arg1="M199" arg2="M201" />
+    <Relation id="RL15" type="Hypothetical" arg1="M200" arg2="M201" />
+    <Relation id="RL16" type="Effect" arg1="M205" arg2="M204" />
+    <Relation id="RL17" type="Effect" arg1="M208" arg2="M207" />
+    <Relation id="RL18" type="Hypothetical" arg1="M213" arg2="M212" />
+    <Relation id="RL19" type="Hypothetical" arg1="M214" arg2="M216" />
+    <Relation id="RL20" type="Hypothetical" arg1="M215" arg2="M216" />
+    <Relation id="RL21" type="Hypothetical" arg1="M239" arg2="M238" />
+    <Relation id="RL22" type="Hypothetical" arg1="M245" arg2="M246" />
+    <Relation id="RL23" type="Hypothetical" arg1="M247" arg2="M251" />
+    <Relation id="RL24" type="Effect" arg1="M249" arg2="M248" />
+    <Relation id="RL25" type="Hypothetical" arg1="M249" arg2="M251" />
+    <Relation id="RL26" type="Hypothetical" arg1="M250" arg2="M251" />
+    <Relation id="RL27" type="Effect" arg1="M254" arg2="M253" />
+    <Relation id="RL28" type="Hypothetical" arg1="M259" arg2="M260" />
+    <Relation id="RL29" type="Hypothetical" arg1="M267" arg2="M268" />
+    <Relation id="RL30" type="Effect" arg1="M274" arg2="M275" />
+    <Relation id="RL31" type="Effect" arg1="M276" arg2="M277" />
+    <Relation id="RL32" type="Effect" arg1="M278" arg2="M279" />
+    <Relation id="RL33" type="Effect" arg1="M280" arg2="M281" />
+    <Relation id="RL34" type="Hypothetical" arg1="M282" arg2="M284" />
+    <Relation id="RL35" type="Hypothetical" arg1="M283" arg2="M284" />
+    <Relation id="RL36" type="Hypothetical" arg1="M288" arg2="M290" />
+    <Relation id="RL37" type="Hypothetical" arg1="M289" arg2="M290" />
+    <Relation id="RL38" type="Effect" arg1="M295" arg2="M294" />
+    <Relation id="RL39" type="Hypothetical" arg1="M295" arg2="M302" />
+    <Relation id="RL40" type="Hypothetical" arg1="M296" arg2="M302" />
+    <Relation id="RL41" type="Hypothetical" arg1="M297" arg2="M302" />
+    <Relation id="RL42" type="Hypothetical" arg1="M298" arg2="M302" />
+    <Relation id="RL43" type="Hypothetical" arg1="M299" arg2="M302" />
+    <Relation id="RL44" type="Hypothetical" arg1="M300" arg2="M302" />
+    <Relation id="RL45" type="Hypothetical" arg1="M301" arg2="M302" />
+    <Relation id="RL46" type="Effect" arg1="M305" arg2="M306" />
+    <Relation id="RL47" type="Effect" arg1="M310" arg2="M309" />
+    <Relation id="RL48" type="Effect" arg1="M316" arg2="M317" />
+    <Relation id="RL49" type="Effect" arg1="M319" arg2="M318" />
+    <Relation id="RL50" type="Effect" arg1="M334" arg2="M333" />
+    <Relation id="RL51" type="Hypothetical" arg1="M334" arg2="M335" />
+    <Relation id="RL52" type="Effect" arg1="M340" arg2="M339" />
+    <Relation id="RL53" type="Hypothetical" arg1="M342" arg2="M343" />
+    <Relation id="RL54" type="Effect" arg1="M345" arg2="M344" />
+    <Relation id="RL55" type="Effect" arg1="M347" arg2="M346" />
+    <Relation id="RL56" type="Hypothetical" arg1="M349" arg2="M348" />
+    <Relation id="RL57" type="Hypothetical" arg1="M351" arg2="M350" />
+    <Relation id="RL58" type="Hypothetical" arg1="M352" arg2="M354" />
+    <Relation id="RL59" type="Hypothetical" arg1="M353" arg2="M354" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="primary malignancies">
+      <Normalization id="AR1.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" />
+    </Reaction>
+    <Reaction id="AR2" str="tumor promotion in braf wild-type melanoma">
+      <Normalization id="AR2.N1" meddra_pt="Carcinogenicity" meddra_pt_id="10007269" />
+    </Reaction>
+    <Reaction id="AR3" str="hemorrhage">
+      <Normalization id="AR3.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Hemorrhage" meddra_llt_id="10019524" />
+    </Reaction>
+    <Reaction id="AR4" str="venous thromboembolism">
+      <Normalization id="AR4.N1" meddra_pt="Embolism venous" meddra_pt_id="10014522" meddra_llt="Venous thromboembolism" meddra_llt_id="10066899" />
+    </Reaction>
+    <Reaction id="AR5" str="cardiomyopathy">
+      <Normalization id="AR5.N1" meddra_pt="Cardiomyopathy" meddra_pt_id="10007636" />
+    </Reaction>
+    <Reaction id="AR6" str="ocular toxicities">
+      <Normalization id="AR6.N1" meddra_pt="Ocular toxicity" meddra_pt_id="10061137" />
+    </Reaction>
+    <Reaction id="AR7" str="febrile reactions">
+      <Normalization id="AR7.N1" meddra_pt="Pyrexia" meddra_pt_id="10037660" meddra_llt="Febrile reaction" meddra_llt_id="10016289" />
+    </Reaction>
+    <Reaction id="AR8" str="skin toxicity">
+      <Normalization id="AR8.N1" meddra_pt="Skin toxicity" meddra_pt_id="10059516" />
+    </Reaction>
+    <Reaction id="AR9" str="hyperglycemia">
+      <Normalization id="AR9.N1" meddra_pt="Hyperglycaemia" meddra_pt_id="10020635" meddra_llt="Hyperglycemia" meddra_llt_id="10020639" />
+    </Reaction>
+    <Reaction id="AR10" str="glucose-6-phosphate dehydrogenase deficiency">
+      <Normalization id="AR10.N1" meddra_pt="Glucose-6-phosphate dehydrogenase deficiency" meddra_pt_id="10018444" />
+    </Reaction>
+    <Reaction id="AR11" str="hyperkeratosis">
+      <Normalization id="AR11.N1" meddra_pt="Hyperkeratosis" meddra_pt_id="10020649" />
+    </Reaction>
+    <Reaction id="AR12" str="headache">
+      <Normalization id="AR12.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR13" str="pyrexia">
+      <Normalization id="AR13.N1" meddra_pt="Pyrexia" meddra_pt_id="10037660" />
+    </Reaction>
+    <Reaction id="AR14" str="arthralgia">
+      <Normalization id="AR14.N1" meddra_pt="Arthralgia" meddra_pt_id="10003239" />
+    </Reaction>
+    <Reaction id="AR15" str="papilloma">
+      <Normalization id="AR15.N1" meddra_pt="Papilloma" meddra_pt_id="10033713" />
+    </Reaction>
+    <Reaction id="AR16" str="alopecia">
+      <Normalization id="AR16.N1" meddra_pt="Alopecia" meddra_pt_id="10001760" />
+    </Reaction>
+    <Reaction id="AR17" str="palmar-plantar erythrodysesthesia syndrome">
+      <Normalization id="AR17.N1" meddra_pt="Palmar-plantar erythrodysaesthesia syndrome" meddra_pt_id="10033553" meddra_llt="Palmar-plantar erythrodysesthesia syndrome" meddra_llt_id="10054524" />
+    </Reaction>
+    <Reaction id="AR18" str="chills">
+      <Normalization id="AR18.N1" meddra_pt="Chills" meddra_pt_id="10008531" />
+    </Reaction>
+    <Reaction id="AR19" str="fatigue">
+      <Normalization id="AR19.N1" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Reaction>
+    <Reaction id="AR20" str="rash">
+      <Normalization id="AR20.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR21" str="nausea">
+      <Normalization id="AR21.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR22" str="vomiting">
+      <Normalization id="AR22.N1" meddra_pt="Vomiting" meddra_pt_id="10047700" />
+    </Reaction>
+    <Reaction id="AR23" str="diarrhea">
+      <Normalization id="AR23.N1" meddra_pt="Diarrhoea" meddra_pt_id="10012735" meddra_llt="Diarrhea" meddra_llt_id="10012727" />
+    </Reaction>
+    <Reaction id="AR24" str="abdominal pain">
+      <Normalization id="AR24.N1" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Reaction>
+    <Reaction id="AR25" str="peripheral edema">
+      <Normalization id="AR25.N1" meddra_pt="Oedema peripheral" meddra_pt_id="10030124" meddra_llt="Peripheral edema" meddra_llt_id="10034570" />
+    </Reaction>
+    <Reaction id="AR26" str="cough">
+      <Normalization id="AR26.N1" meddra_pt="Cough" meddra_pt_id="10011224" />
+    </Reaction>
+    <Reaction id="AR27" str="night sweats">
+      <Normalization id="AR27.N1" meddra_pt="Night sweats" meddra_pt_id="10029410" />
+    </Reaction>
+    <Reaction id="AR28" str="decreased appetite">
+      <Normalization id="AR28.N1" meddra_pt="Decreased appetite" meddra_pt_id="10061428" />
+    </Reaction>
+    <Reaction id="AR29" str="constipation">
+      <Normalization id="AR29.N1" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Reaction>
+    <Reaction id="AR30" str="myalgia">
+      <Normalization id="AR30.N1" meddra_pt="Myalgia" meddra_pt_id="10028411" />
+    </Reaction>
+    <Reaction id="AR31" str="ppes">
+      <Normalization id="AR31.N1" meddra_pt="Palmar-plantar erythrodysaesthesia syndrome" meddra_pt_id="10033553" meddra_llt="Palmar-plantar erythrodysesthesia syndrome" meddra_llt_id="10054524" />
+    </Reaction>
+    <Reaction id="AR32" str="back pain">
+      <Normalization id="AR32.N1" meddra_pt="Back pain" meddra_pt_id="10003988" />
+    </Reaction>
+    <Reaction id="AR33" str="cuscc">
+      <Normalization id="AR33.N1" meddra_pt="Squamous cell carcinoma of skin" meddra_pt_id="10041834" />
+    </Reaction>
+    <Reaction id="AR34" str="nasopharyngitis">
+      <Normalization id="AR34.N1" meddra_pt="Nasopharyngitis" meddra_pt_id="10028810" />
+    </Reaction>
+    <Reaction id="AR35" str="skin papilloma">
+      <Normalization id="AR35.N1" meddra_pt="Skin papilloma" meddra_pt_id="10040907" />
+    </Reaction>
+    <Reaction id="AR36" str="squamous cell carcinoma of the skin">
+      <Normalization id="AR36.N1" meddra_pt="Squamous cell carcinoma of skin" meddra_pt_id="10041834" />
+    </Reaction>
+    <Reaction id="AR37" str="keratoacanthoma">
+      <Normalization id="AR37.N1" meddra_pt="Keratoacanthoma" meddra_pt_id="10023347" />
+    </Reaction>
+    <Reaction id="AR38" str="cutaneous squamous cell carcinoma">
+      <Normalization id="AR38.N1" meddra_pt="Squamous cell carcinoma of skin" meddra_pt_id="10041834" />
+    </Reaction>
+    <Reaction id="AR39" str="hypophosphatemia">
+      <Normalization id="AR39.N1" meddra_pt="Hypophosphataemia" meddra_pt_id="10021058" meddra_llt="Hypophosphatemia" meddra_llt_id="10021059" />
+    </Reaction>
+    <Reaction id="AR40" str="increased alkaline phosphatase">
+      <Normalization id="AR40.N1" meddra_pt="Blood alkaline phosphatase increased" meddra_pt_id="10059570" meddra_llt="Alkaline phosphatase increased" meddra_llt_id="10001675" />
+    </Reaction>
+    <Reaction id="AR41" str="hyponatremia">
+      <Normalization id="AR41.N1" meddra_pt="Hyponatraemia" meddra_pt_id="10021036" meddra_llt="Hyponatremia" meddra_llt_id="10021038" />
+    </Reaction>
+    <Reaction id="AR42" str="pancreatitis">
+      <Normalization id="AR42.N1" meddra_pt="Pancreatitis" meddra_pt_id="10033645" />
+    </Reaction>
+    <Reaction id="AR43" str="hypersensitivity">
+      <Normalization id="AR43.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Reaction>
+    <Reaction id="AR44" str="bullous rash">
+      <Normalization id="AR44.N1" meddra_pt="Dermatitis bullous" meddra_pt_id="10012441" meddra_llt="Bullous rash" meddra_llt_id="10006569" />
+    </Reaction>
+    <Reaction id="AR45" str="interstitial nephritis">
+      <Normalization id="AR45.N1" meddra_pt="Tubulointerstitial nephritis" meddra_pt_id="10048302" meddra_llt="Nephritis interstitial" meddra_llt_id="10029134" />
+    </Reaction>
+    <Reaction id="AR46" str="decreased ejection fraction">
+      <Normalization id="AR46.N1" meddra_pt="Ejection fraction decreased" meddra_pt_id="10050528" />
+    </Reaction>
+    <Reaction id="AR47" str="edema peripheral">
+      <Normalization id="AR47.N1" meddra_pt="Oedema peripheral" meddra_pt_id="10030124" meddra_llt="Edema peripheral" meddra_llt_id="10014251" />
+    </Reaction>
+    <Reaction id="AR48" str="dry skin">
+      <Normalization id="AR48.N1" meddra_pt="Dry skin" meddra_pt_id="10013786" />
+    </Reaction>
+    <Reaction id="AR49" str="dermatitis acneiform">
+      <Normalization id="AR49.N1" meddra_pt="Dermatitis acneiform" meddra_pt_id="10012432" />
+    </Reaction>
+    <Reaction id="AR50" str="actinic keratosis">
+      <Normalization id="AR50.N1" meddra_pt="Actinic keratosis" meddra_pt_id="10000614" />
+    </Reaction>
+    <Reaction id="AR51" str="erythema">
+      <Normalization id="AR51.N1" meddra_pt="Erythema" meddra_pt_id="10015150" />
+    </Reaction>
+    <Reaction id="AR52" str="pruritus">
+      <Normalization id="AR52.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Reaction>
+    <Reaction id="AR53" str="dry mouth">
+      <Normalization id="AR53.N1" meddra_pt="Dry mouth" meddra_pt_id="10013781" />
+    </Reaction>
+    <Reaction id="AR54" str="dizziness">
+      <Normalization id="AR54.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR55" str="oropharyngeal pain">
+      <Normalization id="AR55.N1" meddra_pt="Oropharyngeal pain" meddra_pt_id="10068319" />
+    </Reaction>
+    <Reaction id="AR56" str="muscle spasms">
+      <Normalization id="AR56.N1" meddra_pt="Muscle spasms" meddra_pt_id="10028334" />
+    </Reaction>
+    <Reaction id="AR57" str="pain in extremity">
+      <Normalization id="AR57.N1" meddra_pt="Pain in extremity" meddra_pt_id="10033425" />
+    </Reaction>
+    <Reaction id="AR58" str="dehydration">
+      <Normalization id="AR58.N1" meddra_pt="Dehydration" meddra_pt_id="10012174" />
+    </Reaction>
+    <Reaction id="AR59" str="insomnia">
+      <Normalization id="AR59.N1" meddra_pt="Insomnia" meddra_pt_id="10022437" />
+    </Reaction>
+    <Reaction id="AR60" str="urinary tract infection">
+      <Normalization id="AR60.N1" meddra_pt="Urinary tract infection" meddra_pt_id="10046571" />
+    </Reaction>
+    <Reaction id="AR61" str="renal failure">
+      <Normalization id="AR61.N1" meddra_pt="Renal failure" meddra_pt_id="10038435" />
+    </Reaction>
+    <Reaction id="AR62" str="edema">
+      <Normalization id="AR62.N1" meddra_pt="Oedema" meddra_pt_id="10030095" meddra_llt="Edema" meddra_llt_id="10014210" />
+    </Reaction>
+    <Reaction id="AR63" str="lymphedema">
+      <Normalization id="AR63.N1" meddra_pt="Lymphoedema" meddra_pt_id="10025282" meddra_llt="Lymphedema" meddra_llt_id="10025233" />
+    </Reaction>
+    <Reaction id="AR64" str="rash generalized">
+      <Normalization id="AR64.N1" meddra_pt="Rash generalised" meddra_pt_id="10037858" meddra_llt="Generalized rash" meddra_llt_id="10049201" />
+    </Reaction>
+    <Reaction id="AR65" str="rash pruritic">
+      <Normalization id="AR65.N1" meddra_pt="Rash pruritic" meddra_pt_id="10037884" />
+    </Reaction>
+    <Reaction id="AR66" str="rash erythematous">
+      <Normalization id="AR66.N1" meddra_pt="Rash erythematous" meddra_pt_id="10037855" />
+    </Reaction>
+    <Reaction id="AR67" str="rash papular">
+      <Normalization id="AR67.N1" meddra_pt="Rash papular" meddra_pt_id="10037876" />
+    </Reaction>
+    <Reaction id="AR68" str="rash vesicular">
+      <Normalization id="AR68.N1" meddra_pt="Rash vesicular" meddra_pt_id="10037898" />
+    </Reaction>
+    <Reaction id="AR69" str="rash macular">
+      <Normalization id="AR69.N1" meddra_pt="Rash macular" meddra_pt_id="10037867" />
+    </Reaction>
+    <Reaction id="AR70" str="rash maculo-papular">
+      <Normalization id="AR70.N1" meddra_pt="Rash maculo-papular" meddra_pt_id="10037868" />
+    </Reaction>
+    <Reaction id="AR71" str="abdominal pain upper">
+      <Normalization id="AR71.N1" meddra_pt="Abdominal pain upper" meddra_pt_id="10000087" />
+    </Reaction>
+    <Reaction id="AR72" str="abdominal pain lower">
+      <Normalization id="AR72.N1" meddra_pt="Abdominal pain lower" meddra_pt_id="10000084" />
+    </Reaction>
+    <Reaction id="AR73" str="abdominal discomfort">
+      <Normalization id="AR73.N1" meddra_pt="Abdominal discomfort" meddra_pt_id="10000059" />
+    </Reaction>
+    <Reaction id="AR74" str="brain stem hemorrhage">
+      <Normalization id="AR74.N1" meddra_pt="Brain stem haemorrhage" meddra_pt_id="10006145" meddra_llt="Brain stem hemorrhage" meddra_llt_id="10006146" />
+    </Reaction>
+    <Reaction id="AR75" str="cerebral hemorrhage">
+      <Normalization id="AR75.N1" meddra_pt="Cerebral haemorrhage" meddra_pt_id="10008111" meddra_llt="Cerebral hemorrhage" meddra_llt_id="10008114" />
+    </Reaction>
+    <Reaction id="AR76" str="gastric hemorrhage">
+      <Normalization id="AR76.N1" meddra_pt="Gastric haemorrhage" meddra_pt_id="10017788" meddra_llt="Gastric hemorrhage" meddra_llt_id="10017789" />
+    </Reaction>
+    <Reaction id="AR77" str="epistaxis">
+      <Normalization id="AR77.N1" meddra_pt="Epistaxis" meddra_pt_id="10015090" />
+    </Reaction>
+    <Reaction id="AR78" str="gingival hemorrhage">
+      <Normalization id="AR78.N1" meddra_pt="Gingival bleeding" meddra_pt_id="10018276" meddra_llt="Gingival hemorrhage" meddra_llt_id="10072706" />
+    </Reaction>
+    <Reaction id="AR79" str="hematuria">
+      <Normalization id="AR79.N1" meddra_pt="Haematuria" meddra_pt_id="10018867" meddra_llt="Hematuria" meddra_llt_id="10019450" />
+    </Reaction>
+    <Reaction id="AR80" str="vaginal hemorrhage">
+      <Normalization id="AR80.N1" meddra_pt="Vaginal haemorrhage" meddra_pt_id="10046910" meddra_llt="Vaginal hemorrhage" meddra_llt_id="10046912" />
+    </Reaction>
+    <Reaction id="AR81" str="hemorrhage intracranial">
+      <Normalization id="AR81.N1" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" meddra_llt="Hemorrhage intracranial" meddra_llt_id="10019552" />
+    </Reaction>
+    <Reaction id="AR82" str="eye hemorrhage">
+      <Normalization id="AR82.N1" meddra_pt="Eye haemorrhage" meddra_pt_id="10015926" meddra_llt="Eye hemorrhage" meddra_llt_id="10015928" />
+    </Reaction>
+    <Reaction id="AR83" str="vitreous hemorrhage">
+      <Normalization id="AR83.N1" meddra_pt="Vitreous haemorrhage" meddra_pt_id="10047655" meddra_llt="Vitreous hemorrhage" meddra_llt_id="10047656" />
+    </Reaction>
+    <Reaction id="AR84" str="renal failure acute">
+      <Normalization id="AR84.N1" meddra_pt="Acute kidney injury" meddra_pt_id="10069339" meddra_llt="Renal failure acute" meddra_llt_id="10038436" />
+    </Reaction>
+    <Reaction id="AR85" str="vision blurred">
+      <Normalization id="AR85.N1" meddra_pt="Vision blurred" meddra_pt_id="10047513" />
+    </Reaction>
+    <Reaction id="AR86" str="transient blindness">
+      <Normalization id="AR86.N1" meddra_pt="Blindness transient" meddra_pt_id="10005184" meddra_llt="Transient blindness" meddra_llt_id="10044373" />
+    </Reaction>
+    <Reaction id="AR87" str="stomatitis">
+      <Normalization id="AR87.N1" meddra_pt="Stomatitis" meddra_pt_id="10042128" />
+    </Reaction>
+    <Reaction id="AR88" str="asthenia">
+      <Normalization id="AR88.N1" meddra_pt="Asthenia" meddra_pt_id="10003549" />
+    </Reaction>
+    <Reaction id="AR89" str="cellulitis">
+      <Normalization id="AR89.N1" meddra_pt="Cellulitis" meddra_pt_id="10007882" />
+    </Reaction>
+    <Reaction id="AR90" str="folliculitis">
+      <Normalization id="AR90.N1" meddra_pt="Folliculitis" meddra_pt_id="10016936" />
+    </Reaction>
+    <Reaction id="AR91" str="paronychia">
+      <Normalization id="AR91.N1" meddra_pt="Paronychia" meddra_pt_id="10034016" />
+    </Reaction>
+    <Reaction id="AR92" str="rash pustular">
+      <Normalization id="AR92.N1" meddra_pt="Rash pustular" meddra_pt_id="10037888" />
+    </Reaction>
+    <Reaction id="AR93" str="hyperhidrosis">
+      <Normalization id="AR93.N1" meddra_pt="Hyperhidrosis" meddra_pt_id="10020642" />
+    </Reaction>
+    <Reaction id="AR94" str="hypertension">
+      <Normalization id="AR94.N1" meddra_pt="Hypertension" meddra_pt_id="10020772" />
+    </Reaction>
+    <Reaction id="AR95" str="leukopenia">
+      <Normalization id="AR95.N1" meddra_pt="Leukopenia" meddra_pt_id="10024384" />
+    </Reaction>
+    <Reaction id="AR96" str="lymphopenia">
+      <Normalization id="AR96.N1" meddra_pt="Lymphopenia" meddra_pt_id="10025327" />
+    </Reaction>
+    <Reaction id="AR97" str="neutropenia">
+      <Normalization id="AR97.N1" meddra_pt="Neutropenia" meddra_pt_id="10029354" />
+    </Reaction>
+    <Reaction id="AR98" str="anemia">
+      <Normalization id="AR98.N1" meddra_pt="Anaemia" meddra_pt_id="10002034" meddra_llt="Anemia" meddra_llt_id="10002272" />
+    </Reaction>
+    <Reaction id="AR99" str="thrombocytopenia">
+      <Normalization id="AR99.N1" meddra_pt="Thrombocytopenia" meddra_pt_id="10043554" />
+    </Reaction>
+    <Reaction id="AR100" str="increased ast">
+      <Normalization id="AR100.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" meddra_llt="AST increased" meddra_llt_id="10003544" />
+    </Reaction>
+    <Reaction id="AR101" str="increased alt">
+      <Normalization id="AR101.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" meddra_llt="ALT increased" meddra_llt_id="10001845" />
+    </Reaction>
+    <Reaction id="AR102" str="hyperbilirubinemia">
+      <Normalization id="AR102.N1" meddra_pt="Hyperbilirubinaemia" meddra_pt_id="10020578" meddra_llt="Hyperbilirubinemia" meddra_llt_id="10020582" />
+    </Reaction>
+    <Reaction id="AR103" str="increased ggt">
+      <Normalization id="AR103.N1" meddra_pt="Gamma-glutamyltransferase increased" meddra_pt_id="10017693" meddra_llt="GGT increased" meddra_llt_id="10056910" />
+    </Reaction>
+    <Reaction id="AR104" str="hypoalbuminemia">
+      <Normalization id="AR104.N1" meddra_pt="Hypoalbuminaemia" meddra_pt_id="10020942" meddra_llt="Hypoalbuminemia" meddra_llt_id="10020943" />
+    </Reaction>
+    <Reaction id="AR105" str="hypokalemia">
+      <Normalization id="AR105.N1" meddra_pt="Hypokalaemia" meddra_pt_id="10021015" meddra_llt="Hypokalemia" meddra_llt_id="10021018" />
+    </Reaction>
+    <Reaction id="AR106" str="increased creatinine">
+      <Normalization id="AR106.N1" meddra_pt="Blood creatinine increased" meddra_pt_id="10005483" meddra_llt="Creatinine increased" meddra_llt_id="10011368" />
+    </Reaction>
+    <Reaction id="AR107" str="hypomagnesemia">
+      <Normalization id="AR107.N1" meddra_pt="Hypomagnesaemia" meddra_pt_id="10021027" meddra_llt="Hypomagnesemia" meddra_llt_id="10021028" />
+    </Reaction>
+    <Reaction id="AR108" str="hyperkalemia">
+      <Normalization id="AR108.N1" meddra_pt="Hyperkalaemia" meddra_pt_id="10020646" meddra_llt="Hyperkalemia" meddra_llt_id="10020647" />
+    </Reaction>
+    <Reaction id="AR109" str="hypercalcemia">
+      <Normalization id="AR109.N1" meddra_pt="Hypercalcaemia" meddra_pt_id="10020583" meddra_llt="Hypercalcemia" meddra_llt_id="10020587" />
+    </Reaction>
+    <Reaction id="AR110" str="hypocalcemia">
+      <Normalization id="AR110.N1" meddra_pt="Hypocalcaemia" meddra_pt_id="10020947" meddra_llt="Hypocalcemia" meddra_llt_id="10020949" />
+    </Reaction>
+    <Reaction id="AR111" str="qtcf prolongation">
+      <Normalization id="AR111.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR112" str="qtcf was increased">
+      <Normalization id="AR112.N1" meddra_pt="Electrocardiogram QT prolonged" meddra_pt_id="10014387" meddra_llt="Electrocardiogram QTc interval prolonged" meddra_llt_id="10053698" />
+    </Reaction>
+    <Reaction id="AR113" str="retinal vein occlusion">
+      <Normalization id="AR113.N1" meddra_pt="Retinal vein occlusion" meddra_pt_id="10038907" />
+    </Reaction>
+    <Reaction id="AR114" str="interstitial lung disease">
+      <Normalization id="AR114.N1" meddra_pt="Interstitial lung disease" meddra_pt_id="10022611" />
+    </Reaction>
+    <Reaction id="AR115" str="primary malignancies, cutaneous">
+      <Normalization id="AR115.N1" meddra_pt="Skin cancer" meddra_pt_id="10040808" meddra_llt="Skin neoplasm malignant" meddra_llt_id="10040895" />
+    </Reaction>
+    <Reaction id="AR116" str="primary malignancies non-cutaneous">
+      <Normalization id="AR116.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR117" str="hemorrhagic events">
+      <Normalization id="AR117.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Hemorrhage" meddra_llt_id="10019524" />
+    </Reaction>
+    <Reaction id="AR118" str="deep vein thrombosis">
+      <Normalization id="AR118.N1" meddra_pt="Deep vein thrombosis" meddra_pt_id="10051055" />
+    </Reaction>
+    <Reaction id="AR119" str="pulmonary embolism">
+      <Normalization id="AR119.N1" meddra_pt="Pulmonary embolism" meddra_pt_id="10037377" />
+    </Reaction>
+    <Reaction id="AR120" str="embryofetal toxicity">
+      <Normalization id="AR120.N1" meddra_pt="Maternal drugs affecting foetus" meddra_pt_id="10026923" meddra_llt="Drug toxicity NEC affecting foetus" meddra_llt_id="10013750" />
+    </Reaction>
+    <Reaction id="AR121" str="fetal harm">
+      <Normalization id="AR121.N1" meddra_pt="Foetal damage" meddra_pt_id="10016852" meddra_llt="Fetal damage" meddra_llt_id="10054743" />
+    </Reaction>
+    <Reaction id="AR122" str="melanoma">
+      <Normalization id="AR122.N1" meddra_pt="Malignant melanoma" meddra_pt_id="10025650" meddra_llt="Melanoma" meddra_llt_id="10053571" />
+    </Reaction>
+    <Reaction id="AR123" str="basal cell carcinoma">
+      <Normalization id="AR123.N1" meddra_pt="Basal cell carcinoma" meddra_pt_id="10004146" />
+    </Reaction>
+    <Reaction id="AR124" str="cutaneous squamous cell carcinomas">
+      <Normalization id="AR124.N1" meddra_pt="Squamous cell carcinoma of skin" meddra_pt_id="10041834" />
+    </Reaction>
+    <Reaction id="AR125" str="keratoacanthomas">
+      <Normalization id="AR125.N1" meddra_pt="Keratoacanthoma" meddra_pt_id="10023347" />
+    </Reaction>
+    <Reaction id="AR126" str="primary malignant melanomas">
+      <Normalization id="AR126.N1" meddra_pt="Malignant melanoma" meddra_pt_id="10025650" />
+    </Reaction>
+    <Reaction id="AR127" str="scc">
+      <Normalization id="AR127.N1" meddra_pt="Squamous cell carcinoma of skin" meddra_pt_id="10041834" />
+    </Reaction>
+    <Reaction id="AR128" str="primary melanoma">
+      <Normalization id="AR128.N1" meddra_pt="Malignant melanoma" meddra_pt_id="10025650" meddra_llt="Melanoma" meddra_llt_id="10053571" />
+    </Reaction>
+    <Reaction id="AR129" str="malignancies">
+      <Normalization id="AR129.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" />
+    </Reaction>
+    <Reaction id="AR130" str="non-cutaneous malignancies">
+      <Normalization id="AR130.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR131" str="kras mutation-positive pancreatic adenocarcinoma">
+      <Normalization id="AR131.N1" meddra_pt="Adenocarcinoma pancreas" meddra_pt_id="10052747" meddra_llt="Pancreatic adenocarcinoma" meddra_llt_id="10051971" />
+      <Normalization id="AR131.N2" meddra_pt="K-ras gene mutation" meddra_pt_id="10069755" meddra_llt="KRAS mutation" meddra_llt_id="10069759" />
+    </Reaction>
+    <Reaction id="AR132" str="recurrent nras mutation-positive colorectal carcinoma">
+      <Normalization id="AR132.N1" meddra_pt="Colorectal cancer" meddra_pt_id="10061451" meddra_llt="Colorectal carcinoma" meddra_llt_id="10010036" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR133" str="head and neck carcinoma">
+      <Normalization id="AR133.N1" flag="unmapped" />
+    </Reaction>
+    <Reaction id="AR134" str="glioblastoma">
+      <Normalization id="AR134.N1" meddra_pt="Glioblastoma" meddra_pt_id="10018336" />
+    </Reaction>
+    <Reaction id="AR135" str="hemorrhages">
+      <Normalization id="AR135.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Hemorrhage" meddra_llt_id="10019524" />
+    </Reaction>
+    <Reaction id="AR136" str="symptomatic bleeding">
+      <Normalization id="AR136.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR137" str="hemorrhagic event">
+      <Normalization id="AR137.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Hemorrhage" meddra_llt_id="10019524" />
+    </Reaction>
+    <Reaction id="AR138" str="intracranial hemorrhage">
+      <Normalization id="AR138.N1" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" meddra_llt="Intracranial hemorrhage" meddra_llt_id="10022763" />
+    </Reaction>
+    <Reaction id="AR139" str="fatal">
+      <Normalization id="AR139.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR140" str="deep venous thrombosis">
+      <Normalization id="AR140.N1" meddra_pt="Deep vein thrombosis" meddra_pt_id="10051055" meddra_llt="Thrombosis venous deep" meddra_llt_id="10043642" />
+    </Reaction>
+    <Reaction id="AR141" str="dvt">
+      <Normalization id="AR141.N1" meddra_pt="Deep vein thrombosis" meddra_pt_id="10051055" meddra_llt="DVT" meddra_llt_id="10013877" />
+    </Reaction>
+    <Reaction id="AR142" str="pe">
+      <Normalization id="AR142.N1" meddra_pt="Pulmonary embolism" meddra_pt_id="10037377" />
+    </Reaction>
+    <Reaction id="AR143" str="decrease in lvef">
+      <Normalization id="AR143.N1" meddra_pt="Ejection fraction decreased" meddra_pt_id="10050528" meddra_llt="Left ventricular ejection fraction decreased" meddra_llt_id="10053222" />
+    </Reaction>
+    <Reaction id="AR144" str="absolute decrease in lvef">
+      <Normalization id="AR144.N1" meddra_pt="Ejection fraction decreased" meddra_pt_id="10050528" meddra_llt="Left ventricular ejection fraction decreased" meddra_llt_id="10053222" />
+    </Reaction>
+    <Reaction id="AR145" str="retinal pigment epithelial detachments">
+      <Normalization id="AR145.N1" meddra_pt="Detachment of retinal pigment epithelium" meddra_pt_id="10052501" />
+    </Reaction>
+    <Reaction id="AR146" str="rped">
+      <Normalization id="AR146.N1" meddra_pt="Detachment of retinal pigment epithelium" meddra_pt_id="10052501" />
+    </Reaction>
+    <Reaction id="AR147" str="retinal detachments">
+      <Normalization id="AR147.N1" meddra_pt="Retinal detachment" meddra_pt_id="10038848" />
+    </Reaction>
+    <Reaction id="AR148" str="uveitis">
+      <Normalization id="AR148.N1" meddra_pt="Uveitis" meddra_pt_id="10046851" />
+    </Reaction>
+    <Reaction id="AR149" str="iritis">
+      <Normalization id="AR149.N1" meddra_pt="Iritis" meddra_pt_id="10022955" />
+    </Reaction>
+    <Reaction id="AR150" str="fever">
+      <Normalization id="AR150.N1" meddra_pt="Pyrexia" meddra_pt_id="10037660" meddra_llt="Fever" meddra_llt_id="10016558" />
+    </Reaction>
+    <Reaction id="AR151" str="hypotension">
+      <Normalization id="AR151.N1" meddra_pt="Hypotension" meddra_pt_id="10021097" />
+    </Reaction>
+    <Reaction id="AR152" str="rigors">
+      <Normalization id="AR152.N1" meddra_pt="Chills" meddra_pt_id="10008531" meddra_llt="Rigors" meddra_llt_id="10039177" />
+    </Reaction>
+    <Reaction id="AR153" str="syncope">
+      <Normalization id="AR153.N1" meddra_pt="Syncope" meddra_pt_id="10042772" />
+    </Reaction>
+    <Reaction id="AR154" str="secondary infections of the skin">
+      <Normalization id="AR154.N1" meddra_pt="Skin infection" meddra_pt_id="10040872" />
+    </Reaction>
+    <Reaction id="AR155" str="hemolytic anemia">
+      <Normalization id="AR155.N1" meddra_pt="Haemolytic anaemia" meddra_pt_id="10018916" meddra_llt="Hemolytic anemia" meddra_llt_id="10019493" />
+    </Reaction>
+  </Reactions>
+</Label>

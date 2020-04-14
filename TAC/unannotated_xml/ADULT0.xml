@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="adult0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other section of the labeling.
+
+
+
+ *    Allergic and anaphylactoid reactions following intravenous administration of thiamine [ see Warnings and Precautions (  5.2  ) ]. 
+ *    Hypervitaminosis A [ see Warnings and Precautions (  5.3  ) ] 
+      Other adverse reactions:  
+ 
+
+ Dermatologic: rash, erythema, pruritis
+
+
+
+ CNS: headache, dizziness, agitation, anxiety
+
+
+
+ Ophthalmic: diplopia
+
+
+
+   EXCERPT:   There have been reports of the following types of reactions:
+
+
+
+ *    Allergic - anaphylactoid reactions following large intravenous doses of thiamine, urticaria, shortness of breath, wheezing and angioedema (  6  ) 
+ *    Dermatologic: rash, erythema, pruritis (  6  ) 
+ *    CNS: headache, dizziness, agitation, anxiety (  6  ) 
+ *    Ophthalmic: diplopia (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact    Sandoz Inc. at 1-800-525-8747    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    This product contains aluminum that may be toxic (  5.1  ) 
+ *    Allergic reactions to thiamine may occur (  5.2  ) 
+ *    Hypervitaminosis A has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease (  5.3  ) 
+ *    Vitamin K antagonizes the anticoagulant action of warfarin (  5.4  ) 
+ *    Interference with the diagnosis of megaloblastic anemia (  5.5  ) 
+ *    Blood vitamin concentrations should be periodically monitored to determine if deficiencies or excesses are developing (  5.6  ) 
+ *    Interference with urine glucose testing (  5.7  ) 
+ *    Incompatibility with intravenous fat emulsions (  5.8  ) 
+    
+ 
+
+   5.1 Aluminum Toxicity
+
+
+
+  INFUVITE ADULT (PHARMACY BULK PACKAGE)      contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solution, which contain aluminum.
+
+
+
+ Research indicates that patients with impaired kidney function, including premature neonates who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration.
+
+
+
+    5.2 Allergic Reactions to Thiamine
+
+
+
+  Allergic reactions such as urticaria, shortness of breath, wheezing and angioedema have been reported following intravenous administration of thiamine, which is found in INFUVITE ADULT (PHARMACY BULK PACKAGE). There have been rare reports of anaphylactoid reactions following intravenous doses of thiamine. No fatal anaphylactoid reactions associated with INFUVITE ADULT (PHARMACY BULK PACKAGE) have been reported.
+
+
+
+    5.3. Hypervitaminosis A
+
+
+
+  Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease, Therefore, supplementation of renal failure patients and patients with liver disease with vitamin A, an ingredient found in INFUVITE ADULT, should be undertaken with caution [ See Use in Specific Populations (  8.5  and  8.6  )  ].
+
+
+
+    5.4 Vitamin K Antagonizes the Anticoagulant Action of Warfarin
+
+
+
+  Vitamin K, which is found in INFUVITE ADULT (PHARMACY BULK PACKAGE )  antagonizes the anticoagulant action of warfarin.   In patients who are on warfarin anticoagulant therapy receiving parenteral multivitamins such as with INFUVITE ADULT (PHARMACY BULK PACKAGE) blood levels of prothrombin/INR should be periodically monitored to determine if dose of warfarin needs to be adjusted.
+
+
+
+    5.5 Interferes with Diagnosis of Megaloblastic Anemia
+
+
+
+  Do not administer INFUVITE ADULT (PHARMACY BULK PACKAGE) to patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. The folic acid and the cyanocobalamin in the INFUVITE ADULT (PHARMACY BULK PACKAGE) solution can mask serum deficits of folic acid and cyanocobalamin in these patients.
+
+
+
+    5.6 Monitor Blood Vitamin Concentrations to Determine if Deficiencies or Excesses are Developing
+
+
+
+  In patients receiving parenteral multivitamins such as with INFUVITE ADULT (PHARMACY BULK PACKAGE)   , blood concentration should be periodically monitored to determine if deficiencies or excesses are developing. INFUVITE ADULT (PHARMACY BULK PACKAGE) may not correct long-standing specific vitamin deficiencies. The administration of additional therapeutic doses of specific vitamins may be required [ see Dosage and Administration (     2.2  )  ].
+
+
+
+    5.7 Interference with Urine Glucose Testing
+
+
+
+  INFUVITE ADULT (PHARMACY BULK PACKAGE)      contains vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations.
+
+
+
+    5.8 Incompatibility with Intravenous Fat Emulsions
+
+
+
+  Do not add INFUVITE ADULT (PHARMACY BULK PACKAGE)      directly to intravenous fat emulsions.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

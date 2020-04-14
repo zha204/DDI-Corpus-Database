@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hyperrho" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Reactions to Rho(D) Immune Globulin (Human) are infrequent in Rho(D) negative individuals and consist primarily of slight soreness at the site of injection and slight temperature elevation. While sensitization to repeated injections of human immune globulin is extremely rare, it has occurred. Elevated bilirubin levels have been reported in some individuals receiving multiple doses of Rho(D) Immune Globulin (Human) following mismatched transfusions. This is believed to be due to a relatively rapid rate of foreign red cell destruction.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

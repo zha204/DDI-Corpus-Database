@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bloxiverz" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6.  ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions during treatment: bradycardia, nausea and vomiting. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Eclat Pharmaceuticals at 1-877-622-2320 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1. Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse reactions to neostigmine methylsulfate are most often attributable to exaggerated pharmacological effects, in particular, at muscarinic receptor sites. The use of an anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, may prevent or mitigate these reactions.
+
+
+
+ Quantitative adverse event data are available from trials of neostigmine methylsulfate in which 200 adult patients were exposed to the product. The following table lists the adverse reactions that occurred with an overall frequency of 1% or greater.
+
+
+
+
+   System Organ Class         Adverse Reaction          
+   Cardiovascular Disorders    bradycardia, hypotension, tachycardia/heart rate increase   
+   Gastrointestinal Disorders    dry mouth, nausea, post-procedural nausea, vomiting   
+   General Disorders and AdministrationSite Conditions    incision site complication, pharyngolaryngeal pain, proceduralcomplication, procedural pain   
+   Nervous System Disorders    dizziness, headache, postoperative shivering, prolongedneuromuscular blockade   
+   Psychiatric Disorders    insomnia                    
+   Respiratory, Thoracic and MediastinalDisorders    dyspnea, oxygen desaturation &lt;90%   
+   Skin and Subcutaneous Tissue Disorders    pruritus                    
+        6.2. Post Marketing Experience
+   The following adverse reactions have been identified during parenteral use of neostigmine methylsulfate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+
+   System Organ Class         Adverse Reaction          
+   Allergic Disorders       allergic reactions, anaphylaxis   
+   Nervous System Disorders    convulsions, drowsiness, dysarthria, fasciculation, loss ofconsciousness, miosis, visual changes   
+   Cardiovascular Disorders    cardiac arrest, cardiac arrhythmias (A-V block, nodal rhythm),hypotension, nonspecific EKG changes, syncope   
+   Respiratory, Thoracic and MediastinalDisorders    bronchospasm; increased oral, pharyngeal and bronchialsecretions; respiratory arrest; respiratory depression   
+   Skin and Sub-cutaneous Tissue Disorders    rash, urticaria             
+   Gastrointestinal Disorders    bowel cramps, diarrhea, flatulence, increased peristalsis   
+   Renal and Urinary Disorders    urinary frequency           
+   Musculoskeletal and Connective TissueDisorders    arthralgia, muscle cramps, spasms, weakness   
+   Miscellaneous            diaphoresis, flushing       
+</Section>
+    <Section name="warnings and precautions" id="S2">    5.  WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Bradycardia: Atropine or glycopyrrolate should be administered prior to BLOXIVERZ to lessen risk of bradycardia. (  5.1  ) 
+ *  Serious Reactions with Coexisting Conditions: Use with caution in patients with, coronary artery disease, cardiac arrhythmias, recent acute coronary syndrome or myasthenia gravis. (  5.2  ) 
+ *  Neuromuscular Dysfunction: Can occur if large doses of BLOXIVERZ are administered when neuromuscular blockade is minimal; reduce dose if recovery from neuromuscular blockade is nearly complete. (  5.4  ) 
+    
+ 
+
+   5.1. Bradycardia
+
+
+
+  Neostigmine has been associated with bradycardia. Atropine sulfate or glycopyrrolate should be administered prior to BLOXIVERZ to lessen the risk of bradycardia [see Dosage and Administration (  2.4  )]  .
+
+
+
+    5.2. Serious Adverse Reactions in Patients with Certain Coexisting Conditions
+
+
+
+  BLOXIVERZ should be used with caution in patients with coronary artery disease, cardiac arrhythmias, recent acute coronary syndrome or myasthenia gravis. Because of the known pharmacology of neostigmine methylsulfate as an acetylcholinesterase inhibitor, cardiovascular effects such as bradycardia, hypotension or dysrhythmia would be anticipated. In patients with certain cardiovascular conditions such as coronary artery disease, cardiac arrhythmias or recent acute coronary syndrome, the risk of blood pressure and heart rate complications may be increased. Risk of these complications may also be increased in patients with myasthenia gravis. Standard antagonism with anticholinergics (e.g., atropine) is generally successful to mitigate the risk of cardiovascular complications.
+
+
+
+    5.3. Hypersensitivity
+
+
+
+  Because of the possibility of hypersensitivity, atropine and medications to treat anaphylaxis should be readily available.
+
+
+
+    5.4. Neuromuscular Dysfunction
+
+
+
+  Large doses of BLOXIVERZ administered when neuromuscular blockade is minimal can produce neuromuscular dysfunction. The dose of BLOXIVERZ should be reduced if recovery from neuromuscular blockade is nearly complete.
+
+
+
+    5.5. Cholinergic Crisis
+
+
+
+  It is important to differentiate between myasthenic crisis and cholinergic crisis caused by overdosage of BLOXIVERZ. Both conditions result in extreme muscle weakness but require radically different treatment. [see Overdosage (  10  )]  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

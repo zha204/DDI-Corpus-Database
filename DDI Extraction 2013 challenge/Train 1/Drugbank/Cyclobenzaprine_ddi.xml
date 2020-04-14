@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d150">
+    <sentence id="DDI-DrugBank.d150.s0" text="FLEXERIL may have life-threatening interactions with MAO inhibitors.">
+        <entity id="DDI-DrugBank.d150.s0.e0" charOffset="0-7"
+            type="brand" text="FLEXERIL"/>
+        <entity id="DDI-DrugBank.d150.s0.e1" charOffset="53-66"
+            type="group" text="MAO inhibitors"/>
+        <ddi id="DDI-DrugBank.d150.s0.d0" e1="DDI-DrugBank.d150.s0.e0"
+            e2="DDI-DrugBank.d150.s0.e1" type="int"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d150.s1" text="FLEXERIL may enhance the effects of alcohol, barbiturates, and other CNS depressants.">
+        <entity id="DDI-DrugBank.d150.s1.e0" charOffset="0-7"
+            type="brand" text="FLEXERIL"/>
+        <entity id="DDI-DrugBank.d150.s1.e1" charOffset="36-42"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d150.s1.e2" charOffset="45-56"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d150.s1.e3" charOffset="69-83"
+            type="group" text="CNS depressants"/>
+        <ddi id="DDI-DrugBank.d150.s1.d0" e1="DDI-DrugBank.d150.s1.e0"
+            e2="DDI-DrugBank.d150.s1.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d150.s1.d1" e1="DDI-DrugBank.d150.s1.e0"
+            e2="DDI-DrugBank.d150.s1.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d150.s1.d2" e1="DDI-DrugBank.d150.s1.e0"
+            e2="DDI-DrugBank.d150.s1.e3" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d150.s2" text="Tricyclic antidepressants may block the antihypertensive action of guanethidine and similarly acting compounds.">
+        <entity id="DDI-DrugBank.d150.s2.e0" charOffset="0-24"
+            type="group" text="Tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d150.s2.e1" charOffset="67-78"
+            type="drug" text="guanethidine"/>
+        <ddi id="DDI-DrugBank.d150.s2.d0" e1="DDI-DrugBank.d150.s2.e0"
+            e2="DDI-DrugBank.d150.s2.e1" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d150.s3" text="Tricyclic antidepressants may enhance the seizure risk in patients taking tramadol">
+        <entity id="DDI-DrugBank.d150.s3.e0" charOffset="0-24"
+            type="group" text="Tricyclic antidepressants"/>
+        <entity id="DDI-DrugBank.d150.s3.e1" charOffset="74-81"
+            type="drug" text="tramadol"/>
+        <ddi id="DDI-DrugBank.d150.s3.d0" e1="DDI-DrugBank.d150.s3.e0"
+            e2="DDI-DrugBank.d150.s3.e1" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d150.s4" text="."/>
+    <sentence id="DDI-DrugBank.d150.s5" text=""/>
+</document>

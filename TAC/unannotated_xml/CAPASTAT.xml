@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="capastat" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Nephrotoxicity:  In 36% of 722 patients treated with Capastat Sulfate, elevation of the BUN above 20 mg/100 mL has been observed. In many instances, there was also depression of PSP excretion and abnormal urine sediment. In 10% of this series, the BUN elevation exceeded 30 mg/100 mL.
+
+
+
+ Toxic nephritis was reported in 1 patient with tuberculosis and portal cirrhosis who was treated with Capastat Sulfate (1 g) and aminosalicylic acid daily for 1 month. This patient developed renal insufficiency and oliguria and died. Autopsy showed subsiding acute tubular necrosis.
+
+
+
+ Electrolyte disturbances including hypokalemia, hypomagnesemia and hypocalcemia, sometimes serious in nature, have been reported.
+
+
+
+     Ototoxicity:  Subclinical auditory loss was noted in approximately 11% of 722 patients undergoing treatment with Capastat Sulfate. This was a 5- to 10-decibel loss in the 4000- to 8000-CPS range. Clinically apparent hearing loss occurred in 3% of the 722 subjects. Some audiometric changes were reversible. Other cases with permanent loss were not progressive following withdrawal of Capastat Sulfate.
+
+
+
+ Tinnitus and vertigo have occurred.
+
+
+
+     Liver:  Serial tests of liver function have demonstrated a decrease in BSP excretion without change in AST (SGOT) or ALT (SGPT) in the presence of preexisting liver disease. Abnormal results in liver function tests have occurred in many persons receiving Capastat Sulfate in combination with other antituberculosis agents that also are known to cause changes in hepatic function. The role of Capastat Sulfate in producing these abnormalities is not clear; however, periodic determinations of liver function are recommended.
+
+
+
+     Blood:  Leukocytosis and leukopenia have been observed. The majority of patients treated have had eosinophilia exceeding 5% while receiving daily injections of Capastat Sulfate. This has subsided with reduction of the Capastat Sulfate dosage to 2 or 3 g weekly.
+
+
+
+ Pain and induration at the injection site have been observed. Excessive bleeding at the injection site has been reported. Sterile abscesses have been noted. Rare cases of thrombocytopenia have been reported.
+
+
+
+     Hypersensitivity:  Urticaria and maculopapular skin rashes associated in some cases with febrile reactions have been reported when Capastat Sulfate and other antituberculosis drugs were given concomitantly.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+
+
+  WARNINGS
+
+
+
+  The use of Capastat  (r)   Sulfate (Capreomycin for Injection, USP) in patients with renal insufficiency or preexisting auditory impairment must be undertaken with great caution, and the risk of additional cranial nerve VIII impairment or renal injury should be weighed against the benefits to be derived from therapy.
+
+
+
+
+
+   Refer to     ANIMAL PHARMACOLOGY    for additional information.  
+
+
+
+ Since other parenteral antituberculosis agents (streptomycin, viomycin) also have similar and sometimes irreversible toxic effects, particularly on cranial nerve VIII and renal function, simultaneous administration of these agents with Capastat Sulfate is not recommended. Use with nonantituberculosis drugs (polymyxin A sulfate, colistin sulfate, amikacin, gentamicin, tobramycin, vancomycin, kanamycin, and neomycin) having ototoxic or nephrotoxic potential should be undertaken only with great caution.
+
+
+
+
+
+     Usage in Pregnancy:   The safety of the use of Capastat Sulfate in pregnancy has not been determined.
+
+
+
+
+
+     Pediatric Usage:   Safety and effectiveness in pediatric patients have not been established.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

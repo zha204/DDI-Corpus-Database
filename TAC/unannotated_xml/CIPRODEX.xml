@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ciprodex" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In Phases II and III clinical trials, a total of 937 patients were treated with CIPRODEX(r) Otic. This included 400 patients with acute otitis media with tympanostomy tubes and 537 patients with acute otitis externa. The reported treatment-related adverse events are listed below:
+
+
+
+   Acute Otitis Media in pediatric patients with tympanostomy tubes  
+
+
+
+ The following treatment-related adverse events occurred in 0.5% or more of the patients with non-intact tympanic membranes.
+
+
+
+
+ Adverse Event                                                       Incidence (N=400)                    
+  
+ Ear discomfort                                                             3.0%                          
+ Ear pain                                                                   2.3%                          
+ Ear precipitate(residue)                                                   0.5%                          
+ Irritability                                                               0.5%                          
+ Taste perversion                                                           0.5%                          
+        The following treatment-related adverse events were each reported in a single patient: tympanostomy tube blockage; ear pruritus; tinnitus; oral moniliasis; crying; dizziness; and erythema.
+ 
+
+   Acute Otitis Externa  
+
+
+
+ The following treatment-related adverse events occurred in 0.4% or more of the patients with intact tympanic membranes.
+
+
+
+
+ Adverse Event                                                       Incidence (N=537)                    
+  
+ Ear pruritus                                                               1.5%                          
+ Ear debris                                                                 0.6%                          
+ Superimposed earinfection                                                  0.6%                          
+ Ear congestion                                                             0.4%                          
+ Ear pain                                                                   0.4%                          
+ Erythema                                                                   0.4%                          
+        The following treatment-related adverse events were each reported in a single patient: ear discomfort; decreased hearing; and ear disorder (tingling).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

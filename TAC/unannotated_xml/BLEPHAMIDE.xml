@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="blephamide" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available.
+
+
+
+ Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see  WARNINGS  ).
+
+
+
+ Sulfacetamide sodium may cause local irritation.
+
+
+
+ The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
+
+
+
+ Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids.
+
+
+
+ Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriasis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids.
+
+
+
+     Secondary Infection  
+
+
+
+ The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used.
+
+
+
+ Secondary bacterial ocular infection following suppression of host responses also occurs.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

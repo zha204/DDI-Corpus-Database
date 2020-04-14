@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="mvi0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other section of the labeling.
+
+
+
+ *    Allergic reactions to thiamine [ see  Warnings and Precautions (5.4)   ]. 
+ *    Hypervitaminosis A [ see  Warnings and Precautions (5.5)   ]. 
+    The following adverse reactions have been identified during post approval use of M.V.I.-AdultTM. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+ 
+
+   Dermatologic  : rash, erythema, pruritus  CNS  : headache, dizziness, agitation, anxiety  Ophthalmic  : diplopia
+
+
+
+   EXCERPT:   Adverse reactions have included anaphylaxis, rash, erythema, pruritus, headache, dizziness, agitation, anxiety, diplopia (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Hospira, Inc. at 1-800-441-4100,    or FDA at 1-800-FDA-1088 or        www.fda.gov/medwatch.      
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Decreased Anticoagulant Effect of Warfarin (  5.1  ) 
+ *     Risk of Aluminum Toxicity: For at risk patients (renal failure or those with prolonged therapy), consider periodic monitoring of aluminum levels (  5.2  ) 
+ *     Low Vitamin A levels: Monitor vitamin A levels (  5.3  ) 
+ *     Allergic Reactions: to thiamine may occur (  5.4  ) 
+ *     Hypervitaminosis A: Patients with renal failure or liver disease may be at higher risk (  5.5  ) 
+ *     Interferes with Megaloblastic Anemia Diagnosis: Avoid during testing for this disorder (  5.6  ) 
+ *     Risk of Vitamin Deficiencies or Excess: Monitor blood vitamin concentrations (  5.7  ) 
+ *     False Negative Urine Glucose Tests: Due to vitamin C (  5.8  ) 
+    
+ 
+
+   5.1 Decreased Anticoagulant Effect of Warfarin
+
+
+
+  M.V.I.-Adult contains Vitamin K which may decrease the anticoagulant effect of warfarin. In patients who are on warfarin anticoagulant therapy receiving M.V.I-Adult, prothrombin time/INR should be periodically monitored to determine if the dose of warfarin needs to be adjusted.
+
+
+
+    5.2 Aluminum Toxicity
+
+
+
+  M.V.I.-AdultTM contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration in patients with renal impairment. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum.
+
+
+
+ Patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 micrograms per kg per day, accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. To prevent aluminum toxicity monitor periodically aluminum levels with prolonged parenteral administration of M.V.I.-Adult.
+
+
+
+    5.3 Risk of Low Vitamin A Levels
+
+
+
+  Vitamin A may adhere to plastic, resulting in lower vitamin A concentrations after administration of M.V.I.-AdultTM. Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of Vitamin A may be required.
+
+
+
+    5.4 Allergic Reactions to Thiamine
+
+
+
+  Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine, which is found in M.V.I.-AdultTM. There have been rare reports of anaphylaxis following intravenous doses of thiamine. No fatal anaphylaxis reactions associated with M.V.I. AdultTM have been reported.
+
+
+
+    5.5 Hypervitaminosis A
+
+
+
+  Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision, has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver diseases with vitamin A, an ingredient found in M.V.I.-AdultTM, should be undertaken with caution [ see Use in Specific Populations (  8.6  ,  8.7  )  ]. Blood levels of Vitamin A should be monitored periodically.
+
+
+
+    5.6 Interference with Diagnosis of Megaloblastic Anemia
+
+
+
+  M.V.I-Adult contains folic acid and cyanocobalamin which can mask serum deficits of folic acid and cyanocobalamin in patients with megaloblastic anemia. Avoid the use of M.V.I.-AdultTM in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies.
+
+
+
+    5.7 Potential to Develop Vitamin Deficiencies or Excesses
+
+
+
+  In patients receiving parenteral multivitamins, such as with M.V.I.-AdultTM, blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. M.V.I.-AdultTM may not correct long-standing specific vitamin deficiencies. The administration of additional doses of specific vitamins may be required [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.8 Interference with Urine Glucose Testing
+
+
+
+  M.V.I.-AdultTM contains Vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

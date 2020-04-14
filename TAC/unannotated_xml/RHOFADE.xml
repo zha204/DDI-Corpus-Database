@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="rhofade" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (incidence &gt;= 1%) are application site dermatitis, worsening inflammatory lesions of rosacea, application site pruritis, application site erythema, and application site pain. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-433-8871 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical trials are conducted under varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ A total of 489 subjects with persistent facial erythema associated with rosacea were treated with RHOFADE once daily for 4 weeks in 3 controlled clinical trials. An additional 440 subjects with persistent facial erythema associated with rosacea were also treated with RHOFADE once daily for up to one year in a long-term (open-label) clinical trial. Adverse reactions that occurred in at least 1% of subjects treated with RHOFADE through 4 weeks of treatment are presented in  Table 1  below.
+
+
+
+ Table 1: Adverse Reactions Reported by &gt;= 1% of Subjects through 4 Weeks of Treatment in Controlled Clinical Trials 
+   Adverse Reaction                           Pooled Controlled    Clinical Trials     
+   RHOFADE Cream  (N = 489)                   Vehicle Cream  (N = 483)       
+ Application site dermatitis                9 (2%)                          0                             
+ Worsening inflammatory lesions of rosacea  7 (1%)                          1 (&lt;1%)                       
+ Application site pruritus                  5 (1%)                          4 (1%)                        
+ Application site erythema                  5 (1%)                          2 (&lt;1%)                       
+ Application site pain                      4 (1%)                          1 (&lt;1%)                       
+         In the long-term (open-label) clinical trial, the rates of adverse reactions over a one-year treatment period were as follows: worsening inflammatory lesions of rosacea (3%), application site dermatitis (3%), application site pruritis (2%), application site pain (2%), and application site erythema (2%). Subjects with persistent erythema along with inflammatory lesions were allowed to use additional therapy for the inflammatory lesions of rosacea.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Alpha-adrenergic agonists as a class may impact blood pressure. Advise patients with cardiovascular disease, orthostatic hypotension, and/or uncontrolled hypertension or hypotension to seek medical care if their condition worsens. (  5.1  ) 
+ *  Use with caution in patients with cerebral or coronary insufficiency, Raynaud's phenomenon, thromboangiitis obliterans, scleroderma, or Sjogren's syndrome and advise patients to seek medical care if signs and symptoms of potentiation of vascular insufficiency develop. (  5.2  ) 
+ *  Advise patients to seek immediate medical care if signs and symptoms of acute narrow-angle glaucoma develop. (  5.3  ) 
+    
+ 
+
+   5.1 Potential Impacts on Cardiovascular Disease
+
+
+
+  Alpha-adrenergic agonists may impact blood pressure. RHOFADE should be used with caution in patients with severe or unstable or uncontrolled cardiovascular disease, orthostatic hypotension, and uncontrolled hypertension or hypotension. Advise patients with cardiovascular disease, orthostatic hypotension, and/or uncontrolled hypertension/hypotension to seek immediate medical care if their condition worsens.
+
+
+
+    5.2 Potentiation of Vascular Insufficiency
+
+
+
+  RHOFADE should be used with caution in patients with cerebral or coronary insufficiency, Raynaud's phenomenon, thromboangiitis obliterans, scleroderma, or Sjogren's syndrome. Advise patients to seek immediate medical care if signs and symptoms of potentiation of vascular insufficiency develop.
+
+
+
+    5.3 Risk of Angle Closure Glaucoma
+
+
+
+  RHOFADE may increase the risk of angle closure glaucoma in patients with narrow-angle glaucoma. Advise patients to seek immediate medical care if signs and symptoms of acute angle closure glaucoma develop.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

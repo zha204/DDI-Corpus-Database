@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sodium18" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  There have been no controlled clinical trials conducted to systematically assess the adverse events profile of sodium thiosulfate.
+
+
+
+ The medical literature has reported the following adverse events in association with sodium thiosulfate administration. These adverse events were not reported in the context of controlled trials or with consistent monitoring and reporting methodologies for adverse events. Therefore, frequency of occurrence of these adverse events cannot be assessed.
+
+
+
+   Cardiovascular system:  hypotension
+
+
+
+   Central nervous system:  headache, disorientation
+
+
+
+   Gastrointestinal system:  nausea, vomiting
+
+
+
+   Hematological  : prolonged bleeding time
+
+
+
+   Body as a Whole:  salty taste in mouth, warm sensation over body
+
+
+
+ In humans, rapid administration of concentrated solutions or solutions not freshly prepared, and administration of large doses of sodium thiosulfate have been associated with a higher incidence of nausea and vomiting. However, administration of 0.1 g sodium thiosulfate per pound up to a maximum of 15 g in a 10-15% solution over 10-15 minutes was associated with nausea and vomiting in 7 of 26 patients without concomitant cyanide intoxication.
+
+
+
+ In a series of 11 human subjects, a single intravenous infusion of 50 mL of 50% sodium thiosulfate was associated with increases in clotting time 1-3 days after administration. However, no significant changes were observed in other hematological parameters.
+
+
+
+   EXCERPT:   Most common adverse reactions are:
+
+
+
+ *  Hypotension, headache, disorientation (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Hope Pharmaceuticals at 1-800-755-9595 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Sulfites: Sodium thiosulfate may contain trace impurities of sodium sulfite (  5.1  ) 
+    
+ 
+
+   5.1 Sulfites
+
+
+
+  Sodium thiosulfate drug product may contain trace impurities of sodium sulfite. The presence of a trace amount of sulfites in this product should not deter administration of the drug for treatment of emergency situations, even if the patient is sulfite-sensitive.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

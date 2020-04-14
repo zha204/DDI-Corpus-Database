@@ -1,0 +1,27 @@
+<!ELEMENT document	(sentence*) >
+<!ELEMENT sentence	(entity*,ddi*) >
+<!ELEMENT entity	EMPTY >
+<!ELEMENT ddi		EMPTY >
+
+<!ATTLIST document
+	id		ID	#REQUIRED
+	origId	CDATA	#IMPLIED >
+
+<!ATTLIST sentence
+	id		ID	#REQUIRED
+	origId	CDATA	#IMPLIED
+	text	CDATA	#IMPLIED >
+
+<!ATTLIST entity
+	id		ID	#REQUIRED
+	origId	CDATA	#IMPLIED
+	charOffset	CDATA	#IMPLIED
+	type	CDATA	#IMPLIED
+	text	CDATA	#IMPLIED >
+
+<!ATTLIST ddi
+	id		ID	#REQUIRED
+	e1	CDATA	#IMPLIED
+	e2	CDATA	#IMPLIED
+	type CDATA	#IMPLIED>
+

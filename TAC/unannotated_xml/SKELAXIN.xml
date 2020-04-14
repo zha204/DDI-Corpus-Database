@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="skelaxin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequent reactions to metaxalone include:
+
+
+
+ CNS: drowsiness, dizziness, headache, and nervousness or "irritability";
+
+
+
+ Digestive: nausea, vomiting, gastrointestinal upset.
+
+
+
+ Other adverse reactions are:
+
+
+
+ Immune System: hypersensitivity reaction, rash with or without pruritus;
+
+
+
+ Hematologic: leukopenia; hemolytic anemia;
+
+
+
+ Hepatobiliary: jaundice.
+
+
+
+ Though rare, anaphylactoid reactions have been reported with metaxalone.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

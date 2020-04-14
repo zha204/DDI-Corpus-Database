@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lymphazurin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+    EXCERPT:     Hypersensitivity reactions  : Hypersensitivity reactions occurring approximately 2% of patients and include life-threatening anaphylactic reactions with respiratory distress, shock, angioedema, urticaria, pruritus. A death has been reported following IV administration of a similar compound (  6)  .  To report SUSPECTED ADVERSE REACTIONS, contact U.S. Surgical at 1-800-522-0263 option 5 and website or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Postmarketing Experience
+
+  Hypersensitivity Reactions: Case series report an overall incidence of hypersensitivity reactions in approximately 2% of patients. Life-threatening anaphylactic reactions have occurred. Manifestations include respiratory distress, shock, angioedema, urticaria, pruritus. A death has been reported following administration of a similar compound employed to estimate the depth of a severe burn. Reactions are more likely to occur in patients with a personal or family history of bronchial asthma, significant allergies, drug reactions or previous reactions to triphenylmethane dyes [see  Warnings and Precautions (5)  ].Laboratory tests: Lymphazurin 1% interferes with measurements of oxygen saturation by pulse oximetry and of methemoglobin by gas analyzer [see  Warnings and Precautions (5)  ].Skin: transient or long-term (tattooing) blue coloration.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+    *  Life-threatening anaphylactic reactions have occurred after Lymphazurin 1% administration. Monitor patients closely for at least 60 minutes after administration of Lymphazurin 1% (  5.1  ). 
+ *  The admixture of Lymphazurin 1% with local anesthetics results in an immediate precipitation of 4-9% drug complex. Use a separate syringe for anesthetics (  5.2  ).  
+ *  Lymphazurin 1% interferes with measurements in peripheral blood pulse oximetry. Arterial blood gas analysis may be needed (  5.3  ). 
+      EXCERPT:   
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+   Life-threatening anaphylactic reactions (respiratory distress, shock, angioedema) have occurred after Lymphazurin 1% administration. Reactions are more likely to occur in patients with a history of bronchial asthma, allergies, drug reactions or previous reactions to triphenylmethane dyes. Monitor patients closely for at least 60 minutes after administration of Lymphazurin 1%. Trained personnel should be available to administer emergency care including resuscitation.  
+ 
+
+    5.2 Precipitation of Lymphazurin 1% by Lidocaine
+
+
+
+   The admixture of Lymphazurin 1% (with local anesthetics (i.e. lidocaine)) in the same syringe results in an immediate precipitation of 4 - 9% drug complex. Use a separate syringe to administer a local anesthetic.  
+ 
+
+    5.3 Interference with Oxygen Saturation and Methemoglobin Measurements
+
+
+
+   Lymphazurin 1% interferes with measurements of oxygen saturation in peripheral blood by pulse oximetry and can cause falsely low readings. The interference effect is maximal at 30 minutes and minimal generally by four hours after administration. Arterial blood gas analysis may be needed to verify decreased arterial partial pressure of oxygen.  Lymphazurin 1% may also cause falsely elevated readings of methemoglobin by arterial blood gas analyzer. Therefore, co-oximetry may be needed to verify methemoglobin level.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

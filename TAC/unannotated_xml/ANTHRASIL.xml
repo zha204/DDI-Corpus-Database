@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="anthrasil" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reactions to ANTHRASIL observed in &gt;5% of subjects in the healthy volunteer clinical trial were headache, infusion site pain, nausea, infusion site swelling, and back pain. The safety profile of the product may be different in patients with severe inhalational/systemic anthrax from that seen in the healthy volunteer trial. The incidence and/or severity of some adverse reactions to ANTHRASIL and other intravenous immune globulin products may be related to the total protein/polyclonal antibody load administered.
+
+
+
+   EXCERPT:   The most common adverse reactions to ANTHRASIL observed in &gt;5% of healthy volunteers in clinical trials were headache, infusion site pain and swelling, nausea, and back pain (  6.1  ).
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Cangene Corporation at 1-800-769-2304 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+    Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.  
+
+
+
+ In a double blind, randomized, placebo-controlled study designed to assess the safety and pharmacokinetics of three doses of ANTHRASIL after a single intravenous infusion in healthy volunteers, 72 healthy adult subjects were randomized to receive a dose of 210, 420 or 840 units of ANTHRASIL by Toxin Neutralization Assay (TNA) (N=18/dosing group) or an equal volume of saline placebo (N=6/dosing group). A total of 54 healthy volunteers received one of the three ANTHRASIL doses while 18 healthy volunteers received a saline placebo.
+
+
+
+ A second stage of the study, designed only for additional safety assessment, was a randomized, open-label study in 20 healthy adult volunteers. Subjects were randomized to receive a dose of 840 units by TNA from one of two additional product lots (10 subjects per lot). There was no placebo group.
+
+
+
+ Table 1 Adverse Reactions Observed in &gt;5% of Subjects Administered ANTHRASIL or Placebo in a Healthy Volunteer Clinical Trial 
+  System Organ Class    Preferred Term     AIGIV Blinded Randomized Group (N=54)    Placebo(N=18)    
+  No. ofEvents         No. ofSubjects     % ofSubjects    No. ofEvents    No. ofSubjects    % ofSubjects    
+  Gastrointestinal disorders    Nausea             5            5            9.3          2            1            5.6          
+  General disorders and administration site conditions    Infusion site pain    7            5            9.3          0            0            0.0          
+  Infusion site swelling    5                  4            7.4          0            0            0.0          
+  Musculoskeletal and connective tissue disorders    Back pain          2            2            3.7          1            1            5.6          
+  Nervous system disorders    Headache           15           11           20.4         3            1            5.6          
+              There were no serious adverse reactions reported in any of the AIGIV or saline placebo control groups in these studies. Non-serious adverse events and adverse reactions were more frequent in the active AIGIV dosage groups that in the subjects administered placebo.
+ 
+
+ Headache and back pain rates occurred in a dose-dependent fashion. Back pain was observed with 840 unit doses in five out of 74 subjects (6.8%).
+
+
+
+ Dose-related elevations in urine glucose were also noted transiently following infusion [See    5.9 Interference with Laboratory Testing    ].
+
+
+
+ Infusion of ANTHRASIL was stopped for four subjects due to adverse reactions. One subject was withdrawn due to chest discomfort, flushing, tachycardia and throat tightness.
+
+
+
+   Patient Experience  
+
+
+
+ Nineteen adult patients with severe systemic anthrax have been dosed with single 420 unit doses of ANTHRASIL and antimicrobial therapy through expanded access use with the Centers for Disease Control and Prevention (CDC): three patients with inhalational anthrax, 15 patients with anthrax due to injection of anthrax-contaminated heroin and one patient with gastrointestinal anthrax.
+
+
+
+ A total of 16 serious adverse reactions that began within 72 hours of infusion were reported for eight out of 19 patients (42%) as follows: acute respiratory distress syndrome (n=2), pulmonary edema, pleural effusion, acute renal insufficiency/failure (n=4), coagulopathy, cardiac arrest/death (not otherwise specified, n=2), hypotension, ascites, metabolic acidosis, hyperkalemia, and edema/perhipheral edema.
+
+
+
+ Six deaths were reported including one patient with inhalational anthrax. The cause of death in three of these six expired patients, including the patient who expired with inhalational anthrax, was consistent with progression of anthrax disease or co-morbidities and the cause of death in the remaining three patients was not determined or available.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: INTERACTIONS WITH GLUCOSE MONITORING SYSTEMS AND THROMBOSIS 
+
+  WARNING: INTERACTIONS WITH GLUCOSE MONITORING SYSTEMS AND THROMBOSIS 
+
+   Maltose in immune globulin products, including ANTHRASIL, may give falsely high blood glucose levels with some point-of-care blood glucose testing systems (for example those based on the GDH-PQQ or glucose-dye-oxidoreductase methods) resulting in inappropriate administration of insulin and life-threatening hypoglycemia. To avoid interference by maltose contained in ANTHRASIL, perform blood glucose measurement in patients receiving ANTHRASIL with a glucose-specific method (monitor and test strips). 
+
+
+
+  Thrombosis may occur with immune globulin products, including ANTHRASIL. Risk factors may include advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling vascular catheters, hyperviscosity and cardiovascular risk factors. Thrombosis may occur in the absence of known risk factors.
+
+
+
+  For patients at risk of thrombosis, administer ANTHRASIL at the minimum infusion rate practicable. Ensure adequate hydration in patients before administration. Monitor for signs and symptoms of thrombosis and assess blood viscosity in patients at risk of hyperviscosity.
+
+
+
+   EXCERPT:   WARNING: INTERACTIONS WITH GLUCOSE MONITORING SYSTEMS AND THROMBOSIS 
+
+
+
+     See full prescribing information for complete boxed warning.    
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *       Hypersensitivity reactions including anaphylaxis (  5.1  ) 
+ *       Interference with blood and urine glucose testing (  5.2  ,  5.9  ) 
+ *      Thrombosis may occur. Monitor patients at risk (  5.3  ) 
+ *      Monitor renal function and urine output in patients at risk of acute renal dysfunction/failure (  5.4  ) 
+ *      Infuse ANTHRASIL at the minimum rate practicable in patients at risk of thrombosis or renal failure (  5.5  ) 
+ *      Monitor for clinical signs and symptoms of hemolysis and hemolytic anemia (  5.6  ) 
+ *      Aseptic meningitis syndrome (AMS) (  5.7  ) 
+ *      Transfusion-related Acute Lung Injury (TRALI)] (  5.10  ) 
+ *      Transmission of infectious agents from human plasma (5.  11  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions may occur with ANTHRASIL.
+
+
+
+ Administer ANTHRASIL in a setting where appropriate equipment, medication (including epinephrine) and personnel trained in the management of hypersensitivity, anaphylaxis and shock are available.
+
+
+
+ Monitor all patients for signs and symptoms of acute allergic reactions (e.g. urticaria, pruritus, erythema, angioedema, bronchospasm with wheezing or cough, stridor, laryngeal edema, hypotension, tachycardia) during and following the ANTHRASIL infusion. In case of severe hypersensitivity reactions, discontinue the administration of ANTHRASIL immediately and administer appropriate emergency care.
+
+
+
+ ANTHRASIL contains trace amounts of IgA (less than or equal to 40 mcg per mL). Patients with known antibodies to IgA may have greater risk of developing severe hypersensitivity and anaphylactic reactions. ANTHRASIL is contraindicated in patients with antibodies against IgA and a history of hypersensitivity reaction [See   4 CONTRAINDICATIONS    ].
+
+
+
+    5.2 Interference with Blood Glucose Testing
+
+
+
+  ANTHRASIL contains maltose. Maltose has been shown to give falsely high blood glucose levels in certain types of blood glucose testing systems (for example, by systems based on glucose dehydrogenase pyrroloquinolinequinone (GDH-PQQ) or glucose-dye-oxidoreductase methods). Due to the potential for falsely elevated glucose readings (or falsely normal glucose readings when hypoglycemia is present), only use testing systems that are glucose-specific to test or monitor blood glucose levels in patients receiving ANTHRASIL.
+
+
+
+ Review the product information of the blood glucose testing system, including that of the test strips, to determine if the system is appropriate for use with maltose-containing parenteral products. If any uncertainty exists, contact the manufacturer of the testing system to determine if the system is appropriate for use with maltose-containing parenteral products.
+
+
+
+    5.3 Thrombosis
+
+
+
+  Thrombosis may occur following treatment with immune globulin products, including ANTHRASIL [See BOXED WARNING  ]. Risk factors include cardiovascular risk factors, advanced age, impaired cardiac output, hypercoagulable disorders, prolonged periods of immobilization, history of arterial or venous thrombosis, estrogen use, indwelling central vascular catheters, and/or known or suspected hyperviscosity. Thrombosis may occur in the absence of known risk factors. Weigh the potential risks and benefits of ANTHRASIL against those of alternative therapies for all patients for whom ANTHRASIL administration is being considered.
+
+
+
+ Because of the potentially increased risk of thrombosis, consider baseline assessment of blood viscosity in patients at risk for hyperviscosity, including those with cryoglobulins, fasting chylomicronemia/markedly high triacylglycerols (triglycerides), or monoclonal gammopathies.
+
+
+
+ In patients with risk factors where the benefits of ANTHRASIL administration out-weigh the potential risks of thrombosis, administer ANTHRASIL at the minimum rate of infusion practicable. Ensure adequate hydration in patients before administration. Monitor for signs and symptoms of thrombosis.
+
+
+
+    5.4 Acute Renal Dysfunction/Failure
+
+
+
+  Acute renal dysfunction, acute renal failure, osmotic nephropathy, acute tubular necrosis, proximal tubular nephropathy, and death may occur upon use of immune globulin intravenous products, including ANTHRASIL. Use ANTHRASIL with caution in patients with any degree of pre-existing renal insufficiency and in patients at risk of developing renal insufficiency (including, but not limited to those with diabetes mellitus, age greater than 65 years, volume depletion, paraproteinemia, sepsis, and patients receiving known nephrotoxic drugs), administering at the minimum rate of infusion practicable. Ensure that patients are not volume depleted before ANTHRASIL infusion. Do not exceed the recommended infusion rate, and follow the infusion schedule closely. Periodic monitoring of renal function and urine output is important in patients judged to be at increased risk of developing acute renal failure. Assess renal function, including measurement of blood urea nitrogen (BUN) and serum creatinine, before the initial infusion of ANTHRASIL and at appropriate intervals thereafter. If renal function deteriorates, consider discontinuing ANTHRASIL.
+
+
+
+ Most cases of renal insufficiency following administration of immune globulin products have occurred in patients receiving total doses containing 400 mg per kg of sucrose or greater. ANTHRASIL does not contain sucrose.
+
+
+
+    5.5 Infusion Rate Precautions
+
+
+
+  Adverse reactions (such as chills, fever, headache, nausea and vomiting) may be related to the rate of infusion. Follow closely the recommended infusion rate given under   2.1 Dose    . Closely monitor and carefully observe patients and their vital signs for any symptoms throughout the infusion period and immediately following an infusion.
+
+
+
+    5.6 Hemolysis
+
+
+
+  Hemolytic anemia and hemolysis may develop subsequent to ANTHRASIL administration. ANTHRASIL may contain blood group antibodies that may act as hemolysins and induce in vivo  coating of red blood cells with immune globulin, causing a positive direct antiglobulin reaction and hemolysis. Acute hemolysis, including intravascular hemolysis, has been reported following immune globulin administration and delayed hemolytic anemia can develop due to enhanced red blood cell sequestration. Severe hemolysis may lead to renal dysfunction/failure.
+
+
+
+ The following risk factors may be associated with the development of hemolysis: high doses (e.g., &gt;2 g per kg), given either as a single administration or divided over several days, and non-O blood group (  1  ). Other individual patient factors, such as an underlying inflammatory state (as may be reflected by, for example, elevated C-reactive protein or erythrocyte sedimentation rate), have been hypothesized to increase the risk of hemolysis (  2  ), but their role is uncertain.
+
+
+
+ Monitor ANTHRASIL recipients for clinical signs and symptoms of hemolysis. Consider appropriate laboratory testing in higher risk patients, including measurement of hemoglobin or hematocrit prior to infusion and within approximately 36 to 96 hours and again approximately seven to 10 days post infusion. If signs and/or symptoms of hemolysis or a significant drop in hemoglobin or hematocrit have been observed after infusion, perform additional confirmatory laboratory testing.
+
+
+
+    5.7 Aseptic Meningitis Symptom (AMS)
+
+
+
+  AMS may occur in association with administration of immune globulin products, including ANTHRASIL. AMS usually is associated with high total doses (&gt;2 g per kg) and begins within several hours to two days following treatment. Discontinuation of treatment has resulted in remission of AMS within several days without sequelae.
+
+
+
+ AMS is characterized by the following symptoms and signs: severe headache, nuchal rigidity, drowsiness, fever, photophobia, painful eye movements, and nausea and vomiting. Cerebrospinal fluid (CSF) studies are frequently positive with pleocytosis up to several thousand cells per cubic millimeter, predominately from the granulocytic series, and with elevated protein levels up to several hundred mg per dL, but negative culture results. Conduct a detailed neurological examination in patients exhibiting such symptoms and signs, including CSF studies, to rule out other causes of meningitis (particularly anthrax meningitis).
+
+
+
+    5.8 Monitoring: Laboratory Tests
+
+
+
+    *    Consider periodic monitoring of renal function and urine output in patients judged to be at increased risk of developing acute renal failure. Assess renal function, including measurement of BUN and serum creatinine, before the initial infusion of ANTHRASIL and at appropriate intervals thereafter. 
+ *    Because of the potentially increased risk of thrombosis, consider baseline assessment of blood viscosity in patients at risk for hyperviscosity, including those with cryoglobulins, fasting chylomicronemia/markedly high triacylglycerols (triglycerides), or monoclonal gammopathies. 
+ *    If signs and/or symptoms of hemolysis are present after an infusion of ANTHRASIL, perform appropriate laboratory testing for confirmation. 
+    If TRALI is suspected, perform appropriate tests for the presence of anti-HLA and anti-neutrophil antibodies in the product. TRALI may be managed using oxygen therapy with adequate ventilator support.
+ 
+
+    5.10 Transfusion-related Acute Lung Injury (TRALI)
+
+
+
+  Noncardiogenic pulmonary edema may occur in patients receiving immune globulin products, including ANTHRASIL. TRALI is characterized by severe respiratory distress, pulmonary edema, hypoxemia, normal left ventricular function, and fever and typically occurs within one to six hours after transfusion.
+
+
+
+ Monitor recipients for pulmonary adverse reactions. If TRALI is suspected, perform tests for the presence of anti-HLA and anti-neutrophil antibodies in the product.
+
+
+
+    5.11 Transmission of Infectious Agents from Human Plasma
+
+
+
+  Because ANTHRASIL is made from human plasma, it may carry a risk of transmitting blood-borne infectious agents, e.g., viruses, the variant Creutzfeld-Jakob disease (vCJD) agent, and, theoretically, the Creutzfeld-Jakob disease (CJD) agent. No cases of transmission of viral diseases, vCJD or CJD have been associated with the use of ANTHRASIL.
+
+
+
+ All infections thought to have been possibly transmitted by this product should be reported by the physician or other health care provider to Cangene Corporation at 1-800-768-2304.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

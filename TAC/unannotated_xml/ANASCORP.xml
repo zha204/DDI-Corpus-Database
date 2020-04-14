@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="anascorp" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions observed in &gt;= 2% of patients in the clinical studies for Anascorp were: vomiting, pyrexia, rash, nausea and pruritus.(  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Rare Disease Therapeutics, Inc., at 1 877-851-1902, or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  The most common adverse reactions observed in &gt;= 2% of patients in the clinical studies for Anascorp were: vomiting, pyrexia, rash, nausea and pruritus.
+
+
+
+   6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.A total of 1534 patients were treated with Anascorp, ranging from less than one month to 90 years old. The patient population was comprised of 802 males and 732 females. Patients were monitored for signs and symptoms of adverse reactions, including acute hypersensitivity reactions and serum sickness. Follow-up telephone interviews were conducted at 24 hours, 7 days, and 14 days after treatment to assess symptoms suggestive of ongoing venom effect, serum sickness, and any other adverse reactions. Table 1 shows the adverse reactions occurring in patients across all clinical trials for Anascorp. Twenty-seven percent (421/1534) of patients receiving Anascorp reported at least one adverse reaction.
+
+
+
+ Table 1: Adverse Reactions Reported in &gt;= 1% of Patients 
+   ADVERSE REACTIONS    Anascorp [N=1534]n(%)   
+ Vomiting            72 (4.7)       
+ Pyrexia             63 (4.1)       
+ Rash                41 (2.7)       
+ Nausea              32 (2.1)       
+ Pruritus            31 (2.0)       
+ Headache            29 (1.9)       
+ Rhinorrhoea         28 (1.8)       
+ Myalgia             25 (1.6)       
+ Fatigue             24 (1.6)       
+ Cough               22 (1.4)       
+ Diarrhea            20 (1.3)       
+ Lethargy            17 (1.1)       
+        No patients died or discontinued study participation for severe adverse reactions.Eight patients were considered to have serum sickness (Type III hypersensitivity); no patient manifested the full serum sickness syndrome. Three patients were treated with systemic corticosteroids and five others received either no treatment or symptomatic therapy.34 patients experienced a total of 39 severe adverse reactions such as respiratory distress, aspiration, hypoxia, ataxia, pneumonia, and eye swelling. It is not clear whether these adverse reactions were related to Anascorp envenomation or a combination of both.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of Anascorp. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.Chest tightness, palpitations, rash and pruritus.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Severe hypersensitivity reactions, including anaphylaxis, are possible with Anascorp. Prepare for monitoring and management of allergic reactions, particularly in patients with a history of hypersensitivity to equine (horse) proteins or patients who have received previous therapy with antivenoms containing scorpion or equine proteins.(  5.1  ) 
+ *  Delayed allergic reactions (serum sickness) may occur following treatment with Anascorp. Patient monitoring with follow-up visit is recommended.(  5.2  ) 
+ *  Anascorp is made from equine plasma and may contain infectious agents, e.g. viruses.(  5.3  ) 
+ *  Localized reactions and generalized myalgias have been reported with the use of cresol as an injectable excipient.(  5.4  ) 
+    
+ 
+
+     5.1 Hypersensitivity Reactions
+
+
+
+   Severe hypersensitivity reactions, including anaphylaxis, may occur with Anascorp. Close patient monitoring for hypersensitivity reactions and readiness with intravenous therapy using epinephrine, corticosteroids, and diphenhydramine hydrochloride is recommended during the infusion of Anascorp. If an anaphylactic reaction occurs during the infusion, terminate administration at once and administer appropriate emergency medical care.  Patients with known allergies to horse protein are particularly at risk for an anaphylactic reaction. Patients who have had previous therapy with Anascorp or another equine antivenom/antitoxin may have become sensitized to equine protein and be at risk for a severe hypersensitivity reaction.
+ 
+
+    5.2 Delayed Allergic Reactions (Serum Sickness)
+
+
+
+  Monitor patients with follow-up visit(s) for signs and symptoms of delayed allergic reactions or serum sickness (e.g., rash, fever, myalgia, arthralgia), and treat appropriately if necessary. Eight out of 1,534 (0.5%) patients in the clinical trials exhibited symptoms suggestive of serum sickness. (  6.1  )
+
+
+
+    5.3 Transmissible Infectious Agents
+
+
+
+  Anascorp is made from equine (horse) plasma, it may therefore carry a risk of transmitting infectious agents, e.g., viruses.
+
+
+
+    5.4 Reaction to Cresol
+
+
+
+  Trace amounts of cresol from the manufacturing process are contained in Anascorp. Localized reactions and generalized myalgias have been reported with the use of cresol as an injectable excipient.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

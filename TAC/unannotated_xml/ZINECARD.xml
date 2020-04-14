@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="zinecard" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   In clinical studies, ZINECARD was administered to patients also receiving chemotherapeutic agents for cancer. Pain on injection was observed more frequently in patients receiving ZINECARD versus placebo. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Pfizer, Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
+
+
+
+ The adverse reaction profile described in this section was identified from randomized, placebo-controlled, double-blind studies in patients with metastatic breast cancer who received the combination of the FAC chemotherapy regimen with or without ZINECARD. The dose of doxorubicin was 50 mg/m  2  in each of these trials. Treatment was administered every three weeks until disease progression or cardiac toxicity.
+
+
+
+ Patients in clinical trials who received FAC with ZINECARD experienced more severe leukopenia, granulocytopenia, and thrombocytopenia than patients receiving FAC without ZINECARD  [see  Warnings and Precautions (5.1)  ]  .
+
+
+
+ Table 1 below lists the incidence of adverse reactions for patients receiving FAC with either ZINECARD or placebo in the breast cancer studies. Adverse experiences occurring during courses 1 through 6 are displayed for patients receiving ZINECARD or placebo with FAC beginning with their first course of therapy (columns 1 and 3, respectively). Adverse experiences occurring at course 7 and beyond for patients who received placebo with FAC during the first six courses and who then received either ZINECARD or placebo with FAC are also displayed (columns 2 and 4, respectively).
+
+
+
+ The adverse reactions listed below in Table 1 demonstrate that the frequency of adverse reaction "Pain on Injection" has been greater for ZINECARD arm, as compared to placebo.
+
+
+
+ Table 1 
+ Adverse Reaction      Percentage (%) of Breast Cancer Patients With Adverse Reaction   
+ FAC + ZINECARD           FAC + Placebo       
+ Courses 1-6N = 413    Courses &gt;= 7N = 102    Courses 1-6N = 458    Courses &gt;= 7N = 99    
+  
+ Alopecia                       94                   100                    97                    98            
+ Nausea                         77                    51                    84                    60            
+ Vomiting                       59                    42                    72                    49            
+ Fatigue/Malaise                61                    48                    58                    55            
+ Anorexia                       42                    27                    47                    38            
+ Stomatitis                     34                    26                    41                    28            
+ Fever                          34                    22                    29                    18            
+ Infection                      23                    19                    18                    21            
+ Diarrhea                       21                    14                    24                    7             
+ Pain on Injection              12                    13                    3                     0             
+ Sepsis                         17                    12                    14                    9             
+ Neurotoxicity                  17                    10                    13                    5             
+ Streaking/Erythema             5                     4                     4                     2             
+ Phlebitis                      6                     3                     3                     5             
+ Esophagitis                    6                     3                     7                     4             
+ Dysphagia                      8                     0                     10                    5             
+ Hemorrhage                     2                     3                     2                     1             
+ Extravasation                  1                     3                     1                     2             
+ Urticaria                      2                     2                     2                     0             
+ Recall Skin Reaction           1                     1                     2                     0             
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Myelosuppression: ZINECARD may increase the myelosuppresive effects of chemotherapeutic agents. Perform hematological monitoring. (  5.1  ) 
+ *  Embryo-Fetal Toxicity: Can cause fetal harm. Advise female patients of reproductive potential of the potential hazard to the fetus. (  5.5  ,  8.1  ) 
+    
+ 
+
+   5.1 Myelosuppression
+
+
+
+  ZINECARD may add to the myelosuppression caused by chemotherapeutic agents. Obtain a complete blood count prior to and during each course of therapy, and administer ZINECARD and chemotherapy only when adequate hematologic parameters are met.
+
+
+
+    5.2 Concomitant Chemotherapy
+
+
+
+  Only use ZINECARD in those patients who have received a cumulative doxorubicin dose of 300 mg/m  2  and are continuing with doxorubicin therapy. Do not use with chemotherapy initiation as ZINECARD may interfere with the antitumor activity of the chemotherapy regimen. In a trial conducted in patients with metastatic breast cancer who were treated with fluorouracil, doxorubicin, and cyclophosphamide (FAC) with or without ZINECARD starting with their first cycle of FAC therapy, patients who were randomized to receive ZINECARD had a lower response rate (48% vs. 63%) and shorter time to progression than patients who were randomized to receive placebo.
+
+
+
+    5.3 Cardiac Toxicity
+
+
+
+  Treatment with ZINECARD does not completely eliminate the risk of anthracycline-induced cardiac toxicity. Monitor cardiac function before and periodically during therapy to assess left ventricular ejection fraction (LVEF). In general, if test results indicate deterioration in cardiac function associated with doxorubicin, the benefit of continued therapy should be carefully evaluated against the risk of producing irreversible cardiac damage.
+
+
+
+    5.4 Secondary Malignancies
+
+
+
+  Secondary malignancies such as acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS) have been reported in studies of pediatric patients who have received ZINECARD in combination with chemotherapy. ZINECARD is not indicated for use in pediatric patients. Some adult patients who received ZINECARD in combination with anti-cancer agents known to be carcinogenic have also developed secondary malignancies, including AML and MDS.
+
+
+
+ Razoxane is the racemic mixture, of which dexrazoxane is the S(+)-enantiomer. Secondary malignancies (primarily acute myeloid leukemia) have been reported in patients treated chronically with oral razoxane. In these patients, the total cumulative dose of razoxane ranged from 26 to 480 grams and the duration of treatment was from 42 to 319 weeks. One case of T-cell lymphoma, one case of B-cell lymphoma, and six to eight cases of cutaneous basal cell or squamous cell carcinoma have also been reported in patients treated with razoxane. Long-term administration of razoxane to rodents was associated with the development of malignancies [see  Nonclinical Toxicology (13.1)  ]  .
+
+
+
+    5.5 Embryo-Fetal Toxicity
+
+
+
+  ZINECARD can cause fetal harm when administered to pregnant women. Dexrazoxane administration during the period of organogenesis resulted in maternal toxicity, embryotoxicity and teratogenicity in rats and rabbits at doses significantly lower than the clinically recommended dose [see  Use in Specific Populations (8.1)  ]  . If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
+
+
+
+ Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment [see  Use in Specific Populations (8.6)  ]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="akfluor" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions include skin discoloration, urine discoloration, nausea, vomiting, and gastrointestinal distress.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Akorn at 1-800-932-5676 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Skin and urine discoloration
+
+  The most common reaction is discoloration of the skin and urine. Skin will attain a temporary yellowish discoloration. Urine attains a bright yellow color. Discoloration of the skin usually fades in 6 to 12 hours and usually fades in urine in 24 to 36 hours.
+
+
+
+   6.2 Gastrointestinal Reaction
+
+  The next most common adverse reaction is nausea. Vomiting, and gastrointestinal distress have also occurred. A strong taste may develop after injection.
+
+
+
+   6.3 Hypersensitivity Reactions
+
+  Symptoms and signs of hypersensitivity have occurred. Generalized hives and itching, bronchospasm and anaphylaxis have been reported. [see    Contraindications (4.1)  and  Warnings and Precautions (5.1)    ]
+
+
+
+   6.4 Cardiopulmonary Reactions
+
+  Syncope and hypotension may occur. Cardiac arrest, basilar artery ischemia, severe shock and death may occur rarely. [see    Warnings and Precautions (5.1)    ]
+
+
+
+   6.5 Neurologic Reactions
+
+  Headache may occur. Convulsions may rarely occur following injection.
+
+
+
+   6.6 Thrombophlebitis
+
+  Thrombophlebitis at the injection site has been reported. Extravasation of the solution at the injection site causes intense pain at the site and a dull aching pain in the injected arm. [  see  Administration (2.3)    and    Warnings and Precautions (5.2)    ].
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Respiratory reactions.(  5.1  ) 
+ *  Severe local tissue damage. (  5.2  ) 
+    
+ 
+
+   5.1 Respiratory Reactions
+
+
+
+  Caution should be exercised in patients with a history of allergy or bronchial asthma. An emergency tray should always be available.
+
+
+
+ If a potential allergy is suspected, an intradermal skin test may be performed prior to intravenous administration, i.e., 0.05 mL injected intradermally to be evaluated 30 to 60 minutes following injection. Given the sensitivity and specificity of skin testing, a negative skin test is not proof that a patient is not allergic to fluorescein.
+
+
+
+    5.2 Severe local tissue damage
+
+
+
+  Extravasation during injection can result in severe local tissue damage due to high pH of fluorescein solution. The following complications resulting from extravasation of fluorescein have been noted to occur: Sloughing of the skin, superficial phlebitis, subcutaneous granuloma, and toxic neuritis along the median nerve in the antecubital area. Complications resulting from extravasation can cause severe pain in the arm for up to several hours. When extravasation occurs, the injection should be discontinued and conservative measures to treat damaged tissue and to relieve pain should be implemented. [see   Administration (2.3)    and   Adverse Reactions (6.6)    ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

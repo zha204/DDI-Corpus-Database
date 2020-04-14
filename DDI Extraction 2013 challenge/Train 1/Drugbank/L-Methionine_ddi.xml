@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d528">
+    <sentence id="DDI-DrugBank.d528.s0" text="Acetaminophen and methotrexate - L-methionine may decrease hepatic toxicity in those with acetaminophen overdosage or in those taking methotrexate.">
+        <entity id="DDI-DrugBank.d528.s0.e0" charOffset="0-12"
+            type="drug" text="Acetaminophen"/>
+        <entity id="DDI-DrugBank.d528.s0.e1" charOffset="18-29"
+            type="drug" text="methotrexate"/>
+        <entity id="DDI-DrugBank.d528.s0.e2" charOffset="33-44"
+            type="drug" text="L-methionine"/>
+        <entity id="DDI-DrugBank.d528.s0.e3" charOffset="90-102"
+            type="drug" text="acetaminophen"/>
+        <entity id="DDI-DrugBank.d528.s0.e4" charOffset="134-145"
+            type="drug" text="methotrexate"/>
+        <ddi id="DDI-DrugBank.d528.s0.d0" e1="DDI-DrugBank.d528.s0.e2"
+            e2="DDI-DrugBank.d528.s0.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d528.s0.d1" e1="DDI-DrugBank.d528.s0.e2"
+            e2="DDI-DrugBank.d528.s0.e4" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d528.s1" text="Theoretically, it may decrease hepatic toxicity in the case of other potential hepatotoxic drugs, as well."/>
+    <sentence id="DDI-DrugBank.d528.s2" text="Gentamicin - Methionine may protect against the ototoxic effects of gentamicin.">
+        <entity id="DDI-DrugBank.d528.s2.e0" charOffset="0-9"
+            type="drug" text="Gentamicin"/>
+        <entity id="DDI-DrugBank.d528.s2.e1" charOffset="13-22"
+            type="drug" text="Methionine"/>
+        <entity id="DDI-DrugBank.d528.s2.e2" charOffset="68-77"
+            type="drug" text="gentamicin"/>
+        <ddi id="DDI-DrugBank.d528.s2.d0" e1="DDI-DrugBank.d528.s2.e1"
+            e2="DDI-DrugBank.d528.s2.e2" type="effect"/>
+    </sentence>
+</document>

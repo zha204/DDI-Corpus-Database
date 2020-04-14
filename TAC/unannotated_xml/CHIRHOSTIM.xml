@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="chirhostim" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt;0.5%) are nausea, flushing, abdominal pain, and vomiting  (6)  .
+
+
+
+ 
+
+  Mild to moderate adverse reactions have been noted for synthetic human secretin in clinical studies in 533 patients and 51 healthy volunteers. Two severe adverse reactions, nausea and abdominal pain, occurred in one patient. Table 1 details the type and number of patients with adverse reactions.
+
+
+
+ TABLE 1 ADVERSE REACTIONS WITH CHIRHOSTIM(r) 
+ Adverse Reaction                N = 584Incidence(Patients)                                               
+  
+ Nausea                          11 (11)                                                                  
+ Flushing                        4 (4)                                                                    
+ Early removal of Dreiling tube  3 (3)                                                                    
+ Abdominal pain                  3 (3)                                                                    
+ Vomiting                        3 (3)                                                                    
+ Increased heart rate            2 (2)                                                                    
+ Mild Pancreatitis               2 (2)                                                                    
+ Upset stomach                   2 (2)                                                                    
+ Anxiety                         1 (1)                                                                    
+ Burning in stomach or abdomen   1 (1)                                                                    
+ Clammy skin                     1 (1)                                                                    
+ Decreased O2saturation          1 (1)                                                                    
+ Diarrhea                        1 (1)                                                                    
+ Faintness                       1 (1)                                                                    
+ Hypotension                     1 (1)                                                                    
+ Infiltrated IV                  1 (1)                                                                    
+ Oral secretions increased       1 (1)                                                                    
+ Sedation                        1 (1)                                                                    
+ Slow heart rate (57bpm)         1 (1)                                                                    
+ Tingling in legs                1 (1)                                                                    
+ Unresponsive                    1 (1)                                                                    
+ Warm sensation in abdomen       1 (1)                                                                    
+ Warm sensation in face          1 (1)                                                                    
+      Of the 584 patients and healthy volunteers treated with ChiRhoStim  (r)  , a total of 29 patients (5%) had at least one adverse reaction.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Allergic Reactions  (5.1)  . 
+ *  Vagotomy or Inflammatory Bowel Disease  (5.2)  . 
+ *  Alcoholic or Other Liver Disease  (5.3)  . 
+    
+ 
+
+   5.1 Allergic Reactions
+
+
+
+  Because of a potential allergic reaction to ChiRhoStim  (r)  patients should receive an intravenous test dose of 0.1 mL of the respective reconstituted vial. If no signs of allergic reaction are noted after one minute, the recommended dose may be injected slowly over 1 minute. A test dose is especially important in patients with a history of atopic allergy and/or asthma. Appropriate measures for the treatment of acute hypersensitivity reactions should be immediately available. No allergic reactions were observed after the test dose or full dose of synthetic human secretin in 584 patients and volunteers.
+
+
+
+    5.2 Vagotomy or Inflammatory Bowel Disease
+
+
+
+  Patients who have undergone vagotomy or who have inflammatory bowel disease may be hyporesponsive to secretin stimulation. This response does not indicate pancreatic disease, and results of secretin stimulation tests in these patients should be interpreted with caution.
+
+
+
+    5.3 Alcoholic or Other Liver Disease
+
+
+
+  A greater than normal volume response to secretin stimulation, which may mask coexisting pancreatic disease, is occasionally encountered in patients with alcoholic or other liver disease. Results of secretin stimulation tests in these patients should thus be interpreted with caution.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

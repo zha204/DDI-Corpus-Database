@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="idamycin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Approximately 550 patients with AML have received idarubicin in combination with cytarabine in controlled clinical trials worldwide. In addition, over 550 patients with acute leukemia have been treated in uncontrolled trials utilizing idarubicin as a single agent or in combination. The table below lists the adverse experiences reported in U.S.
+
+
+
+ Study 2 (see  CLINICAL STUDIES  ) and is representative of the experiences in other studies. These adverse experiences constitute all reported or observed experiences, including those not considered to be drug related. Patients undergoing induction therapy for AML are seriously ill due to their disease, are receiving multiple transfusions, and concomitant medications including potentially toxic antibiotics and antifungal agents. The contribution of the study drug to the adverse experience profile is difficult to establish.
+
+
+
+
+   Induction Phase                          Percentage of Patients        
+                                                     IDR                               DNR                  
+ Adverse Experiences                               (N=110)                           (N=118)                
+  
+ Infection                                           95%                               97%                  
+ Nausea &amp; Vomiting                                   82%                               80%                  
+ Hair Loss                                           77%                               72%                  
+ Abdominal Cramps/Diarrhea                           73%                               68%                  
+ Hemorrhage                                          63%                               65%                  
+ Mucositis                                           50%                               55%                  
+ Dermatologic                                        46%                               40%                  
+ Mental Status                                       41%                               34%                  
+ Pulmonary-Clinical                                  39%                               39%                  
+ Fever (not elsewhere classified)                    26%                               28%                  
+ Headache                                            20%                               24%                  
+ Cardiac-Clinical                                    16%                               24%                  
+ Neurologic-Peripheral Nerves                         7%                                9%                  
+ Pulmonary Allergy                                    2%                                4%                  
+ Seizure                                              4%                                5%                  
+ Cerebellar                                           4%                                4%                  
+         The duration of aplasia and incidence of mucositis were greater on the IDR arm than the DNR arm, especially during consolidation in some U.S. controlled trials (see  CLINICAL STUDIES  ).
+ 
+
+ The following information reflects experience based on U.S. controlled clinical trials.
+
+
+
+   Myelosuppression
+
+  Severe myelosuppression is the major toxicity associated with idarubicin therapy, but this effect of the drug is required in order to eradicate the leukemic clone. During the period of myelosuppression, patients are at risk of developing infection and bleeding which may be life-threatening or fatal.
+
+
+
+   Gastrointestinal
+
+  Nausea and/or vomiting, mucositis, abdominal pain and diarrhea were reported frequently, but were severe (equivalent to WHO Grade 4) in less than 5% of patients. Severe enterocolitis with perforation has been reported rarely. The risk of perforation may be increased by instrumental intervention. The possibility of perforation should be considered in patients who develop severe abdominal pain and appropriate steps for diagnosis and management should be taken.
+
+
+
+   Dermatologic
+
+  Alopecia was reported frequently and dermatologic reactions including generalized rash, urticaria and a bullous erythrodermatous rash of the palms and soles have occurred. The dermatologic reactions were usually attributed to concomitant antibiotic therapy. Local reactions including hives at the injection site have been reported. Recall of skin reaction due to prior radiotherapy has occurred with idarubicin administration.
+
+
+
+   Hepatic and Renal
+
+  Changes in hepatic and renal function tests have been observed. These changes were usually transient and occurred in the setting of sepsis and while patients were receiving potentially hepatotoxic and nephrotoxic antibiotics and antifungal agents. Severe changes in renal function (equivalent to WHO Grade 4) occurred in no more than 1% of patients, while severe changes in hepatic function (equivalent to WHO Grade 4) occurred in less than 5% of patients.
+
+
+
+   Cardiac
+
+  Congestive heart failure (frequently attributed to fluid overload), serious arrhythmias including atrial fibrillation, chest pain, myocardial infarction and asymptomatic declines in LVEF have been reported in patients undergoing induction therapy for AML. Myocardial insufficiency and arrhythmias were usually reversible and occurred in the setting of sepsis, anemia and aggressive intravenous fluid administration. The events were reported more frequently in patients over age 60 years and in those with pre-existing cardiac disease.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+    WARNINGS  
+
+    *  IDAMYCIN PFS Injection should be given slowly into a freely flowing intravenous infusion. It must never be given intramuscularly or subcutaneously. Severe local tissue necrosis can occur if there is extravasation during administration. 
+ *  As is the case with other anthracyclines the use of IDAMYCIN PFS can cause myocardial toxicity leading to congestive heart failure. Cardiac toxicity is more common in patients who have received prior anthracyclines or who have pre-existing cardiac disease. 
+ *  As is usual with antileukemic agents, severe myelosuppression occurs when IDAMYCIN PFS is used at effective therapeutic doses. 
+ *  It is recommended that IDAMYCIN PFS be administered only under the supervision of a physician who is experienced in leukemia chemotherapy and in facilities with laboratory and supportive resources adequate to monitor drug tolerance and protect and maintain a patient compromised by drug toxicity. The physician and institution must be capable of responding rapidly and completely to severe hemorrhagic conditions and/or overwhelming infection. 
+ *  Dosage should be reduced in patients with impaired hepatic or renal function. (See DOSAGE AND ADMINISTRATION.) 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

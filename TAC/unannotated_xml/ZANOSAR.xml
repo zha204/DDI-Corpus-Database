@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="zanosar" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Renal
+
+  See    WARNINGS    .
+
+
+
+   Gastrointestinal
+
+  Most patients treated with ZANOSAR have experienced severe nausea and vomiting, occasionally requiring discontinuation of drug therapy. Some patients experienced diarrhea. A number of patients have experienced hepatic toxicity, as characterized by elevated liver enzyme (SGOT and LDH) levels and hypoalbuminemia.
+
+
+
+   Hematological
+
+  Hematological toxicity has been rare, most often involving mild decreases in hematocrit values. However,  fatal hematological toxicity with substantial reductions in leukocyte and platelet count  has been observed.
+
+
+
+     Metabolic  
+
+  Mild to moderate abnormalities of glucose tolerance have been noted in some patients treated with ZANOSAR. These have generally been reversible, but insulin shock with hypoglycemia has been observed.
+
+
+
+   Genitourinary
+
+  Two cases of nephrogenic diabetes insipidus following therapy with ZANOSAR have been reported. One had spontaneous recovery and the second responded to indomethacin.
+
+
+
+   Post-Marketing Experience
+
+  Spontaneous reports have been received of local inflammation (i.e., edema, erythema, burning, tenderness) following extravasation of the product. In most cases, these events resolved the same day or within a few days.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  ZANOSAR should be administered under the supervision of a physician experienced in the use of cancer chemotherapeutic agents.
+
+
+
+ A patient need not be hospitalized but should have access to a facility with laboratory and supportive resources sufficient to monitor drug tolerance and to protect and maintain a patient compromised by drug toxicity. Renal toxicity is dose-related and cumulative and may be severe or fatal. Other major toxicities are nausea and vomiting which may be severe and at times treatment-limiting. In addition, liver dysfunction, diarrhea, and hematological changes have been observed in some patients. Streptozocin is mutagenic. When administered parenterally, it has been found to be tumorigenic or carcinogenic in some rodents.
+
+
+
+ The physician must judge the possible benefit to the patient against the known toxic effects of this drug in considering the advisability of therapy with ZANOSAR. The physician should be familiar with the following text before making a judgment and beginning treatment.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

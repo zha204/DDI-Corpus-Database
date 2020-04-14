@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="opana0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+    Cardiac disorders:  tachycardia, bradycardia, palpitations  Eye disorders:  miosis, diplopia, vision blurred  Gastrointestinal disorders:  nausea, vomiting, dry mouth, constipation, abdominal pain, ileus paralytic  General disorders and administration site conditions:  fatigue, asthenia, injection site reaction  Hepatobilliary disorders:  biliary colic  Immune system disorders:  hypersensitivity (dermatitis allergic, urticaria NOS, pruritus, swelling face)  Metabolism and nutrition disorders:  anorexia,  Nervous system disorders:  somnolence, sedation, dizziness, headache, mental impairment NOS, central nervous system depression NOS  Psychiatric disorders:  dysphoria, euphoric mood, nervousness, restlessness, confusional state, insomnia, agitation, hallucination, depression, drug dependence  Renal and urinary disorders:  ureteral spasm, urinary hesitation, urinary retention, oliguria  Respiratory, thoracic, and mediastinal disorders:  respiratory depression, atelectasis, bronchospasm, laryngospasm, laryngeal oedema, apnoea  Skin and subcutaneous tissue disorders:  pruritus, sweating increased  Social circumstances:  drug abuser  Vascular disorders:  hypotension, orthostatic hypotension, flushing
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

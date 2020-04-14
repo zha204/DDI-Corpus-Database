@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="capex" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following local adverse reactions have been reported infrequently with topical corticosteroids. They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: dryness, folliculitis, acneiform eruptions, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, miliaria, burning, itching, irritation and hypopigmentation.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

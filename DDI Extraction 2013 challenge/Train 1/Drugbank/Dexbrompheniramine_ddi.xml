@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d62">
+    <sentence id="DDI-DrugBank.d62.s0" text="Dexbrompheniramine can interact with alcohol or other CNS depressants (may potentiate the CNS depressant effects of either these medications or antihistamines), anticholinergics or other medications with anticholinergic activity (anticholinergic effects may be potentiated when these medications are used concurrently with antihistamines), and monoamine oxidase (MAO) inhibitors (concurrent use with antihistamines may prolong and intensify the anticholinergic and CNS depressant effects of antihistamines).">
+        <entity id="DDI-DrugBank.d62.s0.e0" charOffset="0-17"
+            type="drug" text="Dexbrompheniramine"/>
+        <entity id="DDI-DrugBank.d62.s0.e1" charOffset="37-43"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d62.s0.e2" charOffset="54-68"
+            type="group" text="CNS depressants"/>
+        <entity id="DDI-DrugBank.d62.s0.e3" charOffset="144-157"
+            type="group" text="antihistamines"/>
+        <entity id="DDI-DrugBank.d62.s0.e4" charOffset="161-176"
+            type="group" text="anticholinergics"/>
+        <entity id="DDI-DrugBank.d62.s0.e5" charOffset="323-336"
+            type="group" text="antihistamines"/>
+        <entity id="DDI-DrugBank.d62.s0.e6" charOffset="344-377"
+            type="group" text="monoamine oxidase (MAO) inhibitors"/>
+        <entity id="DDI-DrugBank.d62.s0.e7" charOffset="400-413"
+            type="group" text="antihistamines"/>
+        <entity id="DDI-DrugBank.d62.s0.e8" charOffset="491-504"
+            type="group" text="antihistamines"/>
+        <ddi id="DDI-DrugBank.d62.s0.d0" e1="DDI-DrugBank.d62.s0.e0"
+            e2="DDI-DrugBank.d62.s0.e1" type="int"/>
+        <ddi id="DDI-DrugBank.d62.s0.d1" e1="DDI-DrugBank.d62.s0.e0"
+            e2="DDI-DrugBank.d62.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d62.s0.d2" e1="DDI-DrugBank.d62.s0.e0"
+            e2="DDI-DrugBank.d62.s0.e4" type="int"/>
+        <ddi id="DDI-DrugBank.d62.s0.d3" e1="DDI-DrugBank.d62.s0.e0"
+            e2="DDI-DrugBank.d62.s0.e6" type="int"/>
+    </sentence>
+</document>

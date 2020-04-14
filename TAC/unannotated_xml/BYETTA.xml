@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="byetta" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *    Most common (&gt;=5%) and occurring more frequently than placebo in clinical trials: nausea, hypoglycemia, vomiting, diarrhea, feeling jittery, dizziness, headache, dyspepsia, constipation, asthenia. Nausea usually decreases over time (  5.3  ,  6  ). 
+ *    Postmarketing reports with exenatide of increased international normalized ratio (INR) with concomitant use of warfarin, sometimes with bleeding (  6.2  ,  7.2  ). 
+      To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 and www.byetta.com or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+ 
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     Hypoglycemia  
+
+  Table 1 summarizes the incidence and rate of hypoglycemia with BYETTA in six placebo-controlled clinical trials.
+
+
+
+ Table 1: Incidence (%) and Rate of Hypoglycemia when BYETTA was used as Monotherapy or with Concomitant Antidiabetic Therapy in Six Placebo-Controlled Clinical Trials* 
+                                                 Placebo    BID      BYETTA    5 mcg BID      BYETTA    10 mcg BID     
+  
+ *A hypoglycemic episode was recorded if a patient reported symptoms of hypoglycemia with or without a blood glucose value consistent with hypoglycemia. Severe hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a documented blood glucose value &lt;54 mg/dL or prompt recovery after treatment for hypoglycemia.   
+  When BYETTA was initiated in combination with insulin glargine, the dose of insulin glargine was decreased by 20% in patients with an HbA1c&lt;=8.0% to minimize the risk of hypoglycemia. See Table 9 for insulin dose titration algorithm.   
+ N = number of Intent-to-Treat subjects in each treatment group.   
+  
+  Monotherapy (24 Weeks)                        
+    N                                           77              77                     78                    
+    % Overall                                   1.3%            5.2%                   3.8%                  
+    Rate (episodes/patient-year)                0.03            0.21                   0.52                  
+    % Severe                                    0.0%            0.0%                   0.0%                  
+  With Metformin (30 Weeks)                     
+    N                                           113             110                    113                   
+    % Overall                                   5.3%            4.5%                   5.3%                  
+    Rate (episodes/patient-year)                0.12            0.13                   0.12                  
+    % Severe                                    0.0%            0.0%                   0.0%                  
+  With a Sulfonylurea (30 Weeks)                
+    N                                           123             125                    129                   
+    % Overall                                   3.3%            14.4%                  35.7%                 
+    Rate (episodes/patient-year)                0.07            0.64                   1.61                  
+    % Severe                                    0.0%            0.0%                   0.0%                  
+  With Metformin and a Sulfonylurea (30 Weeks)    
+    N                                           247             245                    241                   
+    % Overall                                   12.6%           19.2%                  27.8%                 
+    Rate (episodes/patient-year)                0.58            0.78                   1.71                  
+    % Severe                                    0.0%            0.4%                   0.0%                  
+  With a Thiazolidinedione (16 Weeks)           
+    N                                           112             not evaluated          121                   
+    % Overall                                   7.1%            not evaluated          10.7%                 
+    Rate (episodes/patient-years)               0.56            not evaluated          0.98                  
+    % Severe                                    0.0%            not evaluated          0.0%                  
+  With Insulin Glargine with or without Metformin and/or Thiazolidinedione (30 Weeks)    
+    N                                           122             not evaluated          137                   
+    % Overall                                   29.5%           not evaluated          24.8%                 
+    Rate (episodes/patient-years)               1.58            not evaluated          1.61                  
+    % Severe                                    0.8%            not evaluated          0.0%                  
+              Immunogenicity  
+   Antibodies were assessed in 90% of subjects in the 30-week, 24-week, and 16-week studies of BYETTA. In the 30-week controlled trials of BYETTA add-on to metformin and/or sulfonylurea, antibodies were assessed at 2- to 6-week intervals. The mean antibody titer peaked at week 6 and was reduced by 55% by week 30. Three hundred and sixty patients (38%) had low titer antibodies (&lt;625) to exenatide at 30 weeks. The level of glycemic control (HbA1c) in these patients was generally comparable to that observed in the 534 patients (56%) without antibody titers. An additional 59 patients (6%) had higher titer antibodies (&gt;=625) at 30 weeks. Of these patients, 32 (3% overall) had an attenuated glycemic response to BYETTA; the remaining 27 (3% overall) had a glycemic response comparable to that of patients without antibodies [see    Warnings and Precautions (5.6)    ].
+
+
+
+ In the 16-week trial of BYETTA add-on to thiazolidinediones, with or without metformin, 36 patients (31%) had low titer antibodies to exenatide at 16 weeks. The level of glycemic control in these patients was generally comparable to that observed in the 69 patients (60%) without antibody titer. An additional 10 patients (9%) had higher titer antibodies at 16 weeks. Of these patients, 4 (4% overall) had an attenuated glycemic response to BYETTA; the remaining 6 (5% overall) had a glycemic response comparable to that of patients without antibodies [see    Warnings and Precautions (5.6)    ].
+
+
+
+ In the 24-week trial of BYETTA used as monotherapy, 40 patients (28%) had low titer antibodies to exenatide at 24 weeks. The level of glycemic control in these patients was generally comparable to that observed in the 101 patients (70%) without antibody titers. An additional 3 patients (2%) had higher titer antibodies at 24 weeks. Of these patients, 1 (1% overall) had an attenuated glycemic response to BYETTA; the remaining 2 (1% overall) had a glycemic response comparable to that of patients without antibodies [see    Warnings and Precautions (5.6)    ].
+
+
+
+ Antibodies to exenatide were not assessed in the 30-week placebo-controlled trial of BYETTA used in combination with insulin glargine.
+
+
+
+ In the 30-week comparator-controlled trial of BYETTA used in combination with insulin glargine and metformin, 60 patients (20%) had low titer antibodies to exenatide at 30 weeks. The level of glycemic control in these patients was generally comparable to that observed in the 234 patients (77%) without antibody titers. An additional 10 patients (3%) had higher titer antibodies at 30 weeks. Of these patients, 2 (1% overall) had an attenuated glycemic response to BYETTA; the remaining 8 (3% overall) had a glycemic response comparable to that of patients without antibodies [see    Warnings and Precautions (5.5)    ].
+
+
+
+ Two hundred and ten patients with antibodies to exenatide in the BYETTA clinical trials were tested for the presence of cross-reactive antibodies to GLP-1 and/or glucagon. No treatment-emergent cross-reactive antibodies were observed across the range of titers.
+
+
+
+     Other Adverse Reactions  
+
+    Monotherapy  
+
+  For the 24-week placebo-controlled study of BYETTA used as a monotherapy, Table 2 summarizes adverse reactions (excluding hypoglycemia) occurring with an incidence &gt;=2% and occurring more frequently in BYETTA-treated patients compared with placebo-treated patients.
+
+
+
+ Table 2: Treatment-Emergent Adverse Reactions &gt;=2% Incidence with BYETTA used as Monotherapy (excluding Hypoglycemia)* 
+   Monotherapy                  Placebo BID    N = 77    %      All BYETTA BID    N = 155    %     
+  
+ * In a 24-week placebo-controlled trial.   
+ BID = twice daily.            
+  
+  Nausea                       0                          8                                   
+  Vomiting                     0                          4                                   
+  Dyspepsia                    0                          3                                   
+         Adverse reactions reported in &gt;=1.0% to &lt;2.0% of patients receiving BYETTA and reported more frequently than with placebo included decreased appetite, diarrhea, and dizziness. The most frequently reported adverse reaction associated with BYETTA, nausea, occurred in a dose-dependent fashion.
+ 
+
+ Two of the 155 patients treated with BYETTA withdrew due to adverse reactions of headache and nausea. No placebo-treated patients withdrew due to adverse reactions.
+
+
+
+     Combination Therapy  
+
+    Add-On to Metformin and/or Sulfonylurea  
+
+  In the three 30-week controlled trials of BYETTA add-on to metformin and/or sulfonylurea, adverse reactions (excluding hypoglycemia) with an incidence &gt;=2% and occurring more frequently in BYETTA-treated patients compared with placebo-treated patients [see    Warnings and Precautions (5.3)    ] are summarized in Table 3.
+
+
+
+ Table 3: Treatment-Emergent Adverse Reactions &gt;=2% Incidence and Greater Incidence with BYETTA Treatment used with Metformin and/or a Sulfonylurea (excluding Hypoglycemia)* 
+                                                      Placebo BID    N = 483    %      All BYETTA BID    N = 963    %     
+  
+ * In three 30-week placebo-controlled clinical trials.   
+ BID = twice daily.                                  
+  
+  Nausea                                             18                      44                             
+  Vomiting                                           4                       13                             
+  Diarrhea                                           6                       13                             
+  Feeling Jittery                                    4                       9                              
+  Dizziness                                          6                       9                              
+  Headache                                           6                       9                              
+  Dyspepsia                                          3                       6                              
+  Asthenia                                           2                       4                              
+  Gastroesophageal Reflux Disease                    1                       3                              
+  Hyperhidrosis                                      1                       3                              
+         Adverse reactions reported in &gt;=1.0% to &lt;2.0% of patients receiving BYETTA and reported more frequently than with placebo included decreased appetite. Nausea was the most frequently reported adverse reaction and occurred in a dose-dependent fashion. With continued therapy, the frequency and severity decreased over time in most of the patients who initially experienced nausea. Patients in the long-term uncontrolled open-label extension studies at 52 weeks reported no new types of adverse reactions than those observed in the 30-week controlled trials.
+ 
+
+ The most common adverse reactions leading to withdrawal for BYETTA-treated patients were nausea (3% of patients) and vomiting (1%). For placebo-treated patients, &lt;1% withdrew due to nausea and none due to vomiting.
+
+
+
+     Add-On to Thiazolidinedione with or without Metformin  
+
+  For the 16-week placebo-controlled study of BYETTA add-on to a thiazolidinedione, with or without metformin, Table 4 summarizes the adverse reactions (excluding hypoglycemia) with an incidence of &gt;=2% and occurring more frequently in BYETTA-treated patients compared with placebo-treated patients.
+
+
+
+ Table 4: Treatment-Emergent Adverse Reactions &gt;=2% Incidence with BYETTA used with a Thiazolidinedione (TZD), with or without Metformin (MET) (excluding Hypoglycemia)* 
+   With a TZD or TZD/MET                                  Placebo    N = 112    %      All BYETTA BID    N = 121    %     
+  
+ * In a 16-week placebo-controlled clinical trial.       
+ BID = twice daily.                                      
+  
+  Nausea                                                 15                40                                
+  Vomiting                                               1                 13                                
+  Dyspepsia                                              1                 7                                 
+  Diarrhea                                               3                 6                                 
+  Gastroesophageal Reflux Disease                        0                 3                                 
+         Adverse reactions reported in &gt;=1.0% to &lt;2.0% of patients receiving BYETTA and reported more frequently than with placebo included decreased appetite. Chills (n=4) and injection-site reactions (n=2) occurred only in BYETTA-treated patients. The two patients who reported an injection-site reaction had high titers of antibodies to exenatide. Two serious adverse events (chest pain and chronic hypersensitivity pneumonitis) were reported in the BYETTA arm. No serious adverse events were reported in the placebo arm.
+ 
+
+ The most common adverse reactions leading to withdrawal for BYETTA-treated patients were nausea (9%) and vomiting (5%). For placebo-treated patients, &lt;1% withdrew due to nausea.
+
+
+
+     Add-On to Insulin Glargine with or without Metformin and/or Thiazolidinedione (Placebo-Controlled)  
+
+  For the 30-week placebo-controlled study of BYETTA as add-on to insulin glargine with or without oral antihyperglycemic medications, Table 5 summarizes adverse reactions (excluding hypoglycemia) occurring with an incidence &gt;=2% and occurring more frequently in BYETTA-treated patients compared with placebo-treated patients.
+
+
+
+ Table 5: Treatment-Emergent Adverse Reactions &gt;=2% Incidence with BYETTA used with Insulin Glargine with or without Oral Antihyperglycemic Medications (excluding Hypoglycemia)* 
+   With Insulin Glargine                                  Placebo    N = 122    %      All BYETTA BID    N = 137    %     
+  
+ * In a 30-week placebo-controlled clinical trial.       
+ BID = twice daily.                                      
+  
+  Nausea                                                 8                 41                                
+  Vomiting                                               4                 18                                
+  Diarrhea                                               8                 18                                
+  Headache                                               4                 14                                
+  Constipation                                           2                 10                                
+  Dyspepsia                                              2                 7                                 
+  Asthenia                                               1                 5                                 
+  Abdominal Distension                                   1                 4                                 
+  Decreased Appetite                                     0                 3                                 
+  Flatulence                                             1                 2                                 
+  Gastroesophageal Reflux Disease                        1                 2                                 
+         The most frequently reported adverse reactions leading to withdrawal for BYETTA-treated patients were nausea (5.1%) and vomiting (2.9%). No placebo-treated patients withdrew due to nausea or vomiting.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following additional adverse reactions have been reported during postapproval use of BYETTA. Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Allergy/Hypersensitivity:  injection-site reactions, generalized pruritus and/or urticaria, macular or papular rash, angioedema, anaphylactic reaction [see    Warnings and Precautions (5.7)    ].
+
+
+
+   Drug Interactions:  International normalized ratio (INR) increased with concomitant warfarin use sometimes associated with bleeding [see    Drug Interactions (7.2)    ].
+
+
+
+   Gastrointestinal:  nausea, vomiting, and/or diarrhea resulting in dehydration; abdominal distension, abdominal pain, eructation, constipation, flatulence, acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death [see    Indications and Usage (1.2)    and    Warnings and Precautions (5.2)    ].
+
+
+
+   Neurologic:  dysgeusia; somnolence
+
+
+
+   Renal and Urinary Disorders:  altered renal function, including increased serum creatinine, renal impairment, worsened chronic renal failure or acute renal failure (sometimes requiring hemodialysis), kidney transplant and kidney transplant dysfunction [see    Warnings and Precautions (5.4)    ].
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  alopecia
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Never share a BYETTA pen between patients, even if the needle is changed (  5.1  ). 
+ *    Pancreatitis: Postmarketing reports with exenatide, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. Discontinue BYETTA promptly. BYETTA should not be restarted. Consider other antidiabetic therapies in patients with a history of pancreatitis (  5.2  ). 
+ *    Hypoglycemia: Increased risk when BYETTA is used in combination with medications known to cause hypoglycemia (e.g., insulin or insulin secretagogue). Consider reducing the dose of insulin or insulin secretagogue (  5.3  ). 
+ *    Renal Impairment: Postmarketing reports with exenatide, sometimes requiring hemodialysis and kidney transplantation. BYETTA should not be used in patients with severe renal impairment or end-stage renal disease and should be used with caution in patients with renal transplantation. Caution should be applied when initiating BYETTA or escalating the dose of BYETTA in patients with moderate renal failure (  5.4  ,  8.6  ,  12.3  ). 
+ *    Severe Gastrointestinal Disease: Use of BYETTA is not recommended in patients with severe gastrointestinal disease (e.g., gastroparesis) (  5.5  ). 
+ *    Hypersensitivity: Postmarketing reports with exenatide of hypersensitivity reactions (e.g., anaphylaxis and angioedema). The patient should discontinue BYETTA and other suspect medications and promptly seek medical advice (  5.7  ). 
+ *    Macrovascular outcomes: There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with BYETTA or any other antidiabetic drug (  5.8  ). 
+    
+ 
+
+    5.1 Never Share a BYETTA Pen Between Patients  
+
+
+
+   BYETTA pens must never be shared between patients, even if the needle is changed. Pen-sharing poses a risk for transmission of blood-borne pathogens.  
+
+
+
+    5.2 Acute Pancreatitis
+
+
+
+   Based on postmarketing data, BYETTA has been associated with acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. After initiation of BYETTA, and after dose increases, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting). If pancreatitis is suspected, BYETTA should promptly be discontinued and appropriate management should be initiated. If pancreatitis is confirmed, BYETTA should not be restarted. Consider antidiabetic therapies other than BYETTA in patients with a history of pancreatitis.  
+
+
+
+    5.3 Use with Medications Known to Cause Hypoglycemia
+
+
+
+  The risk of hypoglycemia is increased when BYETTA is used in combination with a sulfonylurea. Therefore, patients receiving BYETTA and a sulfonylurea may require a lower dose of the sulfonylurea to reduce the risk of hypoglycemia.
+
+
+
+ When BYETTA is used in combination with insulin, the dose of insulin should be evaluated. In patients at increased risk of hypoglycemia consider reducing the dose of insulin [see   Adverse Reactions (6.1)    ]. The concurrent use of BYETTA with prandial insulin has not been studied and cannot be recommended. It is also possible that the use of BYETTA with other glucose-independent insulin secretagogues (e.g., meglitinides) could increase the risk of hypoglycemia.
+
+
+
+ For additional information on glucose-dependent effects see   Mechanism of Action (12.1)    .
+
+
+
+    5.4 Renal Impairment
+
+
+
+  BYETTA should not be used in patients with severe renal impairment (creatinine clearance &lt;30 mL/min) or end-stage renal disease and should be used with caution in patients with renal transplantation [see   Use in Specific Populations (8.6)    ]. In patients with end-stage renal disease receiving dialysis, single doses of BYETTA 5 mcg were not well tolerated due to gastrointestinal side effects. Because BYETTA may induce nausea and vomiting with transient hypovolemia, treatment may worsen renal function. Caution should be applied when initiating or escalating doses of BYETTA from 5 to 10 mcg in patients with moderate renal impairment (creatinine clearance 30-50 mL/min).
+
+
+
+ There have been postmarketing reports of altered renal function, including increased serum creatinine, renal impairment, worsened chronic renal failure and acute renal failure, sometimes requiring hemodialysis or kidney transplantation. Some of these events occurred in patients receiving one or more pharmacologic agents known to affect renal function or hydration status, such as angiotensin converting enzyme inhibitors, nonsteroidal anti-inflammatory drugs, or diuretics. Some events occurred in patients who had been experiencing nausea, vomiting, or diarrhea, with or without dehydration. Reversibility of altered renal function has been observed in many cases with supportive treatment and discontinuation of potentially causative agents, including BYETTA. Exenatide has not been found to be directly nephrotoxic in preclinical or clinical studies.
+
+
+
+    5.5 Gastrointestinal Disease
+
+
+
+  BYETTA has not been studied in patients with severe gastrointestinal disease, including gastroparesis. Because BYETTA is commonly associated with gastrointestinal adverse reactions, including nausea, vomiting, and diarrhea, the use of BYETTA is not recommended in patients with severe gastrointestinal disease.
+
+
+
+    5.6 Immunogenicity
+
+
+
+  Patients may develop antibodies to exenatide following treatment with BYETTA. Antibody levels were measured in 90% of subjects in the 30-week, 24-week, and 16-week placebo-controlled studies and the 30-week comparator-controlled study of BYETTA. In 3%, 4%, 1%, and 1% of these patients, respectively, antibody formation was associated with an attenuated glycemic response. If there is worsening glycemic control or failure to achieve targeted glycemic control, alternative antidiabetic therapy should be considered [see   Adverse Reactions (6.1)    ].
+
+
+
+    5.7 Hypersensitivity
+
+
+
+  There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylaxis and angioedema) in patients treated with BYETTA. If a hypersensitivity reaction occurs, the patient should discontinue BYETTA and other suspect medications and promptly seek medical advice [see   Adverse Reactions (6.2)    ].
+
+
+
+    5.8 Macrovascular Outcomes
+
+
+
+  There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with BYETTA or any other antidiabetic drug.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

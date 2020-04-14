@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tagrisso" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ Interstitial Lung Disease/Pneumonitis  [see      Warnings and Precautions (5.1)      ]  
+
+
+
+ QTc Interval Prolongation  [see      Warnings and Precautions (5.2)      ]  
+
+
+
+   EXCERPT:   Most common adverse reactions (&gt;=25%) were diarrhea, rash, dry skin, and nail toxicity. (  6.1  )
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 or www.TAGRISSO.com or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to TAGRISSO (80 mg daily) in 411 patients with EGFR T790M mutation-positive non-small cell lung cancer who received prior EGFR TKI therapy, in two single arm studies, Study 1 and Study 2. Patients with a past medical history of ILD or radiation pneumonitis that required steroid treatment, serious arrhythmia or baseline QTc interval greater than 470 ms were excluded from Study 1 and Study 2. Baseline patient and disease characteristics were: median age 63 years, 13% of patients were &gt;=75 years old, female (68%), White (36%), Asian (60%), metastatic (96%), sites of brain metastases (39%), World Health Organization (WHO) performance status of 0 (37%) or 1 (63%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naive (31%)], 2 or more prior lines of therapy (69%). Of the 411 patients, 333 patients were exposed to TAGRISSO for at least 6 months; 97 patients were exposed for at least 9 months; however no patient was exposed to TAGRISSO for 12 months.
+
+
+
+ In Studies 1 and 2, the most common (&gt;20%) adverse reactions (all grades) observed in TAGRISSO-treated patients were diarrhea (42%), rash (41%), dry skin (31%), and nail toxicity (25%). Dose reductions occurred in 4.4% of patients treated with TAGRISSO. The most frequent adverse reactions that led to dose reductions or interruptions were: electrocardiogram QTc prolonged (2.2%) and neutropenia (1.9%). Serious adverse reactions reported in 2% or more patients were pneumonia and pulmonary embolus. There were 4 patients (1%) treated with TAGRISSO who developed fatal adverse reactions of ILD/pneumonitis. Other fatal adverse reactions occurring in more than 1 patient included pneumonia (4 patients) and CVA/cerebral hemorrhage (2 patients). Discontinuation of therapy due to adverse reactions occurred in 5.6% of patients treated with TAGRISSO. The most frequent adverse reactions that led to discontinuation were ILD/pneumonitis and cerebrovascular accidents/infarctions.
+
+
+
+ Tables 2 and 3 summarize the common adverse reactions and laboratory abnormalities observed in TAGRISSO-treated patients.
+
+
+
+ Table 2 Adverse Reactions (&gt;10% for all NCI CTCAE* Grades or &gt;2% for Grades 3-4) in Study 1 and Study 2 
+ * NCI CTCAE v4.0.  a  Includes cases reported within the clustered terms for rash adverse events: Rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneform dermatitis.  b  Includes dry skin, eczema, skin fissures, xerosis.  c  Includes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, onychoclasis, onycholysis, onychomadesis, paronychia.  d  Includes dry eye, vision blurred, keratitis, cataract, eye irritation, blepharitis, eye pain, lacrimation increased, vitreous floaters. Other ocular toxicities occurred in &lt;1% of patients.  e  Includes deep vein thrombosis, jugular venous thrombosis, and pulmonary embolism.  f  No grade 4 events have been reported.   
+  
+  Adverse Reaction               TAGRISSO  N=411    
+  All Grades                     Grade 3-4f      
+  %                              %               
+  Gastrointestinal disorders                                    
+                                Diarrhea                      
+                                                                42              1.0            
+                                Nausea                        
+                                                                17              0.5            
+                                Decreased appetite            
+                                                                16              0.7            
+                                Constipation                  
+                                                                15              0.2            
+                                Stomatitis                    
+                                                                12              0              
+  Skin disorders                                                
+                                Rash  a                       
+                                                                41              0.5            
+                                Dry skin  b                   
+                                                                31              0              
+                                Nail toxicity  c              
+                                                                25              0              
+                                Pruritus                      
+                                                                14              0              
+  Eye Disordersd                 18              0.2            
+  Respiratory                                                   
+                                Cough                         
+                                                                14              0.2            
+  General                                                       
+                                Fatigue                       
+                                                                14              0.5            
+  Musculoskeletal                                               
+                                Back pain                     
+                                                                13              0.7            
+  Central Nervous System                                        
+                                Headache                      
+                                                                10              0.2            
+  Infections                                                    
+                                Pneumonia                     
+                                                                4               2.2            
+  Vascular events                                               
+                                Venous thromboembolism  e     
+                                                                7               2.4            
+         Additional clinically significant adverse reactions occurring in 2% or more of patients treated with TAGRISSO included cerebrovascular accident (2.7%).
+ 
+
+ Table 3 Common Laboratory Abnormalities (&gt;20% for all NCI CTCAE Grades) in Study 1 and Study 2 
+   a  The only grade 4 laboratory abnormality was 1 patient with grade 4 thrombocytopenia.   
+  
+  Laboratory Abnormality         TAGRISSO  N=411           
+  Change from Baseline All Grades  (%)    Change from Baseline  to Grade 3 or Grade 4  (%)a    
+  Clinical Chemistry                                                                  
+                                Hyponatremia                  
+                                                                26                        3.4                        
+                                Hypermagnesemia               
+                                                                20                        0.7                        
+  Hematologic                                                                         
+                                Lymphopenia                   
+                                                                63                        3.3                        
+                                Thrombocytopenia              
+                                                                54                        1.2a                       
+                                Anemia                        
+                                                                44                        0.2                        
+                                Neutropenia                   
+                                                                33                        3.4                        
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Interstitial Lung Disease (ILD)/Pneumonitis : Occurred in 3.3% of patients. Permanently discontinue TAGRISSO in patients diagnosed with ILD/Pneumonitis. (  5.1  ) 
+ *     QTc Interval Prolongation : Monitor electrocardiograms and electrolytes in patients who have a history or predisposition for QTc prolongation, or those who are taking medications that are known to prolong the QTc interval. Withhold then restart at a reduced dose or permanently discontinue TAGRISSO. (  2.4  ,  5.2  ) 
+ *     Cardiomyopathy : Occurred in 1.4% of patients. Assess left ventricular ejection fraction (LVEF) before treatment and then every 3 months thereafter. (  2.4  ,  5.3  ) 
+ *     Embryo-Fetal Toxicity : TAGRISSO can cause fetal harm. Advise females of potential risk to the fetus and to use effective contraception during treatment with TAGRISSO and for 6 weeks after final dose. Advise males to use effective contraception for 4 months, after the last dose of TAGRISSO. (  5.3  ,  8.1  ,  8.3  ) 
+    
+ 
+
+   5.1 Interstitial Lung Disease/Pneumonitis
+
+
+
+  Across clinical trials, interstitial lung disease (ILD)/pneumonitis occurred in 3.3% (n=27) of TAGRISSO treated patients (n=813); 0.5% (n=4) were fatal.
+
+
+
+ Withhold TAGRISSO and promptly investigate for ILD in any patient who presents with worsening of respiratory symptoms which may be indicative of ILD (e.g., dyspnea, cough and fever). Permanently discontinue TAGRISSO if ILD is confirmed [see     Dosage and Administration (2.4)     and  Adverse Reactions (6)  ]  .
+
+
+
+    5.2 QTc Interval Prolongation
+
+
+
+  The heart rate-corrected QT (QTc) interval prolongation occurs in patients treated with TAGRISSO. Of the 411 patients in Study 1 and Study 2, one patient (0.2%) was found to have a QTc greater than 500 msec, and 11 patients (2.7%) had an increase from baseline QTc greater than 60 msec [see  Clinical Pharmacology (12.2)  ].  
+
+
+
+ In Study 1 and 2, patients with baseline QTc of 470 msec or greater were excluded. Conduct periodic monitoring with ECGs and electrolytes in patients with congenital long QTc syndrome, congestive heart failure, electrolyte abnormalities, or those who are taking medications known to prolong the QTc interval. Permanently discontinue TAGRISSO in patients who develop QTc interval prolongation with signs/symptoms of life threatening arrhythmia [see  Dosage and Administration (2.4)  ].  
+
+
+
+    5.3 Cardiomyopathy
+
+
+
+  Across clinical trials, cardiomyopathy (defined as cardiac failure, pulmonary edema, ejection fraction decreased or stress cardiomyopathy) occurred in 1.4% (n=11) of TAGRISSO treated patients (n=813); 0.2% (n=2) were fatal.
+
+
+
+ In Study 1 and Study 2, Left Ventricular Ejection Fraction (LVEF) decline &gt;10% and a drop to &lt;50% occurred in 2.4% (9/375) of patients who had baseline and at least one follow up LVEF assessment.
+
+
+
+ Assess LVEF by echocardiogram or multigated acquisition (MUGA) scan before initiation of TAGRISSO and then at 3 month intervals while on treatment. Withhold treatment with TAGRISSO if ejection fraction decreases by 10% from pretreatment values and is less than 50%. For symptomatic congestive heart failure or persistent, asymptomatic LV dysfunction that does not resolve within 4 weeks, permanently discontinue TAGRISSO [see  Dosage and Administration (2.4)  ]  .
+
+
+
+    5.4 Embryo-Fetal Toxicity
+
+
+
+  Based on data from animal studies and its mechanism of action, TAGRISSO can cause fetal harm when administered to a pregnant woman. In animal reproduction studies, osimertinib caused post-implantation fetal loss when administered during early development at a dose exposure 1.5 times the exposure at the recommended human dose. When males were treated prior to mating with untreated females, there was an increase in preimplantation embryonic loss at plasma exposures of approximately 0.5-times those observed in patients at the 80 mg dose level.
+
+
+
+ Advise pregnant women of the potential risk to a fetus.
+
+
+
+ Advise females of reproductive potential to use effective contraception during treatment with TAGRISSO and for 6 weeks after the final dose. Advise males with female partners of reproductive potential to use effective contraception for 4 months after the final dose [see     Use in Specific Populations (8.1)     ,     (8.3)     and  Clinical Pharmacology (12.3)  ].  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

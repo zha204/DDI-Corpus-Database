@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dantrolene" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently occurring side effects of  dantrolene sodium  have been drowsiness, dizziness, weakness, general malaise, fatigue, and diarrhea. These are generally transient, occurring early in treatment, and can often be obviated by beginning with a low dose and increasing dosage gradually until an optimal regimen is established. Diarrhea may be severe and may necessitate temporary withdrawal of  dantrolene sodium  therapy. If diarrhea recurs upon readministration of  dantrolene sodium  , therapy should probably be withdrawn permanently.
+
+
+
+ Other less frequent side effects, listed according to system, are:
+
+
+
+   Gastrointestinal:  Constipation, rarely progressing to signs of intestinal obstruction, GI bleeding, anorexia, swallowing difficulty, gastric irritation, abdominal cramps, nausea and/or vomiting.
+
+
+
+   Hepatobiliary:  Hepatitis (see    WARNINGS    ).
+
+
+
+   Neurologic:  Speech disturbance, seizure, headache, light-headedness, visual disturbance, diplopia, alteration of taste, insomnia, drooling.
+
+
+
+   Cardiovascular:  Tachycardia, erratic blood pressure, phlebitis, heart failure.
+
+
+
+   Hematologic:  Aplastic anemia, anemia, leukopenia, lymphocytic lymphoma, thrombocytopenia.
+
+
+
+   Psychiatric:  Mental depression, mental confusion, increased nervousness.
+
+
+
+   Urogenital:  Increased urinary frequency, crystalluria, hematuria, difficult erection, urinary incontinence and/or nocturia, difficult urination and/or urinary retention.
+
+
+
+   Integumentary:  Abnormal hair growth, acne-like rash, pruritus, urticaria, eczematoid eruption, sweating.
+
+
+
+   Musculoskeletal:  Myalgia, backache.
+
+
+
+   Respiratory:  Feeling of suffocation, respiratory depression.
+
+
+
+   Special Senses:  Excessive tearing.
+
+
+
+   Hypersensitivity:  Pleural effusion with pericarditis, pleural effusion with associated eosinophilia, anaphylaxis.
+
+
+
+   Other:  Chills and fever.
+
+
+
+ The published literature has included some reports of  dantrolene sodium  use in patients with Neuroleptic Malignant Syndrome (NMS).  Dantrolene sodium  capsules are not indicated for the treatment of NMS and patients may expire despite treatment with  dantrolene sodium  capsules.
+
+
+
+   For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+    Dantrolene sodium   has a potential for hepatotoxicity, and should not be used in conditions other than those recommended.  Symptomatic hepatitis (fatal and non-fatal) has been reported at various dose levels of the drug.  The incidence reported in patients taking up to 400 mg/day is much lower than in those taking doses of 800 mg or more per day.  Even sporadic short courses of these higher dose levels within a treatment regimen markedly increased the risk of serious hepatic injury.  Liver dysfunction as evidenced by blood chemical abnormalities alone (liver enzyme elevations) has been observed in patients exposed to   dantrolene sodium   for varying periods of time.  Overt hepatitis has occurred at varying intervals after initiation of therapy, but has been most frequently observed between the third and twelfth month of therapy.  The risk of hepatic injury appears to be greater in females, in patients over 35 years of age, and in patients taking other medication(s) in addition to   dantrolene sodium  .   Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving   dantrolene sodium  .  However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (see   Geriatric Use   subsection).    Dantrolene sodium   should be used only in conjunction with appropriate monitoring of hepatic function including frequent determination of SGOT or SGPT.  If no observable benefit is derived from the administration of   dantrolene sodium   after a total of 45 days, therapy should be discontinued.  The lowest possible effective dose for the individual patient should be prescribed.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

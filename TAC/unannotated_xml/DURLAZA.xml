@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="durlaza" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+     EXCERPT:    *  Most common adverse reactions are Gastrointestinal  (6)   
+      To report SUSPECTED ADVERSE REACTIONS, contact New Haven Pharmaceuticals at (877) 824-2483 or   www.newhavenpharma.com       or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch      .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  The following is a list of adverse reactions that have been reported in the literature for products containing low dose aspirin  [see  Warnings and Precautions (5)  ]  .
+
+
+
+   Central Nervous System:    Agitation, cerebral edema, coma, confusion, dizziness, headache, lethargy, seizures.
+
+
+
+   Fluid and Electrolyte:    Hyperkalemia, metabolic acidosis, respiratory alkalosis.
+
+
+
+   Gastrointestinal:    Dyspepsia, hepatic enzyme elevation, hepatitis, Reye's Syndrome.
+
+
+
+   Renal:    Interstitial nephritis, papillary necrosis, proteinuria, renal insufficiency and failure.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:    *  Increased risk of bleeding.  (5.1)   
+ *  DURLAZA can cause gastric mucosal irritation and bleeding. Patients with a history of active peptic ulcer disease are at particular risk.  (5.2)   
+ *  DURLAZA can cause fetal harm when administered to a pregnant woman.  (5.3,    8.1)   
+    
+ 
+
+   5.1 Risk of Bleeding
+
+
+
+  DURLAZA increases the risk of bleeding. Risk factors for bleeding include the use of other drugs that increase the risk of bleeding (e.g., anticoagulants, antiplatelet agents, and chronic use of NSAIDs) [see  Drug Interactions (7)  ].  
+
+
+
+    5.2 Peptic Ulcer Disease
+
+
+
+  DURLAZA may cause gastric ulceration and bleeding. Avoid DURLAZA in patients with active peptic ulcer disease.
+
+
+
+    5.3 Fetal Toxicity
+
+
+
+  DURLAZA can cause fetal harm when administered to a pregnant woman. Maternal aspirin use during later stages of pregnancy may cause low birth weight, increased incidence for intracranial hemorrhage in premature infants, stillbirths and neonatal death.  Because NSAIDs may cause premature closure of the fetal ductus arteriosus, avoid DURLAZA in the third trimester of pregnancy [see  Use in Specific Populations (8.1)  ].  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="metastron" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  A single case of fatal septicemia following leukopenia was reported during clinical trials. Most severe reactions of marrow toxicity can be managed by conventional means.
+
+
+
+ A small number of patients have reported a transient increase in bone pain at 36 to 72 hours after injection. This is usually mild and self-limiting, and controllable with analgesics. A single patient reported chills and fever 12 hours after injection without long-term sequelae.
+
+
+
+ Additional postmarketing reactions include the following: hot flush.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="corlopam" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+      Adult Patients:    Fenoldopam causes a dose-related fall in blood pressure and increase in heart rate (see Precautions, Tachycardia, and Hypotension). In controlled clinical studies of severe hypertension in patients with end-organ damage, 3% (4/137) of patients withdrew because of excessive falls in blood pressure. Increased heart rate could, in theory, lead to ischemic cardiac events or worsened heart failure, although these events have not been observed. The most common events reported as associated with fenoldopam use are headache, cutaneous dilation (flushing), nausea, and hypotension, each reported in more than 5% of patients.
+
+
+
+     Adverse reactions in controlled trials in hypertensive adult patients    
+
+
+
+ Adverse events occurring more than once in any dosing group (once if potentially important or plausibly drug-related) in the fixed-dose constant-infusion studies are presented in the following Table by infusion-rate group. There was no clear dose relationship, except possibly for headache, nausea, flushing.
+
+
+
+ Table 4 ADVERSE EVENTS* FROM FIXED-DOSE INFUSION STUDIES BY DOSAGE GROUP 
+  Body System                                                                   Fenoldopam Dosage (mcg/kg/min)(Adults)    
+  Event                      Placebo  (n = 7)           0.01  (n = 26)             0.03 to 0.04  (n = 31)     0.1  (n = 28)              0.3 to 0.4  (n = 29)       0.6 to 0.8  (n = 11)       
+  Body, General              Headache                   1                          5                          4                          7                          8                          6                          
+  Injection site  reaction    0                          1                          3                          0                          3                          2                          
+  Cardiovascular             ST-T  abnormalities  (primarily T-wave  inversion)    0                          2                          4                          0                          1                          0                          
+  Flushing                   0                          0                          0                          0                          1                          3                          
+  Hypotension**              0                          0                          0                          2                          0                          2                          
+  Postural  hypotension      0                          2                          0                          0                          0                          0                          
+  Tachycardia**              0                          0                          0                          0                          0                          2                          
+  Digestive                  Nausea                     0                          3                          0                          3                          5                          4                          
+  Vomiting                   0                          2                          0                          2                          1                          2                          
+  Abdominal pain/  fullness    0                          2                          0                          0                          2                          1                          
+  Constipation               0                          0                          0                          0                          0                          2                          
+  Diarrhea                   0                          0                          0                          0                          2                          0                          
+  Metabolic and  Nutritional    Increased creatinine**     0                          0                          2                          0                          0                          0                          
+  Hypokalemia**              0                          2                          2                          0                          1                          0                          
+  Nervous                    Nervousness/ anxiety       0                          0                          1                          0                          0                          2                          
+  Insomnia                   0                          2                          0                          0                          0                          0                          
+  Dizziness                  0                          1                          1                          2                          2                          0                          
+  Respiratory                Nasal congestion           0                          0                          0                          0                          0                          2                          
+  Skin and  Appendages       Sweating                   0                          0                          0                          1                          1                          2                          
+  Urogenital                 Urinary tract  infection    0                          2                          0                          1                          0                          0                          
+  Musculoskeletal            Back pain                  0                          1                          0                          1                          2                          2                          
+  *Includes events reported by 2 or more patients receiving fenoldopam treatment across all dose groups. **Investigator defined; no protocol definition.    
+          Adverse effects in overall data base    
+ 
+
+ The adverse event incidences listed below are based on observations of over 1,000 fenoldopam treated adult patients and not listed in Table 4 above.
+
+
+
+     Events reported with a frequency between 0.5 to 5% in patients treated with IV fenoldopam    
+
+
+
+     Cardiovascular:                                   extrasystoles, palpitations, bradycardia, heart failure, ischemic heart disease, myocardial infarction, angina pectoris
+
+
+
+     Metabolic:                                            elevated BUN, elevated serum glucose, elevated transaminase, elevated LDH
+
+
+
+     General Body:                                      non-specific chest pain, pyrexia
+
+
+
+     Hematologic/Lymphatic:                      leukocytosis, bleeding
+
+
+
+     Respiratory:                                          dyspnea, upper respiratory disorder
+
+
+
+     Genitourinary:                                     oliguria
+
+
+
+     Musculoskeletal:                                   limb cramp
+
+
+
+     Pediatric Patients:     In pediatric patients, the most common adverse events reported during short-term administration in controlled trials (30 minutes) were hypotension and tachycardia. However, because of the short exposure, there is limited experience with defining adverse events in children. The long-term effects of fenoldopam on growth and development have not been studied.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d457">
+    <sentence id="DDI-DrugBank.d457.s0" text="Barbiturates may decrease the effectiveness of oral contraceptives, certain antibiotics, quinidine, theophylline, corticosteroids, anticoagulants, and beta blockers.">
+        <entity id="DDI-DrugBank.d457.s0.e0" charOffset="0-11"
+            type="group" text="Barbiturates"/>
+        <entity id="DDI-DrugBank.d457.s0.e1" charOffset="52-65"
+            type="group" text="contraceptives"/>
+        <entity id="DDI-DrugBank.d457.s0.e2" charOffset="76-86"
+            type="group" text="antibiotics"/>
+        <entity id="DDI-DrugBank.d457.s0.e3" charOffset="89-97"
+            type="drug" text="quinidine"/>
+        <entity id="DDI-DrugBank.d457.s0.e4" charOffset="100-111"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d457.s0.e5" charOffset="114-128"
+            type="group" text="corticosteroids"/>
+        <entity id="DDI-DrugBank.d457.s0.e6" charOffset="131-144"
+            type="group" text="anticoagulants"/>
+        <entity id="DDI-DrugBank.d457.s0.e7" charOffset="151-163"
+            type="group" text="beta blockers"/>
+        <ddi id="DDI-DrugBank.d457.s0.d0" e1="DDI-DrugBank.d457.s0.e0"
+            e2="DDI-DrugBank.d457.s0.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d457.s0.d1" e1="DDI-DrugBank.d457.s0.e0"
+            e2="DDI-DrugBank.d457.s0.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d457.s0.d2" e1="DDI-DrugBank.d457.s0.e0"
+            e2="DDI-DrugBank.d457.s0.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d457.s0.d3" e1="DDI-DrugBank.d457.s0.e0"
+            e2="DDI-DrugBank.d457.s0.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d457.s0.d4" e1="DDI-DrugBank.d457.s0.e0"
+            e2="DDI-DrugBank.d457.s0.e5" type="effect"/>
+        <ddi id="DDI-DrugBank.d457.s0.d5" e1="DDI-DrugBank.d457.s0.e0"
+            e2="DDI-DrugBank.d457.s0.e6" type="effect"/>
+        <ddi id="DDI-DrugBank.d457.s0.d6" e1="DDI-DrugBank.d457.s0.e0"
+            e2="DDI-DrugBank.d457.s0.e7" type="effect"/>
+    </sentence>
+</document>

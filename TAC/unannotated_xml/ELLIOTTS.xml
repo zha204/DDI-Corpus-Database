@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="elliotts" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions may occur with any given intrathecal injection due to the chemotherapy or the technique of intrathecal administration.  (See product labeling for methotrexate sodium and cytarabine.)
+
+
+
+ 
+
+
+
+ Preservative-free methotrexate sodium and cytarabine should be used to minimize adverse reactions due to preservatives.
+
+
+
+ 
+
+
+
+ If an adverse reaction does occur, discontinue the administration, evaluate the patient, institute appropriate therapeutic countermeasures and, if possible, save the remainder of the unused solution(s) for examination.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

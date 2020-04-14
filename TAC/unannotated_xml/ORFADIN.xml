@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="orfadin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  High Plasma Tyrosine Levels [see Warnings and Precautions (  5.1  )]  
+      EXCERPT:   Most common adverse reactions (incidence &gt;2%) are hepatic neoplasm, liver failure, thrombocytopenia, leucopenia, visual system complaints including conjunctivitis, corneal opacity, keratitis, and photophobia. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Swedish Orphan Biovitrum at 1-866-773-5274 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ ORFADIN was studied in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 21.7 years at enrollment (median age 9 months), who were diagnosed with HT-1 by the presence of succinylacetone in the urine or plasma. The starting dose of ORFADIN was 0.6 to 1 mg/kg/day, and the dose was increased in some patients to 2 mg/kg/day based on weight, biochemical, and enzyme markers. Median duration of treatment was 22.2 months (range 0.1 to 80 months).
+
+
+
+ The most serious adverse reactions reported during ORFADIN treatment were thrombocytopenia, leucopenia, porphyria, and ocular/visual complaints associated with elevated tyrosine levels  [see Warnings and Precautions (  5  )]  . Most patients with ocular/visual events had transient symptoms lasting less than one week, while 6 patients had symptoms lasting 16 to 672 days. Six patients had thrombocytopenia, with platelet counts 30,000/uL or lower in 3 patients. In 4 patients with thrombocytopenia, platelet counts returned to normal without change in ORFADIN dose. In 2 patients platelet count returned to normal 2 weeks to 5 months after ORFADIN treatment was discontinued. No patients developed infections or bleeding as a result of the episodes of leucopenia and thrombocytopenia.
+
+
+
+ Other serious adverse events reported during ORFADIN treatment were hepatic neoplasm, liver failure, and porphyric crises. Patients with hereditary tyrosinemia type 1 are at increased risk of developing porphyric crises, hepatic neoplasms, and liver failure requiring liver transplantation. These complications of HT-1 were observed in patients treated with nitisinone for a median of 22 months during the clinical trial (liver transplantation 13%, liver failure 7%, malignant hepatic neoplasms 5%, benign hepatic neoplasms 3%, porphyria 0.5%). Regular monitoring for these complications by hepatic imaging (ultrasound, computerized tomography, magnetic resonance imaging) and laboratory tests, including serum alpha-fetoprotein concentration is recommended. Patients with increasing alpha-fetoprotein levels or development of liver nodules during treatment with nitisinone should be evaluated for hepatic malignancy.
+
+
+
+ The most common adverse reactions reported in the clinical trial are summarized in  Table 1  .
+
+
+
+ TABLE 1 Adverse Reactions Reported in 207 Patients During an Open-Label, Uncontrolled Trial 
+   ADVERSE REACTION                                                                                       
+   LIVER and BILIARY SYSTEM                                                                               
+      Hepatic neoplasm                                                        8%                          
+      Liver failure                                                           7%                          
+   VISUAL SYSTEM                                                                                          
+      Conjunctivitis                                                          2%                          
+      Corneal opacity                                                         2%                          
+      Keratitis                                                               2%                          
+      Photophobia                                                             2%                          
+      Blepharitis                                                             1%                          
+      Eye pain                                                                1%                          
+      Cataracts                                                               1%                          
+   HEMIC and LYMPHATIC SYSTEM                                                                             
+      Thrombocytopenia                                                        3%                          
+      Leucopenia                                                              3%                          
+      Granulocytopenia                                                        1%                          
+      Porphyria                                                               1%                          
+      Epistaxis                                                               1%                          
+   SKIN and APPENDAGES                                                                                    
+      Pruritis                                                                1%                          
+      Exfoliative dermatitis                                                  1%                          
+      Dry skin                                                                1%                          
+      Maculopapular rash                                                      1%                          
+      Alopecia                                                                1%                          
+        Adverse reactions reported in less than 1% of the patients, regardless of causality assessment, included death, seizure, brain tumor, encephalopathy, headache, hyperkinesia, cyanosis, abdominal pain, diarrhea, enanthema, gastritis, gastroenteritis, gastrointestinal hemorrhage, melena, tooth discoloration, hepatic function disorder, elevated hepatic enzymes, liver enlargement, dehydration, hypoglycemia, thirst, infection, septicemia, otitis, infection (not otherwise specified), bronchitis, respiratory insufficiency, pathologic fracture, amenorrhea, nervousness, and somnolence.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Inadequate restriction of tyrosine and phenylalanine intake can lead to elevations in plasma tyrosine, which at levels above 500 mumol/L can result in ocular or other complications. (  5.1  ) 
+ *  Do not adjust ORFADIN dosage in order to lower the plasma tyrosine concentration. (  5.1  ) 
+ *  Leucopenia and thrombocytopenia have been observed with treatment with ORFADIN. Monitor platelet and white blood cell counts regularly during ORFADIN therapy. (  5.2  ) 
+    
+ 
+
+   5.1 High Plasma Tyrosine Levels
+
+
+
+  ORFADIN is an inhibitor of 4-hydroxyphenyl-pyruvate dioxygenase, an enzyme in the tyrosine metabolic pathway [ see Clinical Pharmacology (  12  )  ]. Therefore, treatment with ORFADIN may cause an increase in blood tyrosine in patients with HT-1, and patients should maintain concomitant reduction in dietary tyrosine and phenylalanine while on ORFADIN treatment. Plasma tyrosine levels should be maintained below 500 mumol/L. Inadequate restriction of tyrosine and phenylalanine intake may increase blood tyrosine levels and may be associated with blood tyrosine levels greater than 500 mumol/L leading to the following:
+
+
+
+ *  Ocular signs and symptoms including corneal ulcers, corneal opacities, keratitis, conjunctivitis, eye pain, and photophobia have been reported in patients treated with ORFADIN [see Adverse Reactions (  6  )] . Therefore, ophthalmologic examination including slit-lamp examination should be performed prior to initiating ORFADIN treatment. Patients who develop photophobia, eye pain, or signs of inflammation such as redness, swelling, or burning of the eyes during treatment with ORFADIN should undergo slit-lamp reexamination and immediate measurement of the plasma tyrosine concentration. 
+ *  Variable degrees of mental retardation and developmental delay. In patients treated with ORFADIN who exhibit an abrupt change in neurologic status, a clinical laboratory assessment including plasma tyrosine levels should be performed. 
+ *  Painful hyperkeratotic plaques on the soles and palms. 
+    In patients with HT-1 treated with dietary restrictions and ORFADIN who develop elevated plasma tyrosine levels, an assessment of dietary tyrosine intake should be performed.
+ 
+
+    5.2 Leucopenia and Severe Thrombocytopenia
+
+
+
+  In clinical trials, patients treated with ORFADIN and dietary restriction developed transient leucopenia (3%), thrombocytopenia (3%), or both (1.5%) [see Adverse Reactions (  6  )]  . One patient who developed both leucopenia and thrombocytopenia improved after the dose of ORFADIN was decreased from 2 mg/kg to 1 mg/kg. No patients developed infections or bleeding as a result of the episodes of leucopenia and thrombocytopenia. Platelet and white blood cell counts should be monitored regularly during nitisinone therapy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

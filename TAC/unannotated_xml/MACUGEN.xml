@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="macugen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (reported in 10-40% of patients treated with Macugen for up to two years) are anterior chamber inflammation, blurred vision, cataract, conjunctival hemorrhage, corneal edema, eye discharge, eye irritation, eye pain, hypertension, increased intraocular pressure (IOP), ocular discomfort, punctate keratitis, reduced visual acuity, visual disturbance, vitreous floaters, and vitreous opacities (  6.2  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Eyetech Inc. at 1-866-MACUGEN (1-866-622-8436) or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Injection Procedure
+
+  Serious adverse events related to the injection procedure occurring in &lt; 1% of intravitreous injections included endophthalmitis [  see Warnings and Precautions (  5.1  )  ], retinal detachment, and iatrogenic traumatic cataract.
+
+
+
+   6.2 Clinical Studies Experience
+
+  The most frequently reported adverse events in patients treated with Macugen 0.3 mg for up to two years were anterior chamber inflammation, blurred vision, cataract, conjunctival hemorrhage, corneal edema, eye discharge, eye irritation, eye pain, hypertension, increased intraocular pressure (IOP), ocular discomfort, punctate keratitis, reduced visual acuity, visual disturbance, vitreous floaters, and vitreous opacities. These events occurred in approximately 10-40% of patients.
+
+
+
+ The following events were reported in 6-10% of patients receiving Macugen 0.3 mg therapy:
+
+
+
+   Ocular  : blepharitis, conjunctivitis, photopsia, vitreous disorder.  Non-Ocular  : bronchitis, diarrhea, dizziness, headache, nausea, urinary tract infection.
+
+
+
+ The following events were reported in 1-5% of patients receiving Macugen 0.3 mg therapy:
+
+
+
+   Ocular  : allergic conjunctivitis, conjunctival edema, corneal abrasion, corneal deposits, corneal epithelium disorder, endophthalmitis, eye inflammation, eye swelling, eyelid irritation, meibomianitis, mydriasis, periorbital hematoma, retinal edema, vitreous hemorrhage.  Non-Ocular  : arthritis, bone spur, carotid artery occlusion, cerebrovascular accident, chest pain, contact dermatitis, contusion, diabetes mellitus, dyspepsia, hearing loss, pleural effusion, transient ischemic attack, urinary retention, vertigo, vomiting.
+
+
+
+   6.3 Postmarketing Experience
+
+  Anaphylaxis/anaphylactoid reactions, including angioedema, have been identified during postapproval use of Macugen. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure [  see Warnings and Precautions (  5.3  ) and Dosage and Administration (  2.4  )  ].
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Endophthalmitis may occur following intravitreous injections. Proper aseptic injection technique should always be utilized when administering Macugen. Patients should be monitored during the week following the injection (  5.1  ). 
+ *  Increases in intraocular pressure have been seen within 30 minutes of injection of Macugen (  5.2  ). 
+ *  Rare cases of anaphylaxis/anaphylactoid reactions, including angioedema, have been reported in the post-marketing experience (  5.3  ). 
+    
+ 
+
+   5.1 Endophthalmitis
+
+
+
+  Intravitreous injections, including those with Macugen, have been associated with endophthalmitis. Proper aseptic injection technique should always be utilized when administering Macugen. In addition, patients should be monitored during the week following the injection to permit early treatment, should an infection occur [ see Dosage and Administration (  2.4  )  ].
+
+
+
+    5.2 Increases in Intraocular Pressure
+
+
+
+  Increases in intraocular pressure have been seen within 30 minutes of injection with Macugen. Therefore, intraocular pressure as well as the perfusion of the optic nerve head should be monitored and managed appropriately [ see Dosage and Administration (  2.4  )  ].
+
+
+
+    5.3 Anaphylaxis
+
+
+
+  Rare cases of anaphylaxis/anaphylactoid reactions, including angioedema, have been reported in the post-marketing experience following the Macugen intravitreal administration procedure [ see Adverse Events (  6.3  ) and Dosage and Administration (  2.4  )  ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

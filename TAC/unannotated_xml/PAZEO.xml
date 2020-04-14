@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="pazeo" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS SECTION
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.In a randomized, double-masked, vehicle-controlled trial, patients at risk for developing allergic conjunctivitis received one drop of either PAZEO (N=330) or vehicle (N=169) in both eyes for 6 weeks.  The mean age of the population was 32 years (range 2 to 74 years).  Thirty-five percent were male.  Fifty-three percent had brown iris color and 23% had blue iris color.  The most commonly reported adverse reactions occurred in 2-5% of patients treated with either PAZEO or vehicle. These events were blurred vision, dry eye, superficial punctate keratitis, dysgeusia and abnormal sensation in eye.
+
+
+
+   EXCERPT:   The most common adverse reactions (2-5%) were blurred vision, superficial punctate keratitis, dry eye, abnormal sensation in eye, and dysgeusia.  (6)         To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc. at 1-800-757-9195 or FDA at1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS SECTION
+
+
+
+  
+
+
+
+  5.1 Contamination of Tip and Solution  As with any eye drop, care should be taken not to touch the eyelids or surrounding areas with the dropper tip of the bottle to prevent contaminating the tip and solution. Keep bottle tightly closed when not in use.5.2 Contact Lens UsePatients should not wear a contact lens if their eye is red. The preservative in PAZEO solution, benzalkonium chloride, may be absorbed by soft contact lenses. Patients who wear soft contact lenses and whose eyes are not red, should be instructed to wait at least five minutes after instilling PAZEO before they insert their contact lenses.
+ 
+
+   EXCERPT:   Contamination of Tip and Solution.  To prevent contaminating the dropper tip and solution, do not touch the eyelids or surrounding areas with the dropper tip of the bottle.  (5.1)  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="eliquis" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the prescribing information.
+
+
+
+ *  ?  Increased risk of thrombotic events after premature discontinuation [seeWarnings and Precautions (5.1)]  
+ *  ?  Bleeding [seeWarnings and Precautions (5.2)]  
+ *  ?  Spinal/epidural anesthesia or puncture [seeWarnings and Precautions (5.3)]  
+      EXCERPT:   Most common adverse reactions (&gt;1%) are related to bleeding.(6.1)
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb at 1-800-721-5072 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ 
+
+
+
+   Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation
+
+  The safety of ELIQUIS was evaluated in the ARISTOTLE and AVERROES studies  [seeClinical Studies (14)]  , including 11,284 patients exposed to ELIQUIS 5 mg twice daily and 602 patients exposed to ELIQUIS 2.5 mg twice daily. The duration of ELIQUIS exposure was &gt;=12 months for 9375 patients and &gt;=24 months for 3369 patients in the two studies. In ARISTOTLE, the mean duration of exposure was 89 weeks (&gt;15,000 patient-years). In AVERROES, the mean duration of exposure was approximately 59 weeks (&gt;3000 patient-years).
+
+
+
+ The most common reason for treatment discontinuation in both studies was for bleeding-related adverse reactions; in ARISTOTLE this occurred in 1.7% and 2.5% of patients treated with ELIQUIS and warfarin, respectively, and in AVERROES, in 1.5% and 1.3% on ELIQUIS and aspirin, respectively.
+
+
+
+   Bleeding in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE and AVERROES
+
+  Tables 1 and 2 show the number of patients experiencing major bleeding during the treatment period and the bleeding rate (percentage of subjects with at least one bleeding event per 100 patient-years) in ARISTOTLE and AVERROES.
+
+
+
+ Table 1:     Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE* 
+                            ELIQUISN=9088n (per 100 pt-year)  WarfarinN=9052n (per 100 pt-year)  Hazard Ratio(95% CI)  P-value           
+  
+ *  Bleeding events within each subcategory were counted once per subject, but subjects may have contributed events to multiple endpoints. Bleeding events were counted during treatment or within 2 days of stopping study treatment (on-treatment period).       Defined as clinically overt bleeding accompanied by one or more of the following: a decrease in hemoglobin of &gt;=2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal or with fatal outcome.  ?     Intracranial bleed includes intracerebral, intraventricular, subdural, and subarachnoid bleeding. Any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed.  S     On-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14.        GI bleed includes upper GI, lower GI, and rectal bleeding.**  Fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period.   
+  
+  Major                      327 (2.13)             462 (3.09)           0.69 (0.60, 0.80)     &lt;0.0001          
+    Intracranial (ICH)?      52 (0.33)              125 (0.82)           0.41 (0.30, 0.57)     -                
+      Hemorrhagic strokeS    38 (0.24)              74 (0.49)            0.51 (0.34, 0.75)     -                
+      Other ICH              15 (0.10)              51 (0.34)            0.29 (0.16, 0.51)     -                
+    Gastrointestinal (GI)     128 (0.83)             141 (0.93)           0.89 (0.70, 1.14)     -                
+    Fatal**                  10 (0.06)              37 (0.24)            0.27 (0.13, 0.53)     -                
+      Intracranial           4 (0.03)               30 (0.20)            0.13 (0.05, 0.37)     -                
+      Non-intracranial       6 (0.04)               7 (0.05)             0.84 (0.28, 2.15)     -                
+           In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS2score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, and aspirin use at randomization (Figure 1). Subjects treated with apixaban with diabetes bled more (3.0% per year) than did subjects without diabetes (1.9% per year).
+ 
+
+ Figure 1:     Major Bleeding Hazard Ratios by Baseline Characteristics - ARISTOTLE Study
+
+
+
+ Note: The figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were pre-specified, if not the groupings. The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+
+
+ Table 2:      Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in AVERROES 
+                            ELIQUISN=2798n (%/year)  AspirinN=2780n (%/year)  Hazard Ratio(95% CI)  P-value           
+  
+ Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.   
+  
+  Major                      45 (1.41)             29 (0.92)             1.54 (0.96, 2.45)     0.07             
+      Fatal                  5 (0.16)              5 (0.16)              0.99 (0.23, 4.29)     -                
+      Intracranial           11 (0.34)             11 (0.35)             0.99 (0.39, 2.51)     -                
+            ARISTOTLE Major Bleeding Forest Plot   Other Adverse Reactions
+   Hypersensitivity reactions (including drug hypersensitivity, such as skin rash, and anaphylactic reactions, such as allergic edema) and syncope were reported in &lt;1% of patients receiving ELIQUIS.
+
+
+
+   Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+
+  The safety of ELIQUIS has been evaluated in 1 Phase II and 3 Phase III studies including 5924 patients exposed to ELIQUIS 2.5 mg twice daily undergoing major orthopedic surgery of the lower limbs (elective hip replacement or elective knee replacement) treated for up to 38 days.
+
+
+
+ In total, 11% of the patients treated with ELIQUIS 2.5 mg twice daily experienced adverse reactions.
+
+
+
+ Bleeding results during the treatment period in the Phase III studies are shown in Table 3. Bleeding was assessed in each study beginning with the first dose of double-blind study drug.
+
+
+
+ Table 3:     Bleeding During the Treatment Period in Patients Undergoing Elective Hip or Knee Replacement Surgery 
+   Bleeding Endpoint*      ADVANCE-3Hip Replacement Surgery      ADVANCE-2Knee Replacement Surgery      ADVANCE-1Knee Replacement Surgery     
+  
+ *   All bleeding criteria included surgical site bleeding.       Includes 13 subjects with major bleeding events that occurred before the first dose of apixaban (administered 12 to 24 hours post surgery).  ?     Includes 5 subjects with major bleeding events that occurred before the first dose of apixaban (administered 12 to 24 hours post surgery).  S     Intracranial, intraspinal, intraocular, pericardial, an operated joint requiring re-operation or intervention, intramuscular with compartment syndrome, or retroperitoneal. Bleeding into an operated joint requiring re-operation or intervention was present in all patients with this category of bleeding. Events and event rates include one enoxaparin-treated patient in ADVANCE-1 who also had intracranial hemorrhage.        CRNM = clinically relevant nonmajor.   
+  
+                  ELIQUIS2.5 mg po bid35+/-3 days    Enoxaparin 40 mg sc qd 35+/-3 days    ELIQUIS 2.5 mg po bid 12+/-2 days    Enoxaparin 40 mg sc qd 12+/-2 days    ELIQUIS 2.5 mg po bid 12+/-2 days    Enoxaparin 30 mg sc q12h 12+/-2 days    
+  First dose 12 to 24 hours post surgery    First dose 9 to 15 hours prior to surgery    First dose 12 to 24 hours post surgery    First dose 9 to 15 hours prior to surgery    First dose 12 to 24 hours post surgery    First dose 12 to 24 hours post surgery    
+  All treated     N=2673           N=2659          N=1501           N=1508         N=1596           N=1588           
+  Major (including surgical site)    22 (0.82%)       18 (0.68%)      9 (0.60%)?       14 (0.93%)     11 (0.69%)       22 (1.39%)       
+    Fatal         0                0               0                0              0                1 (0.06%)        
+    Hgb decrease &gt;=2 g/dL    13 (0.49%)       10 (0.38%)      8 (0.53%)        9 (0.60%)      10 (0.63%)       16 (1.01%)       
+    Transfusion of &gt;=2 units RBC    16 (0.60%)       14 (0.53%)      5 (0.33%)        9 (0.60%)      9 (0.56%)        18 (1.13%)       
+    Bleed at critical siteS    1 (0.04%)        1 (0.04%)       1 (0.07%)        2 (0.13%)      1 (0.06%)        4 (0.25%)        
+  Major+ CRNM     129 (4.83%)      134 (5.04%)     53 (3.53%)       72 (4.77%)     46 (2.88%)       68 (4.28%)       
+  All             313 (11.71%)     334 (12.56%)    104 (6.93%)      126 (8.36%)    85 (5.33%)       108 (6.80%)      
+             Adverse reactions occurring in &gt;=1% of patients undergoing hip or knee replacement surgery in the 1 Phase II study and the 3 Phase III studies are listed in Table 4.
+ 
+
+ Table 4:     Adverse Reactions Occurring in &gt;=1% of Patients in Either Group Undergoing Hip or Knee Replacement Surgery 
+                                                            ELIQUIS, n (%)2.5 mg po bidN=5924      Enoxaparin, n (%)40 mg sc qd or30 mg sc q12hN=5904     
+  
+  Nausea                                                   153 (2.6)             159 (2.7)                  
+  Anemia (including postoperative and hemorrhagic anemia, and respective laboratory parameters)    153 (2.6)             178 (3.0)                  
+  Contusion                                                83 (1.4)              115 (1.9)                  
+  Hemorrhage (including hematoma, and vaginal and urethral hemorrhage)    67 (1.1)              81 (1.4)                   
+  Postprocedural hemorrhage (including postprocedural hematoma, wound hemorrhage, vessel puncture site hematoma and catheter site hemorrhage)    54 (0.9)              60 (1.0)                   
+  Transaminases increased (including alanine aminotransferase increased and alanine aminotransferase abnormal)    50 (0.8)              71 (1.2)                   
+  Aspartate aminotransferase increased                     47 (0.8)              69 (1.2)                   
+  Gamma-glutamyltransferase increased                      38 (0.6)              65 (1.1)                   
+         Less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of &gt;=0.1% to &lt;1%:
+ 
+
+   Blood and lymphatic system disorders:  thrombocytopenia (including platelet count decreases)
+
+
+
+   Vascular disorders:  hypotension (including procedural hypotension)
+
+
+
+   Respiratory, thoracic, and mediastinal disorders:  epistaxis
+
+
+
+   Gastrointestinal disorders:  gastrointestinal hemorrhage (including hematemesis and melena), hematochezia
+
+
+
+   Hepatobiliary disorders:  liver function test abnormal, blood alkaline phosphatase increased, blood bilirubin increased
+
+
+
+   Renal and urinary disorders:  hematuria (including respective laboratory parameters)
+
+
+
+   Injury, poisoning, and procedural complications:  wound secretion, incision-site hemorrhage (including incision-site hematoma), operative hemorrhage
+
+
+
+ Less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of &lt;0.1%:
+
+
+
+ Gingival bleeding, hemoptysis, hypersensitivity, muscle hemorrhage, ocular hemorrhage (including conjunctival hemorrhage), rectal hemorrhage
+
+
+
+   Treatment of DVT and PE and Reduction in the Risk of Recurrence of DVT or PE
+
+  The safety of ELIQUIS has been evaluated in the AMPLIFY and AMPLIFY-EXT studies, including 2676 patients exposed to ELIQUIS 10 mg twice daily, 3359 patients exposed to ELIQUIS 5 mg twice daily, and 840 patients exposed to ELIQUIS 2.5 mg twice daily.
+
+
+
+ Common adverse reactions (&gt;=1%) were gingival bleeding, epistaxis, contusion, hematuria, rectal hemorrhage, hematoma, menorrhagia, and hemoptysis.
+
+
+
+   AMPLIFY Study
+
+  The mean duration of exposure to ELIQUIS was 154 days and to enoxaparin/warfarin was 152 days in the AMPLIFY study. Adverse reactions related to bleeding occurred in 417 (15.6%) ELIQUIS-treated patients compared to 661 (24.6%) enoxaparin/warfarin-treated patients. The discontinuation rate due to bleeding events was 0.7% in the ELIQUIS-treated patients compared to 1.7% in enoxaparin/warfarin-treated patients in the AMPLIFY study.
+
+
+
+ In the AMPLIFY study, ELIQUIS was statistically superior to enoxaparin/warfarin in the primary safety endpoint of major bleeding (relative risk 0.31, 95% CI [0.17, 0.55], P-value &lt;0.0001).
+
+
+
+ Bleeding results from the AMPLIFY study are summarized in Table 5.
+
+
+
+ Table 5:     Bleeding Results in the AMPLIFY Study 
+                                ELIQUISN=2676n (%)        Enoxaparin/WarfarinN=2689n (%)  Relative Risk (95% CI)      
+  
+ *   CRNM = clinically relevant nonmajor bleeding.Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.   
+  
+  Major                          15 (0.6)                  49 (1.8)                 0.31 (0.17, 0.55)p&lt;0.0001    
+  CRNM*                          103 (3.9)                 215 (8.0)                                           
+  Major + CRNM                   115 (4.3)                 261 (9.7)                                           
+  Minor                          313 (11.7)                505 (18.8)                                          
+  All                            402 (15.0)                676 (25.1)                                          
+          Adverse reactions occurring in &gt;=1% of patients in the AMPLIFY study are listed in Table 6.
+ 
+
+ Table 6:     Adverse Reactions Occurring in &gt;=1% of Patients Treated for DVT and PE in the AMPLIFY Study 
+                                    ELIQUISN=2676n (%)                 Enoxaparin/WarfarinN=2689n (%)      
+  
+  Epistaxis                          77 (2.9)                           146 (5.4)                          
+  Contusion                          49 (1.8)                           97 (3.6)                           
+  Hematuria                          46 (1.7)                           102 (3.8)                          
+  Menorrhagia                        38 (1.4)                           30 (1.1)                           
+  Hematoma                           35 (1.3)                           76 (2.8)                           
+  Hemoptysis                         32 (1.2)                           31 (1.2)                           
+  Rectal hemorrhage                  26 (1.0)                           39 (1.5)                           
+  Gingival bleeding                  26 (1.0)                           50 (1.9)                           
+           AMPLIFY-EXT Study
+   The mean duration of exposure to ELIQUIS was approximately 330 days and to placebo was 312 days in the AMPLIFY-EXT study. Adverse reactions related to bleeding occurred in 219 (13.3%) ELIQUIS-treated patients compared to 72 (8.7%) placebo-treated patients. The discontinuation rate due to bleeding events was approximately 1% in the ELIQUIS-treated patients compared to 0.4% in those patients in the placebo group in the AMPLIFY-EXT study.
+
+
+
+ Bleeding results from the AMPLIFY-EXT study are summarized in Table 7.
+
+
+
+ Table 7:     Bleeding Results in the AMPLIFY-EXT Study 
+                               ELIQUIS 2.5 mg bidN=840n (%)  ELIQUIS 5 mg bidN=811n (%)  PlaceboN=826n (%)          
+  
+ *   CRNM = clinically relevant nonmajor bleeding.Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.   
+  
+  Major                         2 (0.2)                    1 (0.1)                   4 (0.5)                   
+  CRNM*                         25 (3.0)                   34 (4.2)                  19 (2.3)                  
+  Major + CRNM                  27 (3.2)                   35 (4.3)                  22 (2.7)                  
+  Minor                         75 (8.9)                   98 (12.1)                 58 (7.0)                  
+  All                           94 (11.2)                  121 (14.9)                74 (9.0)                  
+          Adverse reactions occurring in &gt;=1% of patients in the AMPLIFY-EXT study are listed in Table 8.
+ 
+
+ Table 8:     Adverse Reactions Occurring in &gt;=1% of Patients Undergoing Extended Treatment for DVT and PE in the AMPLIFY-EXT Study 
+                               ELIQUIS 2.5 mg bidN=840n (%)  ELIQUIS 5 mg bidN=811n (%)  PlaceboN=826n (%)          
+  
+  Epistaxis                     13 (1.5)                   29 (3.6)                  9 (1.1)                   
+  Hematuria                     12 (1.4)                   17 (2.1)                  9 (1.1)                   
+  Hematoma                      13 (1.5)                   16 (2.0)                  10 (1.2)                  
+  Contusion                     18 (2.1)                   18 (2.2)                  18 (2.2)                  
+  Gingival bleeding             12 (1.4)                   9 (1.1)                   3 (0.4)                   
+            Other Adverse Reactions
+   Less common adverse reactions in ELIQUIS-treated patients in the AMPLIFY or AMPLIFY-EXT studies occurring at a frequency of &gt;=0.1% to &lt;1%:
+
+
+
+   Blood and lymphatic system disorders:  hemorrhagic anemia
+
+
+
+   Gastrointestinal disorders:  hematochezia, hemorrhoidal hemorrhage, gastrointestinal hemorrhage, hematemesis, melena, anal hemorrhage
+
+
+
+   Injury, poisoning, and procedural complications:  wound hemorrhage, postprocedural hemorrhage, traumatic hematoma, periorbital hematoma
+
+
+
+   Musculoskeletal and connective tissue disorders:  muscle hemorrhage
+
+
+
+   Reproductive system and breast disorders:  vaginal hemorrhage, metrorrhagia, menometrorrhagia, genital hemorrhage
+
+
+
+   Vascular disorders  : hemorrhage
+
+
+
+   Skin and subcutaneous tissue disorders:  ecchymosis, skin hemorrhage, petechiae
+
+
+
+   Eye disorders:  conjunctival hemorrhage, retinal hemorrhage, eye hemorrhage
+
+
+
+   Investigations:  blood urine present, occult blood positive, occult blood, red blood cells urine positive
+
+
+
+   General disorders and administration-site conditions:  injection-site hematoma, vessel puncture-site hematoma
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS(B) SPINAL/EPIDURAL HEMATOMA
+
+  WARNING: (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS(B) SPINAL/EPIDURAL HEMATOMA
+
+    (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS  
+
+
+
+   Premature discontinuation of any oral anticoagulant, including ELIQUIS, increases the risk of thrombotic events. If anticoagulation with ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant  
+
+
+
+     [see Dosage and Administration (2.4), Warnings and Precautions (5.1), and Clinical Studies (14.1)]  .  
+
+
+
+   (B) SPINAL/EPIDURAL HEMATOMA  
+
+
+
+   Epidural or spinal hematomas may occur in patients treated with ELIQUIS who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis. Consider these risks when scheduling patients for spinal procedures. Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:  
+
+
+
+ *  ?use of indwelling epidural catheters 
+ *  ?concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants 
+ *  ?a history of traumatic or repeated epidural or spinal punctures 
+ *  ?a history of spinal deformity or spinal surgery 
+ *  ?optimal timing between the administration of ELIQUIS and neuraxial procedures is not known 
+        [see Warnings and Precautions (5.3)]    
+ 
+
+   Monitor patients frequently for signs and symptoms of neurological impairment. If neurological compromise is noted, urgent treatment is necessary   [see Warnings and Precautions (5.3)]  .  
+
+
+
+   Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated   [see Warnings and Precautions (5.3)]  .  
+
+
+
+   WARNING: (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS(B) SPINAL/EPIDURAL HEMATOMA
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS: Premature discontinuation of any oral anticoagulant, including ELIQUIS, increases the risk of thrombotic events. To reduce this risk, consider coverage with another anticoagulant if ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy.     (2.4    , 5.1,     14.1)  
+
+
+
+   (B) SPINAL/EPIDURAL HEMATOMA: Epidural or spinal hematomas may occur in patients treated with ELIQUIS who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis. Consider these risks when scheduling patients for spinal procedures. (5.3)  
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  ?  ELIQUIS can cause serious, potentially fatal bleeding. Promptly evaluate signs and symptoms of blood loss.(5.2) 
+ *  ?  Prosthetic heart valves: ELIQUIS use not recommended.(5.4) 
+    
+   5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
+
+  Premature discontinuation of any oral anticoagulant, including ELIQUIS, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in atrial fibrillation patients. If ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant  [see    Dosage and Administration (2.4)    andClinical Studies (14.1)]  .
+
+
+
+   5.2 Bleeding
+
+  ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding  [see    Dosage and Administration (2.1)    andAdverse Reactions (6.1)]  .
+
+
+
+ Concomitant use of drugs affecting hemostasis increases the risk of bleeding. These include aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitors, and nonsteroidal anti-inflammatory drugs (NSAIDs)  [seeDrug Interactions (7.3)]  .
+
+
+
+ Advise patients of signs and symptoms of blood loss and to report them immediately or go to an emergency room. Discontinue ELIQUIS in patients with active pathological hemorrhage.
+
+
+
+ There is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives. A specific antidote for ELIQUIS is not available. Hemodialysis does not appear to have a substantial impact on apixaban exposure  [seeClinical Pharmacology (12.3)]  . Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of apixaban. There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban. There is neither scientific rationale for reversal nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban. Use of procoagulant reversal agents such as prothrombin complex concentrate, activated prothrombin complex concentrate, or recombinant factor VIIa may be considered but has not been evaluated in clinical studies. Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration  [seeOverdosage (10)]  .
+
+
+
+   5.3 Spinal/Epidural Anesthesia or Puncture
+
+  When neuraxial anesthesia (spinal/epidural anesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis.
+
+
+
+ The risk of these events may be increased by the postoperative use of indwelling epidural catheters or the concomitant use of medicinal products affecting hemostasis. Indwelling epidural or intrathecal catheters should not be removed earlier than 24 hours after the last administration of ELIQUIS. The next dose of ELIQUIS should not be administered earlier than 5 hours after the removal of the catheter. The risk may also be increased by traumatic or repeated epidural or spinal puncture. If traumatic puncture occurs, delay the administration of ELIQUIS for 48 hours.
+
+
+
+ Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel, or bladder dysfunction). If neurological compromise is noted, urgent diagnosis and treatment is necessary. Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
+
+
+
+   5.4 Patients with Prosthetic Heart Valves
+
+  The safety and efficacy of ELIQUIS have not been studied in patients with prosthetic heart valves. Therefore, use of ELIQUIS is not recommended in these patients.
+
+
+
+   5.5 Acute PE in Hemodynamically Unstable Patients or Patients who Require Thrombolysis or Pulmonary Embolectomy
+
+  Initiation of ELIQUIS is not recommended as an alternative to unfractionated heparin for the initial treatment of patients with PE who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="Factor" start="169" len="4" str="risk" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="177" len="17" str="thrombotic events" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="272" len="8" str="Bleeding" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="471" len="8" str="bleeding" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="1656" len="34" str="bleeding-related adverse reactions" />
+    <Mention id="M6" section="S1" type="Severity" start="2018" len="5" str="major" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="2024" len="8" str="bleeding" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="2069" len="8" str="bleeding" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="2125" len="8" str="bleeding" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="2207" len="8" str="Bleeding" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="2432" len="8" str="Bleeding" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="2567" len="8" str="Bleeding" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="2715" len="8" str="bleeding" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="2771" len="22" str="decrease in hemoglobin" />
+    <Mention id="M15" section="S1" type="Severity" start="2799" len="6" str="2 g/dL" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="2867" len="27" str="bleeding at a critical site" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="2867,2896" len="8,12" str="bleeding intracranial" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="2867,2910" len="8,11" str="bleeding intraspinal" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="2867,2923" len="8,11" str="bleeding intraocular" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2867,2936" len="8,11" str="bleeding pericardial" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2867,2949" len="8,15" str="bleeding intra-articular" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2867,2966" len="8,13" str="bleeding intramuscular" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2867,3007" len="8,15" str="bleeding retroperitoneal" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2985" len="20" str="compartment syndrome" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="3031" len="13" str="fatal outcome" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="3053" len="18" str="Intracranial bleed" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="3081,3141" len="13,8" str="intracerebral bleeding" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="3096,3141" len="16,8" str="intraventricular bleeding" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="3114,3141" len="8,8" str="subdural bleeding" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="3128" len="21" str="subarachnoid bleeding" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="3163" len="18" str="hemorrhagic stroke" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="3216,3235" len="12,5" str="intracranial bleed" />
+    <Mention id="M33" section="S1" type="Severity" start="3229" len="5" str="major" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="3360" len="8" str="GI bleed" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="3378,3409" len="8,8" str="upper GI bleeding" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="3388,3409" len="8,8" str="lower GI bleeding" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="3402" len="15" str="rectal bleeding" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="3422" len="5" str="Fatal" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="3428" len="8" str="bleeding" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="3455" len="5" str="death" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="3487" len="5" str="death" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="3496" len="21" str="intracranial bleeding" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="3521" len="25" str="non-intracranial bleeding" />
+    <Mention id="M44" section="S1" type="AdverseReaction" start="3716" len="3" str="ICH" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="3817" len="18" str="Hemorrhagic stroke" />
+    <Mention id="M46" section="S1" type="AdverseReaction" start="3936" len="3" str="ICH" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="4155" len="5" str="Fatal" />
+    <Mention id="M48" section="S1" type="Severity" start="4531" len="5" str="major" />
+    <Mention id="M49" section="S1" type="AdverseReaction" start="4537" len="8" str="bleeding" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="4863" len="4" str="bled" />
+    <Mention id="M51" section="S1" type="Severity" start="4959" len="5" str="Major" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="4965" len="8" str="Bleeding" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="5494" len="8" str="Bleeding" />
+    <Mention id="M54" section="S1" type="AdverseReaction" start="5952" len="5" str="Fatal" />
+    <Mention id="M55" section="S1" type="Severity" start="6194" len="5" str="Major" />
+    <Mention id="M56" section="S1" type="AdverseReaction" start="6200" len="8" str="Bleeding" />
+    <Mention id="M57" section="S1" type="AdverseReaction" start="6250" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M58" section="S1" type="AdverseReaction" start="6288" len="21" str="drug hypersensitivity" />
+    <Mention id="M59" section="S1" type="AdverseReaction" start="6319" len="9" str="skin rash" />
+    <Mention id="M60" section="S1" type="AdverseReaction" start="6334" len="22" str="anaphylactic reactions" />
+    <Mention id="M61" section="S1" type="AdverseReaction" start="6366" len="14" str="allergic edema" />
+    <Mention id="M62" section="S1" type="AdverseReaction" start="6386" len="7" str="syncope" />
+    <Mention id="M63" section="S1" type="AdverseReaction" start="6921" len="8" str="Bleeding" />
+    <Mention id="M64" section="S1" type="AdverseReaction" start="7013" len="8" str="Bleeding" />
+    <Mention id="M65" section="S1" type="AdverseReaction" start="7124" len="8" str="Bleeding" />
+    <Mention id="M66" section="S1" type="AdverseReaction" start="7381" len="8" str="bleeding" />
+    <Mention id="M67" section="S1" type="AdverseReaction" start="7408" len="22" str="surgical site bleeding" />
+    <Mention id="M68" section="S1" type="Severity" start="7464" len="5" str="major" />
+    <Mention id="M69" section="S1" type="AdverseReaction" start="7470" len="8" str="bleeding" />
+    <Mention id="M70" section="S1" type="Negation" start="7500" len="21" str="before the first dose" />
+    <Mention id="M71" section="S1" type="Severity" start="7610" len="5" str="major" />
+    <Mention id="M72" section="S1" type="AdverseReaction" start="7616" len="8" str="bleeding" />
+    <Mention id="M73" section="S1" type="Negation" start="7646" len="21" str="before the first dose" />
+    <Mention id="M74" section="S1" type="AdverseReaction" start="7903" len="31" str="Bleeding into an operated joint" />
+    <Mention id="M75" section="S1" type="AdverseReaction" start="8024" len="8" str="bleeding" />
+    <Mention id="M76" section="S1" type="AdverseReaction" start="8122" len="23" str="intracranial hemorrhage" />
+    <Mention id="M77" section="S1" type="AdverseReaction" start="8961" len="5" str="Fatal" />
+    <Mention id="M78" section="S1" type="AdverseReaction" start="9079" len="12" str="Hgb decrease" />
+    <Mention id="M79" section="S1" type="Severity" start="9094" len="6" str="2 g/dL" />
+    <Mention id="M80" section="S1" type="AdverseReaction" start="9344" len="22" str="Bleed at critical site" />
+    <Mention id="M81" section="S1" type="AdverseReaction" start="10171" len="6" str="Nausea" />
+    <Mention id="M82" section="S1" type="AdverseReaction" start="10280" len="6" str="Anemia" />
+    <Mention id="M83" section="S1" type="AdverseReaction" start="10298,10328" len="13,6" str="postoperative anemia" />
+    <Mention id="M84" section="S1" type="AdverseReaction" start="10316" len="18" str="hemorrhagic anemia" />
+    <Mention id="M85" section="S1" type="AdverseReaction" start="10429" len="9" str="Contusion" />
+    <Mention id="M86" section="S1" type="AdverseReaction" start="10538" len="10" str="Hemorrhage" />
+    <Mention id="M87" section="S1" type="AdverseReaction" start="10560" len="8" str="hematoma" />
+    <Mention id="M88" section="S1" type="AdverseReaction" start="10574,10595" len="7,10" str="vaginal hemorrhage" />
+    <Mention id="M89" section="S1" type="AdverseReaction" start="10586" len="19" str="urethral hemorrhage" />
+    <Mention id="M90" section="S1" type="AdverseReaction" start="10662" len="25" str="Postprocedural hemorrhage" />
+    <Mention id="M91" section="S1" type="AdverseReaction" start="10699" len="23" str="postprocedural hematoma" />
+    <Mention id="M92" section="S1" type="AdverseReaction" start="10724" len="16" str="wound hemorrhage" />
+    <Mention id="M93" section="S1" type="AdverseReaction" start="10742" len="29" str="vessel puncture site hematoma" />
+    <Mention id="M94" section="S1" type="AdverseReaction" start="10776" len="24" str="catheter site hemorrhage" />
+    <Mention id="M95" section="S1" type="AdverseReaction" start="10857" len="23" str="Transaminases increased" />
+    <Mention id="M96" section="S1" type="AdverseReaction" start="10892" len="34" str="alanine aminotransferase increased" />
+    <Mention id="M97" section="S1" type="AdverseReaction" start="10931" len="33" str="alanine aminotransferase abnormal" />
+    <Mention id="M98" section="S1" type="AdverseReaction" start="11021" len="36" str="Aspartate aminotransferase increased" />
+    <Mention id="M99" section="S1" type="AdverseReaction" start="11130" len="35" str="Gamma-glutamyltransferase increased" />
+    <Mention id="M100" section="S1" type="AdverseReaction" start="11436" len="16" str="thrombocytopenia" />
+    <Mention id="M101" section="S1" type="AdverseReaction" start="11464" len="24" str="platelet count decreases" />
+    <Mention id="M102" section="S1" type="AdverseReaction" start="11517" len="11" str="hypotension" />
+    <Mention id="M103" section="S1" type="AdverseReaction" start="11540" len="22" str="procedural hypotension" />
+    <Mention id="M104" section="S1" type="AdverseReaction" start="11621" len="9" str="epistaxis" />
+    <Mention id="M105" section="S1" type="AdverseReaction" start="11666" len="27" str="gastrointestinal hemorrhage" />
+    <Mention id="M106" section="S1" type="AdverseReaction" start="11705" len="11" str="hematemesis" />
+    <Mention id="M107" section="S1" type="AdverseReaction" start="11721" len="6" str="melena" />
+    <Mention id="M108" section="S1" type="AdverseReaction" start="11730" len="12" str="hematochezia" />
+    <Mention id="M109" section="S1" type="AdverseReaction" start="11775" len="28" str="liver function test abnormal" />
+    <Mention id="M110" section="S1" type="AdverseReaction" start="11805" len="36" str="blood alkaline phosphatase increased" />
+    <Mention id="M111" section="S1" type="AdverseReaction" start="11843" len="25" str="blood bilirubin increased" />
+    <Mention id="M112" section="S1" type="AdverseReaction" start="11905" len="9" str="hematuria" />
+    <Mention id="M113" section="S1" type="AdverseReaction" start="12016" len="15" str="wound secretion" />
+    <Mention id="M114" section="S1" type="AdverseReaction" start="12033" len="24" str="incision-site hemorrhage" />
+    <Mention id="M115" section="S1" type="AdverseReaction" start="12069" len="22" str="incision-site hematoma" />
+    <Mention id="M116" section="S1" type="AdverseReaction" start="12094" len="20" str="operative hemorrhage" />
+    <Mention id="M117" section="S1" type="AdverseReaction" start="12260" len="17" str="Gingival bleeding" />
+    <Mention id="M118" section="S1" type="AdverseReaction" start="12279" len="10" str="hemoptysis" />
+    <Mention id="M119" section="S1" type="AdverseReaction" start="12291" len="16" str="hypersensitivity" />
+    <Mention id="M120" section="S1" type="AdverseReaction" start="12309" len="17" str="muscle hemorrhage" />
+    <Mention id="M121" section="S1" type="AdverseReaction" start="12328" len="17" str="ocular hemorrhage" />
+    <Mention id="M122" section="S1" type="AdverseReaction" start="12357" len="23" str="conjunctival hemorrhage" />
+    <Mention id="M123" section="S1" type="AdverseReaction" start="12383" len="17" str="rectal hemorrhage" />
+    <Mention id="M124" section="S1" type="AdverseReaction" start="12778" len="17" str="gingival bleeding" />
+    <Mention id="M125" section="S1" type="AdverseReaction" start="12797" len="9" str="epistaxis" />
+    <Mention id="M126" section="S1" type="AdverseReaction" start="12808" len="9" str="contusion" />
+    <Mention id="M127" section="S1" type="AdverseReaction" start="12819" len="9" str="hematuria" />
+    <Mention id="M128" section="S1" type="AdverseReaction" start="12830" len="17" str="rectal hemorrhage" />
+    <Mention id="M129" section="S1" type="AdverseReaction" start="12849" len="8" str="hematoma" />
+    <Mention id="M130" section="S1" type="AdverseReaction" start="12859" len="11" str="menorrhagia" />
+    <Mention id="M131" section="S1" type="AdverseReaction" start="12876" len="10" str="hemoptysis" />
+    <Mention id="M132" section="S1" type="AdverseReaction" start="13056" len="8" str="bleeding" />
+    <Mention id="M133" section="S1" type="AdverseReaction" start="13208" len="8" str="bleeding" />
+    <Mention id="M134" section="S1" type="Severity" start="13462" len="5" str="major" />
+    <Mention id="M135" section="S1" type="AdverseReaction" start="13468" len="8" str="bleeding" />
+    <Mention id="M136" section="S1" type="AdverseReaction" start="13541" len="8" str="Bleeding" />
+    <Mention id="M137" section="S1" type="AdverseReaction" start="13625" len="8" str="Bleeding" />
+    <Mention id="M138" section="S1" type="AdverseReaction" start="13791" len="4" str="CRNM" />
+    <Mention id="M139" section="S1" type="AdverseReaction" start="13798" len="37" str="clinically relevant nonmajor bleeding" />
+    <Mention id="M140" section="S1" type="AdverseReaction" start="14090" len="4" str="CRNM" />
+    <Mention id="M141" section="S1" type="AdverseReaction" start="14210" len="4" str="CRNM" />
+    <Mention id="M142" section="S1" type="AdverseReaction" start="14861" len="9" str="Epistaxis" />
+    <Mention id="M143" section="S1" type="AdverseReaction" start="14969" len="9" str="Contusion" />
+    <Mention id="M144" section="S1" type="AdverseReaction" start="15077" len="9" str="Hematuria" />
+    <Mention id="M145" section="S1" type="AdverseReaction" start="15185" len="11" str="Menorrhagia" />
+    <Mention id="M146" section="S1" type="AdverseReaction" start="15293" len="8" str="Hematoma" />
+    <Mention id="M147" section="S1" type="AdverseReaction" start="15401" len="10" str="Hemoptysis" />
+    <Mention id="M148" section="S1" type="AdverseReaction" start="15509" len="17" str="Rectal hemorrhage" />
+    <Mention id="M149" section="S1" type="AdverseReaction" start="15617" len="17" str="Gingival bleeding" />
+    <Mention id="M150" section="S1" type="AdverseReaction" start="15906" len="8" str="bleeding" />
+    <Mention id="M151" section="S1" type="AdverseReaction" start="16044" len="8" str="bleeding" />
+    <Mention id="M152" section="S1" type="AdverseReaction" start="16199" len="8" str="Bleeding" />
+    <Mention id="M153" section="S1" type="AdverseReaction" start="16287" len="8" str="Bleeding" />
+    <Mention id="M154" section="S1" type="AdverseReaction" start="16455" len="4" str="CRNM" />
+    <Mention id="M155" section="S1" type="AdverseReaction" start="16462" len="37" str="clinically relevant nonmajor bleeding" />
+    <Mention id="M156" section="S1" type="AdverseReaction" start="16752" len="4" str="CRNM" />
+    <Mention id="M157" section="S1" type="AdverseReaction" start="16872" len="4" str="CRNM" />
+    <Mention id="M158" section="S1" type="AdverseReaction" start="17562" len="9" str="Epistaxis" />
+    <Mention id="M159" section="S1" type="AdverseReaction" start="17674" len="9" str="Hematuria" />
+    <Mention id="M160" section="S1" type="AdverseReaction" start="17786" len="8" str="Hematoma" />
+    <Mention id="M161" section="S1" type="AdverseReaction" start="17898" len="9" str="Contusion" />
+    <Mention id="M162" section="S1" type="AdverseReaction" start="18010" len="17" str="Gingival bleeding" />
+    <Mention id="M163" section="S1" type="AdverseReaction" start="18343" len="18" str="hemorrhagic anemia" />
+    <Mention id="M164" section="S1" type="AdverseReaction" start="18397" len="12" str="hematochezia" />
+    <Mention id="M165" section="S1" type="AdverseReaction" start="18411" len="23" str="hemorrhoidal hemorrhage" />
+    <Mention id="M166" section="S1" type="AdverseReaction" start="18436" len="27" str="gastrointestinal hemorrhage" />
+    <Mention id="M167" section="S1" type="AdverseReaction" start="18465" len="11" str="hematemesis" />
+    <Mention id="M168" section="S1" type="AdverseReaction" start="18478" len="6" str="melena" />
+    <Mention id="M169" section="S1" type="AdverseReaction" start="18486" len="15" str="anal hemorrhage" />
+    <Mention id="M170" section="S1" type="AdverseReaction" start="18558" len="16" str="wound hemorrhage" />
+    <Mention id="M171" section="S1" type="AdverseReaction" start="18576" len="25" str="postprocedural hemorrhage" />
+    <Mention id="M172" section="S1" type="AdverseReaction" start="18603" len="18" str="traumatic hematoma" />
+    <Mention id="M173" section="S1" type="AdverseReaction" start="18623" len="20" str="periorbital hematoma" />
+    <Mention id="M174" section="S1" type="AdverseReaction" start="18700" len="17" str="muscle hemorrhage" />
+    <Mention id="M175" section="S1" type="AdverseReaction" start="18767" len="18" str="vaginal hemorrhage" />
+    <Mention id="M176" section="S1" type="AdverseReaction" start="18787" len="12" str="metrorrhagia" />
+    <Mention id="M177" section="S1" type="AdverseReaction" start="18801" len="16" str="menometrorrhagia" />
+    <Mention id="M178" section="S1" type="AdverseReaction" start="18819" len="18" str="genital hemorrhage" />
+    <Mention id="M179" section="S1" type="AdverseReaction" start="18866" len="10" str="hemorrhage" />
+    <Mention id="M180" section="S1" type="AdverseReaction" start="18924" len="10" str="ecchymosis" />
+    <Mention id="M181" section="S1" type="AdverseReaction" start="18936" len="15" str="skin hemorrhage" />
+    <Mention id="M182" section="S1" type="AdverseReaction" start="18953" len="9" str="petechiae" />
+    <Mention id="M183" section="S1" type="AdverseReaction" start="18985" len="23" str="conjunctival hemorrhage" />
+    <Mention id="M184" section="S1" type="AdverseReaction" start="19010" len="18" str="retinal hemorrhage" />
+    <Mention id="M185" section="S1" type="AdverseReaction" start="19030" len="14" str="eye hemorrhage" />
+    <Mention id="M186" section="S1" type="AdverseReaction" start="19068" len="19" str="blood urine present" />
+    <Mention id="M187" section="S1" type="AdverseReaction" start="19089" len="21" str="occult blood positive" />
+    <Mention id="M188" section="S1" type="AdverseReaction" start="19112" len="12" str="occult blood" />
+    <Mention id="M189" section="S1" type="AdverseReaction" start="19126" len="30" str="red blood cells urine positive" />
+    <Mention id="M190" section="S1" type="AdverseReaction" start="19218" len="23" str="injection-site hematoma" />
+    <Mention id="M191" section="S1" type="AdverseReaction" start="19243" len="29" str="vessel puncture-site hematoma" />
+    <Mention id="M192" section="S2" type="Factor" start="85" len="4" str="RISK" />
+    <Mention id="M193" section="S2" type="AdverseReaction" start="93" len="17" str="THROMBOTIC EVENTS" />
+    <Mention id="M194" section="S2" type="AdverseReaction" start="114,130" len="6,8" str="SPINAL HEMATOMA" />
+    <Mention id="M195" section="S2" type="AdverseReaction" start="121" len="17" str="EPIDURAL HEMATOMA" />
+    <Mention id="M196" section="S2" type="Factor" start="206" len="4" str="RISK" />
+    <Mention id="M197" section="S2" type="AdverseReaction" start="214" len="17" str="THROMBOTIC EVENTS" />
+    <Mention id="M198" section="S2" type="AdverseReaction" start="235,251" len="6,8" str="SPINAL HEMATOMA" />
+    <Mention id="M199" section="S2" type="AdverseReaction" start="242" len="17" str="EPIDURAL HEMATOMA" />
+    <Mention id="M200" section="S2" type="Factor" start="320" len="4" str="RISK" />
+    <Mention id="M201" section="S2" type="AdverseReaction" start="328" len="17" str="THROMBOTIC EVENTS" />
+    <Mention id="M202" section="S2" type="Factor" start="440" len="4" str="risk" />
+    <Mention id="M203" section="S2" type="AdverseReaction" start="448" len="17" str="thrombotic events" />
+    <Mention id="M204" section="S2" type="AdverseReaction" start="801,820" len="8,9" str="Epidural hematomas" />
+    <Mention id="M205" section="S2" type="AdverseReaction" start="813" len="16" str="spinal hematomas" />
+    <Mention id="M206" section="S2" type="Factor" start="830" len="3" str="may" />
+    <Mention id="M207" section="S2" type="AdverseReaction" start="949" len="9" str="hematomas" />
+    <Mention id="M208" section="S2" type="Factor" start="959" len="3" str="may" />
+    <Mention id="M209" section="S2" type="AdverseReaction" start="973,996" len="9,9" str="long-term paralysis" />
+    <Mention id="M210" section="S2" type="AdverseReaction" start="986" len="19" str="permanent paralysis" />
+    <Mention id="M211" section="S2" type="Factor" start="1106" len="4" str="risk" />
+    <Mention id="M212" section="S2" type="AdverseReaction" start="1125,1144" len="8,9" str="epidural hematomas" />
+    <Mention id="M213" section="S2" type="AdverseReaction" start="1137" len="16" str="spinal hematomas" />
+    <Mention id="M214" section="S2" type="Factor" start="2086" len="4" str="RISK" />
+    <Mention id="M215" section="S2" type="AdverseReaction" start="2094" len="17" str="THROMBOTIC EVENTS" />
+    <Mention id="M216" section="S2" type="AdverseReaction" start="2115,2131" len="6,8" str="SPINAL HEMATOMA" />
+    <Mention id="M217" section="S2" type="AdverseReaction" start="2122" len="17" str="EPIDURAL HEMATOMA" />
+    <Mention id="M218" section="S2" type="Factor" start="2270" len="4" str="RISK" />
+    <Mention id="M219" section="S2" type="AdverseReaction" start="2278" len="17" str="THROMBOTIC EVENTS" />
+    <Mention id="M220" section="S2" type="Factor" start="2383" len="4" str="risk" />
+    <Mention id="M221" section="S2" type="AdverseReaction" start="2391" len="17" str="thrombotic events" />
+    <Mention id="M222" section="S2" type="AdverseReaction" start="2654,2673" len="8,9" str="Epidural hematomas" />
+    <Mention id="M223" section="S2" type="AdverseReaction" start="2666" len="16" str="spinal hematomas" />
+    <Mention id="M224" section="S2" type="Factor" start="2683" len="3" str="may" />
+    <Mention id="M225" section="S2" type="AdverseReaction" start="2802" len="9" str="hematomas" />
+    <Mention id="M226" section="S2" type="Factor" start="2812" len="3" str="may" />
+    <Mention id="M227" section="S2" type="AdverseReaction" start="2826,2849" len="9,9" str="long-term paralysis" />
+    <Mention id="M228" section="S2" type="AdverseReaction" start="2839" len="19" str="permanent paralysis" />
+    <Mention id="M229" section="S3" type="Factor" start="61" len="3" str="can" />
+    <Mention id="M230" section="S3" type="Severity" start="71" len="7" str="serious" />
+    <Mention id="M231" section="S3" type="Factor" start="80" len="11" str="potentially" />
+    <Mention id="M232" section="S3" type="AdverseReaction" start="92" len="5" str="fatal" />
+    <Mention id="M233" section="S3" type="AdverseReaction" start="98" len="8" str="bleeding" />
+    <Mention id="M234" section="S3" type="Factor" start="457" len="4" str="risk" />
+    <Mention id="M235" section="S3" type="AdverseReaction" start="465" len="17" str="thrombotic events" />
+    <Mention id="M236" section="S3" type="AdverseReaction" start="505" len="6" str="stroke" />
+    <Mention id="M237" section="S3" type="Factor" start="899" len="4" str="risk" />
+    <Mention id="M238" section="S3" type="AdverseReaction" start="907" len="8" str="bleeding" />
+    <Mention id="M239" section="S3" type="Factor" start="920" len="3" str="can" />
+    <Mention id="M240" section="S3" type="Severity" start="930" len="7" str="serious" />
+    <Mention id="M241" section="S3" type="Factor" start="939" len="11" str="potentially" />
+    <Mention id="M242" section="S3" type="AdverseReaction" start="951" len="5" str="fatal" />
+    <Mention id="M243" section="S3" type="AdverseReaction" start="958" len="8" str="bleeding" />
+    <Mention id="M244" section="S3" type="Factor" start="1106" len="4" str="risk" />
+    <Mention id="M245" section="S3" type="AdverseReaction" start="1114" len="8" str="bleeding" />
+    <Mention id="M246" section="S3" type="Factor" start="2910" len="4" str="risk" />
+    <Mention id="M247" section="S3" type="AdverseReaction" start="2932,2951" len="8,8" str="epidural hematoma" />
+    <Mention id="M248" section="S3" type="AdverseReaction" start="2944" len="15" str="spinal hematoma" />
+    <Mention id="M249" section="S3" type="Factor" start="2966" len="3" str="can" />
+    <Mention id="M250" section="S3" type="AdverseReaction" start="2980,3003" len="9,9" str="long-term paralysis" />
+    <Mention id="M251" section="S3" type="AdverseReaction" start="2993" len="19" str="permanent paralysis" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M2" arg2="M1" />
+    <Relation id="RL2" type="Effect" arg1="M7" arg2="M6" />
+    <Relation id="RL3" type="Effect" arg1="M14" arg2="M15" />
+    <Relation id="RL4" type="Effect" arg1="M32" arg2="M33" />
+    <Relation id="RL5" type="Effect" arg1="M49" arg2="M48" />
+    <Relation id="RL6" type="Effect" arg1="M52" arg2="M51" />
+    <Relation id="RL7" type="Effect" arg1="M56" arg2="M55" />
+    <Relation id="RL8" type="Effect" arg1="M69" arg2="M68" />
+    <Relation id="RL9" type="Negated" arg1="M69" arg2="M70" />
+    <Relation id="RL10" type="Effect" arg1="M72" arg2="M71" />
+    <Relation id="RL11" type="Negated" arg1="M72" arg2="M73" />
+    <Relation id="RL12" type="Effect" arg1="M78" arg2="M79" />
+    <Relation id="RL13" type="Effect" arg1="M135" arg2="M134" />
+    <Relation id="RL14" type="Hypothetical" arg1="M193" arg2="M192" />
+    <Relation id="RL15" type="Hypothetical" arg1="M197" arg2="M196" />
+    <Relation id="RL16" type="Hypothetical" arg1="M201" arg2="M200" />
+    <Relation id="RL17" type="Hypothetical" arg1="M203" arg2="M202" />
+    <Relation id="RL18" type="Hypothetical" arg1="M204" arg2="M206" />
+    <Relation id="RL19" type="Hypothetical" arg1="M205" arg2="M206" />
+    <Relation id="RL20" type="Hypothetical" arg1="M209" arg2="M208" />
+    <Relation id="RL21" type="Hypothetical" arg1="M210" arg2="M208" />
+    <Relation id="RL22" type="Hypothetical" arg1="M212" arg2="M211" />
+    <Relation id="RL23" type="Hypothetical" arg1="M213" arg2="M211" />
+    <Relation id="RL24" type="Hypothetical" arg1="M215" arg2="M214" />
+    <Relation id="RL25" type="Hypothetical" arg1="M219" arg2="M218" />
+    <Relation id="RL26" type="Hypothetical" arg1="M221" arg2="M220" />
+    <Relation id="RL27" type="Hypothetical" arg1="M222" arg2="M224" />
+    <Relation id="RL28" type="Hypothetical" arg1="M223" arg2="M224" />
+    <Relation id="RL29" type="Hypothetical" arg1="M227" arg2="M226" />
+    <Relation id="RL30" type="Hypothetical" arg1="M228" arg2="M226" />
+    <Relation id="RL31" type="Hypothetical" arg1="M232" arg2="M231" />
+    <Relation id="RL32" type="Hypothetical" arg1="M233" arg2="M229" />
+    <Relation id="RL33" type="Effect" arg1="M233" arg2="M230" />
+    <Relation id="RL34" type="Hypothetical" arg1="M235" arg2="M234" />
+    <Relation id="RL35" type="Hypothetical" arg1="M238" arg2="M237" />
+    <Relation id="RL36" type="Hypothetical" arg1="M242" arg2="M241" />
+    <Relation id="RL37" type="Effect" arg1="M243" arg2="M240" />
+    <Relation id="RL38" type="Hypothetical" arg1="M243" arg2="M239" />
+    <Relation id="RL39" type="Hypothetical" arg1="M245" arg2="M244" />
+    <Relation id="RL40" type="Hypothetical" arg1="M247" arg2="M246" />
+    <Relation id="RL41" type="Hypothetical" arg1="M248" arg2="M246" />
+    <Relation id="RL42" type="Hypothetical" arg1="M250" arg2="M249" />
+    <Relation id="RL43" type="Hypothetical" arg1="M251" arg2="M249" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="thrombotic events">
+      <Normalization id="AR1.N1" meddra_pt="Thrombosis" meddra_pt_id="10043607" />
+    </Reaction>
+    <Reaction id="AR2" str="bleeding">
+      <Normalization id="AR2.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR3" str="bleeding-related adverse reactions">
+      <Normalization id="AR3.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR4" str="decrease in hemoglobin">
+      <Normalization id="AR4.N1" meddra_pt="Haemoglobin decreased" meddra_pt_id="10018884" meddra_llt="Decreased hemoglobin" meddra_llt_id="10011964" />
+    </Reaction>
+    <Reaction id="AR5" str="bleeding at a critical site">
+      <Normalization id="AR5.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR6" str="bleeding intracranial">
+      <Normalization id="AR6.N1" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" meddra_llt="Bleeding intracranial" meddra_llt_id="10005121" />
+    </Reaction>
+    <Reaction id="AR7" str="bleeding intraspinal">
+      <Normalization id="AR7.N1" meddra_pt="Spinal cord haemorrhage" meddra_pt_id="10048992" meddra_llt="Intraspinal bleeding" meddra_llt_id="10073572" />
+    </Reaction>
+    <Reaction id="AR8" str="bleeding intraocular">
+      <Normalization id="AR8.N1" meddra_pt="Eye haemorrhage" meddra_pt_id="10015926" meddra_llt="Hemorrhage intraocular" meddra_llt_id="10019553" />
+    </Reaction>
+    <Reaction id="AR9" str="bleeding pericardial">
+      <Normalization id="AR9.N1" meddra_pt="Pericardial haemorrhage" meddra_pt_id="10034476" meddra_llt="Pericardial bleeding" meddra_llt_id="10071860" />
+    </Reaction>
+    <Reaction id="AR10" str="bleeding intra-articular">
+      <Normalization id="AR10.N1" meddra_pt="Haemarthrosis" meddra_pt_id="10018829" meddra_llt="Hemarthrosis" meddra_llt_id="10019409" />
+    </Reaction>
+    <Reaction id="AR11" str="bleeding intramuscular">
+      <Normalization id="AR11.N1" meddra_pt="Muscle haemorrhage" meddra_pt_id="10028309" meddra_llt="Muscle bleeding" meddra_llt_id="10071842" />
+    </Reaction>
+    <Reaction id="AR12" str="bleeding retroperitoneal">
+      <Normalization id="AR12.N1" meddra_pt="Retroperitoneal haemorrhage" meddra_pt_id="10038980" meddra_llt="Retroperitoneal bleeding" meddra_llt_id="10071878" />
+    </Reaction>
+    <Reaction id="AR13" str="compartment syndrome">
+      <Normalization id="AR13.N1" meddra_pt="Compartment syndrome" meddra_pt_id="10010121" />
+    </Reaction>
+    <Reaction id="AR14" str="fatal outcome">
+      <Normalization id="AR14.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR15" str="intracranial bleed">
+      <Normalization id="AR15.N1" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" meddra_llt="Bleeding intracranial" meddra_llt_id="10005121" />
+    </Reaction>
+    <Reaction id="AR16" str="intracerebral bleeding">
+      <Normalization id="AR16.N1" meddra_pt="Cerebral haemorrhage" meddra_pt_id="10008111" meddra_llt="Cerebral hemorrhage" meddra_llt_id="10008114" />
+    </Reaction>
+    <Reaction id="AR17" str="intraventricular bleeding">
+      <Normalization id="AR17.N1" meddra_pt="Intraventricular haemorrhage" meddra_pt_id="10022840" meddra_llt="Intraventricular bleeding" meddra_llt_id="10071830" />
+    </Reaction>
+    <Reaction id="AR18" str="subdural bleeding">
+      <Normalization id="AR18.N1" meddra_pt="Subdural haemorrhage" meddra_pt_id="10042364" meddra_llt="Subdural bleeding" meddra_llt_id="10071893" />
+    </Reaction>
+    <Reaction id="AR19" str="subarachnoid bleeding">
+      <Normalization id="AR19.N1" meddra_pt="Subarachnoid haemorrhage" meddra_pt_id="10042316" meddra_llt="Subarachnoid bleeding" meddra_llt_id="10071890" />
+    </Reaction>
+    <Reaction id="AR20" str="hemorrhagic stroke">
+      <Normalization id="AR20.N1" meddra_pt="Haemorrhagic stroke" meddra_pt_id="10019016" meddra_llt="Hemorrhagic stroke" meddra_llt_id="10048863" />
+    </Reaction>
+    <Reaction id="AR21" str="gi bleed">
+      <Normalization id="AR21.N1" meddra_pt="Gastrointestinal haemorrhage" meddra_pt_id="10017955" meddra_llt="GI bleed" meddra_llt_id="10018230" />
+    </Reaction>
+    <Reaction id="AR22" str="upper gi bleeding">
+      <Normalization id="AR22.N1" meddra_pt="Upper gastrointestinal haemorrhage" meddra_pt_id="10046274" meddra_llt="Upper gastrointestinal bleeding" meddra_llt_id="10071910" />
+    </Reaction>
+    <Reaction id="AR23" str="lower gi bleeding">
+      <Normalization id="AR23.N1" meddra_pt="Lower gastrointestinal haemorrhage" meddra_pt_id="10050953" meddra_llt="Lower gastrointestinal bleeding" meddra_llt_id="10071838" />
+    </Reaction>
+    <Reaction id="AR24" str="rectal bleeding">
+      <Normalization id="AR24.N1" meddra_pt="Rectal haemorrhage" meddra_pt_id="10038063" meddra_llt="Rectal bleeding" meddra_llt_id="10038035" />
+    </Reaction>
+    <Reaction id="AR25" str="fatal">
+      <Normalization id="AR25.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR26" str="death">
+      <Normalization id="AR26.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR27" str="intracranial bleeding">
+      <Normalization id="AR27.N1" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" meddra_llt="Bleeding intracranial" meddra_llt_id="10005121" />
+    </Reaction>
+    <Reaction id="AR28" str="non-intracranial bleeding">
+      <Normalization id="AR28.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR29" str="ich">
+      <Normalization id="AR29.N1" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" meddra_llt="Intracranial hemorrhage" meddra_llt_id="10022763" />
+    </Reaction>
+    <Reaction id="AR30" str="bled">
+      <Normalization id="AR30.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR31" str="hypersensitivity reactions">
+      <Normalization id="AR31.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR32" str="drug hypersensitivity">
+      <Normalization id="AR32.N1" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+    </Reaction>
+    <Reaction id="AR33" str="skin rash">
+      <Normalization id="AR33.N1" meddra_pt="Rash" meddra_pt_id="10037844" meddra_llt="Skin rash" meddra_llt_id="10040913" />
+    </Reaction>
+    <Reaction id="AR34" str="anaphylactic reactions">
+      <Normalization id="AR34.N1" meddra_pt="Anaphylactic reaction" meddra_pt_id="10002198" />
+    </Reaction>
+    <Reaction id="AR35" str="allergic edema">
+      <Normalization id="AR35.N1" meddra_pt="Allergic oedema" meddra_pt_id="10060934" meddra_llt="Allergic edema" meddra_llt_id="10054306" />
+    </Reaction>
+    <Reaction id="AR36" str="syncope">
+      <Normalization id="AR36.N1" meddra_pt="Syncope" meddra_pt_id="10042772" />
+    </Reaction>
+    <Reaction id="AR37" str="surgical site bleeding">
+      <Normalization id="AR37.N1" meddra_pt="Procedural haemorrhage" meddra_pt_id="10071229" meddra_llt="Operation site bleed" meddra_llt_id="10030859" />
+    </Reaction>
+    <Reaction id="AR38" str="bleeding into an operated joint">
+      <Normalization id="AR38.N1" meddra_pt="Haemarthrosis" meddra_pt_id="10018829" meddra_llt="Hemarthrosis" meddra_llt_id="10019409" />
+      <Normalization id="AR38.N2" meddra_pt="Procedural haemorrhage" meddra_pt_id="10071229" meddra_llt="Operation site bleed" meddra_llt_id="10030859" />
+    </Reaction>
+    <Reaction id="AR39" str="intracranial hemorrhage">
+      <Normalization id="AR39.N1" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" meddra_llt="Intracranial hemorrhage" meddra_llt_id="10022763" />
+    </Reaction>
+    <Reaction id="AR40" str="hgb decrease">
+      <Normalization id="AR40.N1" meddra_pt="Haemoglobin decreased" meddra_pt_id="10018884" meddra_llt="Hemoglobin decreased" meddra_llt_id="10019483" />
+    </Reaction>
+    <Reaction id="AR41" str="bleed at critical site">
+      <Normalization id="AR41.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR42" str="nausea">
+      <Normalization id="AR42.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR43" str="anemia">
+      <Normalization id="AR43.N1" meddra_pt="Anaemia" meddra_pt_id="10002034" meddra_llt="Anemia" meddra_llt_id="10002272" />
+    </Reaction>
+    <Reaction id="AR44" str="postoperative anemia">
+      <Normalization id="AR44.N1" meddra_pt="Anaemia postoperative" meddra_pt_id="10048861" meddra_llt="Anemia postoperative" meddra_llt_id="10054312" />
+    </Reaction>
+    <Reaction id="AR45" str="hemorrhagic anemia">
+      <Normalization id="AR45.N1" meddra_pt="Haemorrhagic anaemia" meddra_pt_id="10052293" meddra_llt="Hemorrhagic anemia" meddra_llt_id="10052294" />
+    </Reaction>
+    <Reaction id="AR46" str="contusion">
+      <Normalization id="AR46.N1" meddra_pt="Contusion" meddra_pt_id="10050584" />
+    </Reaction>
+    <Reaction id="AR47" str="hemorrhage">
+      <Normalization id="AR47.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Hemorrhage" meddra_llt_id="10019524" />
+    </Reaction>
+    <Reaction id="AR48" str="hematoma">
+      <Normalization id="AR48.N1" meddra_pt="Haematoma" meddra_pt_id="10018852" meddra_llt="Hematoma" meddra_llt_id="10019428" />
+    </Reaction>
+    <Reaction id="AR49" str="vaginal hemorrhage">
+      <Normalization id="AR49.N1" meddra_pt="Vaginal haemorrhage" meddra_pt_id="10046910" meddra_llt="Vaginal hemorrhage" meddra_llt_id="10046912" />
+    </Reaction>
+    <Reaction id="AR50" str="urethral hemorrhage">
+      <Normalization id="AR50.N1" meddra_pt="Urethral haemorrhage" meddra_pt_id="10049710" meddra_llt="Urethral hemorrhage" meddra_llt_id="10055357" />
+    </Reaction>
+    <Reaction id="AR51" str="postprocedural hemorrhage">
+      <Normalization id="AR51.N1" meddra_pt="Post procedural haemorrhage" meddra_pt_id="10051077" meddra_llt="Post procedural hemorrhage" meddra_llt_id="10055320" />
+    </Reaction>
+    <Reaction id="AR52" str="postprocedural hematoma">
+      <Normalization id="AR52.N1" meddra_pt="Post procedural haematoma" meddra_pt_id="10063188" meddra_llt="Post procedural hematoma" meddra_llt_id="10063193" />
+    </Reaction>
+    <Reaction id="AR53" str="wound hemorrhage">
+      <Normalization id="AR53.N1" meddra_pt="Wound haemorrhage" meddra_pt_id="10051373" meddra_llt="Wound hemorrhage" meddra_llt_id="10055360" />
+    </Reaction>
+    <Reaction id="AR54" str="vessel puncture site hematoma">
+      <Normalization id="AR54.N1" meddra_pt="Vessel puncture site haematoma" meddra_pt_id="10065902" meddra_llt="Vessel puncture site hematoma" meddra_llt_id="10065905" />
+    </Reaction>
+    <Reaction id="AR55" str="catheter site hemorrhage">
+      <Normalization id="AR55.N1" meddra_pt="Catheter site haemorrhage" meddra_pt_id="10051099" meddra_llt="Catheter site hemorrhage" meddra_llt_id="10052266" />
+    </Reaction>
+    <Reaction id="AR56" str="transaminases increased">
+      <Normalization id="AR56.N1" meddra_pt="Transaminases increased" meddra_pt_id="10054889" />
+    </Reaction>
+    <Reaction id="AR57" str="alanine aminotransferase increased">
+      <Normalization id="AR57.N1" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" />
+    </Reaction>
+    <Reaction id="AR58" str="alanine aminotransferase abnormal">
+      <Normalization id="AR58.N1" meddra_pt="Alanine aminotransferase abnormal" meddra_pt_id="10001547" />
+    </Reaction>
+    <Reaction id="AR59" str="aspartate aminotransferase increased">
+      <Normalization id="AR59.N1" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" />
+    </Reaction>
+    <Reaction id="AR60" str="gamma-glutamyltransferase increased">
+      <Normalization id="AR60.N1" meddra_pt="Gamma-glutamyltransferase increased" meddra_pt_id="10017693" />
+    </Reaction>
+    <Reaction id="AR61" str="thrombocytopenia">
+      <Normalization id="AR61.N1" meddra_pt="Thrombocytopenia" meddra_pt_id="10043554" />
+    </Reaction>
+    <Reaction id="AR62" str="platelet count decreases">
+      <Normalization id="AR62.N1" meddra_pt="Platelet count decreased" meddra_pt_id="10035528" />
+    </Reaction>
+    <Reaction id="AR63" str="hypotension">
+      <Normalization id="AR63.N1" meddra_pt="Hypotension" meddra_pt_id="10021097" />
+    </Reaction>
+    <Reaction id="AR64" str="procedural hypotension">
+      <Normalization id="AR64.N1" meddra_pt="Procedural hypotension" meddra_pt_id="10062300" />
+    </Reaction>
+    <Reaction id="AR65" str="epistaxis">
+      <Normalization id="AR65.N1" meddra_pt="Epistaxis" meddra_pt_id="10015090" />
+    </Reaction>
+    <Reaction id="AR66" str="gastrointestinal hemorrhage">
+      <Normalization id="AR66.N1" meddra_pt="Gastrointestinal haemorrhage" meddra_pt_id="10017955" meddra_llt="Gastrointestinal hemorrhage" meddra_llt_id="10017960" />
+    </Reaction>
+    <Reaction id="AR67" str="hematemesis">
+      <Normalization id="AR67.N1" meddra_pt="Haematemesis" meddra_pt_id="10018830" meddra_llt="Hematemesis" meddra_llt_id="10019418" />
+    </Reaction>
+    <Reaction id="AR68" str="melena">
+      <Normalization id="AR68.N1" meddra_pt="Melaena" meddra_pt_id="10027141" meddra_llt="Melena" meddra_llt_id="10027162" />
+    </Reaction>
+    <Reaction id="AR69" str="hematochezia">
+      <Normalization id="AR69.N1" meddra_pt="Haematochezia" meddra_pt_id="10018836" meddra_llt="Hematochezia" meddra_llt_id="10060544" />
+    </Reaction>
+    <Reaction id="AR70" str="liver function test abnormal">
+      <Normalization id="AR70.N1" meddra_pt="Liver function test abnormal" meddra_pt_id="10024690" />
+    </Reaction>
+    <Reaction id="AR71" str="blood alkaline phosphatase increased">
+      <Normalization id="AR71.N1" meddra_pt="Blood alkaline phosphatase increased" meddra_pt_id="10059570" />
+    </Reaction>
+    <Reaction id="AR72" str="blood bilirubin increased">
+      <Normalization id="AR72.N1" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" />
+    </Reaction>
+    <Reaction id="AR73" str="hematuria">
+      <Normalization id="AR73.N1" meddra_pt="Haematuria" meddra_pt_id="10018867" meddra_llt="Hematuria" meddra_llt_id="10019450" />
+    </Reaction>
+    <Reaction id="AR74" str="wound secretion">
+      <Normalization id="AR74.N1" meddra_pt="Wound secretion" meddra_pt_id="10048629" />
+    </Reaction>
+    <Reaction id="AR75" str="incision-site hemorrhage">
+      <Normalization id="AR75.N1" meddra_pt="Incision site haemorrhage" meddra_pt_id="10051100" meddra_llt="Incision site hemorrhage" meddra_llt_id="10055289" />
+    </Reaction>
+    <Reaction id="AR76" str="incision-site hematoma">
+      <Normalization id="AR76.N1" meddra_pt="Incision site haematoma" meddra_pt_id="10059241" meddra_llt="Incision site hematoma" meddra_llt_id="10059246" />
+    </Reaction>
+    <Reaction id="AR77" str="operative hemorrhage">
+      <Normalization id="AR77.N1" meddra_pt="Procedural haemorrhage" meddra_pt_id="10071229" meddra_llt="Operative hemorrhage" meddra_llt_id="10055310" />
+    </Reaction>
+    <Reaction id="AR78" str="gingival bleeding">
+      <Normalization id="AR78.N1" meddra_pt="Gingival bleeding" meddra_pt_id="10018276" />
+    </Reaction>
+    <Reaction id="AR79" str="hemoptysis">
+      <Normalization id="AR79.N1" meddra_pt="Haemoptysis" meddra_pt_id="10018964" meddra_llt="Hemoptysis" meddra_llt_id="10019523" />
+    </Reaction>
+    <Reaction id="AR80" str="hypersensitivity">
+      <Normalization id="AR80.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Reaction>
+    <Reaction id="AR81" str="muscle hemorrhage">
+      <Normalization id="AR81.N1" meddra_pt="Muscle haemorrhage" meddra_pt_id="10028309" meddra_llt="Muscle hemorrhage" meddra_llt_id="10028310" />
+    </Reaction>
+    <Reaction id="AR82" str="ocular hemorrhage">
+      <Normalization id="AR82.N1" meddra_pt="Eye haemorrhage" meddra_pt_id="10015926" meddra_llt="Ocular hemorrhage" meddra_llt_id="10030040" />
+    </Reaction>
+    <Reaction id="AR83" str="conjunctival hemorrhage">
+      <Normalization id="AR83.N1" meddra_pt="Conjunctival haemorrhage" meddra_pt_id="10010719" meddra_llt="Conjunctival hemorrhage" meddra_llt_id="10010720" />
+    </Reaction>
+    <Reaction id="AR84" str="rectal hemorrhage">
+      <Normalization id="AR84.N1" meddra_pt="Rectal haemorrhage" meddra_pt_id="10038063" meddra_llt="Rectal hemorrhage" meddra_llt_id="10038064" />
+    </Reaction>
+    <Reaction id="AR85" str="menorrhagia">
+      <Normalization id="AR85.N1" meddra_pt="Menorrhagia" meddra_pt_id="10027313" />
+    </Reaction>
+    <Reaction id="AR86" str="crnm">
+      <Normalization id="AR86.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR87" str="clinically relevant nonmajor bleeding">
+      <Normalization id="AR87.N1" meddra_pt="Haemorrhage" meddra_pt_id="10055798" meddra_llt="Bleeding" meddra_llt_id="10005103" />
+    </Reaction>
+    <Reaction id="AR88" str="hemorrhoidal hemorrhage">
+      <Normalization id="AR88.N1" meddra_pt="Haemorrhoidal haemorrhage" meddra_pt_id="10054787" meddra_llt="Hemorrhoidal hemorrhage" meddra_llt_id="10060640" />
+    </Reaction>
+    <Reaction id="AR89" str="anal hemorrhage">
+      <Normalization id="AR89.N1" meddra_pt="Anal haemorrhage" meddra_pt_id="10049555" meddra_llt="Anal hemorrhage" meddra_llt_id="10055226" />
+    </Reaction>
+    <Reaction id="AR90" str="traumatic hematoma">
+      <Normalization id="AR90.N1" meddra_pt="Traumatic haematoma" meddra_pt_id="10044522" meddra_llt="Traumatic hematoma" meddra_llt_id="10044525" />
+    </Reaction>
+    <Reaction id="AR91" str="periorbital hematoma">
+      <Normalization id="AR91.N1" meddra_pt="Periorbital haematoma" meddra_pt_id="10034544" meddra_llt="Periorbital hematoma" meddra_llt_id="10055379" />
+    </Reaction>
+    <Reaction id="AR92" str="metrorrhagia">
+      <Normalization id="AR92.N1" meddra_pt="Metrorrhagia" meddra_pt_id="10027514" />
+    </Reaction>
+    <Reaction id="AR93" str="menometrorrhagia">
+      <Normalization id="AR93.N1" meddra_pt="Menometrorrhagia" meddra_pt_id="10027295" />
+    </Reaction>
+    <Reaction id="AR94" str="genital hemorrhage">
+      <Normalization id="AR94.N1" meddra_pt="Genital haemorrhage" meddra_pt_id="10061178" meddra_llt="Genital hemorrhage" meddra_llt_id="10055260" />
+    </Reaction>
+    <Reaction id="AR95" str="ecchymosis">
+      <Normalization id="AR95.N1" meddra_pt="Ecchymosis" meddra_pt_id="10014080" />
+    </Reaction>
+    <Reaction id="AR96" str="skin hemorrhage">
+      <Normalization id="AR96.N1" meddra_pt="Skin haemorrhage" meddra_pt_id="10064265" meddra_llt="Skin hemorrhage" meddra_llt_id="10064266" />
+    </Reaction>
+    <Reaction id="AR97" str="petechiae">
+      <Normalization id="AR97.N1" meddra_pt="Petechiae" meddra_pt_id="10034754" />
+    </Reaction>
+    <Reaction id="AR98" str="retinal hemorrhage">
+      <Normalization id="AR98.N1" meddra_pt="Retinal haemorrhage" meddra_pt_id="10038867" meddra_llt="Retinal hemorrhage" meddra_llt_id="10038870" />
+    </Reaction>
+    <Reaction id="AR99" str="eye hemorrhage">
+      <Normalization id="AR99.N1" meddra_pt="Eye haemorrhage" meddra_pt_id="10015926" meddra_llt="Eye hemorrhage" meddra_llt_id="10015928" />
+    </Reaction>
+    <Reaction id="AR100" str="blood urine present">
+      <Normalization id="AR100.N1" meddra_pt="Blood urine present" meddra_pt_id="10018870" />
+    </Reaction>
+    <Reaction id="AR101" str="occult blood positive">
+      <Normalization id="AR101.N1" meddra_pt="Occult blood positive" meddra_pt_id="10061880" />
+    </Reaction>
+    <Reaction id="AR102" str="occult blood">
+      <Normalization id="AR102.N1" meddra_pt="Occult blood" meddra_pt_id="10061878" />
+    </Reaction>
+    <Reaction id="AR103" str="red blood cells urine positive">
+      <Normalization id="AR103.N1" meddra_pt="Red blood cells urine positive" meddra_pt_id="10038182" />
+    </Reaction>
+    <Reaction id="AR104" str="injection-site hematoma">
+      <Normalization id="AR104.N1" meddra_pt="Injection site haematoma" meddra_pt_id="10022066" meddra_llt="Injection site hematoma" meddra_llt_id="10055371" />
+    </Reaction>
+    <Reaction id="AR105" str="vessel puncture-site hematoma">
+      <Normalization id="AR105.N1" meddra_pt="Vessel puncture site haematoma" meddra_pt_id="10065902" meddra_llt="Vessel puncture site hematoma" meddra_llt_id="10065905" />
+    </Reaction>
+    <Reaction id="AR106" str="spinal hematoma">
+      <Normalization id="AR106.N1" meddra_pt="Spinal cord haematoma" meddra_pt_id="10076051" meddra_llt="Spinal hematoma" meddra_llt_id="10055382" />
+    </Reaction>
+    <Reaction id="AR107" str="epidural hematoma">
+      <Normalization id="AR107.N1" meddra_pt="Extradural haematoma" meddra_pt_id="10015769" meddra_llt="Epidural hematoma" meddra_llt_id="10015013" />
+    </Reaction>
+    <Reaction id="AR108" str="epidural hematomas">
+      <Normalization id="AR108.N1" meddra_pt="Extradural haematoma" meddra_pt_id="10015769" meddra_llt="Epidural hematoma" meddra_llt_id="10015013" />
+    </Reaction>
+    <Reaction id="AR109" str="spinal hematomas">
+      <Normalization id="AR109.N1" meddra_pt="Spinal cord haematoma" meddra_pt_id="10076051" meddra_llt="Spinal hematoma" meddra_llt_id="10055382" />
+    </Reaction>
+    <Reaction id="AR110" str="hematomas">
+      <Normalization id="AR110.N1" meddra_pt="Haematoma" meddra_pt_id="10018852" meddra_llt="Hematoma" meddra_llt_id="10019428" />
+    </Reaction>
+    <Reaction id="AR111" str="long-term paralysis">
+      <Normalization id="AR111.N1" meddra_pt="Paralysis" meddra_pt_id="10033799" meddra_llt="Paralysed" meddra_llt_id="10033798" />
+    </Reaction>
+    <Reaction id="AR112" str="permanent paralysis">
+      <Normalization id="AR112.N1" meddra_pt="Paralysis" meddra_pt_id="10033799" />
+    </Reaction>
+    <Reaction id="AR113" str="stroke">
+      <Normalization id="AR113.N1" meddra_pt="Cerebrovascular accident" meddra_pt_id="10008190" meddra_llt="Stroke" meddra_llt_id="10042244" />
+    </Reaction>
+  </Reactions>
+</Label>

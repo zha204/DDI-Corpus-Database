@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="fludeoxyglucose" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting.  Have emergency resuscitation equipment and personnel immediately available.
+
+
+
+   EXCERPT:   Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (  6  ).    
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact The Feinstein Institute for Medical Research at 516-562-1042 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  
+
+
+
+    EXCERPT:    *  Radiation risks: use smallest dose necessary for imaging (  5.1  ). 
+ *  Blood glucose abnormalities: may cause suboptimal imaging (  5.2  ). 
+    
+ 
+
+   5.1 Radiation Risks
+
+
+
+  Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients.  Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5)  ].
+
+
+
+    5.2 Blood Glucose Abnormalities
+
+
+
+  In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels.  In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

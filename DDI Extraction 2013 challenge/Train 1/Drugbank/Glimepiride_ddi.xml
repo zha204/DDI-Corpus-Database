@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d521">
+    <sentence id="DDI-DrugBank.d521.s0" text="Many other medicines may increase or decrease the effects of glimepiride or affect your condition.">
+        <entity id="DDI-DrugBank.d521.s0.e0" charOffset="61-71"
+            type="drug" text="glimepiride"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s1" text="Before taking glimepiride, tell your doctor if you are taking any of the following medicines: - aspirin or another salicylate such as magnesium/choline salicylate (Trilisate), salsalate (Disalcid, others), choline salicylate (Arthropan), magnesium salicylate (Magan), or bismuth subsalicylate (Pepto-Bismol);">
+        <entity id="DDI-DrugBank.d521.s1.e0" charOffset="14-24"
+            type="drug" text="glimepiride"/>
+        <entity id="DDI-DrugBank.d521.s1.e1" charOffset="96-102"
+            type="brand" text="aspirin"/>
+        <entity id="DDI-DrugBank.d521.s1.e2" charOffset="115-124"
+            type="group" text="salicylate"/>
+        <entity id="DDI-DrugBank.d521.s1.e3" charOffset="134-161"
+            type="drug" text="magnesium/choline salicylate"/>
+        <entity id="DDI-DrugBank.d521.s1.e4" charOffset="164-172"
+            type="brand" text="Trilisate"/>
+        <entity id="DDI-DrugBank.d521.s1.e5" charOffset="176-184"
+            type="drug" text="salsalate"/>
+        <entity id="DDI-DrugBank.d521.s1.e6" charOffset="187-194"
+            type="brand" text="Disalcid"/>
+        <entity id="DDI-DrugBank.d521.s1.e7" charOffset="206-223"
+            type="drug" text="choline salicylate"/>
+        <entity id="DDI-DrugBank.d521.s1.e8" charOffset="226-234"
+            type="drug" text="Arthropan"/>
+        <entity id="DDI-DrugBank.d521.s1.e9" charOffset="238-257"
+            type="drug" text="magnesium salicylate"/>
+        <entity id="DDI-DrugBank.d521.s1.e10" charOffset="260-264"
+            type="brand" text="Magan"/>
+        <entity id="DDI-DrugBank.d521.s1.e11" charOffset="271-291"
+            type="drug" text="bismuth subsalicylate"/>
+        <entity id="DDI-DrugBank.d521.s1.e12" charOffset="294-305"
+            type="brand" text="Pepto-Bismol"/>
+        <ddi id="DDI-DrugBank.d521.s1.d0" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e1" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d1" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e2" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d2" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e3" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d3" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e4" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d4" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e5" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d5" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e6" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d6" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e7" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d7" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e8" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d8" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e9" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d9" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e10" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d10" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e11" type="advise"/>
+        <ddi id="DDI-DrugBank.d521.s1.d11" e1="DDI-DrugBank.d521.s1.e0"
+            e2="DDI-DrugBank.d521.s1.e12" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s2" text="- a nonsteroidal anti-inflammatory drug (NSAID) such as ibuprofen (Motrin, Advil, Nuprin, others), ketoprofen (Orudis, Orudis KT, Oruvail), diclofenac (Voltaren, Cataflam), etodolac (Lodine), indomethacin (Indocin), nabumetone (Relafen), oxaprozin (Daypro), and naproxen (Anaprox, Naprosyn, Aleve);">
+        <entity id="DDI-DrugBank.d521.s2.e0" charOffset="4-38"
+            type="group" text="nonsteroidal anti-inflammatory drug"/>
+        <entity id="DDI-DrugBank.d521.s2.e1" charOffset="41-45"
+            type="group" text="NSAID"/>
+        <entity id="DDI-DrugBank.d521.s2.e2" charOffset="56-64"
+            type="drug" text="ibuprofen"/>
+        <entity id="DDI-DrugBank.d521.s2.e3" charOffset="67-72"
+            type="brand" text="Motrin"/>
+        <entity id="DDI-DrugBank.d521.s2.e4" charOffset="75-79"
+            type="brand" text="Advil"/>
+        <entity id="DDI-DrugBank.d521.s2.e5" charOffset="82-87"
+            type="brand" text="Nuprin"/>
+        <entity id="DDI-DrugBank.d521.s2.e6" charOffset="99-108"
+            type="drug" text="ketoprofen"/>
+        <entity id="DDI-DrugBank.d521.s2.e7" charOffset="111-116"
+            type="brand" text="Orudis"/>
+        <entity id="DDI-DrugBank.d521.s2.e8" charOffset="119-127"
+            type="brand" text="Orudis KT"/>
+        <entity id="DDI-DrugBank.d521.s2.e9" charOffset="130-136"
+            type="brand" text="Oruvail"/>
+        <entity id="DDI-DrugBank.d521.s2.e10" charOffset="140-149"
+            type="drug" text="diclofenac"/>
+        <entity id="DDI-DrugBank.d521.s2.e11" charOffset="152-159"
+            type="brand" text="Voltaren"/>
+        <entity id="DDI-DrugBank.d521.s2.e12" charOffset="162-169"
+            type="brand" text="Cataflam"/>
+        <entity id="DDI-DrugBank.d521.s2.e13" charOffset="173-180"
+            type="drug" text="etodolac"/>
+        <entity id="DDI-DrugBank.d521.s2.e14" charOffset="183-188"
+            type="brand" text="Lodine"/>
+        <entity id="DDI-DrugBank.d521.s2.e15" charOffset="192-203"
+            type="drug" text="indomethacin"/>
+        <entity id="DDI-DrugBank.d521.s2.e16" charOffset="206-212"
+            type="brand" text="Indocin"/>
+        <entity id="DDI-DrugBank.d521.s2.e17" charOffset="216-225"
+            type="drug" text="nabumetone"/>
+        <entity id="DDI-DrugBank.d521.s2.e18" charOffset="228-234"
+            type="brand" text="Relafen"/>
+        <entity id="DDI-DrugBank.d521.s2.e19" charOffset="238-246"
+            type="drug" text="oxaprozin"/>
+        <entity id="DDI-DrugBank.d521.s2.e20" charOffset="249-254"
+            type="brand" text="Daypro"/>
+        <entity id="DDI-DrugBank.d521.s2.e21" charOffset="262-269"
+            type="drug" text="naproxen"/>
+        <entity id="DDI-DrugBank.d521.s2.e22" charOffset="272-278"
+            type="brand" text="Anaprox"/>
+        <entity id="DDI-DrugBank.d521.s2.e23" charOffset="281-288"
+            type="brand" text="Naprosyn"/>
+        <entity id="DDI-DrugBank.d521.s2.e24" charOffset="291-295"
+            type="brand" text="Aleve"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s3" text="- a sulfa-based drug such as sulfamethoxazole-trimethoprim (Bactrim, Septra), sulfisoxazole (Gantrisin), or sulfasalazine (Azulfidine);">
+        <entity id="DDI-DrugBank.d521.s3.e0" charOffset="29-44"
+            type="drug" text="sulfamethoxazole"/>
+        <entity id="DDI-DrugBank.d521.s3.e1" charOffset="46-57"
+            type="drug" text="trimethoprim"/>
+        <entity id="DDI-DrugBank.d521.s3.e2" charOffset="60-66"
+            type="brand" text="Bactrim"/>
+        <entity id="DDI-DrugBank.d521.s3.e3" charOffset="69-74"
+            type="brand" text="Septra"/>
+        <entity id="DDI-DrugBank.d521.s3.e4" charOffset="78-90"
+            type="drug" text="sulfisoxazole"/>
+        <entity id="DDI-DrugBank.d521.s3.e5" charOffset="93-101"
+            type="brand" text="Gantrisin"/>
+        <entity id="DDI-DrugBank.d521.s3.e6" charOffset="108-120"
+            type="drug" text="sulfasalazine"/>
+        <entity id="DDI-DrugBank.d521.s3.e7" charOffset="123-132"
+            type="brand" text="Azulfidine"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s4" text="- a monoamine oxidase inhibitor (MAOI) such as isocarboxazid (Marplan), tranylcypromine (Parnate), or phenelzine (Nardil);">
+        <entity id="DDI-DrugBank.d521.s4.e0" charOffset="4-30"
+            type="group" text="monoamine oxidase inhibitor"/>
+        <entity id="DDI-DrugBank.d521.s4.e1" charOffset="33-36"
+            type="group" text="MAOI"/>
+        <entity id="DDI-DrugBank.d521.s4.e2" charOffset="47-59"
+            type="drug" text="isocarboxazid"/>
+        <entity id="DDI-DrugBank.d521.s4.e3" charOffset="62-68"
+            type="brand" text="Marplan"/>
+        <entity id="DDI-DrugBank.d521.s4.e4" charOffset="72-86"
+            type="drug" text="tranylcypromine"/>
+        <entity id="DDI-DrugBank.d521.s4.e5" charOffset="89-95"
+            type="brand" text="Parnate"/>
+        <entity id="DDI-DrugBank.d521.s4.e6" charOffset="102-111"
+            type="drug" text="phenelzine"/>
+        <entity id="DDI-DrugBank.d521.s4.e7" charOffset="114-119"
+            type="brand" text="Nardil"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s5" text="- a beta-blocker such as propranolol (Inderal), atenolol (Tenormin), acebutolol (Sectral), metoprolol (Lopressor), and others;">
+        <entity id="DDI-DrugBank.d521.s5.e0" charOffset="4-15"
+            type="group" text="beta-blocker"/>
+        <entity id="DDI-DrugBank.d521.s5.e1" charOffset="25-35"
+            type="drug" text="propranolol"/>
+        <entity id="DDI-DrugBank.d521.s5.e2" charOffset="38-44"
+            type="brand" text="Inderal"/>
+        <entity id="DDI-DrugBank.d521.s5.e3" charOffset="48-55"
+            type="drug" text="atenolol"/>
+        <entity id="DDI-DrugBank.d521.s5.e4" charOffset="58-65"
+            type="brand" text="Tenormin"/>
+        <entity id="DDI-DrugBank.d521.s5.e5" charOffset="69-78"
+            type="drug" text="acebutolol"/>
+        <entity id="DDI-DrugBank.d521.s5.e6" charOffset="81-87"
+            type="brand" text="Sectral"/>
+        <entity id="DDI-DrugBank.d521.s5.e7" charOffset="91-100"
+            type="drug" text="metoprolol"/>
+        <entity id="DDI-DrugBank.d521.s5.e8" charOffset="103-111"
+            type="brand" text="Lopressor"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s6" text="- a diuretic (water pill) such as hydrochlorothiazide (HCTZ, Hydrodiuril), chlorothiazide (Diuril), and others;">
+        <entity id="DDI-DrugBank.d521.s6.e0" charOffset="4-11"
+            type="group" text="diuretic"/>
+        <entity id="DDI-DrugBank.d521.s6.e1" charOffset="34-52"
+            type="drug" text="hydrochlorothiazide"/>
+        <entity id="DDI-DrugBank.d521.s6.e2" charOffset="55-58"
+            type="drug" text="HCTZ"/>
+        <entity id="DDI-DrugBank.d521.s6.e3" charOffset="61-71"
+            type="brand" text="Hydrodiuril"/>
+        <entity id="DDI-DrugBank.d521.s6.e4" charOffset="75-88"
+            type="drug" text="chlorothiazide"/>
+        <entity id="DDI-DrugBank.d521.s6.e5" charOffset="91-96"
+            type="brand" text="Diuril"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s7" text="- a steroid medicine such as prednisone (Deltasone, Orasone, others), methylprednisolone (Medrol, others), prednisolone (Prelone, Pediapred, others), and others;">
+        <entity id="DDI-DrugBank.d521.s7.e0" charOffset="4-19"
+            type="group" text="steroid medicine"/>
+        <entity id="DDI-DrugBank.d521.s7.e1" charOffset="29-38"
+            type="drug" text="prednisone"/>
+        <entity id="DDI-DrugBank.d521.s7.e2" charOffset="41-49"
+            type="brand" text="Deltasone"/>
+        <entity id="DDI-DrugBank.d521.s7.e3" charOffset="52-58"
+            type="brand" text="Orasone"/>
+        <entity id="DDI-DrugBank.d521.s7.e4" charOffset="70-87"
+            type="drug" text="methylprednisolone"/>
+        <entity id="DDI-DrugBank.d521.s7.e5" charOffset="90-95"
+            type="brand" text="Medrol"/>
+        <entity id="DDI-DrugBank.d521.s7.e6" charOffset="107-118"
+            type="drug" text="prednisolone"/>
+        <entity id="DDI-DrugBank.d521.s7.e7" charOffset="121-127"
+            type="brand" text="Prelone"/>
+        <entity id="DDI-DrugBank.d521.s7.e8" charOffset="130-138"
+            type="brand" text="Pediapred"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s8" text="- a phenothiazine such as chlorpromazine (Thorazine), fluphenazine (Prolixin, Permitil), prochlorperazine (Compazine), promethazine (Phenergan), and others;">
+        <entity id="DDI-DrugBank.d521.s8.e0" charOffset="4-16"
+            type="group" text="phenothiazine"/>
+        <entity id="DDI-DrugBank.d521.s8.e1" charOffset="26-39"
+            type="drug" text="chlorpromazine"/>
+        <entity id="DDI-DrugBank.d521.s8.e2" charOffset="42-50"
+            type="brand" text="Thorazine"/>
+        <entity id="DDI-DrugBank.d521.s8.e3" charOffset="54-65"
+            type="drug" text="fluphenazine"/>
+        <entity id="DDI-DrugBank.d521.s8.e4" charOffset="68-75"
+            type="brand" text="Prolixin"/>
+        <entity id="DDI-DrugBank.d521.s8.e5" charOffset="78-85"
+            type="brand" text="Permitil"/>
+        <entity id="DDI-DrugBank.d521.s8.e6" charOffset="89-104"
+            type="drug" text="prochlorperazine"/>
+        <entity id="DDI-DrugBank.d521.s8.e7" charOffset="107-115"
+            type="brand" text="Compazine"/>
+        <entity id="DDI-DrugBank.d521.s8.e8" charOffset="119-130"
+            type="drug" text="promethazine"/>
+        <entity id="DDI-DrugBank.d521.s8.e9" charOffset="133-141"
+            type="brand" text="Phenergan"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s9" text="- phenytoin (Dilantin);">
+        <entity id="DDI-DrugBank.d521.s9.e0" charOffset="2-10"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d521.s9.e1" charOffset="13-20"
+            type="brand" text="Dilantin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s10" text="- isoniazid (Nydrazid);">
+        <entity id="DDI-DrugBank.d521.s10.e0" charOffset="2-10"
+            type="drug" text="isoniazid"/>
+        <entity id="DDI-DrugBank.d521.s10.e1" charOffset="13-20"
+            type="brand" text="Nydrazid"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s11" text="- rifampin (Rifadin, Rifamate);">
+        <entity id="DDI-DrugBank.d521.s11.e0" charOffset="2-9"
+            type="drug" text="rifampin"/>
+        <entity id="DDI-DrugBank.d521.s11.e1" charOffset="12-18"
+            type="brand" text="Rifadin"/>
+        <entity id="DDI-DrugBank.d521.s11.e2" charOffset="21-28"
+            type="brand" text="Rifamate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s12" text="or - over-the-counter cough, cold, allergy, or weight loss medications."/>
+    <sentence id="DDI-DrugBank.d521.s13" text="You may require a dosage adjustment or special monitoring if you are taking any of the medicines listed above."/>
+    <sentence id="DDI-DrugBank.d521.s14" text="Drugs other than those listed here may also interact with glimepiride or affect your condition.">
+        <entity id="DDI-DrugBank.d521.s14.e0" charOffset="58-68"
+            type="drug" text="glimepiride"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d521.s15" text="Talk to your doctor and pharmacist before taking any prescription or over-the-counter medicines, including herbal products."/>
+</document>

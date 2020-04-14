@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="estradiol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  See    BOXED WARNINGS  ,  WARNINGS  ,  and    PRECAUTIONS    .
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+
+
+
+ The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
+
+
+
+   1. Genitourinary system
+
+  Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding; spotting; dysmenorrhea, increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
+
+
+
+   2. Breasts
+
+  Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
+
+
+
+   3. Cardiovascular
+
+  Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
+
+
+
+   4. Gastrointestinal
+
+  Nausea, vomiting; abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis, enlargement of hepatic hemangiomas.
+
+
+
+   5. Skin
+
+  Chloasma or melasma, which may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritus, rash.
+
+
+
+   6. Eyes
+
+  Retinal vascular thrombosis; intolerance to contact lenses.
+
+
+
+   7. Central Nervous System
+
+  Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy, dementia.
+
+
+
+   8. Miscellaneous
+
+  Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; urticaria, angioedema, anaphylactoid/anaphylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
+
+
+
+ For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER
+
+    ESTROGENS INCREASE THE RISK OF ENDOMETRIAL CANCER  
+
+  Close clinical surveillance of all women taking estrogens is important. Adequate diagnostic measures, including endometrial sampling when indicated, should be undertaken to rule out malignancy in all cases of undiagnosed persistent or recurring abnormal vaginal bleeding. There is no evidence that the use of "natural" estrogens results in a different endometrial risk profile than synthetic estrogens at equivalent estrogen doses. (See     WARNINGS, Malignant neoplasms, Endometrial cancer    ).
+
+
+
+   CARDIOVASCULAR AND OTHER RISKS
+
+  Estrogens and progestins should not be used for the prevention of cardiovascular disease. (See     WARNINGS, Cardiovascular disorders    ).
+
+
+
+ The Women's Health Initiative (WHI) study reported increased risks of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis in postmenopausal women   (50 to 79 years of age) during 5 years of treatment with oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) relative to placebo. (See     CLINICAL PHARMACOLOGY, Clinical Studies    ).
+
+
+
+ The Women's Health Initiative Memory Study (WHIMS), a substudy of WHI, reported increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with oral conjugated estrogens plus medroxyprogesterone acetate relative to placebo. It is unknown whether this finding applies to younger postmenopausal women or to women taking estrogen alone therapy. (See     CLINICAL PHARMACOLOGY, Clinical Studies    ).
+
+
+
+ Other doses of oral conjugated estrogens with medroxyprogesterone acetate, and other combinations and dosage forms of estrogens and progestins were not studied in the WHI clinical trials and, in the absence of comparable data, these risks should be assumed to be similar. Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
+
+
+
+ 
+
+
+
+
+
+    BOXED WARNING: 
+
+    WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT     ESTRADIOL VALERATE INJECTION (AN ESTROGEN HORMONE)?  
+
+
+
+ *  Estrogens increase the chances of getting cancer of the uterus.Report any unusual vaginal bleeding right away while you are taking estrogens. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. 
+ *  Do not use estrogens with or without progestins to prevent heart disease, heart attacks, or strokes.Using estrogens with or without progestins may increase your chances of getting heart attacks, strokes, breast cancer, and blood clots. Using estrogens with progestins may increase your risk of dementia. You and your healthcare provider should talk regularly about whether you still need treatment with estradiol valerate injection. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

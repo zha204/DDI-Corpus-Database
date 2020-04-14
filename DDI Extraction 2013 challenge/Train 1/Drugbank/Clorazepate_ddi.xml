@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d335">
+    <sentence id="DDI-DrugBank.d335.s0" text="If TRANXENE is to be combined with other drugs acting on the central nervous system, careful consideration should be given to the pharmacology of the agents to be employed.">
+        <entity id="DDI-DrugBank.d335.s0.e0" charOffset="3-10"
+            type="brand" text="TRANXENE"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s1" text="Animal experience indicates that clorazepate dipotassium prolongs the sleeping time after hexobarbital or after ethyl alcohol, increases the inhibitory effects of chlorpromazine, but does not exhibit monoamine oxidase inhibition.">
+        <entity id="DDI-DrugBank.d335.s1.e0" charOffset="33-55"
+            type="drug" text="clorazepate dipotassium"/>
+        <entity id="DDI-DrugBank.d335.s1.e1" charOffset="90-101"
+            type="drug" text="hexobarbital"/>
+        <entity id="DDI-DrugBank.d335.s1.e2" charOffset="112-124"
+            type="drug" text="ethyl alcohol"/>
+        <entity id="DDI-DrugBank.d335.s1.e3" charOffset="163-176"
+            type="drug" text="chlorpromazine"/>
+        <ddi id="DDI-DrugBank.d335.s1.d0" e1="DDI-DrugBank.d335.s1.e0"
+            e2="DDI-DrugBank.d335.s1.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d335.s1.d1" e1="DDI-DrugBank.d335.s1.e0"
+            e2="DDI-DrugBank.d335.s1.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d335.s1.d2" e1="DDI-DrugBank.d335.s1.e0"
+            e2="DDI-DrugBank.d335.s1.e3" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s2" text="Clinical studies have shown increased sedation with concurrent hypnotic medications.">
+        <entity id="DDI-DrugBank.d335.s2.e0" charOffset="63-82"
+            type="group" text="hypnotic medications"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s3" text="The actions of the benzodiazepines may be potentiated by barbiturates, narcotics, phenothiazines, monoamine oxidase inhibitors or other antidepressants.">
+        <entity id="DDI-DrugBank.d335.s3.e0" charOffset="19-33"
+            type="group" text="benzodiazepines"/>
+        <entity id="DDI-DrugBank.d335.s3.e1" charOffset="57-68"
+            type="group" text="barbiturates"/>
+        <entity id="DDI-DrugBank.d335.s3.e2" charOffset="71-79"
+            type="group" text="narcotics"/>
+        <entity id="DDI-DrugBank.d335.s3.e3" charOffset="82-95"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d335.s3.e4" charOffset="98-125"
+            type="group" text="monoamine oxidase inhibitors"/>
+        <entity id="DDI-DrugBank.d335.s3.e5" charOffset="136-150"
+            type="group" text="antidepressants"/>
+        <ddi id="DDI-DrugBank.d335.s3.d0" e1="DDI-DrugBank.d335.s3.e0"
+            e2="DDI-DrugBank.d335.s3.e1" type="effect"/>
+        <ddi id="DDI-DrugBank.d335.s3.d1" e1="DDI-DrugBank.d335.s3.e0"
+            e2="DDI-DrugBank.d335.s3.e2" type="effect"/>
+        <ddi id="DDI-DrugBank.d335.s3.d2" e1="DDI-DrugBank.d335.s3.e0"
+            e2="DDI-DrugBank.d335.s3.e3" type="effect"/>
+        <ddi id="DDI-DrugBank.d335.s3.d3" e1="DDI-DrugBank.d335.s3.e0"
+            e2="DDI-DrugBank.d335.s3.e4" type="effect"/>
+        <ddi id="DDI-DrugBank.d335.s3.d4" e1="DDI-DrugBank.d335.s3.e0"
+            e2="DDI-DrugBank.d335.s3.e5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s4" text="If TRANXENE tablets are used to treat anxiety associated with somatic disease states, careful attention must be paid to possible drug interaction with concomitant medication.">
+        <entity id="DDI-DrugBank.d335.s4.e0" charOffset="3-10"
+            type="brand" text="TRANXENE"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s5" text="In bioavailability studies with normal subjects, the concurrent administration of antacids at therapeutic levels did not significantly influence the bioavailability of TRANXENE tablets.">
+        <entity id="DDI-DrugBank.d335.s5.e0" charOffset="82-89"
+            type="group" text="antacids"/>
+        <entity id="DDI-DrugBank.d335.s5.e1" charOffset="168-175"
+            type="brand" text="TRANXENE"/>
+    </sentence>
+</document>

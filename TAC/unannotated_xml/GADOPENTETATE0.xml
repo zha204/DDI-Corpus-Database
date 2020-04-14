@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="gadopentetate0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The mean age of the 1272 patients who received Gadopentetate dimeglumine Injection in pre-market clinical trials was 46.4 years (range 2 to 93 years). Of these patients, 55% (700) were male and 45% (572) were female. Of the 1271 patients who received Gadopentetate dimeglumine Injection and for whom race was reported, 82.1% (1043) were Caucasian, 9.7% (123) were Black, 5.3% (67) were Hispanic, 2.1% (27) were Oriental/Asian, and 0.9% (11) were other.
+
+
+
+ The most common adverse reaction was headache (4.8%). The majority of headaches were transient and of mild to moderate severity. Other adverse reactions that occurred in &gt;= 1% of patients included: nausea (2.7%), injection site coldness/localized coldness (2.3%) and dizziness (1%).
+
+
+
+ The following additional adverse reactions occurred in less than 1% of the patients:
+
+
+
+   General Disorders:  injection site reactions, including phlebitis, pain, localized warmth, localized edema, and burning sensation; substernal chest pain, back pain, pyrexia, asthenia, feeling cold, generalized warmth, fatigue, and chest tightness, and anaphylactoid reactions characterized by cardiovascular, respiratory and/or cutaneous symptoms, such as dyspnea, bronchospasm, and cough (see  WARNINGS AND PRECAUTIONS.  )
+
+
+
+   Cardiovascular:  Hypotension, hypertension, tachycardia, migraine, syncope, vasodilatation, pallor.
+
+
+
+   Gastrointestinal:  Abdominal discomfort, teeth pain, increased salivation, abdominal pain, vomiting, diarrhea.
+
+
+
+   Nervous System:  Agitation, anxiety, thirst, somnolence, diplopia, loss of consciousness, convulsions (including grand mal), paresthesia.
+
+
+
+   Respiratory System:  Throat irritation, rhinitis, sneezing.
+
+
+
+   Skin:  Rash, sweating (hyperhidrosis), pruritus, urticaria (hives), facial edema.
+
+
+
+   Special Senses:  Conjunctivitis, taste abnormality, dry mouth, lacrimation, eye irritation, eye pain, ear pain.
+
+
+
+   Postmarketing Experience  
+
+
+
+ The following additional adverse reactions have been identified during postmarketing use of gadopentetate dimeglumine. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The most serious reactions were nephrogenic systemic fibrosis (see  Boxed Warning  ) and acute reactions including cardiac or respiratory arrest, anaphylactic shock, shock, respiratory distress, and laryngeal edema. Life threatening and/or fatal adverse reactions have been reported. The most frequently reported adverse reactions in the postmarketing experience were nausea, vomiting, urticaria and rash.
+
+
+
+   General Disorders and Administration Site Conditions:  Nephrogenic systemic fibrosis (see  Warnings and Precautions  ), body temperature decreased, tremor, shivering (chills).
+
+
+
+   Hypersensitivity Reactions:  Anaphylactic/anaphylactoid reactions that may be fatal and include cardiac or respiratory arrest, respiratory distress, cyanosis, laryngeal edema, laryngospasm, pharyngeal edema, and angioedema (see  Warnings and Precautions  ).
+
+
+
+ Delayed hypersensitivity reactions have been reported up to several hours after administration of gadopentetate dimeglumine.
+
+
+
+   Renal and Urinary:  Acute renal failure, worsening renal impairment (see  Warnings and Precautions  ), urinary incontinence, urinary urgency.
+
+
+
+   Vascular:  Thrombophlebitis, deep vein thrombophlebitis, compartment syndrome requiring surgical intervention.
+
+
+
+   Cardiac:  Cardiac arrest, heart rate decreased, arrhythmia.
+
+
+
+   Ear and Labyrinth Disorders:  Hearing impaired.
+
+
+
+   Eye Disorders:  Visual disturbance.
+
+
+
+   Musculoskeletal and Connective Tissue Disorder:  Arthralgia.
+
+
+
+   Nervous System Disorders:  Coma, parosmia, speech disorder.
+
+
+
+   Respiratory System:  Respiratory arrest, pulmonary edema.
+
+
+
+   Skin:  Erythema multiforme, pustules (rash pustular).
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: NEPHROGENIC SYSTEMIC FIBROSIS (NSF)
+
+  WARNING: NEPHROGENIC SYSTEMIC FIBROSIS (NSF)
+
+  Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with
+
+
+
+ impaired elimination of the drugs.  Avoid use of GBCAs in these patients unless the diagnostic
+
+
+
+ information is essential and not available with non-contrasted MRI or other modalities.  NSF may
+
+
+
+ result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs.
+
+
+
+  Do not administer gadopentetate dimeglumine to patients with:
+
+
+
+ ? chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m2), or
+
+
+
+ ? acute kidney injury (see CONTRAINDICATIONS).
+
+
+
+  Screen patients for acute kidney injury and other conditions that may reduce renal function.
+
+
+
+ For patients at risk for chronically reduced renal function (for example, age &gt;60 years,
+
+
+
+ hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory
+
+
+
+ testing.
+
+
+
+ Do not exceed the recommended gadopentetate dimeglumine dose and allow a sufficient period
+
+
+
+ of time for elimination of the drug from the body prior to any re-administration (see WARNINGS
+
+
+
+ AND PRECAUTIONS).
+</Section>
+    <Section name="warnings and precautions" id="S3">    WARNINGS AND PRECAUTIONS
+
+
+
+   Nephrogenic Systemic Fibrosis (NSF)
+
+
+
+  Gadolinium-based contrast agents (GBCAs) increase the risk for nephrogenic systemic fibrosis (NSF) among patients with impaired elimination of the drugs. Avoid use of GBCAs among these patients unless the diagnostic information is essential and not available with non-contrast enhanced MRI or other modalities. The GBCA-associated NSF risk appears highest for patients with chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m  2  ) as well as patients with acute kidney injury. Do not administer gadopentetate dimeglumine to these patients. The risk appears lower for patients with chronic, moderate kidney disease (GFR 30- 59 mL/min/1.73m  2  ) and little, if any, for patients with chronic, mild kidney disease (GFR 60- 89 mL/min/1.73m  2  ). NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs. Report any diagnosis of NSF following gadopentetate dimeglumine administration to Strides Arcolab Limited (1-877-244-9825 or  www.stridesarco.com  ) or FDA (1-800-FDA-1088 or  www.fda.gov/medwatch  ).
+
+
+
+ Screen patients for acute kidney injury and other conditions that may reduce renal function. Features of acute kidney injury consist of rapid (over hours to days) and usually reversible decrease in kidney function, commonly in the setting of surgery, severe infection, injury or drug-induced kidney toxicity. Serum creatinine levels and estimated GFR may not reliably assess renal function in the setting of acute kidney injury. For patients at risk for chronically reduced renal function (for example, age &gt; 60 years, diabetes mellitus or chronic hypertension), estimate the GFR through laboratory testing.
+
+
+
+ Among the factors that may increase the risk for NSF are repeated or higher than recommended doses of a GBCA and degree of renal impairment at the time of exposure. Record the specific GBCA and the dose administered to a patient. When administering gadopentetate dimeglumine, do not exceed the recommended dose and allow a sufficient period of time for elimination of the drug prior to re-administration (see CLINICAL PHARMACOLOGY  and DOSAGE AND ADMINISTRATION  ).
+
+
+
+    Hypersensitivity Reactions
+
+
+
+  Anaphylactoid and anaphylactic reactions with cardiovascular, respiratory and/or cutaneous manifestations rarely resulting in death have occurred. The risk of hypersensitivity reactions is higher in patients with a history of reaction to contrast media, bronchial asthma, or allergic disorders. Hypersensitivity reactions can occur with or without prior exposure to GBCAs.
+
+
+
+ Have appropriately trained personnel administer gadopentetate dimeglumine in a facility that has immediate availability of resuscitative equipment. If a hypersensitivity reaction occurs, stop Gadopentetate dimeglumine Injection and immediately begin appropriate therapy.
+
+
+
+ Observe closely patients with a history of drug reactions, allergy or other hypersensitivity disorders, during and up to several hours after Gadopentetate dimeglumine Injection.
+
+
+
+    Renal Failure
+
+
+
+  In patients with renal impairment, acute renal failure (acute kidney injury) requiring dialysis or worsening renal function has occurred, mostly within 48 hrs of Gadopentetate dimeglumine Injection. The risk of acute renal failure is higher with increasing dose of contrast. Use the lowest possible dose, evaluate renal function in patients with renal impairment, and allow sufficient time for contrast elimination before re-administration. Elimination half-life in patients with mild or moderate renal impairment is 3 to 4 hours. Elimination half-life in patients with severe renal impairment is about 11 hours. Gadopentetate dimeglumine is cleared by glomerular filtration and is dialyzable. After 3 dialysis sessions of 3 hours each, about 97% of the administered dose is eliminated from the body; each dialysis session removes about 70% of the circulating drug (see CLINICAL PHARMACOLOGY, Pharmacokinetics  ).
+
+
+
+    Injection Site Reactions
+
+
+
+  Skin and soft tissue necrosis, thrombosis, fasciitis, and compartment syndrome requiring surgical intervention (e.g., compartment release or amputation) have occurred very rarely at the site of contrast injection or the dosed limb. Total volume and rate of Gadopentetate dimeglumine Injection, extravasation of contrast agent, and patient susceptibility might contribute to these reactions. Phlebitis and thrombophlebitis may be observed generally within 24 hours after Gadopentetate dimeglumine Injection and resolve with supportive treatment. Determine the patency and integrity of the intravenous line before administration of Gadopentetate dimeglumine Injection. Assessment of the dosed limb for the development of injection site reactions is recommended.
+
+
+
+    Interference with Visualization of Lesions Visible with Non-Contrast MRI
+
+
+
+  As with any paramagnetic contrast agent, Gadopentetate dimeglumine Injection might impair the visualization of lesions seen on non-contrast MRI. Therefore, caution should be exercised when gadopentetate dimeglumine MRI scans are interpreted without a companion non-contrast MRI scan.
+
+
+
+    Patient Counseling Information
+
+
+
+  Patients scheduled to receive Gadopentetate dimeglumine Injection should be instructed to inform their physician if they are pregnant, breastfeeding, or have a history of renal insufficiency, asthma or allergic respiratory disorders. Additionally instruct patients to inform their physician if they:
+
+
+
+ *    Have a history of kidney and/or liver disease, or 
+ *    Have recently received a GBCA. 
+    GBCAs increase the risk of NSF among patients with impaired elimination of drugs. To counsel patients at risk of NSF:
+ 
+
+ *    Describe the clinical manifestation of NSF 
+ *    Describe procedures to screen for the detection of renal impairment 
+    Instruct the patients to contact their physician if they develop signs or symptoms of NSF following gadopentetate dimeglumine administration, such as burning, itching, swelling, scaling, hardening and tightening of the skin; red or dark patches on the skin; stiffness in joints with trouble moving, bending or straightening the arms, hands, legs or feet; pain in the hip bones or ribs; or muscle weakness.
+ 
+
+    LABORATORY TEST FINDINGS
+
+
+
+  Transitory changes in serum iron, bilirubin and transaminase levels were observed in clinical trials.
+
+
+
+ Gadopentetate dimeglumine Injection does not interfere with serum and plasma calcium measurements determined by colorimetric assays.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long term animal studies have not been performed to evaluate the carcinogenic potential of gadopentetate dimeglumine.
+
+
+
+ A comprehensive battery of in vitro  and in vivo  studies in bacterial and mammalian systems suggest that gadopentetate dimeglumine is not mutagenic or clastogenic and does not induce unscheduled DNA repair in rat hepatocytes or cause cellular transformation of mouse embryo fibroblasts. However, the drug did show some evidence of mutagenic potential in vivo in the mouse dominant lethal assay at doses of 6 mmol/kg, but did not show any such potential in the mouse and dog micronucleus tests at intravenous doses of 9 mmol/kg and 2.5 mmol/kg, respectively.
+
+
+
+ When administered intra-peritoneally to male and female rats daily prior to mating, during mating and during embryonic development for up to 74 days (males) or 35 days (females), gadopentetate caused a decrease in number of corpora lutea at the 0.1 mmol/kg dose level. After daily dosing with 2.5 mmol/kg suppression of food consumption and body weight gain (males and females) and a decrease in the weights of testes and epididymis were also observed.
+
+
+
+ In a separate experiment in rats, daily injections of gadopentetate dimeglumine over 16 days caused spermatogenic cell atrophy at a dose level of 5 mmol/kg but not at a dose level of 2.5 mmol/kg. This atrophy was not reversed within a 16-day observation period following the discontinuation of the drug.
+
+
+
+  Pregnancy  
+
+
+
+ Category C
+
+
+
+ Gadopentetate dimeglumine retarded fetal development slightly when given intravenously for 10 consecutive days to pregnant rats at daily doses of 0.25, 0.75, and 1.25 mmol/kg (2.5, 7.5 and 12.5 times the human dose based on body weight) and when given intravenously for 13 consecutive days to pregnant rabbits at daily doses of 0.75 and 1.25 mmol/kg (7.5 and 12.5 times the human dose respectively, based on body weight) but not at daily doses of 0.25 mmol/kg. No congenital anomalies were noted in rats or rabbits.
+
+
+
+ Adequate and well controlled studies were not conducted in pregnant women. Gadopentetate dimeglumine Injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  Gadopentetate dimeglumine is excreted in human milk. Gadopentetate dimeglumine Injection was administered intravenously to 18 lactating women with normal renal function at a dose of 0.1 mmol/kg body weight. In these women, less than 0.04% of the administered gadolinium was excreted into the breast milk during the 24-hour period following dosing. Breast milk obtained during the 24 hours following dosing revealed the average cumulative amount of gadolinium excreted in breast milk was 0.57+/-0.71 micromoles. The amount transferred from a 70 kg woman (receiving 0.1 mmol/kg body weight) to an infant by breastfeeding over a period of 24 hrs translates into less than 3 micromoles of gadolinium.
+
+
+
+ The overall duration of excretion of gadolinium into breast milk is unknown. The extent of the absorption of Gadopentetate dimeglumine Injection in infants and its effect on the breast-fed child remains unknown.
+
+
+
+    Pediatric Use
+
+
+
+  The use of gadopentetate dimeglumine in imaging the central nervous system, extracranial/extraspinal tissues, and body have been established in the pediatric population from the ages of 2 to 16 years on the basis of adequate and well controlled clinical trials in adults and safety studies in this pediatric population. (see CLINICAL TRIALS  for details).
+
+
+
+ Safety and efficacy in the pediatric population under the age of 2 years have not been established. Gadopentetate dimeglumine is eliminated primarily by the kidney. In a study with pediatric patients aged 2 months to &lt; 2 years the pharmacokinetics (body weight-normalized clearance, body weight-normalized distribution volume, and terminal half-life) gadopentetate were similar to adults. (see INDICATIONS  and DOSAGE AND ADMINISTRATION  ).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

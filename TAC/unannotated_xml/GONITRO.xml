@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="gonitro" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6 ADVERSE REACTIONS  
+
+    EXCERPT:   Most common adverse reactions occurring at a frequency greater than 2% are headache, dizzinesss and paresthesia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Espero Pharmaceuticals, Inc. at 1-800-235-6520 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1    Clinical Trials Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.      
+
+
+
+ Adverse reactions occurring at a frequency greater than 2% and greater than placebo included: headache, dizziness, and paresthesia.
+
+
+
+     6.2 Postmarketing Experience  
+
+  The following adverse reactions have been identified during post-approval use of GONITRO and other nitroglycerin drugs. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
+
+
+
+   Neurologic:  weakness, drowsiness  Dermatologi    c:  cutaneous vasodilation, flushing, drug rash, exfoliative dermatitits  Gastrointestinal:  nausea, vomiting  Respiratory:  transient hypoxemia  Cardiovascular:   tachycardia
+</Section>
+    <Section name="warnings and precautions" id="S2">     5 WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Tolerance: Excessive use may lead to tolerance. (  5.1  )  
+ *  Hypotension: Severe hypotension may occur. (  5.2  ) 
+    
+ 
+
+    5.1 Tolerance  
+
+
+
+  Excessive use may lead to the development of tolerance. Only the smallest number of doses required for effective relief of the acute angina attack should be used [see     Dosage and Administration (2.1)     ].  
+
+
+
+     5.   2   Hypotension  
+
+
+
+  Severe hypotension, particularly with upright posture, may occur even with small doses of nitroglycerin particularly in patients with constrictive pericarditis, aortic or mitral stenosis, patients who may be volume-depleted, or are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris. Symptoms of severe hypotension (nausea, vomiting, weakness, pallor, perspiration and collapse/syncope) may occur even with therapeutic doses.
+
+
+
+     5.3 Hypertrophic   Obstructive   Cardiomyopathy  
+
+
+
+  Nitrate therapy may aggravate the angina caused by hypertrophic obstructive cardiomyopathy.
+
+
+
+     5.4 Headache  
+
+
+
+  Nitroglycerin produces dose-related headaches, especially at the start of nitroglycerin therapy, which may be severe and persistent but usually subside with continued use.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

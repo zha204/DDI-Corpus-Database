@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="intralipid2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The adverse reactions observed can be separated into two classes:
+
+
+
+ *  Those more frequently encountered are due either to a) contamination of the intravenous catheter and result in sepsis, or to b) vein irritation by concurrently infused hypertonic solutions and may result in thrombophlebitis. These adverse reactions are inseparable from the hyperalimentation procedure with or without Intralipid  (r)  . 
+ *  Less frequent reactions more directly related to Intralipid  (r)  are: a) immediate or early adverse reactions, each of which has been reported to occur in clinical trials, in an incidence of less than 1%: dyspnea, cyanosis, allergic reactions, hyperlipemia, hypercoagulability, nausea, vomiting, headache, flushing, increase in temperature, sweating, sleepiness, pain in the chest and back, slight pressure over the eyes, dizziness, and irritation at the site of infusion, and, rarely, thrombocytopenia in neonates; b) delayed adverse reactions such as hepatomegaly, jaundice due to central lobular cholestasis, splenomegaly, thrombocytopenia, leukopenia, transient increases in liver function tests, and overloading syndrome (focal seizures, fever, leukocytosis, hepatomegaly, splenomegaly and shock). 
+    The deposition of a brown pigmentation in the reticuloendothelial system, the so-called "intravenous fat pigment," has been reported in patients infused with Intralipid  (r)  . The causes and significance of this phenomenon are unknown.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="benzaclin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  During clinical trials, the most frequently reported adverse event in the BenzaClin treatment group was dry skin (12%). The Table below lists local adverse events reported by at least 1% of patients in the BenzaClin and vehicle groups.
+
+
+
+
+   Local Adverse Events - all causalities    in &gt;/= 1% of patients     
+  
+                             BenzaClinn = 420      Vehiclen = 168       
+  Application site reaction    13 (3%)               1 (&lt;1%)              
+  Dry skin                   50 (12%)              10 (6%)              
+  Pruritus                   8 (2%)                1 (&lt;1%)              
+  Peeling                    9 (2%)                -                    
+  Erythema                   6 (1%)                1 (&lt;1%)              
+  Sunburn                    5 (1%)                -                    
+         The actual incidence of dry skin might have been greater were it not for the use of a moisturizer in these studies.
+ 
+
+ Hypersensitivity/allergic reactions (including facial swelling and urticaria) have been reported in post-marketing use with  BenzaClin Topical Gel  . Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="depen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    
+
+    ADVERSE REACTIONS - To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-800-526-3840 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ Penicillamine is a drug with a high incidence of untoward reactions, some of which are potentially fatal. Therefore, it is mandatory that patients receiving penicillamine therapy remain under close medical supervision throughout the period of drug administration (see  WARNINGS  and  PRECAUTIONS  ).
+
+
+
+ Reported incidences (%) for the most commonly occurring adverse reactions in rheumatoid arthritis patients are noted, based on 17 representative clinical trials reported in the literature (1270 patients).
+
+
+
+   Allergic  - Generalized pruritus, early and late rashes (5%), pemphigus (see  WARNINGS  ), and drug eruptions which may be accompanied by fever, arthralgia, or lymphadenopathy have occurred (see  WARNINGS  and  PRECAUTIONS  ). Some patients may show a lupus erythematosus-like syndrome similar to drug-induced lupus produced by other pharmacological agents (see  PRECAUTIONS  ).
+
+
+
+ Urticaria and exfoliative dermatitis have occurred.
+
+
+
+ Thyroiditis has been reported; hypoglycemia in association with anti-insulin antibodies has been reported. These reactions are extremely rare.
+
+
+
+ Some patients may develop a migratory polyarthralgia, often with objective synovitis (see  DOSAGE AND ADMINISTRATION  ).
+
+
+
+   Gastrointestinal  - Anorexia, epigastric pain, nausea, vomiting, or occasional diarrhea may occur (17%).
+
+
+
+ Isolated cases of reactivated peptic ulcer have occurred, as have hepatic dysfunction and pancreatitis. Intrahepatic cholestasis and toxic hepatitis have been reported rarely. There have been a few reports of increased serum alkaline phosphatase, lactic dehydrogenase, and positive cephalin flocculation and thymol turbidity tests.
+
+
+
+ Some patients may report a blunting, diminution, or total loss of taste perception (12%); or may develop oral ulcerations. Although rare, cheilosis, glossitis, and gingivo-stomatitis have been reported (see  PRECAUTIONS  ).
+
+
+
+ Gastrointestinal side effects are usually reversible following cessation of therapy.
+
+
+
+   Hematological  - Penicillamine can cause bone marrow depression (see  WARNINGS  ). Leukopenia (2%) and thrombocytopenia (4%) have occurred. Fatalities have been reported as a result of thrombocytopenia, agranulocytosis, aplastic anemia, and sideroblastic anemia.
+
+
+
+ Thrombotic thrombocytopenic purpura, hemolytic anemia, red cell aplasia, monocytosis, leukocytosis, eosinophilia, and thrombocytosis have also been reported.
+
+
+
+   Renal  - Patients on penicillamine therapy may develop proteinuria (6%) and/or hematuria which, in some, may progress to the development of the nephrotic syndrome as a result of an immune complex membranous glomerulopathy (see  WARNINGS  ).
+
+
+
+   Central Nervous System  - Tinnitus, optic neuritis, and peripheral sensory and motor neuropathies (including polyradiculoneuropathy, i.e., Guillain-Barre Syndrome) have been reported. Muscular weakness may or may not occur with the peripheral neuropathies.
+
+
+
+   Neuromuscular  - Myasthenia gravis (see  WARNINGS  ).
+
+
+
+   Other  - Adverse reactions that have been reported rarely include thrombophlebitis; hyperpyrexia (see  PRECAUTIONS  ); falling hair or alopecia; lichen planus; polymyositis; dermatomyositis; mammary hyperplasia; elastosis perforans serpiginosa; toxic epidermal necrolysis; anetoderma (cutaneous macular atrophy); and Goodpasture's syndrome, a severe and ultimately fatal glomerulonephritis associated with intra-alveolar hemorrhage (see  WARNINGS  ). Fatal renal vasculitis has also been reported. Allergic alveolitis, obliterative bronchiolitis, interstitial pneumonitis, and pulmonary fibrosis have been reported in patients with severe rheumatoid arthritis, some of whom were receiving penicillamine. Bronchial asthma also has been reported.
+
+
+
+ Increased skin friability, excessive wrinkling of skin, and development of small, white papules at venipuncture and surgical sites have been reported (see  PRECAUTIONS  ).
+
+
+
+ The chelating action of the drug may cause increased excretion of other heavy metals such as zinc, mercury, and lead.
+
+
+
+ There have been reports associating penicillamine with leukemia. However, circumstances involved in these reports are such that a cause and effect relationship to the drug has not been established.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+  Physicians planning to use penicillamine should thoroughly familiarize themselves with its toxicity, special dosage considerations, and therapeutic benefits. Penicillamine should never be used casually. Each patient should remain constantly under the close supervision of the physician. Patients should be warned to report promptly any symptoms suggesting toxicity. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

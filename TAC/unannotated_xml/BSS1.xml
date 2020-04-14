@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bss1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Irrigation or any other trauma may result in corneal swelling or bullous keratopathy.
+
+
+
+ Post-operative inflammatory reactions as well as incidents of corneal edema and corneal decompensation have been reported.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

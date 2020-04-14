@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="uptravi" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Adverse reactions occurring more frequently (&gt;=5%) on UPTRAVI compared to placebo are headache, diarrhea, jaw pain, nausea, myalgia, vomiting, pain in extremity, and flushing. (  6.1  )
+
+
+
+  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Actelion at 1-866-228-3546 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of UPTRAVI has been evaluated in a long-term, placebo-controlled study enrolling 1156 patients with symptomatic PAH (GRIPHON study)  [see Clinical Studies (  14  )].  The exposure to UPTRAVI in this trial was up to 4.2 years with median duration of exposure of 1.4 years.
+
+
+
+   Table1  presents adverse reactions more frequent on UPTRAVI than on placebo by &gt;=3%.
+
+
+
+ Table 1 Adverse Reactions 
+ Adverse Reaction  UPTRAVIN=575     PlaceboN=577      
+  
+ Headache         65%              32%               
+ Diarrhea         42%              18%               
+ Jaw pain         26%              6%                
+ Nausea           33%              18%               
+ Myalgia          16%              6%                
+ Vomiting         18%              9%                
+ Pain in Extremity  17%              8%                
+ Flushing         12%              5%                
+ Arthralgia       11%              8%                
+ Anemia           8%               5%                
+ Decreased appetite  6%               3%                
+ Rash             11%              8%                
+      These adverse reactions are more frequent during the dose titration phase.
+ 
+
+ Hyperthyroidism was observed in 1% (n=8) of patients on UPTRAVI and in none of the patients on placebo.
+
+
+
+   Laboratory Test Abnormalities  
+
+
+
+   Hemoglobin  
+
+
+
+ In a Phase 3 placebo-controlled study in patients with PAH, mean absolute changes in hemoglobin at regular visits compared to baseline ranged from -0.34 to -0.02 g/dL in the selexipag group compared to -0.05 to 0.25 g/dL in the placebo group. A decrease in hemoglobin concentration to below 10 g/dL was reported in 8.6% of patients treated with selexipag and 5.0% of placebo-treated patients.
+
+
+
+   Thyroid function tests  
+
+
+
+ In a Phase 3 placebo-controlled study in patients with PAH, a reduction (up to -0.3 MU/L from a baseline median of 2.5 MU/L) in median thyroid-stimulating hormone (TSH) was observed at most visits in the selexipag group. In the placebo group, little change in median values was apparent. There were no mean changes in triiodothyronine or thyroxine in either group.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Pulmonary edema in patients with pulmonary veno-occlusive disease. If confirmed, discontinue treatment. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Pulmonary Veno-Occlusive Disease (PVOD)
+
+
+
+  Should signs of pulmonary edema occur, consider the possibility of associated PVOD. If confirmed, discontinue UPTRAVI.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

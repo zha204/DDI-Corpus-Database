@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="prohance1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The adverse events described in this section were observed in clinical trials involving 1251 patients (670 males and 581 females). Adult patients ranged in age from 18-91 yrs. Pediatric patients ranged from 2-17 years. The racial breakdown was 83% Caucasian, 8% Black, 3% Hispanic, 2% Asian, and 1% other. In 2% of the patients, race was not reported.
+
+
+
+ The most commonly noted adverse experiences were nausea and taste perversion with an incidence of 1.4%. These events were mild to moderate in severity.
+
+
+
+ The following additional adverse events occurred in fewer than 1% of the patients:
+
+
+
+
+ Body as a Whole:                Facial Edema; Neck Rigidity; Pain; Pain at Injection Site; Injection Site Reaction; Chest Pain; Headache; Fever; Itching; Watery Eyes; Abdominal Cramps; Tingling Sensation in Throat; Laryngismus; Flushed Feeling; Vasovagal Reaction; Anaphylactoid Reactions (characterized by cardiovascular, respiratory and cutaneous symptoms)   
+ Cardiovascular:                 Prolonged P-R Interval; Hypotension; Elevated Heart Rate; A-V Nodal Rhythm   
+ Digestive:                      Edematous and/or itching tongue; Gingivitis; Dry Mouth; Loose Bowel; Vomiting   
+ Nervous System:                 Anxiety; Dizziness; Paresthesia; Mental Status Decline; Loss of Coordination in Arm; Staring Episode; Seizure; Syncope   
+ Respiratory System:             Dyspnea; Rhinitis; Cough                                                 
+ Skin and Appendages:            Pruritus; Rash; Rash Macular Papular; Urticaria; Hives; Tingling Sensation of Extremity and Digits   
+ Special Senses:                 Tinnitus                                                                 
+      The following adverse drug reactions have also been reported:
+ 
+
+
+ Body as a Whole:                Generalized Edema; Laryngeal Edema; Malaise; Anaphylactoid Reactions (characterized by cardiovascular, respiratory and cutaneous symptoms, and rarely resulting in Death)   
+ Cardiovascular:                 Cardiac Arrest; Bradycardia; Hypertension; and Death in association with pre-existing cardiovascular disorders   
+ Digestive:                      Increased Salivation; Dysphagia                                          
+ Nervous System:                 Stupor; Tremor; Loss of Consciousness                                    
+ Respiratory:                    Apnea; Wheezing                                                          
+ Skin and Appendages:            Sweating; and Cyanosis                                                   
+ Special Senses:                 Voice Alteration; Transitory Deafness                                    
+ Urogenital:                     Urinary Incontinence                                                     
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+  WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+  Gadolinium-based contrast agents (GBCAs) increase
+
+the risk for NSF among patients with impaired elimination of the drugs.
+
+Avoid use of GBCAs in these patients unless the diagnostic information
+
+is essential and not available with non-contrasted MRI or other modalities.
+
+NSF may result in fatal or debilitating systemic fibrosis affecting
+
+the skin, muscle and internal organs.
+
+
+
+ *  The risk for NSF appears highest among patients with: chronic, severe kidney disease (GFR &lt;30 mL/min/1.73m2), or acute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (e.g. age &gt; 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing. 
+ *  For patients at highest risk for NSF, do not exceed the recommended ProHance dose and allow a sufficient period of time for elimination of the drug from the body prior to re-administration (see WARNINGS). 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

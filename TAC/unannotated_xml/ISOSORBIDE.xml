@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="isosorbide" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Headache is the most frequent side effect and was the cause of 2% of all dropouts from controlled-clinical trials. Headache decreased in incidence after the first few days of therapy.
+
+
+
+ The following table shows the frequency of adverse reactions observed in 1% or more of subjects in 6 placebo-controlled trials, conducted in the United States and abroad. The same table shows the frequency of withdrawal for these adverse reactions. In many cases the adverse reactions were of uncertain relation to drug treatment.
+
+
+
+ Frequency of Adverse Reactions (Discontinuations)Some individuals discontinued for multiple reasons. 
+                       6 Placebo-Controlled Studies   
+ Dose                        Placebo                 5 mg                 10 mg                 20 mg           
+ Patients                      160                    54                    52                   159            
+  
+ Headache                    6% (0%)               17% (0%)              13% (0%)              35% (5%)         
+ Fatigue                     2% (0%)               0% (0%)               4% (0%)               1% (0%)          
+ Upper Respiratory Infection        &lt;1% (0%)              0% (0%)               4% (0%)               1% (0%)          
+ Pain                        &lt;1% (0%)              4% (0%)               0% (0%)               &lt;1% (0%)         
+ Dizziness                   1% (0%)               0% (0%)               0% (0%)               4% (0%)          
+ Nausea                      &lt;1% (0%)              0% (0%)               0% (0%)               3% (2%)          
+ Increased Cough             &lt;1% (0%)              0% (0%)               2% (0%)               &lt;1% (0%)         
+ Rash                        0% (0%)               2% (2%)               0% (0%)               &lt;1% (0%)         
+ Abdominal Pain              &lt;1% (0%)              0% (0%)               2% (0%)               0% (0%)          
+ Allergic Reaction           0% (0%)               0% (0%)               2% (0%)               0% (0%)          
+ Cardiovascular Disorder        0% (0%)               2% (0%)               0% (0%)               0% (0%)          
+ Chest Pain                  &lt;1% (0%)              0% (0%)               2% (0%)               &lt;1% (0%)         
+ Diarrhea                    0% (0%)               0% (0%)               2% (0%)               0% (0%)          
+ Flushing                    0% (0%)               0% (0%)               2% (0%)               0% (0%)          
+ Emotional Lability          0% (0%)               2% (0%)               0% (0%)               0% (0%)          
+ Pruritus                    1% (0%)               2% (2%)               0% (0%)               0% (0%)          
+           Other adverse reactions, each reported by fewer than 1% of exposed patients, and in many cases of uncertain relation to drug treatment, were:
+ 
+
+
+ Cardiovascular:       acute myocardial infarction, apoplexy, arrhythmias, bradycardia, edema, hypertension, hypotension, pallor, palpitations, tachycardia.   
+                                                                                                          
+ Dermatologic:         sweating.                                                                          
+                                                                                                          
+ Gastrointestinal:     anorexia, dry mouth, dyspepsia, thirst, vomiting, decreased weight.                
+                                                                                                          
+ Geritourinary:        prostatic disorder.                                                                
+                                                                                                          
+ Miscellaneous:        amblyopia, back pain, bitter taste, muscle cramps, neck pain, paresthesia, susurrus aurium.   
+                                                                                                          
+ Neurologic:           anxiety, impaired concentration, depression, insomnia, nervousness, nightmares, restlessness, tremor, vertigo.   
+                                                                                                          
+ Respiratory:          asthma, dyspnea, sinusitis.                                                        
+        Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients; for further discussion of its diagnosis and treatment see under    Overdosage  .  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

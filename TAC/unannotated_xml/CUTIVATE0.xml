@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cutivate0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  HPA Axis Suppression and Other Adverse Endocrine Effects [ see Warnings and Precautions (  5.1  ) ] 
+ *  Local Adverse Reactions [ see Warnings and Precautions (  5.2  ) ] 
+ *  Concomitant Skin Infections [ see Warnings and Precautions (  5.3  ) ] 
+      EXCERPT:   The most common adverse reactions (&lt;1%) were pruritus, burning, hypertrichosis, increased erythema, urticaria, irritation, and lightheadedness. (  6.1  )
+ 
+
+ 
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact PharmaDerm  (r)  , A division of Fougera Pharmaceuticals Inc. at 1-800-645-9833 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In controlled clinical trials, the total incidence of adverse reactions associated with the use of CUTIVATE  (r)  Ointment was approximately 4%. These adverse reactions were usually mild, self-limiting, and consisted primarily of pruritus, burning, hypertrichosis, increased erythema, urticaria, irritation, and lightheadedness. Each of these events occurred individually in less than 1% of patients.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following local adverse reactions have been identified during post-approval use of CUTIVATE  (r)  Ointment: acneiform dermatitis, edema, rash, hypoaesthesia, pustular psoriasis, skin atrophy.
+
+
+
+ The following systemic adverse reactions have been identified during post-approval use of CUTIVATE  (r)  Cream and CUTIVATE  (r)  Ointment: immunosuppression/  Pneumocystis jirovecii  pneumonia/leukopenia/thrombocytopenia; hyperglycemia/glycosuria; Cushing syndrome; generalized body edema/blurred vision; and acute urticarial reaction (edema, urticaria, pruritus, and throat swelling).
+
+
+
+ The following local adverse reactions have also been reported with the use of topical corticosteroids: telangiectasia, striae, dryness, folliculitis, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria.
+
+
+
+ Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression: Reversible HPA axis suppression and resulting clinical glucocorticoid insufficiency can occur during or after withdrawal of treatment. Risk factors include use over large surface area, prolonged use, use under occlusion, altered skin barrier, liver failure, and young age. Modify use if HPA axis suppression is suspected. (  5.1  ) 
+    
+ 
+
+   5.1 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression and Other Adverse Endocrine Effects
+
+
+
+  Topical corticosteroids, including CUTIVATE  (r)  Ointment, can produce reversible HPA axis suppression with the potential for clinical glucocorticoid insufficiency. Factors that predispose to HPA axis suppression include large treatment surface areas, prolonged use, use under occlusion, altered skin barrier, liver failure, and young age. Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids.
+
+
+
+ If HPA axis suppression is suspected, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression.
+
+
+
+ Pediatric patients may be at greater risk of HPA axis suppression due to their higher skin surface area to body mass ratios [ see Use in Specific Populations (  8.4  )  ].
+
+
+
+ HPA axis suppression may occur during or after withdrawal of treatment. If HPA axis suppression is suspected, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Evaluation of HPA axis suppression may be done by using the cosyntropin stimulation test.
+
+
+
+    5.2 Local Adverse Reactions
+
+
+
+  CUTIVATE  (r)  Ointment may cause local adverse reactions, including skin atrophy [ see Adverse Reactions (  6.1     ,  6.2  )  ]. The risk is greater with use under occlusion.
+
+
+
+    5.3 Allergic Contact Dermatitis
+
+
+
+  Allergic contact dermatitis with topical corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation. Such an observation can be corroborated with appropriate diagnostic patch testing. Discontinue CUTIVATE  (r)  Ointment if appropriate.
+
+
+
+    5.4 Skin Infections
+
+
+
+  If concomitant skin infections are present or develop, use an appropriate antimicrobial. If a favorable response does not occur promptly, discontinue use of CUTIVATE  (r)  Ointment until the infection has been adequately controlled.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

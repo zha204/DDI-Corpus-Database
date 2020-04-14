@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="natroba" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse events (&gt;1% ) were application site erythema and ocular erythema. (  6.1  )
+
+
+
+ 
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact ParaPRO, LLC at 1-855-628-7622 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ NATROBA Topical Suspension was studied in two randomized, active-controlled trials (N=552) in subjects with head lice; the results are presented in Table 1.
+
+
+
+ Table 1: Selected Adverse Events Occurring in at least 1% of Subjects 
+ Signs                                            Spinosad(N=552)               Permethrin 1%(N=457)        
+  
+ Application site erythema                            17 (3%)                         31 (7%)               
+ Ocular erythema                                      12 (2%)                         15 (3%)               
+ Application site irritation                           5 (1%)                          7 (2%)               
+      Other less common reactions (less than 1% but more than 0.1%) were application site dryness, application site exfoliation, alopecia, and dry skin.Systemic safety was not assessed in pediatric subjects under 6 months of age as laboratory parameters were not monitored in these controlled studies.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Benzyl alcohol toxicity: Not recommended in infants below the age of 6 months; potential for increased systemic absorption. (  5.1  ) 
+    
+ 
+
+   5.1 Benzyl Alcohol Toxicity
+
+
+
+  NATROBA Topical Suspension contains benzyl alcohol and is not recommended for use in neonates and infants below the age of 6 months. Systemic exposure to benzyl alcohol has been associated with serious adverse reactions and death in neonates and low birth-weight infants  [See  Use in Specific Populations (8.4)  ]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

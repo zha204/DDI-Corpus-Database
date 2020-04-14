@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="corvert" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  CORVERT Injection was generally well tolerated in clinical trials. Of the 586 patients with atrial fibrillation or atrial flutter who received CORVERT in phase II/III studies, 149 (25%) reported medical events related to the cardiovascular system, including sustained polymorphic ventricular tachycardia (1.7%) and nonsustained polymorphic ventricular tachycardia (2.7%).
+
+
+
+ Other clinically important adverse events with an uncertain relationship to CORVERT include the following (0.2% represents one patient): sustained monomorphic ventricular tachycardia (0.2%), nonsustained monomorphic ventricular tachycardia (4.9%), AV block (1.5%), bundle branch block (1.9%), ventricular extrasystoles (5.1%), supraventricular extrasystoles (0.9%), hypotension/postural hypotension (2.0%), bradycardia/sinus bradycardia (1.2%), nodal arrhythmia (0.7%), congestive heart failure (0.5%), tachycardia/sinus tachycardia/supraventricular tachycardia (2.7%), idioventricular rhythm (0.2%), syncope (0.3%), and renal failure (0.3%). The incidence of these events, except for syncope, was greater in the group treated with CORVERT than in the placebo group.
+
+
+
+ Another adverse reaction that may be associated with the administration of CORVERT was nausea, which occurred with a frequency greater than 1% more in ibutilide-treated patients than those treated with placebo.
+
+
+
+ The medical events reported for more than 1% of the placebo- and ibutilide-treated patients are shown in the following Table.
+
+
+
+ Treatment-Emergent Medical Events With Frequency of More Than 1% and Higher Than That of Placebo 
+ Event                                      PlaceboN=127    All IbutilideN=586   
+ Patients                                     Patients       
+ n                                                %                n                %          
+  
+ CARDIOVASCULAR                                                                                                 
+   Ventricular extrasystoles                      1               0.8              30               5.1         
+   Nonsustained monomorphic VT                    1               0.8              29               4.9         
+   Nonsustained polymorphic VT                    -                -               16               2.7         
+   Hypotension                                    2               1.6              12               2.0         
+   Bundle branch block                            -                -               11               1.9         
+   Sustained polymorphic VT                       -                -               10               1.7         
+   AV block                                       1               0.8               9               1.5         
+   Hypertension                                   -                -                7               1.2         
+   QT segment prolonged                           -                -                7               1.2         
+   Bradycardia                                    1               0.8               7               1.2         
+   Palpitation                                    1               0.8               6               1.0         
+   Tachycardia                                    1               0.8              16               2.7         
+ GASTROINTESTINAL                                                                                               
+   Nausea                                         1               0.8              11               1.9         
+ CENTRAL NERVOUS SYSTEM                                                                                         
+   Headache                                       4               3.1              21               3.6         
+           In the post-cardiac surgery study (see  CLINICAL STUDIES  ), similar types of medical events were reported. In the 1 mg ibutilide fumarate treatment group (N=70), 2 patients (2.9%) developed sustained polymorphic ventricular tachycardia and 2 other patients (2.9%) developed nonsustained polymorphic ventricular tachycardia. Polymorphic ventricular tachycardia was not reported in the 73 patients in the 0.5 mg dose group or in the 75 patients in the 0.25 mg dose group.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  LIFE-THREATENING ARRHYTHMIAS-APPROPRIATE TREATMENT ENVIRONMENT
+
+    CORVERT can cause potentially fatal arrhythmias, particularly sustained polymorphic ventricular tachycardia, usually in association with QT prolongation (torsades de pointes), but sometimes without documented QT prolongation. In registration studies, these arrhythmias, which require cardioversion, occurred in 1.7% of treated patients during, or within a number of hours of, use of CORVERT. These arrhythmias can be reversed if treated promptly (see   WARNINGS, Proarrhythmia  ). It is essential that CORVERT be administered in a setting of continuous ECG monitoring and by personnel trained in identification and treatment of acute ventricular arrhythmias, particularly polymorphic ventricular tachycardia.   Patients with atrial fibrillation of more than 2 to 3 days' duration must be adequately anticoagulated, generally for at least 2 weeks.    
+
+
+
+   CHOICE OF PATIENTS
+
+    Patients with chronic atrial fibrillation have a strong tendency to revert after conversion to sinus rhythm (see   CLINICAL STUDIES  ) and treatments to maintain sinus rhythm carry risks. Patients to be treated with CORVERT, therefore, should be carefully selected such that the expected benefits of maintaining sinus rhythm outweigh the immediate risks of CORVERT, and the risks of maintenance therapy, and are likely to offer an advantage compared with alternative management.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

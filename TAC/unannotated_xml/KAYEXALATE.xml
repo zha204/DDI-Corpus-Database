@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="kayexalate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  KAYEXALATE may cause some degree of gastric irritation. Anorexia, nausea, vomiting, and constipation may occur especially if high doses are given. Also, hypokalemia, hypocalcemia, hypomagnesemia and significant sodium retention, and their related clinical manifestations, may occur (see  WARNINGS  ). Occasionally diarrhea develops. Large doses in elderly individuals may cause fecal impaction (see  PRECAUTIONS  ). Rare instances of intestinal necrosis have been reported. Intestinal obstruction due to concretions of aluminum hydroxide, when used in combination with KAYEXALATE, has been reported.
+
+
+
+ The following events have been reported from worldwide post marketing experience:
+
+
+
+ *  Fecal impaction following rectal administration, particularly in children; 
+ *  Gastrointestinal concretions (bezoars) following oral administration; 
+ *  Ischemic colitis, gastrointestinal tract ulceration or necrosis which could lead to intestinal perforation; and, 
+ *  Rare cases of acute bronchitis and/or broncho-pneumonia associated with inhalation of particles of polystyrene sulfonate. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

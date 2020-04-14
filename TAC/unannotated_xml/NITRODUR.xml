@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nitrodur" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions to nitroglycerin are generally dose related, and almost all of these reactions are the result of nitroglycerin's activity as a vasodilator. Headache, which may be severe, is the most commonly reported side effect. Headache may be recurrent with each daily dose, especially at higher doses. Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur. Hypotension occurs infrequently, but in some patients it may be severe enough to warrant discontinuation of therapy. Syncope, crescendo angina, and rebound hypertension have been reported but are uncommon.
+
+
+
+ Allergic reactions to nitroglycerin are also uncommon, and the great majority of those reported have been cases of contact dermatitis or fixed drug eruptions in patients receiving nitroglycerin in ointments or patches. There have been a few reports of genuine anaphylactoid reactions, and these reactions can probably occur in patients receiving nitroglycerin by any route.
+
+
+
+ Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients. Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see    OVERDOSAGE    ).
+
+
+
+ Application-site irritation may occur but is rarely severe.
+
+
+
+ In two placebo-controlled trials of intermittent therapy with nitroglycerin patches at 0.2 to 0.8 mg/hr, the most frequent adverse reactions among 307 subjects were as follows:
+
+
+
+
+                                                  Placebo                             Patch                 
+  
+ Headache                                           18%                                63%                  
+ Lightheadedness                                    4%                                 6%                   
+ Hypotension, and/or Syncope                        0%                                 4%                   
+ Increased Angina                                   2%                                 2%                   
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+    You must consult your doctor for important information before using this drug.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

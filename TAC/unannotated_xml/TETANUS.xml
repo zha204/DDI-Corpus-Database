@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tetanus" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  DATA FROM CLINICAL TRIALSBecause clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a vaccine cannot be directly compared to rates in the clinical trials of another vaccine, and may not reflect the rates observed in practice. However, the adverse reaction information from clinical trials provides a basis for identifying adverse events that appear to be related to vaccine use and for approximating rates. Data on adverse reactions following fluid and adsorbed preparations of MassBiologics' Td with various doses of the diphtheria and tetanus components have been reported in a series of studies.  5,7,8,11,12  
+
+
+
+ POSTMARKETING REPORTSThe following adverse events have been identified during post-approval use of MassBiologics' Td. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequencies or to establish a causal relationship to vaccination. The following adverse events were included because of seriousness or frequency of reporting:
+
+
+
+   General Disorders and Administration Site Conditions:  Injection site reactions, including pain, tenderness, erythema, induration, pruritis, swelling and warmth; peripheral oedema, pyrexia, malaise
+
+
+
+   Nervous System Disorders:  Dizziness, headache, convulsions
+
+
+
+   Musculoskeletal and Connective Tissue Disorders:  Myalgia, musculoskeletal stiffness or pain, arthralgia
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  Rash
+
+
+
+   Gastrointestinal Disorders:  Nausea
+
+
+
+   Infections and Infestations:  Cellulitis
+
+
+
+ REPORTING OF SUSPECTED ADVERSE REACTIONS  To report SUSPECTED ADVERSE REACTIONS, contact MassBiologics at 1-800-457-4626 or VAERS at 1-800-822-7967 or www.vaers.hhs.gov.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

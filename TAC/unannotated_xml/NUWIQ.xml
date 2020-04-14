@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nuwiq" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse reactions (&gt;0.5% of subjects) reported in clinical trials were paresthesia, headache, injection site inflammation, injection site pain, non-neutralizing anti-Factor VIII antibody formation, back pain, vertigo, and dry mouth.
+
+
+
+   EXCERPT:   The most frequently occurring adverse reactions (&gt; 0.5%) in clinical trials were paresthesia, headache, injection site inflammation, injection site pain, non-neutralizing anti-Factor VIII antibody formation, back pain, vertigo, and dry mouth. (  6  )
+
+
+
+ 
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Octapharma USA Inc. at 1- 866-766-4860 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rate in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety profile of NUWIQ was evaluated in five prospective, open-label clinical studies in previously treated patients (PTPs - exposed to a Factor VIII containing product for &gt;=150 exposure days (EDs) in the case of adolescents and adults or &gt;=50 EDs in the case of subjects below 12 years of age) with severe Hemophilia A (Factor VIII &lt;= 1%). Subjects who had a history of detectable Factor VIII inhibitor, severe liver or kidney disease, were not immune competent (CD4+ count &lt;200/uL), or scheduled to receive immunomodulating drugs, were excluded.
+
+
+
+ Across all clinical studies, 135 patients were stratified, among them, 74 were adults, 3 adolescents between 12 and 17 years old, and 58 pediatric patients between 2 and 11 years old. A total of 127 (94.1%) subjects were treated for at least 180 days. Collectively, patients received between 24,005 and 996,550 IU (555 to 8629 IU/kg) from14 to 319 infusions over 14 to 299 exposure days, over a period of 33 to 563 days. An exposure day was defined as any day on which at least one infusion was started.
+
+
+
+ With a total of 16,134 infusions over 15,950 EDs, reported adverse reactions included paresthesia, headache, injection site inflammation, injection site pain, back pain, vertigo, and dry mouth. Each of these adverse reactions occurred once in the study population of 135, and thus each had a rate of 0.7%. Non-neutralizing anti-Factor VIII antibodies (without inhibitory activity as measured by the modified Bethesda assay) were reported in four patients, giving a rate of 3%. Three of four subjects had pre-existing non-neutralizing antibodies prior to exposure with NUWIQ. The binding antibodies were transient in two of these three subjects. In one subject who was tested negative at screening, the non-neutralizing antibody was measured once at study end.
+
+
+
+   Immunogenicity  
+
+
+
+ All clinical trial subjects (N = 135) were monitored for neutralizing antibodies (inhibitors) to Factor VIII by the modified Bethesda assay using blood samples obtained prior to the first infusion of NUWIQ, at defined intervals (at ED 10 to 15, at 3 months, and every further 3 months) during the studies and at the completion visit. No subject developed neutralizing antibodies to Factor VIII. Four subjects (3%) developed a non-neutralizing antibody without any inhibitory activity.
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to NUWIQ with the incidence of antibodies to other products may be misleading.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+    EXCERPT:   Hypersensitivity reactions, including anaphylaxis, are possible. Should symptoms occur, discontinue NUWIQ and administer appropriate treatment. (  5.1  )
+
+
+
+ Development of Factor VIII neutralizing antibodies (inhibitors) may occur. If expected plasma Factor VIII activity levels are not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures Factor VIII inhibitor concentration. (  5.2  )
+
+
+
+ Monitor all patients for Factor VIII activity and development of Factor VIII inhibitor antibodies. (  5.3  )
+
+
+
+ 
+
+
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions, including anaphylaxis, are possible with NUWIQ. Early signs of hypersensitivity reactions that can progress to anaphylaxis may include angioedema, chest tightness, dyspnea, wheezing, urticaria, or pruritus. Immediately discontinue administration and initiate appropriate treatment if hypersensitivity reactions occur.
+
+
+
+     5.2 Neutralizing Antibodies
+ 
+
+  The formation of neutralizing antibodies (inhibitors) to Factor VIII can occur following the administration of NUWIQ. Monitor all patients for the development of Factor VIII inhibitors by appropriate clinical observations and laboratory tests. If the plasma Factor VIII level fails to increase as expected, or if bleeding is not controlled after NUWIQ administration, suspect the presence of an inhibitor (neutralizing antibody) [see  Warnings and Precautions (5.3)  ].
+
+
+
+     5.3 Monitoring and Laboratory Tests
+ 
+
+    *  Monitor plasma Factor VIII activity by performing a validated test (e.g., one stage clotting assay), to confirm that adequate Factor VIII levels have been achieved and maintained [see  Dosage and Administration (2.1)  ]. 
+ *  Monitor for the development of Factor VIII inhibitors. Perform a Bethesda inhibitor assay if expected Factor VIII plasma levels are not attained, or if bleeding is not controlled with the expected dose of NUWIQ. Use Bethesda Units (BU) to report inhibitor levels. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

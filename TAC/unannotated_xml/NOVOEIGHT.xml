@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="novoeight" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most frequently reported adverse reactions (&gt;= 0.5%) were injection site reactions, increased hepatic enzymes, and pyrexia.
+
+
+
+    EXCERPT:    *    The most frequently reported adverse reactions (&gt;= 0.5%) were injection site reactions, increased hepatic enzymes, and pyrexia. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Novo Nordisk Inc. at 1-844-303-4448 - or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ During the clinical development of Novoeight, 214 male previously treated patients (PTPs; exposed to a factor VIII-containing product for &gt;=150 days) with severe hemophilia A (factor VIII level &lt;=1%) received at least one dose of Novoeight as part of either routine prophylaxis, on-demand treatment of bleeding episodes, perioperative management of major and minor surgical, dental, or other invasive procedures, or pharmacokinetic evaluation of Novoeight. Thirty-one subjects (14%) were &lt;6 years of age, 32 (15%) were 6 to &lt;12 years of age, 16 (7%) were adolescents (12 to &lt;16 years of age), and 135 (63%) were adults (16 years of age and older). The subjects received a total of 33,272 injections with a median of 127 injections of Novoeight (range 1-442) per subject, and had a total of 32,929 exposure days during prevention and treatment of bleeds.
+
+
+
+ The most frequently reported adverse reactions in previously treated patients was injection site reactions (2.3%), increased hepatic enzymes (1.4%), and pyrexia (0.9%).
+
+
+
+   6.2 Immunogenicity
+
+  Subjects were monitored for neutralizing antibodies to factor VIII and binding antibodies to CHO and murine protein. No subjects developed confirmed neutralizing antibodies to factor VIII. One twenty-two month old child had a positive neutralizing antibody to factor VIII of 1.3 [BU] in the Bethesda assay after 15 exposure days that was not confirmed when checked after 20 exposure days. In vivo recovery was normal for this child and no clinical adverse findings were observed.
+
+
+
+ No patients developed  de novo  anti-murine antibodies. Nineteen subjects were positive for anti-Chinese hamster ovary (CHO) cell protein antibodies. Two of these subjects changed from anti-CHO negative to anti-CHO positive and 6 subjects changed from anti-CHO positive to anti-CHO negative. The remaining 11 subjects were either positive throughout the trials (n=6), negative at baseline and end-of trial but with transient positive samples (n=2), or positive at baseline and end-of trial but with negative samples in between (n=3). No clinical adverse findings were observed in any of these subjects.
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Anaphylaxis and severe hypersensitivity reactions are possible. Patients may develop hypersensitivity to hamster proteins, which are present in trace amounts in the product. Should symptoms occur, discontinue Novoeight and administer appropriate treatment. (  5.1  ) 
+ *    Development of activity-neutralizing antibodies (inhibitors) may occur. If expected plasma factor VIII activity levels are not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures factor VIII inhibitor concentration. (  5.2  ,  5.3  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions, including anaphylaxis, are possible with Novoeight. Novoeight contains trace amounts of hamster proteins. Patients treated with this product may develop hypersensitivity to these non-human mammalian proteins. Early signs of hypersensitivity reactions that can progress to anaphylaxis include angioedema, chest tightness, dyspnea, wheezing, urticaria, and pruritus. Immediately discontinue administration and initiate appropriate treatment if allergic- or anaphylactic-type reactions occur.
+
+
+
+    5.2 Neutralizing Antibodies
+
+
+
+  Formation of neutralizing antibodies (inhibitors) to factor VIII can occur following administration of Novoeight. Monitor all patients for the development of inhibitors by appropriate clinical observation and laboratory testing. If the expected plasma levels of factor VIII activity are not attained, or if bleeding is not controlled with an appropriate dose, perform testing for factor VIII inhibitors.
+
+
+
+    5.3 Monitoring Laboratory Tests
+
+
+
+    *    Monitor plasma factor VIII activity levels by the one-stage clotting assay or the chromogenic substrate assay to confirm that adequate factor VIII levels have been achieved and maintained, when clinically indicated. [See Dosage and Administration  (2)  ]  
+ *    Perform assay to determine if factor VIII inhibitor is present if expected plasma factor VIII activity levels are not attained, or if bleeding is not controlled with the expected dose of Novoeight. Determine inhibitor levels in Bethesda Units. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lactated2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Post-Marketing Adverse Reactions
+
+  The following adverse reactions have been reported in the post-marketing experience, listed by MedDRA System Organ Class (SOC).
+
+
+
+ Immune System Disorders: Hypersensitivity/infusion reactions, including anaphylactic/anaphylactoid reactions, and the following manifestations: angioedema, chest pain, chest discomfort, decreased heart rate, tachycardia, blood pressure decreased, respiratory distress, bronchospasm, dyspnea, cough, urticaria, rash, pruritus, erythema, flushing, throat irritation, paresthesias, hypoesthesia oral, dysgeusia, nausea, anxiety, pyrexia, headache
+
+
+
+ Metabolism and Nutrition Disorders: Hyperkalemia
+
+
+
+ General Disorders and Administration Site Conditions:Infusion site reactions, including phlebitis, infusion site inflammation, infusion site swelling, infusion site rash, infusion site pruritus, infusion site erythema, infusion site pain, infusion site burning
+
+
+
+   Class Reactions
+
+  Hypersensitivity reactions, including, laryngeal edema and sneezing
+
+
+
+   Hypervolemia
+
+  Infusion site reactions, including Infection at the site of injection, extravasation, and infusion site anesthesia (numbness)
+
+
+
+   Overdose
+
+  An excessive volume or too high a rate of administration of Lactated Ringer's Injection, USP may lead to fluid and sodium overload with a risk of edema (peripheral and/or pulmonary), particularly when renal sodium excretion is impaired.
+
+
+
+ Excessive administration of lactate may lead to metabolic alkalosis. Metabolic alkalosis may be accompanied by hypokalemia.
+
+
+
+ Excessive administration of potassium may lead to the development of hyperkalemia, especially in patients with severe renal impairment.
+
+
+
+ Excessive administration of calcium salts may lead to hypercalcemia.
+
+
+
+ When assessing an overdose, any additives in the solution must also be considered.
+
+
+
+ The effects of an overdose may require immediate medical attention and treatment.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

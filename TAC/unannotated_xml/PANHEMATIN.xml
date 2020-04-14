@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="panhematin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Clinical Trials Experience
+
+  Phlebitis with or without leucocytosis and with or without mild pyrexia has occurred after administration of hematin through small arm veins.
+
+
+
+   Post-marketing Experience
+
+  Reversible renal shutdown has occurred with administration of excessive doses (See "  PRECAUTIONS  " section).
+
+
+
+ There have been post-marketing literature reports of thrombocytopenia and coagulopathy (including prolonged prothrombin time and prolonged partial thromboplastin time) in patients receiving PANHEMATIN.[  8  ] Iron overload and serum ferritin increased have also been reported (See "  PRECAUTIONS  " section).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Recordati Rare Diseases at 1-888-575-8344 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  PANHEMATIN (hemin for injection) should only be used by physicians experienced in the management of porphyrias in hospitals where the recommended clinical and laboratory diagnostic and monitoring techniques are available.
+
+
+
+ PANHEMATIN therapy should be considered after an appropriate period of alternate therapy (i.e., 400 g glucose/day for 1 to 2 days). (See "  WARNINGS  ", "  PRECAUTIONS  " and "  DOSAGE AND ADMINISTRATION  " sections.)
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

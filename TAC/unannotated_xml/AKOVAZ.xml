@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="akovaz" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions associated with the use of ephedrine sulfate were identified in the literature. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+
+
+   Gastrointestinal disorders:  Nausea, vomiting
+
+
+
+   Cardiac disorders:  Tachycardia, palpitations (thumping heart), reactive hypertension, bradycardia, ventricular ectopics, R-R variability
+
+
+
+   Nervous system disorders:  Dizziness
+
+
+
+   Psychiatric disorders:  Restlessness
+
+
+
+   EXCERPT:   Most common adverse reactions during treatment: nausea, vomiting, and tachycardia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Eclat Pharmaceuticals at 1-877-622-2320 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Pressor Effect with Concomitant Oxytocic Drugs : Pressor effect of sympathomimetic pressor amines is potentiated (  5.1  ) 
+ *   Tachyphylaxis and Tolerance : Repeated administration of ephedrine may cause tachyphylaxis (  5.2  ) 
+    
+ 
+
+   5.1 Pressor Effect with Concomitant Oxytocic Drugs
+
+
+
+  Serious postpartum hypertension has been described in patients who received both a vasopressor (i.e., methoxamine, phenylephrine, ephedrine) and an oxytocic (i.e., methylergonovine, ergonovine) [ see  Drug Interactions (7)    ]. Some of these patients experienced a stroke. Carefully monitor the blood pressure of individuals who have received both ephedrine and an oxytocic.
+
+
+
+    5.2 Tolerance and Tachyphylaxis
+
+
+
+  Data indicate that repeated administration of ephedrine can result in tachyphylaxis. Clinicians treating anesthesia-induced hypotension with AKOVAZ (ephedrine sulfate injection) should be aware of the possibility of tachyphylaxis and should be prepared with an alternative pressor to mitigate unacceptable responsiveness.
+
+
+
+    5.3 Risk of Hypertension When Used Prophylactically
+
+
+
+  When used to prevent hypotension, ephedrine has been associated with an increased incidence of hypertension compared with when ephedrine is used to treat hypotension.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

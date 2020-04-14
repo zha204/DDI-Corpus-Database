@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sirturo" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  Increased mortality [see  Warnings and Precautions (5.1)  ]  
+ *  QT Prolongation [see  Warnings and Precautions (5.2)   and   Clinical Pharmacology (12.2)  ]  
+ *  Hepatotoxicity [see  Warnings and Precautions (5.3)  ]  
+ *  Drug Interactions [see  Warnings and Precautions (5.4)  ]  
+   *  The most common adverse reactions reported in 10% or more of patients treated with SIRTURO were nausea, arthralgia, headache, hemoptysis and chest pain. (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Janssen Therapeutics, Division of Janssen Products, LP    at 1-800-JANSSEN (1-800-526-7736    ) or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .    
+ 
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ Adverse drug reactions for SIRTURO were identified from the pooled safety data from 335 SIRTURO-exposed patients who received 8 weeks (Study 2) and 24 weeks (Studies 1 and 3) at the proposed dose. Studies 1 and 2 were randomized, double-blind, placebo-controlled trial in newly diagnosed patients with pulmonary MDR-TB. In both treatment arms, patients received SIRTURO or placebo in combination with other drugs used to treat MDR-TB. Study 3 was an open-label, noncomparative study with SIRTURO administered as part of an individualized pulmonary MDR-TB treatment regimen in previously treated patients.
+
+
+
+ In Study 1, 35% were Black, 17.5% were Hispanic, 12.5% were White, 9.4% were Asian, and 25.6% were of another race. Eight of 79 (10.1%) patients in the SIRTURO group and 16 of 81 (19.8%) patients in the placebo treatment group were HIV-infected. Seven (8.9%) SIRTURO-treated patients and six (7.4%) placebo-treated patients discontinued Study 1 because of an adverse reaction.
+
+
+
+ Table 1: Select Adverse Reactions from Study 1 That Occurred More Frequently Than Placebo During Treatment with SIRTURO 
+ Adverse Reactions                   SIRTURO Treatment GroupN=79n (%)   Placebo Treatment GroupN=81n (%)    
+  
+ Nausea                                          30 (38)                             26 (32)                
+ Arthralgia                                      26 (33)                             18 (22)                
+ Headache                                        22 (28)                             10 (12)                
+ Hemoptysis                                      14 (18)                             9 (11)                 
+ Chest Pain                                       9 (11)                              6 (7)                 
+ Anorexia                                         7 (9)                               3 (4)                 
+ Transaminases Increased                          7 (9)                               1 (1)                 
+ Rash                                             6 (8)                               3 (4)                 
+ Blood Amylase Increased                          2 (3)                               1 (1)                 
+         No additional unique Adverse Reactions were identified from the uncontrolled Study 3.
+ 
+
+ In both Studies 1 and 2, aminotransferase elevations of at least 3 times the upper limit of normal developed more frequently in the SIRTURO treatment group (11/102 [10.8%] vs 6/105 [5.7%]) than in the placebo treatment group. In Study 3, 22/230 (9.6%) patients had alanine aminotransferase or aspartate aminotransferase greater than or equal to 3 times the upper limit of normal during the overall treatment period.
+
+
+
+     Increased Mortality  
+
+
+
+ In Study 1, there was a statistically significant increased mortality risk by Week 120 in the SIRTURO treatment group compared to the placebo treatment group (9/79 (11.4%) versus 2/81 (2.5%), p-value=0.03, an exact 95% confidence interval of the difference [1.1%, 18.2%]). Five of the 9 SIRTURO deaths and the 2 placebo deaths were tuberculosis-related. One death occurred during the 24-week SIRTURO treatment period. The median time to death for the remaining eight subjects in the SIRTURO treatment group was 329 days after last intake of SIRTURO. The imbalance in deaths is unexplained; no discernible pattern between death and sputum conversion, relapse, sensitivity to other drugs used to treat tuberculosis, HIV status, and severity of disease was observed.
+
+
+
+ In the open-label Study 3, 6.9% (16/233) subjects died. The most common cause of death as reported by the investigator was TB (9 subjects). All but one subject who died of TB had not converted or had relapsed. The causes of death in the remaining subjects varied.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS: INCREASED MORTALITY; QT PROLONGATION
+
+  WARNINGS: INCREASED MORTALITY; QT PROLONGATION
+
+  EXCERPT:   WARNINGS: INCREASED MORTALITY; QT PROLONGATION
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   Increased Mortality  
+
+
+
+ *  An increased risk of death was seen in the SIRTURO treatment group (9/79, 11.4%) compared to the placebo treatment group (2/81, 2.5%) in one placebo-controlled trial. Only use SIRTURO when an effective treatment regimen cannot otherwise be provided. (5.1) 
+      QT Prolongation  
+ 
+
+ *  QT prolongation can occur with SIRTURO. Use with drugs that prolong the QT interval may cause additive QT prolongation. Monitor ECGs. Discontinue SIRTURO if significant ventricular arrhythmia or QTcF interval &gt;500 ms develops. (5.2) 
+    
+ 
+
+    Increased Mortality  
+
+
+
+ *  An increased risk of death was seen in the SIRTURO treatment group (9/79, 11.4%) compared to the placebo treatment group (2/81, 2.5%) in one placebo-controlled trial. Only use SIRTURO when an effective treatment regimen cannot otherwise be provided [see Indications and Usage (1) and Warnings and Precautions (5.1)]. 
+        QT Prolongation  
+ 
+
+ *  QT prolongation can occur with SIRTURO. Use with drugs that prolong the QT interval may cause additive QT prolongation. Monitor ECGs. Discontinue SIRTURO if significant ventricular arrhythmia or if QTcF interval prolongation of greater than 500 ms develops [see Warnings and Precautions (5.2)]. 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  QT prolongation can occur with SIRTURO. Monitor ECGs and discontinue SIRTURO if significant ventricular arrhythmia or QTcF interval &gt; 500 ms develops. (  5.2  ) 
+ *  Hepatotoxicity may occur with use of SIRTURO. Monitor liver-related laboratory tests. Discontinue if evidence of liver injury. (  5.3  ) 
+    
+ 
+
+   5.1 Increased Mortality
+
+
+
+  An increased risk of death was seen in the SIRTURO treatment group (9/79, 11.4%) compared to the placebo treatment group (2/81, 2.5%) in one placebo-controlled trial (based on the 120-week visit window). One death occurred during the 24 weeks of administration of SIRTURO. The imbalance in deaths is unexplained. No discernible pattern between death and sputum culture conversion, relapse, sensitivity to other drugs used to treat tuberculosis, HIV status, or severity of disease could be observed. Only use SIRTURO when an effective treatment regimen cannot otherwise be provided [see  Adverse Reactions (6)  ]  .
+
+
+
+    5.2 QT Prolongation
+
+
+
+  SIRTURO prolongs the QT interval. Obtain an ECG before initiation of treatment, and at least 2, 12, and 24 weeks after starting treatment with SIRTURO. Obtain serum potassium, calcium, and magnesium at baseline and correct if abnormal. Monitor electrolytes if QT prolongation is detected [see  Adverse Reactions (6.1)    and   Drug Interactions (7.4)  ]  . SIRTURO has not been studied in patients with ventricular arrhythmias or recent myocardial infarction.
+
+
+
+ The following may increase the risk for QT prolongation when patients are receiving SIRTURO:
+
+
+
+ *  use with other QT prolonging drugs including fluoroquinolones and macrolide antibacterial drugs and the antimycobacterial drug, clofazimine 
+ *  a history of Torsade de Pointes 
+ *  a history of congenital long QT syndrome 
+ *  a history of or ongoing hypothyroidism 
+ *  a history of or ongoing bradyarrhythmias 
+ *  a history of uncompensated heart failure 
+ *  serum calcium, magnesium, or potassium levels below the lower limits of normal 
+    If necessary, bedaquiline treatment initiation could be considered in these patients after a favorable benefit risk assessment and with frequent ECG monitoring.
+ 
+
+ Discontinue SIRTURO and all other QT prolonging drugs if the patient develops:
+
+
+
+ *  Clinically significant ventricular arrhythmia 
+ *  A QTcF interval of greater than 500 ms (confirmed by repeat ECG) 
+    If syncope occurs, obtain an ECG to detect QT prolongation.
+ 
+
+    5.3 Hepatotoxicity
+
+
+
+  More hepatic-related adverse reactions were reported with the use of SIRTURO plus other drugs used to treat tuberculosis compared to other drugs used to treat tuberculosis without the addition of SIRTURO. Alcohol and other hepatotoxic drugs should be avoided while on SIRTURO, especially in patients with impaired hepatic function.
+
+
+
+ Monitor symptoms (such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness and hepatomegaly) and laboratory tests (ALT, AST, alkaline phosphatase, and bilirubin) at baseline, monthly while on treatment, and as needed. Test for viral hepatitis and discontinue other hepatotoxic medications if evidence of new or worsening liver dysfunction occurs. Discontinue SIRTURO if:
+
+
+
+ *  aminotransferase elevations are accompanied by total bilirubin elevation greater than two times the upper limit of normal 
+ *  aminotransferase elevations are greater than eight times the upper limit of normal 
+ *  aminotransferase elevations are greater than five times the upper limit of normal and persist beyond two weeks 
+       5.4 Drug Interactions
+ 
+
+   CYP3A4 inducers/inhibitors  
+
+
+
+ Bedaquiline is metabolized by CYP3A4 and its systemic exposure and therapeutic effect may therefore be reduced during co-administration with inducers of CYP3A4. Avoid co-administration of strong CYP3A4 inducers, such as rifamycins (i.e., rifampin, rifapentine and rifabutin), or moderate CYP3A4 inducers, such as efavirenz, during treatment with SIRTURO [see  Drug Interactions (7.1)  ]  .
+
+
+
+ Co-administration of SIRTURO with strong CYP3A4 inhibitors may increase the systemic exposure to bedaquiline, which could potentially increase the risk of adverse reactions. Therefore, avoid the use of strong CYP3A4 inhibitors for more than 14 consecutive days while on SIRTURO, unless the benefit of treatment with the drug combination outweighs the risk [see  Drug Interactions (7.1)  ]  . Appropriate clinical monitoring for SIRTURO-related adverse reactions is recommended.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vermox" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Adverse reactions reported in clinical trials were anorexia, abdominal pain, diarrhea, flatulence, nausea, vomiting and rash. (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Janssen Pharmaceuticals, Inc. at 1-800-JANSSEN (1-800-526-7736) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Studies
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of mebendazole was evaluated in 6276 adult and pediatric subjects one year of age and older who participated in 39 clinical trials for treatment of single or mixed parasitic infections of the gastrointestinal tract. In these trials, the formulations, dosages and duration of mebendazole treatment varied. Adverse reactions reported in mebendazole-treated subjects from the 39 clinical trials are shown in Table 1 below.
+
+
+
+ Table 1: Adverse Reactions Reported in Mebendazole-Treated Subjects from 39 Clinical TrialsIncludes mebendazole formulations, dosages and treatment duration other than VERMOXTM CHEWABLE 500 mg tablet 
+ Adverse Reaction(s)                                                                                    
+  
+   Gastrointestinal Disorders                                                                           
+ Anorexia                                                                                               
+ Abdominal Pain                                                                                         
+ Diarrhea                                                                                               
+ Flatulence                                                                                             
+ Nausea                                                                                                 
+ Vomiting                                                                                               
+   Skin and Subcutaneous Tissue Disorders                                                               
+ Rash                                                                                                   
+           Clinical Studies with Mebendazole Chewable 500 mg Tablet  
+ 
+
+ The safety profile of mebendazole chewable 500 mg tablets administered as a single dose was evaluated in 677 pediatric subjects aged 1 to 16 years and in 34 adults. The safety profile was consistent with the known safety profile of mebendazole.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified in adult and pediatric patients postmarketing with mebendazole formulations and dosages other than the VERMOXTM CHEWABLE 500 mg tablet. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Table 2: Adverse Reactions Identified During Postmarketing Experience with MebendazoleIncludes mebendazole formulations, dosages and treatment durations other than VERMOXTM CHEWABLE 500 mg tablet 
+                                           Adverse Reaction(s)                                            
+  
+   Blood and Lymphatic System Disorders    Agranulocytosis, Neutropenia                                   
+   Immune System Disorders                 Hypersensitivity including anaphylactic reactions              
+   Nervous System Disorders                Convulsions, Dizziness                                         
+   Hepatobiliary Disorders                 Hepatitis, Abnormal liver tests                                
+   Renal and Urinary Disorders             Glomerulonephritis                                             
+   Skin and Subcutaneous Tissue Disorders    Toxic epidermal necrolysis, Stevens-Johnson syndrome, Exanthema, Angioedema, Urticaria, Alopecia   
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Risk of Convulsions: Convulsions in infants below the age of 1 year have been reported (  5.1  ) 
+ *   Hematologic Effects: Neutropenia and agranulocytosis have been reported in patients receiving mebendazole at higher doses and for prolonged duration. Monitor blood counts in these patients (  5.2  ) 
+ *   Metronidazole and Serious Skin Reactions: Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) have been reported with the concomitant use of mebendazole and metronidazole. Avoid concomitant use of mebendazole and metronidazole (  5.3  ) 
+    
+ 
+
+   5.1 Risk of Convulsions
+
+
+
+  Convulsions have been reported in infants below the age of 1 year during post-marketing experience with mebendazole [see  Adverse Reactions (6.2)  ]  .
+
+
+
+    5.2 Hematologic Effects
+
+
+
+  Agranulocytosis and neutropenia have been reported with mebendazole use at higher doses and for more prolonged durations than is recommended for the treatment of soil-transmitted helminth infections. Monitor blood counts if VERMOXTM CHEWABLE is used at higher doses or for prolonged duration.
+
+
+
+    5.3 Metronidazole Drug Interaction and Serious Skin Reactions
+
+
+
+  Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) have been reported with the concomitant use of mebendazole and metronidazole. Avoid concomitant use of mebendazole and metronidazole.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="natacyn" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS:
+
+  The following events have been identified during post-marketing use of NATACYN(r) in clinical practice. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. The events, which have been chosen for inclusion due to their seriousness, frequency of reporting, possible causal connection to NATACYN(r), or a combination of these factors include: allergic reaction, change in vision, chest pain, corneal opacity, dyspnea, eye discomfort, eye edema, eye hyperemia, eye irritation, eye pain, foreign body sensation, parethesia, and tearing.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

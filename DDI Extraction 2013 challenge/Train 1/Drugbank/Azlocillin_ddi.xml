@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d9">
+    <sentence id="DDI-DrugBank.d9.s0" text="Azlocillin should not be administered concomitantly with amikacin, ciprofloxacin, gentamicin, netilmicin, or tobramycin.">
+        <entity id="DDI-DrugBank.d9.s0.e0" charOffset="0-9" type="drug" text="Azlocillin"/>
+        <entity id="DDI-DrugBank.d9.s0.e1" charOffset="57-64"
+            type="drug" text="amikacin"/>
+        <entity id="DDI-DrugBank.d9.s0.e2" charOffset="67-79"
+            type="drug" text="ciprofloxacin"/>
+        <entity id="DDI-DrugBank.d9.s0.e3" charOffset="82-91"
+            type="drug" text="gentamicin"/>
+        <entity id="DDI-DrugBank.d9.s0.e4" charOffset="94-103"
+            type="drug" text="netilmicin"/>
+        <entity id="DDI-DrugBank.d9.s0.e5" charOffset="109-118"
+            type="drug" text="tobramycin"/>
+        <ddi id="DDI-DrugBank.d9.s0.d0" e1="DDI-DrugBank.d9.s0.e0"
+            e2="DDI-DrugBank.d9.s0.e1" type="advise"/>
+        <ddi id="DDI-DrugBank.d9.s0.d1" e1="DDI-DrugBank.d9.s0.e0"
+            e2="DDI-DrugBank.d9.s0.e2" type="advise"/>
+        <ddi id="DDI-DrugBank.d9.s0.d2" e1="DDI-DrugBank.d9.s0.e0"
+            e2="DDI-DrugBank.d9.s0.e3" type="advise"/>
+        <ddi id="DDI-DrugBank.d9.s0.d3" e1="DDI-DrugBank.d9.s0.e0"
+            e2="DDI-DrugBank.d9.s0.e4" type="advise"/>
+        <ddi id="DDI-DrugBank.d9.s0.d4" e1="DDI-DrugBank.d9.s0.e0"
+            e2="DDI-DrugBank.d9.s0.e5" type="advise"/>
+    </sentence>
+</document>

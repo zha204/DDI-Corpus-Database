@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="carimune" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Increases in creatinine and blood urea nitrogen (BUN) have been observed as soon as one to two days following infusion. Progression to oliguria or anuria, requiring dialysis has been observed. Types of severe renal adverse events that have been seen following IGIV therapy include: acute renal failure, acute tubular necrosis, proximal tubular nephropathy and osmotic nephrosis.  9-14,64,71-73  
+
+
+
+ Inflammatory adverse reactions have been described in agammaglobulinemic and hypogammaglobulinemic patients who have never received immunoglobulin substitution therapy before or in patients whose time from last treatment is greater than 8 weeks and whose initial infusion rate exceeds 2 mg/kg/min.
+
+
+
+ This occurs in approximately 10% of such cases. Such reactions may also be observed in some patients during chronic substitution therapy.
+
+
+
+ Reactions, which may become apparent only 30 minutes to 1 hour after the beginning of the infusion, are as follows: flushing of the face, feelings of tightness in the chest, chills, fever, dizziness, nausea, diaphoresis, and hypotension or hypertension. In such cases, the infusion should be slowed or temporarily stopped until the symptoms subside. The infusion may then be resumed at a lower rate that is comfortable for the patient. If anaphylaxis or other severe reactions occur, the infusion should be stopped immediately.
+
+
+
+ Arthralgia, myalgia, and transient skin reactions (such as rash, erythema, pruritus, urticaria, eczema or dermatitis) have also been reported.
+
+
+
+ Immediate anaphylactoid and hypersensitivity reactions due to previous sensitization of the recipient to certain antigens, most commonly IgA, may be observed in exceptional cases, described under    CONTRAINDICATIONS    .  30,31,65  In patients with ITP, who receive higher doses (0.4 g/kg/day or greater), 2.9% of infusions may result in adverse reactions.  21  Headache, generally mild, is the most common symptom noted, occurring during or following 2% of infusions. A few cases of usually mild hemolysis have been reported after infusion of intravenous immunoglobulin products.  59-61  These were attributed to transferal of blood group (e.g., anti-D) antibodies.
+
+
+
+   Postmarketing
+
+  The following adverse reactions have been identified and reported during the post-approval use of IGIV products:
+
+
+
+   Respiratory  Apnea, Acute Respiratory Distress Syndrome (ARDS), Transfusion-Related Acute Lung Injury (TRALI), cyanosis, hypoxemia, pulmonary edema, dyspnea, bronchospasm  Cardiovascular  Cardiac arrest, thromboembolism, vascular collapse, hypotension  Neurological  Coma, loss of consciousness, seizures, tremor  Integumentary  Stevens-Johnson syndrome, epidermolysis, erythema multiforme, bullous dermatitis  Hematologic  Pancytopenia, leukopenia, hemolysis, positive direct antiglobulin (Coombs) test  General/Body as a Whole  Pyrexia, rigors  Musculoskeletal  Back pain  Gastrointestinal  Hepatic dysfunction, abdominal pain
+
+
+
+ Because postmarketing reporting of these reactions is voluntary and the at-risk populations are of uncertain size, it is not always possible to reliably estimate the frequency of the reaction or establish a causal relationship to exposure to the product. Such is also the case with literature reports authored independently.  66  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: THROMBOSIS, RENAL DYSFUNCTION, or ACUTE RENAL FAILURE
+
+    WARNING: THROMBOSIS, RENAL DYSFUNCTION, or ACUTE RENAL FAILURE  
+
+    *  Thrombosis may occur with immune globulin products1-8, including Carimune NF. Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity, and cardiovascular risk factors. Thrombosis may occur in the absence of known risk factors (see PRECAUTIONS: Thrombosis, Information for Patients). 
+ *  Renal dysfunction, acute renal failure, osmotic nephrosis, and death may occur in predisposed patients with immune globulin intravenous (IGIV) products9-14, including Carimune NF. Patients predisposed to renal dysfunction include those with any degree of pre-existing renal insufficiency, diabetes mellitus, age greater than 65, volume depletion, sepsis, paraproteinemia, or patients receiving known nephrotoxic drugs. Renal dysfunction and acute renal failure occur more commonly in patients receiving IGIV products containing sucrose. Carimune NF contains sucrose. 
+ *  For patients at risk of thrombosis, renal dysfunction or acute renal failure, administer Carimune NF at the minimum dose and infusion rate practicable. Ensure adequate hydration in patients before administration. Monitor for signs and symptoms of thrombosis and assess blood viscosity in patients at risk for hyperviscosity (see DOSAGE AND ADMINISTRATION, and PRECAUTIONS: Thrombosis). 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

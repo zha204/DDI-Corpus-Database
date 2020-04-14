@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sucralfate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions to sucralfate in clinical trials were minor and only rarely led to discontinuation of the drug. In studies involving over 2700 patients treated with sucralfate tablets, adverse effects were reported in 129 (4.7%).
+
+
+
+ Constipation was the most frequent complaint (2%). Other adverse effects reported in less than 0.5% of the patients are listed below by body system:
+
+
+
+   Gastrointestinal:  diarrhea, nausea, vomiting, gastric discomfort, indigestion, flatulence, dry mouth
+
+
+
+   Dermatological:  pruritus, rash
+
+
+
+   Nervous System:  dizziness, insomnia, sleepiness, vertigo
+
+
+
+   Other:  back pain, headache
+
+
+
+ Postmarketing reports of hypersensitivity reactions, including urticaria (hives), angioedema, respiratory difficulty, rhinitis, laryngospasm, and facial swelling have been reported in patients receiving sucralfate tablets. Similar events were reported with sucralfate suspension. However, a causal relationship has not been established.
+
+
+
+ Bezoars have been reported in patients treated with sucralfate. The majority of patients had underlying medical conditions that may predispose to bezoar formation (such as delayed gastric emptying) or were receiving concomitant enteral tube feedings.
+
+
+
+ Inadvertent injection of insoluble sucralfate and its insoluble excipients has led to fatal complications, including pulmonary and cerebral emboli. Sucralfate is  not  intended for intravenous administration.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

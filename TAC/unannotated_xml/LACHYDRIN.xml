@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lachydrin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequent adverse experiences in patients with xerosis are transient stinging (1 in 30 patients), burning (1 in 30 patients), erythema (1 in 50 patients) and peeling (1 in 60 patients). Other adverse reactions which occur less frequently are irritation, eczema, petechiae, dryness and hyperpigmentation.
+
+
+
+ Due to the more severe initial skin conditions associated with ichthyosis, there was a higher incidence of transient stinging, burning and erythema (each occurring in 1 in 10 patients).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

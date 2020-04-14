@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="butisol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    Adverse Reactions
+
+    To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-866-210-5952 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ The following adverse reactions have been observed with the use of barbiturates in hospitalized patients. Because such patients may be less aware of certain of the milder adverse effects of barbiturates, the incidence of these reactions may be somewhat higher in fully ambulatory patients.
+
+
+
+   More than 1 in 100 patients.  The most common adverse reaction, somnolence, is estimated to occur at a rate of 1 to 3 patients per 100.
+
+
+
+   Less than 1 in 100 patients.  The most common adverse reactions estimated to occur at a rate of less than 1 in 100 patients listed below, grouped by organ system, and by decreasing order of occurrence are:
+
+
+
+   Central nervous system/psychiatric:  Agitation, confusion, hyperkinesia, ataxia, CNS depression, nightmares, nervousness, psychiatric disturbance, hallucinations, insomnia, anxiety, dizziness, thinking abnormality.
+
+
+
+   Respiratory:  Hypoventilation, apnea.
+
+
+
+   Cardiovascular:  Bradycardia, hypotension, syncope.
+
+
+
+   Gastrointestinal:  Nausea, vomiting, constipation.
+
+
+
+   Other reported reactions:  Headache, hypersensitivity (angioedema, skin rashes, exfoliative dermatitis), fever, liver damage.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="atralin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (incidence &gt;=5%) with Atralin Gel are dry skin, peeling/scaling/flaking skin, skin burning sensation, and erythema. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In two randomized, controlled trials, 674 subjects received treatment for up to 12 weeks with Atralin Gel [see    Clinical Trials (14)    ]. In these studies, 50% of the subjects who were treated with Atralin Gel reported one or more adverse reactions; 30% of the subjects reported treatment-related adverse reactions. In the vehicle group, 29% of the 487 randomized subjects reported at least one adverse reaction; 5% of the subjects reported events that were treatment-related. There were no serious, treatment-related adverse reactions reported by subjects in any of the treatment groups.
+
+
+
+ Selected adverse reactions that occurred in at least 1% of subjects in the two trials combined are shown in Table 1 (below). Most skin-related adverse reactions first appear during the first two weeks of treatment with Atralin Gel, and the incidence rate for skin-related reactions peaks around the second and third week of treatment. In some subjects the skin-related adverse reactions persists throughout the treatment period.
+
+
+
+ Table 1: Number of Subjects with Selected Adverse Reactions (Occurring in At Least 1% of Subjects) 
+   Event                              Atralin Gel    (n = 674)        Vehicle Gel    (n = 487)       
+  
+  Dry Skin                           109 (16%)                       8 (2%)                          
+  Peeling/Scaling/Flaking Skin       78 (12%)                        7 (1%)                          
+  Skin Burning Sensation             53 (8%)                         8 (2%)                          
+  Erythema                           47 (7%)                         1 (&lt;1%)                         
+  Pruritus                           11 (2%)                         3 (1%)                          
+  Pain of Skin                       7 (1%)                          0 (0%)                          
+  Sunburn                            7 (1%)                          3 (1%)                          
+           6.2 Postmarketing Experience
+   The following adverse reactions have been identified during post-approval use of Atralin Gel. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  1.  Atralin Gel should not be used on eczematous or sunburned skin due to potential for severe irritation (  5.1  ) 
+ *  2.  Topical over-the-counter acne preparations, concomitant topical medications, medicated cleansers, topical products with alcohol or astringents: Use with caution, irritation may occur. (  5.1  ) 
+ *  3.  Avoid unprotected exposure to sunlight including sunlamps (UV light) when using Atralin Gel due to potential for increased photosensitization. Use sunscreen of at least SPF 15 and protective clothing during exposure (  5.2  ) 
+ *  4.  Avoid use of Atralin Gel with weather extremes, such as wind or cold due to potential for increased irritation (  5.2  ) 
+ *  5.  Use Atralin Gel with caution if allergic to fish due to potential for allergenicity to fish protein. Patients who develop pruritus or urticaria should contact their health care provider. (  5.3  ) 
+    
+ 
+
+   5.1 Skin Irritation
+
+
+
+  The skin of certain individuals may become dry, red, or exfoliated while using Atralin Gel. If the degree of irritation warrants, patients should be directed to temporarily reduce the amount or frequency of application of the medication, discontinue use temporarily, or discontinue use all together. Efficacy at reduced frequencies of application has not been established. If a reaction suggesting sensitivity occurs, use of the medication should be discontinued. Mild to moderate skin dryness may also be experienced; if so, use of an appropriate moisturizer during the day may be helpful.
+
+
+
+ Tretinoin has been reported to cause severe irritation on eczematous or sunburned skin and should be used with caution in patients with these conditions.
+
+
+
+ To help limit skin irritation, patients must:
+
+
+
+ *    wash the treated skin gently, using a mild, non-medicated soap, and pat it dry 
+ *    avoid washing the treated skin too often and scrubbing the affected skin area 
+ *    avoid contact with the peels of limes 
+       5.2 Ultraviolet Light and Environmental Exposure
+ 
+
+  Unprotected exposure to sunlight, including sunlamps, should be minimized during the use of Atralin Gel. Patients who normally experience high levels of sun exposure, and those with inherent sensitivity to sun, should be warned to exercise caution. Use of sunscreen products of at least SPF 15 and protective clothing over treated areas is recommended when exposure cannot be avoided.
+
+
+
+ Weather extremes, such as wind or cold, also may be irritating to tretinoin-treated skin.
+
+
+
+    5.3 Fish Allergies
+
+
+
+  Atralin Gel contains soluble fish proteins and should be used with caution in patients with known sensitivity or allergy to fish. Patients who develop pruritus or urticaria should contact their health care provider.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="varithena" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   In clinical trials, the most common related adverse events (occurring in &gt;=3% of patients treated with VarithenaTM) were pain/discomfort in extremity, infusion site thrombosis (retained coagulum), injection site hematoma or pain, thrombophlebitis superficial, and extravasation.(  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Biocompatibles, Inc. at 1-855-971-VEIN (1-855-971-8346) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under controlled but widely varying conditions, adverse reaction rates observed in clinical trials of VarithenaTM cannot be directly compared to rates in the clinical trials of other drugs or procedures and may not reflect the rates observed in practice.
+
+
+
+ A total of 1333 patients in 12 clinical trials were evaluated for safety when treated with VarithenaTM at dose concentrations of 0.125%, 0.5%, 1.0%, or 2.0%, including 437 patients treated with VarithenaTM in placebo-controlled clinical trials.
+
+
+
+ Adverse reactions occurring in 3% more patients receiving VarithenaTM 1% than receiving placebo are shown in  Table 1  .
+
+
+
+
+   a  Includes VarithenaTM 0.125%, 0.5%, 1.0%, and 2.0% from the placebo-controlled trials.  b  Retained coagulum.  c  Common femoral vein thrombus extension (non-occlusive thrombi starting in the superficial vein and extending into thecommon femoral vein).   
+  
+   Table 1:             Treatment-emergent adverse reactions (3% more on VarithenaTM 1% than on                           placebo) through Week 8 (n=588)     
+   Adverse Reaction                      Placebo(N=151)        VarithenaTM 1.0%(N=149)      Pooled  a  VarithenaTM(N=437)     
+ Pain in extremity                          14 (9.3)               25 (16.8)               65 (14.9)          
+ Infusion site thrombosis  b                   0                   24 (16.1)               46 (10.5)          
+ Contusion/injection site hematoma          9 (6.0)                23 (15.4)                38 (8.7)          
+ Limb discomfort                            5 (3.3)                18 (12.1)                32 (7.3)          
+ Tenderness/injection site pain             5 (3.3)                16 (10.7)                30 (6.9)          
+ Venous thrombosis limb  c                     0                    12 (8.1)                24 (5.5)          
+ Thrombophlebitis superficial               2 (1.3)                 8 (5.4)                 40 (9.2)          
+ Deep vein thrombosis                          0                    7 (4.7)                 10 (2.3)          
+          In VarithenaTM-treated patients, 80% of pain events in the treated extremity resolved within 1 week.
+ 
+
+ In the 1333 patients treated with VarithenaTM, the following venous thrombus adverse events occurred: common femoral vein thrombus extension (2.9%), proximal deep vein thrombosis (DVT) (1.7%), distal DVT (1.1%), isolated gastrocnemius, and soleal vein thrombosis (1.4%).
+
+
+
+ Proximal symptomatic venous thrombi occurred in &lt;1% of patients treated with VarithenaTM. Approximately half (49%) of patients with thrombi received treatment with anticoagulants.
+
+
+
+ Since VarithenaTM induces thrombosis in the treated superficial veins, D-dimer is commonly elevated post-treatment and is not useful diagnostically to assess patients for venous thrombus following treatment with VarithenaTM.
+
+
+
+ Neurologic adverse events (cerebrovascular accident, migraines) have been reported in patients following administration of physician compounded foam sclerosants. None of the 1333 patients in the VarithenaTM trials experienced clinically important neurological or visual adverse events suggestive of cerebral gas embolism. The incidence of neurologic and visual adverse events within 1 day of treatment in the placebo-controlled studies was 2.7% in the pooled VarithenaTM group and 4.0% in the placebo groups.
+
+
+
+ Skin discoloration adverse events were reported in 1.1% of the pooled VarithenaTM group and 0.7% of the placebo group in the placebo-controlled studies.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Be prepared to treat anaphylaxis. (  5.1  ) 
+ *  Tissue ischemia and necrosis: do not inject intra-arterially. (  5.2  ) 
+ *  Venous Thrombosis (  5.3  ) 
+    
+ 
+
+   5.1 Anaphylaxis
+
+
+
+  Severe allergic reactions have been reported following administration of liquid polidocanol, including anaphylactic reactions, some of them fatal. Observe patients for at least 10 minutes following injection and be prepared to treat anaphylaxis appropriately.
+
+
+
+    5.2 Tissue Ischemia and Necrosis
+
+
+
+  Intra-arterial injection or extravasation of polidocanol can cause severe necrosis, ischemia or gangrene Patients with underlying arterial disease, such as marked peripheral arteriosclerosis or thromboangiitis obliterans (Buerger's Disease) may be at increased risk for tissue ischemia. If intra-arterial injection of polidocanol occurs, consult a vascular surgeon immediately.
+
+
+
+    5.3 Venous Thrombosis
+
+
+
+  VarithenaTM can cause venous thrombosis [see Adverse Reactions (  6  )]  . Follow administration instructions closely and monitor for signs of venous thrombosis after treatment. Patients with reduced mobility, history of deep vein thrombosis or pulmonary embolism, or recent (within 3 months) major surgery, prolonged hospitalization, or pregnancy are at increased risk for developing thrombosis.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

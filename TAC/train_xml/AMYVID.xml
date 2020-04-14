@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="amyvid" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common reported adverse reaction was headache, occurring in 2% of patients, followed by musculoskeletal pain, blood pressure increased, fatigue, nausea, and injection site reaction, all occurring in &lt;1% of patients (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Eli Lilly and Company at 1-800-LillyRx (1-800-545-5979) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In clinical studies, 555 patients were exposed to Amyvid. Amyvid caused no serious adverse reactions in the studies and the reported adverse reactions were predominantly mild to moderate in severity. The adverse reactions reported in more than one subject within the studies are shown in  Table 2  .
+
+
+
+ Table 2: Adverse Reactions Reported in Clinical Trials (N=555 patients) 
+  a Includes the terms blood pressure increased and hypertension.    
+  b Includes the terms injection site haemorrhage, injection site irritation, and injection site pain.    
+  c Includes the terms feeling cold and chills.      
+  
+   Adverse Reactions                                  N (Percent of patients)                            
+ Headache                                           10 (1.8%)                                            
+ Musculoskeletal pain                               4 (0.7%)                                             
+ Blood pressure increased  a                        4 (0.7%)                                             
+ Nausea                                             4 (0.7%)                                             
+ Fatigue                                            3 (0.5%)                                             
+ Injection site reaction  b                         3 (0.5%)                                             
+ Anxiety                                            2 (0.4%)                                             
+ Back pain                                          2 (0.4%)                                             
+ Claustrophobia                                     2 (0.4%)                                             
+ Dizziness                                          2 (0.4%)                                             
+ Feeling cold  c                                    2 (0.4%)                                             
+ Insomnia                                           2 (0.4%)                                             
+ Neck pain                                          2 (0.4%)                                             
+        Other adverse reactions occurred at lower frequencies and included infusion site rash, dysgeusia, pruritis, urticaria, and flushing.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Image interpretation errors (especially false negatives) have been observed (  5.1  ). 
+ *  Radiation risk: Amyvid, similar to all radiopharmaceuticals, contributes to a patient's long-term cumulative radiation exposure. Ensure safe handling to protect patients and health care workers from unintentional radiation exposure (  2.1  ,  5.2  ). 
+    
+ 
+
+   5.1 Risk for Image Misinterpretation and other Errors
+
+
+
+  Errors may occur in the Amyvid estimation of brain neuritic plaque density during image interpretation [see Clinical Studies (  14  )]  .
+
+
+
+ Image interpretation should be performed independently of the patient's clinical information. The use of clinical information in the interpretation of Amyvid images has not been evaluated and may lead to errors. Other errors may be due to extensive brain atrophy that limits the ability to distinguish gray and white matter on the Amyvid scan as well as motion artifacts that distort the image.
+
+
+
+ Amyvid scan results are indicative of the brain neuritic amyloid plaque content only at the time of image acquisition and a negative scan result does not preclude the development of brain amyloid in the future.
+
+
+
+    5.2 Radiation Risk
+
+
+
+  Amyvid, similar to other radiopharmaceuticals, contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Ensure safe handling to protect patients and health care workers from unintentional radiation exposure [see Dosage and Administration (  2.1  )]  .
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="84" len="8" str="headache" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="135" len="20" str="musculoskeletal pain" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="157" len="24" str="blood pressure increased" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="183" len="7" str="fatigue" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="192" len="6" str="nausea" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="204" len="23" str="injection site reaction" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="1150" len="24" str="blood pressure increased" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="1179" len="12" str="hypertension" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="1220" len="26" str="injection site haemorrhage" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="1248" len="25" str="injection site irritation" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="1279" len="19" str="injection site pain" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="1327" len="12" str="feeling cold" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="1344" len="6" str="chills" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="1468" len="8" str="Headache" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="1574" len="20" str="Musculoskeletal pain" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="1680" len="24" str="Blood pressure increased" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="1786" len="6" str="Nausea" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="1892" len="7" str="Fatigue" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="1998" len="23" str="Injection site reaction" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2104" len="7" str="Anxiety" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2210" len="9" str="Back pain" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2316" len="14" str="Claustrophobia" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2422" len="9" str="Dizziness" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2528" len="12" str="Feeling cold" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="2634" len="8" str="Insomnia" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="2740" len="9" str="Neck pain" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="2920" len="18" str="infusion site rash" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="2940" len="9" str="dysgeusia" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="2951" len="8" str="pruritis" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="2961" len="9" str="urticaria" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="2976" len="8" str="flushing" />
+    <Mention id="M32" section="S2" type="AdverseReaction" start="144" len="14" str="Radiation risk" />
+    <Mention id="M33" section="S2" type="AdverseReaction" start="232" len="39" str="long-term cumulative radiation exposure" />
+    <Mention id="M34" section="S2" type="AdverseReaction" start="1331" len="39" str="long-term cumulative radiation exposure" />
+    <Mention id="M35" section="S2" type="AdverseReaction" start="1372" len="39" str="Long-term cumulative radiation exposure" />
+    <Mention id="M36" section="S2" type="Factor" start="1444" len="4" str="risk" />
+    <Mention id="M37" section="S2" type="AdverseReaction" start="1452" len="6" str="cancer" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M37" arg2="M36" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="headache">
+      <Normalization id="AR1.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR2" str="musculoskeletal pain">
+      <Normalization id="AR2.N1" meddra_pt="Musculoskeletal pain" meddra_pt_id="10028391" />
+    </Reaction>
+    <Reaction id="AR3" str="blood pressure increased">
+      <Normalization id="AR3.N1" meddra_pt="Blood pressure increased" meddra_pt_id="10005750" />
+    </Reaction>
+    <Reaction id="AR4" str="fatigue">
+      <Normalization id="AR4.N1" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Reaction>
+    <Reaction id="AR5" str="nausea">
+      <Normalization id="AR5.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR6" str="injection site reaction">
+      <Normalization id="AR6.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR7" str="hypertension">
+      <Normalization id="AR7.N1" meddra_pt="Hypertension" meddra_pt_id="10020772" />
+    </Reaction>
+    <Reaction id="AR8" str="injection site haemorrhage">
+      <Normalization id="AR8.N1" meddra_pt="Injection site haemorrhage" meddra_pt_id="10022067" />
+    </Reaction>
+    <Reaction id="AR9" str="injection site irritation">
+      <Normalization id="AR9.N1" meddra_pt="Injection site irritation" meddra_pt_id="10022079" />
+    </Reaction>
+    <Reaction id="AR10" str="injection site pain">
+      <Normalization id="AR10.N1" meddra_pt="Injection site pain" meddra_pt_id="10022086" />
+    </Reaction>
+    <Reaction id="AR11" str="feeling cold">
+      <Normalization id="AR11.N1" meddra_pt="Feeling cold" meddra_pt_id="10016326" />
+    </Reaction>
+    <Reaction id="AR12" str="chills">
+      <Normalization id="AR12.N1" meddra_pt="Chills" meddra_pt_id="10008531" />
+    </Reaction>
+    <Reaction id="AR13" str="anxiety">
+      <Normalization id="AR13.N1" meddra_pt="Anxiety" meddra_pt_id="10002855" />
+    </Reaction>
+    <Reaction id="AR14" str="back pain">
+      <Normalization id="AR14.N1" meddra_pt="Back pain" meddra_pt_id="10003988" />
+    </Reaction>
+    <Reaction id="AR15" str="claustrophobia">
+      <Normalization id="AR15.N1" meddra_pt="Claustrophobia" meddra_pt_id="10009244" />
+    </Reaction>
+    <Reaction id="AR16" str="dizziness">
+      <Normalization id="AR16.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR17" str="insomnia">
+      <Normalization id="AR17.N1" meddra_pt="Insomnia" meddra_pt_id="10022437" />
+    </Reaction>
+    <Reaction id="AR18" str="neck pain">
+      <Normalization id="AR18.N1" meddra_pt="Neck pain" meddra_pt_id="10028836" />
+    </Reaction>
+    <Reaction id="AR19" str="infusion site rash">
+      <Normalization id="AR19.N1" meddra_pt="Infusion site rash" meddra_pt_id="10059830" />
+    </Reaction>
+    <Reaction id="AR20" str="dysgeusia">
+      <Normalization id="AR20.N1" meddra_pt="Dysgeusia" meddra_pt_id="10013911" />
+    </Reaction>
+    <Reaction id="AR21" str="pruritis">
+      <Normalization id="AR21.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Reaction>
+    <Reaction id="AR22" str="urticaria">
+      <Normalization id="AR22.N1" meddra_pt="Urticaria" meddra_pt_id="10046735" />
+    </Reaction>
+    <Reaction id="AR23" str="flushing">
+      <Normalization id="AR23.N1" meddra_pt="Flushing" meddra_pt_id="10016825" />
+    </Reaction>
+    <Reaction id="AR24" str="radiation risk">
+      <Normalization id="AR24.N1" meddra_pt="Exposure to radiation" meddra_pt_id="10073306" />
+    </Reaction>
+    <Reaction id="AR25" str="long-term cumulative radiation exposure">
+      <Normalization id="AR25.N1" meddra_pt="Exposure to radiation" meddra_pt_id="10073306" flag="underspecified" />
+    </Reaction>
+    <Reaction id="AR26" str="cancer">
+      <Normalization id="AR26.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" meddra_llt="Cancer" meddra_llt_id="10007050" />
+    </Reaction>
+  </Reactions>
+</Label>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nymalize" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The safety and efficacy of NYMALIZE (nimodipine oral solution) in the treatment of patients with SAH is based on adequate and well-controlled studies of nimodipine oral capsules in patients with SAH. NYMALIZE (nimodipine oral solution) has comparable bioavailability to nimodipine oral capsules.
+
+
+
+ The following clinically significant adverse reaction appears in other sections of the labeling:
+
+
+
+ *  Hypotension [see  Warnings and Precautions (5.1)  ].  
+      EXCERPT:   Most common adverse reactions (incidence &gt;=1% and &gt;=1% placebo) were hypotension, headache, nausea, and bradycardia (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Arbor Pharmaceuticals, LLC at 1-866-516-4950 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+    Clinical Trials Experience  
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In clinical trials of nimodipine oral capsules in patients with SAH, eleven percent (92 of 823) of nimodipine-treated patients reported adverse events compared to six percent (29 of 479) of placebo-treated patients. The most common adverse event was decreased blood pressure in 4.4% of nimodipine-treated patients. The events reported with a frequency greater than 1% are displayed in Table 1 by dose.
+
+
+
+ Table 1: Adverse Events [n (%)] reported with a frequency &gt; 1% in four clinical trials (Study 1, Study 2, Study 3, and Study 4) 
+                                 Placebo (n=479)  Nimodipine dose every 4 hours   
+ 0.35 mg/kg (n=82)               30 mg (n=71)  60 mg (n=494)    90 mg (n=172)  120 mg (n=4)   
+  
+ Decreased Blood Pressure        6 (1.2)      1 (1.2)          0            19 (3.8)     14 (8.1)     2 (50.0)      
+ Edema                           3 (0.6)      0                0            2 (0.4)      2 (1.2)      0             
+ Diarrhea                        3 (0.6)      0                3 (4.2)      0            3 (1.7)      0             
+ Rash                            3 (0.6)      2 (2.4)          0            3 (0.6)      2 (1.2)      0             
+ Headache                        1 (0.2)      0                1 (1.4)      6 (1.2)      0            0             
+ Gastrointestinal Symptoms       0            2 (2.4)          0            0            2 (1.2)      0             
+ Nausea                          0            1 (1.2)          1 (1.4)      6 (1.2)      1 (0.6)      0             
+ Dyspnea                         0            1 (1.2)          0            0            0            0             
+ EKG Abnormalities               0            0                1 (1.4)      0            1 (0.6)      0             
+ Tachycardia                     0            0                1 (1.4)      0            0            0             
+ Bradycardia                     0            0                0            5 (1.0)      1 (0.6)      0             
+ Muscle Pain/Cramp               0            0                1 (1.4)      1 (0.2)      1 (0.6)      0             
+ Acne                            0            0                1 (1.4)      0            0            0             
+ Depression                      0            0                1 (1.4)      0            0            0             
+             SAH is frequently accompanied by alterations in consciousness that may lead to an under-reporting of adverse experiences. As a calcium channel blocker, nimodipine may have the potential to exacerbate heart failure in susceptible patients or to interfere with A-V conduction, but these events were not observed in SAH trials.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hypotension: Monitor blood pressure (  5.1  ) 
+ *   Patients with Cirrhosis: Higher risk of adverse reactions. Monitor blood pressure and pulse (  5.2  ) 
+ *   CYP3A4 Strong Inhibitors: May significantly increase risk of hypotension. Concomitant use with NYMALIZE should generally be avoided (  5.3  ) 
+ *   CYP3A4 Strong Inducers: May significantly reduce efficacy of nimodipine. Concomitant use with NYMALIZE should generally be avoided (  5.4  ) 
+    
+ 
+
+   5.1 Hypotension
+
+
+
+  Blood pressure should be carefully monitored during treatment with NYMALIZE. In clinical studies of patients with subarachnoid hemorrhage, about 5% of nimodipine-treated patients compared to 1% of placebo-treated patients had hypotension and about 1% of nimodipine-treated patients left the study because of this. [see  Adverse Reactions (6)  ].  
+
+
+
+    5.2 Possible Increased Risk of Adverse Reactions in Patients with Cirrhosis
+
+
+
+  Given that the plasma levels of nimodipine are increased in patients with cirrhosis, these patients are at higher risk of adverse reactions. Therefore, monitor blood pressure and pulse rate closely and administer a lower dosage [see  Dosage and Administration (2.4)  ,  Clinical Pharmacology (12.3)  ]  .
+
+
+
+    5.3 Possible Increased Risk of Hypotension with Strong CYP3A4 Inhibitors
+
+
+
+  Concomitant use of strong inhibitors of CYP3A4, such as some macrolide antibiotics (e.g., clarithromycin, telithromycin), some HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, saquinavir), some HCV protease inhibitors (e.g., boceprevir, telaprevir), some azole antimycotics (e.g., ketoconazole, itraconazole, posaconazole, voriconazole), conivaptan, delaviridine, and nefazadone with nimodipine should generally be avoided because of a risk of significant hypotension [see  Drug Interactions (7.2)  ]  .
+
+
+
+    5.4 Possible Reduced Efficacy with Strong CYP3A4 Inducers
+
+
+
+  Concomitant use of strong CYP3A4 inducers (e.g. carbamazepine, phenobarbital, phenytoin, rifampin, St John's wort) and nimodipine should generally be avoided, as nimodipine plasma concentration and efficacy may be significantly reduced [see  Drug Interactions (7.3)  ].  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

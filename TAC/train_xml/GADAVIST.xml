@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="gadavist" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+    *    The following serious adverse reactions are discussed elsewhere in labeling: 
+ *    Nephrogenic Systemic Fibrosis (NSF) [see Boxed Warning and Warnings and Precautions (  5.1  )].  
+    Hypersensitivity reactions  [see Contraindications (4) and Warnings and Precautions (  5.2  )].  
+ 
+
+    EXCERPT:    *    Most common adverse reactions (incidence &gt;= 0.5%) are headache, nausea, and dizziness (  6.1)   
+      To report SUSPECTED ADVERSE REACTIONS, contact Bayer HealthCare Pharmaceuticals Inc. at 1-888-842-2937 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The adverse reactions described in this section reflect Gadavist exposure in 6,330 subjects (including 184 pediatric patients, ages 0 to 17 years) with the majority receiving the recommended dose. Approximately 50% of the subjects were male and the ethnic distribution was 60% Caucasian, 30% Asian, 6% Hispanic, 2% Black, and 3% patients of other ethnic groups. The average age was 55 years (range from1 week to 93 years).
+
+
+
+ Overall, approximately 4% of subjects reported one or more adverse reactions during a follow-up period that ranged from 24 hours to 7 days after Gadavist administration.
+
+
+
+ Adverse reactions associated with the use of Gadavist were usually mild to moderate in severity and transient in nature.
+
+
+
+ Table 2 lists adverse reactions that occurred in &gt;= 0.1% subjects who received Gadavist.
+
+
+
+ Table 2: Adverse Reactions 
+  Reaction                                                         Rate (%)  n=6330                  
+  Headache                                                         1.5                               
+  Nausea                                                           1.2                               
+  Dizziness                                                        0.5                               
+  Dysgeusia                                                        0.4                               
+  Feeling Hot                                                      0.4                               
+  Injection site reactions                                         0.4                               
+  Vomiting                                                         0.4                               
+  Rash (includes generalized, macular, papular, pruritic)          0.3                               
+  Pruritus (includes generalized)                                  0.2                               
+  Erythema                                                         0.2                               
+  Hypersensitivity/Anaphylactoid*                                  0.1                               
+  Dyspnea                                                          0.1                               
+  Paresthesia                                                      0.1                               
+        *Hypersensitivity/anaphylactoid reaction may occur with one or more of the following adverse reactions: for example, hypotension, urticaria, face edema, eyelid edema, flushing
+ 
+
+ Adverse reactions that occurred with a frequency of &lt; 0.1% in subjects who received Gadavist include: loss of consciousness, convulsion, parosmia, tachycardia, palpitation, dry mouth, malaise and feeling cold.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following additional adverse reactions have been reported during postmarketing use of Gadavist. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *    Cardiac arrest 
+ *    Nephrogenic Systemic Fibrosis (NSF) 
+ *    Hypersensitivity reactions (anaphylactic shock, circulatory collapse, respiratory arrest, pulmonary edema, bronchospasm, cyanosis, oropharyngeal swelling, laryngeal edema, blood pressure increased, chest pain, angioedema, conjunctivitis, hyperhidrosis, cough, sneezing, burning sensation, and pallor) [see Warnings and Precautions (  5.2  )]  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+  WARNING: NEPHROGENIC SYSTEMIC FIBROSIS
+
+  Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities. NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs.
+
+
+
+ *  The risk for NSF appears highest among patients with:Chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m2), orAcute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (for example, age &gt; 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing. 
+ *  For patients at highest risk for NSF, do not exceed the recommended Gadavist dose and allow a sufficient period of time for elimination of the drug from the body prior to any re-administration [see Warnings and Precautions (5.1)]. 
+      EXCERPT:   WARNING: NEPHROGENIC SYSTEMIC FIBROSIS (NSF)
+ 
+
+   See full prescribing information for complete boxed warning  
+
+
+
+   Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities.  
+
+
+
+ *  The risk for NSF appears highest among patients with:Chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m2), orAcute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (for example, age &gt;60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing. (5.1) 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Nephrogenic Systemic Fibrosis has occurred in patients with impaired elimination of GBCAs. Higher than recommended dosing or repeated dosing appears to increase the risk (  5.1  ) 
+ *    Anaphylactic and other hypersensitivity reactions with cardiovascular, respiratory or cutaneous manifestations, ranging from mild to severe, including death, have occurred. Monitor patients closely during and after administration of Gadavist (  5.2  ) 
+    
+ 
+
+   5.1 Nephrogenic Systemic Fibrosis
+
+
+
+  Gadolinium-based contrast agents (GBCAs) increase the risk for nephrogenic systemic fibrosis (NSF) among patients with impaired elimination of the drugs. Avoid use of GBCAs among these patients unless the diagnostic information is essential and not available with non-contrast MRI or other modalities. The GBCA-associated NSF risk appears highest for patients with chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m  2  ) as well as patients with acute kidney injury. The risk appears lower for patients with chronic, moderate kidney disease (GFR 30 to 59 mL/min/1.73m  2  ) and little, if any, for patients with chronic, mild kidney disease (GFR 60 to 89 mL/min/1.73m  2  ). NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs. Report any diagnosis of NSF following Gadavist administration to Bayer Healthcare (1-888-842-2937) or FDA (1-800-FDA-1088 or  www.fda.gov/medwatch  ).
+
+
+
+ Screen patients for acute kidney injury and other conditions that may reduce renal function. Features of acute kidney injury consist of rapid (over hours to days) and usually reversible decrease in kidney function, commonly in the setting of surgery, severe infection, injury or drug-induced kidney toxicity. Serum creatinine levels and estimated GFR may not reliably assess renal function in the setting of acute kidney injury. For patients at risk for chronically reduced renal function (for example, age &gt; 60 years, diabetes mellitus or chronic hypertension), estimate the GFR through laboratory testing.
+
+
+
+ Among the factors that may increase the risk for NSF are repeated or higher than recommended doses of a GBCA and degree of renal impairment at the time of exposure. Record the specific GBCA and the dose administered to a patient. For patients at highest risk for NSF, do not exceed the recommended Gadavist dose and allow a sufficient period of time for elimination of the drug prior to re-administration. For patients receiving hemodialysis, consider the prompt initiation of hemodialysis following the administration of a GBCA in order to enhance the contrast agent's elimination [see Use in Specific Populations (  8.6  ) and Clinical Pharmacology (  12.3  )].  The usefulness of hemodialysis in the prevention of NSF is unknown [see Clinical Pharmacology (12.3)].  
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+  Anaphylactic and other hypersensitivity reactions with cardiovascular, respiratory or cutaneous manifestations, ranging from mild to severe, including death, have uncommonly occurred following Gadavist administration [see Adverse Reactions (  6  )]  .
+
+
+
+ *    Before Gadavist administration, assess all patients for any history of a reaction to contrast media, bronchial asthma and/or allergic disorders. These patients may have an increased risk for a hypersensitivity reaction to Gadavist. 
+ *    Administer Gadavist only in situations where trained personnel and therapies are promptly available for the treatment of hypersensitivity reactions, including personnel trained in resuscitation. 
+    Most hypersensitivity reactions to Gadavist have occurred within half an hour after administration. Delayed reactions can occur up to several days after administration. Observe patients for signs and symptoms of hypersensitivity reactions during and following Gadavist administration.
+ 
+
+    5.3 Acute Kidney Injury
+
+
+
+  In patients with chronic renal impairment, acute kidney injury sometimes requiring dialysis has been observed with the use of some GBCAs. Do not exceed the recommended dose; the risk of acute kidney injury may increase with higher than recommended doses.
+
+
+
+    5.4 Extravasation and Injection Site Reactions
+
+
+
+  Ensure catheter and venous patency before the injection of Gadavist. Extravasation into tissues during Gadavist administration may result in moderate irritation [see Nonclinical Toxicology (  13.2  )]  .
+
+
+
+    5.5 Overestimation of Extent of Malignant Disease in MRI of the Breast
+
+
+
+   Gadavist MRI of the breast overestimated the histologically confirmed extent of malignancy in the diseased breast in up to 50% of the patients [see Clinical Studies (    14.2   )].  
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="118" len="29" str="Nephrogenic Systemic Fibrosis" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="149" len="3" str="NSF" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="220" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="396" len="8" str="headache" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="406" len="6" str="nausea" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="418" len="9" str="dizziness" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="1872" len="8" str="Headache" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="1974" len="6" str="Nausea" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="2076" len="9" str="Dizziness" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="2178" len="9" str="Dysgeusia" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="2280" len="11" str="Feeling Hot" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="2382" len="24" str="Injection site reactions" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="2484" len="8" str="Vomiting" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="2586" len="4" str="Rash" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="2586,2601" len="4,11" str="Rash generalized" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="2586,2614" len="4,7" str="Rash macular" />
+    <Mention id="M17" section="S1" type="AdverseReaction" start="2586,2623" len="4,7" str="Rash papular" />
+    <Mention id="M18" section="S1" type="AdverseReaction" start="2586,2632" len="4,8" str="Rash pruritic" />
+    <Mention id="M19" section="S1" type="AdverseReaction" start="2688" len="8" str="Pruritus" />
+    <Mention id="M20" section="S1" type="AdverseReaction" start="2688,2707" len="8,11" str="Pruritus generalized" />
+    <Mention id="M21" section="S1" type="AdverseReaction" start="2790" len="8" str="Erythema" />
+    <Mention id="M22" section="S1" type="AdverseReaction" start="2892" len="16" str="Hypersensitivity" />
+    <Mention id="M23" section="S1" type="AdverseReaction" start="2909" len="13" str="Anaphylactoid" />
+    <Mention id="M24" section="S1" type="AdverseReaction" start="2994" len="7" str="Dyspnea" />
+    <Mention id="M25" section="S1" type="AdverseReaction" start="3096" len="11" str="Paresthesia" />
+    <Mention id="M26" section="S1" type="AdverseReaction" start="3205" len="16" str="Hypersensitivity" />
+    <Mention id="M27" section="S1" type="AdverseReaction" start="3222" len="22" str="anaphylactoid reaction" />
+    <Mention id="M28" section="S1" type="AdverseReaction" start="3321" len="11" str="hypotension" />
+    <Mention id="M29" section="S1" type="AdverseReaction" start="3334" len="9" str="urticaria" />
+    <Mention id="M30" section="S1" type="AdverseReaction" start="3345" len="10" str="face edema" />
+    <Mention id="M31" section="S1" type="AdverseReaction" start="3357" len="12" str="eyelid edema" />
+    <Mention id="M32" section="S1" type="AdverseReaction" start="3371" len="8" str="flushing" />
+    <Mention id="M33" section="S1" type="AdverseReaction" start="3486" len="21" str="loss of consciousness" />
+    <Mention id="M34" section="S1" type="AdverseReaction" start="3509" len="10" str="convulsion" />
+    <Mention id="M35" section="S1" type="AdverseReaction" start="3521" len="8" str="parosmia" />
+    <Mention id="M36" section="S1" type="AdverseReaction" start="3531" len="11" str="tachycardia" />
+    <Mention id="M37" section="S1" type="AdverseReaction" start="3544" len="11" str="palpitation" />
+    <Mention id="M38" section="S1" type="AdverseReaction" start="3557" len="9" str="dry mouth" />
+    <Mention id="M39" section="S1" type="AdverseReaction" start="3568" len="7" str="malaise" />
+    <Mention id="M40" section="S1" type="AdverseReaction" start="3580" len="12" str="feeling cold" />
+    <Mention id="M41" section="S1" type="AdverseReaction" start="3936" len="14" str="Cardiac arrest" />
+    <Mention id="M42" section="S1" type="AdverseReaction" start="3958" len="29" str="Nephrogenic Systemic Fibrosis" />
+    <Mention id="M43" section="S1" type="AdverseReaction" start="3989" len="3" str="NSF" />
+    <Mention id="M44" section="S1" type="AdverseReaction" start="4001" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M45" section="S1" type="AdverseReaction" start="4029" len="18" str="anaphylactic shock" />
+    <Mention id="M46" section="S1" type="AdverseReaction" start="4049" len="20" str="circulatory collapse" />
+    <Mention id="M47" section="S1" type="AdverseReaction" start="4071" len="18" str="respiratory arrest" />
+    <Mention id="M48" section="S1" type="AdverseReaction" start="4091" len="15" str="pulmonary edema" />
+    <Mention id="M49" section="S1" type="AdverseReaction" start="4108" len="12" str="bronchospasm" />
+    <Mention id="M50" section="S1" type="AdverseReaction" start="4122" len="8" str="cyanosis" />
+    <Mention id="M51" section="S1" type="AdverseReaction" start="4132" len="22" str="oropharyngeal swelling" />
+    <Mention id="M52" section="S1" type="AdverseReaction" start="4156" len="15" str="laryngeal edema" />
+    <Mention id="M53" section="S1" type="AdverseReaction" start="4173" len="24" str="blood pressure increased" />
+    <Mention id="M54" section="S1" type="AdverseReaction" start="4199" len="10" str="chest pain" />
+    <Mention id="M55" section="S1" type="AdverseReaction" start="4211" len="10" str="angioedema" />
+    <Mention id="M56" section="S1" type="AdverseReaction" start="4223" len="14" str="conjunctivitis" />
+    <Mention id="M57" section="S1" type="AdverseReaction" start="4239" len="13" str="hyperhidrosis" />
+    <Mention id="M58" section="S1" type="AdverseReaction" start="4254" len="5" str="cough" />
+    <Mention id="M59" section="S1" type="AdverseReaction" start="4261" len="8" str="sneezing" />
+    <Mention id="M60" section="S1" type="AdverseReaction" start="4271" len="17" str="burning sensation" />
+    <Mention id="M61" section="S1" type="AdverseReaction" start="4294" len="6" str="pallor" />
+    <Mention id="M62" section="S2" type="AdverseReaction" start="30" len="29" str="NEPHROGENIC SYSTEMIC FIBROSIS" />
+    <Mention id="M63" section="S2" type="AdverseReaction" start="72" len="29" str="NEPHROGENIC SYSTEMIC FIBROSIS" />
+    <Mention id="M64" section="S2" type="DrugClass" start="105" len="32" str="Gadolinium-based contrast agents" />
+    <Mention id="M65" section="S2" type="Factor" start="159" len="4" str="risk" />
+    <Mention id="M66" section="S2" type="AdverseReaction" start="168" len="3" str="NSF" />
+    <Mention id="M67" section="S2" type="AdverseReaction" start="374" len="3" str="NSF" />
+    <Mention id="M68" section="S2" type="Factor" start="378" len="3" str="may" />
+    <Mention id="M69" section="S2" type="AdverseReaction" start="392" len="5" str="fatal" />
+    <Mention id="M70" section="S2" type="Severity" start="401" len="12" str="debilitating" />
+    <Mention id="M71" section="S2" type="AdverseReaction" start="414" len="8" str="fibrosis" />
+    <Mention id="M72" section="S2" type="Factor" start="482" len="4" str="risk" />
+    <Mention id="M73" section="S2" type="AdverseReaction" start="491" len="3" str="NSF" />
+    <Mention id="M74" section="S2" type="AdverseReaction" start="1163" len="29" str="NEPHROGENIC SYSTEMIC FIBROSIS" />
+    <Mention id="M75" section="S2" type="AdverseReaction" start="1194" len="3" str="NSF" />
+    <Mention id="M76" section="S2" type="DrugClass" start="1273" len="32" str="Gadolinium-based contrast agents" />
+    <Mention id="M77" section="S2" type="AdverseReaction" start="1336" len="3" str="NSF" />
+    <Mention id="M78" section="S2" type="Factor" start="1555" len="4" str="risk" />
+    <Mention id="M79" section="S2" type="AdverseReaction" start="1564" len="3" str="NSF" />
+    <Mention id="M80" section="S3" type="AdverseReaction" start="54" len="29" str="Nephrogenic Systemic Fibrosis" />
+    <Mention id="M81" section="S3" type="AdverseReaction" start="241,281" len="12,9" str="Anaphylactic reactions" />
+    <Mention id="M82" section="S3" type="AdverseReaction" start="264" len="26" str="hypersensitivity reactions" />
+    <Mention id="M83" section="S3" type="AdverseReaction" start="296,337" len="14,14" str="cardiovascular manifestations" />
+    <Mention id="M84" section="S3" type="AdverseReaction" start="312,337" len="11,14" str="respiratory manifestations" />
+    <Mention id="M85" section="S3" type="AdverseReaction" start="327" len="24" str="cutaneous manifestations" />
+    <Mention id="M86" section="S3" type="Severity" start="366" len="4" str="mild" />
+    <Mention id="M87" section="S3" type="Severity" start="374" len="6" str="severe" />
+    <Mention id="M88" section="S3" type="AdverseReaction" start="392" len="5" str="death" />
+    <Mention id="M89" section="S3" type="DrugClass" start="544" len="32" str="Gadolinium-based contrast agents" />
+    <Mention id="M90" section="S3" type="AdverseReaction" start="607" len="29" str="nephrogenic systemic fibrosis" />
+    <Mention id="M91" section="S3" type="AdverseReaction" start="638" len="3" str="NSF" />
+    <Mention id="M92" section="S3" type="DrugClass" start="850" len="4" str="GBCA" />
+    <Mention id="M93" section="S3" type="AdverseReaction" start="866" len="3" str="NSF" />
+    <Mention id="M94" section="S3" type="AdverseReaction" start="1223" len="3" str="NSF" />
+    <Mention id="M95" section="S3" type="Factor" start="1227" len="3" str="may" />
+    <Mention id="M96" section="S3" type="AdverseReaction" start="1241" len="5" str="fatal" />
+    <Mention id="M97" section="S3" type="Severity" start="1250" len="12" str="debilitating" />
+    <Mention id="M98" section="S3" type="AdverseReaction" start="1263" len="8" str="fibrosis" />
+    <Mention id="M99" section="S3" type="AdverseReaction" start="2900,2940" len="12,9" str="Anaphylactic reactions" />
+    <Mention id="M100" section="S3" type="AdverseReaction" start="2923" len="26" str="hypersensitivity reactions" />
+    <Mention id="M101" section="S3" type="Severity" start="3025" len="4" str="mild" />
+    <Mention id="M102" section="S3" type="Severity" start="3033" len="6" str="severe" />
+    <Mention id="M103" section="S3" type="AdverseReaction" start="3051" len="5" str="death" />
+    <Mention id="M104" section="S3" type="AdverseReaction" start="3964" len="19" str="acute kidney injury" />
+    <Mention id="M105" section="S3" type="DrugClass" start="4052" len="5" str="GBCAs" />
+    <Mention id="M106" section="S3" type="AdverseReaction" start="4347,4385" len="14,10" str="administration irritation" />
+    <Mention id="M107" section="S3" type="Factor" start="4362" len="3" str="may" />
+    <Mention id="M108" section="S3" type="Severity" start="4376" len="8" str="moderate" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Hypothetical" arg1="M66" arg2="M65" />
+    <Relation id="RL2" type="Hypothetical" arg1="M66" arg2="M64" />
+    <Relation id="RL3" type="Hypothetical" arg1="M69" arg2="M68" />
+    <Relation id="RL4" type="Hypothetical" arg1="M71" arg2="M68" />
+    <Relation id="RL5" type="Effect" arg1="M71" arg2="M70" />
+    <Relation id="RL6" type="Hypothetical" arg1="M73" arg2="M72" />
+    <Relation id="RL7" type="Hypothetical" arg1="M77" arg2="M76" />
+    <Relation id="RL8" type="Hypothetical" arg1="M79" arg2="M78" />
+    <Relation id="RL9" type="Effect" arg1="M83" arg2="M86" />
+    <Relation id="RL10" type="Effect" arg1="M83" arg2="M87" />
+    <Relation id="RL11" type="Effect" arg1="M84" arg2="M86" />
+    <Relation id="RL12" type="Effect" arg1="M85" arg2="M86" />
+    <Relation id="RL13" type="Effect" arg1="M85" arg2="M87" />
+    <Relation id="RL14" type="Hypothetical" arg1="M90" arg2="M89" />
+    <Relation id="RL15" type="Hypothetical" arg1="M91" arg2="M89" />
+    <Relation id="RL16" type="Hypothetical" arg1="M93" arg2="M92" />
+    <Relation id="RL17" type="Hypothetical" arg1="M96" arg2="M95" />
+    <Relation id="RL18" type="Hypothetical" arg1="M98" arg2="M95" />
+    <Relation id="RL19" type="Effect" arg1="M98" arg2="M97" />
+    <Relation id="RL20" type="Effect" arg1="M99" arg2="M101" />
+    <Relation id="RL21" type="Effect" arg1="M99" arg2="M102" />
+    <Relation id="RL22" type="Effect" arg1="M100" arg2="M101" />
+    <Relation id="RL23" type="Effect" arg1="M100" arg2="M102" />
+    <Relation id="RL24" type="Hypothetical" arg1="M104" arg2="M105" />
+    <Relation id="RL25" type="Hypothetical" arg1="M106" arg2="M107" />
+    <Relation id="RL26" type="Effect" arg1="M106" arg2="M108" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="nephrogenic systemic fibrosis">
+      <Normalization id="AR1.N1" meddra_pt="Nephrogenic systemic fibrosis" meddra_pt_id="10067467" />
+    </Reaction>
+    <Reaction id="AR2" str="nsf">
+      <Normalization id="AR2.N1" meddra_pt="Nephrogenic systemic fibrosis" meddra_pt_id="10067467" />
+    </Reaction>
+    <Reaction id="AR3" str="hypersensitivity reactions">
+      <Normalization id="AR3.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR4" str="headache">
+      <Normalization id="AR4.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR5" str="nausea">
+      <Normalization id="AR5.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR6" str="dizziness">
+      <Normalization id="AR6.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR7" str="dysgeusia">
+      <Normalization id="AR7.N1" meddra_pt="Dysgeusia" meddra_pt_id="10013911" />
+    </Reaction>
+    <Reaction id="AR8" str="feeling hot">
+      <Normalization id="AR8.N1" meddra_pt="Feeling hot" meddra_pt_id="10016334" />
+    </Reaction>
+    <Reaction id="AR9" str="injection site reactions">
+      <Normalization id="AR9.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR10" str="vomiting">
+      <Normalization id="AR10.N1" meddra_pt="Vomiting" meddra_pt_id="10047700" />
+    </Reaction>
+    <Reaction id="AR11" str="rash">
+      <Normalization id="AR11.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR12" str="rash generalized">
+      <Normalization id="AR12.N1" meddra_pt="Rash generalised" meddra_pt_id="10037858" meddra_llt="Generalized rash" meddra_llt_id="10049201" />
+    </Reaction>
+    <Reaction id="AR13" str="rash macular">
+      <Normalization id="AR13.N1" meddra_pt="Rash macular" meddra_pt_id="10037867" />
+    </Reaction>
+    <Reaction id="AR14" str="rash papular">
+      <Normalization id="AR14.N1" meddra_pt="Rash papular" meddra_pt_id="10037876" />
+    </Reaction>
+    <Reaction id="AR15" str="rash pruritic">
+      <Normalization id="AR15.N1" meddra_pt="Rash pruritic" meddra_pt_id="10037884" />
+    </Reaction>
+    <Reaction id="AR16" str="pruritus">
+      <Normalization id="AR16.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Reaction>
+    <Reaction id="AR17" str="pruritus generalized">
+      <Normalization id="AR17.N1" meddra_pt="Pruritus generalised" meddra_pt_id="10052576" meddra_llt="Pruritus generalized" meddra_llt_id="10037092" />
+    </Reaction>
+    <Reaction id="AR18" str="erythema">
+      <Normalization id="AR18.N1" meddra_pt="Erythema" meddra_pt_id="10015150" />
+    </Reaction>
+    <Reaction id="AR19" str="hypersensitivity">
+      <Normalization id="AR19.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Reaction>
+    <Reaction id="AR20" str="anaphylactoid">
+      <Normalization id="AR20.N1" meddra_pt="Anaphylactoid reaction" meddra_pt_id="10002216" />
+    </Reaction>
+    <Reaction id="AR21" str="dyspnea">
+      <Normalization id="AR21.N1" meddra_pt="Dyspnoea" meddra_pt_id="10013968" meddra_llt="Dyspnea" meddra_llt_id="10013963" />
+    </Reaction>
+    <Reaction id="AR22" str="paresthesia">
+      <Normalization id="AR22.N1" meddra_pt="Paraesthesia" meddra_pt_id="10033775" meddra_llt="Paresthesia" meddra_llt_id="10033987" />
+    </Reaction>
+    <Reaction id="AR23" str="anaphylactoid reaction">
+      <Normalization id="AR23.N1" meddra_pt="Anaphylactoid reaction" meddra_pt_id="10002216" />
+    </Reaction>
+    <Reaction id="AR24" str="hypotension">
+      <Normalization id="AR24.N1" meddra_pt="Hypotension" meddra_pt_id="10021097" />
+    </Reaction>
+    <Reaction id="AR25" str="urticaria">
+      <Normalization id="AR25.N1" meddra_pt="Urticaria" meddra_pt_id="10046735" />
+    </Reaction>
+    <Reaction id="AR26" str="face edema">
+      <Normalization id="AR26.N1" meddra_pt="Face oedema" meddra_pt_id="10016029" meddra_llt="Face edema" meddra_llt_id="10016025" />
+    </Reaction>
+    <Reaction id="AR27" str="eyelid edema">
+      <Normalization id="AR27.N1" meddra_pt="Eyelid oedema" meddra_pt_id="10015993" meddra_llt="Eyelid edema" meddra_llt_id="10015985" />
+    </Reaction>
+    <Reaction id="AR28" str="flushing">
+      <Normalization id="AR28.N1" meddra_pt="Flushing" meddra_pt_id="10016825" />
+    </Reaction>
+    <Reaction id="AR29" str="loss of consciousness">
+      <Normalization id="AR29.N1" meddra_pt="Loss of consciousness" meddra_pt_id="10024855" />
+    </Reaction>
+    <Reaction id="AR30" str="convulsion">
+      <Normalization id="AR30.N1" meddra_pt="Seizure" meddra_pt_id="10039906" meddra_llt="Convulsion" meddra_llt_id="10010904" />
+    </Reaction>
+    <Reaction id="AR31" str="parosmia">
+      <Normalization id="AR31.N1" meddra_pt="Parosmia" meddra_pt_id="10034018" />
+    </Reaction>
+    <Reaction id="AR32" str="tachycardia">
+      <Normalization id="AR32.N1" meddra_pt="Tachycardia" meddra_pt_id="10043071" />
+    </Reaction>
+    <Reaction id="AR33" str="palpitation">
+      <Normalization id="AR33.N1" meddra_pt="Palpitations" meddra_pt_id="10033557" meddra_llt="Palpitation" meddra_llt_id="10033556" />
+    </Reaction>
+    <Reaction id="AR34" str="dry mouth">
+      <Normalization id="AR34.N1" meddra_pt="Dry mouth" meddra_pt_id="10013781" />
+    </Reaction>
+    <Reaction id="AR35" str="malaise">
+      <Normalization id="AR35.N1" meddra_pt="Malaise" meddra_pt_id="10025482" />
+    </Reaction>
+    <Reaction id="AR36" str="feeling cold">
+      <Normalization id="AR36.N1" meddra_pt="Feeling cold" meddra_pt_id="10016326" />
+    </Reaction>
+    <Reaction id="AR37" str="cardiac arrest">
+      <Normalization id="AR37.N1" meddra_pt="Cardiac arrest" meddra_pt_id="10007515" />
+    </Reaction>
+    <Reaction id="AR38" str="anaphylactic shock">
+      <Normalization id="AR38.N1" meddra_pt="Anaphylactic shock" meddra_pt_id="10002199" />
+    </Reaction>
+    <Reaction id="AR39" str="circulatory collapse">
+      <Normalization id="AR39.N1" meddra_pt="Circulatory collapse" meddra_pt_id="10009192" />
+    </Reaction>
+    <Reaction id="AR40" str="respiratory arrest">
+      <Normalization id="AR40.N1" meddra_pt="Respiratory arrest" meddra_pt_id="10038669" />
+    </Reaction>
+    <Reaction id="AR41" str="pulmonary edema">
+      <Normalization id="AR41.N1" meddra_pt="Pulmonary oedema" meddra_pt_id="10037423" meddra_llt="Pulmonary edema" meddra_llt_id="10037375" />
+    </Reaction>
+    <Reaction id="AR42" str="bronchospasm">
+      <Normalization id="AR42.N1" meddra_pt="Bronchospasm" meddra_pt_id="10006482" />
+    </Reaction>
+    <Reaction id="AR43" str="cyanosis">
+      <Normalization id="AR43.N1" meddra_pt="Cyanosis" meddra_pt_id="10011703" />
+    </Reaction>
+    <Reaction id="AR44" str="oropharyngeal swelling">
+      <Normalization id="AR44.N1" meddra_pt="Oropharyngeal swelling" meddra_pt_id="10031118" />
+    </Reaction>
+    <Reaction id="AR45" str="laryngeal edema">
+      <Normalization id="AR45.N1" meddra_pt="Laryngeal oedema" meddra_pt_id="10023845" meddra_llt="Laryngeal edema" meddra_llt_id="10023838" />
+    </Reaction>
+    <Reaction id="AR46" str="blood pressure increased">
+      <Normalization id="AR46.N1" meddra_pt="Blood pressure increased" meddra_pt_id="10005750" />
+    </Reaction>
+    <Reaction id="AR47" str="chest pain">
+      <Normalization id="AR47.N1" meddra_pt="Chest pain" meddra_pt_id="10008479" />
+    </Reaction>
+    <Reaction id="AR48" str="angioedema">
+      <Normalization id="AR48.N1" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+    </Reaction>
+    <Reaction id="AR49" str="conjunctivitis">
+      <Normalization id="AR49.N1" meddra_pt="Conjunctivitis" meddra_pt_id="10010741" />
+    </Reaction>
+    <Reaction id="AR50" str="hyperhidrosis">
+      <Normalization id="AR50.N1" meddra_pt="Hyperhidrosis" meddra_pt_id="10020642" />
+    </Reaction>
+    <Reaction id="AR51" str="cough">
+      <Normalization id="AR51.N1" meddra_pt="Cough" meddra_pt_id="10011224" />
+    </Reaction>
+    <Reaction id="AR52" str="sneezing">
+      <Normalization id="AR52.N1" meddra_pt="Sneezing" meddra_pt_id="10041232" />
+    </Reaction>
+    <Reaction id="AR53" str="burning sensation">
+      <Normalization id="AR53.N1" meddra_pt="Burning sensation" meddra_pt_id="10006784" />
+    </Reaction>
+    <Reaction id="AR54" str="pallor">
+      <Normalization id="AR54.N1" meddra_pt="Pallor" meddra_pt_id="10033546" />
+    </Reaction>
+    <Reaction id="AR55" str="fatal">
+      <Normalization id="AR55.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR56" str="fibrosis">
+      <Normalization id="AR56.N1" meddra_pt="Fibrosis" meddra_pt_id="10016642" />
+    </Reaction>
+    <Reaction id="AR57" str="anaphylactic reactions">
+      <Normalization id="AR57.N1" meddra_pt="Anaphylactic reaction" meddra_pt_id="10002198" />
+    </Reaction>
+    <Reaction id="AR58" str="cardiovascular manifestations">
+      <Normalization id="AR58.N1" meddra_pt="Cardiovascular symptom" meddra_pt_id="10075534" />
+    </Reaction>
+    <Reaction id="AR59" str="respiratory manifestations">
+      <Normalization id="AR59.N1" meddra_pt="Respiratory symptom" meddra_pt_id="10075535" />
+    </Reaction>
+    <Reaction id="AR60" str="cutaneous manifestations">
+      <Normalization id="AR60.N1" meddra_pt="Cutaneous symptom" meddra_pt_id="10075531" />
+    </Reaction>
+    <Reaction id="AR61" str="death">
+      <Normalization id="AR61.N1" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Reaction>
+    <Reaction id="AR62" str="administration irritation">
+      <Normalization id="AR62.N1" meddra_pt="Administration site irritation" meddra_pt_id="10075941" />
+    </Reaction>
+  </Reactions>
+</Label>

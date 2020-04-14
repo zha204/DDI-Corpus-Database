@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="prosol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  See  WARNINGS  ,  PRECAUTIONS  and  SPECIAL PRECAUTIONS  
+
+
+
+ Infusion of any hypertonic solution can result in local inflammatory reactions. Policies and procedures should be established for the recognition and management of such reactions.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

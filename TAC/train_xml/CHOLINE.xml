@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="choline" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6            ADVERSE REACTIONS  
+
+  Exclusive of an uncommon, mild injection site reaction, no adverse reactions to  11  C-choline have been reported.
+
+
+
+   EXCERPT:   Exclusive of an uncommon, mild injection site reaction, no other adverse reactions have been reported (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Division of Nuclear Medicine, Department of Radiology, Mayo Clinic at 507-284-2511 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+</Section>
+    <Section name="warnings and precautions" id="S2">     5          WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Imaging errors have been reported; blood PSA levels &lt; 2 ng/mL have been associated with poor imaging performance (  5.1  ). 
+ *  Allergic reactions: have emergency resuscitation equipment and personnel readily available (  5.2  ). 
+ *  Radiation risk: Choline C 11 Injection contributes to a patient's long-term cumulative radiation exposure. Ensure safe handling to protect the patient and health care worker (  5.3  ). 
+    
+ 
+
+    5.1             Imaging   Errors  
+
+
+
+  Imaging errors have been reported with  11  C-choline PET and PET/CT imaging. A negative image does not rule out the presence of recurrent prostate cancer and a positive image does not confirm the presence of recurrent cancer.  11  C-choline uptake is not specific for prostate cancer and may occur with other types of cancer (such as lung carcinoma and brain tumors). Clinical correlation, including histopathological evaluation of the suspected recurrence site, is essential to proper use of the PET imaging information.
+
+
+
+ *  Blood PSA levels &lt; 2 ng/mL have been associated with poor performance of  11  C-choline PET imaging (higher numbers of false positive and false negative results) [ see Clinical Studies (14) ]. 
+ *  Tissue inflammation as well as prostatic hyperplasia have been associated with false positive  11  C-choline PET images. 
+ *  Concomitant colchicine or androgen-deprivation therapeutic drugs (such as luteinizing hormone-releasing analogs and anti-androgen drugs) may interfere with  11  C-choline PET imaging. One published report of  18  F-methylcholine PET imaging indicated that discontinuation of colchicine for two weeks resolved the colchicine effect. The impact of discontinuation of androgen-deprivation therapy upon  11  C-choline PET imaging has not been established [ see Drug Interactions   (7) ]. 
+        5.2             Allergic Reactions  
+ 
+
+  As with any injectable drug product, allergic reactions and anaphylaxis may occur. Emergency resuscitation equipment and personnel should be immediately available.
+
+
+
+     5.3             Radiation Risks  
+
+
+
+  Choline C 11 Injection contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk for cancer. Safe handling should be ensured to minimize radiation exposure to the patient and health care workers [ see    Dosage and Administration   (   2.   1   )  ].
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="Severity" start="68" len="4" str="mild" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="73" len="23" str="injection site reaction" />
+    <Mention id="M3" section="S1" type="Severity" start="200" len="4" str="mild" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="205" len="23" str="injection site reaction" />
+    <Mention id="M5" section="S2" type="AdverseReaction" start="193" len="18" str="Allergic reactions" />
+    <Mention id="M6" section="S2" type="AdverseReaction" start="300" len="14" str="Radiation risk" />
+    <Mention id="M7" section="S2" type="AdverseReaction" start="1964" len="18" str="allergic reactions" />
+    <Mention id="M8" section="S2" type="AdverseReaction" start="1987" len="11" str="anaphylaxis" />
+    <Mention id="M9" section="S2" type="Factor" start="1999" len="3" str="may" />
+    <Mention id="M10" section="S2" type="Factor" start="2309" len="4" str="risk" />
+    <Mention id="M11" section="S2" type="AdverseReaction" start="2318" len="6" str="cancer" />
+  </Mentions>
+  <Relations>
+    <Relation id="RL1" type="Effect" arg1="M2" arg2="M1" />
+    <Relation id="RL2" type="Effect" arg1="M4" arg2="M3" />
+    <Relation id="RL3" type="Hypothetical" arg1="M7" arg2="M9" />
+    <Relation id="RL4" type="Hypothetical" arg1="M8" arg2="M9" />
+    <Relation id="RL5" type="Hypothetical" arg1="M11" arg2="M10" />
+  </Relations>
+  <Reactions>
+    <Reaction id="AR1" str="injection site reaction">
+      <Normalization id="AR1.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR2" str="allergic reactions">
+      <Normalization id="AR2.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Allergic reaction" meddra_llt_id="10001718" />
+    </Reaction>
+    <Reaction id="AR3" str="radiation risk">
+      <Normalization id="AR3.N1" meddra_pt="Exposure to radiation" meddra_pt_id="10073306" />
+    </Reaction>
+    <Reaction id="AR4" str="anaphylaxis">
+      <Normalization id="AR4.N1" meddra_pt="Anaphylactic reaction" meddra_pt_id="10002198" meddra_llt="Anaphylaxis" meddra_llt_id="10002218" />
+    </Reaction>
+    <Reaction id="AR5" str="cancer">
+      <Normalization id="AR5.N1" meddra_pt="Neoplasm malignant" meddra_pt_id="10028997" meddra_llt="Cancer" meddra_llt_id="10007050" />
+    </Reaction>
+  </Reactions>
+</Label>

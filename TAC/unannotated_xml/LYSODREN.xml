@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="lysodren" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  A very high percentage of patients treated with LYSODREN have shown at least one type of side effect. The main types of adverse reactions consist of the following:
+
+
+
+ *  1.  Gastrointestinal disturbances, which consist of anorexia, nausea or vomiting, and in some cases diarrhea, occur in about 80% of the patients. 
+ *  2.  Central nervous system side effects occur in 40% of the patients. These consist primarily of depression as manifested by lethargy and somnolence (25%), and dizziness or vertigo (15%). 
+ *  3.  Skin toxicity has been observed in about 15% of the cases. These skin changes consist primarily of transient skin rashes which do not seem to be dose related. In some instances, this side effect subsided while the patients were maintained on the drug without a change of dose. 
+    Infrequently occurring side effects involve the eye (visual blurring, diplopia, lens opacity, toxic retinopathy); the genitourinary system (hematuria, hemorrhagic cystitis, and albuminuria); cardiovascular system (hypertension, orthostatic hypotension, and flushing); and some miscellaneous effects including generalized aching, hyperpyrexia, and lowered protein bound iodine (PBI).
+ 
+
+ The following additional adverse reactions have been identified during postapproval use of LYSODREN. Because reports are voluntary from a population of unknown size, an estimate of frequency cannot be made.
+
+
+
+   Blood and lymphatic system disorders:  neutropenia
+
+
+
+   Endocrine disorders:  growth retardation, hypothyroidism
+
+
+
+   Psychiatric disorders:  confusional state
+
+
+
+   Nervous system disorders:  neuropsychological disturbance, dysarthria, headache, ataxia, mental impairment
+
+
+
+   Eye disorders:  maculopathy
+
+
+
+   Hepatobiliary disorders:  hepatitis, elevation of liver enzymes
+
+
+
+   Reproductive system and breast disorders:  gynecomastia
+
+
+
+   General disorders and administration site conditions:  asthenia
+
+
+
+   Investigations:  blood uric acid decreased, blood cholesterol increased, blood triglycerides increased
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+  WARNINGS
+
+  LYSODREN (mitotane tablets, USP) should be administered under the supervision of a qualified physician experienced in the uses of cancer chemotherapeutic agents. LYSODREN should be temporarily discontinued immediately following shock or severe trauma since adrenal suppression is its prime action. Exogenous steroids should be administered in such circumstances, since the depressed adrenal may not immediately start to secrete steroids.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

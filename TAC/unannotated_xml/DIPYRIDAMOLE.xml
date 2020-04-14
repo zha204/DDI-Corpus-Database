@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="dipyridamole" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions at therapeutic doses are usually minimal and transient. On long-term use of dipyridamole tablets initial side effects usually disappear. The following reactions in Table 1 were reported in two heart valve replacement trials comparing dipyridamole tablets and war- farin therapy to either warfarin alone or warfarin and placebo:
+
+
+
+ Table 1 Adverse Reactions Reported in 2 Heart Valve Replacement Trials 
+   Adverse Reaction                 Dipyridamole Tablets/Warfarin      Placebo/Warfarin                    
+ Number of Patients               147                                170                                   
+ Dizziness                        13.6%                              8.2%                                  
+ Abdominal distress               6.1%                               3.5%                                  
+ Headache                         2.3%                               0.0%                                  
+ Rash                             2.3%                               1.1%                                  
+         Other reactions from uncontrolled studies include diarrhea, vomiting, flushing and pruritus. In addition, angina pectoris has been reported rarely and there have been rare reports of liver dysfunction. On those uncommon occasions when adverse reactions have been persistent or intolerable, they have ceased on withdrawal of the medication.
+ 
+
+ When dipyridamole tablets USP were administered concomitantly with warfarin, bleeding was no greater in frequency or severity than that observed when warfarin was administered alone. In rare cases, increased bleeding during or after surgery has been observed.
+
+
+
+ In post-marketing reporting experience, there have been rare reports of hypersensitivity reac- tions (such as rash, urticaria, severe bronchospasm, and angioedema), larynx edema, fatigue, malaise, myalgia, arthritis, nausea, dyspepsia, paresthesia, hepatitis, thrombocytopenia, alo- pecia, cholelithiasis, hypotension, palpitation, and tachycardia.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

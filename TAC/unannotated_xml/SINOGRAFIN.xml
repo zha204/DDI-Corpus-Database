@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sinografin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Sudden onset of bradycardia, hypotension, cardiac arrest and death have rarely been reported. Hypersensitivity reactions, which include sweating, flushing, pruritus, urticaria, skin rashes, arthralgia, respiratory distress, and circulatory collapse have occurred. Dizziness, syncope, hypotension, chills, fever, nausea, vomiting, and abdominal pain and tenderness are occasionally seen following instillation of the contrast medium.
+
+
+
+ It should be kept in mind that the serious or anaphylactoid reactions that may occur with intravascular administration of radiopaque contrast agents are theoretically possible following administration by other routes.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

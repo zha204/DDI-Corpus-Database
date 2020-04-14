@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="spironolactone" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been reported and, within each category (body system), are listed in order of decreasing severity.
+
+
+
+   Hydrochlorothiazide
+
+    Body as a whole:  Weakness.
+
+
+
+   Cardiovascular:  Hypotension including orthostatic hypotension (may be aggravated by alcohol, barbiturates, narcotics, or antihypertensive drugs).
+
+
+
+   Digestive:  Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialoadenitis, cramping, constipation, gastric irritation, nausea, anorexia.
+
+
+
+   Eye Disorders  : Acute myopia and acute angle closure glaucoma (  see  Warnings    ).
+
+
+
+   Hematologic:  Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia.
+
+
+
+   Hypersensitivity:  Anaphylactic reactions, necrotizing angitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, fever, urticaria, rash, purpura.
+
+
+
+   Metabolic:  Electrolyte imbalance (see    Precautions    ), hyperglycemia, glycosuria, hyperuricemia.
+
+
+
+   Musculoskeletal:  Muscle spasm.
+
+
+
+   Nervous system/psychiatric:  Vertigo, paresthesias, dizziness, headache, restlessness.
+
+
+
+   Renal:  Renal failure, renal dysfunction, interstitial nephritis (see    Warnings    ).
+
+
+
+   Skin:  Erythema multiforme, pruritus.
+
+
+
+   Special senses:  Transient blurred vision, xanthopsia.
+
+
+
+   Spironolactone
+
+    Digestive:  Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting.
+
+
+
+   Reproductive:  Gynecomastia (see    Precautions    ), inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast pain. Carcinoma of the breast has been reported in patients taking spironolactone but a cause and effect relationship has not been established.
+
+
+
+   Hematologic:  Leukopenia (including agranulocytosis), thrombocytopenia.
+
+
+
+   Hypersensitivity:  Fever, urticaria, maculopapular or erythematous cutaneous eruptions, anaphylactic reactions, vasculitis.
+
+
+
+   Metabolism:  Hyperkalemia, electrolyte disturbances (see    Warnings    and    Precautions  ).  
+
+
+
+   Musculoskeletal:  Leg cramps.
+
+
+
+   Nervous system/psychiatric:  Lethargy, mental confusion, ataxia, dizziness, headache, drowsiness.
+
+
+
+   Liver/biliary:  A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with spironolactone administration.
+
+
+
+   Renal:  Renal dysfunction (including renal failure).
+
+
+
+   Skin:  Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug rash with eosinophilia and systemic symptoms (DRESS), alopecia, pruritus.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  Spironolactone, an ingredient of spironolactone and hydrochlorothiazide tablets, has been shown to be a tumorigen in chronic toxicity studies in rats (see     Precautions    ). Spironolactone and hydrochlorothiazide tablets should be used only in those conditions described under     Indications and Usage  .   Unnecessary use of this drug should be avoided.
+
+
+
+ Fixed-dose combination drugs are not indicated for initial therapy of edema or hypertension. Edema or hypertension requires therapy titrated to the individual patient. If the fixed combination represents the dosage so determined, its use may be more convenient in patient management. The treatment of hypertension and edema is not static but must be reevaluated as conditions in each patient warrant.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

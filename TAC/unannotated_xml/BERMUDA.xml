@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bermuda" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+    Local:  
+
+  Reactions at the site of injection may be immediate or delayed. Immediate wheal and erythema reactions are ordinarily of little consequence; but if very large, may be the first manifestation of a systemic reaction. If large local reactions occur, the patient should be observed for systemic symptoms for which treatment is outlined below. However, systemic reactions may occur in the absence of large local reactions.
+
+
+
+ Delayed reactions start several hours after injection with local edema, erythema, itching or pain. They are usually at their peak at 24 hours, and usually require no treatment. Antihistamine drugs may be administered orally.
+
+
+
+ The next therapeutic dose should be reduced to the dose which did not elicit a reaction, and subsequent doses increased more slowly, i.e., use of intermediate dilutions.
+
+
+
+     Systemic:  
+
+  It should be noted that anaphylaxis and deaths following the injection of mite and other extracts, including grass pollen extracts have been reported by The British Committee on Safety in Medicine.  10  Fatalities from immunotherapy in the United States since 1945 have been extensively reviewed by Lockey, R. F., et al.  11  and also more recently by Reid, M.J., et al.  12  With careful attention to dosage and administration, such reactions occur infrequently, but it must be remembered that allergenic extracts are highly potent to sensitive individuals and OVERDOSE could result in anaphylactic symptoms. Therefore, it is imperative that physicians administering allergenic extracts understand and be prepared for the treatment of severe reactions.
+
+
+
+ Systemic reactions are characterized by one or more of the following symptoms: sneezing, mild to severe generalized urticaria, itching, other than at the injection site, extensive or generalized edema, wheezing, asthma, dyspnea, cyanosis, hypotension, syncope and upper airway obstruction. Symptoms may progress to shock and death. Patients should always be observed for at least 20 - 30 minutes after any injection. Volume expanders and vasopressor agents may be required to reverse hypotension. Inhalational bronchodilators and parenteral aminophylline may be required to reverse bronchospasm. Severe airway obstruction, unresponsive to bronchodilator, may require tracheal intubation and use of oxygen. In the event of a marked systemic reaction, application of a tourniquet above the injection site and the administration of 0.2 mL to 1.0 mL of Epinephrine Injection (1:1000) intramuscular is recommended. Maximal recommended dose for children under 2 years of age is 0.3 mL. Maximal recommended dose for children between 2 and 12 years of age is 0.5 mL. The tourniquet should not be left in place without loosening for 90 seconds every 15 minutes.
+
+
+
+ The next therapeutic injection of extract should be reduced to the dose which did not elicit a reaction, and subsequent doses increased more slowly; i.e., use of intermediate dilutions.
+
+
+
+ Adverse Events should be reported via MedWatch (1-800-FDA-1088), Adverse Experience Reporting, HFM-210 Center for Biologics Evaluation &amp; Research, Food &amp; Drug Administration, 1401 Rockville Pike, Rockville, MD 20852-1448.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+    WARNING  
+
+  Standardized allergenic extract is intended for use by physicians who are experienced in the administration of standardized (BAU/mL) allergenic extracts for immunotherapy and the emergency care of anaphylaxis, or for use under the guidance of an allergy specialist.   Standardized grass pollen extracts labeled in BAU/mL are not interchangeable with grass pollen extracts labeled in AU/mL or non-standardized grass pollen extracts.      Standardized allergenic extracts are not directly interchangeable with allergenic extracts of the same labeled potency from different     manufacturers  .  For previously untreated patients or patients, switching from non-standardized to standardized, see     WARNING         section.  For previously untreated patients the initial dose of standardized extract must be based on skin testing as described in the warnings, dosage and administration section of this insert.  Patients should be instructed to recognize adverse reaction symptoms and cautioned to contact the physician's office if reaction symptoms occur.    As with all allergenic extracts, severe systemic reactions may occur.  In certain individuals, these life-threatening reactions may be fatal  .  Patients should be observed for at least 20 - 30 minutes following treatment, and emergency measures, as well as personnel trained in their use, should be immediately available in the event of a life-threatening reaction.  Patients with unstable asthma or steroid dependent asthmatics and patients with underlying cardiovascular disease are at greater risk to a fatal outcome from a systemic allergic reaction.
+
+
+
+ This product should not be injected intravenously.  Deep subcutaneous routes have proven to be safe.  See the warnings, precautions, adverse reactions and overdosage sections below.
+
+
+
+ Sensitive patients may experience severe anaphylactic reactions resulting in respiratory obstruction, shock, coma and/or death.  Adverse events are to be reported to MedWatch (1-800-FDA-1088), Adverse Experience Reporting, HFM-210 Center for Biologics Evaluation &amp; Research, Food &amp; Drug Administration, 1401 Rockville Pike, Rockville, MD 20852-1448.
+
+
+
+ Patients receiving beta-blockers may not be responsive to epinephrine or inhaled bronchodilators.  Respiratory obstruction not responding to parenteral or inhaled bronchodilators may require theophylline, oxygen, intubation and the use of life support systems.  Parenteral fluid and/or plasma expanders may be utilized for treatment of shock.  Adrenocorticosteroids may be administered parenterally or intravenously.  Refer to the warnings, precautions and adverse reaction sections below.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

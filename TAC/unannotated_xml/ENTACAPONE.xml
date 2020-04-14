@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="entacapone" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  During the pre-marketing development of entacapone, 1,450 patients with Parkinson's Disease were treated with entacapone. Included were patients with fluctuating symptoms, as well as those with stable responses to levodopa therapy. All patients received concomitant treatment with levodopa preparations, however, and were similar in other clinical aspects.
+
+
+
+ The most commonly observed adverse events (greater than 5%) in the double-blind, placebo-controlled trials (N=1,003) associated with the use of Entacapone Tablets and not seen at an equivalent frequency among the placebo-treated patients were: dyskinesia and hyperkinesia, nausea, urine discoloration, diarrhea, and abdominal pain.
+
+
+
+ Approximately 14% of the 603 patients given entacapone in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared to 9% of the 400 patients who received placebo. The most frequent causes of discontinuation in decreasing order are: psychiatric reasons (2% vs. 1%), diarrhea (2% vs. 0%), dyskinesia and hyperkinesia (2% vs. 1%), nausea (2% vs. 1%), abdominal pain (1% vs. 0%), and aggravation of Parkinson's Disease symptoms (1% vs. 1%).
+
+
+
+   Adverse Event Incidence in Controlled Clinical Studies
+
+  Table 4 lists treatment emergent adverse events that occurred in at least 1% of patients treated with entacapone participating in the double-blind, placebo-controlled studies and that were numerically more common in the entacapone group, compared to placebo. In these studies, either entacapone or placebo was added to levodopa and carbidopa (or levodopa and benserazide).
+
+
+
+ Table 4Summary of Patients With Adverse Events After Start of Trial Drug Administration At Least 1% in Entacapone Tablet Group and Greater than Placebo 
+   SYSTEM     ORGAN     CLASS              Preferred     Term              Entacapone     Tablets        (    n     =     603    )        %     of     patients          Placebo        (    n     =     400    )        %     of     patients         
+   SKIN     AND     APPENDAGES     DISORDERS                                                                
+        Sweating     Increased                             2                        1                       
+   MUSCULOSKELETAL     SYSTEM     DISORDERS                                                                 
+         Back     Pain                                     2                        1                       
+   CENTRAL     AND     PERIPHERAL     NERVOUS     SYSTEM     DISORDERS                                                           
+         Dyskinesia                                        25                       15                      
+         Hyperkinesia                                      10                       5                       
+         Hypokinesia                                       9                        8                       
+         Dizziness                                         8                        6                       
+   SPECIAL     SENSES    ,     OTHER     DISORDERS                                                           
+         Taste     Perversion                              1                        0                       
+   PSYCHIATRIC     DISORDERS                                                                                
+         Anxiety                                           2                        1                       
+         Somnolence                                        2                        0                       
+         Agitation                                         1                        0                       
+   GASTROINTESTINAL     SYSTEM     DISORDERS                                                                
+         Nausea                                            14                       8                       
+         Diarrhea                                          10                       4                       
+         Abdominal     Pain                                8                        4                       
+         Constipation                                      6                        4                       
+         Vomiting                                          4                        1                       
+         Mouth     Dry                                     3                        0                       
+         Dyspepsia                                         2                        1                       
+         Flatulence                                        2                        0                       
+         Gastritis                                         1                        0                       
+         Gastrointestinal     Disorders     nos            1                        0                       
+   RESPIRATORY     SYSTEM     DISORDERS                                                                     
+         Dyspnea                                           3                        1                       
+   PLATELET    ,     BLEEDING     AND     CLOTTING     DISORDERS                                                           
+         Purpura                                           2                        1                       
+   URINARY     SYSTEM     DISORDERS                                                                         
+         Urine     Discoloration                           10                       0                       
+   BODY     AS     A     WHOLE     -     GENERAL     DISORDERS                                                           
+         Back     Pain                                     4                        2                       
+         Fatigue                                           6                        4                       
+         Asthenia                                          2                        1                       
+   RESISTANCE     MECHANISM     DISORDERS                                                                   
+         Infection     Bacterial                           1                        0                       
+         The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical studies. Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators. The cited figures do, however, provide the prescriber with some basis for estimating the relative contribution of drug and nondrug factors to the adverse events observed in the population studied.
+ 
+
+   Effects of gender and age on adverse reactions
+
+  No differences were noted in the rate of adverse events attributable to entacapone by age or gender.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

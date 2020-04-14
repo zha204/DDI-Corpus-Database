@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="daraprim" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  Hypersensitivity reactions, occasionally severe (such as Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, and anaphylaxis), and hyperphenylalaninemia, can occur particularly when pyrimethamine is administered concomitantly with a sulfonamide. Consult the complete prescribing information for the relevant sulfonamide for sulfonamide-associated adverse events. With doses of pyrimethamine used for the treatment of toxoplasmosis, anorexia and vomiting may occur. Vomiting may be minimized by giving the medication with meals; it usually disappears promptly upon reduction of dosage. Doses used in toxoplasmosis may produce megaloblastic anemia, leukopenia, thrombocytopenia, pancytopenia, atrophic glossitis, hematuria, and disorders of cardiac rhythm. Hematologic effects, however, may also occur at low doses in certain individuals (see    PRECAUTIONS: General     ).
+
+
+
+ Pulmonary eosinophilia has been reported rarely.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

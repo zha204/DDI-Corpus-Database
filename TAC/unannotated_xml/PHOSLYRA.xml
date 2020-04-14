@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="phoslyra" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6  ADVERSE REACTIONS
+
+  No clinical trials have been performed with PHOSLYRA in the intended population.  Because the dose and active ingredients of PHOSLYRA are equivalent to that of the calcium acetate gelcaps or tablets, the scope of the adverse reactions is anticipated to be similar.
+
+
+
+ Hypercalcemia is discussed elsewhere  [see Warnings and Precautions (  5.1  )]  .
+
+
+
+    EXCERPT:    *  The most common (&gt;10%) adverse reactions are hypercalcemia, nausea, and diarrhea. (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Medical Care North America at 1-800-323-5188 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .    
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In clinical studies, calcium acetate has been generally well tolerated.
+
+
+
+ The solid dose formulation of calcium acetate was studied in a 3-month, open-label, non-randomized study of 98 enrolled ESRD hemodialysis patients and in a two week double-blind, placebo-controlled, cross-over study with 69 enrolled ESRD hemodialysis patients.  Adverse reactions (&gt;2% on treatment) from these trials are presented in  Table 1  .
+
+
+
+ Table 1: Adverse Reactions in Patients with End-Stage Renal Disease Undergoing Hemodialysis 
+   Preferred Term        Total adverse reactions reported for calcium acetate    n=167  n (%)    3-mo, open-label study of calcium acetate    n=98  n (%)    Double-blind, placebo-controlled, cross-over study of calcium acetate    n=69     
+   Calcium acetate  n (%)      Placebo  n (%)     
+  
+ Nausea                      6 (3.6)               6 (6.1)               0 (0.0)               0 (0.0)          
+ Vomiting                    4 (2.4)               4 (4.1)               0 (0.0)               0 (0.0)          
+ Hypercalcemia              21 (12.6)             16 (16.3)              5 (7.2)               0 (0.0)          
+           Calcium acetate oral solution was studied in a randomized, controlled, 3-arm, open label, cross-over, single-dose study comparing calcium acetate oral solution to a solid formulation in healthy volunteers on a controlled diet.  Of the observed drug-related adverse reactions, diarrhea (5/38, 13.2%) was more common with the oral solution.
+ 
+
+   6.2 Postmarketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or to establish a causal relationship to drug exposure.
+
+
+
+ The following additional adverse reactions have been identified during post-approval of calcium acetate:  dizziness, edema, and weakness.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5  WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Treat mild hypercalcemia by reducing or interrupting PHOSLYRA and Vitamin D.  Severe hypercalcemia may require hemodialyis and discontinuation of PHOSLYRA. (  5.1  ) 
+ *  May cause diarrhea with nutritional supplements that contain maltitol. (  5.2  ) 
+    
+ 
+
+   5.1 Hypercalcemia
+
+
+
+  Patients with end stage renal disease may develop hypercalcemia when treated with calcium, including calcium acetate (PHOSLYRA).  Avoid the concurrent use of calcium supplements, including calcium-based nonprescription antacids, with PHOSLYRA.
+
+
+
+ An overdose of PHOSLYRA may lead to progressive hypercalcemia, which may require emergency measures.  Therefore, early in the treatment phase during the dosage adjustment period, monitor serum calcium levels twice weekly.  Should hypercalcemia develop, reduce the PHOSLYRA dosage or discontinue the treatment, depending on the severity of hypercalcemia.
+
+
+
+ More severe hypercalcemia (Ca &gt;12 mg/dL) is associated with confusion, delirium, stupor and coma.  Severe hypercalcemia can be treated by acute hemodialysis and discontinuing PHOSLYRA therapy.
+
+
+
+ Mild hypercalcemia (10.5 to 11.9 mg/dL) may be asymptomatic or manifest as constipation, anorexia, nausea, and vomiting.  Mild hypercalcemia is usually controlled by reducing the PHOSLYRA dose or temporarily discontinuing therapy.  Decreasing or discontinuing Vitamin D therapy is recommended as well.
+
+
+
+ Chronic hypercalcemia may lead to vascular calcification and other soft-tissue calcification.  Radiographic evaluation of suspected anatomical regions may be helpful in early detection of soft-tissue calcification.  The long-term effect of PHOSLYRA on the progression of vascular or soft-tissue calcification has not been determined.
+
+
+
+ Hypercalcemia (&gt;11 mg/dL) was reported in 16% of patients in a 3-month study of a solid dose formulation of calcium acetate; all cases resolved upon lowering the dose or discontinuing treatment.
+
+
+
+ Maintain the serum calcium-phosphorus (Ca * P) product below 55 mg  2  /dL  2  .
+
+
+
+    5.2 Concomitant Use with Medications
+
+
+
+  Hypercalcemia may aggravate digitalis toxicity.
+
+
+
+ PHOSLYRA contains maltitol (1 g per 5 mL) and may induce a laxative effect, especially if taken with other products containing maltitol.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

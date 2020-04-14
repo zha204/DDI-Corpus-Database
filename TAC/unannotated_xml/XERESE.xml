@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="xerese" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The following most common adverse reactions (&lt;1%) were local skin reactions:
+
+
+
+ *    Drying or flaking of the skin; burning or tingling, erythema; pigmentation changes; application site reactions including signs and symptoms of inflammation.  (6.1)   
+      To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Adverse Reactions in Clinical Trials
+
+    Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.  
+
+
+
+ The safety data derived from XERESE clinical trials reflect exposure to XERESE in 1056 subjects with recurrent herpes labialis treated 5 times daily for 5 days.
+
+
+
+ The most common adverse reactions (&lt;1%) were local skin reactions, and occurred in the area of the application site, including:
+
+
+
+ *  1.  Drying or flaking of the skin; burning or tingling following application; erythema; pigmentation changes; application site reaction including signs and symptoms of inflammation. 
+    Contact dermatitis following application has been observed when applied under occlusion in dermal safety trials. Where contact sensitivity tests have been conducted, the reactive substances were hydrocortisone or a component of the cream base.
+ 
+
+ A trial enrolling 225 healthy adults was conducted to evaluate the contact sensitization potential of XERESE using repeat insult patch testing methodology. Of 205 evaluable subjects, one confirmed case (0.5%) of sensitization to hydrocortisone and 2 additional cases (1.0%) of possible sensitization to the XERESE base were identified. Additionally, one subject developed a contact allergy in the photosafety study to propylene glycol, one of the inactive ingredients of the cream base.
+
+
+
+ Dermal tolerance was assessed in a 21-day cumulative irritation trial in 36 healthy subjects. XERESE, its cream base and Zovirax(r) (acyclovir) Cream 5% all showed a high and cumulative irritation potential under occlusive and semiocclusive conditions.
+
+
+
+ Photoallergic potential and phototoxicity were assessed in two trials in 50 and 30 healthy volunteers, respectively. No photoallergic or phototoxicity potential was identified for XERESE.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Only for topical use for recurrent herpes labialis on the lips and around the mouth.  (5)   
+    
+ 
+
+   5.1 General
+
+
+
+  XERESE is intended for cutaneous use only for herpes labialis of the lips and around the mouth. XERESE should not be used in the eye, inside the mouth or nose, or on the genitals.
+
+
+
+ There are other orofacial lesions, including bacterial and fungal infections, which may be difficult to distinguish from a cold sore. Patients should be encouraged to seek medical advice when a cold sore fails to heal within 2 weeks.
+
+
+
+ XERESE has a potential for irritation and contact sensitization [see   Adverse Reactions (6.1)    ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

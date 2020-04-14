@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="gamastan" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Local pain and tenderness at the injection site, urticaria, and angioedema may occur. Anaphylactic reactions, although rare, have been reported following the injection of human immune globulin preparations.(  6,9  ) Anaphylaxis is more likely to occur if Gama  STAN  S/D is given intravenously; therefore, Gama  STAN  S/D must be administered only intramuscularly.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: THROMBOSIS
+
+  WARNING: THROMBOSIS
+
+    Thrombosis may occur with immune globulin products, including GamaSTAN S/D. Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity, and cardiovascular risk factors. Thrombosis may occur in the absence of known risk factors. (see     PRECAUTIONS: Thrombosis    ,     PRECAUTIONS: Information for Patients    )   
+
+
+
+   For patients at risk of thrombosis, do not exceed the recommended dose of GamaSTAN S/D. Ensure adequate hydration in patients before administration. Monitor for signs and symptoms of thrombosis and assess blood viscosity in patients at risk for hyperviscosity. (see     PRECAUTIONS: Thrombosis    ,     DOSAGE AND ADMINISTRATION    )   
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

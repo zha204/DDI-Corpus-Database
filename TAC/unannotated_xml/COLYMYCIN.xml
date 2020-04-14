@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="colymycin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been reported:
+
+
+
+   Gastrointestinal:  gastrointestinal upset
+
+
+
+   Nervous System:  tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia
+
+
+
+   Integumentary:  generalized itching, urticaria and rash
+
+
+
+   Body as a Whole:  fever
+
+
+
+   Laboratory Deviations:  increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance
+
+
+
+   Respiratory System:  respiratory distress and apnea
+
+
+
+   Renal System:  nephrotoxicity and decreased urine output
+
+
+
+ For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="naftin0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions are application site reactions (2%). (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merz Pharmaceuticals, LLC at 877-743-8454 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In two randomized, vehicle-controlled trials, 1143 subjects were treated with NAFTIN Gel versus 571 subjects treated with the vehicle. The trial subjects were 12 to 92 years old, were primarily male (76%), and were 59% Caucasian, 38% Black or African American, and 23% Hispanic or Latino. Subjects received doses once daily, topically, for 2 weeks to cover the affected skin areas plus a 1/2-inch margin of surrounding healthy skin. The most common adverse reactions were application site reactions which occurred at the rate of 2% in NAFTIN Gel arm versus 1% in vehicle arm. Most adverse reactions were mild in severity.
+
+
+
+ In an open-label pediatric pharmacokinetics and safety trial 22 pediatric subjects 12-17 years of age with interdigital tinea pedis received NAFTIN Gel. The incidence of adverse reactions in the pediatric population was similar to that observed in adult population.
+
+
+
+ Cumulative irritancy testing revealed the potential for NAFTIN Gel to cause irritation. There was no evidence that NAFTIN Gel causes contact sensitization, phototoxicity, or photoallergenicity in healthy skin.
+
+
+
+   6.2 Postmarketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following adverse reactions have been identified during post-approval use of naftifine hydrochloride: blisters, burning sensation, crusting, dryness, erythema/redness, inflammation, irritation, maceration, pain, pruritus [mild]/itching, rash and swelling.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   If redness or irritation develops with the use of NAFTIN Gel treatment should be discontinued. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Local Adverse Reactions
+
+
+
+  If irritation or sensitivity develops with the use of NAFTIN Gel, treatment should be discontinued.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sulfamylon1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In the clinical setting of severe burns, it is often difficult to distinguish between an adverse reaction to mafenide acetate and burn sequelae. In a clinical study of pediatric patients with acute burns requiring autografts who received SULFAMYLON  (r)  (mafenide acetate, USP) For 5% Topical Solution in addition to double antibiotic solution (DAB) wound therapy (neomycin sulfate 40 mg and polymyxin B 200,000 units/liter), the incidence of rash (4.6%) and itching (2.8%) in the group which received SULFAMYLON  (r)  5% Solution was not different from that experienced with (DAB) dressings alone (5.7% and 1.3%, respectively).
+
+
+
+ From other clinical settings, a single case of bone marrow depression and a single case of an acute attack of porphyria have been reported following therapy with mafenide acetate. Fatal hemolytic anemia with disseminated intravascular coagulation, presumably related to a glucose-6-phosphate dehydrogenase deficiency, has been reported following therapy with mafenide acetate. The following adverse reactions have been reported with topical mafenide acetate therapy:
+
+
+
+   Dermatologic and Allergic:  Pain or burning sensation, rash and pruritus (often localized to the area covered by the wound dressing), erythema, skin maceration from prolonged wet dressings, facial edema, swelling, hives, blisters, eosinophilia.
+
+
+
+   Respiratory or Metabolic:  Tachypnea, hyperventilation, decrease in pCO2, metabolic acidosis, increase in serum chloride.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

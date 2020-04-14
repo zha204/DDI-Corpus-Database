@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="octreoscan" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse effects were observed in clinical trials at a frequency of less than 1% of 538 patients: dizziness, fever, flush, headache, hypotension, changes in liver enzymes, joint pain, nausea, sweating, and weakness. These adverse effects were transient. Also in clinical trials, there was one reported case of bradycardia and one case of decreased hematocrit and hemoglobin.
+
+
+
+ Pentetreotide is derived from octreotide which is used as a therapeutic agent to control symptoms from certain tumors. The usual dose for indium In-111 pentetreotide is approximately 5 to 20 times less than for octreotide and is subtherapeutic. The following adverse reactions have been associated with octreotide in 3% to 10% of patients: nausea, injection site pain, diarrhea, abdominal pain/discomfort, loose stools, and vomiting. Hypertension and hyper- and hypoglycemia have also been reported with the use of octreotide.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

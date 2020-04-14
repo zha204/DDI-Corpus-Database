@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bebulin" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  As with any other infused plasma derivatives, anaphylactoid or anaphylactic reactions may occur in rare cases. The occurrence of these reactions (e.g. fever, urticarial rashes, nausea, retching, dyspnea, anaphylactic shock) necessitates the interruption of replacement therapy. Mild reactions can be managed with antihistamines; severe hypotensive reactions require immediate intervention using current principles of shock therapy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="prepen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Occasionally, patients may develop an intense local inflammatory response at the skin test site. Rarely, patients will develop a systemic allergic reaction, manifested by generalized erythema, pruritus, angioedema, urticaria, dyspnea, hypotension, and anaphylaxis. The usual methods of treating a skin test antigen-induced reaction - the applications of a venous occlusion tourniquet proximal to the skin test site and administration of epinephrine are recommended. The patient should be kept under observation for several hours.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

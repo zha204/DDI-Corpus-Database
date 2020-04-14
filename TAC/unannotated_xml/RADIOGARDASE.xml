@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="radiogardase" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  Constipation was reported in 10 (24%) of 42 patients treated with Radiogardase. Severity of constipation was mild in 7 patients and moderate in 3 patients  [see  Warnings and Precautions (5.2)  ].  
+
+
+
+   EXCERPT:   Most common adverse reaction (incidence &gt;24%) was constipation (  6  )   
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    info@heyl-berlin.de, Fax +49 30 817 4049    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Increased radiation absorbed dose to gastrointestinal mucosa : Monitor for decreased gastrointestinal motility (  5.1  ) 
+ *     Constipation : Monitor and treat (  5.2  ) 
+ *     Electrolyte abnormalities : Monitor serum electrolytes during treatment (  5.3  ) 
+ *     Blue discoloration of stool, oral mucosa and dentition (  5.4  ) 
+    
+ 
+
+   5.1 Increased Radiation Absorbed Dose to Gastrointestinal Mucosa
+
+
+
+  Radiogardase can decrease gastrointestinal motility, thus slowing the transit time of radioactivity in the gastrointestinal tract. The slowed transit time can increase the radiation absorbed dose to the gastrointestinal mucosa.
+
+
+
+    5.2 Constipation
+
+
+
+  Radiogardase can cause constipation. Monitor and treat for signs and symptoms of constipation. Patients with disorders associated with decreased gastrointestinal motility are at higher risk.
+
+
+
+    5.3 Electrolyte Abnormalities
+
+
+
+  Radiogardase may bind to electrolytes found in the gastrointestinal tract. Hypokalemia, with serum potassium values of 2.5 - 2.9 (normal 3.5 - 5.0), was reported in 3 (7%) of 42 patients during treatement with Radiogardase. Monitor serum electrolytes during Radiogardase treatment, particularly when treating patients with pre-existing cardiac arrhythmias or electrolyte imbalances.
+
+
+
+    5.4 Blue Discoloration of Feces, Oral Mucosa, and Dentition
+
+
+
+  Radiogardase is excreted primarily in feces and turns stools blue. When Radiogardase capsules are opened and the contents eaten with food, the oral mucosa and dentition may also be colored blue.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

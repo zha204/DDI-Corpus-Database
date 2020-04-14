@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tigan" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases.
+
+
+
+ For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

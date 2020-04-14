@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="azopt" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions are blurred vision and bitter, sour or unusual taste (    6.1    ).
+
+
+
+         
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc. at 1-800-757-9195 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies of AZOPT(r) (brinzolamide ophthalmic suspension) 1%, the most frequently reported adverse events reported in 5-10% of patients were blurred vision and bitter, sour or unusual taste. Adverse events occurring in 1-5% of patients were blepharitis, dermatitis, dry eye, foreign body sensation, headache, hyperemia, ocular discharge, ocular discomfort, ocular keratitis, ocular pain, ocular pruritus and rhinitis. The following adverse reactions were reported at an incidence below 1%: allergic reactions, alopecia, chest pain, conjunctivitis, diarrhea, diplopia, dizziness, dry mouth, dyspnea, dyspepsia, eye fatigue, hypertonia, keratoconjunctivitis, keratopathy, kidney pain, lid margin crusting or sticky sensation, nausea, pharyngitis, tearing and urticaria.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Sulfonamide hypersensitivity reactions (   5.1   ) 
+ *  Corneal edema may occur in patients with low endothelial cell counts (  5.2  ). 
+    
+ 
+
+   5.1 Sulfonamide Hypersensitivity Reactions
+
+
+
+  AZOPT(r) (brinzolamide ophthalmic suspension) 1% is a sulfonamide and although administered topically it is absorbed systemically. Therefore, the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration of AZOPT(r) (brinzolamide ophthalmic suspension) 1%. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias. Sensitization may recur when a sulfonamide is re-administered irrespective of the route of administration. If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation. 
+
+
+
+    5.2 Corneal Endothelium
+
+
+
+  Carbonic anhydrase activity has been observed in both the cytoplasm and around the plasma membranes of the corneal endothelium. There is an increased potential for developing corneal edema in patients with low endothelial cell counts. Caution should be used when prescribing AZOPT(r) (brinzolamide ophthalmic suspension) 1% to this group of patients. 
+
+
+
+    5.3 Severe Renal Impairment  
+
+
+
+  AZOPT(r) (brinzolamide ophthalmic suspension) 1% has not been studied in patients with severe renal impairment (CrCl &lt; 30 mL/min). Because AZOPT(r) (brinzolamide ophthalmic suspension) 1% and its metabolite are excreted predominantly by the kidney, AZOPT(r) (brinzolamide ophthalmic suspension) 1% is not recommended in such patients.
+
+
+
+    5.4 Acute Angle-Closure Glaucoma
+
+
+
+  The management of patients with acute angle-closure glaucoma requires therapeutic interventions in addition to ocular hypotensive agents. AZOPT(r) (brinzolamide ophthalmic suspension) 1% has not been studied in patients with acute angle-closure glaucoma.
+
+
+
+    5.5 Contact Lens Wear
+
+
+
+  The preservative in AZOPT(r) (brinzolamide ophthalmic suspension) 1%, benzalkonium chloride, may be absorbed by soft contact lenses. Contact lenses should be removed during instillation of AZOPT(r) (brinzolamide ophthalmic suspension) 1%, but may be reinserted 15 minutes after instillation.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

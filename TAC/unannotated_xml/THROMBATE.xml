@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="thrombate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In clinical studies involving THROMBATE III, adverse reactions were reported in association with 17 of the 340 infusions during the clinical studies. Included were dizziness (8), chest discomfort (3), nausea (3), dysgeusia (3), chills (2), pain (cramps) (2), dyspnoea (1), chest pain (1), vision blurred (1), intestinal dilatation (1), urticaria (1), pyrexia (1), and wound secretion and hematoma (1). If adverse reactions are experienced, the infusion rate should be decreased, or if indicated, the infusion should be interrupted until symptoms abate.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

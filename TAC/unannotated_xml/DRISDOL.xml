@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="drisdol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Hypervitaminosis D is characterized by effects on the following organ system:
+
+
+
+   Renal:  Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death.
+
+
+
+   CNS:  Mental retardation.
+
+
+
+   Soft Tissues:  Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs.
+
+
+
+   Skeletal:  Bone demineralization (osteoporosis) in adults occurs concomitantly.
+
+
+
+ Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness.
+
+
+
+   Gastrointestinal:  Nausea, anorexia, constipation.
+
+
+
+   Metabolic:  Mild acidosis, anemia, weight loss.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

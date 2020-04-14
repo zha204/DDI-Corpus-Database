@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="morphine5" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most serious side effect is respiratory depression (see WARNINGS). Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing. The depression may be severe and could require intervention (see WARNINGS and OVERDOSAGE).
+
+
+
+ While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulating catecholamines. Excitation of the central nervous system, resulting in convulsions, may accompany high doses of morphine given intravenously. Dysphoric reactions may occur after any size dose and toxic psychoses have been reported.
+
+
+
+ Constipation: Constipation is frequently encountered during PCA-administration of morphine; this can usually be managed by conventional therapy.
+
+
+
+ Other side effects include: dizziness, euphoria, anxiety, depression of cough reflex, interference with thermal regulation, and oliguria. Evidence of histamine release such as urticaria, wheals, and/or local tissue irritation may occur.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

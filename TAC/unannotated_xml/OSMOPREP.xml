@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="osmoprep" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Abdominal bloating, abdominal pain, nausea, and vomiting were the most common adverse events reported with the use of OsmoPrep Tablets. Dizziness and headache were reported less frequently. Since diarrhea was considered as a part of the efficacy of OsmoPrep, diarrhea was not defined as an adverse event in the clinical studies. Table 2 shows the most common adverse events associated with the use of 48 grams of OsmoPrep, 60 grams of OsmoPrep, and 60 grams of Visicol in the colon preparation trials (n=931).
+
+
+
+
+   Table 2: Frequency of Adverse Events of Any SeverityOccurring in Greater Than 3% of Patients in the OsmoPrepTrials     
+                            OsmoPrep32 tabs (48 g)N=272  OsmoPrep40 tabs (60 g)N=265  Visicol40 tabs (60 g)N=268   
+  
+ Bloating                   31%                        39%                        41%                         
+ Nausea                     26%                        37%                        30%                         
+ Abdominal Pain             23%                        24%                        25%                         
+ Vomiting                   4%                         10%                        9%                          
+        Postmarketing Experience  
+ 
+
+ In addition to adverse events reported from clinical trials, the following adverse events have been identified during post-approval use of OsmoPrep. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. These events have been chosen for inclusion due to either their seriousness, frequency of reporting or causal connection to OsmoPrep, or a combination of these factors.
+
+
+
+   General:  Hypersensitivity reactions including anaphylaxis, rash, pruritus, urticaria, throat tightness, bronchospasm, dyspnea, pharyngeal edema, dysphagia, paresthesia and swelling of the lips and tongue, and facial swelling.
+
+
+
+   Cardiovascular:  Arrhythmias
+
+
+
+   Nervous system:  Seizures
+
+
+
+   Renal:  Renal impairment, increased blood urea nitrogen (BUN), increased creatinine, acute renal failure, acute phosphate nephropathy, nephrocalcinosis, and renal tubular necrosis.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+       WARNINGS   There have been rare, but serious reports of acute phosphate 
+
+nephropathy in patients who received oral sodium phosphate products for colon 
+
+cleansing prior to colonoscopy. Some cases have resulted in permanent impairment 
+
+of renal function and some patients required long-term dialysis. While some 
+
+cases have occurred in patients without identifiable risk factors, patients at 
+
+increased risk of acute phosphate nephropathy may include those with increased 
+
+age, hypovolemia, increased bowel transit time (such as bowel obstruction), 
+
+active colitis, or baseline kidney disease, and those using medicines that 
+
+affect renal perfusion or function (such as diuretics, angiotensin converting 
+
+enzyme [ACE] inhibitors, angiotensin receptor blockers [ARBs], and possibly 
+
+nonsteriodal anti-inflammatory drugs [NSAIDs]).  See 
+
+      WARNINGS    .It is 
+
+important to use the dose and dosing regimen as recommended (pm/am split 
+
+dose).  See       DOSAGE and 
+
+ADMINISTRATION    .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

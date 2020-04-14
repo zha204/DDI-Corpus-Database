@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="injectafer" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  Hypersensitivity Reactions [see Warnings and Precautions (  5.1  )]  
+ *  Hypertension [see Warnings and Precautions (  5.2  )]  
+ *  Laboratory Test Alterations [see Warnings and Precautions (  5.3  )]  
+      EXCERPT:   The most common adverse reactions (&gt;= 2%) are nausea, hypertension, flushing, hypophosphatemia, and dizziness. (  6.1  )  To report SUSPECTED ADVERSE REACTIONS, contact American Regent at 1-800-734-9236 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 Adverse Reactions in Clinical Trials
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
+
+
+
+ In two randomized clinical studies [Studies 1 and 2,  See Clinical Studies (  14  )  ], a total of 1,775 patients were exposed to Injectafer 15 mg/kg body weight up to a maximum single dose of 750 mg of iron on two occasions separated by at least 7 days up to a cumulative dose of 1500 mg of iron.
+
+
+
+ Adverse reactions reported by &gt;= 1% of treated patients are shown in the following table.  
+
+
+
+   Table 1.   Adverse reactions reported    in &gt;= 1% of Study Patients in Clinical Trials    1 and 2  
+
+
+
+
+  Term             Injectafer  (N=1775)%    Pooled ComparatorsIncludes oral iron and all formulations of IV iron other than Injectafer (N=1783)%    Oraliron(N=253)%    
+  Nausea           7.2              1.8              1.2              
+  Hypertension     3.8              1.9              0.4              
+  Flushing/Hot Flush    3.6              0.2              0.0              
+  Blood Phosphorus Decrease    2.1              0.1              0.0              
+  Dizziness        2.0              1.2              0.0              
+  Vomiting         1.7              0.5              0.4              
+  Injection Site Discoloration    1.4              0.3              0.0              
+  Headache         1.2              0.9              0.0              
+  Alanine Aminotransferase Increase    1.1              0.2              0.0              
+  Dysgeusia        1.1              2.1              0.0              
+  Hypotension      1.0              1.9              0.0              
+  Constipation     0.5              0.9              3.2              
+          Other adverse reactions reported by &gt;= 0.5% of treated patients include abdominal pain, diarrhea, gamma glutamyl transferase increased, injection site pain/irritation, rash, paraesthesia, sneezing. Transient decreases in laboratory blood phosphorus levels (&lt; 2 mg/dL) have been observed in 27% (440/1638) patients in clinical trials.
+ 
+
+   6.2 Post-marketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following serious adverse reactions have been most commonly reported from the post-marketing spontaneous reports with Injectafer:  urticaria, dyspnea, pruritis, tachycardia, erythema, pyrexia, chest discomfort, chills, angioedema, back pain, arthralgia, and syncope. One case of hypophosphatemic osteomalacia was reported in a subject who received 500 mg of Injectafer every 2 weeks for a total of 16 weeks.  Partial recovery followed discontinuation of Injectafer. 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hypersensitivity reactions:   Observe for signs and symptoms of hypersensitivity during and after Injectafer administration for at least 30 minutes and until clinically stable following completion of each administration. (  5.1  ) 
+ *   Hypertension:   Monitor patients closely for signs and symptoms of hypertension following each Injectafer administration. (  5.2  ) 
+    
+ 
+
+    5.1 Hypersensitivity Reactions  
+
+
+
+   Serious hypersensitivity reactions, including anaphylactic-type reactions, some of which have been life-threatening and fatal, have been reported in patients receiving Injectafer. Patients may present with shock, clinically significant hypotension, loss of consciousness, and/or collapse. Monitor patients for signs and symptoms of hypersensitivity during and after Injectafer administration for at least 30 minutes and until clinically stable following completion of the infusion. Only administer Injectafer when personnel and therapies are immediately available for the treatment of serious hypersensitivity reactions.  [see Adverse Reactions (  6.1   and  6.2  )  ] .    In clinical trials, serious anaphylactic/anaphylactoid reactions were reported in 0.1% (2/1775) of subjects receiving Injectafer. Other serious or severe adverse reactions potentially associated with hypersensitivity which included, but not limited to, pruritus, rash, urticaria, wheezing, or hypotension were reported in 1.5% (26/1775) of these subjects.
+
+
+
+     5.2 Hypertension  
+
+
+
+  In clinical studies, hypertension was reported in 3.8% (67/1,775) of subjects in clinical trials 1 and 2. Transient elevations in systolic blood pressure, sometimes occurring with facial flushing, dizziness, or nausea were observed in 6% (106/1,775) of subjects in these two clinical trials. These elevations generally occurred immediately after dosing and resolved within 30 minutes.   Monitor patients for signs and symptoms of hypertension following each Injectafer administration [ see Dosage and Administration (  2  )  ].
+
+
+
+     5.3 Laboratory Test Alterations  
+
+
+
+  In the 24 hours following administration of Injectafer, laboratory assays may overestimate serum iron and transferrin bound iron by also measuring the iron in Injectafer.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

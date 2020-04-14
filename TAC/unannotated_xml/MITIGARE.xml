@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="mitigare" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      6    .         ADVERSE REACTIONS  
+
+  Gastrointestinal disorders are the most common adverse reactions with colchicine.  They are often the first signs of toxicity and may indicate that the colchicine dose needs to be reduced or therapy stopped.  These include diarrhea, nausea, vomiting, and abdominal pain.
+
+
+
+ Colchicine has been reported to cause neuromuscular toxicity, which may present as muscle pain or weakness. [see  Warnings and Precautions (  5.4  )  ]
+
+
+
+ Toxic manifestations associated with colchicine include myelosuppression, disseminated intravascular coagulation, and injury to cells in the renal, hepatic, circulatory, and central nervous system. These most often occur with excessive accumulation or overdosage [see  Overdosage (  10  )  ].
+
+
+
+ The following reactions have been reported with colchicine. These have been generally reversible by interrupting treatment or lowering the dose of colchicine:
+
+
+
+   Digestive  : abdominal cramping, abdominal pain, diarrhea, lactose intolerance, nausea, vomiting
+
+
+
+   Neurological  : sensory motor neuropathy
+
+
+
+   Dermatological  : alopecia, maculopapular rash, purpura, rash
+
+
+
+   Hematological  : leukopenia, granulocytopenia, thrombocytopenia, pancytopenia, aplastic anemia
+
+
+
+   Hepatobiliary  : elevated AST, elevated ALT
+
+
+
+   Musculoskeletal  : myopathy, elevated CPK, myotonia, muscle weakness, muscle pain, rhabdomyolysis
+
+
+
+   Reproductive  : azoospermia, oligospermia
+
+
+
+   EXCERPT:   The most commonly reported adverse reactions with colchicine are gastrointestinal symptoms, including diarrhea, nausea, vomiting, and abdominal pain (  6  ).    
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Hikma Americas, Inc. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.      
+</Section>
+    <Section name="warnings and precautions" id="S2">     5   .       WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *   Fatal overdoses have been reported with colchicine in adults and children. Keep MITIGARETM out of the reach of children (  5.1  ,  10  ). 
+ *   Blood dyscrasias : myelosuppression, leukopenia, granulocytopenia, thrombocytopenia, and aplastic anemia have been reported (  5.2  ). 
+   *  Monitor for toxicity and if present consider temporary interruption or discontinuation of colchicine (  5.2  ,  5.3  ,  5.4  ,  6  ,  10  ). 
+   *   Drug interaction with dual P-gp and CYP3A4 inhibitors : Co-administration of colchicine with dual P-gp and CYP3A4 inhibitors has resulted in life-threatening interactions and death (  5.3  ,  7  ). 
+ *   Neuromuscular toxicity : Myotoxicity including rhabdomyolysis may occur, especially in combination with other drugs known to cause this effect. Consider temporary interruption or discontinuation of MITIGARETM (  5.4  ,  7  ). 
+    
+ 
+
+    5.1 Fatal Overdose  
+
+
+
+  Fatal overdoses, both accidental and intentional, have been reported in adults and children who have ingested colchicine [See Overdosage  (  10  )].  MITIGARETM should be kept out of the reach of children.
+
+
+
+     5.2 Blood Dyscrasias  
+
+
+
+  Myelosuppression, leukopenia, granulocytopenia, thrombocytopenia, pancytopenia, and aplastic anemia have been reported with colchicine used in therapeutic doses.
+
+
+
+     5.3 Interactions with CYP3A4 and P-gp Inhibitors  
+
+
+
+  Because colchicine is a substrate for both the CYP3A4 metabolizing enzyme and the P-glycoprotein efflux transporter, inhibition of either of these pathways may lead to colchicine-related toxicity. Inhibition of both CYP3A4 and P-gp by dual inhibitors such as clarithromycin has been reported to produce life-threatening or fatal colchicine toxicity due to significant increases in systemic colchicine levels. Therefore, concomitant use of MITIGARETM and inhibitors of CYP3A4 or P-glycoprotein should be avoided. [ See   Drug Interactions  (  7  )]  If avoidance is not possible, reduced daily dose should be considered and the patient should be monitored closely for colchicine toxicity. Use of MITIGARETM in conjunction with drugs that inhibit both P-gp and CYP3A4 is contraindicated in patients with renal or hepatic impairment. [See Contraindications  (  4  )]
+
+
+
+     5.4 Neuromuscular Toxicity  
+
+
+
+  Neuromuscular toxicity and rhabdomyolysis have been reported from chronic treatment with colchicine in therapeutic doses, especially in combination with other drugs known to cause this effect.  Patients with impaired renal function and elderly patients (even those with normal renal and hepatic function) are at increased risk.  Once colchicine treatment is ceased, the symptoms generally resolve within 1 week to several months.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

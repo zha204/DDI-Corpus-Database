@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sancuso" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reaction is constipation. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact ProStrakan Inc. at 1-800-SANCUSO and www.sancuso.com, or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  The safety of Sancuso was evaluated in a total of 404 patients undergoing chemotherapy who participated in two double-blind, comparator studies with patch treatment durations of up to 7 days. The control groups included a total of 406 patients who received a daily dose of 2 mg oral granisetron, for 1 to 5 days.
+
+
+
+ Adverse reactions considered by the investigators as drug-related occurred in 8.7% (35/404) of patients receiving Sancuso and 7.1% (29/406) of patients receiving oral granisetron. The most common adverse reaction was constipation that occurred in 5.4% of patients in the Sancuso group and 3.0% of patients in the oral granisetron group.
+
+
+
+ Table 1 lists the treatment emergent adverse reactions that occurred in at least 3% of patients treated with Sancuso or oral granisetron.
+
+
+
+ Table 1: Incidence of Adverse Reactions in Double-Blind, Active Comparator Controlled Studies in Cancer Patients Receiving Chemotherapy (Events &gt;= 3% in either group) 
+ Body System    Preferred Term                  Sancuso TDSN=404(%)           Oral granisetronN=406(%)      
+  
+ Gastrointestinal disorders                                                 
+     Constipation                                       5.4                             3.0                 
+ Nervous system disorders                                                   
+     Headache                                           0.7                             3.0                 
+         5-HT3receptor antagonists, such as granisetron, may be associated with arrhythmias or ECG abnormalities. Three ECGs were performed on 588 randomized patients in the Phase 3 study: at baseline before treatment, the first day of chemotherapy, and 5 to 7 days after starting chemotherapy. QTcF prolongation greater than 450 milliseconds was seen in a total of 11 (1.9%) patients after receiving granisetron, 8 (2.7%) on oral granisetron and 3 (1.1%) on the patch. No new QTcF prolongation greater than 480 milliseconds was observed in any patient in this study. No arrhythmias were detected in this study.
+ 
+
+   6.2 Granisetron Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse events reported in clinical trials with other formulations of granisetron include the following:
+
+
+
+   Gastrointestinal:    abdominal pain, diarrhea, constipation, elevation of ALT and AST levels, nausea and vomiting
+
+
+
+   Cardiovascular:    Hypertension, hypotension, angina pectoris, atrial fibrillation and syncope have been observed rarely
+
+
+
+   Central Nervous System:    dizziness, insomnia, headache, anxiety, somnolence and asthenia
+
+
+
+   Hypersensitivity:    rare cases of hypersensitivity reactions, sometimes severe (e.g. anaphylaxis, shortness of breath, hypotension, urticaria) have been reported
+
+
+
+   Other:    fever; events often associated with chemotherapy have also been reported: leucopenia, decreased appetite, anemia, alopecia, thrombocytopenia.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Granisetron may mask a progressive ileus and/or gastric distention caused by the underlying condition. (  5.1  ) 
+ *  Mild application site reactions have occurred; remove patch if severe reactions or a generalized skin reaction occur. (  5.2  ) 
+ *  Avoid direct exposure of application site to natural or artificial sunlight by covering with clothing while wearing the patch and for 10 days after removing it. (  5.3  ) 
+    
+ 
+
+   5.1 Gastrointestinal
+
+
+
+  The use of granisetron in patients may mask a progressive ileus and/or gastric distention caused by the underlying condition.
+
+
+
+    5.2 Skin Reactions
+
+
+
+  In clinical trials with Sancuso, application site reactions were reported which were generally mild in intensity and did not lead to discontinuation of use. The incidence of reactions was comparable with placebo.
+
+
+
+ If severe reactions, or a generalized skin reaction occur (e.g. allergic rash, including erythematous, macular, papular rash or pruritus), the patch must be removed.
+
+
+
+    5.3 Exposure to Sunlight
+
+
+
+  Granisetron may be affected by direct natural or artificial sunlight. Patients must be advised to cover the patch application site, e.g. with clothing, if there is a risk of exposure to sunlight throughout the period of wear and for 10 days following its removal because of a potential skin reaction (see  Section 13.2  ).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

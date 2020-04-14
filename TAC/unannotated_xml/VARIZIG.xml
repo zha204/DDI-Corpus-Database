@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="varizig" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most serious adverse drug reactions observed in clinical trials for all subjects and patients (n=601) include pyrexia, nausea, and vomiting.
+
+
+
+ The most common adverse drug reactions (reported by &gt;= 1% of subjects) observed in clinical trials for all subjects and patients (n=601) are the following:
+
+
+
+ *    injection site pain (3%), 
+ *    headache (2%), 
+ *    rash (including terms pruritus, rash, rash erythematous, rash vesicular and urticaria) (1%), 
+ *    fatigue (1%), 
+ *    chills (1%), 
+ *    nausea (1%). 
+    All other adverse drug reactions occurred in less than 1%.
+ 
+
+   EXCERPT:   Most common adverse reactions from clinical trials are pain at the injection site (3%) and headache (2%) (  6  ).
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Cangene Corporation at 1-800-768-2304 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+    Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.  
+
+
+
+ Six hundred and one (n=601) high risk individuals received VARIZIG intramuscularly in two clinical trials which included pregnant women, infants and immunocompromised pediatric and adult patients. The highest incidence of adverse reactions occurred in pregnant women (n=166), including injection site pain (7%), rash (including terms pruritus, rash, rash erythematous, and rash vesicular) (4%), headache (3%), and fatigue (2%). All other adverse reactions occurred in 1% or less of clinical trial subjects within each high risk group. A single incidence of serum sickness (approximately one in 600 patients treated with VARIZIG) was observed in an immunocompromised adolescent patient.
+
+
+
+ There were eight reported adverse events associated with the coagulation system including, deep vein thrombosis (n=1), disseminated intravascular coagulation (n=1) , intracranial hemorrhage (n=2), coagulopathy (n=2), intraventricular hemorrhage (n=1), and pulmonary hemorrhage (n=1) in 621 subjects in the open-label, Expanded Access Protocol (EAP); the study was not designed to differentiate between adverse events attributed to the underlying medical condition and adverse reactions to VARIZIG.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     *  ?  Thrombotic events (  5.1  ) 
+ *  ?  Coagulation disorders (  5.2  ) 
+ *  ?  Hypersensitivity (  5.3  ) 
+ *  ?  Transmissible infectious agents (  5.4  ) 
+    
+    
+ 
+
+   5.1 Thrombotic Events
+
+
+
+  Thrombotic events may occur during or following treatment with immune globulin products (1,2,3). Patients at risk include those with a history of atherosclerosis, multiple cardiovascular risk factors, advanced age, impaired cardiac output, coagulation disorders, prolonged periods of immobilization, and/or known/suspected hyperviscosity. Consider baseline assessment of blood viscosity in patients at risk for hyperviscosity including those with cryoglobulins, fasting chylomicronemia/markedly high triacylglycerols (triglycerides), or monoclonal gammopathies.
+
+
+
+    5.2 Coagulation Disorders
+
+
+
+  Administer VARIZIG intramuscularly only. In patients who have severe thrombocytopenia or any coagulation disorder that would contraindicate intramuscular injections, only administer VARIZIG if the expected benefits outweigh the potential risks.
+
+
+
+    5.3 Hypersensitivity
+
+
+
+  Severe hypersensitivity reactions may occur following VARIZIG administration. Administer VARIZIG in a setting with appropriate equipment, medication and personnel trained in the management of hypersensitivity, anaphylaxis and shock. In the case of hypersensitivity, discontinue administration of VARIZIG immediately and provide appropriate treatment.
+
+
+
+ VARIZIG contains trace amounts of IgA (less than 40 micrograms per milliliter). Patients with known antibodies to IgA have a greater risk of severe hypersensitivity and anaphylactic reactions. VARIZIG is contraindicated in IgA deficient patients with antibodies against IgA and history of hypersensitivity reactions [see  4 CONTRAINDICATIONS  ].
+
+
+
+    5.4 Transmissible Infectious Agents
+
+
+
+  Because VARIZIG is made from human plasma, it may carry a risk of transmitting infectious agents, e.g., viruses, the variant Creutzfeldt-Jakob disease (vCJD) agent and, theoretically, the Creutzfeldt-Jakob disease (CJD) agent. The plasma donors are screened for the presence of certain infectious agents and the manufacturing process for VARIZIG includes measures to inactivate and remove certain viruses [see  11 DESCRIPTION  ]. Despite these measures, products derived from human plasma can still potentially transmit diseases. No cases of transmission of viral diseases, vCJD or CJD have been associated with the use of VARIZIG.
+
+
+
+ Report all infections thought by a physician to have been transmitted by VARIZIG to Cangene Corporation at 1-800-768-2304. Discuss the risks and benefits of this product with the patient before administering it to the patient [see  17 PATIENT COUNSELING INFORMATION  ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

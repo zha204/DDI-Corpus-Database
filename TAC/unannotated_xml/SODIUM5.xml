@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sodium5" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Post-Marketing Adverse Reactions
+
+  The following adverse reactions have not been reported with 3% and 5% Sodium Chloride Injection, USP but may occur:
+
+
+
+ *    hyperchloremic metabolic acidosis, 
+ *    hypersensitivity/infusion reactions, including hypotension, pyrexia, tremor, chills, urticaria, rash, and pruritus, 
+ *    Infusion site reactions, such as thrombosis, phlebitis, irritation, infusion site erythema, injection site streaking, burning sensation, infusion site urticaria. 
+    If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination if deemed necessary.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="allergen1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+  Systemic reactions consist primarily of allergic symptoms, such as generalized skin erythema, urticaria, pruritus, angioedema, rhinitis, wheezing, laryngeal edema, and hypotension. Additional symptoms that are not usually associated with allergy also may occur, such as nausea, emesis, abdominal cramps, and diarrhea. Serious reactions may cause shock, loss of consciousness, and even death. Based on published studies,7,8 systemic reactions occur in less than 1% of patients receiving conventional immunotherapy to greater than 36% in some studies of patients receiving rush immunotherapy.
+
+
+
+ Local reactions at the injection site are the most commonly occurring reactions (e.g., erythema, itching, swelling, tenderness, pain). Although most adverse systemic reactions occur within 30 minutes of injection (some within minutes of extract exposure), such reactions also can occur up to six hours after skin tests of immunotherapy [see Dosage and Administration (2.2)]9.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: BOXED WARNING
+
+    BOXED WARNING  
+
+  WARNING: ANAPHYLAXIS
+
+
+
+ Do not inject intravenously.
+
+
+
+ Allergenic extracts may potentially elicit a severe lifethreatening systemic reaction, rarely resulting in death.
+
+
+
+ This allergenic product is intended for use only by physicians who are experienced in the administration of allergenic extracts and the emergency care of anaphylaxis, or for use under the guidance of an allergy specialist.
+
+
+
+ 
+
+
+
+ The initial dose must be based on skin test.
+
+
+
+ Observe patients in the office for at least 30 minutes following treatment. Emergency measures and personnel trained in their use must be available immediately in the event of life threatening reaction.
+
+
+
+ Immunotherapy may not be suitable for patients with medical conditions that reduce their ability to survive a systemic reaction, including significant cardiovascular and/or pulmonary diseases. Patients who are receiving beta blockers may be unresponsive to the usual doses of epinephrine used to treat systemic reactions, including anaphylaxis.
+</Section>
+    <Section name="warnings and precautions" id="S3">     WARNINGS AND PRECAUTIONS  
+
+
+
+     Serious Systemic Reactions    
+
+
+
+  All concentrates of Greer Standardized Mite Extracts have the ability during skin testing and immunotherapy to elicit serious systemic reactions including anaphylactic shock and death [see Adverse Reactions (6)]. A review of the literature indicates that the incidence of near-fatal reactions to immunotherapy, defined as severe respiratory compromise, hypotension, or both, and requiring emergency treatment with epinephrine, has been estimated at 5.4 events per million injections in a 10-year retrospective survey of allergists.3 Fatalities from immunotherapy injections have been estimated to occur at a rate of approximately one death per 2.0 to 2.8 million injections in 4-, 10- and 12-year retrospective surveys of allergists.4-6 Because of the danger of serious reactions, caution is required in testing and treating high risk patients and those with medical conditions that reduce their ability to survive a serious systemic adverse event.
+
+
+
+ 
+
+
+
+ High-risk patients are defined as those patients:
+
+
+
+ *  with labile or steroid-dependent asthma, particularly in those suffering an exacerbation of their symptoms at the time of extract administration; 
+ *  with extreme sensitivity to a particular allergen(s); 
+ *  who are currently using beta blockers; 
+ *  who are receiving an accelerated immunotherapy build-up schedule (e.g., rush immunotherapy); 
+ *  who are being changed from one allergenic extract to another; 
+ *  who are receiving high doses of allergenic extracts. 
+    
+ 
+
+ High risk patients have had fatal reactions. In addition, patients not highrisk but on beta blockers have had fatal reactions because beta blockers interfere with beta adrenergics such as epinephrine used in treatment of anaphylaxis.
+
+
+
+ Patients should be kept under observation for a minimum of 30 minutes after receiving allergenic extracts so that any adverse reaction can be observed and properly handled.2
+
+
+
+ Medications to treat systemic reactions, as well as emergency equipment should be available for immediate use. Extracts must only be administered by persons who are aware of the risk of systemic reactions, including anaphylaxis; are capable of handling such reactions; and have the necessary drugs and equipment on hand to do so.
+
+
+
+      Patients on Beta Blockers    
+
+
+
+  Patients receiving beta blockers may be unresponsive to the usual doses of epinephrine used to treat serious systemic reactions, including anaphylaxis. Inhalant allergy immunotherapy should be approached with caution in patients taking beta blockers. The risks of anaphylaxis in these patients should be carefully weighed against the benefits of immunotherapy [see Drug Interactions (7.1)].
+
+
+
+      Autoimmune Disease    
+
+
+
+  Immunotherapy should be given cautiously to patients with other immunologic diseases and only if the risk from exposure to the allergen is greater than the risk of exacerbating the underlying disorder2.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

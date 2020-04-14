@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="datscan" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Hypersensitivity and injection site reactions have been reported following DaTscan administration. (  6.2  ) In clinical trials, the most common adverse reactions, headache, nausea, vertigo, dry mouth or dizziness occurred in &lt; 1% of subjects. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GE Healthcare at 1-800-654-0118 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Study Experience
+
+  The data from clinical studies reflect exposure to DaTscan in 942 subjects with a mean age of 66 years (range 25 to 90 years). Among these subjects, 42% were women and 99% Caucasian. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of DaTscan cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials, no serious adverse reactions were reported. Other adverse reactions occurred at a rate of 1% or less and the reported events consisted of headache, nausea, vertigo, dry mouth or dizziness. These reactions were of mild to moderate severity.
+
+
+
+   6.2 Postmarketing Experience
+
+  Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. In the postmarketing experience, hypersensitivity reactions have been reported. The reactions generally related to rash and pruritis within minutes of DaTscan administration. The reactions either resolved spontaneously or following the administration of corticosteroids and antihistamines. Injection site pain has also been reported.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions have been reported following DaTscan administration. Have anaphylactic and hypersensitivity treatment measures available prior to DaTscan administration. (  5.1  ) 
+ *  Administer a thyroid-blocking agent before DaTscan administration. (  5.2  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions have been reported following DaTscan administration [ see  Adverse Reactions (6.2)    ]. The reactions have generally consisted of skin erythema and pruritis and have either resolved spontaneously or following the administration of corticosteroids and anti-histamines. Prior to administration, question the patient for a history of prior reactions to DaTscan. If the patient is known or strongly suspected of having had a hypersensitivity reaction to DaTscan, the decision to administer DaTscan should be based upon an assessment of the expected benefits compared to the potential hypersensitivity risks. Have anaphylactic and hypersensitivity treatment measures available prior to DaTscan administration and, following administration, observe patients for symptoms or signs of a hypersensitivity reaction.
+
+
+
+    5.2 Thyroid Accumulation
+
+
+
+  The DaTscan injection may contain up to 6% of free iodide (iodine 123). To decrease thyroid accumulation of iodine 123, block the thyroid gland before administration of DaTscan [ see  Dosage and Administration (2.2)    ]. Avoid the use of Potassium Iodide Oral Solution or Lugol's Solution in patients who are sensitive to such products. Failure to block thyroid uptake of iodine 123 may result in an increased long term risk for thyroid neoplasia.
+</Section>
+  </Text>
+  <Mentions>
+    <Mention id="M1" section="S1" type="AdverseReaction" start="38" len="16" str="Hypersensitivity" />
+    <Mention id="M2" section="S1" type="AdverseReaction" start="59" len="24" str="injection site reactions" />
+    <Mention id="M3" section="S1" type="AdverseReaction" start="202" len="8" str="headache" />
+    <Mention id="M4" section="S1" type="AdverseReaction" start="212" len="6" str="nausea" />
+    <Mention id="M5" section="S1" type="AdverseReaction" start="220" len="7" str="vertigo" />
+    <Mention id="M6" section="S1" type="AdverseReaction" start="229" len="9" str="dry mouth" />
+    <Mention id="M7" section="S1" type="AdverseReaction" start="242" len="9" str="dizziness" />
+    <Mention id="M8" section="S1" type="AdverseReaction" start="1076" len="8" str="headache" />
+    <Mention id="M9" section="S1" type="AdverseReaction" start="1086" len="6" str="nausea" />
+    <Mention id="M10" section="S1" type="AdverseReaction" start="1094" len="7" str="vertigo" />
+    <Mention id="M11" section="S1" type="AdverseReaction" start="1103" len="9" str="dry mouth" />
+    <Mention id="M12" section="S1" type="AdverseReaction" start="1116" len="9" str="dizziness" />
+    <Mention id="M13" section="S1" type="AdverseReaction" start="1459" len="26" str="hypersensitivity reactions" />
+    <Mention id="M14" section="S1" type="AdverseReaction" start="1541" len="4" str="rash" />
+    <Mention id="M15" section="S1" type="AdverseReaction" start="1550" len="8" str="pruritis" />
+    <Mention id="M16" section="S1" type="AdverseReaction" start="1716" len="19" str="Injection site pain" />
+    <Mention id="M17" section="S2" type="AdverseReaction" start="52" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M18" section="S2" type="AdverseReaction" start="373" len="26" str="Hypersensitivity reactions" />
+    <Mention id="M19" section="S2" type="AdverseReaction" start="531" len="13" str="skin erythema" />
+    <Mention id="M20" section="S2" type="AdverseReaction" start="549" len="8" str="pruritis" />
+  </Mentions>
+  <Relations />
+  <Reactions>
+    <Reaction id="AR1" str="hypersensitivity">
+      <Normalization id="AR1.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Reaction>
+    <Reaction id="AR2" str="injection site reactions">
+      <Normalization id="AR2.N1" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Reaction>
+    <Reaction id="AR3" str="headache">
+      <Normalization id="AR3.N1" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Reaction>
+    <Reaction id="AR4" str="nausea">
+      <Normalization id="AR4.N1" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Reaction>
+    <Reaction id="AR5" str="vertigo">
+      <Normalization id="AR5.N1" meddra_pt="Vertigo" meddra_pt_id="10047340" />
+    </Reaction>
+    <Reaction id="AR6" str="dry mouth">
+      <Normalization id="AR6.N1" meddra_pt="Dry mouth" meddra_pt_id="10013781" />
+    </Reaction>
+    <Reaction id="AR7" str="dizziness">
+      <Normalization id="AR7.N1" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Reaction>
+    <Reaction id="AR8" str="hypersensitivity reactions">
+      <Normalization id="AR8.N1" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" meddra_llt="Hypersensitivity reaction" meddra_llt_id="10020756" />
+    </Reaction>
+    <Reaction id="AR9" str="rash">
+      <Normalization id="AR9.N1" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Reaction>
+    <Reaction id="AR10" str="pruritis">
+      <Normalization id="AR10.N1" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Reaction>
+    <Reaction id="AR11" str="injection site pain">
+      <Normalization id="AR11.N1" meddra_pt="Injection site pain" meddra_pt_id="10022086" />
+    </Reaction>
+    <Reaction id="AR12" str="skin erythema">
+      <Normalization id="AR12.N1" meddra_pt="Erythema" meddra_pt_id="10015150" meddra_llt="Skin erythema" meddra_llt_id="10040842" />
+    </Reaction>
+  </Reactions>
+</Label>

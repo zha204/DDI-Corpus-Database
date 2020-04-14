@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sernivo" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (&gt;=1%) are application site reactions, including pruritus, burning and/or stinging, pain, and atrophy. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Promius Pharma, LLC. at 1-888-966-8766 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In two randomized, multicenter, prospective vehicle-controlled clinical trials, subjects with moderate plaque psoriasis of the body applied SERNIVO Spray or vehicle spray twice daily for 4 weeks. A total of 352 subjects applied SERNIVO Spray and 180 subjects applied vehicle spray.
+
+
+
+ Adverse reactions that occurred in at least 1% of subjects treated with SERNIVO Spray for up to 28 days are presented in  Table 1.  
+
+
+
+ Table 1: Adverse Reactions Occurring in &gt;=1% of Subjects Treated with SERNIVO Spray for up to Four Weeks 
+                                             SERNIVO Spray  b.i.d.  (N=352)      Vehicle Spray  b.i.d.  (N=180)     
+ Application site pruritus                 6.0%                            9.4%                             
+ Application site burningand/or stinging   4.5%                            10.0%                            
+ Application site pain                     2.3%                            3.9%                             
+ Application site atrophy                  1.1%                            1.7%                             
+         Less common adverse reactions (with occurrence lower than 1% but higher than 0.1%) in subjects treated with SERNIVO spray were application site reactions including telangiectasia, dermatitis, discoloration, folliculitis and skin rash, in addition to dysgeusia and hyperglycemia. These adverse reactions were not observed in subjects treated with vehicle.
+ 
+
+   6.2 Postmarketing Experience
+
+  Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Postmarketing reports for local adverse reactions to topical corticosteroids have also included striae, irritation, dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, hypertrichosis, and miliaria.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  SERNIVO Spray can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during or after treatment. (  5.1  ) 
+ *  Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can result from systemic absorption of topical corticosteroids. (  5.1  ) 
+ *  Use of topical corticosteroids may require periodic evaluation for HPA axis suppression. (  5.1  ) 
+ *  Modify use if HPA axis suppression develops. (  5.1  ) 
+ *  High potency corticosteroids, large treatment surface areas, prolonged use, use of occlusive dressings, altered skin barrier, liver failure and young age may predispose patients to HPA axis suppression. (  5.1  ) 
+ *  Pediatric patients may be more susceptible to systemic toxicity when treated with topical corticosteroids. (  5.1  ,  8.4  ) 
+    
+ 
+
+   5.1 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression and Other Unwanted Systemic Glucocorticoid Effects
+
+
+
+  SERNIVO Spray can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during or after withdrawal of treatment. Factors that predispose to HPA axis suppression include the use of high-potency corticosteroids, large treatment surface areas, prolonged use, use of occlusive dressings, altered skin barrier, liver failure, and young age.
+
+
+
+ Evaluation for HPA axis suppression may be done by using the adrenocorticotropic hormone (ACTH) stimulation test.
+
+
+
+ In a study including 48 evaluable subjects 18 years of age or older with moderate to severe plaque psoriasis, abnormal ACTH stimulation test results suggestive of adrenal suppression were identified in 5 out of 24 (20.8%) subjects after treatment with SERNIVO Spray twice daily for 15 days. No subject (0 out of 24) had abnormal ACTH stimulation test results after treatment with SERNIVO Spray twice daily for 29 days [see Clinical Pharmacology (  12.2  )].  
+
+
+
+ If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. If signs and symptoms of steroid withdrawal occur, supplemental systemic corticosteroids may be required.
+
+
+
+ Systemic effects of topical corticosteroids may also manifest as Cushing's syndrome, hyperglycemia, and glucosuria. These events are rare and generally occur after prolonged exposure to larger than recommended doses, particularly with high-potency topical corticosteroids.
+
+
+
+ Minimize the unwanted risks from endocrine effects by mitigating the risk factors favoring increased systemic bioavailability and by using the product as recommended [see Dosage and Administration (  2  )].  
+
+
+
+ Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface to body mass ratios. Use of SERNIVO Spray is not recommended in pediatric patients [see Use in Specific Populations (  8.4  )].  
+
+
+
+    5.2 Allergic Contact Dermatitis
+
+
+
+  Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation. Corroborate such an observation with appropriate diagnostic patch testing. If irritation develops, discontinue the topical corticosteroid and institute appropriate therapy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

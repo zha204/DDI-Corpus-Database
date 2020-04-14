@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="rixubis" track="TAC2017_ADR">
+  <Text>
+    <Section name="warnings and precautions" id="S1">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions have been reported with RIXUBIS. Anaphylaxis and other hypersensitivity reactions may occur. Should symptoms occur, discontinue RIXUBIS and administer appropriate treatment. Patients may also develop hypersensitivity to hamster (CHO) protein, which is present in trace amounts in the product. (  5.1  ) 
+ *  Development of neutralizing antibodies (inhibitors) to RIXUBIS may occur. If expected factor IX activity plasma levels are not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures factor IX inhibitor concentration. (  5.2  ) 
+ *  Nephrotic syndrome has been reported following immune tolerance induction with factor IX products in hemophilia B patients with factor IX inhibitors. (  5.3  ) 
+ *  The use of factor IX containing products has been associated with the development of thromboembolic complications. (  5.4  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions have been reported with RIXUBIS. Anaphylaxis and other hypersensitivity reactions are possible. The risk is highest during the early phases of initial exposure to factor IX concentrates in previously untreated patients (PUPs), in particular in patients with high-risk gene mutations. Early signs of allergic reactions, which can progress to anaphylaxis, include angioedema, chest tightness, hypotension, lethargy, nausea, vomiting, paresthesia, restlessness, wheezing, and dyspnea. Immediately discontinue administration and initiate appropriate treatment if allergic- or anaphylactic-type reactions occur. In case of severe allergic reactions, alternative hemostatic measures should be considered .  
+
+
+
+ There have been reports in the literature showing an association between the occurrence of a factor IX inhibitor and allergic reactions. Evaluate patients experiencing allergic reactions for the presence of an inhibitor.
+
+
+
+ RIXUBIS contains trace amounts of Chinese hamster ovary (CHO) proteins. Patients treated with this product may develop hypersensitivity to these non-human mammalian proteins.
+
+
+
+    5.2 Inhibitors
+
+
+
+  Evaluate patients regularly for the development of factor IX inhibitors by appropriate clinical observations and laboratory tests. Perform an assay that measures factor IX inhibitor concentration if expected factor IX activity plasma levels are not attained, or if bleeding is not controlled with an expected dose. Contact a specialized hemophilia treatment center if a patient develops an inhibitor.
+
+
+
+ Patients with factor IX inhibitors are at an increased risk of severe hypersensitivity reactions or anaphylaxis if re-exposed to RIXUBIS. RIXUBIS may not be effective in patients with high titer factor IX inhibitors and other therapeutic options should be considered.
+
+
+
+    5.3 Nephrotic Syndrome
+
+
+
+  Nephrotic syndrome has been reported following attempted immune tolerance induction in hemophilia B patients with factor IX inhibitors. The safety and efficacy of using RIXUBIS for immune tolerance induction have not been established.
+
+
+
+    5.4 Thromboembolic Complications
+
+
+
+  The use of factor IX containing products has been associated with the development of thromboembolic complications (e.g., pulmonary embolism, venous thrombosis, and arterial thrombosis). Due to the potential risk for thromboembolic complications, monitor patients for early signs of thromboembolic and consumptive coagulopathy, when administering RIXUBIS to patients with liver disease, with signs of fibrinolysis, peri- and post-operatively, or at risk for thromboembolic events or DIC. The benefit of treatment with RIXUBIS should be weighed against the risk of these complications in patients with DIC or those at risk for DIC or thromboembolic events.
+
+
+
+    5.5 Monitoring Laboratory Tests
+
+
+
+    *  Monitor factor IX activity plasma levels by the one-stage clotting assay to confirm that adequate factor IX levels have been achieved and maintained [see Dosage and Administration (  2  ) ]. 
+ *  Monitor for the development of inhibitors if expected factor IX activity plasma levels are not attained, or if bleeding is not controlled with the recommended dose of RIXUBIS. Assays used to determine if factor IX inhibitor is present should be titered in Bethesda Units (BUs). 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

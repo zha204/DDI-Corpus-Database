@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ammonia" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  No adverse reactions have been reported for Ammonia N 13 Injection based on a review of the published literature, publicly available reference sources, and adverse drug reaction reporting systems. However, the completeness of these sources is not known.
+
+
+
+   EXCERPT:   No adverse reactions have been reported for Ammonia N 13 Injection based on a review of the published literature, publicly available reference sources, and adverse drug reaction reporting system ( 6).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact The Feinstein Institute for Medical Research at 516-562-1042 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     
+ 
+
+   EXCERPT:   Ammonia N 13 Injection may increase the risk of cancer. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker (  5  ).
+
+
+
+ 
+
+
+
+   5.1 Radiation Risks
+
+
+
+  Ammonia N 13 Injection may increase the risk of cancer. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.4)]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

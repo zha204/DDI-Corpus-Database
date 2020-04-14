@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hydrocortisone4" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Local pain or burning and rectal bleeding attributed to Hydrocortisone Rectal Suspension, USP have been reported rarely. Apparent exacerbations or sensitivity reactions also occur rarely. The following adverse reactions should be kept in mind whenever corticosteroids are given by rectal administration.
+
+
+
+   Fluid and Electrolyte Disturbances:  Sodium retention; fluid retention; congestive heart failure in susceptible patients; potassium loss; hypokalemic alkalosis; hypertension.  Musculoskeletal:  Muscle weakness; steroid myopathy; loss of muscle mass; osteoporosis; vertebral compression fractures; asceptic necrosis of femoral and humeral heads; pathologic fracture of long bones.  Gastrointestinal:  Peptic ulcer with possible perforation and hemorrhage; pancreatitis; abdominal distention; ulcerative esophagitis.  Dermatologic:  Impaired wound healing; thin fragile skin; petechiae and ecchymoses; facial erythema; increased sweating; may suppress reactions to skin tests.  Neurological:  Convulsions; increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually after treatment; vertigo; headache.  Endocrine  : Menstrual irregularities; development of Cushingoid state; suppression of growth in pediatric patients; secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness, decreased carbohydrate tolerance; manifestations of latent diabetes requirements for insulin or oral hypoglycemic agents in diabetics.  Ophthalmic:  Posterior subcapsular cataracts; increased intraocular pressure; glaucoma; exophthalmos.  Metabolic:  Negative nitrogen balance due to protein catabolism.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

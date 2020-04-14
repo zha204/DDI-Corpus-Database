@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sotalol" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt;10%) seen with oral sotalol (dose related) are fatigue, dizziness, lightheadedness, headache, asthenia, nausea, dyspnea, bradycardia, chest pain, and palpitation (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact DRUG SAFETY at 1-888-875-1671 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  There is no clinical experience with intravenous sotalol. However, because of the similarity of exposure with intravenous sotalol and oral sotalol, the adverse reactions should be similar.
+
+
+
+ Adverse reactions that are clearly related to sotalol are those which are typical of its Class II (beta-blocking) and Class III (cardiac action potential duration prolongation) effects. The common documented beta-blocking adverse reactions (bradycardia, dyspnea, and fatigue) and Class III effects (QT interval prolongation) are dose related.
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     Serious Adverse Reactions  
+
+
+
+ Sotalol can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation. QT interval prolongation is directly related to the plasma level of sotalol. Factors such as reduced creatinine clearance, gender (female) and larger doses increase the risk of TdP  [see  Warning and Precautions (5.1  ]  .
+
+
+
+     Proarrhythmia in Atrial Fibrillation Patients:  In eight controlled trials of patients with AFIB/AFL and other supraventricular arrhythmias (N=659) there were four cases of TdP reported (0.6%) during the controlled phase of treatment with oral sotalol.
+
+
+
+ Prolongation of the QT interval is dose related, increasing from baseline an average of 25, 40, and 50 ms in the 80, 120, and 160 mg groups, respectively, in the oral dose-response study.
+
+
+
+     Proarrhythmia in Ventricular Arrhythmia Patients:  In patients with a history of sustained ventricular tachycardia, the incidence of Torsade de Pointes during oral sotalol treatment was 4% and worsened VT was about 1%; in patients with other less serious ventricular arrhythmias the incidence of Torsade de Pointes was 1% and new or worsened VT was about 0.7%. Additionally, in approximately 1% of patients, deaths were considered possibly drug related; such cases, although difficult to evaluate, may have been associated with proarrhythmic events. Torsade de Pointes arrhythmias in patients with VT/VF were dose related, as was the prolongation of QT (QTc) interval, as shown in Table 1 below.
+
+
+
+ Table 1: Percentage Incidence of Torsade de Pointes and Mean QTc Interval by Oral Dose for Patients with Sustained VT/VF 
+   Daily Dose    [mg]           Incidence of Torsade de    Pointes      Mean QTc    [ms]                         
+  
+ ( ) Number of patients assessed   
+  
+  80                           0 (69)                             463 (17)                                  
+  160                          0.5 (832)                          467 (181)                                 
+  320                          1.6 (835)                          473 (344)                                 
+  480                          4.4 (459)                          483 (234)                                 
+  640                          3.7 (324)                          490 (185)                                 
+  &gt;640                         5.8 (103)                          512 (62)                                  
+         Table 2 below relates the incidence of Torsade de Pointes to on-therapy QTc and change in QTc from baseline. It should be noted, however, that the highest on-therapy QTc was in many cases the one obtained at the time of the Torsade de Pointes event, so that the table overstates the predictive value of a high QTc.
+ 
+
+ Table 2: Relationship Between QTc Interval Prolongation and Torsade de Pointes 
+   On-Therapy    QTc Interval    [ms]      Incidence of    Torsade de    Pointes      Change in QTc    Interval From    Baseline [ms]      Incidence of    Torsade de    Pointes     
+  
+ ( ) Number of patients assessed   
+  
+  less than 500              1.3% (1787)                less than 65               1.6% (1516)                
+  500-525                    3.4% (236)                 65-80                      3.2% (158)                 
+  525-550                    5.6% (125)                 80-100                     4.1% (146)                 
+  &gt;550                       10.8% (157)                100-130                    5.2% (115)                 
+                                                        &gt;130                       7.1% (99)                  
+          In addition to dose and presence of sustained VT, other risk factors for Torsade de Pointes were gender (females had a higher incidence), excessive prolongation of the QTc interval and history of cardiomegaly or congestive heart failure. Patients with sustained ventricular tachycardia and a history of congestive heart failure appear to have the highest risk for serious proarrhythmia (7%). Of the ventricular arrhythmia patients experiencing Torsade de Pointes, approximately two-thirds spontaneously reverted to their baseline rhythm. The others were either converted electrically (D/C cardioversion or overdrive pacing) or treated with other drugs  [see  Overdosage (10)  ]  . It is not possible to determine whether some sudden deaths represented episodes of Torsade de Pointes, but in some instances sudden death did follow a documented episode of Torsade de Pointes. Although sotalol therapy was discontinued in most patients experiencing Torsade de Pointes, 17% were continued on a lower dose.
+ 
+
+ Nonetheless, intravenous sotalol should be used with particular caution if the QTc is greater than 500 ms on-therapy and serious consideration should be given to reducing the dose or discontinuing therapy when the QTc exceeds 520 ms. Proarrhythmic events must be anticipated not only on initiating therapy, but with every upward dose adjustment.
+
+
+
+     Other Adverse Reactions  
+
+
+
+ No data are available with intravenous sotalol. In a pooled clinical trial population consisting of four placebo-controlled studies with 275 patients with AFIB/AFL treated with 160-320 mg doses of oral sotalol the following adverse events were reported at a rate of 2% or more in the 160-240 mg treated patients and greater than the rate in placebo patients (See  Table 3  ). The data are presented by incidence of events in the sotalol and placebo groups by body system and daily dose. No significant irreversible non-cardiac end-organ toxicity was observed.
+
+
+
+ Table 3: Incidence (%) of Common Adverse Reactions (&gt;=2% in the 160-240 mg group and more frequent than on placebo) in Four Placebo-Controlled Studies of Patients with AFIB/AFL Treated with Oral Sotalol 
+                                     Placebo              Sotalol      Total Daily Dose       
+   Body System/    Adverse Reactions (Preferred Term)      N=282                  160-240    N=153           &gt;240-320    N=122         
+  
+  CARDIOVASCULAR                  
+    Bradycardia                   2.5                    13.1                       12.3                       
+    Disturbance Rhythm Subjective    9.9                    9.8                        7.4                        
+    Abnormality ECG               0.4                    3.3                        2.5                        
+    Chest Pain Cardiac/Non-Anginal    4.6                    4.6                        2.5                        
+    Angina Pectoris               1.1                    2.0                        1.6                        
+    Disturbance Rhythm Atrial     2.1                    2.0                        1.6                        
+  GASTROINTESTINAL                
+    Diarrhea                      2.1                    5.2                        5.7                        
+    Nausea/Vomiting               5.3                    7.8                        5.7                        
+    Distention Abdomen            0.4                    0.7                        2.5                        
+    Dyspepsia/Heartburn           1.8                    2.0                        2.5                        
+    Pain Abdomen                  2.5                    3.9                        2.5                        
+    Appetite Decreased            0.4                    2.0                        1.6                        
+  GENERAL                         
+    Fatigue                       8.5                    19.6                       18.9                       
+    Hyperhidrosis                 3.2                    5.2                        4.9                        
+    Weakness                      3.2                    5.2                        4.9                        
+    Fever                         0.7                    0.7                        3.3                        
+    Sensation Cold                0.7                    2.0                        2.5                        
+    Influenza                     0.4                    2.0                        0.8                        
+  MUSCULOSKELETAL/CONNECTIVE TISSUE    
+    Pain Musculoskeletal          2.8                    2.6                        4.1                        
+    Pain Chest Musculoskeletal    1.4                    2.0                        2.5                        
+  NERVOUS SYSTEM                  
+    Dizziness                     12.4                   16.3                       13.1                       
+    Headache                      5.3                    3.3                        11.5                       
+    Insomnia                      1.1                    2.6                        4.1                        
+  RESPIRATORY                     
+    Dyspnea                       7.4                    9.2                        9.8                        
+    Infection Upper Respiratory    1.1                    2.6                        3.3                        
+    Tracheobronchitis             0.7                    0.7                        3.3                        
+    Cough                         2.5                    3.3                        2.5                        
+  SPECIAL SENSES                  
+    Disturbance Vision            0.7                    2.6                        0.8                        
+          Overall, discontinuation because of unacceptable adverse events was necessary in 17% of the patients, and occurred in 10% of patients less than two weeks after starting treatment. The most common adverse events leading to discontinuation of sotalol were: fatigue 4.6%, bradycardia 2.4%, proarrhythmia 2.2%, dyspnea 2%, and QT interval prolongation 1.4%.
+ 
+
+ In clinical trials involving 1292 patients with sustained VT/VF, the common adverse events (occurring in &gt;=2% of patients) were similar to those described for the AFIB/AFL population. Table 4 lists as a function of dosage the most common (incidence of 2% or greater) adverse events, regardless of relationship to therapy and the percent of patients discontinued due to the event, as collected from clinical trials involving 1292 patients with sustained VT/VF.
+
+
+
+ Table 4: Incidence (%) of Adverse Events and Discontinuations (Disc) in 1292 patients with sustained VT/VF Receiving Oral Sotalol Therapy 
+                                       Daily Dose      %    Disc     
+                                       160 mg      240 mg      320 mg      480 mg      640 mg      Any Dose     
+   Body System                         n=832      n=263      n=835      n=459      n=324      n=1292      n=1292           
+  
+  BODY AS A WHOLE                     
+  Infection                           1         2         2         2         3         4          &lt;1                
+  Fever                               1         2         3         2         2         4          &lt;1                
+  Localized pain                      1         1         2         2         2         3          &lt;1                
+  CARDIOVASCULAR (CV)                 
+  Dyspnea                             5         8         11        15        15        21         2                 
+  Bradycardia                         8         8         9         7         5         16         2                 
+  Chest pain                          4         3         10        10        14        16         &lt;1                
+  Palpitation                         3         3         8         9         12        14         &lt;1                
+  Edema                               2         2         5         3         5         8          1                 
+  ECG abnormal                        4         2         4         2         2         7          1                 
+  Hypotension                         3         4         3         2         3         6          2                 
+  Proarrhythmia                       &lt;1        &lt;1        2         4         5         5          3                 
+  Syncope                             1         1         3         2         5         5          1                 
+  Heart failure                       2         3         2         2         2         5          1                 
+  Presyncope                          1         2         2         4         3         4          &lt;1                
+  Periph vascular                     1         2         1         1         2         3          &lt;1                
+  CV disorder                         1         &lt;1        2         2         2         3          &lt;1                
+  Vasodilation                        1         &lt;1        1         2         1         3          &lt;1                
+  AICD discharge                      &lt;1        2         2         2         2         3          &lt;1                
+  Hypertension                        &lt;1        1         1         1         2         2          &lt;1                
+  NERVOUS                             
+  Fatigue                             5         8         12        12        13        20         2                 
+  Dizziness                           7         6         11        11        14        20         1                 
+  Asthenia                            4         5         7         8         10        13         1                 
+  Light-headed                        4         3         6         6         9         12         1                 
+  Headache                            3         2         4         4         4         8          &lt;1                
+  Sleep problem                       1         1         5         5         6         8          &lt;1                
+  Perspiration                        1         2         3         4         5         6          &lt;1                
+  Altered consciousness               2         3         1         2         3         4          &lt;1                
+  Depression                          1         2         2         2         3         4          &lt;1                
+  Paresthesia                         1         1         2         3         2         4          &lt;1                
+  Anxiety                             2         2         2         3         2         4          &lt;1                
+  Mood change                         &lt;1        &lt;1        1         3         2         3          &lt;1                
+  Appetite disorder                   1         2         2         1         3         3          &lt;1                
+  Stroke                              &lt;1        &lt;1        1         1         &lt;1        1          &lt;1                
+  DIGESTIVE                           
+  Nausea/vomiting                     5         4         4         6         6         10         1                 
+  Diarrhea                            2         3         3         3         5         7          &lt;1                
+  Dyspepsia                           2         3         3         3         3         6          &lt;1                
+  Abdominal pain                      &lt;1        &lt;1        2         2         2         3          &lt;1                
+  Colon problem                       2         1         1         &lt;1        2         3          &lt;1                
+  Flatulence                          1         &lt;1        1         1         2         2          &lt;1                
+  RESPIRATORY                         
+  Pulmonary problem                   3         3         5         3         4         8          &lt;1                
+  Upper resp. tract problem           1         1         3         4         3         5          &lt;1                
+  Asthma                              1         &lt;1        1         1         1         2          &lt;1                
+  UROGENITAL                          
+  Genitourinary disorder              1         0         1         1         2         3          &lt;1                
+  Sex. dysfunction                    &lt;1        1         1         1         3         2          &lt;1                
+  METABOLIC                           
+  Abnormal lab                        1         2         3         2         1         4          &lt;1                
+  Weight change                       1         1         1         &lt;1        2         2          &lt;1                
+  MUSCULOSKELETAL                     
+  Extremity pain                      2         2         4         5         3         7          &lt;1                
+  Back pain                           1         &lt;1        2         2         2         3          &lt;1                
+  SKIN AND APPENDAGES                 
+  Rash                                2         3         2         3         4         5          &lt;1                
+  HEMATOLOGIC                         
+  Bleeding                            1         &lt;1        1         &lt;1        2         2          &lt;1                
+  SPECIAL SENSES                      
+  Visual Problem                      1         1         2         4         5         5          &lt;1                
+              Occasional reports of elevated serum liver enzymes have occurred with sotalol therapy but no cause and effect relationship has been established. One case of peripheral neuropathy which resolved on discontinuation of sotalol and recurred when the patient was rechallenged with the drug was reported in an early dose tolerance study. Elevated blood glucose levels and increased insulin requirements can occur in diabetic patients.
+ 
+
+     Pediatrics  
+
+
+
+ There are no studies of intravenous sotalol in pediatric patients. In an unblinded multicenter trial of 25 pediatric patients with SVT and/or VT receiving daily oral doses of 30, 90 and 210 mg/m  2  with dosing every 8 hours for a total of 9 doses, no Torsade de Pointes or other serious new arrhythmias were observed. One (1) patient, receiving 30 mg/m  2  daily, was discontinued because of increased frequency of sinus pauses/bradycardia. Additional cardiovascular AEs were seen at the 90 and 210 mg/m  2  daily dose levels. They included QT prolongations (2 patients), sinus pauses/bradycardia (1 patient), increased severity of atrial flutter and reported chest pain (1 patient). Values for QTc &gt;=525 ms were seen in 2 patients at the 210 mg/m  2  daily dose level. Serious adverse events including death, Torsade de Pointes, other proarrhythmias, high-degree A-V blocks, and bradycardia have been reported in infants and/or children.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of sotalol. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency of reporting, or strength of causal connection to the drug.
+
+
+
+ Postmarketing experience with sotalol shows an adverse reaction profile similar to that described above from clinical trials. Voluntary reports since introduction also include rare reports of: emotional liability, slightly clouded sensorium, incoordination, vertigo, paralysis, thrombocytopenia, eosinophilia, leukopenia, photosensitivity reaction, fever, pulmonary edema, hyperlipidemia, myalgia, pruritis, and alopecia.
+
+
+
+ Foreign postmarketing experience with intravenous sotalol shows an adverse reaction profile similar to that described above from clinical trials. Sotalol related cardiovascular adverse events occurring in 1% or more of the patients are bradycardia, dyspnea, chest pain, palpitations, edema, ECG abnormalities, hypotension, proarrhythmia, syncope, heart failure, and presyncope.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: LIFE THREATENING PROARRHYTHMIA
+
+  WARNING: LIFE THREATENING PROARRHYTHMIA
+
+    To minimize the risk of induced arrhythmia, patients initiated or re-initiated on intravenous sotalol, and patients who are converted from intravenous to oral administration should be hospitalized in a facility that can provide cardiac resuscitation, continuous electrocardiographic monitoring and calculations of creatinine clearance.  
+
+
+
+ *  Sotalol can cause life threatening ventricular tachycardia associated with QT interval prolongation 
+ *  Do not initiate sotalol therapy if the baseline QTc is longer than 450 ms. If the QT interval prolongs to 500 ms or greater, the dose must be reduced, the duration of the infusion prolonged or the drug discontinued 
+ *  Adjust the dosing interval based on creatinine clearance 
+      EXCERPT:   WARNING: LIFE THREATENING PROARRHYTHMIA
+ 
+
+     See full prescribing information for complete boxed warning  .  
+
+
+
+ *  Sotalol can cause life threatening ventricular tachycardia associated with QT interval prolongation. 
+ *  Do not initiate sotalol therapy if the baseline QTc is longer than 450 ms. If the QT interval prolongs to 500 ms or greater, the dose must be reduced, the duration of the infusion prolonged or the drug discontinued. 
+ *  Patient should be hospitalized in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring. 
+ *  Adjust the dosing interval based on creatinine clearance. 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    QT prolongation and proarrhythmia: Reduce dose, reduce rate of infusion, or discontinue (  5.1  ) 
+ *    Bradycardia, AV block, hypotension, worsening heart failure: Reduce dose as needed (  5.3  ,  5.4  ,  5.5  .  5.6  ) 
+ *    Acute exacerbation of coronary artery disease upon cessation of therapy: Do not abruptly discontinue (  5.8  ) 
+ *    Electrolyte disturbances must be corrected (  5.9  ) 
+ *    Monitor serum glucose in diabetic patients as sotalol may mask symptoms of hypoglycemia, or worsen hyperglycemia (  5.12  ) 
+    
+ 
+
+   5.1 QT Prolongation and Proarrhythmia
+
+
+
+  Sotalol can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QTc prolongation. QTc prolongation is directly related to the concentration of sotalol. Factors such as reduced creatinine clearance, gender (female) and larger doses increase the risk of TdP. The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in QTc.
+
+
+
+ Initiate sotalol only in a facility that can provide ECG monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias. Steady-state plasma levels of sotalol and maximum QTc prolongation occur by 3 days. Calculation of the creatinine clearance must precede administration of the first dose of sotalol. For detailed instructions regarding dose selection [see  Dosage and Administration (2)  ].  
+
+
+
+    5.2 Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents
+
+
+
+  The use of sotalol in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended. Such drugs include many antiarrhythmics, some phenothiazines, tricyclic antidepressants, and certain oral macrolides. Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol. In clinical trials, sotalol was not administered to patients previously treated with oral amiodarone for &gt;1 month in the previous three months. Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with intravenous sotalol because of their potential to prolong refractoriness. There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
+
+
+
+    5.3 Bradycardia/Heart Block
+
+
+
+  In studies of oral sotalol, the incidence of bradycardia (as determined by the investigators) in the supraventricular arrhythmia population treated with oral sotalol was 13% and led to discontinuation in 2.4%. Bradycardia itself increases the risk of Torsade de Pointes, so carefully monitor patients receiving concomitant digoxin.
+
+
+
+    5.4 Sick Sinus Syndrome
+
+
+
+  In general, sotalol is not recommended in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses, or sinus arrest. In patients with AFIB and sinus node dysfunction, sotalol increases the risk of Torsade de Pointes, especially after cardioversion. Sotalol augments bradycardia and QTc prolongation following cardioversion. Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with sotalol if they have an implanted pacemaker for control of bradycardia symptoms.
+
+
+
+    5.5 Hypotension
+
+
+
+  Sotalol produces significant reductions in both systolic and diastolic blood pressures and may result in hypotension. Although sotalol is usually well-tolerated, monitor hemodynamics in patients with marginal cardiac compensation as deterioration in cardiac performance may occur.
+
+
+
+    5.6 Heart Failure
+
+
+
+  Sympathetic stimulation is necessary in supporting circulatory function in heart failure, and beta-blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure. In a pooled data base of four placebo-controlled AFIB/AFL and PSVT studies, new or worsening heart failure occurred during therapy with oral sotalol in 5 (1.2%) of 415 patients. In these studies patients with uncontrolled heart failure were excluded (i.e., NYHA Functional Classes III or IV).
+
+
+
+ In other premarketing oral sotalol studies, new or worsened heart failure occurred in 3% of patients and led to discontinuation in approximately 1% of patients receiving sotalol. The incidence was higher in patients presenting with sustained ventricular tachycardia/fibrillation (5%), or a prior history of heart failure (7%). Based on a life-table analysis, the one-year incidence of new or worsened heart failure was 3% in patients without a prior history and 10% in patients with a prior history of heart failure.
+
+
+
+    5.7 Recent Acute MI
+
+
+
+  Oral sotalol has been used in a controlled trial following an acute myocardial infarction without evidence of increased mortality [see  Clinical Studies (14.3)  ]  . Although specific studies of its use in treating atrial arrhythmias after infarction have not been conducted, the usual precautions regarding heart failure, avoidance of hypokalemia, bradycardia or prolonged QT interval apply. Experience in the use of sotalol to treat ventricular arrhythmias in the early phase of recovery from acute MI is limited. In the first 2 weeks post-MI careful dose titration is especially important, particularly in patients with markedly impaired ventricular function.
+
+
+
+    5.8 Abrupt Withdrawal
+
+
+
+  Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy. Occasional cases of exacerbation of angina pectoris, arrhythmias and, in some cases, myocardial infarction have been reported after abrupt discontinuation of beta-blocker therapy. Therefore, when discontinuing chronically administered sotalol, particularly in patients with ischemic heart disease, carefully monitor the patient and consider the temporary use of an alternative beta-blocker if appropriate. If possible, the dosage of sotalol should be gradually reduced over a period of one to two weeks. If angina or acute coronary insufficiency develops, appropriate therapy should be instituted promptly. Patients should be warned against interruption or discontinuation of therapy without the physician's advice. Because coronary artery disease is common and may be unrecognized in patients receiving sotalol, abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
+
+
+
+    5.9 Electrolyte Disturbances
+
+
+
+  Sotalol should not be used in patients with hypokalemia or hypomagnesemia prior to correction of imbalance, as these conditions increase the potential for Torsade de Pointes. Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
+
+
+
+    5.10 Renal Impairment
+
+
+
+  Sotalol is eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion. There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of sotalol [see  Dosage and Administration (2)  ].  
+
+
+
+    5.11 Non-Allergic Bronchospasm
+
+
+
+  Patients with bronchospastic diseases should, in general, not receive beta-blockers. If sotalol is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2receptors.
+
+
+
+    5.12 Diabetes
+
+
+
+  Beta-blockade may mask some important premonitory signs of acute hypoglycemia (e.g., tachycardia) in patients with diabetes (especially labile diabetes) or with a history of episodes of spontaneous hypoglycemia.
+
+
+
+    5.13 Thyrotoxicosis
+
+
+
+  Beta-blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Avoid abrupt withdrawal of beta-blockade which might be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm. The beta-blocking effects of sotalol may be useful in controlling heart rate in AFIB associated with thyrotoxicosis, but no study has been conducted to evaluate this.
+
+
+
+    5.14 Anaphylaxis
+
+
+
+  While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
+
+
+
+    5.15 Anesthesia
+
+
+
+  The management of patients undergoing major surgery who are being treated with beta-blockers is controversial. Protracted severe hypotension and difficulty in restoring and maintaining normal cardiac rhythm after anesthesia have been reported in patients receiving beta-blockers.
+
+
+
+    5.16 Drug/Laboratory Test Interactions
+
+
+
+  The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

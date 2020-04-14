@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="protopam" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Forty to 60 minutes after intramuscular injection, mild to moderate pain may be experienced at the site of injection.
+
+
+
+ Pralidoxime chloride may cause blurred vision, diplopia and impaired accommodation, dizziness, headache, drowsiness, nausea, tachycardia, increased systolic and diastolic blood pressure, hyperventilation, and muscular weakness when given parenterally to normal volunteers who have not been exposed to anticholinesterase poisons. In patients, it is very difficult to differentiate the toxic effects produced by atropine or the organophosphate compounds from those of the drug.
+
+
+
+ Elevations in SGOT and/or SGPT enzyme levels were observed in 1 of 6 normal volunteers given 1200 mg of pralidoxime chloride intramuscularly, and in 4 of 6 volunteers given 1800 mg intramuscularly. Levels returned to normal in about 2 weeks. Transient elevations in creatine phosphokinase were observed in all normal volunteers given the drug.
+
+
+
+ When atropine and pralidoxime chloride are used together, the signs of atropinization may occur earlier than might be expected when atropine is used alone. This is especially true if the total dose of atropine has been large and the administration of pralidoxime chloride has been delayed. Excitement and manic behavior immediately following recovery of consciousness have been reported in several cases. However, similar behavior has occurred in cases of organophosphate poisoning that were not treated with pralidoxime chloride.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

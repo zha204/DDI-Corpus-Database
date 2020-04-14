@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="xylocaine2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse experiences following the administration of lidocaine are similar in nature to those observed with other amide local anesthetic agents.  Adverse experiences may result from high plasma levels caused by excessive dosage or may result from a hypersensitivity, idiosyncrasy or diminished tolerance on the part of the patient.  Serious adverse experiences are generally systemic in nature.  The following types are those most commonly reported.  The adverse experiences under Central Nervous System and Cardiovascular System are listed, in general, in a progression from mild to severe.
+
+
+
+   Central Nervous System
+
+  CNS reactions are excitatory and/or depressant, and may be characterized by light-headedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest.  The excitatory reactions may be very brief or may not occur at all, in which case, the first manifestation of toxicity may be drowsiness, merging into unconsciousness and respiratory arrest.
+
+
+
+   Cardiovascular System
+
+  Cardiovascular reactions are usually depressant in nature and are characterized by bradycardia, hypotension, and cardiovascular collapse, which may lead to cardiac arrest.
+
+
+
+ Allergic reactions as a result of sensitivity to lidocaine are extremely rare and, if they occur, should be managed by conventional means.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

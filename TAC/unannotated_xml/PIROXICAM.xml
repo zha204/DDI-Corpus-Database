@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="piroxicam" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In patients taking piroxicam or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1-10% of patients are:
+
+
+
+ *      Cardiovascular System: Edema. 
+ *      Digestive System: Anorexia, abdominal pain, constipation, diarrhea, dyspepsia, elevated liver enzymes, flatulence, gross bleeding/perforation, heartburn, nausea, ulcers (gastric/duodenal), vomiting. 
+ *      Hemic and Lymphatic System: Anemia, increased bleeding time. 
+ *      Nervous System: Dizziness, headache. 
+ *      Skin and Appendages: Pruritus, rash. 
+ *      Special Senses: Tinnitus. 
+ *      Urogenital System: Abnormal renal function. 
+    Additional adverse experiences reported occasionally include:
+ 
+
+ *      Body As a Whole: Fever, infection, sepsis. 
+ *      Cardiovascular System: Congestive heart failure, hypertension, tachycardia, syncope. 
+ *      Digestive System: Dry mouth, esophagitis, gastritis, glossitis, hematemesis, hepatitis, jaundice, melena, rectal bleeding, stomatitis. 
+ *      Hemic and Lymphatic System: Ecchymosis, eosinophilia, epistaxis, leukopenia, purpura, petechial rash, thrombocytopenia. 
+ *      Metabolic and Nutritional: Weight changes, fluid retention. 
+ *      Nervous System: Anxiety, asthenia, confusion, depression, dream abnormalities, drowsiness, insomnia, malaise, nervousness, paresthesia, somnolence, tremors, vertigo. 
+ *      Respiratory System: Asthma, dyspnea. 
+ *      Skin and Appendages: Alopecia, bruising, desquamation, erythema, photosensitivity, sweat. 
+ *      Special Senses: Blurred vision. 
+ *      Urogenital System: Cystitis, dysuria, hematuria, hyperkalemia, interstitial nephritis, nephrotic syndrome, oliguria/polyuria, proteinuria, renal failure, glomerulonephritis. 
+    Other adverse reactions which occur rarely are:
+ 
+
+ *      Body As a Whole: Anaphylactic reactions, appetite changes, death, flu-like syndrome, pain (colic), serum sickness. 
+ *      Cardiovascular System: Arrhythmia, exacerbation of angina, hypotension, myocardial infarction, palpitations, vasculitis. 
+ *      Digestive System: Eructation, liver failure, pancreatitis. 
+ *      Hemic and Lymphatic System: Agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia. 
+ *      Hypersensitivity: Positive ANA. 
+ *      Metabolic and Nutritional: Hyperglycemia, hypoglycemia. 
+ *      Nervous System: Akathisia, convulsions, coma, hallucinations, meningitis, mood alterations. 
+ *      Respiratory: Respiratory depression, pneumonia. 
+ *      Skin and Appendages: Angioedema, toxic epidermal necrosis, erythema multiforme, exfoliative dermatitis, onycholysis, Stevens-Johnson Syndrome, urticaria, vesiculobullous reaction. 
+ *      Special Senses: Conjunctivitis, hearing impairment, swollen eyes. 
+ *      Reproductive system and breast disorders: Female fertility decreased. 
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  Cardiovascular Risk
+
+    *  NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal. This risk may increase with duration of use. Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk (see WARNINGS). 
+ *  Piroxicam is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS). 
+      Gastrointestinal Risk
+     *  NSAIDs cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly patients are at greater risk for serious gastrointestinal events (see WARNINGS). 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="flolan" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions are dizziness, jaw pain, headache, musculoskeletal pain, and nausea/vomiting, and are generally associated with vasodilation. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse reactions are shown in Table 3 and are generally related to vasodilatory effects.
+
+
+
+ Table 3. Adverse Reactions Occurring in Patients with Idiopathic or Heritable PAH and with PAH Associated with Scleroderma Spectrum of Diseases (PAH/SSD) Occurring &gt;=10% More Frequently on FLOLAN than Conventional Therapy 
+  Adverse Reaction                      Idiopathic or Heritable  PAH    PAH/SSD                
+  FLOLAN                                Conventional Therapy    FLOLAN                 Conventional Therapy    
+  (n = 52)                              (n = 54)    (n = 56)               (n = 55)    
+  Body as a whole                                                                                             
+  Jaw pain                              54%         0%                     75%         0%                     
+  Nonspecific musculoskeletal pain      35%         15%                    84%         65%                    
+  Headache                              83%         33%                    46%         5%                     
+  Chills/fever/sepsis/flu-like symptoms    25%         11%                    13%         11%                    
+  Cardiovascular system                                                                                       
+  Flushing                              42%         2%                     23%         0%                     
+  Hypotension                           27%         31%                    13%         0%                     
+  Tachycardia                           35%         24%                    43%         42%                    
+  Digestive system                                                                                            
+  Anorexia                              25%         30%                    66%         47%                    
+  Nausea/Vomiting                       67%         48%                    41%         16%                    
+  Diarrhea                              37%         6%                     50%         5%                     
+  Skin and Appendages                                                                                         
+  Skin ulcer                            -           -                      39%         24%                    
+  Eczema/rash/urticaria                 10%         13%                    25%         4%                     
+  Musculoskeletal System                                                                                      
+  Myalgia                               44%         31%                    -           -                      
+  Nervous system                                                                                              
+  Anxiety/hyperkinesias/nervousness/tremor    21%         9%                     7%          5%                     
+  Hyperesthesia/hypesthesia/paresthesia    12%         2%                     5%          0%                     
+  Dizziness                             83%         70%                    59%         76%                    
+             Adverse Events Attributable to the Drug Delivery System  
+ 
+
+ Chronic infusions of FLOLAN are delivered using a small, portable infusion pump through an indwelling central venous catheter. During controlled PAH trials of up to 12 weeks' duration, the local infection rate was about 18%, and the rate for pain was about 11%. During long-term follow-up, sepsis was reported at a rate of 0.3 infections/patient per year in patients treated with FLOLAN.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following events have been identified during postapproval use of FLOLAN. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Blood and Lymphatic  
+
+
+
+ Anemia, hypersplenism, pancytopenia, splenomegaly, thrombocytopenia.
+
+
+
+   Endocrine and Metabolic  
+
+
+
+ Hyperthyroidism.
+
+
+
+   Gastrointestinal  
+
+
+
+ Hepatic failure.
+
+
+
+   Respiratory, Thoracic, and Mediastinal  
+
+
+
+ Pulmonary embolism.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Pulmonary edema: Discontinue therapy if pulmonary edema occurs. (  5.1  ) 
+ *    Rebound pulmonary hypertension: Do not abruptly discontinue or decrease the dose. (  5.2  ) 
+ *    Vasodilation reactions: Monitor blood pressure and symptoms regularly during initiation and after dose change. (  5.3  ) 
+ *    Increased risk for bleeding: Increased risk for hemorrhagic complications, particularly for patients with other risk factors for bleeding. (  5.4  ) 
+    
+ 
+
+   5.1 Pulmonary Edema
+
+
+
+  If the patient develops pulmonary edema during initiation with FLOLAN, discontinue therapy and do not readminister. Consider the possibility of associated pulmonary veno-occlusive disease in such patients.
+
+
+
+    5.2 Rebound Pulmonary Hypertension following Abrupt Withdrawal
+
+
+
+  Avoid abrupt withdrawal (including interruptions in drug delivery) or sudden large reductions in dosage of FLOLAN because symptoms associated with rebound pulmonary hypertension (e.g., dyspnea, dizziness, and asthenia) may occur. In clinical trials, one Class III patient's death was judged attributable to the interruption of FLOLAN.
+
+
+
+    5.3 Vasodilation
+
+
+
+  FLOLAN is a potent pulmonary and systemic vasodilator and can cause hypotension and other reactions such as flushing, nausea, vomiting, dizziness, and headache. Monitor blood pressure and symptoms regularly during initiation and after dose change [see Dosage and Administration (2.2)]  .
+
+
+
+    5.4 Increased Risk for Bleeding
+
+
+
+  FLOLAN is a potent inhibitor of platelet aggregation. Therefore, expect an increased risk for hemorrhagic complications, particularly for patients with other risk factors for bleeding [see Clinical Pharmacology (12.3)]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

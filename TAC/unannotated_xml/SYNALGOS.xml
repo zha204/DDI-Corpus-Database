@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="synalgos" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently observed reactions include lightheadedness, dizziness, drowsiness, sedation, nausea, vomiting, constipation, pruritus, and skin reactions.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+      WARNING: DEATH RELATED TO ULTRA-RAPID METABOLISM OF CODEINE TO MORPHINE            Respiratory depression and death have occurred in children who received codeine following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine due to a CYP2D6 polymorphism.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

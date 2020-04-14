@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="tobrex" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequent adverse reactions to TOBREX(r) Ophthalmic Solution are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than three of 100 patients treated with TOBREX(r). Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported from TOBREX(r) (tobramycin ophthalmic solution) 0.3% therapy; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

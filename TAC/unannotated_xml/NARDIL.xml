@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="nardil" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  NARDIL is a potent inhibitor of monoamine oxidase. Because this enzyme is widely distributed throughout the body, diverse pharmacologic effects can be expected to occur. When they occur, such effects tend to be mild or moderate in severity (see below), often subside as treatment continues, and can be minimized by adjusting dosage; rarely is it necessary to institute counteracting measures or to discontinue NARDIL.
+
+
+
+   
+
+    Common side effects include:  
+
+
+
+   Nervous System  -Dizziness, headache, drowsiness, sleep disturbances (including insomnia and hypersomnia), fatigue, weakness, tremors, twitching, myoclonic movements, hyperreflexia.
+
+
+
+   Gastrointestin  al-Constipation, dry mouth, gastrointestinal disturbances, elevated serum transaminases (without accompanying signs and symptoms).
+
+
+
+   Metabolic  -Weight gain.
+
+
+
+   Cardiovascular  -Postural hypotension, edema.
+
+
+
+   Genitourinary  -Sexual disturbances, eg, anorgasmia and ejaculatory disturbances and impotence.
+
+
+
+   
+
+    Less common mild to moderate side effects (some of which have been reported in a single patient or by a single physician) include:  
+
+
+
+   Nervous System  -Jitteriness, palilalia, euphoria, nystagmus, paresthesias.
+
+
+
+   Genitourinary  -Urinary retention.
+
+
+
+   Metabolic  -Hypernatremia.
+
+
+
+   Dermatologic  -Pruritus, skin rash, sweating.
+
+
+
+   Special Senses  -Blurred vision, glaucoma.
+
+
+
+   
+
+      Although reported less frequently, and sometimes only once, additional severe side effects include:    
+
+
+
+   Nervous System  -Ataxia, shock-like coma, toxic delirium, manic reaction, convulsions, acute anxiety reaction, precipitation of schizophrenia, transient respiratory and cardiovascular depression following ECT.
+
+
+
+   Gastrointestinal  -To date, fatal progressive necrotizing hepatocellular damage has been reported in very few patients. Reversible jaundice.
+
+
+
+   Hematologic  -Leukopenia.
+
+
+
+   Immunologic  -Lupus-like syndrome
+
+
+
+   Metabolic  -Hypermetabolic syndrome (which may include, but is not limited to, hyperpyrexia, tachycardia, tachypnea, muscular rigidity, elevated CK levels, metabolic acidosis, hypoxia, coma and may resemble an overdose).
+
+
+
+   Respiratory  -Edema of the glottis.
+
+
+
+   General  -Fever associated with increased muscle tone.
+
+
+
+ Withdrawal may be associated with nausea, vomiting, and malaise.
+
+
+
+ An uncommon withdrawal syndrome following abrupt withdrawal of NARDIL has been infrequently reported. Signs and symptoms of this syndrome generally commence 24 to 72 hours after drug discontinuation and may range from vivid nightmares with agitation to frank psychosis and convulsions. This syndrome generally responds to reinstitution of low-dose NARDIL therapy followed by cautious downward titration and discontinuation.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: Suicidality and Antidepressant Drugs
+
+  Suicidality and Antidepressant Drugs
+
+  Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders. Anyone considering the use of Nardil or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need. Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older. Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide. Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior. Families and caregivers should be advised of the need for close observation and communication with the prescriber. Nardil is not approved for use in pediatric patients. (See   Warnings: Clinical Worsening and Suicide Risk  ,   Precautions: Information for Patients  , and   Precautions: Pediatric Use  )
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="pentetate0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  In the U.S. Registry, a total of 646 individuals received at least one dose of either Ca-DTPA or Zn-DTPA. Of these, 62 received Zn-DTPA by one or more routes of administration. Forty-eight individuals were dosed by intravenous administration, 18 by inhalation and 8 by other or unknown routes of administration.
+
+
+
+ Of the individuals that received Zn-DTPA, 23/62 (37%) received one dose and 8 (13%) received two doses. The remaining 31 individuals received three or more doses. The largest number of Zn-DTPA doses to a single individual was 574 doses delivered over 3.5 years.
+
+
+
+ Overall, the presence or absence of adverse events was recorded in 310/646 individuals. Of these 19 (6.1%) individuals reported at least one adverse event. The total number of recorded adverse events was 20. Of the 20 adverse events, 1 individual treated with Zn-DTPA reported headache, lightheadedness, and pelvic pain.
+
+
+
+ Two individuals experienced cough and/or wheezing with nebulized Ca-DTPA therapy however there was no report of such events with nebulized Zn-DTPA.
+
+
+
+   EXCERPT:   There is limited experience with Zn-DTPA. Nebulized chelation therapy may be associated with exacerbation of asthma. Headache, light headedness, and pelvic pain have been reported. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact the hameln Pharmacovigilance Department at +44 (0) 7706 210 133 or drugsafety@hameln.co.uk or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: ASTHMA EXACERBATION WITH NEBULIZATION and DEPLETION OF TRACE METALS DURING THERAPY
+
+    WARNING: ASTHMA EXACERBATION WITH NEBULIZATION and DEPLETION OF TRACE METALS DURING THERAPY  
+
+    *  Nebulized Zn-DTPA may be associated with asthma exacerbation. (5.1) 
+ *  Zn-DTPA is associated with depletion of trace metals. The risk for depletion increases when Zn-DTPA is administered over several months. Monitor serum zinc levels, serum creatinine, BUN, electrolytes, urinalysis and blood cell counts during Ca-DTPA or Zn-DTPA therapy. (2.4, 5.2) 
+      EXCERPT:   WARNING: ASTHMA EXACERBATION WITH NEBULIZATION and DEPLETION OF TRACE METALS DURING THERAPY
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Nebulized Zn-DTPA may be associated with asthma exacerbation. (5.1) 
+ *  Zn-DTPA is associated with depletion of trace metals. The risk for depletion increases when Zn-DTPA is administered over several months. Monitor serum zinc levels, serum creatinine, BUN, electrolytes, urinalysis and blood cell counts during Ca-DTPA or Zn-DTPA therapy. (2.4, 5.2) 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Nebulized chelation therapy may be associated with exacerbation of asthma. Monitor patients for signs and symptoms of asthma exacerbation when administering Zn-DTPA by the inhalation route. (  5.1  ) 
+ *  Zn-DTPA is associated with depletion of endogenous trace metals (e.g., zinc, magnesium, manganese). (  5.2  ) 
+ *  Take appropriate safety measures to minimize contamination of care-takers by contaminated body fluids. (  5.3  ) 
+    
+ 
+
+   5.1 Asthma Exacerbation
+
+
+
+  Nebulized chelation therapy is associated with asthma exacerbation. Monitor patients for signs and symptoms of asthma exacerbation when administering Zn-DTPA by the inhalation route. [See  Adverse Reactions (6)  ]  
+
+
+
+    5.2 Depletion of Body Trace Mineral Stores
+
+
+
+  Zn-DTPA treatment may lead to depletion of body stores of endogenous metals (e.g. magnesium, manganese). The risk for depletion increases when Zn-DTPA is administered over several months. Monitor serum zinc levels, electrolytes and blood cell counts during Ca-DTPA or Zn-DTPA therapy. Give mineral or vitamin plus mineral supplements as appropriate. [See  Dosage and Administration (2.4)  ]  
+
+
+
+    5.3 Risks to Care-takers
+
+
+
+  Radioactive metals are known to be excreted in the urine, feces, and breast milk. In individuals with recent internal contamination with plutonium, americium, or curium, Zn-DTPA treatment increases excretion of radioactivity in the urine. Take appropriate safety measures to minimize contamination of others. [See  Patient Counseling Information (17)  ]  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="eucrisa" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reaction occurring in &gt;=1% in subjects is application site pain. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Anacor Pharmaceuticals at 1-844-4ANACOR [1-844-426-2267] or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In two double-blind, vehicle-controlled clinical trials (Trial 1 and Trial 2), 1012 subjects 2 to 79 years of age with mild to moderate atopic dermatitis were treated with EUCRISA twice daily for 4 weeks. The adverse reaction reported by &gt;=1% of EUCRISA-treated subjects is listed in Table 1.
+
+
+
+ Table 1: Adverse Reaction Occurring in &gt;=1% of Subjects in Atopic Dermatitis Trials through Week 4 
+ Adverse Reaction                                EUCRISAN=1012n (%)              VehicleN=499n (%)          
+  
+ Application site pain                                 45 (4)                          6 (1)                
+         Less common (&lt;1%) adverse reactions in subjects treated with EUCRISA included contact urticaria  [see  Warnings and Precautions (5.1)  ].  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    Hypersensitivity reactions  : If signs and symptoms of hypersensitivity occur, discontinue EUCRISA immediately and initiate appropriate therapy. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions, including contact urticaria, have occurred in patients treated with EUCRISA. Hypersensitivity should be suspected in the event of severe pruritus, swelling and erythema at the application site or at a distant site. If signs and symptoms of hypersensitivity occur, discontinue EUCRISA immediately and initiate appropriate therapy.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

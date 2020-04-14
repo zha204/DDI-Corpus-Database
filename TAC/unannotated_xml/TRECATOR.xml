@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="trecator" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Gastrointestinal: The most common side effects of ethionamide are gastrointestinal disturbances including nausea, vomiting, diarrhea, abdominal pain, excessive salivation, metallic taste, stomatitis, anorexia and weight loss. Adverse gastrointestinal effects appear to be dose related, with approximately 50% of patients unable to tolerate 1 gm as a single dose. Gastrointestinal effects may be minimized by decreasing dosage, by changing the time of drug administration, or by the concurrent administration of an antiemetic agent.
+
+
+
+ Nervous System: Psychotic disturbances (including mental depression), drowsiness, dizziness, restlessness, headache, and postural hypotension have been reported with ethionamide. Rare reports of peripheral neuritis, optic neuritis, diplopia, blurred vision, and a pellagra-like syndrome also have been reported. Concurrent administration of pyridoxine has been recommended to prevent or relieve neurotoxic effects.
+
+
+
+ Hepatic: Transient increases in serum bilirubin, SGOT, SGPT; Hepatitis (with or without jaundice).
+
+
+
+ Other: Hypersensitivity reactions including rash, photosensitivity, thrombocytopenia and purpura have been reported rarely. Hypoglycemia, hypothyroidism, gynecomastia, impotence, and acne also have occurred. The management of patients with diabetes mellitus may become more difficult in those receiving ethionamide.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

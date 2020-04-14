@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="potassium7" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Some patients may develop minor gastrointestinal complaints such as abdominal discomfort, vomiting, diarrhea, loose bowel movements or nausea.
+
+
+
+ These may be alleviated by taking the dose with meals or snacks or by reducing the dosage (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Upsher-Smith Laboratories, Inc. at 1-855-899-9180 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Postmarketing Experience
+
+  Some patients may develop minor gastrointestinal complaints during Potassium Citrate Extended-release Tablets therapy, such as abdominal discomfort, vomiting, diarrhea, loose bowel movements or nausea. These symptoms are due to the irritation of the gastrointestinal tract, and may be alleviated by taking the dose with meals or snacks, or by reducing the dosage. Patients may find intact matrices in their feces.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hyperkalemia: In patients with impaired mechanisms for excreting potassium, Potassium Citrate Extended-release Tablets administration can produce hyperkalemia and cardiac arrest. Potentially fatal hyperkalemia can develop rapidly and be asymptomatic. The use of Potassium Citrate Extended-release Tablets in patients with chronic renal failure, or any other condition which impairs potassium excretion such as severe myocardial damage or heart failure, should be avoided (  5.1  ) 
+ *  Gastrointestinal lesions: if there is severe vomiting, abdominal pain or gastrointestinal bleeding, Potassium Citrate Extended-release Tablets should be discontinued immediately and the possibility of bowel perforation or obstruction investigated (  5.2  ) 
+    
+ 
+
+   5.1 Hyperkalemia
+
+
+
+  In patients with impaired mechanisms for excreting potassium, Potassium Citrate Extended-release Tablets administration can produce hyperkalemia and cardiac arrest. Potentially fatal hyperkalemia can develop rapidly and be asymptomatic. The use of Potassium Citrate Extended-release Tablets in patients with chronic renal failure, or any other condition which impairs potassium excretion such as severe myocardial damage or heart failure, should be avoided. Closely monitor for signs of hyperkalemia with periodic blood tests and ECGs.
+
+
+
+    5.2 Gastrointestinal Lesions
+
+
+
+  Because of reports of upper gastrointestinal mucosal lesions following administration of potassium chloride (wax-matrix), an endoscopic examination of the upper gastrointestinal mucosa was performed in 30 normal volunteers after they had taken glycopyrrolate 2 mg p.o. t.i.d., Potassium Citrate Extended-release Tablets 95 mEq/day, wax-matrix potassium chloride 96 mEq/day or wax-matrix placebo, in thrice daily schedule in the fasting state for one week. Potassium Citrate Extended-release Tablets and the wax-matrix formulation of potassium chloride were indistinguishable but both were significantly more irritating than the wax-matrix placebo. In a subsequent, similar study, lesions were less severe when glycopyrrolate was omitted.
+
+
+
+ Solid dosage forms of potassium chlorides have produced stenotic and/or ulcerative lesions of the small bowel and deaths. These lesions are caused by a high local concentration of potassium ions in the region of the dissolving tablets, which injured the bowel. In addition, perhaps because wax-matrix preparations are not enteric-coated and release some of their potassium content in the stomach, there have been reports of upper gastrointestinal bleeding associated with these products. The frequency of gastrointestinal lesions with wax-matrix potassium chloride products is estimated at one per 100,000 patient-years. Experience with Potassium Citrate Extended-release Tablets is limited, but a similar frequency of gastrointestinal lesions should be anticipated.
+
+
+
+ If there is severe vomiting, abdominal pain or gastrointestinal bleeding, Potassium Citrate Extended-release Tablets should be discontinued immediately and the possibility of bowel perforation or obstruction investigated.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

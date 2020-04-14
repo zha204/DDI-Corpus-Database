@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="potassium2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Potassium intoxication with mild or severe hyperkalemia has been reported. The signs and symptoms of intoxication include, paresthesia of the extremities, areflexia, muscular or respiratory paralysis, mental confusion, weakness, hypotension, cardiac arrhythmia, heart block, electrographic abnormalities and cardiac arrest. EKG abnormalities serve as a clinical reflection of the seriousness of changes in serum potassium concentrations: peaked T waves and prolonged P-R intervals usually occur with modest elevations above the upper limit of normal potassium concentrations; P waves disappear, the QRS complex widens, and eventual asystole usually occurs with higher elevations.
+
+
+
+ Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.
+
+
+
+ Infusion of highly concentrated potassium chloride solutions may cause local pain and vein irritation. (See    Warnings    ).
+
+
+
+ Reactions reported with the use of potassium-containing solutions include nausea, vomiting, and abdominal pain and diarrhea.
+
+
+
+ If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

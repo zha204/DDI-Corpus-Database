@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="miostat" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    Ocular:  Corneal clouding, persistent bullous keratopathy, retinal detachment and postoperative iritis following cataract extraction have been reported.
+
+
+
+   Systemic:  Side effects such as flushing, sweating, epigastric distress, abdominal cramps, tightness in urinary bladder, and headache have been reported with topical or systemic application of carbachol.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

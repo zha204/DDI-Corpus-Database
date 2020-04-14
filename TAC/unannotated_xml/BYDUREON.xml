@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="bydureon" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below or elsewhere in the prescribing information:
+
+
+
+ *    Risk of Thyroid C-cell Tumors [see   Warnings and Precautions (5.1)   ] 
+ *    Acute Pancreatitis [see   Warnings and Precautions (5.2)   ] 
+ *    Hypoglycemia [see   Warnings and Precautions (5.3)   ] 
+ *    Renal Impairment [see   Warnings and Precautions (5.4)   ] 
+ *    Gastrointestinal Disease [see   Warnings and Precautions (5.5)   ] 
+ *    Immunogenicity [see   Warnings and Precautions (5.6)   ] 
+ *    Hypersensitivity [see   Warnings and Precautions (5.7)   ] 
+ *    Injection-Site Reactions [see   Warnings and Precautions (5.8)   ] 
+      EXCERPT:   Most common (&gt;=5%) and occurring more frequently than comparator in clinical trials: nausea, diarrhea, headache, vomiting, constipation, injection-site pruritus, injection-site nodule, and dyspepsia (  5.3  ,  6.1  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 and www.bydureon.com or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of BYDUREON was assessed in five comparator-controlled trials in patients who entered the studies not achieving adequate glycemic control on their current therapy. In a double-blind 26-week trial, patients on diet and exercise were treated with BYDUREON 2 mg once every 7 days (weekly), sitagliptin 100 mg daily, pioglitazone 45 mg daily, or metformin 2000 mg daily. In a double-blind 26-week trial, patients on metformin were treated with BYDUREON 2 mg once every 7 days (weekly), sitagliptin 100 mg daily, or pioglitazone 45 mg daily. In an open-label 26-week trial, patients on metformin or metformin plus sulfonylurea were treated with BYDUREON 2 mg once every 7 days (weekly) or optimized insulin glargine. In two open-label 24- to 30-week studies, patients on diet and exercise or metformin, a sulfonylurea, a thiazolidinedione, or combination of oral agents were treated with BYDUREON 2 mg once every 7 days (weekly) or BYETTA 10 mcg twice daily.
+
+
+
+     Withdrawals  
+
+  The incidence of withdrawal due to adverse events was 4.9% (N=45) for BYDUREON-treated patients, 4.9% (N=13) for BYETTA-treated patients, and 2.0% (N=23) for other comparator-treated patients in the five comparator-controlled 24- to 30-week trials. The most common adverse reactions leading to withdrawal for BYDUREON-treated patients were nausea 0.5% (N=5) versus 1.5% (N=4) for BYETTA and 0.3% (N=3) for other comparators, injection-site nodule 0.5% (N=5) versus 0.0% for BYETTA and 0.0% for other comparators, diarrhea 0.3% (N=3) versus 0.4% (N=1) for BYETTA and 0.3% (N=3) for other comparators, injection-site reaction 0.2% (N=2) versus 0.0% for BYETTA and 0.0% for other comparators, and headache 0.2% (N=2) versus 0.0% for BYETTA and 0.0% for other comparators.
+
+
+
+     Hypoglycemia  
+
+  Table 1 summarizes the incidence and rate of minor hypoglycemia in the five comparator-controlled 24- to 30-week trials of BYDUREON used as monotherapy or as add-on to metformin, a sulfonylurea, a thiazolidinedione, or combination of these oral antidiabetic agents. In these trials, an event was classified as minor hypoglycemia if there were symptoms of hypoglycemia with a concomitant glucose &lt;54 mg/dL and the patient was able to self-treat.
+
+
+
+
+   Table 1: Incidence (% of Subjects) and Rate (Episodes/Subject Year) of Minor    Hypoglycemia in the Monotherapy Trial and in the Combination Therapy Trials     
+  
+ N = number of intent-to-treat patients.                                   
+ Note: Percentages are based on the number of intent-to-treat patients in each treatment group.   
+      Reported event that has symptoms consistent with hypoglycemia with a concomitant glucose &lt;54 mg/dL and the patient was able to self-treat.   
+   ?   Insulin glargine was dosed to a target fasting glucose concentration of 72 to 100 mg/dL. The mean dose of insulin glargine was 10 Units/day at baseline and 31 Units/day at endpoint.   
+  
+  26-Week Monotherapy Trial                                                
+  BYDUREON 2 mg (N = 248)                                                  2.0% (0.05)                    
+  Sitagliptin 100 mg (N = 163)                                             0.0% (0.00)                    
+  Pioglitazone 45 mg (N = 163)                                             0.0% (0.00)                    
+  Metformin 2000 mg QD (N = 246)                                           0.0% (0.00)                    
+  26-Week Add-On to Metformin Trial                                        
+  BYDUREON 2 mg (N = 160)                                                  1.3% (0.03)                    
+  Sitagliptin 100 mg (N = 166)                                             3.0% (0.12)                    
+  Pioglitazone 45 mg (N = 165)                                             1.2% (0.03)                    
+  26-Week Add-On to Metformin or Metformin + Sulfonylurea Trial            
+  With Concomitant Sulfonylurea Use (N = 136)                              
+  BYDUREON 2 mg (N = 70)                                                   20.0% (1.11)                   
+  Titrated Insulin Glargine (N = 66)                                       43.9% (2.87)                   
+  Without Concomitant Sulfonylurea Use (N = 320)                           
+  BYDUREON 2 mg (N = 163)                                                  3.7% (0.11)                    
+  Titrated Insulin Glargine? (N = 157)                                     19.1% (0.64)                   
+  24-Week Monotherapy or Add-On to Metformin, a Sulfonylurea, a Thiazolidinedione, or Combination of Oral Agents Trial    
+  With Concomitant Sulfonylurea Use (N = 74)                               
+  BYDUREON 2 mg (N = 40)                                                   12.5% (0.72)                   
+  BYETTA 10 mcg (N = 34)                                                   11.8% (0.31)                   
+  Without Concomitant Sulfonylurea Use (N = 178)                           
+  BYDUREON 2 mg (N = 89)                                                   0.0% (0.00)                    
+  BYETTA 10 mcg (N = 89)                                                   0.0% (0.00)                    
+  30-Week Monotherapy or Add-On to Metformin, a Sulfonylurea, a Thiazolidinedione, or Combination of Oral Agents Trial    
+  With Concomitant Sulfonylurea Use (N = 107)                              
+  BYDUREON 2 mg (N = 55)                                                   14.5% (0.55)                   
+  BYETTA 10 mcg (N = 52)                                                   15.4% (0.37)                   
+  Without Concomitant Sulfonylurea Use (N = 186)                           
+  BYDUREON 2 mg (N = 93)                                                   0.0% (0.00)                    
+  BYETTA 10 mcg (N = 93)                                                   1.1% (0.02)                    
+        There were no reported events of major hypoglycemia in these five comparator-controlled 24- to 30-week trials. Major hypoglycemia was defined as loss of consciousness, seizure, or coma (or other mental status change consistent with neuroglycopenia in the judgment of the investigator or physician) which resolved after administration of glucagon or glucose or required third-party assistance to resolve because of severe impairment in consciousness or behavior. Patients were to have a concomitant glucose &lt;54 mg/dL.
+ 
+
+     Immunogenicity  
+
+  Anti-exenatide antibodies were measured at prespecified intervals (4-14 weeks) in all BYDUREON-treated patients (N=918) in the five comparator-controlled studies of BYDUREON. In these five trials, 452 BYDUREON-treated patients (49%) had low titer antibodies (&lt;=125) to exenatide at any time during the trials and 405 BYDUREON-treated patients (45%) had low titer antibodies to exenatide at study endpoint (24-30 weeks). The level of glycemic control in these patients was generally comparable to that observed in the 379 BYDUREON-treated patients (43%) without antibody titers. An additional 107 BYDUREON-treated patients (12%) had higher titer antibodies at endpoint. Of these patients, 50 (6% overall) had an attenuated glycemic response to BYDUREON (&lt;0.7% reduction in HbA1c); the remaining 57 (6% overall) had a glycemic response comparable to that of patients without antibodies [see    Warnings and Precautions (5.6)    ]. In the 30-week trial in which anti-exenatide antibody assessments were performed at baseline and at 4-week intervals from week 6 to week 30, the mean anti-exenatide antibody titer in the BYDUREON-treated patients peaked at week 6 then declined by 56% from this peak by week 30.
+
+
+
+ A total of 246 patients with antibodies to exenatide in the BYETTA and BYDUREON clinical trials were tested for the presence of cross-reactive antibodies to GLP-1 and/or glucagon. No treatment-emergent cross-reactive antibodies were observed across the range of titers.
+
+
+
+     Other Adverse Reactions  
+
+    BYDUREON  
+
+  Tables 2 and 3 summarize adverse reactions with an incidence &gt;=5% reported in the five comparator-controlled 24- to 30-week trials of BYDUREON used as monotherapy or as add-on to metformin, a sulfonylurea, a thiazolidinedione, or combination of these oral antidiabetic agents.
+
+
+
+
+   Table 2: Treatment-Emergent Adverse Reactions Reported in &gt;=5% of BYDUREON-Treated Patients in Monotherapy Trial     
+  
+ N = number of intent-to-treat patients.   
+ Note: Percentages are based on the number of intent-to-treat patients in each treatment group.   
+     Patients in the sitagliptin, pioglitazone, and metformin treatment groups received weekly placebo injections.   
+ N = number of intent-to-treat patients.   
+ Note: Percentages are based on the number of intent-to-treat patients in each treatment group.   
+     Patients in the sitagliptin, pioglitazone, and metformin treatment groups received weekly placebo injections.   
+  
+  26-Week Monotherapy Trial    
+                              BYDUREON2 mgN = 248%    Sitagliptin100 mgN = 163%    Pioglitazone45 mgN = 163%    Metformin2000 mgN = 246%    
+  Nausea                      11.3                   3.7                4.3                  6.9                
+  Diarrhea                    10.9                   5.5                3.7                  12.6               
+  Injection-site nodule       10.5                   6.7                3.7                  10.2               
+  Constipation                8.5                    2.5                1.8                  3.3                
+  Headache                    8.1                    9.2                8.0                  12.2               
+  Dyspepsia                   7.3                    1.8                4.9                  3.3                
+         
+ Table 3: Treatment-Emergent Adverse Reactions Reported in &gt;=5% of BYDUREON-Treated Patients in 24- to 30-Week Add-On Combination Therapy Trials   
+  
+ N = number of intent-to-treat patients.   
+ Note: Percentages are based on the number of intent-to-treat patients in each treatment group.   
+     Patients in the sitagliptin, pioglitazone, and metformin treatment groups received weekly placebo injections.   
+  
+  26-Week Add-On to Metformin Trial    
+                                      BYDUREON2 mgN = 160%    Sitagliptin100 mgN = 166%    Pioglitazone45 mgN = 165%    
+  Nausea                              24.4                  9.6                          4.8                 
+  Diarrhea                            20.0                  9.6                          7.3                 
+  Vomiting                            11.3                  2.4                          3.0                 
+  Headache                            9.4                   9.0                          5.5                 
+  Constipation                        6.3                   3.6                          1.2                 
+  Fatigue                             5.6                   0.6                          3.0                 
+  Dyspepsia                           5.0                   3.6                          2.4                 
+  Decreased appetite                  5.0                   1.2                          0.0                 
+  Injection-site pruritus             5.0                   4.8                          1.2                 
+  26-Week Add-On to Metformin or Metformin + Sulfonylurea Trial    
+                                      BYDUREON2 mgN = 233%    Insulin Glargine TitratedN = 223%                        
+  Nausea                              12.9                  1.3                                              
+  Headache                            9.9                   7.6                                              
+  Diarrhea                            9.4                   4.0                                              
+  Injection-site nodule               6.0                   0.0                                              
+  30-Week Monotherapy or as Add-On to Metformin, a Sulfonylurea, a Thiazolidinedione, or Combination of Oral Agents Trial    
+                                      BYDUREON2 mgN = 148%    BYETTA10 mcgN = 145%                             
+  Nausea                              27.0                  33.8                                             
+  Diarrhea                            16.2                  12.4                                             
+  Vomiting                            10.8                  18.6                                             
+  Injection-site pruritus             18.2                  1.4                                              
+  Constipation                        10.1                  6.2                                              
+  Gastroenteritis viral               8.8                   5.5                                              
+  Gastroesophageal reflux disease     7.4                   4.1                                              
+  Dyspepsia                           7.4                   2.1                                              
+  Injection-site erythema             7.4                   0.0                                              
+  Fatigue                             6.1                   3.4                                              
+  Headache                            6.1                   4.8                                              
+  Injection-site hematoma             5.4                   11.0                                             
+  24-Week Monotherapy or as Add-On to Metformin, a Sulfonylurea, a Thiazolidinedione, or Combination of Oral Agents Trial    
+                                      BYDUREON2 mgN = 129%    BYETTA10 mcgN = 123%                             
+  Nausea                              14.0                  35.0                                             
+  Diarrhea                            9.3                   4.1                                              
+  Injection-site erythema             5.4                   2.4                                              
+          Nausea was the most common adverse reaction associated with initiation of treatment with BYDUREON, and usually decreased over time.
+ 
+
+     Injection-Site Reactions  
+
+  In the five comparator-controlled 24- to 30-week trials, injection-site reactions were observed more frequently in patients treated with BYDUREON (17.1%) than in patients treated with BYETTA (12.7%), titrated insulin glargine (1.8%), or those patients who received placebo injections (sitagliptin (10.6%), pioglitazone (6.4%), and metformin (13.0%) treatment groups). These reactions for patients treated with BYDUREON were more commonly observed in antibody-positive patients (14.2%) compared with antibody-negative patients (3.1%), with a greater incidence in those with higher titer antibodies [see    Warnings and Precautions (5.6)    ]. Incidence of injection-site reactions for patients treated with BYETTA was similar for antibody-positive patients (5.8%) and antibody-negative patients (7.0%). One percent of patients treated with BYDUREON withdrew due to injection-site adverse reactions (injection-site mass, injection-site nodule, injection-site pruritus, and injection-site reaction).
+
+
+
+ Subcutaneous injection-site nodules may occur with the use of BYDUREON. In a separate 15-week study in which information on nodules were collected and analyzed, 24 out of 31 subjects (77%) experienced at least 1 injection-site nodule during treatment; 2 subjects (6.5%) reported accompanying localized symptoms. The mean duration of events was 27 days. The formation of nodules is consistent with the known properties of the microspheres used in BYDUREON.
+
+
+
+     BYETTA  
+
+  In three 30-week controlled trials of BYETTA (N=963) add-on to metformin and/or sulfonylurea, adverse reactions (excluding hypoglycemia) with an incidence of &gt;=1% and reported more frequently than with placebo included nausea (44% BYETTA, 18% placebo), vomiting (13% BYETTA, 4% placebo), diarrhea (13% BYETTA, 6% placebo), feeling jittery (9% BYETTA, 4% placebo), dizziness (9% BYETTA, 6% placebo), headache (9% BYETTA, 6% placebo), dyspepsia (6% BYETTA, 3% placebo), asthenia (4% BYETTA, 2% placebo), gastroesophageal reflux (3% BYETTA, 1% placebo), hyperhidrosis (3% BYETTA, 1% placebo), and decreased appetite (1% BYETTA, &lt;1% placebo). Similar types of adverse reactions were observed in 24-week and 16-week controlled trials of BYETTA used as monotherapy or as add-on to a thiazolidinedione, with or without metformin, respectively.
+
+
+
+   6.2 Postmarketing Experience
+
+    BYDUREON  
+
+    Allergy/Hypersensitivity:  injection-site reactions [see    Warnings and Precautions (5.8)    ].
+
+
+
+     BYETTA  
+
+  The following additional adverse reactions have been reported during postapproval use of BYETTA. Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Allergy/Hypersensitivity:  injection-site reactions, generalized pruritus and/or urticaria, macular or papular rash, angioedema; anaphylactic reaction [see    Warnings and Precautions (5.7)    ].
+
+
+
+   Drug Interactions:  increased international normalized ratio (INR), sometimes associated with bleeding, with concomitant warfarin use [see    Drug Interactions (7.2)    ].
+
+
+
+   Gastrointestinal:  nausea, vomiting, and/or diarrhea resulting in dehydration; abdominal distension, abdominal pain, eructation, constipation, flatulence, acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death [see    Indications and Usage (1.2)    and    Warnings and Precautions (5.2)    ].
+
+
+
+   Neurologic:  dysgeusia; somnolence
+
+
+
+   Renal and Urinary Disorders:  altered renal function, including increased serum creatinine, renal impairment, worsened chronic renal failure or acute renal failure (sometimes requiring hemodialysis), kidney transplant and kidney transplant dysfunction [see    Warnings and Precautions (5.4)    ].
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  alopecia
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: RISK OF THYROID C-CELL TUMORS
+
+    WARNING: RISK OF THYROID C-CELL TUMORS  
+
+    *  Exenatide extended-release causes an increased incidence in thyroid C-cell tumors at clinically relevant exposures in rats compared to controls. It is unknown whether BYDUREON causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans, as the human relevance of exenatide extended-release-induced rodent thyroid C-cell tumors has not been determined [see Warnings and Precautions (5.1) and Nonclinical Toxicology (13.1)]. 
+ *  BYDUREON is contraindicated in patients with a personal or family history of MTC and in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk for MTC with the use of BYDUREON and inform them of symptoms of thyroid tumors (e.g., mass in the neck, dysphagia, dyspnea, persistent hoarseness). Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for detection of MTC in patients treated with BYDUREON[see Contraindications (4.1) and Warnings and Precautions (5.1)]. 
+      EXCERPT:   WARNING: RISK OF THYROID C-CELL TUMORS
+ 
+
+     See full prescribing information for complete boxed warning.    
+
+
+
+ *  Exenatide extended-release causes thyroid C-cell tumors at clinically relevant exposures in rats. It is unknown whether BYDUREON causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC) in humans, as the human relevance of exenatide extended-release-induced rodent thyroid C-cell tumors has not been determined (5.1, 13.1). 
+ *  BYDUREON is contraindicated in patients with a personal or family history of MTC or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk of MTC and the symptoms of thyroid tumors (4.1, 5.1). 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Thyroid C-cell Tumors: See Boxed Warning (  5.1  ). 
+ *     Pancreatitis : Postmarketing reports with exenatide, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. Discontinue promptly if pancreatitis is suspected. Do not restart if pancreatitis is confirmed. Consider other antidiabetic therapies if patient has history of pancreatitis (  5.2  ). 
+ *     Hypoglycemia : Increased risk when BYDUREON is used in combination with a sulfonylurea. Consider reducing the sulfonylurea dose (  5.3  ). 
+ *     Renal Impairment : Postmarketing reports with exenatide, sometimes requiring hemodialysis and kidney transplantation. Not recommended if patient has severe renal impairment or end-stage renal disease. Use with caution in patients with renal transplantation or moderate renal impairment (  5.4  ,  8.6  ,  12.3  ). 
+ *     Severe Gastrointestinal Disease : Not recommended in patients with severe gastrointestinal disease (e.g., gastroparesis) (  5.5  ). 
+ *     Hypersensitivity : Postmarketing reports with exenatide of serious hypersensitivity reactions (e.g., anaphylaxis and angioedema). In such cases, patients are to discontinue BYDUREON and other suspect medications and promptly seek medical advice (  5.7  ). 
+ *     Injection-site Reactions : There have been postmarketing reports of serious injection-site reactions with or without subcutaneous nodules (  5.8  ). 
+ *     Macrovascular Outcomes : There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with BYDUREON or any other antidiabetic drug (  5.9  ). 
+    
+ 
+
+   5.1 Risk of Thyroid C-cell Tumors
+
+
+
+  In both genders of rats, exenatide extended-release caused a dose-related and treatment-duration-dependent increase in the incidence of thyroid C-cell tumors (adenomas and/or carcinomas) at clinically relevant exposures compared to controls [see   Nonclinical Toxicology (13.1)    ]. A statistically significant increase in malignant thyroid C-cell carcinomas was observed in female rats receiving exenatide extended-release at 25-times clinical exposure compared to controls and higher incidences were noted in males above controls in all treated groups at &gt;=2-times clinical exposure. The potential of exenatide extended-release to induce C-cell tumors in mice has not been evaluated. Other GLP-1 receptor agonists have also induced thyroid C-cell adenomas and carcinomas in male and female mice and rats at clinically relevant exposures. It is unknown whether BYDUREON will cause thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as the human relevance of exenatide extended-release-induced rodent thyroid C-cell tumors has not been determined  .
+
+
+
+  Cases of MTC in patients treated with liraglutide, another GLP-1 receptor agonist, have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and GLP-1 receptor agonist use in humans.  
+
+
+
+  BYDUREON is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2. Counsel patients regarding the potential risk of MTC with the use of BYDUREON and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dsyphagia, dyspnea, persistent hoarseness).  
+
+
+
+ Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with BYDUREON. Such monitoring may increase the risk of unnecessary procedures, due to the low specificity of serum calcitonin testing for MTC and a high background incidence of thyroid disease. Significantly elevated serum calcitonin may indicate MTC and patients with MTC usually have values &gt;50 ng/L.  If serum calcitonin is measured and found to be elevated, the patient should be further evaluated. Patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated  .
+
+
+
+    5.2 Acute Pancreatitis
+
+
+
+   Based on postmarketing data, exenatide has been associated with acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. After initiation of BYDUREON, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting). If pancreatitis is suspected, BYDUREON should promptly be discontinued and appropriate management should be initiated. If pancreatitis is confirmed, BYDUREON should not be restarted. Consider antidiabetic therapies other than BYDUREON in patients with a history of pancreatitis.  
+
+
+
+    5.3 Hypoglycemia
+
+
+
+  The risk of hypoglycemia is increased when exenatide is used in combination with a sulfonylurea. Therefore, patients receiving BYDUREON and a sulfonylurea may require a lower dose of the sulfonylurea to minimize the risk of hypoglycemia. It is also possible that the use of BYDUREON with other glucose-independent insulin secretagogues (e.g., meglitinides) could increase the risk of hypoglycemia.
+
+
+
+ For additional information on glucose-dependent effects see   Clinical Pharmacology (12.1)    .
+
+
+
+    5.4 Renal Impairment
+
+
+
+  BYDUREON should not be used in patients with severe renal impairment (creatinine clearance &lt;30 mL/min) or end-stage renal disease and should be used with caution in patients with renal transplantation [see   Use in Specific Populations (8.6)    ]. In patients with end-stage renal disease receiving dialysis, single doses of BYETTA 5 mcg were not well tolerated due to gastrointestinal side effects. Because BYDUREON may induce nausea and vomiting with transient hypovolemia, treatment may worsen renal function. Use BYDUREON with caution in patients with moderate renal impairment (creatinine clearance 30-50 mL/min) [see   Use in Specific Populations (8.6)    and   Clinical Pharmacology (12.3)    ]. BYDUREON has not been studied in patients with end-stage renal disease or severe renal impairment.
+
+
+
+ There have been postmarketing reports of altered renal function with exenatide, including increased serum creatinine, renal impairment, worsened chronic renal failure and acute renal failure, sometimes requiring hemodialysis or kidney transplantation. Some of these events occurred in patients receiving one or more pharmacologic agents known to affect renal function or hydration status such as angiotensin converting enzyme inhibitors, nonsteroidal anti-inflammatory drugs, or diuretics. Some events occurred in patients who had been experiencing nausea, vomiting, or diarrhea, with or without dehydration. Reversibility of altered renal function has been observed in many cases with supportive treatment and discontinuation of potentially causative agents, including exenatide. Exenatide has not been found to be directly nephrotoxic in preclinical or clinical studies.
+
+
+
+    5.5 Gastrointestinal Disease
+
+
+
+  Exenatide has not been studied in patients with severe gastrointestinal disease, including gastroparesis. Because exenatide is commonly associated with gastrointestinal adverse reactions, including nausea, vomiting, and diarrhea, the use of BYDUREON is not recommended in patients with severe gastrointestinal disease.
+
+
+
+    5.6 Immunogenicity
+
+
+
+  Patients may develop antibodies to exenatide following treatment with BYDUREON. Anti-exenatide antibodies were measured in all BYDUREON-treated patients in the five comparator-controlled 24- to 30-week studies of BYDUREON. In 6% of BYDUREON-treated patients, antibody formation was associated with an attenuated glycemic response. If there is worsening glycemic control or failure to achieve targeted glycemic control, alternative antidiabetic therapy should be considered [see   Adverse Reactions (6.1)    ].
+
+
+
+    5.7 Hypersensitivity
+
+
+
+  There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylaxis and angioedema) in patients treated with exenatide. If a hypersensitivity reaction occurs, the patient should discontinue BYDUREON and other suspect medications and promptly seek medical advice [see   Adverse Reactions (6.2)    ].
+
+
+
+    5.8 Injection-Site Reactions
+
+
+
+  There have been postmarketing reports of serious injection-site reactions (e.g., abscess, cellulitis, and necrosis), with or without subcutaneous nodules, with the use of BYDUREON. Isolated cases required surgical intervention [see   Adverse Reactions (6.2)    ].
+
+
+
+    5.9 Macrovascular Outcomes
+
+
+
+  There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with BYDUREON or any other antidiabetic drug.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

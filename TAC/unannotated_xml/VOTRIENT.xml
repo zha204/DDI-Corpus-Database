@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="votrient" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions in patients with advanced renal cell carcinoma (&gt;=20%) are diarrhea, hypertension, hair color changes (depigmentation), nausea, anorexia, and vomiting. (  6.1  )
+
+
+
+ The most common adverse reactions in patients with advanced soft tissue sarcoma (&gt;=20%) are fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, hair color changes, vomiting, tumor pain, dysgeusia, headache, musculoskeletal pain, myalgia, gastrointestinal pain, and dyspnea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Potentially serious adverse reactions with VOTRIENT included:
+
+
+
+ *    Hepatotoxicity [see Warnings and Precautions (5.1)]  
+ *    QT prolongation and torsades de pointes [see Warnings and Precautions (5.2)]  
+ *    Cardiac dysfunction [see Warnings and Precautions (5.3)]  
+ *    Hemorrhagic events [see Warnings and Precautions (5.4)]  
+ *    Arterial and venous thromboembolic events [see Warnings and Precautions (5.5 and 5.6)]  
+ *    Thrombotic microangiopathy [see Warnings and Precautions (5.7)]  
+ *    Gastrointestinal perforation and fistula [see Warnings and Precautions (5.8)]  
+ *    Interstitial Lung Disease (ILD)/Pneumonitis [see Warnings and Precautions (5.9)]  
+ *    Reversible Posterior Leukoencephalopathy Syndrome (RPLS) [see Warnings and Precautions (5.10)]  
+ *    Hypertension [see Warnings and Precautions (5.11)]  
+ *    Infection [see Warnings and Precautions (5.15)]  
+ *    Increased toxicity with other cancer therapies [see Warnings and Precautions (5.16)]  
+      Renal Cell Carcinoma:  The safety of VOTRIENT has been evaluated in 977 patients in the monotherapy trials which included 586 patients with RCC at the time of NDA submission. With a median duration of treatment of 7.4 months (range: 0.1 to 27.6), the most commonly observed adverse reactions (&gt;=20%) in the 586 patients were diarrhea, hypertension, hair color change, nausea, fatigue, anorexia, and vomiting.
+ 
+
+ The data described below reflect the safety profile of VOTRIENT in 290 RCC patients who participated in a randomized, double-blind, placebo-controlled trial  [see Clinical Studies (14.1)]  . The median duration of treatment was 7.4 months (range: 0 to 23) for patients who received VOTRIENT and 3.8 months (range: 0 to 22) for the placebo arm. Forty-two percent of patients on VOTRIENT required a dose interruption. Thirty-six percent of patients on VOTRIENT were dose reduced. Table 1 presents the most common adverse reactions occurring in &gt;=10% of patients who received VOTRIENT.
+
+
+
+ Table 1. Adverse Reactions Occurring in &gt;=10% of Patients with RCC Who Received VOTRIENT 
+   a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.   
+  
+                           VOTRIENT         Placebo       
+                           (N = 290)        (N = 145)     
+                           All Gradesa      Grade 3       Grade 4       All Gradesa      Grade 3       Grade 4       
+  Adverse Reactions        %                %             %             %                %             %             
+  Diarrhea                 52               3             &lt;1            9                &lt;1            0             
+  Hypertension             40               4             0             10               &lt;1            0             
+  Hair color changes       38               &lt;1            0             3                0             0             
+  Nausea                   26               &lt;1            0             9                0             0             
+  Anorexia                 22               2             0             10               &lt;1            0             
+  Vomiting                 21               2             &lt;1            8                2             0             
+  Fatigue                  19               2             0             8                1             1             
+  Asthenia                 14               3             0             8                0             0             
+  Abdominal pain           11               2             0             1                0             0             
+  Headache                 10               0             0             5                0             0             
+             Other adverse reactions observed more commonly in patients treated with VOTRIENT than placebo and that occurred in &lt;10% (any grade) were alopecia (8% versus &lt;1%), chest pain (5% versus 1%), dysgeusia (altered taste) (8% versus &lt;1%), dyspepsia (5% versus &lt;1%), dysphonia (4% versus &lt;1%), facial edema (1% versus 0%), palmar-plantar erythrodysesthesia (hand-foot syndrome) (6% versus &lt;1%), proteinuria (9% versus 0%), rash (8% versus 3%), skin depigmentation (3% versus 0%), and weight decreased (9% versus 3%).
+ 
+
+ Additional adverse reactions from other clinical trials in RCC patients treated with VOTRIENT are listed below:
+
+
+
+   Musculoskeletal and Connective Tissue Disorders:  Arthralgia, muscle spasms.
+
+
+
+ Table 2 presents the most common laboratory abnormalities occurring in &gt;10% of patients who received VOTRIENT and more commonly (&gt;=5%) in patients who received VOTRIENT versus placebo.
+
+
+
+ Table 2. Selected Laboratory Abnormalities Occurring in &gt;10% of Patients with RCC Who Received VOTRIENT and More Commonly (&gt;=5%) in Patients Who Received VOTRIENT versus Placebo 
+   a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.   
+  
+                                VOTRIENT        Placebo      
+                                (N = 290)       (N = 145)    
+                                All Gradesa     Grade 3      Grade 4      All Gradesa     Grade 3      Grade 4      
+  Parameters                    %               %            %            %               %            %            
+  Hematologic                                                                                                       
+     Leukopenia                 37              0            0            6               0            0            
+     Neutropenia                34              1            &lt;1           6               0            0            
+     Thrombocytopenia           32              &lt;1           &lt;1           5               0            &lt;1           
+     Lymphocytopenia            31              4            &lt;1           24              1            0            
+  Chemistry                                                                                                         
+     ALT increased              53              10           2            22              1            0            
+     AST increased              53              7            &lt;1           19              &lt;1           0            
+     Glucose increased          41              &lt;1           0            33              1            0            
+     Total bilirubin increased    36              3            &lt;1           10              1            &lt;1           
+     Phosphorus decreased       34              4            0            11              0            0            
+     Sodium decreased           31              4            1            24              4            0            
+     Magnesium decreased        26              &lt;1           1            14              0            0            
+     Glucose decreased          17              0            &lt;1           3               0            0            
+               Soft Tissue Sarcoma:  The safety of VOTRIENT has been evaluated in 382 patients with advanced soft tissue sarcoma, with a median duration of treatment of 3.6 months (range: 0 to 53). The most commonly observed adverse reactions (&gt;=20%) in the 382 patients were fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, vomiting, tumor pain, hair color changes, musculoskeletal pain, headache, dysgeusia, dyspnea, and skin hypopigmentation.
+ 
+
+ The data described below reflect the safety profile of VOTRIENT in 240 patients who participated in a randomized, double-blind, placebo-controlled trial  [see Clinical Studies (14.2)]  . The median duration of treatment was 4.5 months (range: 0 to 24) for patients who received VOTRIENT and 1.9 months (range: 0 to 24) for the placebo arm. Fifty-eight percent of patients on VOTRIENT required a dose interruption. Thirty-eight percent of patients on VOTRIENT had their dose reduced. Seventeen percent of patients who received VOTRIENT discontinued therapy due to adverse reactions. Table 3 presents the most common adverse reactions occurring in &gt;=10% of patients who received VOTRIENT.
+
+
+
+ Table 3. Adverse Reactions Occurring in &gt;=10% of Patients with STS Who Received VOTRIENT 
+   a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.  b  27 of the 28 cases of skin disorder were palmar-plantar erythrodysesthesia.   
+  
+                              VOTRIENT         Placebo      
+                              (N = 240)        (N = 123)    
+                              All Gradesa      Grade 3      Grade 4      All Gradesa      Grade 3      Grade 4      
+  Adverse Reactions           %                %            %            %                %            %            
+  Fatigue                     65               13           1            48               4            1            
+  Diarrhea                    59               5            0            15               1            0            
+  Nausea                      56               3            0            22               2            0            
+  Weight decreased            48               4            0            15               0            0            
+  Hypertension                42               7            0            6                0            0            
+  Appetite decreased          40               6            0            19               0            0            
+  Hair color changes          39               0            0            2                0            0            
+  Vomiting                    33               3            0            11               1            0            
+  Tumor pain                  29               8            0            21               7            2            
+  Dysgeusia                   28               0            0            3                0            0            
+  Headache                    23               1            0            8                0            0            
+  Musculoskeletal pain        23               2            0            20               2            0            
+  Myalgia                     23               2            0            9                0            0            
+  Gastrointestinal pain       23               3            0            9                4            0            
+  Dyspnea                     20               5            &lt;1           17               5            1            
+  Exfoliative rash            18               &lt;1           0            9                0            0            
+  Cough                       17               &lt;1           0            12               &lt;1           0            
+  Peripheral edema            14               2            0            9                2            0            
+  Mucositis                   12               2            0            2                0            0            
+  Alopecia                    12               0            0            1                0            0            
+  Dizziness                   11               1            0            4                0            0            
+  Skin disorderb              11               2            0            1                0            0            
+  Skin hypopigmentation       11               0            0            0                0            0            
+  Stomatitis                  11               &lt;1           0            3                0            0            
+  Chest pain                  10               2            0            6                0            0            
+             Other adverse reactions observed more commonly in patients treated with VOTRIENT that occurred in &gt;=5% of patients and at an incidence of more than 2% difference from placebo included insomnia (9% versus 6%), hypothyroidism (8% versus 0%), dysphonia (8% versus 2%), epistaxis (8% versus 2%), left ventricular dysfunction (8% versus 4%), dyspepsia (7% versus 2%), dry skin (6% versus &lt;1%), chills (5% versus 1%), vision blurred (5% versus 2%), and nail disorder (5% versus 0%).
+ 
+
+ Table 4 presents the most common laboratory abnormalities occurring in &gt;10% of patients who received VOTRIENT and more commonly (&gt;=5%) in patients who received VOTRIENT versus placebo.
+
+
+
+ Table 4. Selected Laboratory Abnormalities Occurring in &gt;10% of Patients with STS Who Received VOTRIENT and More Commonly (&gt;=5%) in Patients Who Received VOTRIENT versus Placebo 
+   a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.   
+  
+                                     VOTRIENT       Placebo     
+                                     (N = 240)      (N = 123)    
+                                     All Gradesa    Grade 3     Grade 4     All Gradesa    Grade 3     Grade 4     
+  Parameters                         %              %           %           %              %           %           
+  Hematologic                                                                                                      
+     Leukopenia                      44             1           0           15             0           0           
+     Lymphocytopenia                 43             10          0           36             9           2           
+     Thrombocytopenia                36             3           1           6              0           0           
+     Neutropenia                     33             4           0           7              0           0           
+  Chemistry                                                                                                        
+     AST increased                   51             5           3           22             2           0           
+     ALT increased                   46             8           2           18             2           1           
+     Glucose increased               45             &lt;1          0           35             2           0           
+     Albumin decreased               34             1           0           21             0           0           
+     Alkaline phosphatase increased    32             3           0           23             1           0           
+     Sodium decreased                31             4           0           20             3           0           
+     Total bilirubin increased       29             1           0           7              2           0           
+     Potassium increased             16             1           0           11             0           0           
+               Diarrhea:  Diarrhea occurred frequently and was predominantly mild to moderate in severity in both the RCC and STS clinical trials. Patients should be advised how to manage mild diarrhea and to notify their healthcare provider if moderate to severe diarrhea occurs so appropriate management can be implemented to minimize its impact.
+ 
+
+   Lipase Elevations:  In a single-arm RCC trial, increases in lipase values were observed for 27% (48/181) of patients. Elevations in lipase as an adverse reaction were reported for 4% (10/225) of patients and were Grade 3 for 6 patients and Grade 4 for 1 patient. In the RCC trials of VOTRIENT, clinical pancreatitis was observed in &lt;1% (4/586) of patients.
+
+
+
+   Pneumothorax:  Two of 290 patients treated with VOTRIENT and no patient on the placebo arm in the randomized RCC trial developed a pneumothorax. In the randomized trial of VOTRIENT for the treatment of STS, pneumothorax occurred in 3% (8/240) of patients treated with VOTRIENT and in no patients on the placebo arm.
+
+
+
+   Bradycardia:  In the randomized trial of VOTRIENT for the treatment of RCC, bradycardia based on vital signs (&lt;60 beats per minute) was observed in 19% (52/280) of patients treated with VOTRIENT and in 11% (16/144) of patients on the placebo arm. Bradycardia was reported as an adverse reaction in 2% (7/290) of patients treated with VOTRIENT compared with &lt;1% (1/145) of patients treated with placebo. In the randomized trial of VOTRIENT for the treatment of STS, bradycardia based on vital signs (&lt;60 beats per minute) was observed in 19% (45/238) of patients treated with VOTRIENT and in 4% (5/121) of patients on the placebo arm. Bradycardia was reported as an adverse reaction in 2% (4/240) of patients treated with VOTRIENT compared with &lt;1% (1/123) of patients treated with placebo.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of VOTRIENT. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+
+
+
+   Eye Disorders:  Retinal detachment/tear.
+
+
+
+   Gastrointestinal Disorders:  Pancreatitis.
+</Section>
+    <Section name="adverse reactions" id="S2">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions in patients with advanced renal cell carcinoma (&gt;=20%) are diarrhea, hypertension, hair color changes (depigmentation), nausea, anorexia, and vomiting. (  6.1  )
+
+
+
+ The most common adverse reactions in patients with advanced soft tissue sarcoma (&gt;=20%) are fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, hair color changes, vomiting, tumor pain, dysgeusia, headache, musculoskeletal pain, myalgia, gastrointestinal pain, and dyspnea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Potentially serious adverse reactions with VOTRIENT included:
+
+
+
+ *    Hepatotoxicity [see Warnings and Precautions (5.1)]  
+ *    QT prolongation and torsades de pointes [see Warnings and Precautions (5.2)]  
+ *    Cardiac dysfunction [see Warnings and Precautions (5.3)]  
+ *    Hemorrhagic events [see Warnings and Precautions (5.4)]  
+ *    Arterial and venous thromboembolic events [see Warnings and Precautions (5.5 and 5.6)]  
+ *    Thrombotic microangiopathy [see Warnings and Precautions (5.7)]  
+ *    Gastrointestinal perforation and fistula [see Warnings and Precautions (5.8)]  
+ *    Interstitial Lung Disease (ILD)/Pneumonitis [see Warnings and Precautions (5.9)]  
+ *    Reversible Posterior Leukoencephalopathy Syndrome (RPLS) [see Warnings and Precautions (5.10)]  
+ *    Hypertension [see Warnings and Precautions (5.11)]  
+ *    Infection [see Warnings and Precautions (5.15)]  
+ *    Increased toxicity with other cancer therapies [see Warnings and Precautions (5.16)]  
+      Renal Cell Carcinoma:  The safety of VOTRIENT has been evaluated in 977 patients in the monotherapy trials which included 586 patients with RCC at the time of NDA submission. With a median duration of treatment of 7.4 months (range: 0.1 to 27.6), the most commonly observed adverse reactions (&gt;=20%) in the 586 patients were diarrhea, hypertension, hair color change, nausea, fatigue, anorexia, and vomiting.
+ 
+
+ The data described below reflect the safety profile of VOTRIENT in 290 RCC patients who participated in a randomized, double-blind, placebo-controlled trial  [see Clinical Studies (14.1)]  . The median duration of treatment was 7.4 months (range: 0 to 23) for patients who received VOTRIENT and 3.8 months (range: 0 to 22) for the placebo arm. Forty-two percent of patients on VOTRIENT required a dose interruption. Thirty-six percent of patients on VOTRIENT were dose reduced. Table 1 presents the most common adverse reactions occurring in &gt;=10% of patients who received VOTRIENT.
+
+
+
+ Table 1. Adverse Reactions Occurring in &gt;=10% of Patients with RCC Who Received VOTRIENT 
+                           VOTRIENT         Placebo       
+                           (N = 290)        (N = 145)     
+                           All Gradesa      Grade 3       Grade 4       All Gradesa      Grade 3       Grade 4       
+  Adverse Reactions        %                %             %             %                %             %             
+  Diarrhea                 52               3             &lt;1            9                &lt;1            0             
+  Hypertension             40               4             0             10               &lt;1            0             
+  Hair color changes       38               &lt;1            0             3                0             0             
+  Nausea                   26               &lt;1            0             9                0             0             
+  Anorexia                 22               2             0             10               &lt;1            0             
+  Vomiting                 21               2             &lt;1            8                2             0             
+  Fatigue                  19               2             0             8                1             1             
+  Asthenia                 14               3             0             8                0             0             
+  Abdominal pain           11               2             0             1                0             0             
+  Headache                 10               0             0             5                0             0             
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+ Other adverse reactions observed more commonly in patients treated with VOTRIENT than placebo and that occurred in &lt;10% (any grade) were alopecia (8% versus &lt;1%), chest pain (5% versus 1%), dysgeusia (altered taste) (8% versus &lt;1%), dyspepsia (5% versus &lt;1%), dysphonia (4% versus &lt;1%), facial edema (1% versus 0%), palmar-plantar erythrodysesthesia (hand-foot syndrome) (6% versus &lt;1%), proteinuria (9% versus 0%), rash (8% versus 3%), skin depigmentation (3% versus 0%), and weight decreased (9% versus 3%).
+
+
+
+ Additional adverse reactions from other clinical trials in RCC patients treated with VOTRIENT are listed below:
+
+
+
+   Musculoskeletal and Connective Tissue Disorders:  Arthralgia, muscle spasms.
+
+
+
+ Table 2 presents the most common laboratory abnormalities occurring in &gt;10% of patients who received VOTRIENT and more commonly (&gt;=5%) in patients who received VOTRIENT versus placebo.
+
+
+
+ Table 2. Selected Laboratory Abnormalities Occurring in &gt;10% of Patients with RCC Who Received VOTRIENT and More Commonly (&gt;=5%) in Patients Who Received VOTRIENT versus Placebo 
+                                VOTRIENT        Placebo      
+                                (N = 290)       (N = 145)    
+                                All Gradesa     Grade 3      Grade 4      All Gradesa     Grade 3      Grade 4      
+  Parameters                    %               %            %            %               %            %            
+  Hematologic                                                                                                       
+     Leukopenia                 37              0            0            6               0            0            
+     Neutropenia                34              1            &lt;1           6               0            0            
+     Thrombocytopenia           32              &lt;1           &lt;1           5               0            &lt;1           
+     Lymphocytopenia            31              4            &lt;1           24              1            0            
+  Chemistry                                                                                                         
+     ALT increased              53              10           2            22              1            0            
+     AST increased              53              7            &lt;1           19              &lt;1           0            
+     Glucose increased          41              &lt;1           0            33              1            0            
+     Total bilirubin increased    36              3            &lt;1           10              1            &lt;1           
+     Phosphorus decreased       34              4            0            11              0            0            
+     Sodium decreased           31              4            1            24              4            0            
+     Magnesium decreased        26              &lt;1           1            14              0            0            
+     Glucose decreased          17              0            &lt;1           3               0            0            
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+   Soft Tissue Sarcoma:  The safety of VOTRIENT has been evaluated in 382 patients with advanced soft tissue sarcoma, with a median duration of treatment of 3.6 months (range: 0 to 53). The most commonly observed adverse reactions (&gt;=20%) in the 382 patients were fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, vomiting, tumor pain, hair color changes, musculoskeletal pain, headache, dysgeusia, dyspnea, and skin hypopigmentation.
+
+
+
+ The data described below reflect the safety profile of VOTRIENT in 240 patients who participated in a randomized, double-blind, placebo-controlled trial  [see Clinical Studies (14.2)]  . The median duration of treatment was 4.5 months (range: 0 to 24) for patients who received VOTRIENT and 1.9 months (range: 0 to 24) for the placebo arm. Fifty-eight percent of patients on VOTRIENT required a dose interruption. Thirty-eight percent of patients on VOTRIENT had their dose reduced. Seventeen percent of patients who received VOTRIENT discontinued therapy due to adverse reactions. Table 3 presents the most common adverse reactions occurring in &gt;=10% of patients who received VOTRIENT.
+
+
+
+ Table 3. Adverse Reactions Occurring in &gt;=10% of Patients with STS Who Received VOTRIENT 
+                              VOTRIENT         Placebo      
+                              (N = 240)        (N = 123)    
+                              All Gradesa      Grade 3      Grade 4      All Gradesa      Grade 3      Grade 4      
+  Adverse Reactions           %                %            %            %                %            %            
+  Fatigue                     65               13           1            48               4            1            
+  Diarrhea                    59               5            0            15               1            0            
+  Nausea                      56               3            0            22               2            0            
+  Weight decreased            48               4            0            15               0            0            
+  Hypertension                42               7            0            6                0            0            
+  Appetite decreased          40               6            0            19               0            0            
+  Hair color changes          39               0            0            2                0            0            
+  Vomiting                    33               3            0            11               1            0            
+  Tumor pain                  29               8            0            21               7            2            
+  Dysgeusia                   28               0            0            3                0            0            
+  Headache                    23               1            0            8                0            0            
+  Musculoskeletal pain        23               2            0            20               2            0            
+  Myalgia                     23               2            0            9                0            0            
+  Gastrointestinal pain       23               3            0            9                4            0            
+  Dyspnea                     20               5            &lt;1           17               5            1            
+  Exfoliative rash            18               &lt;1           0            9                0            0            
+  Cough                       17               &lt;1           0            12               &lt;1           0            
+  Peripheral edema            14               2            0            9                2            0            
+  Mucositis                   12               2            0            2                0            0            
+  Alopecia                    12               0            0            1                0            0            
+  Dizziness                   11               1            0            4                0            0            
+  Skin disorderb              11               2            0            1                0            0            
+  Skin hypopigmentation       11               0            0            0                0            0            
+  Stomatitis                  11               &lt;1           0            3                0            0            
+  Chest pain                  10               2            0            6                0            0            
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+   b  27 of the 28 cases of skin disorder were palmar-plantar erythrodysesthesia.
+
+
+
+ Other adverse reactions observed more commonly in patients treated with VOTRIENT that occurred in &gt;=5% of patients and at an incidence of more than 2% difference from placebo included insomnia (9% versus 6%), hypothyroidism (8% versus 0%), dysphonia (8% versus 2%), epistaxis (8% versus 2%), left ventricular dysfunction (8% versus 4%), dyspepsia (7% versus 2%), dry skin (6% versus &lt;1%), chills (5% versus 1%), vision blurred (5% versus 2%), and nail disorder (5% versus 0%).
+
+
+
+ Table 4 presents the most common laboratory abnormalities occurring in &gt;10% of patients who received VOTRIENT and more commonly (&gt;=5%) in patients who received VOTRIENT versus placebo.
+
+
+
+ Table 4. Selected Laboratory Abnormalities Occurring in &gt;10% of Patients with STS Who Received VOTRIENT and More Commonly (&gt;=5%) in Patients Who Received VOTRIENT versus Placebo 
+                                     VOTRIENT       Placebo     
+                                     (N = 240)      (N = 123)    
+                                     All Gradesa    Grade 3     Grade 4     All Gradesa    Grade 3     Grade 4     
+  Parameters                         %              %           %           %              %           %           
+  Hematologic                                                                                                      
+     Leukopenia                      44             1           0           15             0           0           
+     Lymphocytopenia                 43             10          0           36             9           2           
+     Thrombocytopenia                36             3           1           6              0           0           
+     Neutropenia                     33             4           0           7              0           0           
+  Chemistry                                                                                                        
+     AST increased                   51             5           3           22             2           0           
+     ALT increased                   46             8           2           18             2           1           
+     Glucose increased               45             &lt;1          0           35             2           0           
+     Albumin decreased               34             1           0           21             0           0           
+     Alkaline phosphatase increased    32             3           0           23             1           0           
+     Sodium decreased                31             4           0           20             3           0           
+     Total bilirubin increased       29             1           0           7              2           0           
+     Potassium increased             16             1           0           11             0           0           
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+   Diarrhea:  Diarrhea occurred frequently and was predominantly mild to moderate in severity in both the RCC and STS clinical trials. Patients should be advised how to manage mild diarrhea and to notify their healthcare provider if moderate to severe diarrhea occurs so appropriate management can be implemented to minimize its impact.
+
+
+
+   Lipase Elevations:  In a single-arm RCC trial, increases in lipase values were observed for 27% (48/181) of patients. Elevations in lipase as an adverse reaction were reported for 4% (10/225) of patients and were Grade 3 for 6 patients and Grade 4 for 1 patient. In the RCC trials of VOTRIENT, clinical pancreatitis was observed in &lt;1% (4/586) of patients.
+
+
+
+   Pneumothorax:  Two of 290 patients treated with VOTRIENT and no patient on the placebo arm in the randomized RCC trial developed a pneumothorax. In the randomized trial of VOTRIENT for the treatment of STS, pneumothorax occurred in 3% (8/240) of patients treated with VOTRIENT and in no patients on the placebo arm.
+
+
+
+   Bradycardia:  In the randomized trial of VOTRIENT for the treatment of RCC, bradycardia based on vital signs (&lt;60 beats per minute) was observed in 19% (52/280) of patients treated with VOTRIENT and in 11% (16/144) of patients on the placebo arm. Bradycardia was reported as an adverse reaction in 2% (7/290) of patients treated with VOTRIENT compared with &lt;1% (1/145) of patients treated with placebo. In the randomized trial of VOTRIENT for the treatment of STS, bradycardia based on vital signs (&lt;60 beats per minute) was observed in 19% (45/238) of patients treated with VOTRIENT and in 4% (5/121) of patients on the placebo arm. Bradycardia was reported as an adverse reaction in 2% (4/240) of patients treated with VOTRIENT compared with &lt;1% (1/123) of patients treated with placebo.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of VOTRIENT. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+
+
+
+   Eye Disorders:  Retinal detachment/tear.
+
+
+
+   Gastrointestinal Disorders:  Pancreatitis.
+</Section>
+    <Section name="boxed warnings" id="S3">
+
+    BOXED WARNING: WARNING: HEPATOTOXICITY
+
+  WARNING: HEPATOTOXICITY
+
+    Severe and fatal hepatotoxicity has been observed in clinical trials. Monitor hepatic function and interrupt, reduce, or discontinue dosing as recommended   [see Warnings and Precautions (5.1)]  .  
+
+
+
+   EXCERPT:   WARNING: HEPATOTOXICITY
+
+
+
+     See full prescribing information for complete boxed warning.    
+
+
+
+   Severe and fatal hepatotoxicity has been observed in clinical trials. Monitor hepatic function and interrupt, reduce, or discontinue dosing as recommended   [see Warnings and Precautions (  5.1  )]  .  
+</Section>
+    <Section name="boxed warnings" id="S4">
+
+    BOXED WARNING: WARNING: HEPATOTOXICITY
+
+  WARNING: HEPATOTOXICITY
+
+    Severe and fatal hepatotoxicity has been observed in clinical trials. Monitor hepatic function and interrupt, reduce, or discontinue dosing as recommended   [see Warnings and Precautions (5.1)]  .  
+
+
+
+   EXCERPT:   WARNING: HEPATOTOXICITY
+
+
+
+     See full prescribing information for complete boxed warning.    
+
+
+
+   Severe and fatal hepatotoxicity has been observed in clinical trials. Monitor hepatic function and interrupt, reduce, or discontinue dosing as recommended   [see Warnings and Precautions (  5.1  )]  .  
+</Section>
+    <Section name="warnings and precautions" id="S5">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Increases in serum transaminase levels and bilirubin were observed. Severe and fatal hepatotoxicity has occurred. Measure liver chemistries before the initiation of treatment and regularly during treatment. (  5.1  ) 
+ *    Prolonged QT intervals and torsades de pointes have been observed. Use with caution in patients at higher risk of developing QT interval prolongation. Monitoring electrocardiograms and electrolytes should be considered. (  5.2  ) 
+ *    Cardiac dysfunction such as congestive heart failure and decreased left ventricular ejection fraction (LVEF) have occurred. Monitor blood pressure and manage hypertension promptly. Baseline and periodic evaluation of LVEF is recommended in patients at risk of cardiac dysfunction. (  5.3  ) 
+ *    Fatal hemorrhagic events have been reported. VOTRIENT has not been studied in patients who have a history of hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months and should not be used in those patients. (  5.4  ) 
+ *    Arterial thromboembolic events have been observed and can be fatal. Use with caution in patients who are at increased risk for these events. (  5.5  ) 
+ *    Venous thromboembolic events (VTE) have been observed, including fatal pulmonary emboli (PE). Monitor for signs and symptoms of VTE and PE. (  5.6  ) 
+ *    Thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS) has been observed. Permanently discontinue VOTRIENT if TMA occurs. (  5.7  ) 
+ *    Gastrointestinal perforation or fistula has occurred. Fatal perforation events have occurred. Use with caution in patients at risk for gastrointestinal perforation or fistula. (  5.8  ) 
+ *    Interstitial lung disease (ILD)/pneumonitis have been observed and can be fatal. Discontinue VOTRIENT in patients developing ILD or pneumonitis. (  5.9  ) 
+ *    Reversible Posterior Leukoencephalopathy Syndrome (RPLS) has been observed and can be fatal. Permanently discontinue VOTRIENT in patients developing RPLS. (  5.10  ) 
+ *    Hypertension including hypertensive crisis has been observed. Blood pressure should be well controlled prior to initiating VOTRIENT. Monitor blood pressure within one week after starting VOTRIENT and frequently thereafter. (  5.11  ) 
+ *    Interruption of therapy with VOTRIENT is recommended in patients undergoing surgical procedures. (  5.12  ) 
+ *    Hypothyroidism may occur. Monitoring of thyroid function tests is recommended. (  5.13  ) 
+ *    Proteinuria: Monitor urine protein. Interrupt treatment for 24-hour urine protein &gt;=3 grams and discontinue for repeat episodes despite dose reductions. (  5.14  ) 
+ *    Infection: Serious infections (with or without neutropenia), some with fatal outcome, have been reported. Monitor for signs and symptoms and treat active infection promptly. Interrupt or discontinue VOTRIENT. (  5.15  ) 
+ *    Animal studies have demonstrated VOTRIENT can severely affect organ growth and maturation during early post-natal development. The safety and effectiveness in pediatric patients have not been established. (  5.17  ) 
+ *    VOTRIENT can cause fetal harm when administered to a pregnant woman. Advise females of reproductive potential of the potential hazard to the fetus and to use effective contraception. (  5.18  ,  8.1  ) 
+    
+ 
+
+   5.1 Hepatic Toxicity and Hepatic Impairment
+
+
+
+  In clinical trials with VOTRIENT, hepatotoxicity, manifested as increases in serum transaminases (ALT, AST) and bilirubin, was observed. This hepatotoxicity can be severe and fatal. Patients older than 65 years are at greater risk for hepatotoxicity [see Use in Specific Populations (8.5)]  .  Transaminase elevations occur early in the course of treatment (92.5% of all transaminase elevations of any grade occurred in the first 18 weeks) [see Dosage and Administration (2.2)]  .
+
+
+
+ In the randomized RCC trial, ALT &gt;3 X ULN was reported in 18% and 3% of the groups receiving VOTRIENT and placebo, respectively. ALT &gt;10 X ULN was reported in 4% of patients who received VOTRIENT and in &lt;1% of patients who received placebo. Concurrent elevation in ALT &gt;3 X ULN and bilirubin &gt;2 X ULN in the absence of significant alkaline phosphatase &gt;3 X ULN occurred in 2% (5/290) of patients on VOTRIENT and 1% (2/145) on placebo.
+
+
+
+ In the randomized STS trial, ALT &gt;3 X ULN was reported in 18% and 5% of the groups receiving VOTRIENT and placebo, respectively. ALT &gt;8 X ULN was reported in 5% and 2% of the groups receiving VOTRIENT and placebo, respectively. Concurrent elevation in ALT &gt;3 X ULN and bilirubin &gt;2 X ULN in the absence of significant alkaline phosphatase &gt;3 X ULN occurred in 2% (4/240) of patients on VOTRIENT and &lt;1% (1/123) on placebo.
+
+
+
+ Two-tenths percent of the patients (2/977) from trials that supported the RCC indication died with disease progression and hepatic failure and 0.4% of patients (1/240) in the randomized STS trial died of hepatic failure.
+
+
+
+ *    Monitor serum liver tests before initiation of treatment with VOTRIENT and at Weeks 3, 5, 7, and 9. Thereafter, monitor at Month 3 and at Month 4, and as clinically indicated. Periodic monitoring should then continue after Month 4. 
+ *    Patients with isolated ALT elevations between 3 X ULN and 8 X ULN may be continued on VOTRIENT with weekly monitoring of liver function until ALT returns to Grade 1 or baseline. 
+ *    Patients with isolated ALT elevations of &gt;8 X ULN should have VOTRIENT interrupted until they return to Grade 1 or baseline. If the potential benefit for reinitiating treatment with VOTRIENT is considered to outweigh the risk for hepatotoxicity, then reintroduce VOTRIENT at a reduced dose of no more than 400 mg once daily and measure serum liver tests weekly for 8 weeks [see Dosage and Administration (2.2)] . Following reintroduction of VOTRIENT, if ALT elevations &gt;3 X ULN recur, then VOTRIENT should be permanently discontinued. 
+ *    If ALT elevations &gt;3 X ULN occur concurrently with bilirubin elevations &gt;2 X ULN, VOTRIENT should be permanently discontinued. Patients should be monitored until resolution. VOTRIENT is a uridine diphosphate (UDP)-glucuronosyl transferase 1A1 (UGT1A1) inhibitor. Mild, indirect (unconjugated) hyperbilirubinemia may occur in patients with Gilbert's syndrome [see Clinical Pharmacology (12.5)] . Patients with only a mild indirect hyperbilirubinemia, known Gilbert's syndrome, and elevation in ALT &gt;3 X ULN should be managed as per the recommendations outlined for isolated ALT elevations. 
+    Concomitant use of VOTRIENT and simvastatin increases the risk of ALT elevations and should be undertaken with caution and close monitoring [see Drug Interactions (7.4)]  . Insufficient data are available to assess the risk of concomitant administration of alternative statins and VOTRIENT.
+ 
+
+ In patients with pre-existing moderate hepatic impairment, the starting dose of VOTRIENT should be reduced or alternatives to VOTRIENT should be considered. Treatment with VOTRIENT is not recommended in patients with pre-existing severe hepatic impairment, defined as total bilirubin &gt;3 X ULN with any level of ALT [see Dosage and Administration (2.2), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]  .
+
+
+
+    5.2 QT Prolongation and Torsades de Pointes
+
+
+
+  In the RCC trials of VOTRIENT, QT prolongation (&gt;=500 msec) was identified on routine electrocardiogram monitoring in 2% (11/558) of patients. Torsades de pointes occurred in &lt;1% (2/977) of patients who received VOTRIENT in the monotherapy trials.
+
+
+
+ In the randomized RCC and STS trials, 1% (3/290) of patients and 0.4% (1/240) of patients, respectively, who received VOTRIENT had post-baseline values between 500 to 549 msec. Post-baseline QT data were only collected in the STS trial if ECG abnormalities were reported as an adverse reaction. None of the 268 patients who received placebo on the two trials had post-baseline QTc values &gt;=500 msec.
+
+
+
+ VOTRIENT should be used with caution in patients with a history of QT interval prolongation, in patients taking antiarrhythmics or other medications that may prolong QT interval, and those with relevant pre-existing cardiac disease. When using VOTRIENT, baseline and periodic monitoring of electrocardiograms and maintenance of electrolytes (e.g., calcium, magnesium, potassium) within the normal range should be performed.
+
+
+
+    5.3 Cardiac Dysfunction
+
+
+
+  In clinical trials with VOTRIENT, events of cardiac dysfunction such as decreased left ventricular ejection fraction (LVEF) and congestive heart failure have occurred. In the overall safety population for RCC (N = 586), cardiac dysfunction was observed in 0.6% (4/586) of patients without routine on-study LVEF monitoring. In a randomized RCC trial of VOTRIENT compared with sunitinib, myocardial dysfunction was defined as symptoms of cardiac dysfunction or &gt;=15% absolute decline in LVEF compared with baseline or a decline in LVEF of &gt;=10% compared with baseline that is also below the lower limit of normal. In patients who had baseline and follow up LVEF measurements, myocardial dysfunction occurred in 13% (47/362) of patients on VOTRIENT compared with 11% (42/369) of patients on sunitinib. Congestive heart failure occurred in 0.5% of patients on each arm. In the randomized STS trial, myocardial dysfunction occurred in 11% (16/142) of patients on VOTRIENT compared with 5% (2/40) of patients on placebo. One percent (3/240) of patients on VOTRIENT in the STS trial had congestive heart failure which did not resolve in one patient.
+
+
+
+ Fourteen of the 16 patients with myocardial dysfunction treated with VOTRIENT in the STS trial had concurrent hypertension which may have exacerbated cardiac dysfunction in patients at risk (e.g., those with prior anthracycline therapy) possibly by increasing cardiac afterload. Blood pressure should be monitored and managed promptly using a combination of anti-hypertensive therapy and dose modification of VOTRIENT (interruption and re-initiation at a reduced dose based on clinical judgment) [see Warnings and Precautions (5.11)]  . Patients should be carefully monitored for clinical signs or symptoms of congestive heart failure. Baseline and periodic evaluation of LVEF is recommended in patients at risk of cardiac dysfunction including previous anthracycline exposure.
+
+
+
+    5.4 Hemorrhagic Events
+
+
+
+  Fatal hemorrhage occurred in 0.9% (5/586) in the RCC trials; there were no reports of fatal hemorrhage in the STS trials. In the randomized RCC trial, 13% (37/290) of patients treated with VOTRIENT and 5% (7/145) of patients on placebo experienced at least 1 hemorrhagic event. The most common hemorrhagic events in the patients treated with VOTRIENT were hematuria (4%), epistaxis (2%), hemoptysis (2%), and rectal hemorrhage (1%). Nine of 37 patients treated with VOTRIENT who had hemorrhagic events experienced serious events including pulmonary, gastrointestinal, and genitourinary hemorrhage. One percent (4/290) of patients treated with VOTRIENT died from hemorrhage compared with no (0/145) patients on placebo. In the overall safety population in RCC (N = 586), cerebral/intracranial hemorrhage was observed in &lt;1% (2/586) of patients treated with VOTRIENT.
+
+
+
+ In the randomized STS trial, 22% (53/240) of patients treated with VOTRIENT compared with 8% (10/123) treated with placebo experienced at least 1 hemorrhagic event. The most common hemorrhagic events were epistaxis (8%), mouth hemorrhage (3%), and anal hemorrhage (2%). Grade 4 hemorrhagic events in the STS population occurred in 1% (3/240) of patients and included intracranial hemorrhage, subarachnoid hemorrhage, and peritoneal hemorrhage.
+
+
+
+ VOTRIENT has not been studied in patients who have a history of hemoptysis, cerebral hemorrhage, or clinically significant gastrointestinal hemorrhage in the past 6 months and should not be used in those patients.
+
+
+
+    5.5 Arterial Thromboembolic Events
+
+
+
+  Fatal arterial thromboembolic events were observed in 0.3% (2/586) of patients in the RCC trials and in no patients in the STS trials. In the randomized RCC trial, 2% (5/290) of patients receiving VOTRIENT experienced myocardial infarction or ischemia, 0.3% (1/290) had a cerebrovascular accident, and 1% (4/290) had an event of transient ischemic attack. In the randomized STS trial, 2% (4/240) of patients receiving VOTRIENT experienced a myocardial infarction or ischemia, 0.4% (1/240) had a cerebrovascular accident, and there were no incidents of transient ischemic attack. No arterial thromboembolic events were reported in patients who received placebo in either trial. VOTRIENT should be used with caution in patients who are at increased risk for these events or who have had a history of these events. VOTRIENT has not been studied in patients who have had an arterial thromboembolic event within the previous 6 months and should not be used in those patients.
+
+
+
+    5.6 Venous Thromboembolic Events
+
+
+
+  In RCC and STS trials of VOTRIENT, venous thromboembolic events (VTE) including venous thrombosis and fatal pulmonary embolus (PE) have occurred. In the randomized STS trial, venous thromboembolic events were reported in 5% of patients treated with VOTRIENT compared with 2% with placebo. In the randomized RCC trial, the rate was 1% in both arms. Fatal pulmonary embolus occurred in 1% (2/240) of STS patients receiving VOTRIENT and in no patients receiving placebo. There were no fatal pulmonary emboli in the RCC trial. Monitor for signs and symptoms of VTE and PE.
+
+
+
+    5.7 Thrombotic Microangiopathy
+
+
+
+  Thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS), has been reported in clinical trials of VOTRIENT as monotherapy, in combination with bevacizumab, and in combination with topotecan. VOTRIENT is not indicated for use in combination with other agents. Six of the 7 TMA cases occurred within 90 days of the initiation of VOTRIENT. Improvement of TMA was observed after treatment was discontinued. Monitor for signs and symptoms of TMA. Permanently discontinue VOTRIENT in patients developing TMA. Manage as clinically indicated.
+
+
+
+    5.8 Gastrointestinal Perforation and Fistula
+
+
+
+  In the RCC and STS trials, gastrointestinal perforation or fistula occurred in 0.9% (5/586) of patients and 1% (4/382) of patients receiving VOTRIENT, respectively. Fatal perforations occurred in 0.3% (2/586) of these patients in the RCC trials and in 0.3% (1/382) of these patients in the STS trials. Monitor for signs and symptoms of gastrointestinal perforation or fistula.
+
+
+
+    5.9 Interstitial Lung Disease (ILD)/Pneumonitis
+
+
+
+   ILD/pneumonitis, which can be fatal, has been reported in association with VOTRIENT. In clinical trials, ILD/pneumonitis occurred in 0.1% of patients treated with VOTRIENT.  
+
+
+
+  Monitor patients for pulmonary symptoms indicative of ILD/pneumonitis and discontinue VOTRIENT in patients developing ILD or pneumonitis.  
+
+
+
+    5.10 Reversible Posterior Leukoencephalopathy Syndrome
+
+
+
+  Reversible Posterior Leukoencephalopathy Syndrome (RPLS) has been reported in patients receiving VOTRIENT and may be fatal.
+
+
+
+ RPLS is a neurological disorder which can present with headache, seizure, lethargy, confusion, blindness, and other visual and neurologic disturbances. Mild to severe hypertension may be present. The diagnosis of RPLS is optimally confirmed by magnetic resonance imaging. Permanently discontinue VOTRIENT in patients developing RPLS.
+
+
+
+    5.11 Hypertension
+
+
+
+  In clinical trials, hypertension (systolic blood pressure &gt;=150 or diastolic blood pressure &gt;=100 mm Hg) and hypertensive crisis were observed in patients treated with VOTRIENT. Blood pressure should be well controlled prior to initiating VOTRIENT. Hypertension occurs early in the course of treatment (40% of cases occurred by Day 9 and 90% of cases occurred in the first 18 weeks). Blood pressure should be monitored early after starting treatment (no longer than one week) and frequently thereafter to ensure blood pressure control. Approximately 40% of patients who received VOTRIENT experienced hypertension. Grade 3 hypertension was reported in 4% to 7% of patients receiving VOTRIENT [see Adverse Reactions (6.1)]  .
+
+
+
+ Increased blood pressure should be treated promptly with standard anti-hypertensive therapy and dose reduction or interruption of VOTRIENT as clinically warranted. VOTRIENT should be discontinued if there is evidence of hypertensive crisis or if hypertension is severe and persistent despite anti-hypertensive therapy and dose reduction. Approximately 1% of patients required permanent discontinuation of VOTRIENT because of hypertension [see Dosage and Administration (2.2)]  .
+
+
+
+    5.12 Wound Healing
+
+
+
+  No formal trials on the effect of VOTRIENT on wound healing have been conducted. Since vascular endothelial growth factor receptor (VEGFR) inhibitors such as pazopanib may impair wound healing, treatment with VOTRIENT should be stopped at least 7 days prior to scheduled surgery. The decision to resume VOTRIENT after surgery should be based on clinical judgment of adequate wound healing. VOTRIENT should be discontinued in patients with wound dehiscence.
+
+
+
+    5.13 Hypothyroidism
+
+
+
+  Hypothyroidism, confirmed based on a simultaneous rise of TSH and decline of T4, was reported in 7% (19/290) of patients treated with VOTRIENT in the randomized RCC trial and in 5% (11/240) of patients treated with VOTRIENT in the randomized STS trial. No patients on the placebo arm of either trial had hypothyroidism. In RCC and STS trials of VOTRIENT, hypothyroidism was reported as an adverse reaction in 4% (26/586) and 5% (20/382) of patients, respectively. Proactive monitoring of thyroid function tests is recommended.
+
+
+
+    5.14 Proteinuria
+
+
+
+  In the randomized RCC trial, proteinuria was reported as an adverse reaction in 9% (27/290) of patients receiving VOTRIENT and in no patients receiving placebo. In 2 patients, proteinuria led to discontinuation of treatment with VOTRIENT. In the randomized STS trial, proteinuria was reported as an adverse reaction in 1% (2/240) of patients, and nephrotic syndrome was reported in 1 patient treated with VOTRIENT compared with none in patients receiving placebo. Treatment was withdrawn in the patient with nephrotic syndrome.
+
+
+
+ Baseline and periodic urinalysis during treatment is recommended with follow up measurement of 24-hour urine protein as clinically indicated. Interrupt VOTRIENT and dose reduce for 24-hour urine protein &gt;=3 grams; discontinue VOTRIENT for repeat episodes despite dose reductions [see Dosage and Administration (2.2)]  .
+
+
+
+    5.15 Infection
+
+
+
+  Serious infections (with or without neutropenia), including some with fatal outcome, have been reported. Monitor patients for signs and symptoms of infection. Institute appropriate anti-infective therapy promptly and consider interruption or discontinuation of VOTRIENT for serious infections.
+
+
+
+    5.16 Increased Toxicity with Other Cancer Therapy
+
+
+
+  VOTRIENT is not indicated for use in combination with other agents. Clinical trials of VOTRIENT in combination with pemetrexed and lapatinib were terminated early due to concerns over increased toxicity and mortality. The fatal toxicities observed included pulmonary hemorrhage, gastrointestinal hemorrhage, and sudden death. A safe and effective combination dose has not been established with these regimens.
+
+
+
+    5.17 Increased Toxicity in Developing Organs
+
+
+
+  The safety and effectiveness of VOTRIENT in pediatric patients have not been established. VOTRIENT is not indicated for use in pediatric patients. Based on its mechanism of action, pazopanib may have severe effects on organ growth and maturation during early post-natal development. Administration of pazopanib to juvenile rats less than 21 days old resulted in toxicity to the lungs, liver, heart, and kidney and in death at doses significantly lower than the clinically recommended dose or doses tolerated in older animals. VOTRIENT may potentially cause serious adverse effects on organ development in pediatric patients, particularly in patients younger than 2 years of age [see Use in Specific Populations (8.4)]  .
+
+
+
+    5.18 Pregnancy
+
+
+
+  VOTRIENT can cause fetal harm when administered to a pregnant woman. Based on its mechanism of action, VOTRIENT is expected to result in adverse reproductive effects. In pre-clinical studies in rats and rabbits, pazopanib was teratogenic, embryotoxic, fetotoxic, and abortifacient.
+
+
+
+ There are no adequate and well-controlled studies of VOTRIENT in pregnant women. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant while taking VOTRIENT [see Use in Specific Populations (8.1)]  .
+</Section>
+    <Section name="warnings and precautions" id="S6">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Increases in serum transaminase levels and bilirubin were observed. Severe and fatal hepatotoxicity has occurred. Measure liver chemistries before the initiation of treatment and regularly during treatment. (  5.1  ) 
+ *    Prolonged QT intervals and torsades de pointes have been observed. Use with caution in patients at higher risk of developing QT interval prolongation. Monitoring electrocardiograms and electrolytes should be considered. (  5.2  ) 
+ *    Cardiac dysfunction such as congestive heart failure and decreased left ventricular ejection fraction (LVEF) have occurred. Monitor blood pressure and manage hypertension promptly. Baseline and periodic evaluation of LVEF is recommended in patients at risk of cardiac dysfunction. (  5.3  ) 
+ *    Fatal hemorrhagic events have been reported. VOTRIENT has not been studied in patients who have a history of hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months and should not be used in those patients. (  5.4  ) 
+ *    Arterial thromboembolic events have been observed and can be fatal. Use with caution in patients who are at increased risk for these events. (  5.5  ) 
+ *    Venous thromboembolic events (VTE) have been observed, including fatal pulmonary emboli (PE). Monitor for signs and symptoms of VTE and PE. (  5.6  ) 
+ *    Thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS) has been observed. Permanently discontinue VOTRIENT if TMA occurs. (  5.7  ) 
+ *    Gastrointestinal perforation or fistula has occurred. Fatal perforation events have occurred. Use with caution in patients at risk for gastrointestinal perforation or fistula. (  5.8  ) 
+ *    Interstitial lung disease (ILD)/pneumonitis have been observed and can be fatal. Discontinue VOTRIENT in patients developing ILD or pneumonitis. (  5.9  ) 
+ *    Reversible Posterior Leukoencephalopathy Syndrome (RPLS) has been observed and can be fatal. Permanently discontinue VOTRIENT in patients developing RPLS. (  5.10  ) 
+ *    Hypertension including hypertensive crisis has been observed. Blood pressure should be well controlled prior to initiating VOTRIENT. Monitor blood pressure within one week after starting VOTRIENT and frequently thereafter. (  5.11  ) 
+ *    Interruption of therapy with VOTRIENT is recommended in patients undergoing surgical procedures. (  5.12  ) 
+ *    Hypothyroidism may occur. Monitoring of thyroid function tests is recommended. (  5.13  ) 
+ *    Proteinuria: Monitor urine protein. Interrupt treatment for 24-hour urine protein &gt;=3 grams and discontinue for repeat episodes despite dose reductions. (  5.14  ) 
+ *    Infection: Serious infections (with or without neutropenia), some with fatal outcome, have been reported. Monitor for signs and symptoms and treat active infection promptly. Interrupt or discontinue VOTRIENT. (  5.15  ) 
+ *    Animal studies have demonstrated VOTRIENT can severely affect organ growth and maturation during early post-natal development. The safety and effectiveness in pediatric patients have not been established. (  5.17  ) 
+ *    VOTRIENT can cause fetal harm when administered to a pregnant woman. Women of childbearing potential should be advised of the potential hazard to the fetus and to avoid becoming pregnant while taking VOTRIENT. (  5.18  ,  8.1  ) 
+    
+ 
+
+   5.1 Hepatic Toxicity and Hepatic Impairment
+
+
+
+  In clinical trials with VOTRIENT, hepatotoxicity, manifested as increases in serum transaminases (ALT, AST) and bilirubin, was observed. This hepatotoxicity can be severe and fatal. Patients older than 65 years are at greater risk for hepatotoxicity [see Use in Specific Populations (8.5)]  .  Transaminase elevations occur early in the course of treatment (92.5% of all transaminase elevations of any grade occurred in the first 18 weeks) [see Dosage and Administration (2.2)]  .
+
+
+
+ In the randomized RCC trial, ALT &gt;3 X ULN was reported in 18% and 3% of the groups receiving VOTRIENT and placebo, respectively. ALT &gt;10 X ULN was reported in 4% of patients who received VOTRIENT and in &lt;1% of patients who received placebo. Concurrent elevation in ALT &gt;3 X ULN and bilirubin &gt;2 X ULN in the absence of significant alkaline phosphatase &gt;3 X ULN occurred in 2% (5/290) of patients on VOTRIENT and 1% (2/145) on placebo.
+
+
+
+ In the randomized STS trial, ALT &gt;3 X ULN was reported in 18% and 5% of the groups receiving VOTRIENT and placebo, respectively. ALT &gt;8 X ULN was reported in 5% and 2% of the groups receiving VOTRIENT and placebo, respectively. Concurrent elevation in ALT &gt;3 X ULN and bilirubin &gt;2 X ULN in the absence of significant alkaline phosphatase &gt;3 X ULN occurred in 2% (4/240) of patients on VOTRIENT and &lt;1% (1/123) on placebo.
+
+
+
+ Two-tenths percent of the patients (2/977) from trials that supported the RCC indication died with disease progression and hepatic failure and 0.4% of patients (1/240) in the randomized STS trial died of hepatic failure.
+
+
+
+ *    Monitor serum liver tests before initiation of treatment with VOTRIENT and at Weeks 3, 5, 7, and 9. Thereafter, monitor at Month 3 and at Month 4, and as clinically indicated. Periodic monitoring should then continue after Month 4. 
+ *    Patients with isolated ALT elevations between 3 X ULN and 8 X ULN may be continued on VOTRIENT with weekly monitoring of liver function until ALT returns to Grade 1 or baseline. 
+ *    Patients with isolated ALT elevations of &gt;8 X ULN should have VOTRIENT interrupted until they return to Grade 1 or baseline. If the potential benefit for reinitiating treatment with VOTRIENT is considered to outweigh the risk for hepatotoxicity, then reintroduce VOTRIENT at a reduced dose of no more than 400 mg once daily and measure serum liver tests weekly for 8 weeks [see Dosage and Administration (2.2)] . Following reintroduction of VOTRIENT, if ALT elevations &gt;3 X ULN recur, then VOTRIENT should be permanently discontinued. 
+ *    If ALT elevations &gt;3 X ULN occur concurrently with bilirubin elevations &gt;2 X ULN, VOTRIENT should be permanently discontinued. Patients should be monitored until resolution. VOTRIENT is a uridine diphosphate (UDP)-glucuronosyl transferase 1A1 (UGT1A1) inhibitor. Mild, indirect (unconjugated) hyperbilirubinemia may occur in patients with Gilbert's syndrome [see Clinical Pharmacology (12.5)] . Patients with only a mild indirect hyperbilirubinemia, known Gilbert's syndrome, and elevation in ALT &gt;3 X ULN should be managed as per the recommendations outlined for isolated ALT elevations. 
+    Concomitant use of VOTRIENT and simvastatin increases the risk of ALT elevations and should be undertaken with caution and close monitoring [see Drug Interactions (7.4)]  . Insufficient data are available to assess the risk of concomitant administration of alternative statins and VOTRIENT.
+ 
+
+ In patients with pre-existing moderate hepatic impairment, the starting dose of VOTRIENT should be reduced or alternatives to VOTRIENT should be considered. Treatment with VOTRIENT is not recommended in patients with pre-existing severe hepatic impairment, defined as total bilirubin &gt;3 X ULN with any level of ALT [see Dosage and Administration (2.2), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]  .
+
+
+
+    5.2 QT Prolongation and Torsades de Pointes
+
+
+
+  In the RCC trials of VOTRIENT, QT prolongation (&gt;=500 msec) was identified on routine electrocardiogram monitoring in 2% (11/558) of patients. Torsades de pointes occurred in &lt;1% (2/977) of patients who received VOTRIENT in the monotherapy trials.
+
+
+
+ In the randomized RCC and STS trials, 1% (3/290) of patients and 0.4% (1/240) of patients, respectively, who received VOTRIENT had post-baseline values between 500 to 549 msec. Post-baseline QT data were only collected in the STS trial if ECG abnormalities were reported as an adverse reaction. None of the 268 patients who received placebo on the two trials had post-baseline QTc values &gt;=500 msec.
+
+
+
+ VOTRIENT should be used with caution in patients with a history of QT interval prolongation, in patients taking antiarrhythmics or other medications that may prolong QT interval, and those with relevant pre-existing cardiac disease. When using VOTRIENT, baseline and periodic monitoring of electrocardiograms and maintenance of electrolytes (e.g., calcium, magnesium, potassium) within the normal range should be performed.
+
+
+
+    5.3 Cardiac Dysfunction
+
+
+
+  In clinical trials with VOTRIENT, events of cardiac dysfunction such as decreased left ventricular ejection fraction (LVEF) and congestive heart failure have occurred. In the overall safety population for RCC (N = 586), cardiac dysfunction was observed in 0.6% (4/586) of patients without routine on-study LVEF monitoring. In a randomized RCC trial of VOTRIENT compared with sunitinib, myocardial dysfunction was defined as symptoms of cardiac dysfunction or &gt;=15% absolute decline in LVEF compared with baseline or a decline in LVEF of &gt;=10% compared with baseline that is also below the lower limit of normal. In patients who had baseline and follow up LVEF measurements, myocardial dysfunction occurred in 13% (47/362) of patients on VOTRIENT compared with 11% (42/369) of patients on sunitinib. Congestive heart failure occurred in 0.5% of patients on each arm.   In the randomized STS trial, myocardial dysfunction occurred in 11% (16/142) of patients on VOTRIENT compared with 5% (2/40) of patients on placebo. One percent (3/240) of patients on VOTRIENT in the STS trial had congestive heart failure which did not resolve in one patient.
+
+
+
+ Fourteen of the 16 patients with myocardial dysfunction treated with VOTRIENT in the STS trial had concurrent hypertension which may have exacerbated cardiac dysfunction in patients at risk (e.g., those with prior anthracycline therapy) possibly by increasing cardiac afterload. Blood pressure should be monitored and managed promptly using a combination of anti-hypertensive therapy and dose modification of VOTRIENT (interruption and re-initiation at a reduced dose based on clinical judgment) [see Warnings and Precautions (5.11)]  . Patients should be carefully monitored for clinical signs or symptoms of congestive heart failure. Baseline and periodic evaluation of LVEF is recommended in patients at risk of cardiac dysfunction including previous anthracycline exposure.
+
+
+
+    5.4 Hemorrhagic Events
+
+
+
+  Fatal hemorrhage occurred in 0.9% (5/586) in the RCC trials; there were no reports of fatal hemorrhage in the STS trials. In the randomized RCC trial, 13% (37/290) of patients treated with VOTRIENT and 5% (7/145) of patients on placebo experienced at least 1 hemorrhagic event. The most common hemorrhagic events in the patients treated with VOTRIENT were hematuria (4%), epistaxis (2%), hemoptysis (2%), and rectal hemorrhage (1%). Nine of 37 patients treated with VOTRIENT who had hemorrhagic events experienced serious events including pulmonary, gastrointestinal, and genitourinary hemorrhage. One percent (4/290) of patients treated with VOTRIENT died from hemorrhage compared with no (0/145) patients on placebo. In the overall safety population in RCC (N = 586), cerebral/intracranial hemorrhage was observed in &lt;1% (2/586) of patients treated with VOTRIENT.
+
+
+
+ In the randomized STS trial, 22% (53/240) of patients treated with VOTRIENT compared with 8% (10/123) treated with placebo experienced at least 1 hemorrhagic event. The most common hemorrhagic events were epistaxis (8%), mouth hemorrhage (3%), and anal hemorrhage (2%). Grade 4 hemorrhagic events in the STS population occurred in 1% (3/240) of patients and included intracranial hemorrhage, subarachnoid hemorrhage, and peritoneal hemorrhage.
+
+
+
+ VOTRIENT has not been studied in patients who have a history of hemoptysis, cerebral hemorrhage, or clinically significant gastrointestinal hemorrhage in the past 6 months and should not be used in those patients.
+
+
+
+    5.5 Arterial Thromboembolic Events
+
+
+
+  Fatal arterial thromboembolic events were observed in 0.3% (2/586) of patients in the RCC trials and in no patients in the STS trials. In the randomized RCC trial, 2% (5/290) of patients receiving VOTRIENT experienced myocardial infarction or ischemia, 0.3% (1/290) had a cerebrovascular accident, and 1% (4/290) had an event of transient ischemic attack. In the randomized STS trial, 2% (4/240) of patients receiving VOTRIENT experienced a myocardial infarction or ischemia, 0.4% (1/240) had a cerebrovascular accident and there were no incidents of transient ischemic attack. No arterial thromboembolic events were reported in patients who received placebo in either trial. VOTRIENT should be used with caution in patients who are at increased risk for these events or who have had a history of these events. VOTRIENT has not been studied in patients who have had an arterial thromboembolic event within the previous 6 months and should not be used in those patients.
+
+
+
+    5.6 Venous Thromboembolic Events
+
+
+
+  In RCC and STS trials of VOTRIENT, venous thromboembolic events (VTE) including venous thrombosis and fatal pulmonary embolus (PE) have occurred. In the randomized STS trial, venous thromboembolic events were reported in 5% of patients treated with VOTRIENT compared with 2% with placebo. In the randomized RCC trial, the rate was 1% in both arms. Fatal pulmonary embolus occurred in 1% (2/240) of STS patients receiving VOTRIENT and in no patients receiving placebo. There were no fatal pulmonary emboli in the RCC trial. Monitor for signs and symptoms of VTE and PE.
+
+
+
+    5.7 Thrombotic Microangiopathy
+
+
+
+  Thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS), has been reported in clinical trials of VOTRIENT as monotherapy, in combination with bevacizumab, and in combination with topotecan. VOTRIENT is not indicated for use in combination with other agents. Six of the 7 TMA cases occurred within 90 days of the initiation of VOTRIENT. Improvement of TMA was observed after treatment was discontinued. Monitor for signs and symptoms of TMA. Permanently discontinue VOTRIENT in patients developing TMA. Manage as clinically indicated.
+
+
+
+    5.8 Gastrointestinal Perforation and Fistula
+
+
+
+  In the RCC and STS trials, gastrointestinal perforation or fistula occurred in 0.9% (5/586) of patients and 1% (4/382) of patients receiving VOTRIENT, respectively. Fatal perforations occurred in 0.3% (2/586) of these patients in the RCC trials and in 0.3% (1/382) of these patients in the STS trials. Monitor for signs and symptoms of gastrointestinal perforation or fistula.
+
+
+
+    5.9 Interstitial Lung Disease (ILD)/Pneumonitis
+
+
+
+   ILD/pneumonitis, which can be fatal, has been reported in association with VOTRIENT. In clinical trials, ILD/pneumonitis occurred in 0.1% of patients treated with VOTRIENT.  
+
+
+
+  Monitor patients for pulmonary symptoms indicative of ILD/pneumonitis and discontinue VOTRIENT in patients developing ILD or pneumonitis.  
+
+
+
+    5.10 Reversible Posterior Leukoencephalopathy Syndrome
+
+
+
+  Reversible Posterior Leukoencephalopathy Syndrome (RPLS) has been reported in patients receiving VOTRIENT and may be fatal.
+
+
+
+ RPLS is a neurological disorder which can present with headache, seizure, lethargy, confusion, blindness, and other visual and neurologic disturbances. Mild to severe hypertension may be present. The diagnosis of RPLS is optimally confirmed by magnetic resonance imaging. Permanently discontinue VOTRIENT in patients developing RPLS.
+
+
+
+    5.11 Hypertension
+
+
+
+  In clinical trials, hypertension (systolic blood pressure &gt;=150 or diastolic blood pressure &gt;=100 mm Hg) and hypertensive crisis were observed in patients treated with VOTRIENT. Blood pressure should be well controlled prior to initiating VOTRIENT. Hypertension occurs early in the course of treatment (40% of cases occurred by Day 9 and 90% of cases occurred in the first 18 weeks). Blood pressure should be monitored early after starting treatment (no longer than one week) and frequently thereafter to ensure blood pressure control. Approximately 40% of patients who received VOTRIENT experienced hypertension. Grade 3 hypertension was reported in 4% to 7% of patients receiving VOTRIENT [see Adverse Reactions (6.1)]  .
+
+
+
+ Increased blood pressure should be treated promptly with standard anti-hypertensive therapy and dose reduction or interruption of VOTRIENT as clinically warranted. VOTRIENT should be discontinued if there is evidence of hypertensive crisis or if hypertension is severe and persistent despite anti-hypertensive therapy and dose reduction. Approximately 1% of patients required permanent discontinuation of VOTRIENT because of hypertension [see Dosage and Administration (2.2)]  .
+
+
+
+    5.12 Wound Healing
+
+
+
+  No formal trials on the effect of VOTRIENT on wound healing have been conducted. Since vascular endothelial growth factor receptor (VEGFR) inhibitors such as pazopanib may impair wound healing, treatment with VOTRIENT should be stopped at least 7 days prior to scheduled surgery. The decision to resume VOTRIENT after surgery should be based on clinical judgment of adequate wound healing. VOTRIENT should be discontinued in patients with wound dehiscence.
+
+
+
+    5.13 Hypothyroidism
+
+
+
+  Hypothyroidism, confirmed based on a simultaneous rise of TSH and decline of T4, was reported in 7% (19/290) of patients treated with VOTRIENT in the randomized RCC trial and in 5% (11/240) of patients treated with VOTRIENT in the randomized STS trial. No patients on the placebo arm of either trial had hypothyroidism. In RCC and STS trials of VOTRIENT, hypothyroidism was reported as an adverse reaction in 4% (26/586) and 5% (20/382) of patients, respectively. Proactive monitoring of thyroid function tests is recommended.
+
+
+
+    5.14 Proteinuria
+
+
+
+  In the randomized RCC trial, proteinuria was reported as an adverse reaction in 9% (27/290) of patients receiving VOTRIENT and in no patients receiving placebo. In 2 patients, proteinuria led to discontinuation of treatment with VOTRIENT. In the randomized STS trial, proteinuria was reported as an adverse reaction in 1% (2/240) of patients, and nephrotic syndrome was reported in 1 patient treated with VOTRIENT compared with none in patients receiving placebo. Treatment was withdrawn in the patient with nephrotic syndrome.
+
+
+
+ Baseline and periodic urinalysis during treatment is recommended with follow up measurement of 24-hour urine protein as clinically indicated. Interrupt VOTRIENT and dose reduce for 24-hour urine protein &gt;=3 grams; discontinue VOTRIENT for repeat episodes despite dose reductions [see Dosage and Administration (2.2)]  .
+
+
+
+    5.15 Infection
+
+
+
+  Serious infections (with or without neutropenia), including some with fatal outcome, have been reported. Monitor patients for signs and symptoms of infection. Institute appropriate anti-infective therapy promptly and consider interruption or discontinuation of VOTRIENT for serious infections.
+
+
+
+    5.16 Increased Toxicity with Other Cancer Therapy
+
+
+
+  VOTRIENT is not indicated for use in combination with other agents. Clinical trials of VOTRIENT in combination with pemetrexed and lapatinib were terminated early due to concerns over increased toxicity and mortality. The fatal toxicities observed included pulmonary hemorrhage, gastrointestinal hemorrhage, and sudden death. A safe and effective combination dose has not been established with these regimens.
+
+
+
+    5.17 Increased Toxicity in Developing Organs
+
+
+
+  The safety and effectiveness of VOTRIENT in pediatric patients have not been established. VOTRIENT is not indicated for use in pediatric patients. Based on its mechanism of action, pazopanib may have severe effects on organ growth and maturation during early post-natal development. Administration of pazopanib to juvenile rats less than 21 days old resulted in toxicity to the lungs, liver, heart, and kidney and in death at doses significantly lower than the clinically recommended dose or doses tolerated in older animals. VOTRIENT may potentially cause serious adverse effects on organ development in pediatric patients, particularly in patients younger than 2 years of age [see Use in Specific Populations (8.4)]  .
+
+
+
+    5.18 Pregnancy
+
+
+
+  VOTRIENT can cause fetal harm when administered to a pregnant woman. Based on its mechanism of action, VOTRIENT is expected to result in adverse reproductive effects. In pre-clinical studies in rats and rabbits, pazopanib was teratogenic, embryotoxic, fetotoxic, and abortifacient.
+
+
+
+ There are no adequate and well-controlled studies of VOTRIENT in pregnant women. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant while taking VOTRIENT [see Use in Specific Populations (8.1)]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

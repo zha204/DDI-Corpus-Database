@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vpriv" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions during clinical studies in &gt;= 10% of patients were: hypersensitivity reactions, headache, dizziness, abdominal pain, nausea, back pain, joint pain, prolonged activated PTT, fatigue/asthenia, and pyrexia (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Shire Human Genetic Therapies, Inc. at 1-866-888-0660, option 2 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure of 94 patients with type 1 Gaucher disease who received VPRIV at doses ranging from 15 Units/kg to 60 Units/kg every other week in 5 clinical studies. Fifty-four (54) patients were naive to enzyme replacement therapy (ERT) and received VPRIV for 9 months and 40 patients switched from imiglucerase to VPRIV treatment and received VPRIV for 12 months [  see  Clinical Studies (14)    ]. Patients were between 4 and 71 years old at time of first treatment with VPRIV, and included 46 male and 48 female patients.
+
+
+
+ The most serious adverse reactions in patients treated with VPRIV were hypersensitivity reactions [  see  Warnings and Precautions (5.1)    ].
+
+
+
+ The most commonly reported adverse reactions (occurring in &gt;=10% of patients) that were considered related to VPRIV are shown in Table 1. The most common adverse reactions were hypersensitivity reactions.
+
+
+
+ Table 1: Adverse Reactions Observed in &gt;= 10% of Adult and Pediatric Patients with Type 1 Gaucher Disease Treated with VPRIV in the Pooled 5 Clinical Studies 
+                                                                Naive to ERTN = 54   Switched from imiglucerase to VPRIVN = 40   
+ Number of Patients (% )                                        
+  
+ Hypersensitivity reaction                                           28 (52)                9 (23)          
+ Headache                                                            19 (35)               12 (30)          
+ Dizziness                                                           12 (22)                3 (8)           
+ Pyrexia                                                             12 (22)                5 (13)          
+ Abdominal pain                                                      10 (19)                6 (15)          
+ Back pain                                                            9 (17)                7 (18)          
+ Joint pain (knee)                                                    8 (15)                3 (8)           
+ Asthenia/Fatigue                                                     8 (15)                5 (13)          
+ Activated partial thromboplastin time prolonged                      6 (11)                2 (5)           
+ Nausea                                                               3 (6)                 4 (10)          
+         Less common adverse reactions affecting more than one patient (&gt;2% in the treatment-naive group and &gt; 3% in patients switched from imiglucerase to VPRIV treatment) were bone pain, tachycardia, rash, urticaria, flushing, hypertension, and hypotension.
+ 
+
+     Adverse Reactions in Pediatric Patients  
+
+
+
+ The safety profile of VPRIV was similar between pediatric patients (ages 4 to 17 years) and adult patients. Adverse reactions more commonly seen in pediatric patients compared to adult patients include (&gt;10% difference): rash, aPTT prolonged, and pyrexia.
+
+
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is a potential for immunogenicity. In clinical studies, 1 of 54 enzyme treatment-naive patients treated with VPRIV developed IgG class antibodies to VPRIV. In this patient, the antibodies were determined to be neutralizing in an  in vitro  assay. No hypersensitivity reactions were reported for this patient. It is unknown if the presence of IgG antibodies to VPRIV is associated with a higher risk of infusion reactions. Patients with an immune response to other enzyme replacement therapies who are switching to VPRIV should continue to be monitored for antibodies to VPRIV.
+
+
+
+ Immunogenicity assay results are highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to VPRIV with the incidence of antibodies to other products may be misleading.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Hypersensitivity Reactions Including Anaphylaxis :  
+
+
+
+ *  Hypersensitivity reactions including anaphylaxis have occurred.(  5.1  ) 
+ *  Ensure that personnel administering product are adequately trained in cardiopulmonary resuscitative measures, and have ready access to emergency medical services (  5.1  ) 
+ *  Consider slowing infusion rate, treatment with antihistamines, antipyretics and/or corticosteroids, and/or stopping treatment if a hypersensitivity reaction occurs during an infusion. Consider pre-treatment with antihistamines and/or corticosteroids in patients with prior reactions (  5.1  ). 
+    
+ 
+
+   5.1 Hypersensitivity Reactions Including Anaphylaxis
+
+
+
+   Hypersensitivity reactions, including anaphylaxis, occurred in clinical studies and postmarketing experience. [ see  Adverse Reactions (6.1)    ]. Hypersensitivity reactions were the most commonly observed adverse reactions in patients treated with VPRIV in clinical studies. Patients were not routinely pre-medicated prior to infusion of VPRIV during clinical studies. The most commonly observed symptoms of hypersensitivity reactions were: headache, dizziness, hypotension, hypertension, nausea, fatigue/asthenia, and pyrexia/body temperature increased. Generally the reactions were mild and, in treatment-naive patients, onset occurred mostly during the first 6 months of treatment and tended to occur less frequently with time. Additional hypersensitivity reactions of chest discomfort, dyspnea, and pruritus have been reported in post-marketing experience.  
+
+
+
+ As with any intravenous protein product, hypersensitivity reactions are possible, therefore appropriate medical support including personnel adequately trained in cardiopulmonary resuscitative measures and access to emergency measures should be readily available when VPRIV is administered. If anaphylactic or other acute reactions occur, immediately discontinue the infusion of VPRIV and initiate appropriate medical treatment.
+
+
+
+ The management of hypersensitivity reactions should be based on the severity of the reaction, e.g., slowing the infusion rate, treatment with medications such as antihistamines, antipyretics and/or corticosteroids, and/or stopping and resuming treatment with increased infusion time. In cases where patients have exhibited symptoms of hypersensitivity to the active ingredient or excipients in the drug product or to other enzyme replacement therapy, pre-treatment with antihistamines and/or corticosteroids may prevent subsequent reactions.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

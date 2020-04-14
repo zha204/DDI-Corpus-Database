@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="vusion" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Prestium Pharma, Inc. at 1-866-897-5002 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rate observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ A total of 835 infants and young children were evaluated in the clinical development program. Of 418 subjects in the VUSION group, 58 (14%) reported one or more adverse events. Of 417 subjects in the zinc oxide/white petrolatum control group, 85 (20%) reported one or more adverse events. Adverse events that occurred at a rate of &gt;= 1% for subjects who were treated with VUSION were approximately the same in type and frequency as for subjects who were treated with zinc oxide/white petrolatum ointment.
+
+
+
+   6.2 Post-marketing Experience
+
+  The following adverse reactions have been identified during post approval use of VUSION.
+
+
+
+   GASTROINTESTINAL DISORDERS:  vomiting
+
+
+
+   GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS:  burning sensation, condition aggravated, inflammation, pain
+
+
+
+   INJURY, POISONING AND PROCEDURAL COMPLICATIONS:  accidental exposure
+
+
+
+   SKIN AND SUBCUTANEOUS TISSUE DISORDERS:  blister, dermatitis contact, diaper dermatitis, dry skin, erythema, pruritus, rash, skin exfoliation
+
+
+
+ Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  If irritation occurs or if the disease worsens, discontinue use of the medication, and contact the health care provider.
+
+
+
+ The safety and efficacy of VUSION have not been evaluated in incontinent adult patients.  VUSION should not be used to prevent the occurrence of diaper dermatitis, such as in an adult institutional setting, since preventative use may result in the development of drug resistance.    
+
+
+
+    EXCERPT:    *  If irritation occurs or if the disease worsens, discontinue use of the medication, and contact the health care provider. (  5  ) 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

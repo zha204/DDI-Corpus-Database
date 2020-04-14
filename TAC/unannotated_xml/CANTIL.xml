@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cantil" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Precise frequency data from controlled clinical studies with CANTIL are not available.
+
+
+
+   Gastrointestinal System:  vomiting, nausea, constipation, loss of taste, bloated feeling, dry mouth
+
+
+
+   Central Nervous System:  mental confusion, dizziness, weakness, drowsiness, headache, nervousness
+
+
+
+   Ophthalmologic:  increased ocular tension, cycloplegia, blurred vision, dilation of the pupil
+
+
+
+   Dermatologic-Hypersensitivity:  anaphylaxis, urticaria
+
+
+
+   Cardiovascular:  tachycardia, palpitations
+
+
+
+   Genitourinary:  urinary retention, urinary hesitancy
+
+
+
+   Miscellaneous:  decreased sweating, drowsiness, insomnia, impotence, suppression of lactation
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

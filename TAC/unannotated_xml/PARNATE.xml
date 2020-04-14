@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="parnate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Overstimulation which may include increased anxiety, agitation, and manic symptoms is usually evidence of excessive therapeutic action. Dosage should be reduced, or a phenothiazine tranquilizer should be administered concomitantly.
+
+
+
+ Patients may experience restlessness or insomnia; may notice some weakness, drowsiness, episodes of dizziness or dry mouth; or may report nausea, diarrhea, abdominal pain, or constipation. Most of these effects can be relieved by lowering the dosage or by giving suitable concomitant medication.
+
+
+
+ Tachycardia, significant anorexia, edema, palpitation, blurred vision, chills, and impotence have each been reported.
+
+
+
+ Headaches without blood pressure elevation have occurred.
+
+
+
+ Rare instances of hepatitis, skin rash, and alopecia have been reported.
+
+
+
+ Impaired water excretion compatible with the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) has been reported.
+
+
+
+ Tinnitus, muscle spasm, tremors, myoclonic jerks, numbness, paresthesia, urinary retention, and retarded ejaculation have been reported.
+
+
+
+ Hematologic disorders including anemia, leukopenia, agranulocytosis, and thrombocytopenia have been reported.
+
+
+
+   Post-Introduction Reports
+
+  The following are spontaneously reported adverse events temporally associated with use of PARNATE. No clear relationship between PARNATE and these events has been established. Localized scleroderma, flare-up of cystic acne, ataxia, confusion, disorientation, memory loss, urinary frequency, urinary incontinence, urticaria, fissuring in corner of mouth, akinesia.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+    Suicidality and Antidepressant Drugs  
+
+
+
+    Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders. Anyone considering the use of PARNATE or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need. Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older. Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide. Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior. Families and caregivers should be advised of the need for close observation and communication with the prescriber. PARNATE is not approved for use in pediatric patients. (See WARNINGS TO PHYSICIANS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

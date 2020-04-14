@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="imovax" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    *  Once initiated, rabies prophylaxis should not be interrupted or discontinued because of local or mild systemic adverse reactions to rabies vaccine. Usually such reactions can be successfully managed with anti-inflammatory, antihistaminic, and antipyretic agents. (11) 
+ *  Reactions after vaccination with HDCV have been observed. (13) In a study using five doses of HDCV, local reactions such as pain, erythema, swelling or itching at the injection site were reported in about 25% of recipients of HDCV, and mild systemic reactions such as headache, nausea, abdominal pain, muscle aches, and dizziness were reported in about 20% of recipients. (8) 
+ *  Serious systemic anaphylactic or neuroparalytic reactions occurring during the administration of rabies vaccines pose a dilemma for the attending physician. A patient's risk of developing rabies must be carefully considered before deciding to discontinue vaccination. Moreover, the use of corticosteroids to treat life-threatening neuroparalytic reactions carries the risk of inhibiting the development of active immunity to rabies. It is especially important in these cases that the serum of the patient be tested for rabies antibodies. Advice and assistance on the management of serious adverse reactions in persons receiving rabies vaccines may be sought from the local or state health department. (8) 
+ *  SEE  WARNINGS  AND  CONTRAINDICATIONS  SECTIONS FOR ADDITIONAL STATEMENTS. 
+      Data from post-marketing experience
+   The following additional adverse events have been identified during postapproval use of Imovax Rabies vaccine. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Imovax Rabies vaccine exposure.
+
+
+
+   Blood and Lymphatic System Disorders  
+
+
+
+ *     Lymphadenopathy 
+      Immune System Disorders  
+ 
+
+ *     Anaphylactic reaction, serum sickness type reaction, dermatitis allergic, pruritus (itching), edema 
+      Nervous System Disorders  
+ 
+
+ *     Paresthesia, neuropathy, convulsion, encephalitis 
+      Gastrointestinal Disorders  
+ 
+
+ *     Vomiting, diarrhea 
+      Musculoskeletal and Connective Tissue Disorders  
+ 
+
+ *     Arthralgia 
+      General Disorders and Administration Site Conditions  
+ 
+
+ *     Asthenia, malaise, fever and chills (shivering), injection site hematoma 
+      Respiratory, Thoracic, and Mediastinal Disorders  
+ 
+
+ *     Wheezing, dyspnea 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

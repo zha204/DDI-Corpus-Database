@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d456">
+    <sentence id="DDI-DrugBank.d456.s0" text="Co-treatment with the potent CYP3A4 inhibitor ketoconazole increases erlotinib AUC by 2/3.">
+        <entity id="DDI-DrugBank.d456.s0.e0" charOffset="46-57"
+            type="drug" text="ketoconazole"/>
+        <entity id="DDI-DrugBank.d456.s0.e1" charOffset="69-77"
+            type="drug" text="erlotinib"/>
+        <ddi id="DDI-DrugBank.d456.s0.d0" e1="DDI-DrugBank.d456.s0.e0"
+            e2="DDI-DrugBank.d456.s0.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s1" text="Caution should be used when administering or taking TARCEVA with ketoconazole and other strong CYP3A4 inhibitors such as, but not limited to, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, troleandomycin (TAO), and voriconazole .">
+        <entity id="DDI-DrugBank.d456.s1.e0" charOffset="52-58"
+            type="brand" text="TARCEVA"/>
+        <entity id="DDI-DrugBank.d456.s1.e1" charOffset="65-76"
+            type="drug" text="ketoconazole"/>
+        <entity id="DDI-DrugBank.d456.s1.e2" charOffset="142-151"
+            type="drug" text="atazanavir"/>
+        <entity id="DDI-DrugBank.d456.s1.e3" charOffset="154-167"
+            type="drug" text="clarithromycin"/>
+        <entity id="DDI-DrugBank.d456.s1.e4" charOffset="170-178"
+            type="drug" text="indinavir"/>
+        <entity id="DDI-DrugBank.d456.s1.e5" charOffset="181-192"
+            type="drug" text="itraconazole"/>
+        <entity id="DDI-DrugBank.d456.s1.e6" charOffset="195-204"
+            type="drug" text="nefazodone"/>
+        <entity id="DDI-DrugBank.d456.s1.e7" charOffset="207-216"
+            type="drug" text="nelfinavir"/>
+        <entity id="DDI-DrugBank.d456.s1.e8" charOffset="219-227"
+            type="drug" text="ritonavir"/>
+        <entity id="DDI-DrugBank.d456.s1.e9" charOffset="230-239"
+            type="drug" text="saquinavir"/>
+        <entity id="DDI-DrugBank.d456.s1.e10" charOffset="242-254"
+            type="drug" text="telithromycin"/>
+        <entity id="DDI-DrugBank.d456.s1.e11" charOffset="257-270"
+            type="drug" text="troleandomycin"/>
+        <entity id="DDI-DrugBank.d456.s1.e12" charOffset="273-275"
+            type="drug" text="TAO"/>
+        <entity id="DDI-DrugBank.d456.s1.e13" charOffset="283-294"
+            type="drug" text="voriconazole"/>
+        <ddi id="DDI-DrugBank.d456.s1.d0" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e1" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d1" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e2" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d2" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e3" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d3" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e4" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d4" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e5" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d5" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e6" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d6" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e7" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d7" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e8" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d8" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e9" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d9" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e10" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d10" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e11" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d11" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e12" type="advise"/>
+        <ddi id="DDI-DrugBank.d456.s1.d12" e1="DDI-DrugBank.d456.s1.e0"
+            e2="DDI-DrugBank.d456.s1.e13" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s2" text="Pre-treatment with the CYP3A4 inducer rifampicin decreased erlotinib AUC by about 2/3.">
+        <entity id="DDI-DrugBank.d456.s2.e0" charOffset="38-47"
+            type="drug" text="rifampicin"/>
+        <entity id="DDI-DrugBank.d456.s2.e1" charOffset="59-67"
+            type="drug" text="erlotinib"/>
+        <ddi id="DDI-DrugBank.d456.s2.d0" e1="DDI-DrugBank.d456.s2.e0"
+            e2="DDI-DrugBank.d456.s2.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s3" text="Alternate treatments lacking CYP3A4 inducing activity should be considered."/>
+    <sentence id="DDI-DrugBank.d456.s4" text="If an alternative treatment is unavailable, a TARCEVA dose greater than 150 mg should be considered for NSCLC patients, and greater than 100 mg considered for pancreatic cancer patients.">
+        <entity id="DDI-DrugBank.d456.s4.e0" charOffset="46-52"
+            type="brand" text="TARCEVA"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s5" text="If the TARCEVA dose is adjusted upward, the dose will need to be reduced upon discontinuation of rifampicin or other inducers.">
+        <entity id="DDI-DrugBank.d456.s5.e0" charOffset="7-13"
+            type="brand" text="TARCEVA"/>
+        <entity id="DDI-DrugBank.d456.s5.e1" charOffset="97-106"
+            type="drug" text="rifampicin"/>
+        <ddi id="DDI-DrugBank.d456.s5.d0" e1="DDI-DrugBank.d456.s5.e0"
+            e2="DDI-DrugBank.d456.s5.e1" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s6" text="Other CYP3A4 inducers include, but are not limited to, rifabutin, rifapentine, phenytoin, carbamazepine, phenobarbital and St. Johns Wort.">
+        <entity id="DDI-DrugBank.d456.s6.e0" charOffset="55-63"
+            type="drug" text="rifabutin"/>
+        <entity id="DDI-DrugBank.d456.s6.e1" charOffset="66-76"
+            type="drug" text="rifapentine"/>
+        <entity id="DDI-DrugBank.d456.s6.e2" charOffset="79-87"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d456.s6.e3" charOffset="90-102"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d456.s6.e4" charOffset="105-117"
+            type="drug" text="phenobarbital"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s7" text="Hepatotoxicity Asymptomatic increases in liver transaminases have been observed in TARCEVA treated patients;">
+        <entity id="DDI-DrugBank.d456.s7.e0" charOffset="83-89"
+            type="brand" text="TARCEVA"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s8" text="therefore, periodic liver function testing (transaminases, bilirubin, and alkaline phosphatase) should be considered."/>
+    <sentence id="DDI-DrugBank.d456.s9" text="Dose reduction or interruption of TARCEVA should be considered if changes in liver function are severe.">
+        <entity id="DDI-DrugBank.d456.s9.e0" charOffset="34-40"
+            type="brand" text="TARCEVA"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s10" text="Patients with Hepatic Impairment In vitro and in vivo evidence suggest that erlotinib is cleared primarily by the liver.">
+        <entity id="DDI-DrugBank.d456.s10.e0" charOffset="76-84"
+            type="drug" text="erlotinib"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s11" text="Therefore, erlotinib exposure may be increased in patients with hepatic dysfunction.">
+        <entity id="DDI-DrugBank.d456.s11.e0" charOffset="11-19"
+            type="drug" text="erlotinib"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s12" text="Elevated International Normalized Ratio and Potential Bleeding International Normalized Ratio (INR) elevations and infrequent reports of bleeding events including gastrointestinal and non-gastrointestinal bleedings have been reported in clinical studies, some associated with concomitant warfarin administration.">
+        <entity id="DDI-DrugBank.d456.s12.e0" charOffset="288-295"
+            type="drug" text="warfarin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s13" text="Patients taking warfarin or other coumarin-derivative anticoagulants should be monitored regularly for changes in prothrombin time or INR">
+        <entity id="DDI-DrugBank.d456.s13.e0" charOffset="16-23"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d456.s13.e1" charOffset="34-67"
+            type="group" text="coumarin-derivative anticoagulants"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d456.s14" text="."/>
+    <sentence id="DDI-DrugBank.d456.s15" text=""/>
+</document>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="epivir2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *    Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.1)].  
+ *    Exacerbation of hepatitis B after discontinuation of treatment [see Warnings and Precautions (5.2)].  
+ *    Risk of emergence of resistant HIV-1 infection [see Warnings and Precautions (5.3)].  
+ *    Risk of emergence of resistant HBV infection [see Warnings and Precautions (5.4)] . 
+   *    The most common reported adverse reactions in those receiving EPIVIR-HBV (incidence greater than or equal to 10% and reported at a rate greater than placebo) were ear, nose and throat infections, sore throat, and diarrhea. (6.1) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 at 1-877-844-8872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   Adverse Reactions in Clinical Trials of Adults With Chronic Hepatitis B Virus Infection:  Clinical adverse reactions (regardless of investigator's causality assessment) reported in greater or equal to 10% of subjects who received EPIVIR-HBV and reported at a rate greater than placebo are listed in Table 2.
+
+
+
+ Table 2. Clinical Adverse Reactionsa Reported in &gt;=10% of Subjects who Received EPIVIR-HBV for 52 to 68 Weeks and at an Incidence Greater than Placebo (Trials 1-3) 
+  Adverse Event                    EPIVIR-HBV(n = 332)    Placebo(n = 200)    
+  Ear, Nose, and Throat                                           
+  Ear, nose, and throat infections    25%               21%          
+  Sore throat                      13%               8%           
+  Gastrointestinal                                                
+  Diarrhea                         14%               12%          
+           a  Includes adverse events regardless of severity and causality assessment.
+ 
+
+ Specified laboratory abnormalities reported in subjects who received EPIVIR-HBV and reported at a rate greater than in subjects who received placebo are listed in Table 3.
+
+
+
+ Table 3. Frequencies of Specified Laboratory Abnormalities Reported During Treatment at a Greater Frequency in Subjects Treated with EPIVIR-HBV Than With Placebo (Trials 1-3)a 
+  Test(Abnormal Level)          Subjects With Abnormality/Subjects With Observations    
+  EPIVIR-HBV                    Placebo                               
+  Serum Lipase &gt;=2.5 x ULNb     10%                                   7%                      
+  CPK &gt;=7 x baseline            9%                                    5%                      
+  Platelets &lt;50,000/mm3         4%                                    3%                      
+           a  Includes subjects treated for 52 to 68 weeks.
+ 
+
+   b  Includes observations during and after treatment in the 2 placebo-controlled trials that collected this information.
+
+
+
+ ULN = Upper limit of normal.
+
+
+
+ In subjects followed for up to 16 weeks after discontinuation of treatment, posttreatment ALT elevations were observed more frequently in subjects who had received EPIVIR-HBV than in subjects who had received placebo. A comparison of ALT elevations between Weeks 52 and 68 in subjects who discontinued EPIVIR-HBV at Week 52 and subjects in the same trials who received placebo throughout the treatment course is shown in Table 4.
+
+
+
+ Table 4. Posttreatment ALT Elevations With No-Active-Treatment Follow-up (Trails 1 and 3) 
+  Abnormal Value                                                           Subjects With ALT Elevation/Subjects With Observationsa    
+  EPIVIR-HBVb                                                              Placebob              
+  ALT &gt;=2 x baseline value                                                 27%                   19%           
+  ALT &gt;=3 x baseline valuec                                                21%                   8%            
+  ALT &gt;=2 x baseline value and absolute ALT &gt;500 IU/L                      15%                   7%            
+  ALT &gt;=2 x baseline value; and bilirubin &gt;2 x ULN and &gt;=2 x baseline value    0.7%                  0.9%          
+           a  Each subject may be represented in one or more category.
+ 
+
+   b  During treatment phase.
+
+
+
+   c  Comparable to a Grade 3 toxicity in accordance with modified WHO criteria.
+
+
+
+ ULN = Upper limit of normal.
+
+
+
+   Adverse Reactions in Clinical Trials of Pediatric Subjects With Chronic Hepatitis B Virus Infection:  Most commonly observed adverse reactions in the pediatric trials were similar to those in adult trials. Posttreatment transaminase elevations were observed in some subjects followed after cessation of EPIVIR-HBV.
+
+
+
+   6.2 Postmarketing Experience
+
+  In addition to adverse reactions reported from clinical trials, the following adverse reactions have been reported during postmarketing use of EPIVIR-HBV. Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to lamivudine.
+
+
+
+     Blood and Lympatic System Disorders    : Thrombocytopenia.
+
+
+
+     Digestive    : Stomatitis.
+
+
+
+     Endocrine and Metabolic    : Hyperglycemia.
+
+
+
+     General    : Weakness.
+
+
+
+     Blood and Lymphatic    : Anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
+
+
+
+     Hepatic and Pancreatic    : Lactic acidosis and steatosis, posttreatment exacerbation of hepatitis  [see Boxed Warning]  , pancreatitis.
+
+
+
+     Hypersensitivity    : Anaphylaxis, urticaria.
+
+
+
+     Musculoskeletal    : Cramps, rhabdomyolysis.
+
+
+
+     Nervous    : Paresthesia, peripheral neuropathy.
+
+
+
+     Respiratory    : Abnormal breath sounds/wheezing.
+
+
+
+     Skin    : Alopecia, pruritus, rash.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING: RISK OF LACTIC ACIDOSIS, EXACERBATIONS OF HEPATITIS B UPON DISCONTINUATION OF EPIVIR-HBV(r), AND RISK OF HIV-1 RESISTANCE IF EPIVIR-HBV IS USED IN PATIENTS WITH UNRECOGNIZED OR UNTREATED HIV-1.
+
+  WARNING: RISK OF LACTIC ACIDOSIS, EXACERBATIONS OF HEPATITIS B UPON DISCONTINUATION OF EPIVIR-HBV  (r)  , AND RISK OF HIV-1 RESISTANCE IF EPIVIR-HBV IS USED IN PATIENTS WITH UNRECOGNIZED OR UNTREATED HIV-1.
+
+      Lactic Acidosis and Severe Hepatomegaly  : Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including EPIVIR-HBV. Suspend treatment if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur   [see Warnings and Precautions (5.1)]  .   
+
+
+
+     Exacerbations of Hepatitis B Upon Discontinuation of EPIVIR-HBV  : Severe acute exacerbations of hepatitis B have been reported in patients who have discontinued anti-hepatitis B therapy (including EPIVIR-HBV). Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue anti-hepatitis B therapy. If appropriate, initiation of anti-hepatitis B therapy may be warranted   [see Warnings and Precautions (5.2)]  .  
+
+
+
+     Risk of HIV-1 Resistance if EPIVIR-HBV Is Used in Patients With Unrecognized or Untreated HIV-1 Infection  : EPIVIR-HBV is not approved for the treatment of HIV-1 infection because the lamivudine dosage in EPIVIR-HBV is subtherapeutic and monotherapy is inappropriate for the treatment of HIV-1 infection. HIV-1 resistance may emerge in chronic hepatitis B-infected patients with unrecognized or untreated HIV-1 infection. Counseling and testing should be offered to all patients before beginning treatment with EPIVIR-HBV and periodically during treatment   [see Warnings and Precautions (5.3)].    
+
+
+
+   EXCERPT:   WARNING: RISK OF LACTIC ACIDOSIS, EXACERBATIONS OF HEPATITIS B UPON DISCONTINUATION OF EPIVIR-HBV, AND RISK OF HIV-1 RESISTANCE IF EPIVIR-HBV IS USED IN PATIENTS WITH UNRECOGNIZED OR UNTREATED HIV-1 INFECTION
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues. Suspend treatment if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur. (5.1) 
+ *  Severe acute exacerbations of hepatitis B have been reported in patients who have discontinued anti-hepatitis B therapy (including EPIVIR-HBV). Monitor hepatic function closely in these patients and, if appropriate, initiate anti-hepatitis B treatment. (5.2) 
+ *  EPIVIR-HBV tablets and oral solution contain a lower dose of the same active ingredient (lamivudine) as EPIVIR tablets and oral Solution used to treat HIV-1 infection. HIV-1 resistance may emerge in chronic hepatitis B patients with unrecognized or untreated HIV-1 infection because the lamivudine dosage in EPIVIR-HBV is subtherapeutic and monotherapy is inappropriate for the treatment of HIV-1 infection. HIV counseling and testing should be offered to all patients before beginning treatment with EPIVIR-HBV and periodically during treatment. (5.3) 
+</Section>
+    <Section name="warnings and precautions" id="S3">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    EPIVIR-HBV should not be used with other medications that contain lamivudine or with medications that contain emtricitabine. (5.4) 
+ *    Emergence of Resistance-Associated HBV Substitutions: Monitor ALT and HBV DNA levels during lamivudine treatment to aid in treatment decisions if emergence of viral mutants or loss of therapeutic response is suspected. (2.6, 5.5) 
+    
+ 
+
+   5.1 Lactic Acidosis and Severe Hepatomegaly With Steatosis
+
+
+
+  Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including EPIVIR-HBV and other antiretrovirals. A majority of these cases have been in women. Obesity and prolonged nucleoside exposure may be risk factors. Most of these reports have described patients receiving nucleoside analogues for treatment of HIV infection, but there have been reports of lactic acidosis in patients receiving lamivudine for hepatitis B. Particular caution should be exercised when administering EPIVIR-HBV to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors. Treatment with EPIVIR-HBV should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+
+
+
+    5.2 Exacerbation of Hepatitis After Discontinuation of Treatment
+
+
+
+  Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of EPIVIR-HBV (these have been primarily detected by serum ALT elevations, in addition to the re-emergence of HBV DNA commonly observed after stopping treatment; see Table 4 for more information regarding frequency of posttreatment ALT elevations) [see Adverse Reactions (6.1)]  . Although most events appear to have been self-limited, fatalities have been reported in some cases. The causal relationship of hepatitis exacerbation after discontinuation of EPIVIR-HBV has not been clearly established. Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with EPIVIR-HBV. There is insufficient evidence to determine whether re-initiation of EPIVIR-HBV alters the course of posttreatment exacerbations of hepatitis.
+
+
+
+    5.3 Risk of HIV-1 Resistance if EPIVIR-HBV Is Used in Patients With Unrecognized or Untreated HIV-1 Infection
+
+
+
+  EPIVIR-HBV tablets and oral solution contain a lower lamivudine dose than the lamivudine dose in the following drugs used to treat HIV-1 infection:
+
+
+
+ *    EPIVIR  (r)  tablets and oral solution, 
+ *    COMBIVIR  (r)  (lamivudine/zidovudine) tablets, 
+ *    EPZICOM  (r)  (abacavir sulfate and lamivudine) tablets, and 
+ *    TRIZIVIR  (r)  (abacavir, lamivudine, and zidovudine) tablets 
+    The formulation and dosage of lamivudine in EPIVIR-HBV are not approved for patients co-infected with HBV and HIV. If a decision is made to administer lamivudine to such patients, the higher dosage indicated for HIV therapy should be used as part of an appropriate combination regimen, and the prescribing information for EPIVIR, COMBIVIR, EPZICOM, or TRIZIVIR as well as for EPIVIR-HBV should be consulted. HIV counseling and testing should be offered to all patients before beginning EPIVIR-HBV and periodically during treatment because of the risk of rapid emergence of resistant HIV and limitation of treatment options if EPIVIR-HBV is prescribed to treat chronic hepatitis B in a patient who has unrecognized or untreated HIV-1 infection or acquires HIV-1 infection during treatment.
+ 
+
+    5.4 Coadministration With Other Medications Containing Lamivudine or Emtricitabine
+
+
+
+  Do not coadminister EPIVIR-HBV with other lamivudine-containing products including EPIVIR (lamivudine), COMBIVIR (lamivudine/zidovudine), EPZICOM (abacavir/lamivudine), or TRIZIVIR (abacavir/lamivudine/zidovudine).
+
+
+
+ Do not coadminister EPIVIR-HBV with emtricitabine-containing products including ATRIPLA  (r)  (efavirenz/emtricitabine/tenofovir disoproxil fumarate), COMPLERA  (r)  (rilpivirine/emtricitabine/tenofovir disoproxil fumarate), EMTRIVA  (r)  (emtricitabine), STRIBILD  (r)  (elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate), or TRUVADA  (r)  (emtricitabine/tenofovir disoproxil fumarate).
+
+
+
+    5.5 Emergence of Resistance-Associated HBV Substitutions
+
+
+
+  In controlled clinical trials, YMDD-mutant HBV was detected in subjects with on-EPIVIR-HBV re-appearance of HBV DNA after an initial decline below the solution-hybridization assay limit [see Microbiology (12.4)]  . Subjects treated with EPIVIR-HBV (adults and children) with YMDD-mutant HBV at 52 weeks showed diminished treatment responses in comparison with subjects treated with EPIVIR-HBV without evidence of YMDD substitutions, including the following: lower rates of HBeAg seroconversion and HBeAg loss (no greater than placebo recipients), more frequent return of positive HBV DNA, and more frequent ALT elevations. In the controlled trials, when subjects developed YMDD-mutant HBV, they had a rise in HBV DNA and ALT from their own previous on-treatment levels. Progression of hepatitis B, including death, has been reported in some subjects with YMDD-mutant HBV, including subjects from the liver transplant setting and from other clinical trials. In clinical practice, monitoring of ALT and HBV DNA levels during treatment with EPIVIR-HBV may aid in treatment decisions if emergence of viral mutants is suspected.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

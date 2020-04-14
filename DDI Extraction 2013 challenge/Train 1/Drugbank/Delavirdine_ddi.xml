@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d251">
+    <sentence id="DDI-DrugBank.d251.s0" text="Antiacid, clarithromycin, Didanosine, Fluconazole, Fluoxetine, Indanavir, Ketoconazole, Phenytoin, Phenobarbitol, carbamazepine, Rifabutin, Rifampin, Ritanovir, Saquinavir.">
+        <entity id="DDI-DrugBank.d251.s0.e0" charOffset="10-23"
+            type="drug" text="clarithromycin"/>
+        <entity id="DDI-DrugBank.d251.s0.e1" charOffset="26-35"
+            type="drug" text="Didanosine"/>
+        <entity id="DDI-DrugBank.d251.s0.e2" charOffset="38-48"
+            type="drug" text="Fluconazole"/>
+        <entity id="DDI-DrugBank.d251.s0.e3" charOffset="51-60"
+            type="drug" text="Fluoxetine"/>
+        <entity id="DDI-DrugBank.d251.s0.e4" charOffset="74-85"
+            type="drug" text="Ketoconazole"/>
+        <entity id="DDI-DrugBank.d251.s0.e5" charOffset="88-96"
+            type="drug" text="Phenytoin"/>
+        <entity id="DDI-DrugBank.d251.s0.e6" charOffset="114-126"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d251.s0.e7" charOffset="129-137"
+            type="drug" text="Rifabutin"/>
+        <entity id="DDI-DrugBank.d251.s0.e8" charOffset="140-147"
+            type="drug" text="Rifampin"/>
+        <entity id="DDI-DrugBank.d251.s0.e9" charOffset="161-170"
+            type="drug" text="Saquinavir"/>
+    </sentence>
+</document>

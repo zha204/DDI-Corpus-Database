@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="potassium6" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions involve the possibility of potassium intoxication. The signs and symptoms of potassium intoxication include paresthesias of the extremities, flaccid paralysis, listlessness, mental confusion, weakness and heaviness of the legs, hypotension, cardiac arrhythmias, heart block, electrocardiographic abnormalities such as disappearance of P waves, spreading and slurring of the QRS complex with development of a biphasic curve and cardiac arrest. See WARNINGS and PRECAUTIONS.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

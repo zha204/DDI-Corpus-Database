@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="icgreen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Anaphylactic or urticarial reactions have been reported in patients with or without history of allergy to iodides. If such reactions occur, treatment with the appropriate agents, e.g., epinephrine, antihistamines, and corticosteroids should be administered.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

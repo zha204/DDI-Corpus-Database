@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="short1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse systemic reactions usually occur within minutes and consist primarily of allergic symptoms such as: generalized skin erythema, urticaria, pruritus, angioedema, rhinitis, wheezing, laryngeal edema, itching of nose and throat, breathlessness, dyspnea, coughing, hypotension and marked perspiration. Less commonly, nausea, emesis, abdominal cramps, diarrhea and uterine contractions may occur. Severe reactions may cause anaphylaxis or shock and loss of consciousness and rarely death.
+
+
+
+ The treatment of systemic allergic reactions is dependent upon the system complex. Antihistamines may offer relief of recurrent urticaria, associated skin reactions and gastrointestinal symptoms. Corticosteroids may provide benefit if symptoms are prolonged or recurrent.  (See Overdose section)  
+
+
+
+ Local Reactions consisting of erythema, itching, swelling tenderness and sometimes pain may occur at the injection site. These reactions may appear within a few minutes to hours and persist for several days. Local cold applications and oral antihistamines may be effective treatment. For marked and prolonged local reactions the use of antihistamines or anti-inflammatory medications may be dictated.  Serious adverse reactions  should be reported to Nelco Laboratories immediately and a report can be filed to:  MedWatch, The FDA Medical Product Problem Reporting Program, at 5600 Fishers Lane, Rockville, MD 20852-9787, call 1-800-FDA-1088.  
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  Diagnostic and therapeutic allergenic extracts are intended to be administered by a physician who is an allergy specialist and experienced in allergenic diagnostic testing and immunotherapy and the emergency care of anaphylaxis. 
+
+
+
+ This product should not be injected intravenously. Deep subcutaneous routes have been safe. Sensitive patients may experience severe anaphylactic reactions resulting in respiratory obstruction, shock, coma and/or death.    (See Adverse Reactions)  
+
+
+
+ Serious adverse reactions should be reported to Nelco Laboratories immediately and a report filed to:   MedWatch, The FDA Medical Product Problem Reporting Program, at 5600 Fishers Lane, Rockville, Md. 20852-9787, call 1-800-FDA-1088.  
+
+
+
+ Extreme caution should be taken when using allergenic extracts for patients who are taking beta-blocker medications.  In the event of a serious adverse reaction associated with the use of allergenic extracts, patients receiving beta-blockers may not be responsive to epinephrine or inhaled brochodialators.  (1)    (See Precautions)  
+
+
+
+ Allergenic extracts should be used with caution for patients with unstable or steroid-dependent asthma or underlying cardiovascular disease.   (See Contraindications)  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

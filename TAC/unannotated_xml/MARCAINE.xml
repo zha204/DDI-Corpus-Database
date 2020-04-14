@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="marcaine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Reactions to bupivacaine are characteristic of those associated with other amide-type local anesthetics.
+
+
+
+ The most commonly encountered acute adverse experiences which demand immediate countermeasures following the administration of spinal anesthesia are hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia. These may lead to cardiac arrest if untreated. In addition, dose-related convulsions and cardiovascular collapse may result from diminished tolerance, rapid absorption from the injection site, or from unintentional intravascular injection of a local anesthetic solution. Factors influencing plasma protein binding, such as acidosis, systemic diseases which alter protein production, or competition of other drugs for protein binding sites, may diminish individual tolerance.
+
+
+
+     Respiratory System:    Respiratory paralysis or underventilation may be noted as a result of upward extension of the level of spinal anesthesia and may lead to secondary hypoxic cardiac arrest if untreated. Preanesthetic medication, intraoperative analgesics and sedatives, as well as surgical manipulation, may contribute to underventilation. This will usually be noted within minutes of the injection of spinal anesthetic solution, but because of differing maximal onset times, differing intercurrent drug usage and differing surgical manipulation, it may occur at any time during surgery or the immediate recovery period.
+
+
+
+     Cardiovascular System:    Hypotension due to loss of sympathetic tone is a commonly encountered extension of the clinical pharmacology of spinal anesthesia. This is more commonly observed in elderly patients, particularly those with hypertension, and patients with shrunken blood volume, shrunken interstitial fluid volume, cephalad spread of the local anesthetic, and/or mechanical obstruction of venous return. Nausea and vomiting are frequently associated with hypotensive episodes following the administration of spinal anesthesia. High doses, or inadvertent intravascular injection, may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, bradycardia, heart block, ventricular arrhythmias, and, possibly, cardiac arrest. (See      WARNINGS      ,      PRECAUTIONS      , and      OVERDOSAGE       sections.)
+
+
+
+     Central Nervous System:    Respiratory paralysis or underventilation secondary to cephalad spread of the level of spinal anesthesia (see    Respiratory System    ) and hypotension for the same reason (see    Cardiovascular System    ) are the two most commonly encountered central nervous system-related adverse observations which demand immediate countermeasures.
+
+
+
+ High doses or inadvertent intravascular injection may lead to high plasma levels and related central nervous system toxicity characterized by excitement and/or depression. Restlessness, anxiety, dizziness, tinnitus, blurred vision, or tremors may occur, possibly proceeding to convulsions. However, excitement may be transient or absent, with depression being the first manifestation of an adverse reaction. This may quickly be followed by drowsiness merging into unconsciousness and respiratory arrest.
+
+
+
+     Neurologic:    The incidences of adverse neurologic reactions associated with the use of local anesthetics may be related to the total dose of local anesthetic administered and are also dependent upon the particular drug used, the route of administration, and the physical status of the patient. Many of these effects may be related to local anesthetic techniques, with or without a contribution from the drug.
+
+
+
+ Neurologic effects following spinal anesthesia may include loss of perineal sensation and sexual function; persistent anesthesia, paresthesia, weakness and paralysis of the lower extremities, and loss of sphincter control all of which may have slow, incomplete, or no recovery; hypotension, high or total spinal block; urinary retention; headache; backache; septic meningitis, meningismus; arachnoiditis; slowing of labor; increased incidence of forceps delivery; shivering; cranial nerve palsies due to traction on nerves from loss of cerebrospinal fluid; and fecal and urinary incontinence.
+
+
+
+     Allergic:    Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic. These reactions are characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and, possibly, anaphylactoid-like symptomatology (including severe hypotension). Cross sensitivity among members of the amide-type local anesthetic group has been reported. The usefulness of screening for sensitivity has not been definitely established.
+
+
+
+     Other:    Nausea and vomiting may occur during spinal anesthesia.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

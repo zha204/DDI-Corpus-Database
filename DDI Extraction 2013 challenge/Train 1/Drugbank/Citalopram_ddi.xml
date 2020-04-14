@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d472">
+    <sentence id="DDI-DrugBank.d472.s0" text="Central nervous system depressant (CNS) drugs including alcohol, antidepressants, antihistamines, antipsychotics, blood pressure medications (reserpine, methyldopa, beta-blockers), motion sickness medications, muscle relaxants, narcotics, sedatives, sleeping pills and tranquilizers">
+        <entity id="DDI-DrugBank.d472.s0.e0" charOffset="0-32"
+            type="group" text="Central nervous system depressant"/>
+        <entity id="DDI-DrugBank.d472.s0.e1" charOffset="56-62"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d472.s0.e2" charOffset="65-79"
+            type="group" text="antidepressants"/>
+        <entity id="DDI-DrugBank.d472.s0.e3" charOffset="82-95"
+            type="group" text="antihistamines"/>
+        <entity id="DDI-DrugBank.d472.s0.e4" charOffset="98-111"
+            type="group" text="antipsychotics"/>
+        <entity id="DDI-DrugBank.d472.s0.e5" charOffset="142-150"
+            type="drug" text="reserpine"/>
+        <entity id="DDI-DrugBank.d472.s0.e6" charOffset="153-162"
+            type="drug" text="methyldopa"/>
+        <entity id="DDI-DrugBank.d472.s0.e7" charOffset="165-177"
+            type="group" text="beta-blockers"/>
+        <entity id="DDI-DrugBank.d472.s0.e8" charOffset="210-225"
+            type="group" text="muscle relaxants"/>
+        <entity id="DDI-DrugBank.d472.s0.e9" charOffset="228-236"
+            type="group" text="narcotics"/>
+        <entity id="DDI-DrugBank.d472.s0.e10" charOffset="239-247"
+            type="group" text="sedatives"/>
+        <entity id="DDI-DrugBank.d472.s0.e11" charOffset="269-281"
+            type="group" text="tranquilizers"/>
+    </sentence>
+</document>

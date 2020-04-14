@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="triostat" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequently reported adverse events were arrhythmia (6% of patients) and tachycardia (3%). Cardiopulmonary arrest, hypotension and myocardial infarction occurred in approximately 2% of patients. The following events occurred in approximately 1% or fewer of patients: angina, congestive heart failure, fever, hypertension, phlebitis and twitching.
+
+
+
+ In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets.
+
+
+
+ For medical advice about your adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

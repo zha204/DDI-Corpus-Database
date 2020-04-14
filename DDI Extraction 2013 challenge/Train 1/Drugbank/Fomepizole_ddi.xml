@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d228">
+    <sentence id="DDI-DrugBank.d228.s0" text="Oral doses of Antizol (10-20 mg/kg), via alcohol dehydrogenase inhibition, significantly reduced the rate of elimination of ethanol (by approximately 40%) given to healthy volunteers in moderate doses.">
+        <entity id="DDI-DrugBank.d228.s0.e0" charOffset="14-20"
+            type="brand" text="Antizol"/>
+        <entity id="DDI-DrugBank.d228.s0.e1" charOffset="124-130"
+            type="drug" text="ethanol"/>
+        <ddi id="DDI-DrugBank.d228.s0.d0" e1="DDI-DrugBank.d228.s0.e0"
+            e2="DDI-DrugBank.d228.s0.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d228.s1" text="Similarly, ethanol decreased the rate of elimination of Antizol (by approximately 50%) by the same mechanism.">
+        <entity id="DDI-DrugBank.d228.s1.e0" charOffset="11-17"
+            type="drug" text="ethanol"/>
+        <entity id="DDI-DrugBank.d228.s1.e1" charOffset="56-62"
+            type="brand" text="Antizol"/>
+        <ddi id="DDI-DrugBank.d228.s1.d0" e1="DDI-DrugBank.d228.s1.e0"
+            e2="DDI-DrugBank.d228.s1.e1" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d228.s2" text="Reciprocal interactions may occur with concomitant use of Antizol and drugs that increase or inhibit the cytochrome P450 system (e.g., phenytoin, carbamazepine, cimetidine, ketoconazole), though this has not been studied">
+        <entity id="DDI-DrugBank.d228.s2.e0" charOffset="58-64"
+            type="brand" text="Antizol"/>
+        <entity id="DDI-DrugBank.d228.s2.e1" charOffset="135-143"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d228.s2.e2" charOffset="146-158"
+            type="drug" text="carbamazepine"/>
+        <entity id="DDI-DrugBank.d228.s2.e3" charOffset="161-170"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBank.d228.s2.e4" charOffset="173-184"
+            type="drug" text="ketoconazole"/>
+        <ddi id="DDI-DrugBank.d228.s2.d0" e1="DDI-DrugBank.d228.s2.e0"
+            e2="DDI-DrugBank.d228.s2.e1" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d228.s2.d1" e1="DDI-DrugBank.d228.s2.e0"
+            e2="DDI-DrugBank.d228.s2.e2" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d228.s2.d2" e1="DDI-DrugBank.d228.s2.e0"
+            e2="DDI-DrugBank.d228.s2.e3" type="mechanism"/>
+        <ddi id="DDI-DrugBank.d228.s2.d3" e1="DDI-DrugBank.d228.s2.e0"
+            e2="DDI-DrugBank.d228.s2.e4" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d228.s3" text="."/>
+    <sentence id="DDI-DrugBank.d228.s4" text=""/>
+</document>

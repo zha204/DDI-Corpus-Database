@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="leukeran" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+    To report SUSPECTED ADVERSE REACTIONS, contact Aspen Global Inc. Toll-Free at 1-855-800-8165 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+   Hematologic
+
+  The most common side effect is bone marrow suppression, anemia, leukopenia, neutropenia, thrombocytopenia, or pancytopenia. Although bone marrow suppression frequently occurs, it is usually reversible if the chlorambucil is withdrawn early enough. However, irreversible bone marrow failure has been reported.
+
+
+
+   Gastrointestinal
+
+  Gastrointestinal disturbances such as nausea and vomiting, diarrhea, and oral ulceration occur infrequently.
+
+
+
+   CNS
+
+  Tremors, muscular twitching, myoclonia, confusion, agitation, ataxia, flaccid paresis, and hallucinations have been reported as rare adverse experiences to chlorambucil which resolve upon discontinuation of drug. Rare, focal and/or generalized seizures have been reported to occur in both children and adults at both therapeutic daily doses and pulse-dosing regimens, and in acute overdose (see PRECAUTIONS: General).
+
+
+
+   Dermatologic
+
+  Allergic reactions such as urticaria and angioneurotic edema have been reported following initial or subsequent dosing. Skin hypersensitivity (including rare reports of skin rash progressing to erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome) has been reported (see WARNINGS).
+
+
+
+   Miscellaneous
+
+  Other reported adverse reactions include: pulmonary fibrosis, hepatotoxicity and jaundice, drug fever, peripheral neuropathy, interstitial pneumonia, sterile cystitis, infertility, leukemia, and secondary malignancies (see WARNINGS).
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+      LEUKERAN (chlorambucil) can severely suppress bone marrow function. Chlorambucil is a carcinogen in humans. Chlorambucil is probably mutagenic and teratogenic in humans. Chlorambucil produces human infertility (see WARNINGS and PRECAUTIONS).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

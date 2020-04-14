@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="prozac0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">       ADVERSE REACTIONS Multiple doses of Prozac had been administered to 10,782 patients with various diagnoses in US clinical trials as of May 8, 1995. In addition, there have been 425 patients administered Prozac in panic clinical trials. Adverse events were recorded by clinical investigators using descriptive terminology of their own choosing. Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a limited (i.e., reduced) number of standardized event categories.
+
+
+
+ In the tables and tabulations that follow, COSTART Dictionary terminology has been used to classify reported adverse events. The stated frequencies represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed. An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation. It is important to emphasize that events reported during therapy were not necessarily caused by it.
+
+
+
+ The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials. Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators. The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
+
+
+
+   Incidence in major depressive disorder, OCD, bulimia, and panic disorder placebo-controlled clinical trials (excluding data from extensions of trials)   - Table 2 enumerates the most common treatment-emergent adverse events associated with the use of Prozac (incidence of at least 5% for Prozac and at least twice that for placebo within at least 1 of the indications) for the treatment of major depressive disorder, OCD, and bulimia in US controlled clinical trials and panic disorder in US plus non-US controlled trials. Table 3 enumerates treatment-emergent adverse events that occurred in 2% or more patients treated with Prozac and with incidence greater than placebo who participated in US major depressive disorder, OCD, and bulimia controlled clinical trials and US plus non-US panic disorder controlled clinical trials. Table 3 provides combined data for the pool of studies that are provided separately by indication in Table 2.
+
+
+
+   Other adverse events in pediatric patients (children and adolescents)   - Treatment-emergent adverse events were collected in 322 pediatric patients (180 fluoxetine-treated, 142 placebo-treated). The overall profile of adverse events was generally similar to that seen in adult studies, as shown in Tables 2 and 3. However, the following adverse events (excluding those which appear in the body or footnotes of Tables 2 and 3 and those for which the COSTART terms were uninformative or misleading) were reported at an incidence of at least 2% for fluoxetine and greater than placebo: thirst, hyperkinesia, agitation, personality disorder, epistaxis, urinary frequency, and menorrhagia.
+
+
+
+ The most common adverse event (incidence at least 1% for fluoxetine and greater than placebo) associated with discontinuation in 3 pediatric placebo-controlled trials (N=418 randomized; 228 fluoxetine-treated; 190 placebo-treated) was mania/hypomania (1.8% for fluoxetine-treated, 0% for placebo-treated). In these clinical trials, only a primary event associated with discontinuation was collected.
+
+
+
+   Events observed in Prozac Weekly clinical trials  - Treatment-emergent adverse events in clinical trials with Prozac Weekly were similar to the adverse events reported by patients in clinical trials with Prozac daily. In a placebo-controlled clinical trial, more patients taking Prozac Weekly reported diarrhea than patients taking placebo (10% versus 3%, respectively) or taking Prozac 20 mg daily (10% versus 5%, respectively).
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+ WARNING   Suicidality and Antidepressant Drugs - 
+
+Antidepressants increased the risk compared to placebo of suicidal thinking and 
+
+behavior (suicidality) in children, adolescents, and young adults in short-term 
+
+studies of major depressive disorder (MDD) and other psychiatric disorders. 
+
+Anyone considering the use of Prozac or any other antidepressant in a child, 
+
+adolescent, or young adult must balance this risk with the clinical need. 
+
+Short-term studies did not show an increase in the risk of suicidality with 
+
+antidepressants compared to placebo in adults beyond age 24; there was a 
+
+reduction in risk with antidepressants compared to placebo in adults aged 65 and 
+
+older. Depression and certain other psychiatric disorders are themselves 
+
+associated with increases in the risk of suicide. Patients of all ages who are 
+
+started on antidepressant therapy should be monitored appropriately and observed 
+
+closely for clinical worsening, suicidality, or unusual changes in behavior. 
+
+Families and caregivers should be advised of the need for close observation and 
+
+communication with the prescriber. Prozac is approved for use in pediatric 
+
+patients with MDD and obsessive compulsive disorder (OCD). (  See       WARNINGS, 
+
+Clinical Worsening and Suicide Risk,       
+
+PRECAUTIONS, Information for Patients,     and       
+
+PRECAUTIONS, Pediatric Use    .)  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="digifab" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Based on experience with Digibind, the following adverse reactions could occur with the use of DigiFab:
+
+
+
+ *  Exacerbation of low cardiac output states and congestive heart failure due to the withdrawal of inotropic effect of digitalis. 
+ *  Hypokalemia due to reactivation of the sodium-potassium ATPase (see  Laboratory Tests  ). 
+ *  Rapid ventricular response in patients with atrial fibrillation due to withdrawal of the effects of digitalis on the atrioventricular node. 
+ *  Rare allergic reactions (see  WARNINGS  ). Patients with a history of allergy, especially to antibiotics, appear to be at particular risk.  11   
+    In the clinical trials of DigiFab, 6 of 15 patients in the digoxin overdose study had a total of 17 adverse experiences, most were mild to moderate in nature and all were deemed "remotely associated" with DigiFab. Three events were deemed "severe", all occurred in one patient and consisted of the following: pulmonary edema, bilateral pleural effusion and renal failure. After reviewing the case, it was determined that these events were likely due to the loss of digoxin inotropic support in combination with the patient's underlying medical condition. Of 8 healthy volunteers who received DigiFab, only 2 experienced an adverse reaction that was considered to be associated with DigiFab. The reactions were 1 episode of phlebitis of the infusion vein and 1 episode of moderate postural hypotension, which became mild prior to resolving.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="sodium0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Reactions which may occur because of this solution, added drugs or the technique of reconstitution or administration include febrile response, local tenderness, abscess, tissue necrosis or infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection and extravasation.
+
+
+
+ If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate countermeasures, and if possible, retrieve and save the remainder of the unused vehicle for examination.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

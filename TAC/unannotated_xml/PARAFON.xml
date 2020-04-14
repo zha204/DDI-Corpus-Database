@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="parafon" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or overstimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

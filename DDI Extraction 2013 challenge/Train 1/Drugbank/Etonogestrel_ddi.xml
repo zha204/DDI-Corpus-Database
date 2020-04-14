@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d484">
+    <sentence id="DDI-DrugBank.d484.s0" text="Etonogestrel may interact with the following medications: acetaminophen (Tylenol), antibiotics such as ampicillin and tetracycline, anticonvulsants (Dilantin, Phenobarbital, Tegretol, Trileptal, Topamax, Felbatol), antifungals (Gris-PEG, Nizoral, Sporanox), atorvastatin (Lipitor), clofibrate (Atromid-S), cyclosporine (Neoral, Sandimmune), HIV drugs classified as protease inhibitors (Agenerase, Crixivan, Fortovase, Invirase, Kaletra, Norvir, Viracept), morphine (Astramorph, Kadian, MS Contin), phenylbutazone, prednisolone (Prelone), rifadin (rifampin), St. Johns wort, temazepam, theophylline (Theo-Dur), and vitamin C.">
+        <entity id="DDI-DrugBank.d484.s0.e0" charOffset="0-11"
+            type="drug" text="Etonogestrel"/>
+        <entity id="DDI-DrugBank.d484.s0.e1" charOffset="58-70"
+            type="drug" text="acetaminophen"/>
+        <entity id="DDI-DrugBank.d484.s0.e2" charOffset="73-79"
+            type="brand" text="Tylenol"/>
+        <entity id="DDI-DrugBank.d484.s0.e3" charOffset="83-93"
+            type="group" text="antibiotics"/>
+        <entity id="DDI-DrugBank.d484.s0.e4" charOffset="103-112"
+            type="drug" text="ampicillin"/>
+        <entity id="DDI-DrugBank.d484.s0.e5" charOffset="118-129"
+            type="drug" text="tetracycline"/>
+        <entity id="DDI-DrugBank.d484.s0.e6" charOffset="132-146"
+            type="group" text="anticonvulsants"/>
+        <entity id="DDI-DrugBank.d484.s0.e7" charOffset="149-156"
+            type="brand" text="Dilantin"/>
+        <entity id="DDI-DrugBank.d484.s0.e8" charOffset="159-171"
+            type="drug" text="Phenobarbital"/>
+        <entity id="DDI-DrugBank.d484.s0.e9" charOffset="174-181"
+            type="brand" text="Tegretol"/>
+        <entity id="DDI-DrugBank.d484.s0.e10" charOffset="184-192"
+            type="brand" text="Trileptal"/>
+        <entity id="DDI-DrugBank.d484.s0.e11" charOffset="195-201"
+            type="brand" text="Topamax"/>
+        <entity id="DDI-DrugBank.d484.s0.e12" charOffset="204-211"
+            type="brand" text="Felbatol"/>
+        <entity id="DDI-DrugBank.d484.s0.e13" charOffset="215-225"
+            type="group" text="antifungals"/>
+        <entity id="DDI-DrugBank.d484.s0.e14" charOffset="228-235"
+            type="brand" text="Gris-PEG"/>
+        <entity id="DDI-DrugBank.d484.s0.e15" charOffset="238-244"
+            type="brand" text="Nizoral"/>
+        <entity id="DDI-DrugBank.d484.s0.e16" charOffset="247-254"
+            type="brand" text="Sporanox"/>
+        <entity id="DDI-DrugBank.d484.s0.e17" charOffset="258-269"
+            type="drug" text="atorvastatin"/>
+        <entity id="DDI-DrugBank.d484.s0.e18" charOffset="272-278"
+            type="brand" text="Lipitor"/>
+        <entity id="DDI-DrugBank.d484.s0.e19" charOffset="282-291"
+            type="drug" text="clofibrate"/>
+        <entity id="DDI-DrugBank.d484.s0.e20" charOffset="294-302"
+            type="brand" text="Atromid-S"/>
+        <entity id="DDI-DrugBank.d484.s0.e21" charOffset="306-317"
+            type="drug" text="cyclosporine"/>
+        <entity id="DDI-DrugBank.d484.s0.e22" charOffset="320-325"
+            type="brand" text="Neoral"/>
+        <entity id="DDI-DrugBank.d484.s0.e23" charOffset="328-337"
+            type="brand" text="Sandimmune"/>
+        <entity id="DDI-DrugBank.d484.s0.e24" charOffset="365-383"
+            type="group" text="protease inhibitors"/>
+        <entity id="DDI-DrugBank.d484.s0.e25" charOffset="386-394"
+            type="brand" text="Agenerase"/>
+        <entity id="DDI-DrugBank.d484.s0.e26" charOffset="397-404"
+            type="brand" text="Crixivan"/>
+        <entity id="DDI-DrugBank.d484.s0.e27" charOffset="407-415"
+            type="brand" text="Fortovase"/>
+        <entity id="DDI-DrugBank.d484.s0.e28" charOffset="418-425"
+            type="brand" text="Invirase"/>
+        <entity id="DDI-DrugBank.d484.s0.e29" charOffset="428-434"
+            type="brand" text="Kaletra"/>
+        <entity id="DDI-DrugBank.d484.s0.e30" charOffset="437-442"
+            type="brand" text="Norvir"/>
+        <entity id="DDI-DrugBank.d484.s0.e31" charOffset="445-452"
+            type="brand" text="Viracept"/>
+        <entity id="DDI-DrugBank.d484.s0.e32" charOffset="456-463"
+            type="drug" text="morphine"/>
+        <entity id="DDI-DrugBank.d484.s0.e33" charOffset="466-475"
+            type="brand" text="Astramorph"/>
+        <entity id="DDI-DrugBank.d484.s0.e34" charOffset="478-483"
+            type="brand" text="Kadian"/>
+        <entity id="DDI-DrugBank.d484.s0.e35" charOffset="486-494"
+            type="brand" text="MS Contin"/>
+        <entity id="DDI-DrugBank.d484.s0.e36" charOffset="498-511"
+            type="drug" text="phenylbutazone"/>
+        <entity id="DDI-DrugBank.d484.s0.e37" charOffset="514-525"
+            type="drug" text="prednisolone"/>
+        <entity id="DDI-DrugBank.d484.s0.e38" charOffset="528-534"
+            type="brand" text="Prelone"/>
+        <entity id="DDI-DrugBank.d484.s0.e39" charOffset="538-544"
+            type="brand" text="rifadin"/>
+        <entity id="DDI-DrugBank.d484.s0.e40" charOffset="547-554"
+            type="drug" text="rifampin"/>
+        <entity id="DDI-DrugBank.d484.s0.e41" charOffset="574-582"
+            type="drug" text="temazepam"/>
+        <entity id="DDI-DrugBank.d484.s0.e42" charOffset="585-596"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d484.s0.e43" charOffset="599-606"
+            type="brand" text="Theo-Dur"/>
+        <entity id="DDI-DrugBank.d484.s0.e44" charOffset="614-622"
+            type="drug" text="vitamin C"/>
+        <ddi id="DDI-DrugBank.d484.s0.d0" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e1" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d1" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d2" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e3" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d3" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e4" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d4" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e5" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d5" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e6" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d6" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e7" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d7" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e8" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d8" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e9" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d9" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e10" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d10" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e11" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d11" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e12" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d12" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e13" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d13" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e14" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d14" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e15" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d15" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e16" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d16" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e17" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d17" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e18" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d18" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e19" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d19" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e20" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d20" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e21" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d21" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e22" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d22" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e23" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d23" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e24" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d24" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e25" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d25" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e26" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d26" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e27" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d27" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e28" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d28" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e29" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d29" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e30" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d30" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e31" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d31" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e32" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d32" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e33" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d33" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e34" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d34" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e35" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d35" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e36" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d36" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e37" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d37" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e38" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d38" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e39" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d39" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e40" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d40" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e41" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d41" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e42" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d42" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e43" type="int"/>
+        <ddi id="DDI-DrugBank.d484.s0.d43" e1="DDI-DrugBank.d484.s0.e0"
+            e2="DDI-DrugBank.d484.s0.e44" type="int"/>
+    </sentence>
+</document>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cayston" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *  Common adverse reactions (more than 5%) occurring more frequently in CAYSTON patients are cough, nasal congestion, wheezing, pharyngolaryngeal pain, pyrexia, chest discomfort, abdominal pain and vomiting. (  6.1  ) 
+     
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Gilead Sciences, Inc. at 1-800-GILEAD5, option 3 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of drugs cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of CAYSTON was evaluated in 344 patients from two placebo-controlled trials and one open-label follow-on trial. In controlled trials, 146 patients with CF received 75 mg CAYSTON 3 times a day for 28 days.
+
+
+
+   Table 1  displays adverse reactions reported in more than 5% of patients treated with CAYSTON 3 times a day in placebo-controlled trials. The listed adverse reactions occurred more frequently in CAYSTON-treated patients than in placebo-treated patients.
+
+
+
+ Table 1 Adverse Reactions Reported in more than 5% of Patients Treated with CAYSTON in the Placebo-Controlled Trials 
+ Event (Preferred Term)                                 Placebo(N=160)n (%)     CAYSTON75 mg 3 times a day(N=146)n (%)   
+  
+ Cough                                                       82 (51%)                   79 (54%)            
+ Nasal congestion                                            19 (12%)                   23 (16%)            
+ Wheezing                                                    16 (10%)                   23 (16%)            
+ Pharyngolaryngeal pain                                      17 (11%)                   18 (12%)            
+ Pyrexia                                                      9 (6%)                    19 (13%)            
+ Chest discomfort                                             10 (6%)                    11 (8%)            
+ Abdominal Pain                                               8 (5%)                     10 (7%)            
+ Vomiting                                                     7 (4%)                     9 (6%)             
+         Adverse reactions that occurred in less than 5% of patients treated with CAYSTON were bronchospasm (3%) [  see  Warnings and Precautions (5.2)    ] and rash (2%).
+ 
+
+   6.2 Postmarketing Experience
+
+  In addition to adverse reactions reported from clinical trials, the following possible adverse reactions have been identified during post-approval use of CAYSTON. Because these events have been reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+
+
+
+ MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERSArthralgia, joint swelling
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Allergic reaction to CAYSTON was seen in clinical trials. Stop treatment if an allergic reaction occurs. Use caution when CAYSTON is administered to patients with a known allergic reaction to beta-lactams. (  5.1  ) 
+ *  Bronchospasm has been reported with CAYSTON. Stop treatment if chest tightness develops during nebulizer use. (  5.2  ) 
+    
+ 
+
+   5.1 Allergic Reactions
+
+
+
+  Severe allergic reactions have been reported following administration of aztreonam for injection to patients with no known history of exposure to aztreonam. In addition, allergic reaction with facial rash, facial swelling, and throat tightness was reported with CAYSTON in clinical trials. If an allergic reaction to CAYSTON occurs, stop administration of CAYSTON and initiate treatment as appropriate.
+
+
+
+ Caution is advised when administering CAYSTON to patients if they have a history of beta-lactam allergy, although patients with a known beta-lactam allergy have received CAYSTON in clinical trials and no severe allergic reactions were reported. A history of allergy to beta-lactam antibiotics, such as penicillins, cephalosporins, and/or carbapenems, may be a risk factor, since cross-reactivity may occur.
+
+
+
+    5.2 Bronchospasm
+
+
+
+  Bronchospasm is a complication associated with nebulized therapies, including CAYSTON. Reduction of 15% or more in forced expiratory volume in 1 second (FEV1) immediately following administration of study medication after pretreatment with a bronchodilator was observed in 3% of patients treated with CAYSTON.
+
+
+
+    5.3 Decreases in FEV1After 28-Day Treatment Cycle
+
+
+
+  In clinical trials, patients with increases in FEV1during a 28-day course of CAYSTON were sometimes treated for pulmonary exacerbations when FEV1declined after the treatment period. Healthcare providers should consider a patient's baseline FEV1measured prior to CAYSTON therapy and the presence of other symptoms when evaluating whether post-treatment changes in FEV1are caused by a pulmonary exacerbation.
+
+
+
+    5.4 Development of Drug-Resistant Bacteria
+
+
+
+  Prescribing CAYSTON in the absence of known Pseudomonas aeruginosa  infection in patients with CF is unlikely to provide benefit and increases the risk of development of drug-resistant bacteria.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

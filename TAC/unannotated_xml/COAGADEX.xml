@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="coagadex" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most common adverse drug reactions (frequency &gt;= 5% of subjects) observed in clinical trials were infusion site erythema, infusion site pain, fatigue, and back pain.
+
+
+
+   EXCERPT:   The most common adverse drug reactions (frequency &gt;= 5% of subjects) observed in clinical trials were infusion site erythema, infusion site pain, fatigue and back pain (  6  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact BPL Inc, at 1-866-398-0825 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  As clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ During the clinical development of COAGADEX involving two multicenter, open-label, non-randomized clinical studies, 18 individual subjects with hereditary Factor X deficiency received at least one dose of COAGADEX.
+
+
+
+ Sixteen subjects aged 12 to 58 years with moderate to severe hereditary Factor X deficiency (basal FX:C &lt; 5 IU/dL) received doses of COAGADEX for pharmacokinetic evaluation, on-demand treatment and control of bleeding episodes, and/or perioperative management of minor surgical or dental procedures. A total of 468 infusions were administered, including 242 for on-demand treatment and control of bleeding episodes, 6 for perioperative management and 31 for PK assessments. Spontaneous, traumatic and menorrhagic bleeding episodes were treated with an on-demand dose of 25 IU/kg for up to 2 years.
+
+
+
+ Two subjects aged 55 and 59 years with mild hereditary Factor X deficiency (basal FX:C 6 IU/dL and 8 IU/dL) received COAGADEX for perioperative management of four major surgical procedures. There were 40 exposure days to COAGADEX.
+
+
+
+ Six adverse reactions were reported in 2 of the 18 subjects. These were infusion site erythema (2 reports in 1 subject [5.6%]), fatigue (2 reports in 1 subject [5.6%]), back pain (1 report [5.6%]) and infusion site pain (1 report [5.6%]).
+
+
+
+   6.2 Immunogenicity
+
+  All subjects underwent Factor X inhibitor testing (inhibitor screen and Nijmegen-Bethesda assay) at baseline, end of study and at 3-monthly intervals in between. For subjects who underwent surgery, inhibitor testing was done pre-surgery and on discharge. All inhibitor tests were negative. Additionally, comparison of pharmacokinetic (PK) parameters at the repeat PK assessment with those at first dose did not suggest development of any inhibitors to Factor X.
+
+
+
+ The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, it may be misleading to compare the incidence of antibodies to COAGADEX in the studies described above with the incidence of antibodies in other studies or to other products.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions, including anaphylaxis, are possible. Should symptoms occur, discontinue COAGADEX and administer appropriate treatment (  5.1  ). 
+ *  Development of neutralizing antibodies (inhibitors) may occur. If expected plasma Factor X activity levels are not attained, or if bleeding is not controlled with an appropriate dose, perform an assay that measures Factor X inhibitor concentration (  5.2  ). 
+ *  COAGADEX is made from human blood and therefore carries a risk of transmitting infectious agents, e.g. viruses, the variant Creutzfeldt-Jakob disease (vCJD) agent and, theoretically, the Creutzfeldt-Jakob Disease (CJD) agent (  5.4  ). 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Allergic type hypersensitivity reactions, including anaphylaxis, are possible. Early signs of hypersensitivity reactions including angioedema, infusion site inflammation (e.g. burning, stinging, erythema), chills, cough, dizziness, fever, flushing, generalized urticaria, headache, hives, hypotension, lethargy, musculoskeletal pains, nausea, pruritus, rash, restlessness, tachycardia, tightness of the chest, tingling, vomiting, wheezing. If hypersensitivity symptoms occur, discontinue use of the product immediately and administer appropriate emergency treatment.
+
+
+
+ COAGADEX contains traces of human proteins other than Factor X.
+
+
+
+    5.2 Neutralizing Antibodies
+
+
+
+  The formation of neutralizing antibodies (inhibitors) to Factor X may occur. Monitor all patients treated with COAGADEX for the development of inhibitors by appropriate clinical observations and laboratory tests. If expected Factor X activity levels are not attained, or if bleeding is not controlled with an expected dose, perform an assay that measures Factor X inhibitor concentration.
+
+
+
+    5.3 Transmissible Infectious Agents
+
+
+
+  As COAGADEX is made from human blood, it may carry a risk of transmitting infectious agents, e.g. viruses, the variant Creutzfeldt-Jakob disease (vCJD) agent and, theoretically, the Creutzfeldt-Jakob disease (CJD) agent. There is also the possibility that unknown infectious agents may be present in the product. The risk that the product will transmit viruses has been reduced by screening plasma donors for prior exposure to certain viruses, by testing for the presence of certain current virus infections, and by inactivating and removing certain viruses during manufacture. Despite these measures, this product may still potentially transmit diseases.
+
+
+
+ All infections suspected by a physician possibly to have been transmitted by this product should be reported by the physician or other healthcare providers to BPL Inc. at 1-866-398-0825.
+
+
+
+    5.4 Monitoring and Laboratory Tests
+
+
+
+    *  Monitor plasma Factor X activity by performing a validated test (e.g. one-stage clotting assay), to confirm that adequate Factor X levels have been achieved and maintained [ see  Dosage and Administration (2)   ]. 
+ *  Monitor for the development of Factor X inhibitors. Perform a Nijmegen-Bethesda inhibitor assay if expected Factor X plasma levels are not attained, or if bleeding is not controlled with the expected dose of COAGADEX. Use Nijmegen-Bethesda Units (BU) to report inhibitor levels. 
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

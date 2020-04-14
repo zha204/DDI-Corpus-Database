@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="myleran" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">      ADVERSE REACTIONS  
+
+    To report SUSPECTED ADVERSE REACTIONS, contact Aspen Global Inc. Toll-Free at 1-855-800-8165 or FDA at 1-800-FDA-1088 or      www.fda.gov/medwatch      .  
+
+
+
+     Hematological Effects  
+
+  The most frequent, serious, toxic effect of busulfan is dose-related myelosuppression resulting in leukopenia, thrombocytopenia, and anemia. Myelosuppression is most frequently the result of a failure to discontinue dosage in the face of an undetected decrease in leukocyte or platelet counts.
+
+
+
+ Aplastic anemia (sometimes irreversible) has been reported rarely, often following long-term conventional doses and also high doses of MYLERAN.
+
+
+
+     Pulmonary  
+
+  Interstitial pulmonary fibrosis has been reported rarely, but it is a clinically significant adverse effect when observed and calls for immediate discontinuation of further administration of the drug. The role of corticosteroids in arresting or reversing the fibrosis has been reported to be beneficial in some cases and without effect in others.
+
+
+
+     Cardiac  
+
+  Cardiac tamponade has been reported in a small number of patients with thalassemia who received busulfan and cyclophosphamide as the preparatory regimen for bone marrow transplantation (see WARNINGS).
+
+
+
+ One case of endocardial fibrosis has been reported in a 79-year-old woman who received a total dose of 7,200 mg of busulfan over a period of 9 years for the management of chronic myelogenous leukemia. At autopsy, she was found to have endocardial fibrosis of the left ventricle in addition to interstitial pulmonary fibrosis.
+
+
+
+     Ocular  
+
+  Busulfan is capable of inducing cataracts in rats and there have been several reports indicating that this is a rare complication in humans.
+
+
+
+     Dermatologic  
+
+  Hyperpigmentation is the most common adverse skin reaction and occurs in 5% to 10% of patients, particularly those with a dark complexion.
+
+
+
+     Metabolic  
+
+  In a few cases, a clinical syndrome closely resembling adrenal insufficiency and characterized by weakness, severe fatigue, anorexia, weight loss, nausea and vomiting, and melanoderma has developed after prolonged busulfan therapy. The symptoms have sometimes been reversible when busulfan was withdrawn. Adrenal responsiveness to exogenously administered ACTH has usually been normal. However, pituitary function testing with metyrapone revealed a blunted urinary 17-hydroxycorticosteroid excretion in 2 patients. Following the discontinuation of busulfan (which was associated with clinical improvement), rechallenge with metyrapone revealed normal pituitary-adrenal function.
+
+
+
+ Hyperuricemia and/or hyperuricosuria are not uncommon in patients with chronic myelogenous leukemia. Additional rapid destruction of granulocytes may accompany the initiation of chemotherapy and increase the urate pool. Adverse effects can be minimized by increased hydration, urine alkalinization, and the prophylactic administration of a xanthine oxidase inhibitor such as allopurinol.
+
+
+
+     Hepatic Effects  
+
+  Esophageal varices have been reported in patients receiving continuous busulfan and thioguanine therapy for treatment of chronic myelogenous leukemia (see PRECAUTIONS: Drug Interactions). Hepatic veno-occlusive disease has been observed in patients receiving busulfan (see WARNINGS).
+
+
+
+     Miscellaneous  
+
+  Other reported adverse reactions include: urticaria, erythema multiforme, erythema nodosum, alopecia, porphyria cutanea tarda, excessive dryness and fragility of the skin with anhidrosis, dryness of the oral mucous membranes and cheilosis, gynecomastia, cholestatic jaundice, and myasthenia gravis. Most of these are single case reports, and in many, a clear cause-and-effect relationship with busulfan has not been demonstrated.
+
+
+
+ Seizures (see PRECAUTIONS: General) have been observed in patients receiving higher than recommended doses of busulfan.
+
+
+
+     Observed During Clinical Practice  
+
+  The following events have been identified during post-approval use of busulfan. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to busulfan.
+
+
+
+     Blood and Lymphatic:    Aplastic anemia.
+
+
+
+     Eye:    Cataracts, corneal thinning, lens changes.
+
+
+
+     Hepatobiliary Tract and Pancreas:    Centrilobular sinusoidal fibrosis, hepatic veno-occlusive disease, hepatocellular atrophy, hepatocellular necrosis, hyperbilirubinemia (see WARNINGS).
+
+
+
+     Non-site Specific:    Infection, mucositis, sepsis.
+
+
+
+     Respiratory:    Pneumonia.
+
+
+
+     Skin:    Rash. An increased local cutaneous reaction has been observed in patients receiving radiotherapy soon after busulfan.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNING
+
+    WARNING  
+
+    MYLERAN is a potent drug. It should not be used unless a diagnosis of chronic myelogenous leukemia has been adequately established and the responsible physician is knowledgeable in assessing response to chemotherapy.  
+
+
+
+   MYLERAN can induce severe bone marrow hypoplasia. Reduce or discontinue the dosage immediately at the first sign of any unusual depression of bone marrow function as reflected by an abnormal decrease in any of the formed elements of the blood. A bone marrow examination should be performed if the bone marrow status is uncertain.  
+
+
+
+   SEE WARNINGS FOR INFORMATION REGARDING BUSULFAN-INDUCED LEUKEMOGENESIS IN HUMANS.  
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

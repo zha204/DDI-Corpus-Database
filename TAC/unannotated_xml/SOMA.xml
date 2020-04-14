@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="soma" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (incidence &gt; 2%) are drowsiness, dizziness, and headache  (6.1)    To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-800-526-3840 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    .
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect rates observed in practice.
+
+
+
+ The data described below are based on 1387 patients pooled from two double blind, randomized, multicenter, placebo controlled, one-week trials in adult patients with acute, mechanical, lower back pain [    see Clinical Studies (14)    ]. In these studies, patients were treated with 250 mg of SOMA, 350 mg of SOMA, or placebo three times a day and at bedtime for seven days. The mean age was about 41 years old with 54% females and 46% males and 74 % Caucasian, 16 % Black, 9% Asian, and 2% other.
+
+
+
+ There were no deaths and there were no serious adverse reactions in these two trials. In these two studies, 2.7%, 2%, and 5.4%, of patients treated with placebo, 250 mg of SOMA, and 350 mg of SOMA, respectively, discontinued due to adverse events; and 0.5%, 0.5%, and 1.8% of patients treated with placebo, 250 mg of SOMA, and 350 mg of SOMA, respectively, discontinued due to central nervous system adverse reactions.
+
+
+
+ Table 1 displays adverse reactions reported with frequencies greater than 2% and more frequently than placebo in patients treated with SOMA in the two trials described above.
+
+
+
+ Table 1. Patients with Adverse Reactions in Controlled Studies 
+   Adverse Reaction          Placebo(n=560)n (%)        SOMA 250 mg(n=548)n (%)    SOMA 350 mg(n=279) n (%)    
+ Drowsiness                 31 (6)                     73 (13)                    47 (17)                     
+ Dizziness                  11 (2)                     43 (8)                     19 (7)                      
+ Headache                   11 (2)                     26 (5)                     9 (3)                       
+        6.2 Post-marketing Experience
+   The following events have been reported during postapproval use of SOMA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Cardiovascular:  Tachycardia, postural hypotension, and facial flushing [    see Overdosage (10)    ].  Central Nervous System:  Drowsiness, dizziness, vertigo, ataxia, tremor, agitation, irritability, headache, depressive reactions, syncope, insomnia, and seizures [    see Overdosage (10)    ].  Gastrointestinal:  Nausea, vomiting, and epigastric discomfort.  Hematologic:  Leukopenia, pancytopenia
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Due to sedative properties, may impair ability to perform hazardous tasks such as driving or operating machinery  (5.1)   
+ *  Additive sedative effects when used with other CNS depressants including alcohol  (5.1)   
+ *  Cases of abuse, dependence, and withdrawal  (5.2,    9.2,    9.3)   
+ *  Seizures  (5.3)   
+    
+ 
+
+   5.1 Sedation
+
+
+
+  SOMA has sedative properties (in the low back pain trials, 13% to 17% of patients who received SOMA experienced sedation compared to 6% of patients who received placebo) [   see ADVERSE REACTIONS (6.1)    ] and may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a motor vehicle or operating machinery. There have been post-marketing reports of motor vehicle accidents associated with the use of SOMA.
+
+
+
+ Since the sedative effects of SOMA and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive, appropriate caution should be exercised with patients who take more than one of these CNS depressants simultaneously.
+
+
+
+    5.2 Abuse, Dependence, and Withdrawal
+
+
+
+  Carisoprodol, the active ingredient in SOMA, has been subject to abuse, dependence, and withdrawal, misuse and criminal diversion. [  see Drug Abuse and Dependence (9.1,    9.2,    9.3)  ]  . Abuse of SOMA poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures, and other disorders [  see Overdosage (10)  ]  .
+
+
+
+ Post-marketing experience cases of carisoprodol abuse and dependence have been reported in patients with prolonged use and a history of drug abuse... Although most of these patients took other drugs of abuse, some patients solely abused carisoprodol. . Withdrawal symptoms have been reported following abrupt cessation of SOMA after prolonged use. Reported withdrawal symptoms included insomnia, vomiting, abdominal cramps, headache, tremors, muscle twitching, ataxia, hallucinations, and psychosis. One of carisoprodol's metabolites, meprobamate (a controlled substance), may also cause dependence [  see Clinical Pharmacology (12.3)  ]  .
+
+
+
+ To reduce the risk of SOMA abuse assess the risk of abuse prior to prescribing. After prescribing, limit the length of treatment to three weeks for the relief of acute musculoskeletal discomfort, keep careful prescription records, monitor for signs of abuse and overdose, and educate patients and their families about abuse and on proper storage and disposal.
+
+
+
+    5.3 Seizures
+
+
+
+  There have been post-marketing reports of seizures in patients who received SOMA. Most of these cases have occurred in the setting of multiple drug overdoses (including drugs of abuse, illegal drugs, and alcohol) [   see Overdosage (10)    ].
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

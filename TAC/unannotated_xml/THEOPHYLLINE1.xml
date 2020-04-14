@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="theophylline1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions associated with theophylline are generally mild when serum theophylline concentrations are less than 20 mcg/mL and mainly consist of transient caffeine-like adverse effects such as nausea, vomiting, headache, and insomnia. When serum theophylline concentrations exceed 20 mcg/mL, however, theophylline produces a wide range of adverse reactions including persistent vomiting, cardiac arrhythmias, and intractable seizures which can be lethal (see    OVERDOSAGE    ).
+
+
+
+ Other adverse reactions that have been reported at serum theophylline concentrations less than 20 mcg/mL include diarrhea, irritability, restlessness, fine skeletal muscle tremors, and transient diuresis. In patients with hypoxia secondary to COPD, multifocal atrial tachycardia and flutter have been reported at serum theophylline concentrations greater than or equal to 15 mcg/mL. There have been a few isolated reports of seizures at serum theophylline concentrations less than 20 mcg/mL in patients with an underlying neurological disease or in elderly patients. The occurrence of seizures in elderly patients with serum theophylline concentrations less than 20 mcg/mL may be secondary to decreased protein binding resulting in a larger proportion of the total serum theophylline concentration in the pharmacologically active unbound form. The clinical characteristics of the seizures reported in patients with serum theophylline concentrations less than 20 mcg/mL have generally been milder than seizures associated with excessive serum theophylline concentrations resulting from an overdose (  i.e.  , they have generally been transient, often stopped without anticonvulsant therapy, and did not result in neurological residua). There have been reports of non-convulsive status epilepticus in patients receiving theophylline, and this possibility should be considered in patients with abnormal central nervous system function and a history of theophylline administration. Hypercalcemia has been reported in a patient with hyperthyroid disease at therapeutic theophylline concentrations (see    OVERDOSAGE    ).
+
+
+
+
+    Table IV. Manifestations of theophylline toxicity.     
+                     Percentage of patients reportedwith sign or symptom                                       
+                     Acute Overdose(Large Single Ingestion)       Chronic Overdosage(Multiple Excessive Doses)     
+    Sign/Symptom      Study 1(n=157)      Study 2(n=14)      Study 1(n=92)      Study 2(n=102)     
+   Asymptomatic     NR                0                NR              6                 
+   Gastrointestinal                                                                          
+  Vomiting        73                93               30              61                
+  Abdominal Pain  NR                21              NR               12                
+  Diarrhea        NR               0                NR               14                
+  Hematemesis     NR               0                NR               2                 
+   Metabolic/Other                                                                          
+  Hypokalemia     85               79               44               43                
+  Hyperglycemia   98                NR              18               NR                
+  Acid/base disturbance   34               21               9                5                 
+  Rhabdomyolysis   NR               7                 NR              0                 
+   Cardiovascular                                                                          
+  Sinus tachycardia   100              86                100             62                
+  Other supraventricular  tachycardias   2                21               12               14                
+  Ventricular premature beats   3                 21              10               19                
+  Atrial fibrillation or flutter   1                NR                12              NR                
+  Multifocal atrial tachycardia   0                NR               2                NR                
+  Ventricular   arrhythmias with   hemodynamic instability   7                14               40               0                 
+  Hypotension/shock   NR               21               NR               8                 
+    Neurologic                                                                         
+  Nervousness     NR               64                NR              21                
+  Tremors          38              29               16               14                
+  Disorientation  NR               7                 NR              11                
+  Seizures        5                 14              14               5                 
+   Death          3                21               10               4                 
+           Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

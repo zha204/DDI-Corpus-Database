@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="ibrance" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following topics are described below and elsewhere in the labeling:
+
+
+
+ *  Neutropenia [see  Warnings and Precautions (5.1)  ]  
+ *  Infections [see  Warnings and Precautions (5.2)  ]  
+ *  Pulmonary Embolism [see  Warnings and Precautions (5.3)  ]  
+      EXCERPT:   Most common adverse reactions (incidence &gt;=10%) were neutropenia, leukopenia, fatigue, anemia, upper respiratory infection, nausea, stomatitis, alopecia, diarrhea, thrombocytopenia, decreased appetite, vomiting, asthenia, peripheral neuropathy, and epistaxis. (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Pfizer, Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+ 
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical trials are conducted under varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
+
+
+
+ The safety of IBRANCE (125 mg/day) plus letrozole (2.5 mg/day) versus letrozole alone was evaluated in Study 1. The data described below reflect exposure to IBRANCE in 83 out of 160 patients with ER-positive, HER2-negative advanced breast cancer who received at least 1 dose of treatment in Study 1. The median duration of treatment for palbociclib was 13.8 months while the median duration of treatment for letrozole on the letrozole-alone arm was 7.6 months.
+
+
+
+ Dose reductions due to an adverse reaction of any grade occurred in 36% of patients receiving IBRANCE plus letrozole. No dose reduction was allowed for letrozole in Study 1.
+
+
+
+ Permanent discontinuation due to an adverse reaction occurred in 7 of 83 (8%) patients receiving IBRANCE plus letrozole and in 2 of 77 (3%) patients receiving letrozole alone. Adverse reactions leading to discontinuation for those patients receiving IBRANCE plus letrozole included neutropenia (6%), asthenia (1%), and fatigue (1%).
+
+
+
+ The most common adverse reactions (&gt;=10%) of any grade reported in patients in the IBRANCE plus letrozole arm were neutropenia, leukopenia, fatigue, anemia, upper respiratory infection, nausea, stomatitis, alopecia, diarrhea, thrombocytopenia, decreased appetite, vomiting, asthenia, peripheral neuropathy, and epistaxis.
+
+
+
+ The most frequently reported serious adverse reactions in patients receiving IBRANCE plus letrozole were pulmonary embolism (3 of 83; 4%) and diarrhea (2 of 83; 2%).
+
+
+
+ An increase incidence of infections events was observed in the palbociclib plus letrozole arm (55%) compared to the letrozole alone arm (34%). Febrile neutropenia events have been reported in the IBRANCE clinical program, although no cases were observed in Study 1. Grade &gt;=3 neutropenia was managed by dose reductions and/or dose delay or temporary discontinuation consistent with a permanent discontinuation rate of 6% due to neutropenia  [see  Dosage and Administration (2.2)  ]  .
+
+
+
+ Adverse drug reactions (&gt;=10%) reported in patients who received IBRANCE plus letrozole or letrozole alone in Study 1 are listed in Table 4.
+
+
+
+ Table 4. Adverse ReactionsAdverse Reaction rates reported in the table include all reported events regardless of causality. (&gt;=10%) in Study 1 
+                               IBRANCE + Letrozole (N=83)  Letrozole Alone (N=77)   
+ System Organ Class             All Grades     Grade 3       Grade 4      All Grades     Grade 3       Grade 4      
+ Adverse Reaction                   %             %             %             %             %             %         
+  
+ Grading according to CTCAE Version 3.0.   
+ CTCAE=Common Terminology Criteria for Adverse Events; N=number of subjects; N/A=not applicable; URI=Upper respiratory infection.   
+  
+ Infections and infestations    
+   URI                              31            1             0             18            0             0         
+ Blood and lymphatic system disorders   
+   Neutropenia                      75            48            6             5             1             0         
+   Leukopenia                       43            19            0             3             0             0         
+   Anemia                           35            5             1             7             1             0         
+   Thrombocytopenia                 17            2             0             1             0             0         
+ Metabolism and nutrition disorders   
+   Decreased appetite               16            1             0             7             0             0         
+ Nervous system disorders       
+   Peripheral neuropathy            13            0             0             5             0             0         
+ Respiratory, thoracic and mediastinal disorders   
+   Epistaxis                        11            0             0             1             0             0         
+ Gastrointestinal disorders     
+   Stomatitis                       25            0             0             7             1             0         
+   Nausea                           25            2             0             13            1             0         
+   Diarrhea                         21            4             0             10            0             0         
+   Vomiting                         15            0             0             4             1             0         
+ Skin and subcutaneous tissue disorders   
+   Alopecia                         22           N/A           N/A            3            N/A           N/A        
+ General disorders and administration site conditions   
+   Fatigue                          41            2             2             23            1             0         
+   Asthenia                         13            2             0             4             0             0         
+            Table 5. Laboratory Abnormalities for Patients in Study 1 
+                               IBRANCE + Letrozole (N=83)  Letrozole Alone (N=77)   
+ Laboratory Abnormality        All Grades%     Grade 3%      Grade 4%    All Grades%     Grade 3%      Grade 4%     
+  
+ N=number of patients.          
+  
+ White blood cells decreased        95            44            0             26            0             0         
+ Neutrophils decreased              94            57            5             17            3             0         
+ Lymphocytes decreased              81            17            1             35            3             0         
+ Hemoglobin decreased               83            5             1             40            3             0         
+ Platelets decreased                61            3             0             16            3             0         
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hematologic: Neutropenia may occur. Monitor complete blood count prior to start of IBRANCE therapy and at the beginning of each cycle, as well as on Day 14 of the first two cycles, and as clinically indicated. (  5.1  ) 
+ *  Infections: Monitor for signs and symptoms and withhold dosing as appropriate. (  5.2  ) 
+ *  Embryo-Fetal Toxicity: Can cause fetal harm. Advise patients of potential risk to a fetus and to use effective contraception. (  5.4  ,  8.1  ,  8.3  ) 
+    
+ 
+
+   5.1 Neutropenia
+
+
+
+  Decreased neutrophil counts have been observed in clinical trials with IBRANCE. Grade 3 (57%) or 4 (5%) decreased neutrophil counts were reported in patients receiving IBRANCE plus letrozole in the randomized clinical trial (Study 1). Median time to first episode of any grade neutropenia per laboratory data was 15 days (13-117 days). Median duration of Grade &gt;=3 neutropenia was 7 days [see  Adverse Reactions (6.1)  ]  .
+
+
+
+ Febrile neutropenia events have been reported in the IBRANCE clinical program, although no cases of febrile neutropenia have been observed in Study 1. Monitor complete blood count prior to starting IBRANCE therapy and at the beginning of each cycle, as well as on Day 14 of the first two cycles, and as clinically indicated. Dose interruption, dose reduction or delay in starting treatment cycles is recommended for patients who develop Grade 3 or 4 neutropenia [see  Dosage and Administration (2.2)  ]  .
+
+
+
+    5.2 Infections
+
+
+
+  Infections have been reported at a higher rate in patients treated with IBRANCE plus letrozole compared to patients treated with letrozole alone in Study 1. Grade 3 or 4 infections occurred in 5% of patients treated with IBRANCE plus letrozole whereas no patients treated with letrozole alone experienced a Grade 3 or 4 infection. Monitor patients for signs and symptoms of infection and treat as medically appropriate.
+
+
+
+    5.3 Pulmonary Embolism
+
+
+
+  Pulmonary embolism has been reported at a higher rate in patients treated with IBRANCE plus letrozole (5%) compared with no cases in patients treated with letrozole alone in Study 1. Monitor patients for signs and symptoms of pulmonary embolism and treat as medically appropriate.
+
+
+
+    5.4 Embryo-Fetal Toxicity
+
+
+
+  Based on findings in animals and mechanism of action, IBRANCE can cause fetal harm. IBRANCE caused embryo-fetal toxicities in rats and rabbits at maternal exposures that were greater than or equal to 4 times the human clinical exposure based on area under the curve (AUC). Advise females of reproductive potential to use effective contraception during therapy with IBRANCE and for at least two weeks after the last dose [see  Use in Specific Populations (8.1  ,  8.3)  and  Clinical Pharmacology (12.1)  ]  .
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

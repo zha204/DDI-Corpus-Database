@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="quinidine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Quinidine preparations have been used for many years, but there are only sparse data from which to estimate the incidence of various adverse reactions. The adverse reactions most frequently reported have consistently been gastrointestinal, including diarrhea, nausea, vomiting, and heart-burn/esophagitis. In one study of 245 adult outpatients who received quinidine to suppress premature ventricular contractions, the incidences of reported adverse experiences were as shown in the table below. The most serious quinidine-associated adverse reactions are described above under Warnings.
+
+
+
+ Adverse Experiences in a 245-Patient PVC Trial 
+                   Incidence (%)    
+  diarrhea         85 (35)          
+  "upper gastrointestinal distress"    55 (22)          
+  lightheadedness    37 (15)          
+  headache         18 (7)           
+  fatigue          17 (7)           
+  palpitations     16 (7)           
+  angina-like pain    14 (6)           
+  weakness         13 (5)           
+  rash             11 (5)           
+  visual problems    8 (3)            
+  change in sleep habits    7 (3)            
+  tremor           6 (2)            
+  nervousness      5 (2)            
+  discoordination    3 (1)            
+      Intramuscular injections of quinidine gluconate are typically followed by moderate to severe local pain. Some patients will develop tender nodules at the site of injection that persist for several weeks.
+ 
+
+ Vomiting and diarrhea can occur as isolated reactions to therapeutic levels of quinidine, but they may also be the first signs of  cinchonism  , a syndrome that may also include tinnitus, reversible high-frequency hearing loss, deafness, vertigo, blurred vision, diplopia, photophobia, headache, confusion, and delirium. Cinchonism is most often a sign of chronic quinidine toxicity, but it may appear in sensitive patients after a single moderate dose.
+
+
+
+ A few cases of  hepatotoxicity  , including granulomatous hepatitis, have been reported in patients receiving quinidine. All of these have appeared during the first few weeks of therapy, and most (not all) have remitted once quinidine was withdrawn.
+
+
+
+   Autoimmune and inflammatory syndromes  associated with quinidine therapy have included fever, urticaria, flushing, exfoliative rash, bronchospasm, pneumonitis, psoriasiform rash, pruritus and lymphadenopathy, hemolytic anemia, vasculitis, thrombocytopenic purpura, uveitis, angioedema, agranulocytosis, the sicca syndrome, arthralgia, myalgia, elevation in serum levels of skeletal-muscle enzymes, and a disorder resembling systemic lupus erythematosus.
+
+
+
+ Convulsions, apprehension, and ataxia have been reported, but it was not clear that these were not simply the results of hypotension and consequent cerebral hypoperfusion. There are many reports of syncope. Acute psychotic reactions have been reported to follow the first dose of quinidine, but these reactions appear to be extremely rare.
+
+
+
+ Other adverse reactions occasionally reported include depression, mydriasis, disturbed color perception, night blindness, scotomata, optic neuritis, visual field loss, photo-sensitivity, and abnormalities of pigmentation.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

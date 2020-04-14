@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="luxiq" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The most frequent adverse event was burning/itching/stinging at the application site; the incidence and severity of this event were as follows:
+
+
+
+
+ Incidence and severity of burning/itching/stinging   
+                                                        Maximum severity   
+ Product                    Total incidence             Mild              Moderate        Severe             
+                             
+ Luxiq Foam n=63            34 (54%)                    28 (44%)          5 (8%)          1 (2%)             
+ Betamethasone valerate lotion n=63  33 (52%)                    26 (41%)          6 (10%)         1 (2%)             
+                             
+ Placebo Foam n=32          24 (75%)                    13 (41%)          7 (22%)         4 (12%)            
+ Placebo Lotion n=30        20 (67%)                    12 (40%)          5 (17%)         3 (10%)            
+           Other adverse events which were considered to be possibly, probably, or definitely related to Luxiq occurred in 1 patient each; these were paresthesia, pruritus, acne, alopecia, and conjunctivitis.
+ 
+
+ The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximately decreasing order of occurrence: irritation; dryness; folliculitis; acneiform eruptions; hypopigmentation; perioral dermatitis; allergic contact dermatitis; secondary infection; skin atrophy; striae; and miliaria.
+
+
+
+ Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

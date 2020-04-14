@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="cefotetan" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  In clinical studies, the following adverse effects were considered related to Cefotetan for Injection USP and Dextrose Injection USP therapy. Those appearing in italics have been reported during postmarketing experience.
+
+
+
+   Gastrointestinal:  symptoms occurred in 1.5% of patients, the most frequent were diarrhea (1 in 80) and nausea (1 in 700);  pseudomembranous colitis  . Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment or surgical prophylaxis. (See    WARNINGS    .)
+
+
+
+   Hematologic:  laboratory abnormalities occurred in 1.4% of patients and included eosinophilia (1 in 200), positive direct Coombs' test (1 in 250), and thrombocytosis (1 in 300);  agranulocytosis, hemolytic anemia, leukopenia, thrombocytopenia,  and  prolonged prothrombin time with or without bleeding.  
+
+
+
+   Hepatic:  enzyme elevations occurred in 1.2% of patients and included a rise in ALT (SGPT) (1 in 150), AST (SGOT) (1 in 300), alkaline phosphatase (1 in 700), and LDH (1 in 700).
+
+
+
+   Hypersensitivity:  reactions were reported in 1.2% of patients and included rash (1 in 150) and itching (1 in 700);  anaphylactic reactions  and  urticaria  .
+
+
+
+   Local:  effects were reported in less than 1% of patients and included phlebitis at the site of injection (1 in 300), and discomfort (1 in 500).
+
+
+
+   Renal:    Elevations in BUN and serum creatinine  have been reported.
+
+
+
+   Urogenital:    Nephrotoxicity  has rarely been reported.
+
+
+
+   Miscellaneous:    Fever  
+
+
+
+ In addition to the adverse reactions listed above which have been observed in patients treated with cefotetan, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: pruritus, Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, vomiting, abdominal pain, colitis, superinfection, vaginitis including vaginal candidiasis, renal dysfunction, toxic nephropathy, hepatic dysfunction including cholestasis, aplastic anemia, hemorrhage, elevated bilirubin, pancytopenia, and neutropenia.
+
+
+
+ Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced. (See    DOSAGE AND ADMINISTRATION    and    OVERDOSAGE    .) If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

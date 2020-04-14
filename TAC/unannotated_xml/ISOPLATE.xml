@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="isoplate" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  ISOPLATE SOLUTION is added to platelets after the apheresis procedure is complete. It is not for direct intravenous infusion. It is expected to cause adverse events that are normally associated with platelet transfusion.
+
+
+
+   EXCERPT:   ISOPLATE SOLUTION is expected to cause adverse events that are seen with platelet transfusion. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Terumo BCT, Inc. at 1-877-339-4228 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  No adverse reactions were reported in the subjects infused with &lt; 10 mL of radiolabeled platelets stored for 5 days in 65% ISOPLATE SOLUTION, and rinsed prior to infusion  [See  Clinical Studies (14)  .]  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+    *  Verify that the solution bag has been securely attached to the platelet additive solution line on the Trima Accel system tubing set using aseptic technique. 
+ *  Do not reuse. Discard unused or partially used solution bags. 
+   *  Verify that the ISOPLATE SOLUTION has been securely attached to the platelet additive solution line on the Trima Accel system tubing set using aseptic technique. (  5  ) 
+      EXCERPT:   
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

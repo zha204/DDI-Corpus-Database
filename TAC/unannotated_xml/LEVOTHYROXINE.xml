@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="levothyroxine" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Adverse reactions associated with levothyroxine therapy are primarily those of hyperthyroidism due to therapeutic overdosage (see    PRECAUTIONS    and    OVERDOSAGE    ). They include the following:
+
+
+
+     General:    fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating;
+
+
+
+     Central nervous system:    headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia;
+
+
+
+     Musculoskeletal:    tremors, muscle weakness;
+
+
+
+     Cardiovascular:    palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest;
+
+
+
+     Respiratory:    dyspnea;
+
+
+
+     Gastrointestinal:    diarrhea, vomiting, abdominal cramps and elevation in liver function tests;
+
+
+
+     Dermatologic:    hair loss; flushing;
+
+
+
+     Endocrine:    decreased bone mineral density;
+
+
+
+     Reproductive:    menstrual irregularities, impaired fertility.
+
+
+
+ Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in children receiving levothyroxine therapy. Overtreatment may result in craniosynostosis in infants and premature closure of the epiphyses in children with resultant compromised height.
+
+
+
+ Seizures have been reported rarely with the institution of levothyroxine therapy.
+
+
+
+ Inadequate levothyroxine dosage will produce or fail to ameliorate the signs and symptoms of hypothyroidism.
+
+
+
+ Hypersensitivity reactions to inactive ingredients have occurred in patients treated with thyroid hormone products. These include urticaria, pruritus, skin rash, flushing, angioedema, various Gl symptoms (abdominal pain, nausea, vomiting and diarrhea), fever, arthralgia, serum sickness and wheezing. Hypersensitivity to levothyroxine itself is not known to occur.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

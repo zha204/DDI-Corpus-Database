@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="riastap" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The most serious adverse reactions that have been reported in clinical studies or through postmarketing surveillance following RiaSTAP treatment are allergic-anaphylactic reactions and thromboembolic episodes, including myocardial infarction, pulmonary embolism, deep vein thrombosis, and arterial thrombosis.
+
+
+
+ The most common adverse reactions that have been reported in clinical studies or through postmarketing surveillance following RiaSTAP treatment are allergic reactions and generalized reactions such as chills, fever, nausea, and vomiting.
+
+
+
+    EXCERPT:    *  The most serious adverse reactions observed are thrombotic episodes (pulmonary embolism, myocardial infarction, deep vein thrombosis) and anaphylactic reactions. The most common adverse reactions observed in clinical studies (frequency &gt;1%) were fever and headache (  6  ). 
+     
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact CSL Behring at 1-866-915-6958 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+    Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed cannot be directly compared to rates in other clinical studies and may not reflect the rates observed in practice.  
+
+
+
+ The most common adverse reactions observed in more than one subject in clinical studies (frequency &gt;1%) were fever and headache.
+
+
+
+   6.2 Postmarketing Experience
+
+    Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate the frequency of these reactions or establish a causal relationship to product exposure.  
+
+
+
+ Adverse reactions reported in patients receiving RiaSTAP for treatment of fibrinogen deficiency include allergic-anaphylactic reactions (including rash, dyspnea, etc.), general reactions such as chills, fever, nausea, vomiting and thromboembolic complications such as myocardial infarction, pulmonary embolism, and deep vein thrombosis.
+
+
+
+ The following adverse reactions, identified by system organ class, have shown a possible causal relationship with RiaSTAP.
+
+
+
+ *   Allergic-anaphylactic reactions: anaphylaxis , dyspnea, rash 
+ *   Cardiovascular: thromboembolism, pulmonary embolism ( see  Warnings and Precautions, Thrombosis [5.2]   ) 
+ *   General/Body as a Whole: chills, fever, nausea, vomiting 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Monitor patients for early signs of allergic or hypersensitivity reactions and if necessary, discontinue administration and institute appropriate treatment (  5.1  ). 
+ *  Thrombotic events have been reported in patients receiving RiaSTAP. Weigh the benefits of administration versus the risks of thrombosis (  5.2  ) 
+ *  RiaSTAP is made from pooled human plasma. Products made from human plasma may contain infectious agents, e.g., viruses and, theoretically, the Creutzfeldt-Jakob disease (CJD) agent (  5.3  ). 
+    
+ 
+
+   5.1 Allergic Reactions
+
+
+
+  Allergic reactions may occur. If symptoms of allergic or early signs of hypersensitivity reactions (including hives, generalized urticaria, tightness of the chest, wheezing, hypotension, and anaphylaxis) occur, immediately discontinue administration ( see  Patient Counseling Information [17.1]    ). The treatment required depends on the nature and severity of the reaction.
+
+
+
+    5.2 Thrombosis
+
+
+
+  Thrombosis may occur spontaneously in patients with congenital fibrinogen deficiency with or without the use of fibrinogen replacement therapy.  1  Thromboembolic events have been reported in patients treated with RiaSTAP. Weigh the benefits of RiaSTAP administration versus the risk of thrombosis. Patients receiving RiaSTAP should be monitored for signs and symptoms of thrombosis. ( see  Patient Counseling Information [17.2]    )
+
+
+
+    5.3 Transmissible Infectious Agents
+
+
+
+  RiaSTAP is made from human plasma. Products made from human plasma may contain infectious agents (e.g., viruses and theoretically the Creutzfeldt-Jakob disease agent [CJD]) that can cause disease. The risk that such products will transmit an infectious agent has been reduced by screening plasma donors for prior exposure to certain viruses, by testing for the presence of certain current virus infections, and by a process demonstrated to inactivate and/or remove certain viruses during manufacturing. (see  Description [11]  )  . Despite these measures, such products may still potentially transmit disease. There is also the possibility that unknown infectious agents may be present in such products (see  Patient Counseling Information [17.3]  )  . All infections thought by a physician possibly to have been transmitted by this product should be reported by the physician or other healthcare provider to CSL Behring at 1-866-915-6958.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

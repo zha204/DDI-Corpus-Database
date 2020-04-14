@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="aminocaproic" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Aminocaproic acid is generally well tolerated. The following adverse experiences have been reported:
+
+
+
+   General:  Edema, headache, malaise.
+
+
+
+   Hypersensitivity Reactions:  Allergic and anaphylactoid reactions, anaphylaxis.
+
+
+
+   Cardiovascular:  Bradycardia, hypotension, peripheral ischemia, thrombosis.
+
+
+
+   Gastrointestinal:  Abdominal pain, diarrhea, nausea, vomiting.
+
+
+
+   Hematologic:  Agranulocytosis, coagulation disorder, leukopenia, thrombocytopenia.
+
+
+
+   Musculoskeletal:  CPK increased, muscle weakness, myalgia, myopathy (see    WARNINGS    ), myositis, rhabdomyolysis.
+
+
+
+   Neurologic:  Confusion, convulsions, delirium, dizziness, hallucinations, intracranial hypertension, stroke, syncope.
+
+
+
+   Respiratory:  Dyspnea, nasal congestion, pulmonary embolism.
+
+
+
+   Skin:  Pruritis, rash.
+
+
+
+   Special Senses:  Tinnitus, vision decreased, watery eyes.
+
+
+
+   Urogenital:  BUN increased, renal failure. There have been some reports of dry ejaculation during the period of aminocaproic acid treatment. These have been reported to date only in hemophilia patients who received the drug after undergoing dental surgical procedures. However, this symptom resolved in all patients within 24 to 48 hours of completion of therapy.
+
+
+
+   OVERDOSAGE
+
+  A few cases of acute overdosage with aminocaproic acid administered intravenously have been reported. The effects have ranged from no reaction to transient hypotension to severe acute renal failure leading to death. One patient with a history of brain tumor and seizures experienced seizures after receiving an 8 gram bolus injection of aminocaproic acid. The single dose of aminocaproic acid causing symptoms of overdosage or considered to be life-threatening is unknown. Patients have tolerated doses as high as 100 grams while acute renal failure has been reported following a dose of 12 grams.
+
+
+
+ The intravenous and oral LD50of aminocaproic acid were 3.0 and 12.0 g/kg respectively in the mouse and 3.2 and 16.4 g/kg respectively in the rat. An intravenous infusion dose of 2.3 g/kg was lethal in the dog. On intravenous administration, tonic-clonic convulsions were observed in dogs and mice.
+
+
+
+ No treatment for overdosage is known, although evidence exists that aminocaproic acid is removed by hemodialysis and may be removed by peritoneal dialysis. Pharmacokinetic studies have shown that total body clearance of aminocaproic acid is markedly decreased in patients with severe renal failure.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

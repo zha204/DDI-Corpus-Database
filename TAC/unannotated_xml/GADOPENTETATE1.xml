@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="gadopentetate1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The mean age of the 1272 patients who received Gadopentetate dimeglumine Injection in pre-market clinical trials was 46.4 years (range 2 to 93 years). Of these patients, 55% (700) were male and 45% (572) were female. Of the 1271 patients who received Gadopentetate dimeglumine Injection and for whom race was reported, 82.1% (1043) were Caucasian, 9.7% (123) were Black, 5.3% (67) were Hispanic, 2.1% (27) were Oriental/Asian, and 0.9% (11) were other.
+
+
+
+ The most common adverse reaction was headache (4.8%). The majority of headaches were transient and of mild to moderate severity. Other adverse reactions that occurred in &gt;= 1% of patients included: nausea (2.7%), injection site coldness/localized coldness (2.3%) and dizziness (1%).
+
+
+
+ The following additional adverse reactions occurred in less than 1% of the patients:
+
+
+
+   General Disorders:  injection site reactions, including phlebitis, pain, localized warmth, localized edema, and burning sensation; substernal chest pain, back pain, pyrexia, asthenia, feeling cold, generalized warmth, fatigue, and chest tightness, and anaphylactoid reactions characterized by cardiovascular, respiratory and/or cutaneous symptoms, such as dyspnea, bronchospasm, and cough. (See  WARNINGS AND PRECAUTIONS  .)
+
+
+
+   Cardiovascular:  Hypotension, hypertension, tachycardia, migraine, syncope, vasodilatation, pallor.
+
+
+
+   Gastrointestinal:  Abdominal discomfort, teeth pain, increased salivation, abdominal pain, vomiting, diarrhea.
+
+
+
+   Nervous System:  Agitation, anxiety, thirst, somnolence, diplopia, loss of consciousness, convulsions (including grand mal), paresthesia.
+
+
+
+   Respiratory System:  Throat irritation, rhinitis, sneezing.
+
+
+
+   Skin:  Rash, sweating (hyperhidrosis), pruritus, urticaria (hives), facial edema.
+
+
+
+   Special Senses:  Conjunctivitis, taste abnormality, dry mouth, lacrimation, eye irritation, eye pain, ear pain.
+
+
+
+   Postmarketing Experience  
+
+
+
+ The following additional adverse reactions have been identified during postmarketing use of gadopentetate dimeglumine. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The most serious reactions were nephrogenic systemic fibrosis (see  Boxed Warning  ) and acute reactions including cardiac or respiratory arrest, anaphylactic shock, shock, respiratory distress, and laryngeal edema. Life threatening and/or fatal adverse reactions have been reported. The most frequently reported adverse reactions in the postmarketing experience were nausea, vomiting, urticaria and rash.
+
+
+
+   General Disorders and Administration Site Conditions:  Nephrogenic systemic fibrosis (see  Warnings and Precautions  ), body temperature decreased, tremor, shivering (chills).
+
+
+
+   Hypersensitivity Reactions:  Anaphylactic/anaphylactoid reactions that may be fatal and include cardiac or respiratory arrest, respiratory distress, cyanosis, laryngeal edema, laryngospasm, pharyngeal edema, and angioedema (see  Warnings and Precautions  ). Delayed hypersensitivity reactions have been reported up to several hours after administration of gadopentetate dimeglumine.
+
+
+
+   Renal and Urinary:  Acute renal failure, worsening renal impairment (see  Warnings and Precautions  ), urinary incontinence, urinary urgency.
+
+
+
+   Vascular:  Thrombophlebitis, deep vein thrombophlebitis, compartment syndrome requiring surgical intervention.
+
+
+
+   Cardiac:  Cardiac arrest, heart rate decreased, arrhythmia.
+
+
+
+   Ear and Labyrinth Disorders:  Hearing impaired.
+
+
+
+   Eye Disorders:  Visual disturbance.
+
+
+
+   Musculoskeletal and Connective Tissue Disorder:  Arthralgia.
+
+
+
+   Nervous System Disorders:  Coma, parosmia, speech disorder.
+
+
+
+   Respiratory System Disorders:  Respiratory arrest, pulmonary edema.
+
+
+
+   Skin:  Erythema multiforme, pustules (rash pustular).
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: 
+
+  
+
+    WARNING: NEPHROGENIC SYSTEMIC FIBROSIS (NSF)  
+
+
+
+ Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities. NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs.
+
+
+
+ *  Do not administer gadopentetate dimeglumine to patients with: chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m2), oracute kidney injury (see CONTRAINDICATIONS). 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (for example, age &gt;60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing. 
+    Do not exceed the recommended gadopentetate dimeglumine dose and allow a sufficient period of time for elimination of the drug from the body prior to any re-administration (see     WARNINGS AND PRECAUTIONS    ).
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

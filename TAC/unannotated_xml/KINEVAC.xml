@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="kinevac" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  Reactions to sincalide are generally mild and of short duration. The most frequent adverse reactions were abdominal discomfort or pain, and nausea; rapid intravenous injection of 0.04 mcg sincalide per kg expectably causes transient abdominal cramping. These phenomena are usually manifestations of the physiologic action of the drug, including delayed gastric emptying and increased intestinal motility. These reactions occurred in approximately 20 percent of patients; they are not to be construed as necessarily indicating an abnormality of the billiary tract unless there is other clinical or radiologic evidence of disease.
+
+
+
+ The incidence of other adverse reactions, including vomiting, flushing, sweating, rash, hypotension, hypertension, shortness of breath, urge to defecate, headache, diarrhea, sneezing, and numbness was less than 1 percent; dizziness was reported in approximately 2 percent of patients. These manifestations are usually lessened by slower injection rate.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

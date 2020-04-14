@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="phenylephrine2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:  Cardiac Disease  [See  Warnings and Precautions (5.2)  ]   Elevation in Blood Pressure  [See  Warnings and Precautions (5.3)  ]  The following adverse reactions have been identified following use of phenylephrine hydrochloride ophthalmic solution. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+    EXCERPT:    *  Ocular adverse reactions include eye pain and stinging on instillation, temporary blurred vision and photophobia [  6.1  ]. 
+ *  Cardiovascular adverse reactions include increase in blood pressure, syncope, myocardial infarction, tachycardia, arrhythmia and subarachnoid hemorrhage [  6.2  ]. 
+      To report SUSPECTED ADVERSE REACTIONS, contact Paragon BioTeck, Inc. at 1-888-424-1192 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+ 
+
+ 
+
+  6.1 Ocular Adverse Reactions
+
+  Eye pain and stinging on instillation, temporary blurred vision and photophobia, and conjunctival sensitization may occur.
+
+
+
+   6.2 Systemic Adverse Reactions
+
+  A marked increase in blood pressure has been reported particularly, but not limited to low weight premature neonates, infants and hypertensive patients.
+
+
+
+ Cardiovascular reactions which have occurred primarily in hypertensive patients following topical ocular use of phenylephrine hydrochloride ophthalmic solution 10% solution include marked increase in blood pressure, syncope, myocardial infarction, tachycardia, arrhythmia and subarachnoid hemorrhage.  [See  Warnings and Precautions (5.2  and  5.3)  ]  
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Not for injection. Topical ophthalmic use only [  5.1  ] 
+ *  Reports of serious cardiovascular reactions, some fatal, with phenylephrine hydrochloride 10% solution. Monitor blood pressure in patients with cardiovascular disease [  5.2  ] 
+ *  Significant elevations in blood pressure have been reported. Caution in pediatric patients less than 5 years of age, and in patients with elevated blood pressure [  5.3  ]. 
+ *  Rebound miosis has been reported one day after instillation [  5.4  ] 
+    
+ 
+
+   5.1 Topical Ophthalmic Use Only
+
+
+
+  Phenylephrine Hydrochloride Ophthalmic Solution, 2.5% and 10% is not indicated for injection.
+
+
+
+    5.2 Cardiovascular Reactions
+
+
+
+  There have been reports of serious cardiovascular reactions, including ventricular arrhythmias and myocardial infarctions, in patients using phenylephrine 10%. These episodes, some fatal, have usually occurred in patients with pre-existing cardiovascular diseases. Phenylephrine Hydrochloride Ophthalmic Solution, USP 2.5% should be used in these patients.
+
+
+
+    5.3 Elevation in Blood Pressure
+
+
+
+  A significant elevation in blood pressure is not common but has been reported following conjunctival instillation of recommended doses of phenylephrine 10%. The risk is less with phenylephrine 2.5%. Caution should be exercised with the use of phenylephrine 10% in pediatric patients less than 5 years of age and patients with hyperthyroidism, or cardiovascular disease. The post-treatment blood pressure of patients with cardiac and endocrine diseases and any patients who develop symptoms should be carefully monitored.
+
+
+
+    5.4 Rebound Miosis
+
+
+
+  Rebound miosis has been reported one day after receiving phenylephrine hydrochloride ophthalmic solution, and re instillation of the drug produced a lesser mydriatic effect.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

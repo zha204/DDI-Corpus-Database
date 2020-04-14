@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="diprolene2" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+   EXCERPT:    *  The most common adverse reaction reported in 0.4% of adult patients is stinging. (  6.1  ) 
+ *  The most common adverse reactions reported in 10% of pediatric patients are signs of skin atrophy, telangiectasia, bruising, shininess. (  6.1  ,  8.4  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .    
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In controlled clinical trials, involving 242 adult subjects, the adverse reaction associated with the use of DIPROLENE AF Cream reported at a frequency of 0.4% was stinging. It occurred in 1 subject.
+
+
+
+ In a controlled clinical trial involving 67 pediatric subjects from 3 months to 12 years of age, the adverse reactions associated with the use of DIPROLENE AF Cream occurred in 7 of 67 (10%) subjects. Reported reactions included signs of skin atrophy (telangiectasia, bruising, shininess).
+
+
+
+   6.2 Postmarketing Experience
+
+  Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Postmarketing reports for local adverse reactions to topical corticosteroids may also include: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, hypertrichosis, skin atrophy, striae, and miliaria.
+
+
+
+ Hypersensitivity reactions, consisting of predominantly skin signs and symptoms, e.g., contact dermatitis, pruritus, bullous dermatitis, and erythematous rash have been reported.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Effects on endocrine system: DIPROLENE AF Cream can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of treatment. Risk factor(s) include the use of high-potency topical corticosteroids, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and use in pediatric patients. Modify use should HPA axis suppression develop. (  5.1  ,  8.4  ) 
+    
+ 
+
+   5.1 Effects on Endocrine System
+
+
+
+  DIPROLENE AF Cream can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Factors that predispose to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressings, altered skin barrier, liver failure, and young age. Evaluation for HPA axis suppression may be done by using the adrenocorticotropic hormone (ACTH) stimulation test.
+
+
+
+ DIPROLENE AF Cream 0.05% was applied once daily at 7 grams per day for 1 week to diseased skin, in adult subjects with psoriasis or atopic dermatitis, to study its effects on the HPA axis. The results suggested that the drug lowered adrenal corticosteroid secretion, although plasma cortisol levels did not go below the lower limit of the normal range.
+
+
+
+ In an open-label pediatric trial of 60 evaluable subjects (3 months to 12 years of age), 19 subjects showed evidence of HPA axis suppression. Four (4) subjects were tested 2 weeks after discontinuation of DIPROLENE AF Cream 0.05%, and 3 of the 4 (75%) had complete recovery of HPA axis function. The proportion of subjects with adrenal suppression in this trial was progressively greater, the younger the age group.
+
+
+
+ If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
+
+
+
+ Cushing's syndrome and hyperglycemia may also occur with topical corticosteroids. These events are rare and generally occur after prolonged exposure to excessively large doses, especially of high-potency topical corticosteroids.
+
+
+
+ Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface to body mass ratios [see  Use in Specific Populations (8.4)  ]  .
+
+
+
+    5.2 Allergic Contact Dermatitis
+
+
+
+  Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation. Such an observation should be corroborated with appropriate diagnostic patch testing. If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

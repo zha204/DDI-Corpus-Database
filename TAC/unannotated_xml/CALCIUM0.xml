@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="calcium0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse effects have been associated with the use of edetate calcium disodium:
+
+
+
+   Body as a Whole:  pain at intramuscular injection site, fever, chills, malaise, fatigue, myalgia, arthralgia.
+
+
+
+   Cardiovascular  : hypotension, cardiac rhythm irregularities.
+
+
+
+   Renal:  acute necrosis of proximal tubules (which may result in fatal nephrosis), infrequent changes in distal tubules and glomeruli.
+
+
+
+   Urinary:  glycosuria, proteinuria, microscopic hematuria and large epithelial cells in urinary sediment.
+
+
+
+   Nervous System:  tremors, headache, numbness, tingling.
+
+
+
+   Gastrointestinal:  cheilosis, nausea, vomiting, anorexia, excessive thirst.
+
+
+
+   Hepatic:  mild increases in SGOT and SGPT are common, and return to normal within 48 hours after cessation of therapy.
+
+
+
+   Immunogenic:  histamine-like reactions (sneezing, nasal congestion, lacrimation), rash.
+
+
+
+   Hematopoietic  : transient bone marrow depression, anemia.
+
+
+
+   Metabolic:  zinc deficiency, hypercalcemia.
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: WARNINGS
+
+  WARNINGS
+
+  Calcium Disodium Versenate is capable of producing toxic effects which can be fatal. Lead encephalopathy is relatively rare in adults, but occurs more often in pediatric patients in whom it may be incipient and thus overlooked. The mortality rate in pediatric patients has been high. Patients with lead encephalopathy and cerebral edema may experience a lethal increase in intracranial pressure following intravenous infusion; the intramuscular route is preferred for these patients. In cases where the intravenous route is necessary, avoid rapid infusion. The dosage schedule should be followed and at no time should the recommended daily dose be exceeded.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

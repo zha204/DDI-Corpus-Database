@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="thyrogen" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions reported in clinical trials were nausea and headache. (      6.1      )
+
+
+
+  
+
+
+
+     To report SUSPECTED ADVERSE REACTIONS, contact Genzyme Corporation at 800-745-4447 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to THYROGEN in 481 thyroid cancer patients who participated in a total of 6 clinical trials of THYROGEN: 4 trials for diagnostic use and 2 trials for ablation.  In clinical trials, patients had undergone near-total thyroidectomy and had a mean age of 46.1 years.  Thyroid cancer diagnosis was as follows: papillary (69.2%), follicular (12.9%), Hurthle cell (2.3%) and papillary/follicular 15.6%.  Most patients received 2 intramuscular injections of 0.9 mg of THYROGEN injection given 24 hours apart [    see Clinical Studies (    14.1    ) (    14.2    )    ].
+
+
+
+ The safety profile of patients who have undergone thyroidectomy and received THYROGEN as adjunctive treatment for radioiodine ablation of thyroid tissue remnants for well-differentiated thyroid cancer did not differ from that of patients who received THYROGEN for diagnostic purposes.
+
+
+
+ Reactions reported in &gt;= 1% of patients in the combined trials are summarized in Table 1.  In some studies, an individual patient may have participated in both THYROGEN and thyroid hormone withdrawal [    see Clinical Studies (    14.1    ) (    14.2    )    ].
+
+
+
+     Table 1: Summary of Adverse Reactions by THYROGEN and Thyroid Hormone Withdrawal in Pooled Clinical Trials (&gt;=1% of Patients in any Phase)    
+
+
+
+
+  Preferred Term             THYROGEN  (N=481)  n (%)    Thyroid Hormone Withdrawal   (N=418)  n (%)    
+  Nausea                     53 (11)                    2 (&lt;1)                     
+  Headache                   29 (6)                     0                          
+  Fatigue                    11 (2)                     2 (&lt;1)                     
+  Vomiting                   11 (2)                     0                          
+  Dizziness                  9 (2)                      0 (0.0)                    
+  Asthenia                   5 (1)                      1 (&lt;1)                     
+        6.2 Postmarketing Experience
+   The following adverse reactions have been identified during post-approval use of THYROGEN.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *  Transient (&lt;48 hours) influenza-like symptoms, including fever (&gt;100 degrees F/38 degrees C), chills/shivering, myalgia/arthralgia, fatigue/asthenia/malaise, headache, and chills. 
+ *  Hypersensitivity including urticaria, rash, pruritus, flushing, and respiratory signs and symptoms. 
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Risk of THYROGEN-induced hyperthyroidism.  Hospitalization for administration of THYROGEN and post administrative observation should be considered for patients at risk.(    5.1    ) 
+ *  Stroke in female patients as well as other neurologic events in patients with central nervous system  metastases. (    5.2    ) (    5.3    ) 
+ *  Sudden, rapid and painful enlargement in distant metastatic thyroid cancer  (    5.3    ) 
+    
+ 
+
+   5.1 THYROGEN-induced Hyperthyroidism
+
+
+
+  When given to patients who have substantial thyroid tissue still  in situ    or functional thyroid cancer metastases, THYROGEN is known to cause a transient (over 7 to 14 days) but significant rise in serum thyroid hormone concentration.  There have been reports of death in non-thyroidectomized patients and in patients with distant metastatic thyroid cancer in which events leading to death occurred within 24 hours after administration of THYROGEN.  Patients with residual thyroid tissue at risk for THYROGEN-induced hyperthyroidism include the elderly and those with a known history of heart disease.  Hospitalization for administration of THYROGEN and post-administration observation in patients at risk should be considered.
+
+
+
+    5.2 Stroke
+
+
+
+  There are postmarketing reports of radiologically-confirmed stroke and neurological findings suggestive of stroke unconfirmed radiologically (e.g., unilateral weakness) occurring within 72 hours (range 20 minutes to three days) of THYROGEN administration in patients without known central nervous system metastases.  The majority of such patients were young women taking oral contraceptives at the time of their event or had other risk factors for stroke, such as smoking or a history of migraine headaches.  The relationship between THYROGEN administration and stroke is unknown.  Patients should be well-hydrated prior to treatment with THYROGEN.
+
+
+
+    5.3 Sudden Rapid Tumor Enlargement
+
+
+
+  Sudden, rapid and painful enlargement of residual thyroid tissue or distant metastases can occur following treatment with THYROGEN. This may lead to acute symptoms, which depend on the anatomical location of the tissue.  Such symptoms include acute hemiplegia, hemiparesis, and loss of vision one to three days after THYROGEN administration.  Laryngeal edema, pain at the site of distant metastasis, and respiratory distress requiring tracheotomy have also been reported after THYROGEN administration.
+
+
+
+ Pretreatment with glucocorticoids should be considered for patients in whom tumor expansion may compromise vital anatomic structures.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

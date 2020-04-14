@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="oxytocin1" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    ADVERSE REACTIONS
+
+  The following adverse reactions have been reported in the mother:
+
+
+
+ Anaphylactic reaction                                Nausea
+
+
+
+ Postpartum hemorrhage                            Vomiting
+
+
+
+ Cardiac arrhythmia                                    Premature ventricular contractions
+
+
+
+ Fatal afibrinogenemia                                Pelvic hematoma
+
+
+
+ Excessive dosage or hypersensitivity to the drug may result in uterine hypertonicity, spasm, tetanic contraction, or rupture of the uterus.
+
+
+
+ The possibility of increased blood loss and afibrinogenemia should be kept in mind when administering the drug.
+
+
+
+ Severe water intoxication with convulsions and coma has occurred, associated with a slow oxytocin infusion over a 24-hour period. Maternal death due to oxytocin-induced water intoxication has been reported.
+
+
+
+ The following adverse reactions have been reported in the fetus or infant:
+
+
+
+ (Due to induced uterine motility)
+
+
+
+     Bradycardia
+
+
+
+     Premature ventricular contractions and other arrhythmias
+
+
+
+     Permanent CNS or brain damage
+
+
+
+     Fetal death
+
+
+
+ (Due to use of oxytocin in the mother)
+
+
+
+     Low Apgar scores at five minutes
+
+
+
+     Neonatal jaundice
+
+
+
+     Neonatal retinal hemorrhage
+</Section>
+    <Section name="boxed warnings" id="S2">
+
+    BOXED WARNING: INDICATIONS AND USAGE
+
+  INDICATIONS AND USAGE
+
+  
+
+    IMPORTANT NOTICE  Oxytocin is indicated for the medical rather than the
+
+                                    elective induction of labor. Available data and information are
+
+                                    inadequate to define the benefits-to-risks considerations in the
+
+                                    use of the drug product for elective induction. Elective
+
+                                    induction of labor is defined as the initiation of labor for
+
+                                    convenience in an individual with a term pregnancy who is free
+
+                                    of medical indications. 
+
+
+
+   Antepartum
+
+  Oxytocin is indicated for the initiation or improvement
+
+                                    of uterine contractions, where this is desirable and considered
+
+                                    suitable for reasons of fetal or maternal concern, in order to
+
+                                    achieve early vaginal delivery. It is indicated for (1)
+
+                                    induction of labor in patients with a medical indication for the
+
+                                    initiation of labor, such as Rh problems, maternal diabetes,
+
+                                    preeclampsia at or near term, when delivery is in the best
+
+                                    interests of mother and fetus or when membranes are prematurely
+
+                                    ruptured and delivery is indicated; (2) stimulation or
+
+                                    reinforcement of labor, as in selected cases of uterine inertia;
+
+                                    (3) as adjunctive therapy in the management of incomplete or
+
+                                    inevitable abortion. In the first trimester, curettage is
+
+                                    generally considered primary therapy. In second trimester
+
+                                    abortion, oxytocin infusion will often be successful in emptying
+
+                                    the uterus. Other means of therapy, however, may be required in
+
+                                    such cases.
+
+
+
+   Postpartum
+
+  Oxytocin is indicated to produce uterine contractions
+
+                                    during the third stage of labor and to control postpartum
+
+                                    bleeding or hemorrhage.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

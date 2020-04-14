@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="hydrocortisone3" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *    HPA axis suppression. This has been observed in pediatric subjects using Hydrocortisone Butyrate Cream (lipid) 0.1% [ see    Warnings and Precautions (5.1)    and    Use in Specific Populations (8.4)   ] 
+ *    Concomitant skin infections [ see    Warnings and Precautions (5.2)   ] 
+ *    Skin irritation [ see    Warnings and Precautions (5.3)   ] 
+      EXCERPT:   The most common adverse reactions (&gt;=1%) are HPA axis suppression and application site reactions.
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Metacon Labs at 1-888-375-0888 and www.metaconlabs.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience: Adults
+
+  The following additional local adverse reactions have been reported infrequently with topical corticosteroids but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, drying, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria.
+
+
+
+   6.2 Clinical Trials Experience: Pediatrics
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. The safety data derived from Hydrocortisone Butyrate Cream (lipid) 0.1% clinical trials reflect exposure to Hydrocortisone Butyrate Cream (lipid) 0.1% twice daily for up to four weeks in separate clinical trials involving pediatric subjects 3 months to 18 years of age with mild to moderate atopic dermatitis.
+
+
+
+ Adverse reactions shown in the table below include those for which there is some basis to believe there is a causal relationship to Hydrocortisone Butyrate Cream (lipid) 0.1%.
+
+
+
+
+   Table 1. Frequency of adverse reactions in pediatric subjects with mild to moderate atopic dermatitis.    
+                                     Hydrocortisone Butyrate Cream (lipid) 0.1%.  (n=131)    Vehicle(n=133)                     
+  Application site reactions, including application site folliculitis, irritation, dermatitis, or erythema    1.5%                               1.5%                               
+  Acne                               0.8%                               0.0%                               
+  Telangiectasia                     0.0%                               0.8%                               
+           6.3 Postmarketing Experience
+   The following adverse reactions have been identified during post approval use of Hydrocortisone Butyrate Cream (lipid) 0.1%.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Skin  : Erythema, Rash and Application site irritation.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Reversible hypothalamic-pituitary-adrenal (HPA) axis suppression may occur, with the potential for glucocorticosteroid insufficiency.  Consider periodic evaluations for HPA axis suppression if Hydrocortisone Butyrate Cream (lipid) 0.1% is applied to large surface areas or used under occlusion.  If HPA axis suppression is noted, reduce the application frequency, discontinue use, or switch to a lower potency corticosteroid. (5.1, 8.4) 
+ *    Systemic effects of topical corticosteroids may also include manifestations of Cushing's syndrome, hyperglycemia, and glucosuria. (5.1, 8.4) 
+ *    Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface-to-body-mass ratios. (5.1, 8.4) 
+ *    Initiate appropriate therapy if concomitant skin infections develop. (5.2) 
+ *    Discontinue use if irritation develops. (5.3) 
+    
+ 
+
+   5.1 Hypothalamic-pituitary-adrenal (HPA) Axis Suppression
+
+
+
+  Systemic effects of topical corticosteroids may include reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria.
+
+
+
+ Studies conducted in pediatric subjects demonstrated reversible HPA axis suppression after use of Hydrocortisone Butyrate Cream (lipid) 0.1%. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of Hydrocortisone Butyrate Cream (lipid) 0.1% due to their larger skin surface-to-body-mass ratios [ see     Use in Specific Populations (8.4)    ].
+
+
+
+ Patients applying a topical corticosteroid to a large surface area or to areas under occlusion should be considered for periodic evaluation of the HPA axis.  This may be done by using cosyntropin (ACTH1-24) stimulation testing (CST).
+
+
+
+ If HPA axis suppression is noted, the frequency of application should be reduced or the drug should be withdrawn, or a less potent corticosteroid should be substituted.  Signs and symptoms of glucocorticosteroid insufficiency may occur, requiring supplemental systemic corticosteroids.
+
+
+
+    5.2 Concomitant Skin Infections
+
+
+
+  If skin infections are present or develop, an appropriate antifungal, antibacterial or antiviral agent should be used.
+
+
+
+ If a favorable response does not occur promptly, use of Hydrocortisone Butyrate Cream (lipid) 0.1% should be discontinued until the infection has been adequately controlled.
+
+
+
+    5.3 Skin Irritation
+
+
+
+  Hydrocortisone Butyrate Cream (lipid) 0.1% may cause local skin adverse reactions [ see     Adverse Reactions (6)    ]. If irritation develops, Hydrocortisone Butyrate Cream (lipid) 0.1% should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noticing a clinical exacerbation. Such an observation should be corroborated with appropriate patch testing.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

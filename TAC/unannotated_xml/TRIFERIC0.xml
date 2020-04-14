@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label drug="triferic0" track="TAC2017_ADR">
+  <Text>
+    <Section name="adverse reactions" id="S1">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  Hypersensitivity reactions [ see  Warnings and Precautions (5.1)   ]. 
+      EXCERPT:   The most common adverse reactions in controlled clinical studies include: headache, peripheral edema, asthenia, AV fistula thrombosis, urinary tract infection, AV fistula site hemorrhage, pyrexia, fatigue, procedural hypotension, muscle spasms, pain in extremity, back pain, and dyspnea.
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Rockwell Medical at 1-855-333-4315 or 1-248-960-9009 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug may not reflect the rates observed in practice.
+
+
+
+ In two randomized, placebo-controlled clinical trials, a total of 292 patients were administered Triferic for periods of up to 1 year [  see  Clinical Studies (14)    ]. The mean total exposure in the randomized treatment period was 5 months. A total of 296 patients received placebo treatment for a similar time period. In the two studies, 64% were male and 54% were Caucasian. The median age of patients was 60 years (range, 20 to 89 years).
+
+
+
+ Adverse events occurring in 3% or greater of patients treated with Triferic in the randomized clinical trials are listed in Table 1.
+
+
+
+ Table 1: Adverse Reactions Reported in Two Clinical Trials in at Least 3% of Patients Receiving Triferic and at an Incidence at Least 1% Greater than Placebo 
+ System Organ Class  Preferred Term                     TrifericN=292n (%)          PlaceboN=296n (%)       
+  
+ Number of patients with at least one adverse reaction         229 (78.4)                 223 (75.3)           
+ General Disorders and Administration Site Conditions                                                         
+   Peripheral edema                                          20 (6.8)                   11 (3.7)            
+   Pyrexia                                                   13 (4.5)                    9 (3.0)            
+   Asthenia                                                  12 (4.1)                    9 (3.0)            
+   Fatigue                                                   11 (3.8)                    6 (2.0)            
+ Infections and Infestations                                                                                
+   Urinary tract infection                                   13 (4.5)                    4 (1.4)            
+ Injury, Poisoning, and Procedural Complications                                                            
+   Procedural hypotension                                    63 (21.6)                  57 (19.3)           
+   Arteriovenous fistula thrombosis                          10 (3.4)                    6 (2.0)            
+   Arteriovenous fistula site hemorrhage                     10 (3.4)                    5 (1.7)            
+ Musculoskeletal and Connective Tissue Disorders                                                            
+   Muscle spasms                                             28 (9.6)                   24 (8.1)            
+   Pain in extremity                                         20 (6.8)                   17 (5.7)            
+   Back pain                                                 13 (4.5)                   10 (3.4)            
+ Nervous System Disorders                                                                                   
+   Headache                                                  27 (9.2)                   16 (5.4)            
+ Respiratory, Thoracic and Mediastinal Disorders                                                            
+   Dyspnea                                                   17 (5.8)                   13 (4.4)            
+               Adverse Reactions Leading to Treatment Discontinuation    
+ 
+
+ In clinical trials, adverse reactions leading to treatment discontinuation included headache, asthenia, dizziness, constipation, nausea, hypersensitivity reactions, intradialytic hypotension, pruritus, and pyrexia.
+
+
+
+ Adverse reactions reported in the treatment extension period were similar to those observed in the randomized clinical studies.
+</Section>
+    <Section name="warnings and precautions" id="S2">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Hypersensitivity Reactions: Observe for signs and symptoms of hypersensitivity during and after hemodialysis and until clinically stable. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Serious hypersensitivity reactions, including anaphylactic-type reactions, some of which have been life-threatening and fatal, have been reported in patients receiving parenteral iron products. Patients may present with shock, clinically significant hypotension, loss of consciousness, and/or collapse. Monitor patients for signs and symptoms of hypersensitivity during and after hemodialysis until clinically stable. Personnel and therapies should be immediately available for the treatment of serious hypersensitivity reactions [ see  Adverse Reactions (6)    ].
+
+
+
+ Hypersensitivity reactions have been reported in 1 (0.3%) of 292 patients receiving Triferic in two randomized clinical trials.
+
+
+
+    5.2 Iron Laboratory Testing
+
+
+
+  Iron status should be determined on pre-dialysis blood samples. Post dialysis serum iron parameters may overestimate serum iron and transferrin saturation.
+</Section>
+  </Text>
+  <Mentions />
+  <Relations />
+  <Reactions />
+</Label>

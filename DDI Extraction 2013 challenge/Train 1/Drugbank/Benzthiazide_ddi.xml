@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d208">
+    <sentence id="DDI-DrugBank.d208.s0" text="Benzthiazide may interact with alcohol, blood thinners, decongestant drugs (allergy, cold, and sinus medicines), diabetic drugs, lithium, norepinephrine, NSAIDs like Aleve or Ibuprofen, and high blood pressure medications.">
+        <entity id="DDI-DrugBank.d208.s0.e0" charOffset="0-11"
+            type="drug" text="Benzthiazide"/>
+        <entity id="DDI-DrugBank.d208.s0.e1" charOffset="31-37"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-DrugBank.d208.s0.e2" charOffset="40-52"
+            type="group" text="blood thinner"/>
+        <entity id="DDI-DrugBank.d208.s0.e3" charOffset="56-73"
+            type="group" text="decongestant drugs"/>
+        <entity id="DDI-DrugBank.d208.s0.e4" charOffset="129-135"
+            type="drug" text="lithium"/>
+        <entity id="DDI-DrugBank.d208.s0.e5" charOffset="138-151"
+            type="drug" text="norepinephrine"/>
+        <entity id="DDI-DrugBank.d208.s0.e6" charOffset="154-159"
+            type="group" text="NSAIDs"/>
+        <entity id="DDI-DrugBank.d208.s0.e7" charOffset="166-170"
+            type="brand" text="Aleve"/>
+        <entity id="DDI-DrugBank.d208.s0.e8" charOffset="175-183"
+            type="drug" text="Ibuprofen"/>
+        <ddi id="DDI-DrugBank.d208.s0.d0" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e1" type="int"/>
+        <ddi id="DDI-DrugBank.d208.s0.d1" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e2" type="int"/>
+        <ddi id="DDI-DrugBank.d208.s0.d2" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e3" type="int"/>
+        <ddi id="DDI-DrugBank.d208.s0.d3" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e4" type="int"/>
+        <ddi id="DDI-DrugBank.d208.s0.d4" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e5" type="int"/>
+        <ddi id="DDI-DrugBank.d208.s0.d5" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e6" type="int"/>
+        <ddi id="DDI-DrugBank.d208.s0.d6" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e7" type="int"/>
+        <ddi id="DDI-DrugBank.d208.s0.d7" e1="DDI-DrugBank.d208.s0.e0"
+            e2="DDI-DrugBank.d208.s0.e8" type="int"/>
+    </sentence>
+</document>
