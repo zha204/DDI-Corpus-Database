@@ -10,7 +10,7 @@
 ### DDI Corpus
 
   * **PK Corpus**
-  * **Translational DDI Corpus**
+  * **DDI Corpus (data for the Translational DDI Corpus paper)**
   * **Clinical Safety Corpus**
   * **Drug Synergy Corpus**
   * **DDI Extraction 2013 Challenge**
