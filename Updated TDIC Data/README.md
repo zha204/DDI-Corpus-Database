@@ -38,8 +38,8 @@ Contains the base sentences, original curations, and
 - 'interaction': Positive or Negative of the interaction (DDI or DEI)
 from the CLINICAL PD DDI studies.
 
-### `mechanisms_in_vitro.xlsx`
-Contains the detailed mechanisms for each DEI pair of the in vitro PK DDI studies only.
+### `multip_DEI_mechanisms_in_vitro.xlsx`
+Contains the detailed mechanisms for each DEI pair in the sentences with multiple DEI pairs of the in vitro PK DDI studies.
 
 
 
