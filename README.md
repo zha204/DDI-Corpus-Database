@@ -11,6 +11,7 @@
 
   * **PK Corpus**
   * **DDI Corpus (TDIC) - data for the Translational DDI Corpus paper)**
+  * **Updated TDIC**
   * **Clinical Safety Corpus**
   * **Drug Synergy Corpus**
   * **DDI Extraction 2013 Challenge**
