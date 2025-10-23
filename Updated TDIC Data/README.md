@@ -1,4 +1,4 @@
-# Enhanced Translational Drug-Interaction Corpus (TDIC)
+# Simple-Translational Drug-Interaction Corpus (S-TDIC)
 
 This repository contains an updated and enhanced version of the Translational Drug-Interaction Corpus (TDIC). This dataset has been meticulously curated to provide more granular and accurate annotations for research in biomedical natural language processing (NLP), specifically for drug-drug interaction (DDI) and drug-enzyme interaction (DEI) extraction.
 
